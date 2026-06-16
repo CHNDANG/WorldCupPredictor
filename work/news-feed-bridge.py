@@ -303,7 +303,10 @@ def write_feed(payload: dict[str, Any]) -> None:
     temp = OUT.with_suffix(".json.tmp")
     temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     temp.replace(OUT)
-    learning_store.write_news(payload)
+    try:
+        learning_store.write_news(payload)
+    except Exception as error:
+        log_line(f"LEARNING_STORE_WARN {type(error).__name__}: {error}")
 
 
 def main() -> None:

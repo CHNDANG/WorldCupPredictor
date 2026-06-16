@@ -6,6 +6,7 @@ __pycache__/
 
 data/*.sqlite3-wal
 data/*.sqlite3-shm
+data/*.corrupt-*
 
 work/video_audio/
 work/video_frames/

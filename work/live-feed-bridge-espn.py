@@ -57,6 +57,32 @@ TEAM_ALIAS = {
 SCOREBOARD_DATES = ["20260616", "20260617", "20260618"]
 
 
+def normalize_team_name(value: Any) -> str:
+    return re.sub(r"[^a-z0-9]+", " ", str(value or "").lower()).strip()
+
+
+def event_team_names(event: dict[str, Any]) -> tuple[str, str]:
+    competition = (event.get("competitions") or [{}])[0]
+    home = competitor(competition, "home").get("team", {}).get("displayName", "")
+    away = competitor(competition, "away").get("team", {}).get("displayName", "")
+    return normalize_team_name(home), normalize_team_name(away)
+
+
+def resolve_local_id(event: dict[str, Any]) -> str | None:
+    event_id = str(event.get("id", ""))
+    if event_id in EVENT_MAP:
+        return EVENT_MAP[event_id]
+    home_name, away_name = event_team_names(event)
+    if not home_name or not away_name:
+        return None
+    event_sides = {home_name, away_name}
+    for local_id, aliases in TEAM_ALIAS.items():
+        wanted = {normalize_team_name(name) for name in aliases}
+        if wanted == event_sides:
+            return local_id
+    return None
+
+
 def clamp(value: float, low: float, high: float) -> float:
     return max(low, min(high, value))
 
@@ -422,7 +448,7 @@ def event_stream(summary: dict[str, Any]) -> list[dict[str, Any]]:
 
 def build_state(event: dict[str, Any], external_odds_events: list[dict[str, Any]] | None = None) -> dict[str, Any] | None:
     event_id = str(event.get("id", ""))
-    local_id = EVENT_MAP.get(event_id)
+    local_id = resolve_local_id(event)
     if not local_id:
         return None
 
@@ -563,7 +589,10 @@ def write_feed(payload: dict[str, Any]) -> None:
     temp = OUT.with_suffix(".json.tmp")
     temp.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
     temp.replace(OUT)
-    learning_store.write_feed(payload)
+    try:
+        learning_store.write_feed(payload)
+    except Exception as error:
+        log_line(f"LEARNING_STORE_WARN {type(error).__name__}: {error}")
 
 
 def log_line(message: str) -> None:

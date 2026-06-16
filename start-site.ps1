@@ -41,6 +41,18 @@ function Start-IfMissing {
   Write-Host "$Name started"
 }
 
+function Stop-DuplicatePythonProcesses {
+  param([string]$Pattern)
+  $running = @(Get-CimInstance Win32_Process | Where-Object {
+    $_.Name -eq "python.exe" -and $_.CommandLine -like "*$Pattern*"
+  } | Sort-Object ProcessId)
+  if ($running.Count -le 1) { return }
+  $running | Select-Object -Skip 1 | ForEach-Object {
+    Write-Host "stop duplicate $Pattern pid=$($_.ProcessId)"
+    Stop-Process -Id $_.ProcessId -Force
+  }
+}
+
 $listener = Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue | Select-Object -First 1
 if ($listener) {
   Write-Host "site already listening: $($listener.OwningProcess)"
@@ -71,5 +83,7 @@ Start-IfMissing `
   -Stderr "$Root\work\news-feed-bridge.stderr.log"
 
 Start-Sleep -Seconds 1
+Stop-DuplicatePythonProcesses -Pattern "live-feed-bridge-espn.py"
+Stop-DuplicatePythonProcesses -Pattern "news-feed-bridge.py"
 Invoke-WebRequest -UseBasicParsing "http://127.0.0.1:$Port/worldcup-predictions.html" -TimeoutSec 5 | Out-Null
 Write-Host "ready: http://127.0.0.1:$Port/worldcup-predictions.html"
