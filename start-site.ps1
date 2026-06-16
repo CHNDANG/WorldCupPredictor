@@ -8,9 +8,8 @@ $Python = "C:\Program Files\Python312\python.exe"
 
 function Test-ProcessCommand {
   param([string]$Pattern)
-  $escaped = $Pattern.Replace("[", "``[").Replace("]", "``]")
   @(Get-CimInstance Win32_Process | Where-Object {
-    $_.Name -eq "python.exe" -and $_.CommandLine -like "*$escaped*"
+    $_.Name -eq "python.exe" -and $_.CommandLine -like "*$Pattern*"
   })
 }
 
@@ -42,13 +41,18 @@ function Start-IfMissing {
   Write-Host "$Name started"
 }
 
-Start-IfMissing `
-  -Name "site" `
-  -Pattern "http.server $Port" `
-  -Arguments "-m http.server $Port --bind 127.0.0.1" `
-  -WorkingDirectory "$Root\outputs" `
-  -Stdout "" `
-  -Stderr ""
+$listener = Get-NetTCPConnection -LocalPort $Port -State Listen -ErrorAction SilentlyContinue | Select-Object -First 1
+if ($listener) {
+  Write-Host "site already listening: $($listener.OwningProcess)"
+} else {
+  Start-IfMissing `
+    -Name "site" `
+    -Pattern "http.server $Port" `
+    -Arguments "-m http.server $Port --bind 127.0.0.1" `
+    -WorkingDirectory "$Root\outputs" `
+    -Stdout "" `
+    -Stderr ""
+}
 
 Start-IfMissing `
   -Name "live feed" `
