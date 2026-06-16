@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-16T14:07:21.047652+00:00",
+  "updatedAt": "2026-06-16T14:08:41.247883+00:00",
   "provider": "ESPN public scoreboard + summary（当前源无比赛，保留上一份有效数据）",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "sourceStatus": "empty-scoreboard-retained-last-valid",
