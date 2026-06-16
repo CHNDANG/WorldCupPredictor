@@ -2083,6 +2083,7 @@
     let lastLiveState = null;
     let lastLiveResult = null;
     let lastFeedSignature = "";
+    let userSelectedLiveMatch = false;
     let liveFeedTimer = null;
     let newsFeedTimer = null;
     let learningTimer = null;
@@ -2141,7 +2142,17 @@
         "Saudi Arabia": "沙特",
         Uruguay: "乌拉圭",
         Iran: "伊朗",
-        "New Zealand": "新西兰"
+        "New Zealand": "新西兰",
+        France: "法国",
+        Senegal: "塞内加尔",
+        Iraq: "伊拉克",
+        Norway: "挪威",
+        Argentina: "阿根廷",
+        Algeria: "阿尔及利亚",
+        Austria: "奥地利",
+        Jordan: "约旦",
+        Portugal: "葡萄牙",
+        "Congo DR": "民主刚果"
       };
       return names[name] || name || "";
     }
@@ -2704,15 +2715,24 @@
     }
 
     function firstActiveMatchIndex() {
+      const liveIndex = matches.findIndex(match => liveStateFor(match)?.status === "live");
+      if (liveIndex >= 0) return liveIndex;
       const index = matches.findIndex(match => !isCompleted(match));
       return index >= 0 ? index : 0;
     }
 
-    function renderLiveMatchOptions(preferredIndex = Number(liveMatch.value)) {
-      const selectedIndex = Number.isFinite(preferredIndex) ? preferredIndex : firstActiveMatchIndex();
+    function renderLiveMatchOptions(preferredIndex = Number(liveMatch.value), allowAutoSwitch = false) {
+      const autoIndex = firstActiveMatchIndex();
+      const selectedIndex = allowAutoSwitch && !userSelectedLiveMatch
+        ? autoIndex
+        : (Number.isFinite(preferredIndex) ? preferredIndex : autoIndex);
       const ordered = matches
         .map((match, index) => ({ match, index }))
-        .sort((a, b) => Number(isCompleted(a.match)) - Number(isCompleted(b.match)) || a.index - b.index);
+        .sort((a, b) => {
+          const liveDelta = Number(liveStateFor(b.match)?.status === "live") - Number(liveStateFor(a.match)?.status === "live");
+          if (liveDelta) return liveDelta;
+          return Number(isCompleted(a.match)) - Number(isCompleted(b.match)) || a.index - b.index;
+        });
       liveMatch.innerHTML = ordered.map(({ match, index }) => `
         <option value="${index}">${statusLabel(match)} · ${displayMatchTime(match)} · ${match.teamA} vs ${match.teamB}</option>
       `).join("");
@@ -2760,7 +2780,7 @@
           ...matchStates,
           ...(feed.matches || []).map(item => [item.id, item])
         ]);
-        renderLiveMatchOptions(Number(liveMatch.value));
+        renderLiveMatchOptions(Number(liveMatch.value), true);
         renderPredictionSurfaces();
         const match = matches[Number(liveMatch.value) || 0];
         const state = (feed.matches || []).find(item => item.id === match.id);
@@ -2814,6 +2834,7 @@
       [liveMatch, minuteInput, homeGoalsInput, awayGoalsInput, homeXgInput, awayXgInput, tempoInput, homeRedInput, awayRedInput, marketMoveInput]
         .forEach(control => control.addEventListener("change", renderLiveModel));
       liveMatch.addEventListener("change", () => {
+        userSelectedLiveMatch = true;
         lastFeedSignature = "";
         pollLiveFeed();
       });

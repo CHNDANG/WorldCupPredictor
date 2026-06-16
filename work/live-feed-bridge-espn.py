@@ -35,6 +35,11 @@ EVENT_MAP = {
     "760426": "bel-egy",
     "760429": "ksa-uru",
     "760427": "irn-nzl",
+    "760432": "fra-sen",
+    "760430": "irq-nor",
+    "760433": "arg-alg",
+    "760431": "aut-jor",
+    "760435": "por-cod",
 }
 
 TEAM_ALIAS = {
@@ -42,7 +47,14 @@ TEAM_ALIAS = {
     "bel-egy": ("belgium", "egypt"),
     "ksa-uru": ("saudi arabia", "uruguay"),
     "irn-nzl": ("iran", "new zealand"),
+    "fra-sen": ("france", "senegal"),
+    "irq-nor": ("iraq", "norway"),
+    "arg-alg": ("argentina", "algeria"),
+    "aut-jor": ("austria", "jordan"),
+    "por-cod": ("portugal", "congo dr"),
 }
+
+SCOREBOARD_DATES = ["20260616", "20260617", "20260618"]
 
 
 def clamp(value: float, low: float, high: float) -> float:
@@ -510,13 +522,26 @@ def attach_history(payload: dict[str, Any], previous: dict[str, Any]) -> dict[st
 
 
 def fetch_feed() -> dict[str, Any]:
-    scoreboard = fetch_json(SCOREBOARD_URL)
+    scoreboards = []
+    for date in SCOREBOARD_DATES:
+        try:
+            scoreboards.append(fetch_json(f"{SCOREBOARD_URL}?dates={date}"))
+        except Exception as error:
+            log_line(f"SCOREBOARD_WARN {date} {type(error).__name__}: {error}")
+    if not scoreboards:
+        scoreboards = [fetch_json(SCOREBOARD_URL)]
     external_odds_events = odds_api_events()
     matches = []
-    for event in scoreboard.get("events", []):
-        state = build_state(event, external_odds_events)
-        if state:
-            matches.append(state)
+    seen: set[str] = set()
+    for scoreboard in scoreboards:
+        for event in scoreboard.get("events", []):
+            event_id = str(event.get("id", ""))
+            if event_id in seen:
+                continue
+            seen.add(event_id)
+            state = build_state(event, external_odds_events)
+            if state:
+                matches.append(state)
     payload = {
         "updatedAt": datetime.now(timezone.utc).isoformat(),
         "provider": "ESPN public scoreboard + summary",
