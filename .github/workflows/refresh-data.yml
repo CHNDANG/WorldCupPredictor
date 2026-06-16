@@ -1,0 +1,33 @@
+name: Refresh World Cup Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Refresh data
+        env:
+          ODDS_API_KEY: ${{ secrets.ODDS_API_KEY }}
+          ENABLE_ONLINE_TRANSLATE: "1"
+        run: python work/refresh-once.py
+      - name: Commit updated data
+        run: |
+          git config user.name "worldcup-data-bot"
+          git config user.email "worldcup-data-bot@users.noreply.github.com"
+          git add outputs/live-feed.json outputs/news-feed.json outputs/learning-summary.json data/football_learning.sqlite3 || true
+          git diff --cached --quiet || git commit -m "Refresh world cup data"
+          git push

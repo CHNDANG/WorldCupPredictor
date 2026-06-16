@@ -1,0 +1,34 @@
+{
+  "version": 1,
+  "updatedAt": "2026-06-16T00:00:00+08:00",
+  "global": {
+    "priorWeight": 0.36,
+    "liveStatsWeight": 0.34,
+    "marketWeight": 0.3,
+    "xgProxyTrust": 0.72,
+    "marketMoveScale": 0.85,
+    "lateGameConservatism": 0.18,
+    "favoriteNoGoalPenalty": 0.2
+  },
+  "rules": [
+    {
+      "name": "heavyFavoriteNoEarlyGoal",
+      "description": "Deep favorite still scoreless after 25 minutes: reduce blowout tail and increase under scenarios.",
+      "minuteFrom": 25,
+      "favoriteLambdaMin": 2.6,
+      "scoreEquals": "0-0",
+      "lambdaMultiplier": 0.86
+    },
+    {
+      "name": "marketTotalDrop",
+      "description": "Live total falling below pre-match expectation: let market signal cap remaining goal volume.",
+      "marketWeightBoost": 0.12
+    },
+    {
+      "name": "redCardShock",
+      "description": "Red cards override normal pace estimates and increase uncertainty.",
+      "uncertaintyBoost": 0.18
+    }
+  ],
+  "learningLog": []
+}

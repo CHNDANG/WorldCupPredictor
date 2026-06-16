@@ -1,0 +1,16 @@
+{
+  "database": "D:\\WorldCupPredictor\\data\\football_learning.sqlite3",
+  "matches": 9,
+  "liveSnapshots": 1572,
+  "bookmakerOdds": 1614,
+  "predictions": 9,
+  "newsArticles": 43,
+  "updatedAt": "2026-06-16T13:57:31.480957+00:00",
+  "storage": "D盘持久化数据库",
+  "nextUse": [
+    "用历史快照学习强队久攻不进时的总进球降温幅度",
+    "用博彩公司盘口变化校准市场权重",
+    "用赛后比分复盘修正球队 λ 和比分区间",
+    "长期积累球队、球员、教练、新闻情绪与赛中事件特征"
+  ]
+}

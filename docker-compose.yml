@@ -1,0 +1,15 @@
+services:
+  worldcup-predictor:
+    build: .
+    container_name: worldcup-predictor
+    restart: unless-stopped
+    ports:
+      - "4173:4173"
+    environment:
+      TZ: Asia/Shanghai
+      ENABLE_ONLINE_TRANSLATE: "1"
+      # ODDS_API_KEY: "put-your-key-here"
+    volumes:
+      - ./outputs:/app/outputs
+      - ./data:/app/data
+      - ./work:/app/work

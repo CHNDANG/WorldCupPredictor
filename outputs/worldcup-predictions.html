@@ -1,0 +1,2858 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>世界杯盘口校准雷达</title>
+  <style>
+    :root {
+      --bg: #070a10;
+      --ink: #f7fbff;
+      --muted: #9ba9b8;
+      --panel: rgba(12, 17, 28, 0.72);
+      --panel-strong: rgba(17, 24, 38, 0.9);
+      --line: rgba(255, 255, 255, 0.14);
+      --cyan: #35d4ff;
+      --coral: #ff5f74;
+      --lime: #b8ff4f;
+      --gold: #ffd166;
+      --violet: #9f7aff;
+      --green: #29e39c;
+      --shadow: 0 28px 90px rgba(0, 0, 0, 0.45);
+    }
+
+    * { box-sizing: border-box; }
+
+    html {
+      scroll-behavior: smooth;
+      background: var(--bg);
+    }
+
+    body {
+      margin: 0;
+      min-height: 100vh;
+      color: var(--ink);
+      font-family: Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", "Microsoft YaHei", sans-serif;
+      letter-spacing: 0;
+      background:
+        radial-gradient(circle at 12% 16%, rgba(53, 212, 255, 0.16), transparent 25rem),
+        radial-gradient(circle at 83% 4%, rgba(255, 95, 116, 0.14), transparent 28rem),
+        linear-gradient(180deg, #05070c 0%, #0a0e16 46%, #090b10 100%);
+      overflow-x: hidden;
+    }
+
+    body::before {
+      content: "";
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: -2;
+      opacity: 0.22;
+      background-image:
+        linear-gradient(rgba(255,255,255,0.05) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.05) 1px, transparent 1px);
+      background-size: 62px 62px;
+      mask-image: linear-gradient(to bottom, black, transparent 82%);
+    }
+
+    a { color: inherit; }
+
+    .hero {
+      min-height: 92vh;
+      position: relative;
+      display: grid;
+      align-items: end;
+      isolation: isolate;
+      padding: 28px clamp(18px, 4vw, 64px) 42px;
+      background-image:
+        linear-gradient(90deg, rgba(3, 5, 9, 0.95) 0%, rgba(3, 5, 9, 0.76) 31%, rgba(3, 5, 9, 0.36) 61%, rgba(3, 5, 9, 0.72) 100%),
+        linear-gradient(180deg, rgba(7, 10, 16, 0.12) 0%, rgba(7, 10, 16, 0.1) 42%, #070a10 100%),
+        url("./assets/worldcup-hero.png");
+      background-size: cover;
+      background-position: center;
+    }
+
+    .hero::after {
+      content: "";
+      position: absolute;
+      inset: auto 0 0;
+      height: 34vh;
+      z-index: -1;
+      background: linear-gradient(180deg, transparent, var(--bg));
+    }
+
+    .nav {
+      position: absolute;
+      top: 0;
+      left: 0;
+      right: 0;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 18px;
+      padding: 18px clamp(18px, 4vw, 64px);
+      color: rgba(247, 251, 255, 0.9);
+    }
+
+    .brand {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      font-weight: 800;
+      text-transform: uppercase;
+      font-size: 13px;
+      letter-spacing: 0.08em;
+    }
+
+    .mark {
+      width: 34px;
+      height: 34px;
+      border-radius: 8px;
+      display: grid;
+      place-items: center;
+      color: #091016;
+      background: linear-gradient(135deg, var(--lime), var(--cyan));
+      box-shadow: 0 0 30px rgba(53, 212, 255, 0.32);
+    }
+
+    .nav-links {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      justify-content: flex-end;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      font-size: 13px;
+      color: rgba(247, 251, 255, 0.78);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 999px;
+      padding: 9px 12px;
+      background: rgba(0, 0, 0, 0.18);
+      backdrop-filter: blur(18px);
+    }
+
+    .hero-grid {
+      width: min(1320px, 100%);
+      display: grid;
+      grid-template-columns: minmax(0, 1.05fr) minmax(350px, 0.72fr);
+      gap: clamp(24px, 4vw, 56px);
+      align-items: end;
+      margin: 0 auto;
+      padding-top: 120px;
+    }
+
+    .eyebrow {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      padding: 9px 13px;
+      border-radius: 999px;
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      color: rgba(247, 251, 255, 0.82);
+      background: rgba(3, 6, 12, 0.42);
+      backdrop-filter: blur(20px);
+      font-size: 13px;
+    }
+
+    .pulse {
+      width: 8px;
+      height: 8px;
+      border-radius: 99px;
+      background: var(--lime);
+      box-shadow: 0 0 0 0 rgba(184, 255, 79, 0.7);
+      animation: pulse 1.8s infinite;
+    }
+
+    @keyframes pulse {
+      70% { box-shadow: 0 0 0 12px rgba(184, 255, 79, 0); }
+      100% { box-shadow: 0 0 0 0 rgba(184, 255, 79, 0); }
+    }
+
+    h1 {
+      max-width: 900px;
+      margin: 22px 0 18px;
+      font-size: clamp(48px, 8.8vw, 118px);
+      line-height: 0.9;
+      letter-spacing: 0;
+      text-wrap: balance;
+    }
+
+    .lead {
+      max-width: 690px;
+      margin: 0;
+      color: rgba(247, 251, 255, 0.76);
+      font-size: clamp(16px, 1.8vw, 21px);
+      line-height: 1.75;
+    }
+
+    .hero-actions {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 12px;
+      margin-top: 28px;
+    }
+
+    .button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: 9px;
+      min-height: 46px;
+      padding: 0 18px;
+      border: 0;
+      border-radius: 8px;
+      color: #071019;
+      background: linear-gradient(135deg, var(--lime), var(--cyan));
+      font-weight: 850;
+      text-decoration: none;
+      box-shadow: 0 18px 48px rgba(53, 212, 255, 0.24);
+      cursor: pointer;
+    }
+
+    .button.secondary {
+      color: var(--ink);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      box-shadow: none;
+      backdrop-filter: blur(18px);
+    }
+
+    .ticker {
+      margin-top: 32px;
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+      max-width: 800px;
+    }
+
+    .ticker-item {
+      position: relative;
+      overflow: hidden;
+      border: 1px solid rgba(255, 255, 255, 0.14);
+      background: rgba(6, 10, 18, 0.62);
+      backdrop-filter: blur(20px);
+      border-radius: 8px;
+      padding: 14px;
+    }
+
+    .ticker-item b {
+      display: block;
+      font-size: 25px;
+      margin-top: 4px;
+    }
+
+    .ticker-item span {
+      color: var(--muted);
+      font-size: 12px;
+      text-transform: uppercase;
+    }
+
+    .spotlight {
+      border: 1px solid rgba(255, 255, 255, 0.16);
+      background: rgba(7, 10, 16, 0.68);
+      backdrop-filter: blur(26px);
+      box-shadow: var(--shadow);
+      border-radius: 16px;
+      padding: 18px;
+    }
+
+    .spotlight-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 22px;
+    }
+
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      min-height: 28px;
+      border-radius: 999px;
+      padding: 0 10px;
+      color: rgba(247, 251, 255, 0.8);
+      background: rgba(255, 255, 255, 0.1);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .tag.hot { color: #071019; background: var(--lime); border-color: transparent; font-weight: 800; }
+    .tag.warn { color: #23130a; background: var(--gold); border-color: transparent; font-weight: 800; }
+    .tag.upset { color: #fff; background: rgba(255, 95, 116, 0.9); border-color: transparent; font-weight: 800; }
+    .tag.market { color: #071019; background: var(--cyan); border-color: transparent; font-weight: 800; }
+
+    .matchup {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 12px;
+      align-items: center;
+      margin: 18px 0;
+    }
+
+    .team {
+      min-width: 0;
+    }
+
+    .team.right {
+      text-align: right;
+    }
+
+    .flag {
+      display: inline-grid;
+      place-items: center;
+      width: 46px;
+      height: 46px;
+      border-radius: 12px;
+      margin-bottom: 10px;
+      font-size: 25px;
+      background: rgba(255, 255, 255, 0.12);
+      border: 1px solid rgba(255, 255, 255, 0.14);
+    }
+
+    .team-name {
+      display: block;
+      font-size: clamp(18px, 2vw, 28px);
+      font-weight: 850;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .score {
+      display: grid;
+      place-items: center;
+      min-width: 112px;
+      height: 92px;
+      border-radius: 14px;
+      color: #061017;
+      background: linear-gradient(135deg, var(--lime), var(--cyan));
+      font-size: 44px;
+      font-weight: 950;
+      letter-spacing: 0;
+      box-shadow: 0 20px 54px rgba(53, 212, 255, 0.27);
+    }
+
+    .score-stack {
+      display: grid;
+      gap: 8px;
+      justify-items: center;
+    }
+
+    .alt-score {
+      color: rgba(247, 251, 255, 0.78);
+      font-size: 12px;
+      text-align: center;
+    }
+
+    .spotlight-copy {
+      color: rgba(247, 251, 255, 0.75);
+      line-height: 1.7;
+      margin: 18px 0 0;
+    }
+
+    .confidence {
+      margin-top: 20px;
+      display: grid;
+      gap: 8px;
+    }
+
+    .bar {
+      height: 10px;
+      border-radius: 99px;
+      overflow: hidden;
+      background: rgba(255, 255, 255, 0.11);
+    }
+
+    .bar > i {
+      display: block;
+      height: 100%;
+      width: var(--w);
+      background: linear-gradient(90deg, var(--coral), var(--gold), var(--lime), var(--cyan));
+      border-radius: inherit;
+    }
+
+    .wrap {
+      width: min(1320px, calc(100% - 36px));
+      margin: 0 auto;
+    }
+
+    section {
+      padding: clamp(48px, 8vw, 92px) 0;
+    }
+
+    .section-head {
+      display: flex;
+      justify-content: space-between;
+      align-items: end;
+      gap: 24px;
+      margin-bottom: 24px;
+    }
+
+    h2 {
+      margin: 0;
+      font-size: clamp(30px, 4vw, 56px);
+      letter-spacing: 0;
+      line-height: 1;
+    }
+
+    .section-head p {
+      max-width: 520px;
+      margin: 0;
+      color: var(--muted);
+      line-height: 1.65;
+    }
+
+    .filters {
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      margin-bottom: 22px;
+    }
+
+    .view-filters {
+      margin-bottom: 10px;
+    }
+
+    .filter {
+      appearance: none;
+      border: 1px solid rgba(255, 255, 255, 0.13);
+      color: rgba(247, 251, 255, 0.82);
+      background: rgba(255, 255, 255, 0.07);
+      border-radius: 999px;
+      min-height: 40px;
+      padding: 0 15px;
+      cursor: pointer;
+      font-weight: 750;
+    }
+
+    .filter.active {
+      color: #071019;
+      background: var(--ink);
+      border-color: transparent;
+    }
+
+    .filter.counted::after {
+      content: attr(data-count);
+      display: inline-grid;
+      place-items: center;
+      min-width: 24px;
+      height: 22px;
+      margin-left: 8px;
+      border-radius: 999px;
+      color: #071019;
+      background: rgba(247, 251, 255, 0.9);
+      font-size: 11px;
+      font-weight: 900;
+    }
+
+    .filter.counted.active::after {
+      background: #071019;
+      color: var(--ink);
+    }
+
+    .cards {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 16px;
+    }
+
+    .empty-state {
+      grid-column: 1 / -1;
+      padding: 24px;
+      border-radius: 14px;
+      color: rgba(247, 251, 255, 0.74);
+      background: rgba(255,255,255,0.055);
+      border: 1px dashed rgba(255,255,255,0.18);
+      line-height: 1.65;
+    }
+
+    .card {
+      position: relative;
+      min-height: 292px;
+      overflow: hidden;
+      border-radius: 14px;
+      padding: 18px;
+      background:
+        linear-gradient(135deg, rgba(255,255,255,0.11), rgba(255,255,255,0.035)),
+        var(--panel);
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      box-shadow: 0 18px 46px rgba(0, 0, 0, 0.23);
+      transition: transform 180ms ease, border-color 180ms ease, background 180ms ease;
+    }
+
+    .card:hover {
+      transform: translateY(-5px);
+      border-color: rgba(53, 212, 255, 0.45);
+      background:
+        linear-gradient(135deg, rgba(53,212,255,0.14), rgba(255,95,116,0.07)),
+        var(--panel-strong);
+    }
+
+    .card::before {
+      content: "";
+      position: absolute;
+      inset: 0 0 auto;
+      height: 3px;
+      background: linear-gradient(90deg, var(--cyan), var(--lime), var(--coral));
+      opacity: 0.78;
+    }
+
+    .card-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: start;
+      margin-bottom: 18px;
+    }
+
+    .time {
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .mini-match {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      align-items: center;
+      gap: 10px;
+    }
+
+    .mini-team {
+      min-width: 0;
+    }
+
+    .mini-team.right {
+      text-align: right;
+    }
+
+    .mini-flag {
+      display: inline-grid;
+      place-items: center;
+      width: 38px;
+      height: 38px;
+      border-radius: 10px;
+      margin-bottom: 8px;
+      background: rgba(255,255,255,0.1);
+      border: 1px solid rgba(255,255,255,0.11);
+      font-size: 22px;
+    }
+
+    .mini-team strong {
+      display: block;
+      font-size: 17px;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .mini-score {
+      display: grid;
+      place-items: center;
+      width: 78px;
+      height: 58px;
+      border-radius: 12px;
+      color: #071019;
+      background: var(--ink);
+      font-size: 28px;
+      font-weight: 950;
+    }
+
+    .mini-score-wrap {
+      display: grid;
+      justify-items: center;
+      gap: 6px;
+    }
+
+    .mini-alt {
+      color: var(--muted);
+      font-size: 12px;
+      text-align: center;
+      line-height: 1.35;
+    }
+
+    .meta-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      margin: 18px 0 12px;
+    }
+
+    .reason {
+      color: rgba(247, 251, 255, 0.72);
+      line-height: 1.6;
+      font-size: 14px;
+      margin: 0;
+    }
+
+    .card-action {
+      appearance: none;
+      width: 100%;
+      min-height: 40px;
+      margin-top: 14px;
+      border-radius: 10px;
+      border: 1px solid rgba(255,255,255,0.14);
+      color: #071019;
+      background: linear-gradient(135deg, var(--cyan), var(--lime));
+      font-weight: 900;
+      cursor: pointer;
+    }
+
+    .card-action:hover {
+      filter: brightness(1.06);
+    }
+
+    .market-strip {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+      margin: 14px 0;
+    }
+
+    .market-cell {
+      min-height: 58px;
+      padding: 10px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.09);
+    }
+
+    .market-cell span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 4px;
+    }
+
+    .market-cell b {
+      display: block;
+      font-size: 13px;
+      line-height: 1.25;
+    }
+
+    .prob {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      align-items: center;
+      gap: 10px;
+      margin-top: 16px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .prob-track {
+      height: 7px;
+      border-radius: 99px;
+      background: rgba(255,255,255,0.1);
+      overflow: hidden;
+    }
+
+    .prob-track i {
+      display: block;
+      height: 100%;
+      width: var(--w);
+      border-radius: 99px;
+      background: linear-gradient(90deg, var(--coral), var(--gold), var(--green));
+    }
+
+    .insights {
+      display: grid;
+      grid-template-columns: 0.9fr 1.1fr;
+      gap: 16px;
+      align-items: stretch;
+    }
+
+    .panel {
+      border: 1px solid rgba(255, 255, 255, 0.12);
+      border-radius: 14px;
+      padding: clamp(18px, 3vw, 28px);
+      background: var(--panel);
+      box-shadow: var(--shadow);
+    }
+
+    .panel h3 {
+      margin: 0 0 18px;
+      font-size: 24px;
+    }
+
+    .rank-list {
+      display: grid;
+      gap: 12px;
+    }
+
+    .rank {
+      display: grid;
+      grid-template-columns: auto 1fr auto;
+      gap: 12px;
+      align-items: center;
+      padding: 12px;
+      border-radius: 10px;
+      background: rgba(255,255,255,0.06);
+    }
+
+    .rank-no {
+      width: 30px;
+      height: 30px;
+      display: grid;
+      place-items: center;
+      border-radius: 8px;
+      color: #071019;
+      background: var(--gold);
+      font-weight: 900;
+    }
+
+    .rank b { display: block; }
+    .rank span { color: var(--muted); font-size: 13px; }
+
+    .model-grid {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .source-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .source-card {
+      display: block;
+      text-decoration: none;
+      padding: 13px;
+      border-radius: 10px;
+      color: rgba(247, 251, 255, 0.86);
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      font-size: 13px;
+      line-height: 1.45;
+    }
+
+    .source-card span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-top: 4px;
+    }
+
+    .live-board {
+      display: grid;
+      grid-template-columns: minmax(320px, 0.82fr) minmax(0, 1.18fr);
+      gap: 16px;
+      align-items: stretch;
+    }
+
+    .live-console {
+      border: 1px solid rgba(53, 212, 255, 0.24);
+      border-radius: 16px;
+      padding: clamp(18px, 3vw, 28px);
+      background:
+        linear-gradient(135deg, rgba(53,212,255,0.12), rgba(255,95,116,0.06)),
+        rgba(7, 10, 16, 0.78);
+      box-shadow: var(--shadow);
+    }
+
+    .live-top {
+      display: flex;
+      justify-content: space-between;
+      gap: 12px;
+      align-items: center;
+      margin-bottom: 18px;
+    }
+
+    .sync-strip {
+      display: grid;
+      grid-template-columns: 1fr auto;
+      gap: 10px;
+      align-items: center;
+      margin: 12px 0 18px;
+      padding: 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .sync-strip b {
+      display: block;
+      font-size: 14px;
+      margin-bottom: 3px;
+    }
+
+    .sync-strip span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.4;
+    }
+
+    .toggle {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      color: rgba(247,251,255,0.82);
+      font-size: 12px;
+      white-space: nowrap;
+    }
+
+    .toggle input {
+      width: 18px;
+      height: 18px;
+      accent-color: var(--lime);
+    }
+
+    .select-row {
+      display: grid;
+      gap: 8px;
+      margin: 14px 0;
+    }
+
+    label {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 750;
+    }
+
+    select, input[type="number"] {
+      width: 100%;
+      min-height: 44px;
+      border-radius: 8px;
+      border: 1px solid rgba(255,255,255,0.14);
+      color: var(--ink);
+      background: rgba(255,255,255,0.08);
+      padding: 0 12px;
+      font: inherit;
+      outline: none;
+    }
+
+    select {
+      color-scheme: dark;
+    }
+
+    select option {
+      color: #071019;
+      background: #f7fbff;
+    }
+
+    select option:checked,
+    select option:hover {
+      color: #071019;
+      background: #b8ff4f;
+    }
+
+    .live-inputs {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .scoreline {
+      display: grid;
+      grid-template-columns: 1fr auto 1fr;
+      gap: 12px;
+      align-items: center;
+      margin: 20px 0;
+    }
+
+    .scoreline .side {
+      min-width: 0;
+      font-weight: 900;
+      font-size: 20px;
+    }
+
+    .scoreline .side.right { text-align: right; }
+
+    .live-score {
+      display: grid;
+      place-items: center;
+      min-width: 118px;
+      height: 72px;
+      border-radius: 14px;
+      color: #071019;
+      background: linear-gradient(135deg, var(--gold), var(--lime));
+      font-size: 38px;
+      font-weight: 950;
+    }
+
+    .lambda-grid {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 16px;
+    }
+
+    .lambda {
+      padding: 14px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.07);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .lambda span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 6px;
+    }
+
+    .lambda b {
+      font-size: 30px;
+    }
+
+    .live-output {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+      margin-bottom: 16px;
+    }
+
+    .live-pick {
+      padding: 16px;
+      border-radius: 14px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.11);
+    }
+
+    .live-pick span {
+      display: block;
+      color: var(--muted);
+      font-size: 12px;
+      margin-bottom: 8px;
+    }
+
+    .live-pick b {
+      display: block;
+      font-size: clamp(26px, 3vw, 42px);
+      line-height: 1;
+    }
+
+    .matrix {
+      display: grid;
+      gap: 8px;
+    }
+
+    .matrix-row {
+      display: grid;
+      grid-template-columns: 82px 1fr 54px;
+      gap: 10px;
+      align-items: center;
+      color: rgba(247,251,255,0.82);
+      font-size: 13px;
+    }
+
+    .matrix-bar {
+      height: 10px;
+      border-radius: 99px;
+      background: rgba(255,255,255,0.1);
+      overflow: hidden;
+    }
+
+    .matrix-bar i {
+      display: block;
+      height: 100%;
+      width: var(--w);
+      border-radius: 99px;
+      background: linear-gradient(90deg, var(--cyan), var(--lime));
+    }
+
+    .live-note {
+      color: var(--muted);
+      line-height: 1.65;
+      font-size: 13px;
+      margin: 14px 0 0;
+    }
+
+    .live-intel {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr) minmax(300px, 0.76fr) minmax(280px, 0.68fr);
+      gap: 16px;
+      margin-top: 16px;
+    }
+
+    .chart-card, .event-card, .substitution-card, .review-card, .bookmaker-card, .news-card, .learning-card {
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 14px;
+      padding: clamp(16px, 2.4vw, 24px);
+      background: rgba(12, 17, 28, 0.68);
+      box-shadow: var(--shadow);
+    }
+
+    .chart-card h3, .event-card h3, .substitution-card h3, .review-card h3, .bookmaker-card h3, .news-card h3, .learning-card h3 {
+      margin: 0 0 14px;
+      font-size: 21px;
+    }
+
+    .news-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 12px;
+    }
+
+    .learning-grid {
+      display: grid;
+      grid-template-columns: repeat(5, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .learning-metric {
+      padding: 14px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .learning-metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 8px;
+    }
+
+    .learning-metric b {
+      font-size: 25px;
+    }
+
+    .learning-list {
+      display: grid;
+      gap: 8px;
+      margin-top: 14px;
+      color: rgba(247,251,255,0.76);
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .news-item {
+      display: grid;
+      gap: 10px;
+      min-height: 188px;
+      padding: 14px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+      text-decoration: none;
+      color: rgba(247,251,255,0.9);
+    }
+
+    .news-item:hover {
+      border-color: rgba(53,212,255,0.42);
+      background: rgba(53,212,255,0.09);
+    }
+
+    .news-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 7px;
+      align-items: center;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .news-item b {
+      font-size: 16px;
+      line-height: 1.35;
+    }
+
+    .news-item p {
+      margin: 0;
+      color: rgba(247,251,255,0.68);
+      font-size: 13px;
+      line-height: 1.55;
+    }
+
+    .bookmaker-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .bookmaker-item {
+      min-height: 132px;
+      padding: 13px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .bookmaker-head {
+      display: flex;
+      justify-content: space-between;
+      gap: 8px;
+      align-items: center;
+      margin-bottom: 10px;
+    }
+
+    .bookmaker-head b {
+      font-size: 14px;
+    }
+
+    .bookmaker-odds {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .bookmaker-odds span {
+      display: block;
+      color: var(--muted);
+      font-size: 10px;
+      margin-bottom: 3px;
+      line-height: 1.35;
+    }
+
+    .bookmaker-odds strong {
+      display: block;
+      font-size: 15px;
+      margin-bottom: 3px;
+    }
+
+    .bookmaker-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px;
+      margin-top: 10px;
+      color: var(--muted);
+      font-size: 11px;
+    }
+
+    .bookmaker-item.pending {
+      opacity: 0.62;
+      border-style: dashed;
+    }
+
+    .odds-chart {
+      width: 100%;
+      height: 188px;
+      border-radius: 12px;
+      background:
+        linear-gradient(rgba(255,255,255,0.07) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(255,255,255,0.07) 1px, transparent 1px),
+        rgba(255,255,255,0.045);
+      background-size: 100% 25%, 16.66% 100%;
+    }
+
+    .chart-legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      margin-top: 12px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .legend-dot {
+      width: 9px;
+      height: 9px;
+      border-radius: 99px;
+      display: inline-block;
+      margin-right: 6px;
+    }
+
+    .stat-radar {
+      display: grid;
+      grid-template-columns: repeat(4, minmax(0, 1fr));
+      gap: 10px;
+      margin-top: 14px;
+    }
+
+    .stat-pill {
+      min-height: 74px;
+      padding: 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .stat-pill span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 7px;
+    }
+
+    .stat-pill b {
+      display: block;
+      font-size: 19px;
+      line-height: 1.15;
+    }
+
+    .event-list {
+      display: grid;
+      gap: 10px;
+      max-height: 358px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .event-item {
+      display: grid;
+      grid-template-columns: 48px 1fr;
+      gap: 10px;
+      padding: 11px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.055);
+      border: 1px solid rgba(255,255,255,0.09);
+    }
+
+    .event-minute {
+      display: grid;
+      place-items: center;
+      min-height: 38px;
+      border-radius: 10px;
+      color: #071019;
+      background: var(--cyan);
+      font-weight: 900;
+      font-size: 12px;
+    }
+
+    .event-item.goal .event-minute {
+      background: var(--lime);
+    }
+
+    .event-item.substitution .event-minute {
+      background: linear-gradient(135deg, var(--cyan), var(--coral));
+    }
+
+    .event-text b {
+      display: block;
+      font-size: 13px;
+      margin-bottom: 4px;
+    }
+
+    .event-text span {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .substitution-list {
+      display: grid;
+      gap: 10px;
+      max-height: 358px;
+      overflow: auto;
+      padding-right: 4px;
+    }
+
+    .substitution-item {
+      display: grid;
+      gap: 8px;
+      padding: 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .substitution-top {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      color: var(--muted);
+      font-size: 12px;
+    }
+
+    .substitution-item b {
+      font-size: 14px;
+      line-height: 1.35;
+    }
+
+    .substitution-item span {
+      color: var(--muted);
+      font-size: 12px;
+      line-height: 1.45;
+    }
+
+    .substitution-empty {
+      border-style: dashed;
+      opacity: 0.72;
+    }
+
+    .substitution-summary {
+      display: grid;
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+      gap: 8px;
+      margin-bottom: 12px;
+    }
+
+    .substitution-summary div {
+      padding: 10px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .substitution-summary span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 5px;
+    }
+
+    .substitution-summary b {
+      font-size: 20px;
+    }
+
+    .review-grid {
+      display: grid;
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+      gap: 10px;
+    }
+
+    .review-metric {
+      padding: 14px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .review-metric span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      margin-bottom: 8px;
+    }
+
+    .review-metric b {
+      font-size: 24px;
+    }
+
+    .review-copy {
+      margin: 14px 0 0;
+      color: rgba(247,251,255,0.76);
+      line-height: 1.65;
+      font-size: 13px;
+    }
+
+    .model {
+      min-height: 138px;
+      padding: 16px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.06);
+      border: 1px solid rgba(255,255,255,0.1);
+    }
+
+    .model b {
+      display: block;
+      font-size: 32px;
+      margin-bottom: 8px;
+    }
+
+    .model span {
+      color: var(--muted);
+      line-height: 1.55;
+      font-size: 14px;
+    }
+
+    .table-wrap {
+      overflow: auto;
+      border: 1px solid rgba(255,255,255,0.12);
+      border-radius: 14px;
+      background: rgba(255,255,255,0.045);
+    }
+
+    table {
+      width: 100%;
+      min-width: 820px;
+      border-collapse: collapse;
+    }
+
+    th, td {
+      padding: 15px 16px;
+      text-align: left;
+      border-bottom: 1px solid rgba(255,255,255,0.09);
+      white-space: nowrap;
+    }
+
+    th {
+      color: rgba(247,251,255,0.76);
+      font-size: 12px;
+      text-transform: uppercase;
+      background: rgba(255,255,255,0.06);
+    }
+
+    td { color: rgba(247,251,255,0.86); }
+    tr:last-child td { border-bottom: 0; }
+
+    .footer {
+      padding: 28px 0 44px;
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.7;
+    }
+
+    .fade-in {
+      opacity: 0;
+      transform: translateY(22px);
+      animation: rise 740ms ease forwards;
+    }
+
+    .fade-in:nth-child(2) { animation-delay: 80ms; }
+    .fade-in:nth-child(3) { animation-delay: 160ms; }
+    .fade-in:nth-child(4) { animation-delay: 240ms; }
+
+    @keyframes rise {
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 1020px) {
+      .hero { min-height: auto; }
+      .hero-grid, .insights, .live-board { grid-template-columns: 1fr; }
+      .spotlight { max-width: 680px; }
+      .cards { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+      .section-head { align-items: start; flex-direction: column; }
+    }
+
+    @media (max-width: 700px) {
+      .nav { align-items: flex-start; }
+      .nav-links a:nth-child(n+3) { display: none; }
+      .hero { padding-inline: 16px; }
+      .hero-grid { padding-top: 104px; }
+      h1 { font-size: clamp(44px, 14vw, 76px); }
+      .ticker, .cards, .model-grid, .source-grid, .live-output { grid-template-columns: 1fr; }
+      .matchup { grid-template-columns: 1fr; text-align: left; }
+      .team.right { text-align: left; }
+      .score { width: 130px; }
+      .mini-match { grid-template-columns: 1fr; }
+      .mini-team.right { text-align: left; }
+      .mini-score { width: 88px; }
+      .market-strip { grid-template-columns: 1fr; }
+      .live-inputs, .lambda-grid { grid-template-columns: 1fr; }
+      .live-intel, .stat-radar, .review-grid, .bookmaker-grid, .news-grid, .learning-grid { grid-template-columns: 1fr; }
+      .scoreline { grid-template-columns: 1fr; }
+      .scoreline .side.right { text-align: left; }
+      .wrap { width: min(100% - 28px, 1320px); }
+    }
+  </style>
+</head>
+<body>
+  <header class="hero">
+    <nav class="nav" aria-label="页面导航">
+      <div class="brand"><span class="mark">⚽</span> 盘口雷达</div>
+      <div class="nav-links">
+        <a href="#predictions">预测卡片</a>
+        <a href="#live">赛中动态</a>
+        <a href="#insights">模型判断</a>
+        <a href="#schedule">完整表</a>
+      </div>
+    </nav>
+
+    <div class="hero-grid">
+      <div>
+        <div class="eyebrow"><span class="pulse"></span> 北京时间 2026-06-15 盘口校准版 · 市场情绪已纳入</div>
+        <h1>世界杯盘口校准雷达</h1>
+        <p class="lead">昨晚的错单已经校正：现在每场不只给一个比分，而是结合外围盘口、博彩赔率、模型概率、总进球线和市场情绪，给出主推比分、次选剧本和走偏条件。</p>
+        <div class="hero-actions">
+          <a class="button" href="#predictions">查看全部预测</a>
+          <a class="button secondary" href="#live">打开赛中模型</a>
+        </div>
+        <div class="ticker" aria-label="预测概览">
+          <div class="ticker-item"><span>覆盖比赛</span><b id="matchCount">9</b></div>
+          <div class="ticker-item"><span>盘口锚点</span><b>让球/大小</b></div>
+          <div class="ticker-item"><span>情绪警报</span><b>乌拉圭延误</b></div>
+        </div>
+      </div>
+
+      <aside class="spotlight fade-in" aria-label="焦点预测">
+        <div class="spotlight-top">
+          <span class="tag market">盘口主推</span>
+          <span class="tag">6月16日 00:00</span>
+        </div>
+        <div class="matchup">
+          <div class="team">
+            <span class="flag">🇪🇸</span>
+            <span class="team-name">西班牙</span>
+          </div>
+          <div class="score-stack">
+            <div class="score">4-1</div>
+            <div class="alt-score">次选 3-0 / 3-1</div>
+          </div>
+          <div class="team right">
+            <span class="flag">🇨🇻</span>
+            <span class="team-name">佛得角</span>
+          </div>
+        </div>
+        <p class="spotlight-copy">市场给到西班牙约 90% 胜率、让 2.5 球和总进球 3.5 附近，说明不是普通小胜预期。昨晚德国 7-1 也提醒：强弱盘不能机械压低比分。</p>
+        <div class="confidence">
+          <div class="prob"><span>市场校准</span><div class="bar"><i style="--w: 91%"></i></div><strong>91%</strong></div>
+          <div class="prob"><span>大胜倾向</span><div class="bar"><i style="--w: 74%"></i></div><strong>74%</strong></div>
+        </div>
+      </aside>
+    </div>
+  </header>
+
+  <main>
+    <section id="predictions">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>接下来赛程预测</h2>
+          </div>
+          <p id="predictionViewNote">默认隐藏已完成比赛，只保留未开赛和进行中的预测；点击“已完成复盘”可以回看赛前预测、赛中动态和最终比分偏差。</p>
+        </div>
+        <div class="filters view-filters" role="tablist" aria-label="比赛状态筛选">
+          <button class="filter view-filter active counted" data-view="active" data-count="0">未完成/进行中</button>
+          <button class="filter view-filter counted" data-view="completed" data-count="0">已完成复盘</button>
+        </div>
+        <div class="filters" role="tablist" aria-label="预测筛选">
+          <button class="filter active" data-filter="all">全部</button>
+          <button class="filter" data-filter="safe">热门强势</button>
+          <button class="filter" data-filter="tight">小比分</button>
+          <button class="filter" data-filter="upset">情绪风险</button>
+        </div>
+        <div class="cards" id="cards"></div>
+      </div>
+    </section>
+
+    <section id="live">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>赛中动态预测</h2>
+          </div>
+          <p>引入视频里的泊松分布 + 贝叶斯更新：赛前 λ 是先验，进球/xG/红牌/盘口变化是新证据；模型会把 λ 推向后验，再计算终场比分分布。</p>
+        </div>
+        <div class="live-board">
+          <div class="live-console">
+            <div class="live-top">
+              <span class="tag market">自动赛中引擎</span>
+              <span class="tag" id="liveStatus">赛前模式</span>
+            </div>
+            <div class="sync-strip">
+              <div>
+                <b id="syncTitle">等待实时数据源</b>
+              <span id="syncDetail">自动轮询 ./live-feed.json；ESPN 桥接脚本写入后，比分/分钟/红牌/盘口会马上驱动预测更新。</span>
+              </div>
+              <label class="toggle">
+                <input id="autoSyncInput" type="checkbox" checked />
+                自动同步
+              </label>
+            </div>
+            <div class="select-row">
+              <label for="liveMatch">选择比赛</label>
+              <select id="liveMatch"></select>
+            </div>
+            <div class="live-inputs">
+              <div class="select-row">
+                <label for="minuteInput">比赛分钟</label>
+                <input id="minuteInput" type="number" min="0" max="120" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="homeGoalsInput">主队进球</label>
+                <input id="homeGoalsInput" type="number" min="0" max="12" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="awayGoalsInput">客队进球</label>
+                <input id="awayGoalsInput" type="number" min="0" max="12" value="0" />
+              </div>
+            </div>
+            <div class="live-inputs">
+              <div class="select-row">
+                <label for="homeXgInput">主队实时 xG</label>
+                <input id="homeXgInput" type="number" min="0" max="8" step="0.1" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="awayXgInput">客队实时 xG</label>
+                <input id="awayXgInput" type="number" min="0" max="8" step="0.1" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="tempoInput">节奏修正</label>
+                <input id="tempoInput" type="number" min="-30" max="40" step="5" value="0" />
+              </div>
+            </div>
+            <div class="live-inputs">
+              <div class="select-row">
+                <label for="homeRedInput">主队红牌</label>
+                <input id="homeRedInput" type="number" min="0" max="3" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="awayRedInput">客队红牌</label>
+                <input id="awayRedInput" type="number" min="0" max="3" value="0" />
+              </div>
+              <div class="select-row">
+                <label for="marketMoveInput">盘口/赔率修正</label>
+                <input id="marketMoveInput" type="number" min="-30" max="30" step="5" value="0" />
+              </div>
+            </div>
+            <p class="live-note">自动模式会用实时数据覆盖这些输入；当前已支持 ESPN 公开比分源桥接。xG 在 ESPN 未提供时使用射门、射正、角球等统计做代理估算；没有直播源时仍可手动输入兜底。</p>
+          </div>
+
+          <div class="panel">
+            <div class="scoreline">
+              <div class="side" id="liveHome">西班牙</div>
+              <div class="live-score" id="currentScore">0-0</div>
+              <div class="side right" id="liveAway">佛得角</div>
+            </div>
+            <div class="live-output">
+              <div class="live-pick"><span>动态主推终场</span><b id="livePick">4-1</b></div>
+              <div class="live-pick"><span>主推概率</span><b id="livePickProb">19%</b></div>
+              <div class="live-pick"><span>胜平负倾向</span><b id="liveOutcome">主胜</b></div>
+            </div>
+            <div class="live-output">
+              <div class="live-pick"><span>融合置信</span><b id="fusionConfidence">--</b></div>
+              <div class="live-pick"><span>数据质量</span><b id="dataQuality">--</b></div>
+              <div class="live-pick"><span>模型分歧</span><b id="modelDivergence">--</b></div>
+            </div>
+            <div class="lambda-grid">
+              <div class="lambda"><span>主队先验 λ</span><b id="homePriorLambda">3.10</b></div>
+              <div class="lambda"><span>客队先验 λ</span><b id="awayPriorLambda">0.80</b></div>
+              <div class="lambda"><span>主队后验剩余 λ</span><b id="homeLambda">3.10</b></div>
+              <div class="lambda"><span>客队后验剩余 λ</span><b id="awayLambda">0.80</b></div>
+            </div>
+            <div class="prob">
+              <span>证据权重</span>
+              <span class="prob-track"><i id="evidenceBar" style="--w:0%"></i></span>
+              <strong id="evidenceWeight">0%</strong>
+            </div>
+            <h3 style="margin-top:22px">比分概率 Top 6</h3>
+            <div class="matrix" id="scoreMatrix"></div>
+            <p class="live-note" id="liveExplain">模型从赛前期望进球出发，随时间衰减剩余 λ；若输入实时 xG，则会用 xG 和赛前 λ 混合修正。</p>
+          </div>
+        </div>
+        <div class="live-intel">
+          <div class="chart-card">
+            <h3>盘口与比分轨迹</h3>
+            <svg class="odds-chart" id="oddsChart" viewBox="0 0 720 188" role="img" aria-label="盘口变化曲线"></svg>
+            <div class="chart-legend">
+              <span><i class="legend-dot" style="background:var(--cyan)"></i>主胜隐含概率</span>
+              <span><i class="legend-dot" style="background:var(--lime)"></i>盘口修正</span>
+              <span><i class="legend-dot" style="background:var(--coral)"></i>xG 代理差</span>
+            </div>
+            <div class="stat-radar" id="statRadar"></div>
+          </div>
+          <div class="event-card">
+            <h3>赛中事件流</h3>
+            <div class="event-list" id="eventList"></div>
+          </div>
+          <div class="substitution-card">
+            <h3>实时换人</h3>
+            <div class="substitution-summary" id="substitutionSummary"></div>
+            <div class="substitution-list" id="substitutionList"></div>
+            <p class="live-note" id="substitutionNote">换人会作为体能、战术倾向和比赛节奏证据进入模型解释；是否直接改变比分预测，取决于当时比分、分钟和场面数据。</p>
+          </div>
+        </div>
+        <div class="bookmaker-card">
+          <h3>全球博彩公司实时盘口</h3>
+          <div class="bookmaker-grid" id="bookmakerGrid"></div>
+          <p class="live-note" id="bookmakerNote">当前自动读取 ESPN 可返回的博彩公司盘口；接入赔率聚合接口后，会把 Pinnacle、Bet365、FanDuel、BetMGM、Caesars、William Hill 等实时盘口补齐。</p>
+        </div>
+        <div class="review-card">
+          <h3>赛后复盘与校准</h3>
+          <div class="review-grid">
+            <div class="review-metric"><span>赛前主推</span><b id="reviewPrePick">4-1</b></div>
+            <div class="review-metric"><span>当前动态</span><b id="reviewLivePick">4-1</b></div>
+            <div class="review-metric"><span>偏差预警</span><b id="reviewDrift">待观察</b></div>
+          </div>
+          <p class="review-copy" id="reviewCopy">比赛未结束时这里会记录模型为什么上调或下调比分；完场后会自动变成偏差复盘，用真实比分校准下一场的 λ、盘口权重和节奏惩罚。</p>
+        </div>
+      </div>
+    </section>
+
+    <section id="news">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>世界杯热点新闻</h2>
+          </div>
+          <p id="newsSync">后台每 5 分钟抓取 Google 新闻和 ESPN 足球 RSS，只展示带来源链接的新闻；抓不到时不编造。</p>
+        </div>
+        <div class="news-card">
+          <div class="news-grid" id="newsGrid"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="learning">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>长期学习数据库</h2>
+          </div>
+          <p id="learningSync">比赛、盘口、新闻、预测和复盘数据会保存到 D 盘数据库，用于未来比赛和下一届世界杯的参数校准。</p>
+        </div>
+        <div class="learning-card">
+          <div class="learning-grid" id="learningGrid"></div>
+          <div class="learning-list" id="learningPlan"></div>
+        </div>
+      </div>
+    </section>
+
+    <section id="insights">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>校准逻辑</h2>
+          </div>
+          <p>昨晚最大的教训：不能只看强弱，还要看盘口到底在奖励什么剧本。现在加入视频里的泊松分布和贝叶斯更新，并已在本机安装 penaltyblog 作为后续专业建模底座。</p>
+        </div>
+        <div class="insights">
+          <div class="panel">
+            <h3>三场最值得盯</h3>
+            <div class="rank-list">
+              <div class="rank">
+                <span class="rank-no">1</span>
+                <div><b>西班牙 vs 佛得角</b><span>让 2.5 和总进球 3.5 同时偏高，比分上限要打开。</span></div>
+                <span class="tag hot">大胜盘</span>
+              </div>
+              <div class="rank">
+                <span class="rank-no">2</span>
+                <div><b>沙特 vs 乌拉圭</b><span>乌拉圭仍强，但旅行延误会削弱大胜信心。</span></div>
+                <span class="tag warn">降置信</span>
+              </div>
+              <div class="rank">
+                <span class="rank-no">3</span>
+                <div><b>伊朗 vs 新西兰</b><span>盘口支持伊朗，但备战受扰，别把热门当铁胆。</span></div>
+                <span class="tag upset">情绪盘</span>
+              </div>
+            </div>
+          </div>
+          <div class="panel">
+            <h3>这页怎么读</h3>
+            <div class="model-grid">
+              <div class="model"><b>λ</b><span>把双方进球期望转成泊松分布：P(k)=λ^k e^-λ / k!，再枚举比分概率。</span></div>
+              <div class="model"><b>Bayes</b><span>赛前 λ 不是铁数，而是先验；早进球、xG 和红牌会把它更新成后验。</span></div>
+              <div class="model"><b>Pro</b><span>本机已安装 penaltyblog 和 soccerdata，可接 Dixon-Coles、Bayesian Goal Model、Elo/xG/历史数据。</span></div>
+              <div class="model"><b>Risk</b><span>旅途延误、政治干扰、伤停和盘口异动会改变 λ，不再把赛前比分当固定答案。</span></div>
+            </div>
+            <div class="source-grid">
+              <a class="source-card" href="https://www.dimers.com/bet-hub/swc/schedule/2026_1_esp_cpv" target="_blank" rel="noreferrer">Dimers 模型<span>西班牙胜率、最可能比分、模拟概率</span></a>
+              <a class="source-card" href="https://www.covers.com/world-cup/spain-vs-cape-verde-prediction-picks-odds-monday-6-15-2026" target="_blank" rel="noreferrer">Covers 盘口文<span>西班牙让球与大小球背景</span></a>
+              <a class="source-card" href="https://www.foxsports.com/stories/soccer/2026-world-cup-spain-cape-verde-odds-prediction-picks" target="_blank" rel="noreferrer">FOX Sports 赔率<span>胜平负和热门倾向参考</span></a>
+              <a class="source-card" href="https://www.oddschecker.com/us/soccer/world-cup" target="_blank" rel="noreferrer">Oddschecker<span>多博彩公司赔率对照</span></a>
+              <a class="source-card" href="https://github.com/martineastwood/penaltyblog" target="_blank" rel="noreferrer">penaltyblog<span>已安装，后续可作为后端模型引擎</span></a>
+              <a class="source-card" href="https://github.com/probberechts/soccerdata" target="_blank" rel="noreferrer">soccerdata<span>已安装，后续可抓 Elo/xG/历史比赛</span></a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="schedule">
+      <div class="wrap">
+        <div class="section-head">
+          <div>
+            <h2>赛程总表</h2>
+          </div>
+          <p>表格方便快速扫比分。若后续有伤停、首发或赔率变化，最应该更新的是“比分”和“置信度”。</p>
+        </div>
+        <div class="table-wrap">
+          <table>
+            <thead>
+              <tr>
+                <th>北京时间</th>
+                <th>比赛</th>
+                <th>主推比分</th>
+                <th>次选比分</th>
+                <th>状态</th>
+                <th>盘口锚点</th>
+                <th>市场校准</th>
+                <th>一句话判断</th>
+              </tr>
+            </thead>
+            <tbody id="tableBody"></tbody>
+          </table>
+        </div>
+        <div class="footer">
+          数据说明：本页为赛前预测展示页，非投注建议。校准参考公开模型、新闻盘口文、多博彩公司赔率页和市场情绪信息；赔率会临场变化，精确比分天然波动很大。
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script>
+    const matches = [
+      {
+        id: "esp-cpv",
+        time: "6月16日 00:00",
+        teamA: "西班牙", flagA: "🇪🇸", teamB: "佛得角", flagB: "🇨🇻",
+        score: "4-1", alt: "3-0 / 3-1", confidence: 91, accuracy: 19, heat: 84, type: "safe",
+        lambdaA: 3.1, lambdaB: 0.8,
+        mood: "深盘大球", label: "热门强势",
+        market: "西班牙约 -2500；让 2.5；总进球 3.5",
+        sentiment: "市场支持大胜",
+        trigger: "若早早 2-0，替补也可能继续冲净胜球。",
+        reason: "公开模型和赔率都把西班牙放在极深热门区，盘口不是普通 2-0，而是鼓励 3球以上剧本；昨晚德国大胜后，强弱盘上限要调高。"
+      },
+      {
+        id: "bel-egy",
+        time: "6月16日 03:00",
+        teamA: "比利时", flagA: "🇧🇪", teamB: "埃及", flagB: "🇪🇬",
+        score: "2-1", alt: "1-1 / 2-0", confidence: 58, accuracy: 13, heat: 61, type: "upset",
+        lambdaA: 1.65, lambdaB: 1.05,
+        mood: "热门有险", label: "情绪风险",
+        market: "比利时中等热门；一球盘附近；总进球偏 2.5",
+        sentiment: "公众倾向比利时",
+        trigger: "若埃及先守住前30分钟，平局权重要上调。",
+        reason: "比利时进攻天赋占优，但埃及的反击和定位球会让热门盘不舒服。市场没有给到碾压盘，所以主推小胜，保留 1-1 次选。"
+      },
+      {
+        id: "ksa-uru",
+        time: "6月16日 06:00",
+        teamA: "沙特", flagA: "🇸🇦", teamB: "乌拉圭", flagB: "🇺🇾",
+        score: "0-2", alt: "1-2 / 0-1", confidence: 64, accuracy: 16, heat: 66, type: "safe",
+        lambdaA: 0.75, lambdaB: 1.75,
+        mood: "强队降温", label: "热门强势",
+        market: "乌拉圭明显热门；让 1到1.5；旅行延误降权",
+        sentiment: "热门但不追穿",
+        trigger: "若乌拉圭开场体能慢热，1球小胜概率升高。",
+        reason: "基本面仍支持乌拉圭，但旅行延误让大胜盘需要打折。方向继续站乌拉圭，比分从 3球预期压回 2球以内。"
+      },
+      {
+        id: "irn-nzl",
+        time: "6月16日 09:00",
+        teamA: "伊朗", flagA: "🇮🇷", teamB: "新西兰", flagB: "🇳🇿",
+        score: "1-1", alt: "1-0 / 0-0", confidence: 47, accuracy: 12, heat: 48, type: "tight",
+        lambdaA: 1.05, lambdaB: 0.85,
+        mood: "干扰降权", label: "小比分",
+        market: "伊朗小热门；低总进球；政治/行程干扰",
+        sentiment: "热门信心不足",
+        trigger: "若伊朗首发稳定且压制明显，回调到 1-0。",
+        reason: "纯实力伊朗更好，但备战环境和行程情绪会吞掉一部分优势。盘口支持不够深，改成 1-1 主推更符合风险。"
+      },
+      {
+        id: "fra-sen",
+        time: "6月17日 03:00",
+        kickoffUtc: "2026-06-16T19:00:00Z",
+        teamA: "法国", flagA: "🇫🇷", teamB: "塞内加尔", flagB: "🇸🇳",
+        score: "2-1", alt: "1-1 / 2-0", confidence: 62, accuracy: 14, heat: 70, type: "upset",
+        lambdaA: 1.7, lambdaB: 1.0,
+        mood: "强强试探", label: "情绪风险",
+        market: "法国热门；塞内加尔受让有热度；总进球 2.5附近",
+        sentiment: "热门不便宜",
+        trigger: "若法国边路无法早开局面，平局剧本会快速变热。",
+        reason: "法国上限更高，但塞内加尔身体和速度足够制造一球。盘口不适合无脑追法国穿盘，2-1比3-0更合理。"
+      },
+      {
+        id: "irq-nor",
+        time: "6月17日 06:00",
+        kickoffUtc: "2026-06-16T22:00:00Z",
+        teamA: "伊拉克", flagA: "🇮🇶", teamB: "挪威", flagB: "🇳🇴",
+        score: "0-2", alt: "1-2 / 0-1", confidence: 68, accuracy: 17, heat: 73, type: "safe",
+        lambdaA: 0.65, lambdaB: 1.85,
+        mood: "中深热门", label: "热门强势",
+        market: "挪威明显热门；让球约 1；哈兰德热度高",
+        sentiment: "公众追挪威",
+        trigger: "若挪威被迫阵地慢攻，比分会落到 0-1。",
+        reason: "挪威前场终结质量和身体优势更清楚，但公众热度可能偏高，所以主推 0-2，不把比分拉到过分夸张。"
+      },
+      {
+        id: "arg-alg",
+        time: "6月17日 09:00",
+        kickoffUtc: "2026-06-17T01:00:00Z",
+        teamA: "阿根廷", flagA: "🇦🇷", teamB: "阿尔及利亚", flagB: "🇩🇿",
+        score: "2-0", alt: "3-1 / 1-0", confidence: 74, accuracy: 18, heat: 79, type: "safe",
+        lambdaA: 2.1, lambdaB: 0.65,
+        mood: "热门控盘", label: "热门强势",
+        market: "阿根廷深热门；让球 1.5附近；总进球中等",
+        sentiment: "市场偏热门",
+        trigger: "若阿根廷先入球很早，3-1次选上升。",
+        reason: "阿根廷控节奏能力强，领先后会把比赛带进低风险模式。相比西班牙，这场更像赢球不一定疯狂刷。"
+      },
+      {
+        id: "aut-jor",
+        time: "6月17日 12:00",
+        kickoffUtc: "2026-06-17T04:00:00Z",
+        teamA: "奥地利", flagA: "🇦🇹", teamB: "约旦", flagB: "🇯🇴",
+        score: "2-0", alt: "2-1 / 1-0", confidence: 67, accuracy: 17, heat: 62, type: "safe",
+        lambdaA: 1.75, lambdaB: 0.75,
+        mood: "实力优势", label: "热门强势",
+        market: "奥地利热门；让 1附近；总进球 2.5附近",
+        sentiment: "热度温和",
+        trigger: "若约旦定位球制造威胁，2-1比2-0更贴近。",
+        reason: "奥地利整体压迫和中场推进更稳，市场热度没有过分拥挤。主推零封，但留一个丢球次选。"
+      },
+      {
+        id: "por-cod",
+        time: "6月18日 01:00",
+        kickoffUtc: "2026-06-17T17:00:00Z",
+        teamA: "葡萄牙", flagA: "🇵🇹", teamB: "民主刚果", flagB: "🇨🇩",
+        score: "3-1", alt: "2-0 / 2-1", confidence: 76, accuracy: 16, heat: 81, type: "safe",
+        lambdaA: 2.45, lambdaB: 0.85,
+        mood: "攻击上限", label: "热门强势",
+        market: "葡萄牙深热门；让球 1.5到2；大球有支撑",
+        sentiment: "热门偏热",
+        trigger: "若民主刚果防反效率高，3-1优于3-0。",
+        reason: "葡萄牙进攻点更多，赢面清晰；但民主刚果身体和转换不差，零封没有比分面看起来那么稳。"
+      }
+    ];
+
+    const cards = document.querySelector("#cards");
+    const tableBody = document.querySelector("#tableBody");
+    const matchCount = document.querySelector("#matchCount");
+    const predictionViewNote = document.querySelector("#predictionViewNote");
+    const viewFilters = document.querySelectorAll(".view-filter");
+    const completedFallbackIds = new Set(["esp-cpv", "bel-egy", "ksa-uru", "irn-nzl"]);
+    let currentTypeFilter = "all";
+    let currentViewFilter = "active";
+    let matchStates = new Map([...completedFallbackIds].map(id => [id, { status: "ft" }]));
+
+    function tagClass(type) {
+      if (type === "safe") return "hot";
+      if (type === "upset") return "upset";
+      return "warn";
+    }
+
+    function displayMatchTime(match) {
+      if (!match.kickoffUtc) return match.time;
+      return new Date(match.kickoffUtc).toLocaleString("zh-CN", {
+        timeZone: "Asia/Shanghai",
+        month: "numeric",
+        day: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false
+      }).replace("/", "月").replace(" ", "日 ");
+    }
+
+    function liveStateFor(match) {
+      return matchStates.get(match.id) || null;
+    }
+
+    function isCompleted(match) {
+      return liveStateFor(match)?.status === "ft";
+    }
+
+    function statusLabel(match) {
+      const state = liveStateFor(match);
+      if (state?.status === "ft") return `已完场 ${state.homeGoals ?? "-"}-${state.awayGoals ?? "-"}`;
+      if (state?.status === "live") return `${state.minute || 0}' 进行中`;
+      return "未开赛";
+    }
+
+    function matchesForCurrentView() {
+      return matches.filter(match => currentViewFilter === "completed" ? isCompleted(match) : !isCompleted(match));
+    }
+
+    function filteredMatches() {
+      return matchesForCurrentView().filter(match => currentTypeFilter === "all" || match.type === currentTypeFilter);
+    }
+
+    function updatePredictionCounts() {
+      const activeCount = matches.filter(match => !isCompleted(match)).length;
+      const completedCount = matches.filter(isCompleted).length;
+      matchCount.textContent = activeCount;
+      document.querySelector('[data-view="active"]')?.setAttribute("data-count", String(activeCount));
+      document.querySelector('[data-view="completed"]')?.setAttribute("data-count", String(completedCount));
+      predictionViewNote.textContent = currentViewFilter === "completed"
+        ? `当前显示 ${completedCount} 场已完成比赛，可回看赛前预测、赛中动态和完场偏差。`
+        : `默认隐藏已完成比赛；当前显示 ${activeCount} 场未开赛或进行中的预测。`;
+    }
+
+    function renderPredictionSurfaces() {
+      updatePredictionCounts();
+      renderCards();
+      renderTable();
+    }
+
+    function renderCards() {
+      cards.innerHTML = "";
+      const visibleMatches = filteredMatches();
+      if (!visibleMatches.length) {
+        cards.innerHTML = `<div class="empty-state">当前筛选下没有比赛。可以切换到“未完成/进行中”或“已完成复盘”，也可以把类型筛选改回“全部”。</div>`;
+        return;
+      }
+      visibleMatches.forEach((match, index) => {
+          const card = document.createElement("article");
+          card.className = "card fade-in";
+          card.style.animationDelay = `${Math.min(index * 55, 320)}ms`;
+          card.innerHTML = `
+            <div class="card-head">
+              <div class="time">${displayMatchTime(match)}<br>${match.mood}</div>
+              <span class="tag ${tagClass(match.type)}">${match.label}</span>
+            </div>
+            <div class="mini-match">
+              <div class="mini-team">
+                <span class="mini-flag">${match.flagA}</span>
+                <strong>${match.teamA}</strong>
+              </div>
+              <div class="mini-score-wrap">
+                <div class="mini-score">${match.score}</div>
+                <div class="mini-alt">次选 ${match.alt}</div>
+              </div>
+              <div class="mini-team right">
+                <span class="mini-flag">${match.flagB}</span>
+                <strong>${match.teamB}</strong>
+              </div>
+            </div>
+            <div class="meta-row">
+              <span class="tag ${isCompleted(match) ? "warn" : "market"}">${statusLabel(match)}</span>
+              <span class="tag">校准 ${match.confidence}%</span>
+              <span class="tag">热度 ${match.heat}%</span>
+              <span class="tag">比分 ${match.accuracy}%</span>
+            </div>
+            <div class="market-strip">
+              <div class="market-cell"><span>盘口锚点</span><b>${match.market}</b></div>
+              <div class="market-cell"><span>市场情绪</span><b>${match.sentiment}</b></div>
+              <div class="market-cell"><span>走偏条件</span><b>${match.trigger}</b></div>
+            </div>
+            <p class="reason">${match.reason}</p>
+            ${isCompleted(match) ? `<button class="card-action" type="button" data-review-match="${match.id}">进入已完成复盘</button>` : ""}
+            <div class="prob">
+              <span>校准置信</span>
+              <span class="prob-track"><i style="--w:${match.confidence}%"></i></span>
+              <strong>${match.confidence}%</strong>
+            </div>
+          `;
+          cards.appendChild(card);
+          const reviewButton = card.querySelector("[data-review-match]");
+          if (reviewButton) {
+            reviewButton.addEventListener("click", () => openCompletedReview(match.id));
+          }
+        });
+    }
+
+    function openCompletedReview(matchId) {
+      const index = matches.findIndex(match => match.id === matchId);
+      if (index < 0) return;
+      liveMatch.value = String(index);
+      lastFeedSignature = "";
+      pollLiveFeed();
+      document.querySelector("#live")?.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+
+    function renderTable() {
+      const visibleMatches = filteredMatches();
+      if (!visibleMatches.length) {
+        tableBody.innerHTML = `<tr><td colspan="8">当前筛选下没有比赛。请切换状态或类型筛选。</td></tr>`;
+        return;
+      }
+      tableBody.innerHTML = visibleMatches.map(match => `
+        <tr>
+          <td>${displayMatchTime(match)}</td>
+          <td>${match.flagA} ${match.teamA} vs ${match.teamB} ${match.flagB}</td>
+          <td><strong>${match.score}</strong></td>
+          <td>${match.alt}</td>
+          <td>${statusLabel(match)}</td>
+          <td>${match.market}</td>
+          <td>${match.confidence}% / ${match.sentiment}</td>
+          <td>${match.reason}</td>
+        </tr>
+      `).join("");
+    }
+
+    const liveMatch = document.querySelector("#liveMatch");
+    const minuteInput = document.querySelector("#minuteInput");
+    const homeGoalsInput = document.querySelector("#homeGoalsInput");
+    const awayGoalsInput = document.querySelector("#awayGoalsInput");
+    const homeXgInput = document.querySelector("#homeXgInput");
+    const awayXgInput = document.querySelector("#awayXgInput");
+    const tempoInput = document.querySelector("#tempoInput");
+    const homeRedInput = document.querySelector("#homeRedInput");
+    const awayRedInput = document.querySelector("#awayRedInput");
+    const marketMoveInput = document.querySelector("#marketMoveInput");
+    const autoSyncInput = document.querySelector("#autoSyncInput");
+    const syncTitle = document.querySelector("#syncTitle");
+    const syncDetail = document.querySelector("#syncDetail");
+    const liveStatus = document.querySelector("#liveStatus");
+    const liveHome = document.querySelector("#liveHome");
+    const liveAway = document.querySelector("#liveAway");
+    const currentScore = document.querySelector("#currentScore");
+    const livePick = document.querySelector("#livePick");
+    const livePickProb = document.querySelector("#livePickProb");
+    const liveOutcome = document.querySelector("#liveOutcome");
+    const fusionConfidence = document.querySelector("#fusionConfidence");
+    const dataQuality = document.querySelector("#dataQuality");
+    const modelDivergence = document.querySelector("#modelDivergence");
+    const homePriorLambda = document.querySelector("#homePriorLambda");
+    const awayPriorLambda = document.querySelector("#awayPriorLambda");
+    const homeLambda = document.querySelector("#homeLambda");
+    const awayLambda = document.querySelector("#awayLambda");
+    const evidenceBar = document.querySelector("#evidenceBar");
+    const evidenceWeight = document.querySelector("#evidenceWeight");
+    const scoreMatrix = document.querySelector("#scoreMatrix");
+    const liveExplain = document.querySelector("#liveExplain");
+      const oddsChart = document.querySelector("#oddsChart");
+      const statRadar = document.querySelector("#statRadar");
+      const eventList = document.querySelector("#eventList");
+      const substitutionSummary = document.querySelector("#substitutionSummary");
+      const substitutionList = document.querySelector("#substitutionList");
+      const substitutionNote = document.querySelector("#substitutionNote");
+      const bookmakerGrid = document.querySelector("#bookmakerGrid");
+      const bookmakerNote = document.querySelector("#bookmakerNote");
+    const newsGrid = document.querySelector("#newsGrid");
+    const newsSync = document.querySelector("#newsSync");
+    const learningGrid = document.querySelector("#learningGrid");
+    const learningPlan = document.querySelector("#learningPlan");
+    const learningSync = document.querySelector("#learningSync");
+    const reviewPrePick = document.querySelector("#reviewPrePick");
+    const reviewLivePick = document.querySelector("#reviewLivePick");
+    const reviewDrift = document.querySelector("#reviewDrift");
+    const reviewCopy = document.querySelector("#reviewCopy");
+    let lastLiveState = null;
+    let lastLiveResult = null;
+    let lastFeedSignature = "";
+    let liveFeedTimer = null;
+    let newsFeedTimer = null;
+    let learningTimer = null;
+    const defaultCalibration = {
+      global: {
+        priorWeight: 0.36,
+        liveStatsWeight: 0.34,
+        marketWeight: 0.3,
+        xgProxyTrust: 0.72,
+        marketMoveScale: 0.85,
+        lateGameConservatism: 0.18,
+        favoriteNoGoalPenalty: 0.2
+      }
+    };
+    let calibration = defaultCalibration;
+
+    function factorial(n) {
+      let value = 1;
+      for (let i = 2; i <= n; i += 1) value *= i;
+      return value;
+    }
+
+    function poisson(k, lambda) {
+      return Math.exp(-lambda) * Math.pow(lambda, k) / factorial(k);
+    }
+
+    function clamp(value, min, max) {
+      return Math.min(max, Math.max(min, value));
+    }
+
+    function outcomeLabel(home, away) {
+      if (home > away) return "主胜";
+      if (home < away) return "客胜";
+      return "平局";
+    }
+
+    function americanToProbability(raw) {
+      if (raw === null || raw === undefined || raw === "") return null;
+      const odds = Number(String(raw).replace("+", ""));
+      if (!Number.isFinite(odds)) return null;
+      return odds < 0 ? Math.abs(odds) / (Math.abs(odds) + 100) : 100 / (odds + 100);
+    }
+
+    function scoreParts(score) {
+      const parts = String(score).split("-").map(part => Number(part.trim()));
+      return { home: parts[0] || 0, away: parts[1] || 0 };
+    }
+
+    function zhTeam(name) {
+      const names = {
+        Spain: "西班牙",
+        "Cape Verde": "佛得角",
+        "Cabo Verde": "佛得角",
+        Belgium: "比利时",
+        Egypt: "埃及",
+        "Saudi Arabia": "沙特",
+        Uruguay: "乌拉圭",
+        Iran: "伊朗",
+        "New Zealand": "新西兰"
+      };
+      return names[name] || name || "";
+    }
+
+    function americanProfitPer100(raw) {
+      if (raw === null || raw === undefined || raw === "") return null;
+      const odds = Number(String(raw).replace("+", ""));
+      if (!Number.isFinite(odds)) return null;
+      return odds > 0 ? odds : 10000 / Math.abs(odds);
+    }
+
+    function yuanReturnText(raw) {
+      const profit = americanProfitPer100(raw);
+      if (profit === null) return "100元返还 --";
+      return `100元返还 ¥${(100 + profit).toFixed(2)}`;
+    }
+
+    function yuanProfitText(raw) {
+      const profit = americanProfitPer100(raw);
+      if (profit === null) return "盈利 --";
+      return `盈利 ¥${profit.toFixed(2)}`;
+    }
+
+    function oddsText(odds) {
+      if (!odds || !odds.provider) return "ESPN 暂无赔率字段";
+      return `${odds.provider} 即时胜平负 ${odds.homeMoneyline || "-"} / ${odds.drawMoneyline || "-"} / ${odds.awayMoneyline || "-"}，让球 ${localizeLine(odds.spreadLine) || "-"}，总进球 ${localizeLine(odds.totalLine) || "-"}；主胜按100元本金返还 ${yuanReturnText(odds.homeMoneyline).replace("100元返还 ", "")}`;
+    }
+
+    function localizeLine(value) {
+      if (value === null || value === undefined || value === "") return value;
+      return String(value)
+        .replace("ESP", "西班牙")
+        .replace("CPV", "佛得角")
+        .replace(/^o/, "大 ")
+        .replace(/^u/, "小 ");
+    }
+
+    function scopeLabel(scope) {
+      if (scope === "live") return "实时";
+      if (scope === "pregame") return "赛前";
+      return "待接入";
+    }
+
+    function formatImplied(value) {
+      return value === null || value === undefined ? "--" : `${Math.round(Number(value) * 100)}%`;
+    }
+
+    function formatOddCell(label, odd, implied) {
+      return `
+        <div>
+          <span>${label}</span>
+          <strong>${odd || "--"}</strong>
+          <span>${formatImplied(implied)}</span>
+          <span>${yuanReturnText(odd)}</span>
+          <span>${yuanProfitText(odd)}</span>
+        </div>
+      `;
+    }
+
+    function renderBookmakers(state) {
+      const books = state?.bookmakers || [];
+      if (!books.length) {
+        bookmakerGrid.innerHTML = `<div class="bookmaker-item pending"><div class="bookmaker-head"><b>等待盘口源</b><span class="tag">待接入</span></div><p class="live-note">当前 feed 暂无博彩公司数组。</p></div>`;
+        bookmakerNote.textContent = "当前没有多博彩公司字段；桥接脚本会在 ESPN 或聚合赔率 API 返回后自动填充。";
+        return;
+      }
+      const sorted = books.filter(book => book.available);
+      if (!sorted.length) {
+        bookmakerGrid.innerHTML = `<div class="bookmaker-item pending"><div class="bookmaker-head"><b>暂无可读盘口</b><span class="tag">等待同步</span></div><p class="live-note">当前比赛尚未返回可用博彩公司赔率。</p></div>`;
+        bookmakerNote.textContent = "当前没有可显示的博彩公司盘口；一旦实时源返回有效赔率，这里会自动出现。";
+        return;
+      }
+      bookmakerGrid.innerHTML = sorted.map(book => `
+        <div class="bookmaker-item">
+          <div class="bookmaker-head">
+            <b>${book.provider}</b>
+            <span class="tag ${book.scope === "live" ? "hot" : ""}">${scopeLabel(book.scope)}</span>
+          </div>
+          <div class="bookmaker-odds">
+            ${formatOddCell("主胜", book.homeMoneyline, book.homeImplied)}
+            ${formatOddCell("平局", book.drawMoneyline, book.drawImplied)}
+            ${formatOddCell("客胜", book.awayMoneyline, book.awayImplied)}
+          </div>
+          <div class="bookmaker-meta">
+            <span>让球 ${localizeLine(book.spreadLine) || "--"}</span>
+            <span>大小 ${localizeLine(book.totalLine) || "--"}</span>
+            <span>参与模型校验</span>
+          </div>
+        </div>
+      `).join("");
+      const oddsApiText = state?.bookmakerSourceStatus?.oddsApiConfigured
+        ? `聚合赔率接口已启用，当前补充 ${state.bookmakerSourceStatus.oddsApi || 0} 家。`
+        : "聚合赔率接口未配置，后台仍会持续监控 ESPN 返回的新公司盘口。";
+      bookmakerNote.textContent = `当前显示 ${sorted.length} 家有可读盘口的博彩公司，后续一旦有新公司返回实时数据会自动出现。金额按人民币 100 元本金折算为潜在总返还，不代表投注建议。${oddsApiText}`;
+    }
+
+    function formatNewsTime(value) {
+      if (!value) return "时间未知";
+      return new Date(value).toLocaleString("zh-CN", { hour12: false, month: "2-digit", day: "2-digit", hour: "2-digit", minute: "2-digit" });
+    }
+
+    function cleanNewsSummary(value) {
+      const text = String(value || "").trim();
+      if (!text || text.toLowerCase() === "null") return "打开来源查看完整报道。";
+      return text.length > 110 ? `${text.slice(0, 110)}...` : text;
+    }
+
+    function translationLabel(value) {
+      if (value === "source") return "中文源";
+      if (value === "online") return "自动翻译";
+      if (String(value || "").includes("online")) return "自动翻译";
+      if (value === "local" || String(value || "").includes("local")) return "规则中文化";
+      return "中文化";
+    }
+
+    function renderNews(feed) {
+      const articles = feed?.articles || [];
+      if (!articles.length) {
+        newsGrid.innerHTML = `<div class="news-item"><div class="news-meta"><span class="tag">等待同步</span></div><b>暂无可验证新闻</b><p>后台新闻源暂未返回世界杯相关新闻。</p></div>`;
+        newsSync.textContent = "新闻源暂未返回可用内容；后台会继续轮询。";
+        return;
+      }
+      newsGrid.innerHTML = articles.slice(0, 12).map(article => `
+        <a class="news-item" href="${article.url}" target="_blank" rel="noreferrer">
+          <div class="news-meta">
+            <span class="tag hot">热度 ${article.heat || 50}</span>
+            <span>${article.source || "新闻源"}</span>
+            <span>${formatNewsTime(article.publishedAt)}</span>
+            <span>${translationLabel(article.translation)}</span>
+          </div>
+          <b>${article.title}</b>
+          <p>${cleanNewsSummary(article.summary)}</p>
+        </a>
+      `).join("");
+      const updated = feed.updatedAt ? new Date(feed.updatedAt).toLocaleTimeString("zh-CN", { hour12: false }) : "未知时间";
+      newsSync.textContent = `${updated} 更新：已同步 ${articles.length} 条世界杯相关新闻，来源为 ${feed.provider || "公开 RSS"}。`;
+    }
+
+    async function pollNewsFeed() {
+      try {
+        const response = await fetch(`./news-feed.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        renderNews(await response.json());
+      } catch (error) {
+        newsGrid.innerHTML = `<div class="news-item"><div class="news-meta"><span class="tag">连接失败</span></div><b>新闻源暂不可用</b><p>${error.message}。后台会继续尝试更新。</p></div>`;
+        newsSync.textContent = "无法读取 news-feed.json，已保留自动重试。";
+      }
+    }
+
+    function startNewsFeedPolling() {
+      if (newsFeedTimer) window.clearInterval(newsFeedTimer);
+      pollNewsFeed();
+      newsFeedTimer = window.setInterval(pollNewsFeed, 300000);
+    }
+
+    function renderLearning(summary) {
+      const metrics = [
+        ["比赛档案", summary.matches],
+        ["赛中快照", summary.liveSnapshots],
+        ["盘口记录", summary.bookmakerOdds],
+        ["赛前预测", summary.predictions],
+        ["新闻样本", summary.newsArticles],
+      ];
+      learningGrid.innerHTML = metrics.map(([label, value]) => `
+        <div class="learning-metric"><span>${label}</span><b>${value ?? 0}</b></div>
+      `).join("");
+      learningPlan.innerHTML = (summary.nextUse || []).map(item => `<div>· ${item}</div>`).join("");
+      const updated = summary.updatedAt ? new Date(summary.updatedAt).toLocaleTimeString("zh-CN", { hour12: false }) : "未知时间";
+      learningSync.textContent = `${updated} 更新：数据保存于 ${summary.database || "D盘数据库"}。`;
+    }
+
+    async function pollLearningSummary() {
+      try {
+        const response = await fetch(`./learning-summary.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        renderLearning(await response.json());
+      } catch (error) {
+        learningGrid.innerHTML = `<div class="learning-metric"><span>学习库</span><b>待同步</b></div>`;
+        learningPlan.innerHTML = `<div>· 暂时无法读取 learning-summary.json：${error.message}</div>`;
+      }
+    }
+
+    function startLearningPolling() {
+      if (learningTimer) window.clearInterval(learningTimer);
+      pollLearningSummary();
+      learningTimer = window.setInterval(pollLearningSummary, 60000);
+    }
+
+    function parseTotalLine(raw) {
+      const match = String(raw || "").match(/(\d+(?:\.\d+)?)/);
+      return match ? Number(match[1]) : null;
+    }
+
+    function normalizeWeights(weights, quality) {
+      const prior = weights.priorWeight;
+      const live = weights.liveStatsWeight * clamp(quality, 0.35, 1);
+      const market = weights.marketWeight;
+      const total = prior + live + market;
+      return { prior: prior / total, live: live / total, market: market / total };
+    }
+
+    function estimateDataQuality(state) {
+      if (!state) return 0.45;
+      let score = 0.34;
+      if (Number(state.minute) > 0) score += 0.14;
+      if (state.odds?.provider) score += 0.18;
+      if ((state.events || []).length) score += 0.1;
+      if (substitutionEvents(state).length) score += 0.03;
+      if (state.stats?.home && state.stats?.away) score += 0.12;
+      if ((state.scoreHistory || []).length >= 5) score += 0.08;
+      if ((state.marketHistory || []).length >= 5) score += 0.04;
+      return clamp(score, 0.25, 0.98);
+    }
+
+    function impliedTotalFromMarket(match, state) {
+      const totalLine = parseTotalLine(state?.odds?.totalLine);
+      if (!totalLine) return match.lambdaA + match.lambdaB;
+      const overProb = americanToProbability(state?.odds?.overOdds);
+      const underProb = americanToProbability(state?.odds?.underOdds);
+      const lean = overProb !== null && underProb !== null ? clamp((overProb - underProb) * 0.72, -0.4, 0.4) : 0;
+      return clamp(totalLine + lean, 0.8, 5.2);
+    }
+
+    function marketSideShare(match, state) {
+      const homeProb = americanToProbability(state?.odds?.homeMoneyline);
+      const awayProb = americanToProbability(state?.odds?.awayMoneyline);
+      if (homeProb === null || awayProb === null) {
+        return match.lambdaA / Math.max(match.lambdaA + match.lambdaB, 0.1);
+      }
+      const drawProb = americanToProbability(state?.odds?.drawMoneyline) || 0.2;
+      const noVigHome = homeProb / Math.max(homeProb + awayProb + drawProb, 0.1);
+      const noVigAway = awayProb / Math.max(homeProb + awayProb + drawProb, 0.1);
+      return clamp(noVigHome / Math.max(noVigHome + noVigAway, 0.1), 0.12, 0.88);
+    }
+
+    function statsPressureShare(match, state, homeXg, awayXg) {
+      const homeStats = state?.stats?.home || {};
+      const awayStats = state?.stats?.away || {};
+      const homeThreat = homeXg * 1.8 + (homeStats.shots || 0) * 0.08 + (homeStats.shotsOnTarget || 0) * 0.18 + (homeStats.corners || 0) * 0.05;
+      const awayThreat = awayXg * 1.8 + (awayStats.shots || 0) * 0.08 + (awayStats.shotsOnTarget || 0) * 0.18 + (awayStats.corners || 0) * 0.05;
+      const priorShare = match.lambdaA / Math.max(match.lambdaA + match.lambdaB, 0.1);
+      if (homeThreat + awayThreat <= 0.05) return priorShare;
+      return clamp((homeThreat + priorShare * 0.65) / (homeThreat + awayThreat + 0.65), 0.08, 0.92);
+    }
+
+    function pointPath(points, valueGetter, min, max, width = 680, height = 128, x0 = 20, y0 = 26) {
+      if (!points.length) return "";
+      const lastIndex = Math.max(points.length - 1, 1);
+      return points.map((point, index) => {
+        const value = clamp(valueGetter(point), min, max);
+        const x = x0 + (index / lastIndex) * width;
+        const y = y0 + (1 - (value - min) / (max - min || 1)) * height;
+        return `${index === 0 ? "M" : "L"} ${x.toFixed(1)} ${y.toFixed(1)}`;
+      }).join(" ");
+    }
+
+    function renderOddsChart(state) {
+      const marketHistory = state?.marketHistory || [];
+      const scoreHistory = state?.scoreHistory || [];
+      const history = marketHistory.length ? marketHistory : [{ homeMoneyline: state?.odds?.homeMoneyline, marketMove: state?.marketMove || 0 }];
+      const homeProbPath = pointPath(history, point => (americanToProbability(point.homeMoneyline) || 0) * 100, 0, 100);
+      const marketPath = pointPath(history, point => Number(point.marketMove || 0), -30, 30);
+      const xgPath = pointPath(scoreHistory.length ? scoreHistory : [{ homeXg: state?.homeXg || 0, awayXg: state?.awayXg || 0 }], point => Number(point.homeXg || 0) - Number(point.awayXg || 0), -1.5, 1.5);
+      const latest = history[history.length - 1] || {};
+      oddsChart.innerHTML = `
+        <defs>
+          <linearGradient id="chartFill" x1="0" x2="1">
+            <stop offset="0%" stop-color="rgba(53,212,255,0.22)" />
+            <stop offset="100%" stop-color="rgba(184,255,79,0.1)" />
+          </linearGradient>
+        </defs>
+        <path d="${homeProbPath}" fill="none" stroke="var(--cyan)" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+        <path d="${marketPath}" fill="none" stroke="var(--lime)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.92"></path>
+        <path d="${xgPath}" fill="none" stroke="var(--coral)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" opacity="0.9"></path>
+        <text x="20" y="22" fill="rgba(247,251,255,0.72)" font-size="12">历史快照 ${history.length} 次</text>
+        <text x="20" y="178" fill="rgba(247,251,255,0.72)" font-size="12">最新：胜平负 ${latest.homeMoneyline || "-"} / ${latest.drawMoneyline || "-"} / ${latest.awayMoneyline || "-"} · 盘口修正 ${latest.marketMove ?? 0}</text>
+      `;
+    }
+
+    function renderStatRadar(state) {
+      const homeStats = state?.stats?.home || {};
+      const awayStats = state?.stats?.away || {};
+      const items = [
+        ["射门", homeStats.shots ?? 0, awayStats.shots ?? 0],
+        ["射正", homeStats.shotsOnTarget ?? 0, awayStats.shotsOnTarget ?? 0],
+        ["角球", homeStats.corners ?? 0, awayStats.corners ?? 0],
+        ["控球", `${Math.round(homeStats.possession || 0)}%`, `${Math.round(awayStats.possession || 0)}%`],
+      ];
+      statRadar.innerHTML = items.map(([label, home, away]) => `
+        <div class="stat-pill">
+          <span>${label}</span>
+          <b>${home} : ${away}</b>
+        </div>
+      `).join("");
+    }
+
+    function eventTitle(type) {
+      const text = String(type || "event").replaceAll("-", " ");
+      if (text.includes("substitution")) return "换人";
+      if (text.includes("goal")) return "进球";
+      if (text.includes("yellow")) return "黄牌";
+      if (text.includes("red")) return "红牌";
+      if (text.includes("card")) return "牌";
+      if (text.includes("var")) return "VAR";
+      if (text.includes("kickoff")) return "开球";
+      if (text.includes("halftime")) return "半场结束";
+      if (text.includes("start delay")) return "比赛暂停";
+      if (text.includes("end delay")) return "恢复比赛";
+      if (text.includes("foul")) return "犯规";
+      return text || "事件";
+    }
+
+    function translatePlayerEventName(name) {
+      return String(name || "")
+        .trim()
+        .replace("Fabian Ruiz", "法比安·鲁伊斯")
+        .replace("Fabián Ruiz", "法比安·鲁伊斯")
+        .replace("Mikel Merino", "米克尔·梅里诺")
+        .replace("Lamine Yamal", "拉明·亚马尔")
+        .replace("Gavi", "加维")
+        .replace("João Paulo", "若昂·保罗")
+        .replace("Joao Paulo", "若昂·保罗")
+        .replace("Sidny Cabral", "西德尼·卡布拉尔")
+        .replace("Telmo Arcanjo", "特尔莫·阿尔坎若")
+        .replace("Jamiro Monteiro", "贾米罗·蒙泰罗")
+        .replace("Dani Olmo", "达尼·奥尔莫")
+        .replace("Ferran Torres", "费兰·托雷斯");
+    }
+
+    function parseSubstitutionText(text) {
+      const raw = String(text || "");
+      const match = raw.match(/^Substitution,\s*([^.]+)\.\s*(.+?)\s+replaces\s+(.+?)\.$/i);
+      if (!match) return null;
+      return {
+        team: zhTeam(match[1].trim()),
+        on: translatePlayerEventName(match[2]),
+        off: translatePlayerEventName(match[3])
+      };
+    }
+
+    function translateEventText(text) {
+      if (!text) return "事件已记录，等待更详细描述。";
+      const substitution = parseSubstitutionText(text);
+      if (substitution) return `${substitution.team} 换人：${substitution.on} 登场，换下 ${substitution.off}。`;
+      return String(text)
+        .replace("Substitution,", "换人，")
+        .replace("First Half begins.", "上半场开始。")
+        .replace("Delay in match for a drinks break.", "比赛暂停，进入补水时间。")
+        .replace("Delay over. They are ready to continue.", "暂停结束，比赛准备继续。")
+        .replace("is shown the yellow card for a bad foul.", "因严重犯规吃到黄牌。")
+        .replace("Cabo Verde", "佛得角")
+        .replace("Cape Verde", "佛得角")
+        .replace("Spain", "西班牙");
+    }
+
+    function renderEventList(state) {
+      const events = state?.events || [];
+      if (!events.length) {
+        eventList.innerHTML = `<div class="event-item"><div class="event-minute">--</div><div class="event-text"><b>暂无事件</b><span>ESPN 当前没有返回该场事件流，比分和赔率仍会继续同步。</span></div></div>`;
+        return;
+      }
+      eventList.innerHTML = events.slice().reverse().map(event => `
+        <div class="event-item ${event.scoringPlay ? "goal" : ""} ${String(event.type || "").includes("substitution") ? "substitution" : ""}">
+          <div class="event-minute">${event.minute || "0'"}</div>
+          <div class="event-text">
+            <b>${eventTitle(event.type)}${event.team ? ` · ${zhTeam(event.team)}` : ""}</b>
+            <span>${translateEventText(event.text)}</span>
+          </div>
+        </div>
+      `).join("");
+    }
+
+    function substitutionEvents(state) {
+      return (state?.events || []).filter(event => String(event.type || "").toLowerCase().includes("substitution"));
+    }
+
+    function renderSubstitutions(state) {
+      const substitutions = substitutionEvents(state);
+      const homeName = zhTeam(state?.homeName) || "主队";
+      const awayName = zhTeam(state?.awayName) || "客队";
+      const homeCount = substitutions.filter(event => zhTeam(event.team) === homeName).length;
+      const awayCount = substitutions.filter(event => zhTeam(event.team) === awayName).length;
+      substitutionSummary.innerHTML = `
+        <div><span>${homeName}</span><b>${homeCount}</b></div>
+        <div><span>${awayName}</span><b>${awayCount}</b></div>
+      `;
+      if (!substitutions.length) {
+        substitutionList.innerHTML = `<div class="substitution-item substitution-empty"><b>暂无换人数据</b><span>当前实时源还没有返回换人事件；一旦 ESPN 事件流出现 substitution，会自动同步到这里。</span></div>`;
+        substitutionNote.textContent = "换人数据等待实时源返回；当前比分预测主要依靠比分、分钟、统计和盘口。";
+        return;
+      }
+      substitutionList.innerHTML = substitutions.slice().reverse().map(event => {
+        const parsed = parseSubstitutionText(event.text);
+        const team = parsed?.team || zhTeam(event.team) || "球队";
+        const headline = parsed ? `${parsed.on} 上场` : "换人调整";
+        const detail = parsed ? `换下 ${parsed.off}` : translateEventText(event.text);
+        return `
+          <div class="substitution-item">
+            <div class="substitution-top"><span>${event.minute || "--"}</span><span>${team}</span></div>
+            <b>${headline}</b>
+            <span>${detail}</span>
+          </div>
+        `;
+      }).join("");
+      const lateCount = substitutions.filter(event => Number(String(event.minute || "").match(/\d+/)?.[0] || 0) >= 70).length;
+      substitutionNote.textContent = `已识别 ${substitutions.length} 次换人，其中 ${lateCount} 次发生在70分钟后。模型会把它作为体能轮换和节奏变化证据，但仍以真实比分、xG代理、射门、红牌和盘口为主。`;
+    }
+
+    function renderReview(match, state, best) {
+      const pre = scoreParts(match.score);
+      const liveHome = best?.finalHome ?? pre.home;
+      const liveAway = best?.finalAway ?? pre.away;
+      const drift = Math.abs((liveHome - liveAway) - (pre.home - pre.away)) + Math.abs((liveHome + liveAway) - (pre.home + pre.away));
+      reviewPrePick.textContent = match.score;
+      reviewLivePick.textContent = `${liveHome}-${liveAway}`;
+      reviewDrift.textContent = state?.status === "ft" ? "已完场" : drift >= 3 ? "强偏离" : drift >= 1 ? "轻偏离" : "贴合";
+      const currentScore = state ? `${state.homeGoals}-${state.awayGoals}` : "0-0";
+      const market = state ? oddsText(state.odds) : "等待实时赔率";
+      if (state?.status === "ft") {
+        reviewCopy.textContent = `完场比分 ${currentScore}。赛前 ${match.score}，动态末次 ${liveHome}-${liveAway}；下一轮会根据偏差修正总进球 λ、盘口权重和节奏惩罚。`;
+      } else if (state) {
+        const qualityText = lastLiveResult ? `数据质量 ${Math.round(lastLiveResult.lambdas.quality * 100)}%，模型分歧 ${modelDivergence.textContent}` : "数据质量待评估";
+        reviewCopy.textContent = `当前 ${state.minute}'，真实比分 ${currentScore}。${market}；融合引擎把赛前 ${match.score} 调整为 ${liveHome}-${liveAway}，偏差状态为${reviewDrift.textContent}，${qualityText}。`;
+      } else {
+        reviewCopy.textContent = "等待实时数据源覆盖当前比赛；复盘模块会在每次 feed 更新后自动记录偏差方向。";
+      }
+    }
+
+    function getDynamicLambdas(match, minute, homeGoals, awayGoals, homeXg, awayXg, tempo, homeReds, awayReds, marketMove, state = lastLiveState) {
+      const elapsed = clamp(minute, 0, 120);
+      const remainingRatio = clamp((96 - elapsed) / 96, 0.04, 1);
+      const elapsedRatio = clamp(elapsed / 90, 0, 1.35);
+      const quality = estimateDataQuality(state);
+      const cfg = calibration.global || defaultCalibration.global;
+      const weights = normalizeWeights(cfg, quality);
+      const evidence = elapsed > 0
+        ? clamp(0.12 + elapsed / 120 + (homeGoals + awayGoals) * 0.08 + Math.abs(tempo) / 180 + Math.abs(marketMove) / 160, 0.12, 0.82)
+        : 0;
+      const priorStrength = 3.6;
+      const trustedHomeXg = homeXg * clamp(cfg.xgProxyTrust ?? 0.72, 0.35, 1);
+      const trustedAwayXg = awayXg * clamp(cfg.xgProxyTrust ?? 0.72, 0.35, 1);
+      const homeObserved = Math.max(trustedHomeXg, homeGoals * 0.78);
+      const awayObserved = Math.max(trustedAwayXg, awayGoals * 0.78);
+      const homePosteriorRate = (match.lambdaA * priorStrength + homeObserved) / (priorStrength + Math.max(elapsedRatio, 0.12));
+      const awayPosteriorRate = (match.lambdaB * priorStrength + awayObserved) / (priorStrength + Math.max(elapsedRatio, 0.12));
+      const scorePressureHome = clamp((awayGoals - homeGoals) * 0.12, -0.22, 0.28);
+      const scorePressureAway = clamp((homeGoals - awayGoals) * 0.12, -0.22, 0.28);
+      const tempoFactor = 1 + clamp(tempo, -30, 40) / 100;
+      const redCardHomeFactor = Math.pow(0.72, homeReds) * Math.pow(1.18, awayReds);
+      const redCardAwayFactor = Math.pow(0.72, awayReds) * Math.pow(1.18, homeReds);
+      const marketScale = cfg.marketMoveScale ?? 0.85;
+      const marketHomeFactor = 1 + clamp(marketMove * marketScale, -30, 30) / 140;
+      const marketAwayFactor = 1 - clamp(marketMove * marketScale, -30, 30) / 180;
+      const expectedHomeByNow = match.lambdaA * elapsedRatio;
+      const expectedAwayByNow = match.lambdaB * elapsedRatio;
+      const underPerfHome = clamp((expectedHomeByNow - homeObserved) * 0.06, -0.16, 0.16);
+      const underPerfAway = clamp((expectedAwayByNow - awayObserved) * 0.06, -0.16, 0.16);
+      const liveTotalRate = homePosteriorRate + awayPosteriorRate;
+      const liveShare = statsPressureShare(match, state, trustedHomeXg, trustedAwayXg);
+      const marketTotalRate = impliedTotalFromMarket(match, state);
+      const marketShare = marketSideShare(match, state);
+      const priorTotalRate = match.lambdaA + match.lambdaB;
+      let fusedTotalRate = priorTotalRate * weights.prior + liveTotalRate * weights.live + marketTotalRate * weights.market;
+      const fusedShare = clamp(
+        (match.lambdaA / priorTotalRate) * weights.prior + liveShare * weights.live + marketShare * weights.market,
+        0.06,
+        0.94
+      );
+      const favoriteNoGoalPenalty = elapsed >= 25 && homeGoals === 0 && awayGoals === 0 && match.lambdaA >= 2.6
+        ? (cfg.favoriteNoGoalPenalty ?? 0.2)
+        : 0;
+      fusedTotalRate *= 1 - favoriteNoGoalPenalty;
+      fusedTotalRate *= 1 - clamp(elapsed / 90, 0, 1) * (cfg.lateGameConservatism ?? 0.18);
+      const blendedHome = fusedTotalRate * fusedShare * (1 - evidence) + homePosteriorRate * evidence;
+      const blendedAway = fusedTotalRate * (1 - fusedShare) * (1 - evidence) + awayPosteriorRate * evidence;
+      const divergence = Math.abs(priorTotalRate - liveTotalRate) + Math.abs(priorTotalRate - marketTotalRate) + Math.abs(liveShare - marketShare) * 2.2;
+      const uncertainty = clamp(1 - quality + divergence / 8 + (homeReds + awayReds) * 0.18, 0.08, 0.72);
+      return {
+        home: clamp(blendedHome * remainingRatio * tempoFactor * redCardHomeFactor * marketHomeFactor * (1 + scorePressureHome + underPerfHome), 0.03, 5.8),
+        away: clamp(blendedAway * remainingRatio * tempoFactor * redCardAwayFactor * marketAwayFactor * (1 + scorePressureAway + underPerfAway), 0.03, 5.8),
+        remainingRatio,
+        evidence,
+        quality,
+        uncertainty,
+        divergence,
+        weights,
+        marketTotalRate,
+        liveTotalRate,
+        posteriorHomeRate: homePosteriorRate,
+        posteriorAwayRate: awayPosteriorRate
+      };
+    }
+
+    function topFinalScores(match, minute, homeGoals, awayGoals, homeXg, awayXg, tempo, homeReds, awayReds, marketMove, state = lastLiveState) {
+      const lambdas = getDynamicLambdas(match, minute, homeGoals, awayGoals, homeXg, awayXg, tempo, homeReds, awayReds, marketMove, state);
+      const rows = [];
+      for (let h = 0; h <= 7; h += 1) {
+        for (let a = 0; a <= 7; a += 1) {
+          const finalHome = homeGoals + h;
+          const finalAway = awayGoals + a;
+          const baseProbability = poisson(h, lambdas.home) * poisson(a, lambdas.away);
+          const drawSmoothing = lambdas.uncertainty > 0.35 && finalHome === finalAway ? 1 + lambdas.uncertainty * 0.18 : 1;
+          const probability = baseProbability * drawSmoothing;
+          rows.push({ finalHome, finalAway, probability });
+        }
+      }
+      rows.sort((a, b) => b.probability - a.probability);
+      return { lambdas, rows: rows.slice(0, 6) };
+    }
+
+    function renderLiveModel() {
+      const match = matches[Number(liveMatch.value) || 0];
+      const minute = Number(minuteInput.value) || 0;
+      const homeGoals = Number(homeGoalsInput.value) || 0;
+      const awayGoals = Number(awayGoalsInput.value) || 0;
+      const homeXg = Number(homeXgInput.value) || 0;
+      const awayXg = Number(awayXgInput.value) || 0;
+      const tempo = Number(tempoInput.value) || 0;
+      const homeReds = Number(homeRedInput.value) || 0;
+      const awayReds = Number(awayRedInput.value) || 0;
+      const marketMove = Number(marketMoveInput.value) || 0;
+      const result = topFinalScores(match, minute, homeGoals, awayGoals, homeXg, awayXg, tempo, homeReds, awayReds, marketMove);
+      const best = result.rows[0];
+      lastLiveResult = result;
+      const maxProb = Math.max(...result.rows.map(row => row.probability));
+      liveHome.textContent = match.teamA;
+      liveAway.textContent = match.teamB;
+      currentScore.textContent = `${homeGoals}-${awayGoals}`;
+      livePick.textContent = `${best.finalHome}-${best.finalAway}`;
+      livePickProb.textContent = `${Math.round(best.probability * 100)}%`;
+      liveOutcome.textContent = outcomeLabel(best.finalHome, best.finalAway);
+      fusionConfidence.textContent = `${Math.round((1 - result.lambdas.uncertainty) * 100)}%`;
+      dataQuality.textContent = `${Math.round(result.lambdas.quality * 100)}%`;
+      modelDivergence.textContent = result.lambdas.divergence >= 2.4 ? "高" : result.lambdas.divergence >= 1.2 ? "中" : "低";
+      homePriorLambda.textContent = match.lambdaA.toFixed(2);
+      awayPriorLambda.textContent = match.lambdaB.toFixed(2);
+      homeLambda.textContent = result.lambdas.home.toFixed(2);
+      awayLambda.textContent = result.lambdas.away.toFixed(2);
+      evidenceBar.style.setProperty("--w", `${Math.round(result.lambdas.evidence * 100)}%`);
+      evidenceWeight.textContent = `${Math.round(result.lambdas.evidence * 100)}%`;
+      liveStatus.textContent = minute > 0 ? `${minute}' 动态` : "赛前模式";
+      scoreMatrix.innerHTML = result.rows.map(row => `
+        <div class="matrix-row">
+          <strong>${row.finalHome}-${row.finalAway}</strong>
+          <span class="matrix-bar"><i style="--w:${Math.max(6, row.probability / maxProb * 100)}%"></i></span>
+          <span>${Math.round(row.probability * 100)}%</span>
+        </div>
+      `).join("");
+      const xgPart = minute > 0
+        ? `当前已进行 ${minute} 分钟，融合权重为先验 ${Math.round(result.lambdas.weights.prior * 100)}% / 赛中 ${Math.round(result.lambdas.weights.live * 100)}% / 市场 ${Math.round(result.lambdas.weights.market * 100)}%，数据质量约 ${Math.round(result.lambdas.quality * 100)}%。`
+        : "赛前模式下主要使用盘口校准后的双方期望进球先验。";
+      const subs = substitutionEvents(lastLiveState).length;
+      const substitutionPart = subs ? `当前已纳入 ${subs} 次换人作为节奏和体能证据。` : "当前没有可用换人事件。";
+      liveExplain.textContent = `${xgPart} ${substitutionPart} 模型用融合后的剩余 λ 计算比分分布；若数据质量低或模型分歧高，会自动降低置信、抬高小比分/平局尾部。`;
+      renderReview(match, lastLiveState, best);
+    }
+
+    function setLiveInputValue(input, value) {
+      input.value = String(value ?? 0);
+    }
+
+    function firstActiveMatchIndex() {
+      const index = matches.findIndex(match => !isCompleted(match));
+      return index >= 0 ? index : 0;
+    }
+
+    function renderLiveMatchOptions(preferredIndex = Number(liveMatch.value)) {
+      const selectedIndex = Number.isFinite(preferredIndex) ? preferredIndex : firstActiveMatchIndex();
+      const ordered = matches
+        .map((match, index) => ({ match, index }))
+        .sort((a, b) => Number(isCompleted(a.match)) - Number(isCompleted(b.match)) || a.index - b.index);
+      liveMatch.innerHTML = ordered.map(({ match, index }) => `
+        <option value="${index}">${statusLabel(match)} · ${displayMatchTime(match)} · ${match.teamA} vs ${match.teamB}</option>
+      `).join("");
+      liveMatch.value = String(selectedIndex);
+      if (liveMatch.value !== String(selectedIndex)) {
+        liveMatch.value = String(firstActiveMatchIndex());
+      }
+    }
+
+    function applyLiveState(state, provider, updatedAt) {
+      if (!state) return;
+      setLiveInputValue(minuteInput, state.minute);
+      setLiveInputValue(homeGoalsInput, state.homeGoals);
+      setLiveInputValue(awayGoalsInput, state.awayGoals);
+      setLiveInputValue(homeXgInput, state.homeXg);
+      setLiveInputValue(awayXgInput, state.awayXg);
+      setLiveInputValue(homeRedInput, state.homeRedCards);
+      setLiveInputValue(awayRedInput, state.awayRedCards);
+      setLiveInputValue(tempoInput, state.tempo);
+      setLiveInputValue(marketMoveInput, state.marketMove);
+      lastLiveState = state;
+      const statusText = state.status === "live" ? "直播中" : state.status === "ft" ? "已完场" : "赛前";
+      const detailTime = updatedAt ? new Date(updatedAt).toLocaleTimeString("zh-CN", { hour12: false }) : "未知时间";
+      syncTitle.textContent = `${statusText} · ${provider || "live-feed"}`;
+      syncDetail.textContent = `${detailTime} 更新：${state.detail || `${state.minute}'`} · ${zhTeam(state.homeName) || "主队"} ${state.homeGoals}-${state.awayGoals} ${zhTeam(state.awayName) || "客队"}；${oddsText(state.odds)}；xG 为代理估算。`;
+      renderOddsChart(state);
+      renderStatRadar(state);
+      renderEventList(state);
+      renderSubstitutions(state);
+      renderBookmakers(state);
+      renderLiveModel();
+    }
+
+    async function pollLiveFeed() {
+      if (!autoSyncInput.checked) {
+        syncTitle.textContent = "自动同步已暂停";
+        syncDetail.textContent = "当前使用页面输入值作为赛中模型证据。";
+        return;
+      }
+      try {
+        const response = await fetch(`./live-feed.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const feed = await response.json();
+        matchStates = new Map([
+          ...matchStates,
+          ...(feed.matches || []).map(item => [item.id, item])
+        ]);
+        renderLiveMatchOptions(Number(liveMatch.value));
+        renderPredictionSurfaces();
+        const match = matches[Number(liveMatch.value) || 0];
+        const state = (feed.matches || []).find(item => item.id === match.id);
+        const signature = JSON.stringify({ id: match.id, state, updatedAt: feed.updatedAt });
+        if (signature !== lastFeedSignature) {
+          lastFeedSignature = signature;
+          if (state) {
+            applyLiveState(state, feed.provider, feed.updatedAt);
+          } else {
+            lastLiveState = null;
+            syncTitle.textContent = "实时源未覆盖当前比赛";
+            syncDetail.textContent = `${match.teamA} vs ${match.teamB} 暂无 feed 记录，保留页面当前输入。`;
+            renderOddsChart(null);
+            renderStatRadar(null);
+            renderEventList(null);
+            renderSubstitutions(null);
+            renderBookmakers(null);
+          }
+        }
+      } catch (error) {
+        syncTitle.textContent = "实时源连接失败";
+        syncDetail.textContent = `无法读取 ./live-feed.json：${error.message}。已保留手动兜底输入。`;
+      }
+    }
+
+    function startLiveFeedPolling() {
+      if (liveFeedTimer) window.clearInterval(liveFeedTimer);
+      pollLiveFeed();
+      liveFeedTimer = window.setInterval(pollLiveFeed, 15000);
+    }
+
+    async function loadCalibration() {
+      try {
+        const response = await fetch(`./model-calibration.json?t=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const payload = await response.json();
+        calibration = {
+          ...defaultCalibration,
+          ...payload,
+          global: { ...defaultCalibration.global, ...(payload.global || {}) }
+        };
+      } catch (error) {
+        calibration = defaultCalibration;
+      }
+    }
+
+    async function initLiveModel() {
+      renderLiveMatchOptions(firstActiveMatchIndex());
+      [liveMatch, minuteInput, homeGoalsInput, awayGoalsInput, homeXgInput, awayXgInput, tempoInput, homeRedInput, awayRedInput, marketMoveInput]
+        .forEach(control => control.addEventListener("input", renderLiveModel));
+      [liveMatch, minuteInput, homeGoalsInput, awayGoalsInput, homeXgInput, awayXgInput, tempoInput, homeRedInput, awayRedInput, marketMoveInput]
+        .forEach(control => control.addEventListener("change", renderLiveModel));
+      liveMatch.addEventListener("change", () => {
+        lastFeedSignature = "";
+        pollLiveFeed();
+      });
+      autoSyncInput.addEventListener("change", () => {
+        lastFeedSignature = "";
+        pollLiveFeed();
+      });
+      renderOddsChart(null);
+      renderStatRadar(null);
+      renderEventList(null);
+      renderSubstitutions(null);
+      renderBookmakers(null);
+      await loadCalibration();
+      renderLiveModel();
+      startLiveFeedPolling();
+    }
+
+    viewFilters.forEach(button => {
+      button.addEventListener("click", () => {
+        viewFilters.forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        currentViewFilter = button.dataset.view || "active";
+        renderPredictionSurfaces();
+      });
+    });
+
+    document.querySelectorAll(".filters:not(.view-filters) .filter").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".filters:not(.view-filters) .filter").forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        currentTypeFilter = button.dataset.filter || "all";
+        renderPredictionSurfaces();
+      });
+    });
+
+      renderPredictionSurfaces();
+      initLiveModel();
+      startNewsFeedPolling();
+      startLearningPolling();
+  </script>
+</body>
+</html>

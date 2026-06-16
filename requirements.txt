@@ -1,0 +1,4 @@
+# The current bridges use Python's standard library.
+# Optional environment variables:
+# ODDS_API_KEY=...              enables The Odds API bookmaker snapshots
+# ENABLE_ONLINE_TRANSLATE=1     enables online translation for news snippets
