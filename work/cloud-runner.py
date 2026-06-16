@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import http.server
 import importlib.util
+import json
 import socketserver
 import sys
 import threading
@@ -23,6 +24,14 @@ from typing import Callable
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUTS = ROOT / "outputs"
 WORK = ROOT / "work"
+STATUS_FILE = OUTPUTS / "api" / "status.json"
+STATUS_LOCK = threading.Lock()
+STATUS: dict[str, object] = {
+    "startedAt": datetime.now(timezone.utc).isoformat(),
+    "live": {"ok": False},
+    "news": {"ok": False},
+    "learning": {"ok": False},
+}
 
 
 def load_module(name: str, path: Path):
@@ -48,35 +57,72 @@ def log(message: str) -> None:
     print(f"{stamp()} {message}", flush=True)
 
 
+def write_status(section: str, values: dict[str, object]) -> None:
+    with STATUS_LOCK:
+        STATUS[section] = {
+            **dict(STATUS.get(section, {})),
+            **values,
+            "updatedAt": stamp(),
+        }
+        STATUS["updatedAt"] = stamp()
+        STATUS_FILE.parent.mkdir(parents=True, exist_ok=True)
+        temp = STATUS_FILE.with_suffix(".json.tmp")
+        temp.write_text(json.dumps(STATUS, ensure_ascii=False, indent=2), encoding="utf-8")
+        temp.replace(STATUS_FILE)
+
+
 def run_loop(name: str, interval: int, job: Callable[[], None]) -> None:
     while True:
         started = time.monotonic()
         try:
-            job()
+            result = job()
+            if isinstance(result, dict):
+                write_status(name, {"ok": True, **result})
+            else:
+                write_status(name, {"ok": True})
             log(f"{name} OK")
         except Exception as error:  # keep the cloud process alive
+            write_status(name, {"ok": False, "error": f"{type(error).__name__}: {error}"})
             log(f"{name} ERROR {type(error).__name__}: {error}")
         elapsed = time.monotonic() - started
         time.sleep(max(3, interval - elapsed))
 
 
-def update_live_once() -> None:
+def update_live_once() -> dict[str, object]:
     payload = live_bridge.fetch_feed()
     live_bridge.write_feed(payload)
-    log(f"live wrote {len(payload.get('matches', []))} matches")
+    matches = len(payload.get("matches", []))
+    log(f"live wrote {matches} matches")
+    return {
+        "matches": matches,
+        "provider": payload.get("provider"),
+        "sourceStatus": payload.get("sourceStatus", "ok"),
+    }
 
 
-def update_news_once() -> None:
+def update_news_once() -> dict[str, object]:
     feed = news_bridge.fetch_news()
     news_bridge.write_feed(feed)
-    log(f"news wrote {len(feed.get('articles', []))} articles")
+    articles = len(feed.get("articles", []))
+    log(f"news wrote {articles} articles")
+    return {"articles": articles, "provider": feed.get("provider")}
 
 
-def update_learning_once() -> None:
+def update_learning_once() -> dict[str, object]:
     learning_summary.main()
+    return {"summary": "updated"}
 
 
 class QuietHandler(http.server.SimpleHTTPRequestHandler):
+    def do_GET(self) -> None:
+        if self.path in {"/healthz", "/api/healthz"}:
+            self.send_response(200)
+            self.send_header("Content-Type", "application/json; charset=utf-8")
+            self.end_headers()
+            self.wfile.write(json.dumps({"ok": True, "updatedAt": stamp()}, ensure_ascii=False).encode("utf-8"))
+            return
+        super().do_GET()
+
     def log_message(self, format: str, *args) -> None:  # noqa: A002
         log(f"http {self.address_string()} {format % args}")
 

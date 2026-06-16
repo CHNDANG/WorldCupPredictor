@@ -2,31 +2,37 @@
 
 本项目当前在 `D:\WorldCupPredictor`。如果电脑关机，本地的 `127.0.0.1:4173`、实时比分桥接、新闻桥接都会停止。要在电脑关机后继续更新，必须把项目放到云服务器、NAS、家里另一台常开电脑、GitHub Actions、云函数等外部运行环境。
 
-## 推荐方案：VPS + Docker
+## 推荐方案：VPS + Docker（15 秒级）
 
 这是最接近“比赛开始后仍实时更新”的方案。云服务器不断电，网页和数据采集器都在云端跑。
 
-1. 把 `D:\WorldCupPredictor` 上传到云服务器。
-2. 在服务器安装 Docker 和 Docker Compose。
-3. 在项目目录运行：
+最省事的部署方式是在 Ubuntu VPS 上运行：
 
 ```bash
-docker compose up -d --build
+curl -fsSL https://raw.githubusercontent.com/CHNDANG/WorldCupPredictor/main/deploy-vps.sh -o deploy-vps.sh
+sudo bash deploy-vps.sh
 ```
 
-4. 打开：
+部署完成后打开：
 
 ```text
 http://服务器IP:4173/worldcup-predictions.html
 ```
 
-5. 查看日志：
+健康检查：
+
+```text
+http://服务器IP:4173/healthz
+http://服务器IP:4173/api/status.json
+```
+
+查看日志：
 
 ```bash
 docker compose logs -f
 ```
 
-6. 如果有 The Odds API 密钥，在 `docker-compose.yml` 里配置：
+如果有 The Odds API 密钥，在 `docker-compose.yml` 里配置：
 
 ```yaml
 ODDS_API_KEY: "你的密钥"
