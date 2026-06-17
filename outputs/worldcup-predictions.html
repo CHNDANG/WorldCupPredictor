@@ -2172,7 +2172,13 @@
         xgProxyTrust: 0.72,
         marketMoveScale: 0.85,
         lateGameConservatism: 0.18,
-        favoriteNoGoalPenalty: 0.2
+        favoriteNoGoalPenalty: 0.2,
+        goalEvidenceWeight: 0.42,
+        leadProtectionStrength: 0.2,
+        chaseBoostStrength: 0.18,
+        goalCooldownMinutes: 12,
+        goalCooldownStrength: 0.16,
+        staleAttackPenalty: 0.14
       }
     };
     let calibration = defaultCalibration;
@@ -2548,6 +2554,79 @@
       return clamp((homeThreat + priorShare * 0.65) / (homeThreat + awayThreat + 0.65), 0.08, 0.92);
     }
 
+    function teamSideFromEvent(event, state) {
+      const eventTeam = String(event?.team || "").toLowerCase();
+      const homeName = String(state?.homeName || "").toLowerCase();
+      const awayName = String(state?.awayName || "").toLowerCase();
+      if (eventTeam && homeName && eventTeam === homeName) return "home";
+      if (eventTeam && awayName && eventTeam === awayName) return "away";
+      const text = String(event?.text || "").toLowerCase();
+      if (homeName && text.includes(homeName)) return "home";
+      if (awayName && text.includes(awayName)) return "away";
+      return "";
+    }
+
+    function eventMinuteValue(event) {
+      const match = String(event?.minute || "").match(/\d+/);
+      return match ? Number(match[0]) : null;
+    }
+
+    function latestGoalInfo(state, minute) {
+      const scoring = (state?.events || [])
+        .filter(event => event.scoringPlay || String(event.type || "").toLowerCase().includes("goal"))
+        .map(event => ({
+          minute: eventMinuteValue(event),
+          side: teamSideFromEvent(event, state)
+        }))
+        .filter(item => Number.isFinite(item.minute));
+      if (!scoring.length) return { side: "", minute: null, age: null };
+      scoring.sort((a, b) => b.minute - a.minute);
+      const latest = scoring[0];
+      return {
+        ...latest,
+        age: Number.isFinite(minute) ? Math.max(0, minute - latest.minute) : null
+      };
+    }
+
+    function liveThreatSummary(state, trustedHomeXg = 0, trustedAwayXg = 0) {
+      const homeStats = state?.stats?.home || {};
+      const awayStats = state?.stats?.away || {};
+      const home = trustedHomeXg * 2
+        + (homeStats.shots || 0) * 0.09
+        + (homeStats.shotsOnTarget || 0) * 0.2
+        + (homeStats.corners || 0) * 0.06
+        + (homeStats.possession || 0) / 100 * 0.16;
+      const away = trustedAwayXg * 2
+        + (awayStats.shots || 0) * 0.09
+        + (awayStats.shotsOnTarget || 0) * 0.2
+        + (awayStats.corners || 0) * 0.06
+        + (awayStats.possession || 0) / 100 * 0.16;
+      const total = Math.max(home + away, 0.01);
+      const balance = clamp((home - away) / total, -1, 1);
+      return { home, away, total, balance };
+    }
+
+    function gameStateAdjustment(side, goalDiff, elapsed, threatBalance, latestGoal, cfg) {
+      const leading = side === "home" ? goalDiff > 0 : goalDiff < 0;
+      const trailing = side === "home" ? goalDiff < 0 : goalDiff > 0;
+      const absDiff = Math.abs(goalDiff);
+      const late = clamp((elapsed - 55) / 35, 0, 1);
+      const protection = leading
+        ? clamp(absDiff * (cfg.leadProtectionStrength ?? 0.2) * (0.45 + late), 0, 0.34)
+        : 0;
+      const chase = trailing
+        ? clamp(absDiff * (cfg.chaseBoostStrength ?? 0.18) * (0.45 + late), 0, 0.32)
+        : 0;
+      const threat = side === "home" ? threatBalance : -threatBalance;
+      const threatFactor = clamp(threat * 0.22, -0.18, 0.22);
+      const cooldownAge = latestGoal?.side === side ? latestGoal.age : null;
+      const cooldownWindow = cfg.goalCooldownMinutes ?? 12;
+      const cooldown = Number.isFinite(cooldownAge) && cooldownAge < cooldownWindow
+        ? (1 - cooldownAge / cooldownWindow) * (cfg.goalCooldownStrength ?? 0.16)
+        : 0;
+      return clamp(1 - protection + chase + threatFactor - cooldown, 0.58, 1.42);
+    }
+
     function pointPath(points, valueGetter, min, max, width = 680, height = 128, x0 = 20, y0 = 26) {
       if (!points.length) return "";
       const lastIndex = Math.max(points.length - 1, 1);
@@ -2744,12 +2823,11 @@
       const priorStrength = 3.6;
       const trustedHomeXg = homeXg * clamp(cfg.xgProxyTrust ?? 0.72, 0.35, 1);
       const trustedAwayXg = awayXg * clamp(cfg.xgProxyTrust ?? 0.72, 0.35, 1);
-      const homeObserved = Math.max(trustedHomeXg, homeGoals * 0.78);
-      const awayObserved = Math.max(trustedAwayXg, awayGoals * 0.78);
+      const goalEvidenceWeight = clamp(cfg.goalEvidenceWeight ?? 0.42, 0.2, 0.7);
+      const homeObserved = Math.max(trustedHomeXg, homeGoals * goalEvidenceWeight);
+      const awayObserved = Math.max(trustedAwayXg, awayGoals * goalEvidenceWeight);
       const homePosteriorRate = (match.lambdaA * priorStrength + homeObserved) / (priorStrength + Math.max(elapsedRatio, 0.12));
       const awayPosteriorRate = (match.lambdaB * priorStrength + awayObserved) / (priorStrength + Math.max(elapsedRatio, 0.12));
-      const scorePressureHome = clamp((awayGoals - homeGoals) * 0.12, -0.22, 0.28);
-      const scorePressureAway = clamp((homeGoals - awayGoals) * 0.12, -0.22, 0.28);
       const tempoFactor = 1 + clamp(tempo, -30, 40) / 100;
       const redCardHomeFactor = Math.pow(0.72, homeReds) * Math.pow(1.18, awayReds);
       const redCardAwayFactor = Math.pow(0.72, awayReds) * Math.pow(1.18, homeReds);
@@ -2780,9 +2858,18 @@
       const blendedAway = fusedTotalRate * (1 - fusedShare) * (1 - evidence) + awayPosteriorRate * evidence;
       const divergence = Math.abs(priorTotalRate - liveTotalRate) + Math.abs(priorTotalRate - marketTotalRate) + Math.abs(liveShare - marketShare) * 2.2;
       const uncertainty = clamp(1 - quality + divergence / 8 + (homeReds + awayReds) * 0.18, 0.08, 0.72);
+      const threat = liveThreatSummary(state, trustedHomeXg, trustedAwayXg);
+      const goalDiff = homeGoals - awayGoals;
+      const latestGoal = latestGoalInfo(state, elapsed);
+      const homeStateFactor = gameStateAdjustment("home", goalDiff, elapsed, threat.balance, latestGoal, cfg);
+      const awayStateFactor = gameStateAdjustment("away", goalDiff, elapsed, threat.balance, latestGoal, cfg);
+      const staleAttackPenalty = cfg.staleAttackPenalty ?? 0.14;
+      const lowThreatFactor = elapsed >= 18 && threat.total < 0.95
+        ? 1 - staleAttackPenalty * clamp((0.95 - threat.total) / 0.95, 0, 1)
+        : 1;
       return {
-        home: clamp(blendedHome * remainingRatio * tempoFactor * redCardHomeFactor * marketHomeFactor * (1 + scorePressureHome + underPerfHome), 0.03, 5.8),
-        away: clamp(blendedAway * remainingRatio * tempoFactor * redCardAwayFactor * marketAwayFactor * (1 + scorePressureAway + underPerfAway), 0.03, 5.8),
+        home: clamp(blendedHome * remainingRatio * tempoFactor * redCardHomeFactor * marketHomeFactor * homeStateFactor * lowThreatFactor * (1 + underPerfHome), 0.03, 5.8),
+        away: clamp(blendedAway * remainingRatio * tempoFactor * redCardAwayFactor * marketAwayFactor * awayStateFactor * lowThreatFactor * (1 + underPerfAway), 0.03, 5.8),
         remainingRatio,
         evidence,
         quality,
@@ -2791,6 +2878,11 @@
         weights,
         marketTotalRate,
         liveTotalRate,
+        threatBalance: threat.balance,
+        latestGoal,
+        homeStateFactor,
+        awayStateFactor,
+        lowThreatFactor,
         posteriorHomeRate: homePosteriorRate,
         posteriorAwayRate: awayPosteriorRate
       };
@@ -2856,7 +2948,13 @@
         : "赛前模式下主要使用盘口校准后的双方期望进球先验。";
       const subs = substitutionEvents(lastLiveState).length;
       const substitutionPart = subs ? `当前已纳入 ${subs} 次换人作为节奏和体能证据。` : "当前没有可用换人事件。";
-      liveExplain.textContent = `${xgPart} ${substitutionPart} 模型用融合后的剩余 λ 计算比分分布；若数据质量低或模型分歧高，会自动降低置信、抬高小比分/平局尾部。`;
+      const stateFactorPart = minute > 0
+        ? `比赛状态修正：主队 ${result.lambdas.homeStateFactor.toFixed(2)}x，客队 ${result.lambdas.awayStateFactor.toFixed(2)}x；场面威胁差 ${result.lambdas.threatBalance.toFixed(2)}，低威胁折扣 ${result.lambdas.lowThreatFactor.toFixed(2)}x。`
+        : "";
+      const goalPart = result.lambdas.latestGoal?.side
+        ? `最近进球来自${result.lambdas.latestGoal.side === "home" ? "主队" : "客队"}，约 ${result.lambdas.latestGoal.age} 分钟前，短期不会机械追涨。`
+        : "暂无最近进球冷却信号。";
+      liveExplain.textContent = `${xgPart} ${substitutionPart} ${stateFactorPart} ${goalPart} 模型用融合后的剩余 λ 计算比分分布；若数据质量低或模型分歧高，会自动降低置信、抬高小比分/平局尾部。`;
       renderCorrectScores(lastLiveState, result);
       renderReview(match, lastLiveState, best);
     }

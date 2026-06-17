@@ -8,7 +8,13 @@
     "xgProxyTrust": 0.72,
     "marketMoveScale": 0.85,
     "lateGameConservatism": 0.18,
-    "favoriteNoGoalPenalty": 0.2
+    "favoriteNoGoalPenalty": 0.2,
+    "goalEvidenceWeight": 0.42,
+    "leadProtectionStrength": 0.2,
+    "chaseBoostStrength": 0.18,
+    "goalCooldownMinutes": 12,
+    "goalCooldownStrength": 0.16,
+    "staleAttackPenalty": 0.14
   },
   "rules": [
     {
@@ -28,6 +34,18 @@
       "name": "redCardShock",
       "description": "Red cards override normal pace estimates and increase uncertainty.",
       "uncertaintyBoost": 0.18
+    },
+    {
+      "name": "postGoalCooldown",
+      "description": "A recent goal is treated as a completed event, not automatic proof that the same side will score next.",
+      "cooldownMinutes": 12,
+      "goalEvidenceWeight": 0.42
+    },
+    {
+      "name": "leadingTeamGameState",
+      "description": "Leading teams are more likely to manage tempo unless live threat and market confirmation stay strong.",
+      "leadProtectionStrength": 0.2,
+      "chaseBoostStrength": 0.18
     }
   ],
   "learningLog": []
