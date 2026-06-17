@@ -417,6 +417,10 @@
       margin-bottom: 10px;
     }
 
+    .time-filters {
+      margin-bottom: 10px;
+    }
+
     .filter {
       appearance: none;
       border: 1px solid rgba(255, 255, 255, 0.13);
@@ -458,6 +462,27 @@
       display: grid;
       grid-template-columns: repeat(3, minmax(0, 1fr));
       gap: 16px;
+    }
+
+    .date-divider {
+      grid-column: 1 / -1;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 12px;
+      margin-top: 4px;
+      padding: 10px 12px;
+      border-radius: 12px;
+      color: rgba(247,251,255,0.86);
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.11);
+      font-weight: 850;
+    }
+
+    .date-divider span {
+      color: var(--muted);
+      font-size: 12px;
+      font-weight: 700;
     }
 
     .empty-state {
@@ -1544,6 +1569,13 @@
           <button class="filter view-filter active counted" data-view="active" data-count="0">未完成/进行中</button>
           <button class="filter view-filter counted" data-view="completed" data-count="0">已完成复盘</button>
         </div>
+        <div class="filters time-filters" role="tablist" aria-label="时间范围筛选">
+          <button class="filter time-filter active counted" data-time-filter="near" data-count="0">近期</button>
+          <button class="filter time-filter counted" data-time-filter="today" data-count="0">今天</button>
+          <button class="filter time-filter counted" data-time-filter="threeDays" data-count="0">未来3天</button>
+          <button class="filter time-filter counted" data-time-filter="later" data-count="0">后续</button>
+          <button class="filter time-filter counted" data-time-filter="all" data-count="0">全部</button>
+        </div>
         <div class="filters" role="tablist" aria-label="预测筛选">
           <button class="filter active" data-filter="all">全部</button>
           <button class="filter" data-filter="safe">热门强势</button>
@@ -2047,9 +2079,11 @@
     const matchCount = document.querySelector("#matchCount");
     const predictionViewNote = document.querySelector("#predictionViewNote");
     const viewFilters = document.querySelectorAll(".view-filter");
+    const timeFilters = document.querySelectorAll(".time-filter");
     const completedFallbackIds = new Set(["esp-cpv", "bel-egy", "ksa-uru", "irn-nzl"]);
     let currentTypeFilter = "all";
     let currentViewFilter = "active";
+    let currentTimeFilter = "near";
     let matchStates = new Map([...completedFallbackIds].map(id => [id, { status: "ft" }]));
 
     function tagClass(type) {
@@ -2094,19 +2128,73 @@
       return matches.filter(match => currentViewFilter === "completed" ? isCompleted(match) : !isCompleted(match));
     }
 
+    function kickoffTime(match) {
+      return match.kickoffUtc ? new Date(match.kickoffUtc).getTime() : 0;
+    }
+
+    function startOfLocalDay(time = Date.now()) {
+      const date = new Date(time);
+      date.setHours(0, 0, 0, 0);
+      return date.getTime();
+    }
+
+    function matchInTimeFilter(match, filter = currentTimeFilter) {
+      if (filter === "all") return true;
+      const kickoff = kickoffTime(match);
+      if (!kickoff) return filter === "near";
+      const now = Date.now();
+      const todayStart = startOfLocalDay(now);
+      const tomorrowStart = todayStart + 24 * 60 * 60 * 1000;
+      const threeDaysEnd = todayStart + 3 * 24 * 60 * 60 * 1000;
+      if (filter === "today") return kickoff >= todayStart && kickoff < tomorrowStart;
+      if (filter === "threeDays") return kickoff >= todayStart && kickoff < threeDaysEnd;
+      if (filter === "later") return kickoff >= threeDaysEnd;
+      if (filter === "near") {
+        if (currentViewFilter === "completed") return now - kickoff <= 36 * 60 * 60 * 1000;
+        return kickoff < todayStart + 2 * 24 * 60 * 60 * 1000;
+      }
+      return true;
+    }
+
     function filteredMatches() {
-      return matchesForCurrentView().filter(match => currentTypeFilter === "all" || match.type === currentTypeFilter);
+      return matchesForCurrentView()
+        .filter(match => matchInTimeFilter(match))
+        .filter(match => currentTypeFilter === "all" || match.type === currentTypeFilter)
+        .sort((a, b) => kickoffTime(a) - kickoffTime(b));
+    }
+
+    function dateGroupLabel(match) {
+      if (!match.kickoffUtc) return "待定时间";
+      return new Date(match.kickoffUtc).toLocaleDateString("zh-CN", {
+        timeZone: "Asia/Shanghai",
+        month: "numeric",
+        day: "numeric",
+        weekday: "short"
+      });
+    }
+
+    function timeFilterLabel() {
+      const active = document.querySelector(".time-filter.active");
+      return active?.textContent?.replace(/\d+$/, "").trim() || "近期";
     }
 
     function updatePredictionCounts() {
       const activeCount = matches.filter(match => !isCompleted(match)).length;
       const completedCount = matches.filter(isCompleted).length;
+      const baseForTime = matchesForCurrentView();
       matchCount.textContent = activeCount;
       document.querySelector('[data-view="active"]')?.setAttribute("data-count", String(activeCount));
       document.querySelector('[data-view="completed"]')?.setAttribute("data-count", String(completedCount));
+      timeFilters.forEach(button => {
+        const value = button.dataset.timeFilter || "near";
+        const count = baseForTime.filter(match => matchInTimeFilter(match, value)).length;
+        button.setAttribute("data-count", String(count));
+      });
+      const visibleCount = filteredMatches().length;
+      const rangePrefix = currentTimeFilter === "near" ? "默认按" : "当前按";
       predictionViewNote.textContent = currentViewFilter === "completed"
-        ? `当前显示 ${completedCount} 场已完成比赛，可回看赛前预测、赛中动态和完场偏差。`
-        : `默认隐藏已完成比赛；当前显示 ${activeCount} 场未开赛或进行中的预测。`;
+        ? `当前按“${timeFilterLabel()}”显示 ${visibleCount} 场已完成比赛，可回看赛前预测、赛中动态和完场偏差。`
+        : `${rangePrefix}“${timeFilterLabel()}”显示 ${visibleCount} 场未开赛或进行中的预测；可切换今天、未来3天、后续或全部。`;
     }
 
     function renderPredictionSurfaces() {
@@ -2143,7 +2231,17 @@
         cards.innerHTML = `<div class="empty-state">当前筛选下没有比赛。可以切换到“未完成/进行中”或“已完成复盘”，也可以把类型筛选改回“全部”。</div>`;
         return;
       }
+      let activeDateGroup = "";
       visibleMatches.forEach((match, index) => {
+          const groupLabel = dateGroupLabel(match);
+          if (groupLabel !== activeDateGroup) {
+            activeDateGroup = groupLabel;
+            const groupMatches = visibleMatches.filter(item => dateGroupLabel(item) === groupLabel).length;
+            const divider = document.createElement("div");
+            divider.className = "date-divider";
+            divider.innerHTML = `<b>${groupLabel}</b><span>${groupMatches} 场</span>`;
+            cards.appendChild(divider);
+          }
           const card = document.createElement("article");
           card.className = "card fade-in";
           card.style.animationDelay = `${Math.min(index * 55, 320)}ms`;
@@ -3256,13 +3354,26 @@
         viewFilters.forEach(item => item.classList.remove("active"));
         button.classList.add("active");
         currentViewFilter = button.dataset.view || "active";
+        if (currentTimeFilter === "all") {
+          currentTimeFilter = "near";
+          timeFilters.forEach(item => item.classList.toggle("active", item.dataset.timeFilter === "near"));
+        }
         renderPredictionSurfaces();
       });
     });
 
-    document.querySelectorAll(".filters:not(.view-filters) .filter").forEach(button => {
+    timeFilters.forEach(button => {
       button.addEventListener("click", () => {
-        document.querySelectorAll(".filters:not(.view-filters) .filter").forEach(item => item.classList.remove("active"));
+        timeFilters.forEach(item => item.classList.remove("active"));
+        button.classList.add("active");
+        currentTimeFilter = button.dataset.timeFilter || "near";
+        renderPredictionSurfaces();
+      });
+    });
+
+    document.querySelectorAll(".filters:not(.view-filters):not(.time-filters) .filter").forEach(button => {
+      button.addEventListener("click", () => {
+        document.querySelectorAll(".filters:not(.view-filters):not(.time-filters) .filter").forEach(item => item.classList.remove("active"));
         button.classList.add("active");
         currentTypeFilter = button.dataset.filter || "all";
         renderPredictionSurfaces();
