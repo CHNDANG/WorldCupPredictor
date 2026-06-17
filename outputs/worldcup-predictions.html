@@ -1946,6 +1946,27 @@
       renderTable();
     }
 
+    async function refreshPredictionSurfacesFromFeed() {
+      try {
+        const response = await fetch(`./live-feed.json?predictions=${Date.now()}`, { cache: "no-store" });
+        if (!response.ok) throw new Error(`HTTP ${response.status}`);
+        const feed = await response.json();
+        matchStates = new Map([
+          ...matchStates,
+          ...(feed.matches || []).map(item => [item.id, item])
+        ]);
+      } catch (error) {
+        predictionViewNote.textContent = `赛程预测半小时更新一次；本次读取实时状态失败：${error.message}`;
+      }
+      renderPredictionSurfaces();
+    }
+
+    function startPredictionSurfacePolling() {
+      if (predictionSurfaceTimer) window.clearInterval(predictionSurfaceTimer);
+      refreshPredictionSurfacesFromFeed();
+      predictionSurfaceTimer = window.setInterval(refreshPredictionSurfacesFromFeed, 1800000);
+    }
+
     function renderCards() {
       cards.innerHTML = "";
       const visibleMatches = filteredMatches();
@@ -2085,6 +2106,7 @@
     let lastFeedSignature = "";
     let userSelectedLiveMatch = false;
     let liveFeedTimer = null;
+    let predictionSurfaceTimer = null;
     let newsFeedTimer = null;
     let learningTimer = null;
     const defaultCalibration = {
@@ -2781,7 +2803,6 @@
           ...(feed.matches || []).map(item => [item.id, item])
         ]);
         renderLiveMatchOptions(Number(liveMatch.value), true);
-        renderPredictionSurfaces();
         const match = matches[Number(liveMatch.value) || 0];
         const state = (feed.matches || []).find(item => item.id === match.id);
         const signature = JSON.stringify({ id: match.id, state, updatedAt: feed.updatedAt });
@@ -2870,7 +2891,7 @@
       });
     });
 
-      renderPredictionSurfaces();
+      startPredictionSurfacePolling();
       initLiveModel();
       startNewsFeedPolling();
       startLearningPolling();
