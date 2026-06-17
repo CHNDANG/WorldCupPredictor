@@ -28,7 +28,11 @@ LOG = ROOT / "work" / "live-feed-bridge-espn.log"
 SCOREBOARD_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard"
 SUMMARY_URL = "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/summary?event={event_id}"
 ODDS_API_URL = "https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/odds"
+ODDS_API_EVENT_URL = "https://api.the-odds-api.com/v4/sports/soccer_fifa_world_cup/events/{event_id}/odds"
 ODDS_API_KEY_ENV = "THE_ODDS_API_KEY"
+CORRECT_SCORE_MARKET_KEYS = {"correct_score", "correctscore", "exact_score", "score_exact"}
+ODDS_API_EVENT_CACHE_SECONDS = 60
+ODDS_API_EVENT_CACHE: dict[str, tuple[float, dict[str, Any]]] = {}
 
 EVENT_MAP = {
     "760428": "esp-cpv",
@@ -193,6 +197,12 @@ def american_probability(raw: Any) -> float | None:
     return 100 / (odds + 100)
 
 
+def odds_available(raw: Any) -> bool:
+    if raw is None:
+        return False
+    return str(raw).strip() != ""
+
+
 def decimal_to_american(raw: Any) -> str | None:
     if raw is None:
         return None
@@ -205,6 +215,71 @@ def decimal_to_american(raw: Any) -> str | None:
     if decimal >= 2:
         return f"+{round((decimal - 1) * 100):.0f}"
     return f"{round(-100 / (decimal - 1)):.0f}"
+
+
+def score_label_from_outcome(outcome: dict[str, Any]) -> str | None:
+    for field in ("name", "description", "label"):
+        value = outcome.get(field)
+        if not value:
+            continue
+        text = str(value).strip()
+        match = re.search(r"\b(\d{1,2})\s*[-:]\s*(\d{1,2})\b", text)
+        if match:
+            return f"{int(match.group(1))}:{int(match.group(2))}"
+    home_score = outcome.get("homeScore") or outcome.get("home_score") or outcome.get("home")
+    away_score = outcome.get("awayScore") or outcome.get("away_score") or outcome.get("away")
+    if home_score is not None and away_score is not None:
+        try:
+            return f"{int(home_score)}:{int(away_score)}"
+        except (TypeError, ValueError):
+            return None
+    return None
+
+
+def parse_correct_score_market(bookmaker: dict[str, Any], markets: list[dict[str, Any]]) -> dict[str, Any] | None:
+    scores = []
+    for market in markets:
+        key = normalize_team_name(market.get("key") or market.get("name") or market.get("type")).replace(" ", "_")
+        if key not in CORRECT_SCORE_MARKET_KEYS and "correct" not in key and "exact" not in key:
+            continue
+        for outcome in market.get("outcomes") or market.get("prices") or []:
+            score = score_label_from_outcome(outcome)
+            price = outcome.get("price") or outcome.get("odds") or outcome.get("americanOdds")
+            if score and odds_available(price):
+                scores.append(
+                    {
+                        "score": score,
+                        "price": str(price),
+                        "sourceLabel": outcome.get("name") or outcome.get("description") or score,
+                    }
+                )
+    if not scores:
+        return None
+    return {
+        "provider": bookmaker.get("title")
+        or bookmaker.get("provider", {}).get("name")
+        or bookmaker.get("key")
+        or "Odds",
+        "scope": "live",
+        "scores": scores[:18],
+        "source": bookmaker.get("source") or "bookmaker",
+        "updatedAt": bookmaker.get("last_update"),
+    }
+
+
+def correct_score_snapshots(summary: dict[str, Any]) -> list[dict[str, Any]]:
+    snapshots = []
+    for market in summary.get("odds") or []:
+        candidate_markets = market.get("markets") or market.get("correctScore") or market.get("correct_score") or []
+        if isinstance(candidate_markets, dict):
+            candidate_markets = [candidate_markets]
+        parsed = parse_correct_score_market(
+            {"provider": market.get("provider", {}), "source": "ESPN"},
+            candidate_markets,
+        )
+        if parsed:
+            snapshots.append(parsed)
+    return snapshots
 
 
 def odds_snapshot(summary: dict[str, Any]) -> dict[str, Any]:
@@ -338,6 +413,28 @@ def odds_api_events() -> list[dict[str, Any]]:
         return []
 
 
+def fetch_odds_api_event_odds(event_id: str, markets: str) -> dict[str, Any]:
+    api_key = os.environ.get(ODDS_API_KEY_ENV)
+    if not api_key:
+        return {}
+    cache_key = f"{event_id}:{markets}"
+    cached = ODDS_API_EVENT_CACHE.get(cache_key)
+    now = time.time()
+    if cached and now - cached[0] < ODDS_API_EVENT_CACHE_SECONDS:
+        return cached[1]
+    query = urllib.parse.urlencode(
+        {
+            "apiKey": api_key,
+            "regions": "us,uk,eu",
+            "markets": markets,
+            "oddsFormat": "american",
+        }
+    )
+    payload = fetch_json(ODDS_API_EVENT_URL.format(event_id=event_id) + f"?{query}")
+    ODDS_API_EVENT_CACHE[cache_key] = (now, payload)
+    return payload
+
+
 def find_odds_api_event(local_id: str, events: list[dict[str, Any]]) -> dict[str, Any] | None:
     home_alias, away_alias = TEAM_ALIAS.get(local_id, ("", ""))
     for event in events:
@@ -347,6 +444,26 @@ def find_odds_api_event(local_id: str, events: list[dict[str, Any]]) -> dict[str
         if home_alias in teams and away_alias in teams:
             return event
     return None
+
+
+def odds_api_correct_scores(local_id: str, events: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    event = find_odds_api_event(local_id, events)
+    if not event:
+        return []
+    try:
+        details = fetch_odds_api_event_odds(str(event.get("id")), "correct_score")
+    except Exception as error:
+        log_line(f"ODDS_API_CORRECT_SCORE_WARN {local_id} {type(error).__name__}: {error}")
+        return []
+    snapshots = []
+    for bookmaker in details.get("bookmakers", []):
+        parsed = parse_correct_score_market(
+            {**bookmaker, "source": "The Odds API"},
+            bookmaker.get("markets", []),
+        )
+        if parsed:
+            snapshots.append(parsed)
+    return snapshots
 
 
 def odds_api_bookmakers(local_id: str, events: list[dict[str, Any]]) -> list[dict[str, Any]]:
@@ -471,6 +588,10 @@ def build_state(event: dict[str, Any], external_odds_events: list[dict[str, Any]
     espn_bookmakers = bookmaker_snapshots(summary)
     external_bookmakers = odds_api_bookmakers(local_id, external_odds_events or [])
     bookmakers = merge_bookmakers(espn_bookmakers, external_bookmakers)
+    correct_score_markets = [
+        *correct_score_snapshots(summary),
+        *odds_api_correct_scores(local_id, external_odds_events or []),
+    ]
     if state == "in":
         local_status = "live"
     elif state == "post":
@@ -497,9 +618,11 @@ def build_state(event: dict[str, Any], external_odds_events: list[dict[str, Any]
         "stats": {"home": compact_stats(home_stats), "away": compact_stats(away_stats)},
         "odds": odds,
         "bookmakers": bookmakers,
+        "correctScoreMarkets": correct_score_markets,
         "bookmakerSourceStatus": {
             "espn": len([book for book in espn_bookmakers if book.get("available")]),
             "oddsApi": len([book for book in external_bookmakers if book.get("available")]),
+            "correctScore": len(correct_score_markets),
             "oddsApiConfigured": bool(os.environ.get(ODDS_API_KEY_ENV)),
         },
         "events": event_stream(summary),

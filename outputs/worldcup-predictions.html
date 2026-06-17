@@ -973,7 +973,7 @@
       margin-top: 16px;
     }
 
-    .chart-card, .event-card, .substitution-card, .review-card, .bookmaker-card, .news-card, .learning-card {
+    .chart-card, .event-card, .substitution-card, .review-card, .bookmaker-card, .correct-score-card, .news-card, .learning-card {
       border: 1px solid rgba(255,255,255,0.12);
       border-radius: 14px;
       padding: clamp(16px, 2.4vw, 24px);
@@ -981,7 +981,7 @@
       box-shadow: var(--shadow);
     }
 
-    .chart-card h3, .event-card h3, .substitution-card h3, .review-card h3, .bookmaker-card h3, .news-card h3, .learning-card h3 {
+    .chart-card h3, .event-card h3, .substitution-card h3, .review-card h3, .bookmaker-card h3, .correct-score-card h3, .news-card h3, .learning-card h3 {
       margin: 0 0 14px;
       font-size: 21px;
     }
@@ -1121,6 +1121,54 @@
     .bookmaker-item.pending {
       opacity: 0.62;
       border-style: dashed;
+    }
+
+    .correct-score-card {
+      margin-top: 14px;
+    }
+
+    .correct-score-grid {
+      display: grid;
+      grid-template-columns: repeat(6, minmax(0, 1fr));
+      gap: 8px;
+    }
+
+    .correct-score-item {
+      padding: 12px;
+      border-radius: 12px;
+      background: rgba(255,255,255,0.065);
+      border: 1px solid rgba(255,255,255,0.1);
+      min-height: 82px;
+    }
+
+    .correct-score-item.real {
+      border-color: rgba(117,244,178,0.36);
+      background: rgba(117,244,178,0.09);
+    }
+
+    .correct-score-item.pending {
+      grid-column: 1 / -1;
+      border-style: dashed;
+      opacity: 0.72;
+    }
+
+    .correct-score-item span {
+      display: block;
+      color: var(--muted);
+      font-size: 11px;
+      line-height: 1.45;
+    }
+
+    .correct-score-item strong {
+      display: block;
+      margin: 5px 0 4px;
+      font-size: 20px;
+    }
+
+    .correct-score-item b {
+      display: block;
+      font-size: 16px;
+      color: var(--lime);
     }
 
     .odds-chart {
@@ -1420,7 +1468,7 @@
       .mini-score { width: 88px; }
       .market-strip { grid-template-columns: 1fr; }
       .live-inputs, .lambda-grid { grid-template-columns: 1fr; }
-      .live-intel, .stat-radar, .review-grid, .bookmaker-grid, .news-grid, .learning-grid { grid-template-columns: 1fr; }
+      .live-intel, .stat-radar, .review-grid, .bookmaker-grid, .correct-score-grid, .news-grid, .learning-grid { grid-template-columns: 1fr; }
       .scoreline { grid-template-columns: 1fr; }
       .scoreline .side.right { text-align: left; }
       .wrap { width: min(100% - 28px, 1320px); }
@@ -1637,6 +1685,11 @@
           <h3>全球博彩公司实时盘口</h3>
           <div class="bookmaker-grid" id="bookmakerGrid"></div>
           <p class="live-note" id="bookmakerNote">当前自动读取 ESPN 可返回的博彩公司盘口；接入赔率聚合接口后，会把 Pinnacle、Bet365、FanDuel、BetMGM、Caesars、William Hill 等实时盘口补齐。</p>
+        </div>
+        <div class="correct-score-card">
+          <h3>滚球波胆倍数</h3>
+          <div class="correct-score-grid" id="correctScoreGrid"></div>
+          <p class="live-note" id="correctScoreNote">优先展示真实博彩公司波胆；若实时源暂未返回波胆盘口，则用当前赛中模型分布换算参考倍数。</p>
         </div>
         <div class="review-card">
           <h3>赛后复盘与校准</h3>
@@ -2092,6 +2145,8 @@
       const substitutionNote = document.querySelector("#substitutionNote");
       const bookmakerGrid = document.querySelector("#bookmakerGrid");
       const bookmakerNote = document.querySelector("#bookmakerNote");
+      const correctScoreGrid = document.querySelector("#correctScoreGrid");
+      const correctScoreNote = document.querySelector("#correctScoreNote");
     const newsGrid = document.querySelector("#newsGrid");
     const newsSync = document.querySelector("#newsSync");
     const learningGrid = document.querySelector("#learningGrid");
@@ -2179,28 +2234,33 @@
       return names[name] || name || "";
     }
 
-    function americanProfitPer100(raw) {
+    function americanDecimalMultiple(raw) {
       if (raw === null || raw === undefined || raw === "") return null;
       const odds = Number(String(raw).replace("+", ""));
       if (!Number.isFinite(odds)) return null;
-      return odds > 0 ? odds : 10000 / Math.abs(odds);
+      return odds > 0 ? 1 + odds / 100 : 1 + 100 / Math.abs(odds);
     }
 
-    function yuanReturnText(raw) {
-      const profit = americanProfitPer100(raw);
-      if (profit === null) return "100元返还 --";
-      return `100元返还 ¥${(100 + profit).toFixed(2)}`;
+    function multipleText(raw) {
+      const multiple = americanDecimalMultiple(raw);
+      if (multiple === null) return "--";
+      if (multiple >= 100) return `${Math.round(multiple)}倍`;
+      if (multiple >= 10) return `${multiple.toFixed(1)}倍`;
+      return `${multiple.toFixed(2)}倍`;
     }
 
-    function yuanProfitText(raw) {
-      const profit = americanProfitPer100(raw);
-      if (profit === null) return "盈利 --";
-      return `盈利 ¥${profit.toFixed(2)}`;
+    function probabilityMultipleText(probability) {
+      const value = Number(probability);
+      if (!Number.isFinite(value) || value <= 0) return "--";
+      const multiple = 1 / value;
+      if (multiple >= 100) return `${Math.round(multiple)}倍`;
+      if (multiple >= 10) return `${multiple.toFixed(1)}倍`;
+      return `${multiple.toFixed(2)}倍`;
     }
 
     function oddsText(odds) {
       if (!odds || !odds.provider) return "ESPN 暂无赔率字段";
-      return `${odds.provider} 即时胜平负 ${odds.homeMoneyline || "-"} / ${odds.drawMoneyline || "-"} / ${odds.awayMoneyline || "-"}，让球 ${localizeLine(odds.spreadLine) || "-"}，总进球 ${localizeLine(odds.totalLine) || "-"}；主胜按100元本金返还 ${yuanReturnText(odds.homeMoneyline).replace("100元返还 ", "")}`;
+      return `${odds.provider} 即时独赢倍数 ${multipleText(odds.homeMoneyline)} / 平局 ${multipleText(odds.drawMoneyline)} / 客胜 ${multipleText(odds.awayMoneyline)}，让球 ${localizeLine(odds.spreadLine) || "-"}，总进球 ${localizeLine(odds.totalLine) || "-"}`;
     }
 
     function localizeLine(value) {
@@ -2208,8 +2268,31 @@
       return String(value)
         .replace("ESP", "西班牙")
         .replace("CPV", "佛得角")
+        .replace("ARG", "阿根廷")
+        .replace("ALG", "阿尔及利亚")
+        .replace("AUT", "奥地利")
+        .replace("JOR", "约旦")
+        .replace("FRA", "法国")
+        .replace("SEN", "塞内加尔")
+        .replace("IRQ", "伊拉克")
+        .replace("NOR", "挪威")
+        .replace("POR", "葡萄牙")
+        .replace("COD", "民主刚果")
+        .replace("BEL", "比利时")
+        .replace("EGY", "埃及")
+        .replace("KSA", "沙特")
+        .replace("URU", "乌拉圭")
+        .replace("IRN", "伊朗")
+        .replace("NZL", "新西兰")
         .replace(/^o/, "大 ")
         .replace(/^u/, "小 ");
+    }
+
+    function displayProvider(value) {
+      return String(value || "博彩公司")
+        .replace(" - Live Odds", " 实时赔率")
+        .replace("Live Odds", "实时赔率")
+        .replace("Odds", "赔率");
     }
 
     function scopeLabel(scope) {
@@ -2226,10 +2309,8 @@
       return `
         <div>
           <span>${label}</span>
-          <strong>${odd || "--"}</strong>
-          <span>${formatImplied(implied)}</span>
-          <span>${yuanReturnText(odd)}</span>
-          <span>${yuanProfitText(odd)}</span>
+          <strong>${multipleText(odd)}</strong>
+          <span>盘口概率 ${formatImplied(implied)}</span>
         </div>
       `;
     }
@@ -2250,7 +2331,7 @@
       bookmakerGrid.innerHTML = sorted.map(book => `
         <div class="bookmaker-item">
           <div class="bookmaker-head">
-            <b>${book.provider}</b>
+            <b>${displayProvider(book.provider)}</b>
             <span class="tag ${book.scope === "live" ? "hot" : ""}">${scopeLabel(book.scope)}</span>
           </div>
           <div class="bookmaker-odds">
@@ -2268,7 +2349,54 @@
       const oddsApiText = state?.bookmakerSourceStatus?.oddsApiConfigured
         ? `聚合赔率接口已启用，当前补充 ${state.bookmakerSourceStatus.oddsApi || 0} 家。`
         : "聚合赔率接口未配置，后台仍会持续监控 ESPN 返回的新公司盘口。";
-      bookmakerNote.textContent = `当前显示 ${sorted.length} 家有可读盘口的博彩公司，后续一旦有新公司返回实时数据会自动出现。金额按人民币 100 元本金折算为潜在总返还，不代表投注建议。${oddsApiText}`;
+      bookmakerNote.textContent = `当前显示 ${sorted.length} 家有可读盘口的博彩公司，后续一旦有新公司返回实时数据会自动出现。赔率统一换算为十进制倍数，不代表投注建议。${oddsApiText}`;
+    }
+
+    function flattenRealCorrectScores(state) {
+      const markets = state?.correctScoreMarkets || [];
+      return markets.flatMap(market => (market.scores || [])
+        .filter(item => item?.score && item?.price)
+        .map(item => ({
+          provider: market.provider || "博彩公司",
+          scope: market.scope,
+          score: String(item.score).replace("-", ":"),
+          multiple: multipleText(item.price),
+          raw: item.price,
+          real: true
+        })));
+    }
+
+    function renderCorrectScores(state, result) {
+      const realScores = flattenRealCorrectScores(state);
+      if (realScores.length) {
+        correctScoreGrid.innerHTML = realScores.slice(0, 12).map(item => `
+          <div class="correct-score-item real">
+            <span>${displayProvider(item.provider)} · ${scopeLabel(item.scope)}</span>
+            <strong>${item.score}</strong>
+            <b>${item.multiple}</b>
+            <span>真实波胆盘口</span>
+          </div>
+        `).join("");
+        correctScoreNote.textContent = `当前显示 ${realScores.length} 条真实滚球波胆盘口，按博彩公司返回赔率换算为倍数。`;
+        return;
+      }
+      if (!result?.rows?.length) {
+        correctScoreGrid.innerHTML = `<div class="correct-score-item pending"><span>等待模型</span><strong>暂无波胆</strong><b>--</b><span>实时比分源同步后会自动生成。</span></div>`;
+        correctScoreNote.textContent = "暂无真实波胆盘口，也还没有可用的模型比分分布。";
+        return;
+      }
+      correctScoreGrid.innerHTML = result.rows.slice(0, 6).map(row => `
+        <div class="correct-score-item">
+          <span>模型参考波胆</span>
+          <strong>${row.finalHome}:${row.finalAway}</strong>
+          <b>${probabilityMultipleText(row.probability)}</b>
+          <span>概率约 ${Math.round(row.probability * 100)}%</span>
+        </div>
+      `).join("");
+      const sourceText = state?.bookmakerSourceStatus?.correctScore
+        ? "赔率源返回了波胆字段但当前没有可读比分项。"
+        : "当前实时源暂未返回真实波胆盘口。";
+      correctScoreNote.textContent = `${sourceText}这里展示模型分布换算出的参考倍数，例如 2% 约等于 50倍，不代表真实可交易赔率。`;
     }
 
     function formatNewsTime(value) {
@@ -2729,6 +2857,7 @@
       const subs = substitutionEvents(lastLiveState).length;
       const substitutionPart = subs ? `当前已纳入 ${subs} 次换人作为节奏和体能证据。` : "当前没有可用换人事件。";
       liveExplain.textContent = `${xgPart} ${substitutionPart} 模型用融合后的剩余 λ 计算比分分布；若数据质量低或模型分歧高，会自动降低置信、抬高小比分/平局尾部。`;
+      renderCorrectScores(lastLiveState, result);
       renderReview(match, lastLiveState, best);
     }
 
@@ -2819,6 +2948,7 @@
             renderEventList(null);
             renderSubstitutions(null);
             renderBookmakers(null);
+            renderCorrectScores(null, lastLiveResult);
           }
         }
       } catch (error) {
@@ -2868,6 +2998,7 @@
       renderEventList(null);
       renderSubstitutions(null);
       renderBookmakers(null);
+      renderCorrectScores(null, null);
       await loadCalibration();
       renderLiveModel();
       startLiveFeedPolling();
