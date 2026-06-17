@@ -1815,7 +1815,7 @@
   </main>
 
   <script>
-    const matches = [
+    const seededMatches = [
       {
         id: "esp-cpv",
         time: "6月16日 00:00",
@@ -1931,6 +1931,117 @@
       }
     ];
 
+    const futureFixtures = [
+      { id: "cze-rsa", kickoffUtc: "2026-06-18T16:00:00Z", teamA: "捷克", flagA: "🇨🇿", teamB: "南非", flagB: "🇿🇦", lambdaA: 1.35, lambdaB: 1.05 },
+      { id: "sui-bih", kickoffUtc: "2026-06-18T19:00:00Z", teamA: "瑞士", flagA: "🇨🇭", teamB: "波黑", flagB: "🇧🇦", lambdaA: 1.55, lambdaB: 1.05 },
+      { id: "can-qat", kickoffUtc: "2026-06-18T22:00:00Z", teamA: "加拿大", flagA: "🇨🇦", teamB: "卡塔尔", flagB: "🇶🇦", lambdaA: 1.65, lambdaB: 0.95 },
+      { id: "mex-kor", kickoffUtc: "2026-06-19T01:00:00Z", teamA: "墨西哥", flagA: "🇲🇽", teamB: "韩国", flagB: "🇰🇷", lambdaA: 1.35, lambdaB: 1.25 },
+      { id: "usa-aus", kickoffUtc: "2026-06-19T19:00:00Z", teamA: "美国", flagA: "🇺🇸", teamB: "澳大利亚", flagB: "🇦🇺", lambdaA: 1.55, lambdaB: 1.10 },
+      { id: "sco-mar", kickoffUtc: "2026-06-19T22:00:00Z", teamA: "苏格兰", flagA: "🏴", teamB: "摩洛哥", flagB: "🇲🇦", lambdaA: 1.05, lambdaB: 1.25 },
+      { id: "bra-hai", kickoffUtc: "2026-06-20T00:30:00Z", teamA: "巴西", flagA: "🇧🇷", teamB: "海地", flagB: "🇭🇹", lambdaA: 2.80, lambdaB: 0.45 },
+      { id: "tur-par", kickoffUtc: "2026-06-20T03:00:00Z", teamA: "土耳其", flagA: "🇹🇷", teamB: "巴拉圭", flagB: "🇵🇾", lambdaA: 1.35, lambdaB: 1.10 },
+      { id: "ned-swe", kickoffUtc: "2026-06-20T17:00:00Z", teamA: "荷兰", flagA: "🇳🇱", teamB: "瑞典", flagB: "🇸🇪", lambdaA: 1.75, lambdaB: 1.05 },
+      { id: "ger-civ", kickoffUtc: "2026-06-20T20:00:00Z", teamA: "德国", flagA: "🇩🇪", teamB: "科特迪瓦", flagB: "🇨🇮", lambdaA: 2.15, lambdaB: 0.95 },
+      { id: "ecu-cur", kickoffUtc: "2026-06-21T00:00:00Z", teamA: "厄瓜多尔", flagA: "🇪🇨", teamB: "库拉索", flagB: "🇨🇼", lambdaA: 1.65, lambdaB: 0.75 },
+      { id: "tun-jpn", kickoffUtc: "2026-06-21T04:00:00Z", teamA: "突尼斯", flagA: "🇹🇳", teamB: "日本", flagB: "🇯🇵", lambdaA: 0.95, lambdaB: 1.35 },
+      { id: "esp-ksa", kickoffUtc: "2026-06-21T16:00:00Z", teamA: "西班牙", flagA: "🇪🇸", teamB: "沙特", flagB: "🇸🇦", lambdaA: 2.90, lambdaB: 0.65 },
+      { id: "bel-irn", kickoffUtc: "2026-06-21T19:00:00Z", teamA: "比利时", flagA: "🇧🇪", teamB: "伊朗", flagB: "🇮🇷", lambdaA: 1.65, lambdaB: 0.85 },
+      { id: "uru-cpv", kickoffUtc: "2026-06-21T22:00:00Z", teamA: "乌拉圭", flagA: "🇺🇾", teamB: "佛得角", flagB: "🇨🇻", lambdaA: 2.00, lambdaB: 0.70 },
+      { id: "nzl-egy", kickoffUtc: "2026-06-22T01:00:00Z", teamA: "新西兰", flagA: "🇳🇿", teamB: "埃及", flagB: "🇪🇬", lambdaA: 0.75, lambdaB: 1.25 },
+      { id: "arg-aut", kickoffUtc: "2026-06-22T17:00:00Z", teamA: "阿根廷", flagA: "🇦🇷", teamB: "奥地利", flagB: "🇦🇹", lambdaA: 2.00, lambdaB: 0.90 },
+      { id: "fra-irq", kickoffUtc: "2026-06-22T21:00:00Z", teamA: "法国", flagA: "🇫🇷", teamB: "伊拉克", flagB: "🇮🇶", lambdaA: 2.40, lambdaB: 0.55 },
+      { id: "nor-sen", kickoffUtc: "2026-06-23T00:00:00Z", teamA: "挪威", flagA: "🇳🇴", teamB: "塞内加尔", flagB: "🇸🇳", lambdaA: 1.45, lambdaB: 1.15 },
+      { id: "jor-alg", kickoffUtc: "2026-06-23T03:00:00Z", teamA: "约旦", flagA: "🇯🇴", teamB: "阿尔及利亚", flagB: "🇩🇿", lambdaA: 0.75, lambdaB: 1.35 },
+      { id: "por-uzb", kickoffUtc: "2026-06-23T17:00:00Z", teamA: "葡萄牙", flagA: "🇵🇹", teamB: "乌兹别克斯坦", flagB: "🇺🇿", lambdaA: 2.55, lambdaB: 0.55 },
+      { id: "eng-gha", kickoffUtc: "2026-06-23T20:00:00Z", teamA: "英格兰", flagA: "🏴", teamB: "加纳", flagB: "🇬🇭", lambdaA: 2.10, lambdaB: 0.85 },
+      { id: "pan-cro", kickoffUtc: "2026-06-23T23:00:00Z", teamA: "巴拿马", flagA: "🇵🇦", teamB: "克罗地亚", flagB: "🇭🇷", lambdaA: 0.70, lambdaB: 1.65 },
+      { id: "col-cod", kickoffUtc: "2026-06-24T02:00:00Z", teamA: "哥伦比亚", flagA: "🇨🇴", teamB: "民主刚果", flagB: "🇨🇩", lambdaA: 1.45, lambdaB: 1.10 },
+      { id: "bih-qat", kickoffUtc: "2026-06-24T19:00:00Z", teamA: "波黑", flagA: "🇧🇦", teamB: "卡塔尔", flagB: "🇶🇦", lambdaA: 1.35, lambdaB: 0.95 },
+      { id: "sui-can", kickoffUtc: "2026-06-24T19:00:00Z", teamA: "瑞士", flagA: "🇨🇭", teamB: "加拿大", flagB: "🇨🇦", lambdaA: 1.45, lambdaB: 1.20 },
+      { id: "mar-hai", kickoffUtc: "2026-06-24T22:00:00Z", teamA: "摩洛哥", flagA: "🇲🇦", teamB: "海地", flagB: "🇭🇹", lambdaA: 2.00, lambdaB: 0.60 },
+      { id: "sco-bra", kickoffUtc: "2026-06-24T22:00:00Z", teamA: "苏格兰", flagA: "🏴", teamB: "巴西", flagB: "🇧🇷", lambdaA: 0.65, lambdaB: 2.35 },
+      { id: "cze-mex", kickoffUtc: "2026-06-25T01:00:00Z", teamA: "捷克", flagA: "🇨🇿", teamB: "墨西哥", flagB: "🇲🇽", lambdaA: 1.10, lambdaB: 1.35 },
+      { id: "rsa-kor", kickoffUtc: "2026-06-25T01:00:00Z", teamA: "南非", flagA: "🇿🇦", teamB: "韩国", flagB: "🇰🇷", lambdaA: 0.85, lambdaB: 1.45 },
+      { id: "cur-civ", kickoffUtc: "2026-06-25T20:00:00Z", teamA: "库拉索", flagA: "🇨🇼", teamB: "科特迪瓦", flagB: "🇨🇮", lambdaA: 0.65, lambdaB: 1.75 },
+      { id: "ecu-ger", kickoffUtc: "2026-06-25T20:00:00Z", teamA: "厄瓜多尔", flagA: "🇪🇨", teamB: "德国", flagB: "🇩🇪", lambdaA: 0.75, lambdaB: 2.05 },
+      { id: "jpn-swe", kickoffUtc: "2026-06-25T23:00:00Z", teamA: "日本", flagA: "🇯🇵", teamB: "瑞典", flagB: "🇸🇪", lambdaA: 1.15, lambdaB: 1.20 },
+      { id: "tun-ned", kickoffUtc: "2026-06-25T23:00:00Z", teamA: "突尼斯", flagA: "🇹🇳", teamB: "荷兰", flagB: "🇳🇱", lambdaA: 0.65, lambdaB: 2.05 },
+      { id: "par-aus", kickoffUtc: "2026-06-26T02:00:00Z", teamA: "巴拉圭", flagA: "🇵🇾", teamB: "澳大利亚", flagB: "🇦🇺", lambdaA: 1.10, lambdaB: 1.05 },
+      { id: "tur-usa", kickoffUtc: "2026-06-26T02:00:00Z", teamA: "土耳其", flagA: "🇹🇷", teamB: "美国", flagB: "🇺🇸", lambdaA: 1.15, lambdaB: 1.35 },
+      { id: "nor-fra", kickoffUtc: "2026-06-26T19:00:00Z", teamA: "挪威", flagA: "🇳🇴", teamB: "法国", flagB: "🇫🇷", lambdaA: 1.05, lambdaB: 1.80 },
+      { id: "sen-irq", kickoffUtc: "2026-06-26T19:00:00Z", teamA: "塞内加尔", flagA: "🇸🇳", teamB: "伊拉克", flagB: "🇮🇶", lambdaA: 1.55, lambdaB: 0.75 },
+      { id: "cpv-ksa", kickoffUtc: "2026-06-27T00:00:00Z", teamA: "佛得角", flagA: "🇨🇻", teamB: "沙特", flagB: "🇸🇦", lambdaA: 0.85, lambdaB: 1.15 },
+      { id: "uru-esp", kickoffUtc: "2026-06-27T00:00:00Z", teamA: "乌拉圭", flagA: "🇺🇾", teamB: "西班牙", flagB: "🇪🇸", lambdaA: 1.05, lambdaB: 1.75 },
+      { id: "egy-irn", kickoffUtc: "2026-06-27T03:00:00Z", teamA: "埃及", flagA: "🇪🇬", teamB: "伊朗", flagB: "🇮🇷", lambdaA: 1.05, lambdaB: 0.90 },
+      { id: "nzl-bel", kickoffUtc: "2026-06-27T03:00:00Z", teamA: "新西兰", flagA: "🇳🇿", teamB: "比利时", flagB: "🇧🇪", lambdaA: 0.65, lambdaB: 2.00 },
+      { id: "cro-gha", kickoffUtc: "2026-06-27T21:00:00Z", teamA: "克罗地亚", flagA: "🇭🇷", teamB: "加纳", flagB: "🇬🇭", lambdaA: 1.55, lambdaB: 0.95 },
+      { id: "pan-eng", kickoffUtc: "2026-06-27T21:00:00Z", teamA: "巴拿马", flagA: "🇵🇦", teamB: "英格兰", flagB: "🏴", lambdaA: 0.45, lambdaB: 2.40 },
+      { id: "col-por", kickoffUtc: "2026-06-27T23:30:00Z", teamA: "哥伦比亚", flagA: "🇨🇴", teamB: "葡萄牙", flagB: "🇵🇹", lambdaA: 0.95, lambdaB: 1.75 },
+      { id: "cod-uzb", kickoffUtc: "2026-06-27T23:30:00Z", teamA: "民主刚果", flagA: "🇨🇩", teamB: "乌兹别克斯坦", flagB: "🇺🇿", lambdaA: 1.10, lambdaB: 0.95 },
+      { id: "alg-aut", kickoffUtc: "2026-06-28T02:00:00Z", teamA: "阿尔及利亚", flagA: "🇩🇿", teamB: "奥地利", flagB: "🇦🇹", lambdaA: 1.05, lambdaB: 1.45 },
+      { id: "jor-arg", kickoffUtc: "2026-06-28T02:00:00Z", teamA: "约旦", flagA: "🇯🇴", teamB: "阿根廷", flagB: "🇦🇷", lambdaA: 0.45, lambdaB: 2.55 }
+    ];
+
+    const matches = [...seededMatches, ...futureFixtures.map(buildFutureMatch)];
+
+    function scoreProbability(home, away, lambdaA, lambdaB) {
+      return poisson(home, lambdaA) * poisson(away, lambdaB);
+    }
+
+    function topScoreRows(lambdaA, lambdaB) {
+      const rows = [];
+      for (let home = 0; home <= 5; home += 1) {
+        for (let away = 0; away <= 5; away += 1) {
+          rows.push({ home, away, probability: scoreProbability(home, away, lambdaA, lambdaB) });
+        }
+      }
+      return rows.sort((a, b) => b.probability - a.probability);
+    }
+
+    function fixtureProfile(lambdaA, lambdaB) {
+      const diff = lambdaA - lambdaB;
+      const total = lambdaA + lambdaB;
+      if (Math.abs(diff) < 0.22) return { type: "tight", mood: "均势拉扯", label: "小差距", sentiment: "市场分歧", confidence: 53, heat: 52 };
+      if (Math.abs(diff) < 0.55) return { type: "upset", mood: "热门有险", label: "情绪风险", sentiment: "热门不稳", confidence: 58, heat: 60 };
+      if (total >= 3.2 || Math.abs(diff) >= 1.35) return { type: "safe", mood: "强弱分明", label: "热门强势", sentiment: "热门偏热", confidence: 72, heat: 76 };
+      return { type: "safe", mood: "实力优势", label: "热门谨慎", sentiment: "热度温和", confidence: 64, heat: 65 };
+    }
+
+    function buildFutureMatch(fixture) {
+      const rows = topScoreRows(fixture.lambdaA, fixture.lambdaB);
+      const best = rows[0];
+      const alternatives = rows.slice(1, 3).map(row => `${row.home}-${row.away}`).join(" / ");
+      const profile = fixtureProfile(fixture.lambdaA, fixture.lambdaB);
+      const favorite = fixture.lambdaA >= fixture.lambdaB ? fixture.teamA : fixture.teamB;
+      const underdog = fixture.lambdaA >= fixture.lambdaB ? fixture.teamB : fixture.teamA;
+      const diff = Math.abs(fixture.lambdaA - fixture.lambdaB);
+      const total = fixture.lambdaA + fixture.lambdaB;
+      const market = diff >= 1.3
+        ? `${favorite}深热门；让球约 1.5；总进球 ${total >= 3 ? "偏大" : "中等"}`
+        : diff >= 0.55
+          ? `${favorite}热门；让球约 0.5到1；总进球 2到2.75`
+          : "胜平负接近；盘口不宜追深；总进球偏谨慎";
+      const trigger = diff >= 1.3
+        ? `若${underdog}前30分钟守住，比分会从大胜盘压回一到两球。`
+        : `若${underdog}先取得反击或定位球机会，平局/爆冷权重要上调。`;
+      return {
+        ...fixture,
+        time: "",
+        score: `${best.home}-${best.away}`,
+        alt: alternatives,
+        confidence: profile.confidence,
+        accuracy: Math.round(clamp(best.probability * 100, 8, 22)),
+        heat: profile.heat,
+        type: profile.type,
+        mood: profile.mood,
+        label: profile.label,
+        market,
+        sentiment: profile.sentiment,
+        trigger,
+        reason: `${fixture.teamA} vs ${fixture.teamB} 先用球队强弱、赛程位置和公开赛程信息生成初始 λ：${fixture.lambdaA.toFixed(2)}-${fixture.lambdaB.toFixed(2)}。临场新闻、首发、盘口和实时比赛数据进入后，会在赛中模型里继续校准。`
+      };
+    }
+
     const cards = document.querySelector("#cards");
     const tableBody = document.querySelector("#tableBody");
     const matchCount = document.querySelector("#matchCount");
@@ -1964,13 +2075,18 @@
     }
 
     function isCompleted(match) {
-      return liveStateFor(match)?.status === "ft";
+      const state = liveStateFor(match);
+      if (state?.status === "ft") return true;
+      if (state?.status === "live") return false;
+      if (!match.kickoffUtc) return false;
+      return Date.now() - new Date(match.kickoffUtc).getTime() > 3 * 60 * 60 * 1000;
     }
 
     function statusLabel(match) {
       const state = liveStateFor(match);
       if (state?.status === "ft") return `已完场 ${state.homeGoals ?? "-"}-${state.awayGoals ?? "-"}`;
       if (state?.status === "live") return `${state.minute || 0}' 进行中`;
+      if (isCompleted(match)) return "已完场";
       return "未开赛";
     }
 
@@ -2235,7 +2351,40 @@
         Austria: "奥地利",
         Jordan: "约旦",
         Portugal: "葡萄牙",
-        "Congo DR": "民主刚果"
+        "Congo DR": "民主刚果",
+        Czechia: "捷克",
+        "South Africa": "南非",
+        Switzerland: "瑞士",
+        "Bosnia-Herzegovina": "波黑",
+        "Bosnia and Herzegovina": "波黑",
+        Canada: "加拿大",
+        Qatar: "卡塔尔",
+        Mexico: "墨西哥",
+        "South Korea": "韩国",
+        "United States": "美国",
+        Australia: "澳大利亚",
+        Scotland: "苏格兰",
+        Morocco: "摩洛哥",
+        Brazil: "巴西",
+        Haiti: "海地",
+        Türkiye: "土耳其",
+        Turkiye: "土耳其",
+        Paraguay: "巴拉圭",
+        Netherlands: "荷兰",
+        Sweden: "瑞典",
+        Germany: "德国",
+        "Ivory Coast": "科特迪瓦",
+        Ecuador: "厄瓜多尔",
+        Curaçao: "库拉索",
+        Curacao: "库拉索",
+        Tunisia: "突尼斯",
+        Japan: "日本",
+        Uzbekistan: "乌兹别克斯坦",
+        England: "英格兰",
+        Ghana: "加纳",
+        Panama: "巴拿马",
+        Croatia: "克罗地亚",
+        Colombia: "哥伦比亚"
       };
       return names[name] || name || "";
     }

@@ -15,7 +15,7 @@ import time
 import urllib.parse
 import urllib.error
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
 
@@ -44,6 +44,54 @@ EVENT_MAP = {
     "760433": "arg-alg",
     "760431": "aut-jor",
     "760435": "por-cod",
+    "760438": "cze-rsa",
+    "760439": "sui-bih",
+    "760440": "can-qat",
+    "760441": "mex-kor",
+    "760442": "usa-aus",
+    "760445": "sco-mar",
+    "760444": "bra-hai",
+    "760443": "tur-par",
+    "760447": "ned-swe",
+    "760448": "ger-civ",
+    "760446": "ecu-cur",
+    "760449": "tun-jpn",
+    "760453": "esp-ksa",
+    "760451": "bel-irn",
+    "760450": "uru-cpv",
+    "760452": "nzl-egy",
+    "760456": "arg-aut",
+    "760457": "fra-irq",
+    "760454": "nor-sen",
+    "760455": "jor-alg",
+    "760461": "por-uzb",
+    "760458": "eng-gha",
+    "760460": "pan-cro",
+    "760459": "col-cod",
+    "760462": "bih-qat",
+    "760463": "sui-can",
+    "760464": "mar-hai",
+    "760465": "sco-bra",
+    "760467": "cze-mex",
+    "760466": "rsa-kor",
+    "760473": "cur-civ",
+    "760468": "ecu-ger",
+    "760471": "jpn-swe",
+    "760472": "tun-ned",
+    "760469": "par-aus",
+    "760470": "tur-usa",
+    "760475": "nor-fra",
+    "760474": "sen-irq",
+    "760478": "cpv-ksa",
+    "760479": "uru-esp",
+    "760476": "egy-irn",
+    "760477": "nzl-bel",
+    "760480": "cro-gha",
+    "760485": "pan-eng",
+    "760481": "col-por",
+    "760482": "cod-uzb",
+    "760484": "alg-aut",
+    "760483": "jor-arg",
 }
 
 TEAM_ALIAS = {
@@ -56,9 +104,66 @@ TEAM_ALIAS = {
     "arg-alg": ("argentina", "algeria"),
     "aut-jor": ("austria", "jordan"),
     "por-cod": ("portugal", "congo dr"),
+    "cze-rsa": ("czechia", "south africa"),
+    "sui-bih": ("switzerland", "bosnia herzegovina"),
+    "can-qat": ("canada", "qatar"),
+    "mex-kor": ("mexico", "south korea"),
+    "usa-aus": ("united states", "australia"),
+    "sco-mar": ("scotland", "morocco"),
+    "bra-hai": ("brazil", "haiti"),
+    "tur-par": ("turkiye", "paraguay"),
+    "ned-swe": ("netherlands", "sweden"),
+    "ger-civ": ("germany", "ivory coast"),
+    "ecu-cur": ("ecuador", "curacao"),
+    "tun-jpn": ("tunisia", "japan"),
+    "esp-ksa": ("spain", "saudi arabia"),
+    "bel-irn": ("belgium", "iran"),
+    "uru-cpv": ("uruguay", "cape verde"),
+    "nzl-egy": ("new zealand", "egypt"),
+    "arg-aut": ("argentina", "austria"),
+    "fra-irq": ("france", "iraq"),
+    "nor-sen": ("norway", "senegal"),
+    "jor-alg": ("jordan", "algeria"),
+    "por-uzb": ("portugal", "uzbekistan"),
+    "eng-gha": ("england", "ghana"),
+    "pan-cro": ("panama", "croatia"),
+    "col-cod": ("colombia", "congo dr"),
+    "bih-qat": ("bosnia herzegovina", "qatar"),
+    "sui-can": ("switzerland", "canada"),
+    "mar-hai": ("morocco", "haiti"),
+    "sco-bra": ("scotland", "brazil"),
+    "cze-mex": ("czechia", "mexico"),
+    "rsa-kor": ("south africa", "south korea"),
+    "cur-civ": ("curacao", "ivory coast"),
+    "ecu-ger": ("ecuador", "germany"),
+    "jpn-swe": ("japan", "sweden"),
+    "tun-ned": ("tunisia", "netherlands"),
+    "par-aus": ("paraguay", "australia"),
+    "tur-usa": ("turkiye", "united states"),
+    "nor-fra": ("norway", "france"),
+    "sen-irq": ("senegal", "iraq"),
+    "cpv-ksa": ("cape verde", "saudi arabia"),
+    "uru-esp": ("uruguay", "spain"),
+    "egy-irn": ("egypt", "iran"),
+    "nzl-bel": ("new zealand", "belgium"),
+    "cro-gha": ("croatia", "ghana"),
+    "pan-eng": ("panama", "england"),
+    "col-por": ("colombia", "portugal"),
+    "cod-uzb": ("congo dr", "uzbekistan"),
+    "alg-aut": ("algeria", "austria"),
+    "jor-arg": ("jordan", "argentina"),
 }
 
-SCOREBOARD_DATES = ["20260616", "20260617", "20260618"]
+SCOREBOARD_DAYS_BACK = 2
+SCOREBOARD_DAYS_FORWARD = 2
+
+
+def scoreboard_dates() -> list[str]:
+    today = datetime.now(timezone.utc).date()
+    return [
+        (today + timedelta(days=offset)).strftime("%Y%m%d")
+        for offset in range(-SCOREBOARD_DAYS_BACK, SCOREBOARD_DAYS_FORWARD + 1)
+    ]
 
 
 def normalize_team_name(value: Any) -> str:
@@ -672,7 +777,7 @@ def attach_history(payload: dict[str, Any], previous: dict[str, Any]) -> dict[st
 
 def fetch_feed() -> dict[str, Any]:
     scoreboards = []
-    for date in SCOREBOARD_DATES:
+    for date in scoreboard_dates():
         try:
             scoreboards.append(fetch_json(f"{SCOREBOARD_URL}?dates={date}"))
         except Exception as error:
