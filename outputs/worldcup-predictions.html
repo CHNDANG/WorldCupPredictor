@@ -411,6 +411,7 @@
       gap: 10px;
       flex-wrap: wrap;
       margin-bottom: 22px;
+      max-width: 100%;
     }
 
     .view-filters {
@@ -1029,6 +1030,7 @@
     }
 
     .chart-card, .event-card, .substitution-card, .review-card, .bookmaker-card, .correct-score-card, .news-card, .learning-card {
+      min-width: 0;
       border: 1px solid rgba(255,255,255,0.12);
       border-radius: 14px;
       padding: clamp(16px, 2.4vw, 24px);
@@ -1509,24 +1511,227 @@
     }
 
     @media (max-width: 700px) {
-      .nav { align-items: flex-start; }
-      .nav-links a:nth-child(n+3) { display: none; }
-      .hero { padding-inline: 16px; }
-      .hero-grid { padding-top: 104px; }
-      h1 { font-size: clamp(44px, 14vw, 76px); }
+      body {
+        background:
+          linear-gradient(180deg, rgba(5,7,12,0.92), rgba(7,10,16,1)),
+          #070a10;
+      }
+
+      .nav {
+        position: relative;
+        align-items: flex-start;
+        flex-direction: column;
+        padding: 14px 14px 0;
+      }
+
+      .nav-links {
+        width: 100%;
+        display: grid;
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+        gap: 6px;
+      }
+
+      .nav-links a {
+        display: grid;
+        place-items: center;
+        min-height: 38px;
+        padding: 7px 6px;
+        font-size: 11px;
+      }
+
+      .hero {
+        min-height: auto;
+        padding: 0 14px 28px;
+        background-position: center top;
+      }
+
+      .hero-grid {
+        padding-top: 28px;
+        gap: 22px;
+      }
+
+      .eyebrow {
+        width: 100%;
+        align-items: flex-start;
+        border-radius: 12px;
+        font-size: 12px;
+        line-height: 1.45;
+      }
+
+      h1 {
+        margin-top: 18px;
+        font-size: clamp(40px, 15vw, 64px);
+        line-height: 0.94;
+      }
+
+      .lead {
+        font-size: 15px;
+        line-height: 1.7;
+      }
+
+      .button {
+        flex: 1 1 150px;
+      }
+
+      .spotlight {
+        padding: 14px;
+        border-radius: 12px;
+      }
+
+      .spotlight-top,
+      .live-top,
+      .bookmaker-head,
+      .substitution-top {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
       .ticker, .cards, .model-grid, .source-grid, .live-output { grid-template-columns: 1fr; }
-      .matchup { grid-template-columns: 1fr; text-align: left; }
-      .team.right { text-align: left; }
-      .score { width: 130px; }
+      .matchup {
+        grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .flag {
+        width: 38px;
+        height: 38px;
+        margin-bottom: 7px;
+        font-size: 20px;
+      }
+
+      .team-name {
+        white-space: normal;
+        font-size: 18px;
+        line-height: 1.2;
+      }
+
+      .score {
+        min-width: 82px;
+        width: 82px;
+        height: 68px;
+        font-size: 32px;
+      }
+
+      .alt-score {
+        max-width: 96px;
+      }
+
+      .section-head {
+        gap: 12px;
+      }
+
+      .section-head p,
+      .live-note,
+      .review-copy,
+      .learning-list {
+        overflow-wrap: anywhere;
+      }
+
+      .filters {
+        width: 100%;
+        max-width: 100%;
+        overflow-x: auto;
+        overflow-y: hidden;
+        flex-wrap: nowrap;
+        padding-bottom: 6px;
+        scrollbar-width: thin;
+        overscroll-behavior-x: contain;
+      }
+
+      .filter {
+        flex: 0 0 auto;
+      }
+
+      .date-divider {
+        align-items: flex-start;
+        flex-direction: column;
+      }
+
       .mini-match { grid-template-columns: 1fr; }
       .mini-team.right { text-align: left; }
-      .mini-score { width: 88px; }
+      .mini-score {
+        width: 88px;
+        font-size: 30px;
+      }
+
+      .card {
+        min-height: auto;
+        padding: 15px;
+      }
+
       .market-strip { grid-template-columns: 1fr; }
-      .live-inputs, .lambda-grid { grid-template-columns: 1fr; }
+      .sync-strip {
+        grid-template-columns: 1fr;
+      }
+
+      .live-inputs, .lambda-grid, .bookmaker-odds, .substitution-summary { grid-template-columns: 1fr; }
       .live-intel, .stat-radar, .review-grid, .bookmaker-grid, .correct-score-grid, .news-grid, .learning-grid { grid-template-columns: 1fr; }
-      .scoreline { grid-template-columns: 1fr; }
-      .scoreline .side.right { text-align: left; }
-      .wrap { width: min(100% - 28px, 1320px); }
+      .live-console,
+      .panel,
+      .chart-card,
+      .event-card,
+      .substitution-card,
+      .review-card,
+      .bookmaker-card,
+      .correct-score-card,
+      .news-card,
+      .learning-card,
+      .table-wrap {
+        min-width: 0;
+      }
+
+      .scoreline {
+        grid-template-columns: minmax(0, 1fr) auto minmax(0, 1fr);
+        gap: 8px;
+      }
+
+      .scoreline .side {
+        font-size: 16px;
+        overflow-wrap: anywhere;
+      }
+
+      .live-score {
+        min-width: 82px;
+        height: 58px;
+        font-size: 30px;
+      }
+
+      .odds-chart {
+        min-width: 640px;
+      }
+
+      .chart-card {
+        overflow-x: auto;
+      }
+
+      .table-wrap {
+        margin-inline: -2px;
+        max-width: calc(100vw - 24px);
+      }
+
+      .wrap { width: min(100% - 24px, 1320px); }
+    }
+
+    @media (max-width: 420px) {
+      .nav-links {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+
+      .matchup,
+      .scoreline {
+        grid-template-columns: 1fr;
+        text-align: left;
+      }
+
+      .team.right,
+      .scoreline .side.right {
+        text-align: left;
+      }
+
+      .score,
+      .live-score {
+        width: 100%;
+      }
     }
   </style>
 </head>
@@ -1537,6 +1742,8 @@
       <div class="nav-links">
         <a href="#predictions">预测卡片</a>
         <a href="#live">赛中动态</a>
+        <a href="#bookmakers">博彩盘口</a>
+        <a href="#news">热点新闻</a>
         <a href="#insights">模型判断</a>
         <a href="#schedule">完整表</a>
       </div>
@@ -1744,7 +1951,7 @@
             <p class="live-note" id="substitutionNote">换人会作为体能、战术倾向和比赛节奏证据进入模型解释；是否直接改变比分预测，取决于当时比分、分钟和场面数据。</p>
           </div>
         </div>
-        <div class="bookmaker-card">
+        <div class="bookmaker-card" id="bookmakers">
           <h3>全球博彩公司实时盘口</h3>
           <div class="bookmaker-grid" id="bookmakerGrid"></div>
           <p class="live-note" id="bookmakerNote">当前自动读取 ESPN 可返回的博彩公司盘口；接入赔率聚合接口后，会把 Pinnacle、Bet365、FanDuel、BetMGM、Caesars、William Hill 等实时盘口补齐。</p>

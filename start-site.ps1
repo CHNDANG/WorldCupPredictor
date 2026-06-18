@@ -1,5 +1,6 @@
 param(
-  [int]$Port = 4173
+  [int]$Port = 4173,
+  [string]$Bind = "0.0.0.0"
 )
 
 $ErrorActionPreference = "Stop"
@@ -70,7 +71,7 @@ if (-not $listener) {
   Start-IfMissing `
     -Name "site" `
     -Pattern "site-server.py" `
-    -Arguments "work\site-server.py --port $Port --bind 127.0.0.1 --min-refresh-seconds 12 --background-interval 15" `
+    -Arguments "work\site-server.py --port $Port --bind $Bind --min-refresh-seconds 12 --background-interval 15" `
     -WorkingDirectory $Root `
     -Stdout "$Root\work\site-server.stdout.log" `
     -Stderr "$Root\work\site-server.stderr.log"
@@ -95,4 +96,10 @@ Stop-DuplicatePythonProcesses -Pattern "live-feed-bridge-espn.py"
 Stop-DuplicatePythonProcesses -Pattern "news-feed-bridge.py"
 Stop-DuplicatePythonProcesses -Pattern "site-server.py"
 Invoke-WebRequest -UseBasicParsing "http://127.0.0.1:$Port/worldcup-predictions.html" -TimeoutSec 5 | Out-Null
-Write-Host "ready: http://127.0.0.1:$Port/worldcup-predictions.html"
+Write-Host "ready local: http://127.0.0.1:$Port/worldcup-predictions.html"
+$lanIps = @(Get-NetIPAddress -AddressFamily IPv4 | Where-Object {
+  $_.IPAddress -notlike "127.*" -and $_.PrefixOrigin -ne "WellKnown"
+} | Select-Object -ExpandProperty IPAddress)
+foreach ($ip in $lanIps) {
+  Write-Host "ready phone: http://$ip`:$Port/worldcup-predictions.html"
+}

@@ -11,6 +11,7 @@ from __future__ import annotations
 import argparse
 import importlib.util
 import json
+import socket
 import sys
 import threading
 import time
@@ -167,9 +168,22 @@ def start_background_refresh(refresher: LiveFeedRefresher, interval: int) -> Non
     thread.start()
 
 
+def local_ipv4_addresses() -> list[str]:
+    addresses: set[str] = set()
+    try:
+        host_name = socket.gethostname()
+        for item in socket.getaddrinfo(host_name, None, socket.AF_INET):
+            ip = item[4][0]
+            if not ip.startswith("127."):
+                addresses.add(ip)
+    except OSError:
+        pass
+    return sorted(addresses)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("--bind", default="127.0.0.1")
+    parser.add_argument("--bind", default="0.0.0.0")
     parser.add_argument("--port", type=int, default=4173)
     parser.add_argument("--min-refresh-seconds", type=int, default=12)
     parser.add_argument("--background-interval", type=int, default=15)
@@ -180,7 +194,9 @@ def main() -> None:
     handler = make_handler(refresher)
     server = ThreadingHTTPServer((args.bind, args.port), handler)
     log_line(f"SERVER start http://{args.bind}:{args.port}/worldcup-predictions.html")
-    print(f"ready: http://{args.bind}:{args.port}/worldcup-predictions.html", flush=True)
+    print(f"ready local: http://127.0.0.1:{args.port}/worldcup-predictions.html", flush=True)
+    for ip in local_ipv4_addresses():
+        print(f"ready phone: http://{ip}:{args.port}/worldcup-predictions.html", flush=True)
     server.serve_forever()
 
 
