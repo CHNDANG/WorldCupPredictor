@@ -485,6 +485,36 @@
       font-weight: 700;
     }
 
+    .date-divider.collapsible {
+      cursor: pointer;
+      transition: border-color 180ms ease, background 180ms ease;
+    }
+
+    .date-divider.collapsible:hover {
+      border-color: rgba(53,212,255,0.35);
+      background: rgba(53,212,255,0.09);
+    }
+
+    .date-toggle {
+      appearance: none;
+      border: 1px solid rgba(255,255,255,0.16);
+      color: rgba(247,251,255,0.84);
+      background: rgba(255,255,255,0.08);
+      border-radius: 999px;
+      padding: 5px 10px;
+      cursor: pointer;
+      font-size: 12px;
+      font-weight: 850;
+    }
+
+    .date-toggle::before {
+      content: "+ ";
+    }
+
+    .date-divider:not(.collapsed) .date-toggle::before {
+      content: "- ";
+    }
+
     .empty-state {
       grid-column: 1 / -1;
       padding: 24px;
@@ -1514,43 +1544,43 @@
 
     <div class="hero-grid">
       <div>
-        <div class="eyebrow"><span class="pulse"></span> 北京时间 2026-06-15 盘口校准版 · 市场情绪已纳入</div>
+        <div class="eyebrow"><span class="pulse"></span> <span id="heroSyncText">正在校验最新赛程与比分</span></div>
         <h1>世界杯盘口校准雷达</h1>
-        <p class="lead">昨晚的错单已经校正：现在每场不只给一个比分，而是结合外围盘口、博彩赔率、模型概率、总进球线和市场情绪，给出主推比分、次选剧本和走偏条件。</p>
+        <p class="lead" id="heroLead">每场不只给一个比分，而是结合外围盘口、博彩赔率、模型概率、总进球线和市场情绪，给出主推比分、次选剧本和走偏条件。</p>
         <div class="hero-actions">
           <a class="button" href="#predictions">查看全部预测</a>
           <a class="button secondary" href="#live">打开赛中模型</a>
         </div>
         <div class="ticker" aria-label="预测概览">
           <div class="ticker-item"><span>覆盖比赛</span><b id="matchCount">9</b></div>
-          <div class="ticker-item"><span>盘口锚点</span><b>让球/大小</b></div>
-          <div class="ticker-item"><span>情绪警报</span><b>乌拉圭延误</b></div>
+          <div class="ticker-item"><span>当前直播</span><b id="heroLiveCount">校验中</b></div>
+          <div class="ticker-item"><span>下一场</span><b id="heroNextKickoff">同步中</b></div>
         </div>
       </div>
 
       <aside class="spotlight fade-in" aria-label="焦点预测">
         <div class="spotlight-top">
-          <span class="tag market">盘口主推</span>
-          <span class="tag">6月16日 00:00</span>
+          <span class="tag market" id="spotlightStatus">盘口主推</span>
+          <span class="tag" id="spotlightTime">同步中</span>
         </div>
         <div class="matchup">
           <div class="team">
-            <span class="flag">🇪🇸</span>
-            <span class="team-name">西班牙</span>
+            <span class="flag" id="spotlightFlagA">--</span>
+            <span class="team-name" id="spotlightTeamA">同步中</span>
           </div>
           <div class="score-stack">
-            <div class="score">4-1</div>
-            <div class="alt-score">次选 3-0 / 3-1</div>
+            <div class="score" id="spotlightScore">--</div>
+            <div class="alt-score" id="spotlightAlt">等待实时源</div>
           </div>
           <div class="team right">
-            <span class="flag">🇨🇻</span>
-            <span class="team-name">佛得角</span>
+            <span class="flag" id="spotlightFlagB">--</span>
+            <span class="team-name" id="spotlightTeamB">同步中</span>
           </div>
         </div>
-        <p class="spotlight-copy">市场给到西班牙约 90% 胜率、让 2.5 球和总进球 3.5 附近，说明不是普通小胜预期。昨晚德国 7-1 也提醒：强弱盘不能机械压低比分。</p>
+        <p class="spotlight-copy" id="spotlightCopy">正在读取实时比分、未来赛程和盘口数据。</p>
         <div class="confidence">
-          <div class="prob"><span>市场校准</span><div class="bar"><i style="--w: 91%"></i></div><strong>91%</strong></div>
-          <div class="prob"><span>大胜倾向</span><div class="bar"><i style="--w: 74%"></i></div><strong>74%</strong></div>
+          <div class="prob"><span id="spotlightMetricALabel">实时校准</span><div class="bar"><i id="spotlightMetricABar" style="--w: 0%"></i></div><strong id="spotlightMetricA">--</strong></div>
+          <div class="prob"><span id="spotlightMetricBLabel">盘口热度</span><div class="bar"><i id="spotlightMetricBBar" style="--w: 0%"></i></div><strong id="spotlightMetricB">--</strong></div>
         </div>
       </aside>
     </div>
@@ -2157,6 +2187,25 @@
     const tableBody = document.querySelector("#tableBody");
     const matchCount = document.querySelector("#matchCount");
     const predictionViewNote = document.querySelector("#predictionViewNote");
+    const heroSyncText = document.querySelector("#heroSyncText");
+    const heroLead = document.querySelector("#heroLead");
+    const heroLiveCount = document.querySelector("#heroLiveCount");
+    const heroNextKickoff = document.querySelector("#heroNextKickoff");
+    const spotlightStatus = document.querySelector("#spotlightStatus");
+    const spotlightTime = document.querySelector("#spotlightTime");
+    const spotlightFlagA = document.querySelector("#spotlightFlagA");
+    const spotlightFlagB = document.querySelector("#spotlightFlagB");
+    const spotlightTeamA = document.querySelector("#spotlightTeamA");
+    const spotlightTeamB = document.querySelector("#spotlightTeamB");
+    const spotlightScore = document.querySelector("#spotlightScore");
+    const spotlightAlt = document.querySelector("#spotlightAlt");
+    const spotlightCopy = document.querySelector("#spotlightCopy");
+    const spotlightMetricALabel = document.querySelector("#spotlightMetricALabel");
+    const spotlightMetricBLabel = document.querySelector("#spotlightMetricBLabel");
+    const spotlightMetricABar = document.querySelector("#spotlightMetricABar");
+    const spotlightMetricBBar = document.querySelector("#spotlightMetricBBar");
+    const spotlightMetricA = document.querySelector("#spotlightMetricA");
+    const spotlightMetricB = document.querySelector("#spotlightMetricB");
     const viewFilters = document.querySelectorAll(".view-filter");
     const timeFilters = document.querySelectorAll(".time-filter");
     const completedFallbackIds = new Set(["esp-cpv", "bel-egy", "ksa-uru", "irn-nzl"]);
@@ -2288,30 +2337,120 @@
         : `${rangePrefix}“${timeFilterLabel()}”显示 ${visibleCount} 场今天和明天的比赛；正在进行的比赛永远置顶，更多赛程请切换未来3天、后续或全部。`;
     }
 
+    function syncTimeText(value) {
+      const date = value ? new Date(value) : new Date();
+      return date.toLocaleString("zh-CN", {
+        timeZone: "Asia/Shanghai",
+        year: "numeric",
+        month: "2-digit",
+        day: "2-digit",
+        hour: "2-digit",
+        minute: "2-digit",
+        hour12: false
+      });
+    }
+
+    function liveFeedStateFor(match, feedMatches = []) {
+      return feedMatches.find(item => item.id === match.id) || liveStateFor(match);
+    }
+
+    function nextUpcomingMatch(feedMatches = []) {
+      const now = Date.now();
+      return matches
+        .filter(match => {
+          const state = liveFeedStateFor(match, feedMatches);
+          if (state?.status === "live") return true;
+          if (state?.status === "ft") return false;
+          const kickoff = kickoffTime(match);
+          return kickoff && kickoff >= now - 30 * 60 * 1000;
+        })
+        .sort((a, b) => {
+          const liveDelta = Number(liveFeedStateFor(b, feedMatches)?.status === "live") - Number(liveFeedStateFor(a, feedMatches)?.status === "live");
+          if (liveDelta) return liveDelta;
+          return kickoffTime(a) - kickoffTime(b);
+        })[0] || filteredMatches()[0] || matches[0];
+    }
+
+    function renderHeroFromFeed(feed = {}) {
+      const feedMatches = feed.matches || [];
+      const liveCount = feedMatches.filter(item => item.status === "live").length;
+      const focus = nextUpcomingMatch(feedMatches);
+      const state = focus ? liveFeedStateFor(focus, feedMatches) : null;
+      if (!focus) return;
+      const isLive = state?.status === "live";
+      const isFinished = state?.status === "ft";
+      const current = state ? `${state.homeGoals ?? 0}-${state.awayGoals ?? 0}` : focus.score;
+      const nextMatch = matches
+        .filter(match => !isCompleted(match) && liveFeedStateFor(match, feedMatches)?.status !== "live")
+        .sort((a, b) => kickoffTime(a) - kickoffTime(b))[0];
+      heroSyncText.textContent = `北京时间 ${syncTimeText(feed.updatedAt)} 实时校验 · 当前与未来赛程已同步`;
+      heroLead.textContent = "每次打开页面都会先校验实时比分和未来赛程，再结合盘口、赔率、模型概率、总进球线和市场情绪更新主推比分。";
+      heroLiveCount.textContent = liveCount ? `${liveCount} 场` : "暂无";
+      heroNextKickoff.textContent = nextMatch ? `${displayMatchTime(nextMatch)} ${nextMatch.teamA}` : "待赛程";
+      spotlightStatus.textContent = isLive ? "正在进行" : isFinished ? "已完场复盘" : "下一场预测";
+      spotlightTime.textContent = isLive ? `${state.minute || 0}'` : displayMatchTime(focus);
+      spotlightFlagA.textContent = focus.flagA || "";
+      spotlightFlagB.textContent = focus.flagB || "";
+      spotlightTeamA.textContent = focus.teamA;
+      spotlightTeamB.textContent = focus.teamB;
+      spotlightScore.textContent = isLive || isFinished ? current : focus.score;
+      spotlightAlt.textContent = isLive
+        ? `动态主推 ${focus.score} · 次选 ${focus.alt}`
+        : `次选 ${focus.alt}`;
+      const stateLine = state
+        ? `${focus.teamA} ${state.homeGoals ?? 0}-${state.awayGoals ?? 0} ${focus.teamB}，${state.detail || statusLabel(focus)}。`
+        : `${focus.teamA} vs ${focus.teamB}，${statusLabel(focus)}。`;
+      spotlightCopy.textContent = `${stateLine}${focus.market}；${focus.trigger}`;
+      const metricA = isLive ? clamp(Math.round((Number(state?.minute || 0) / 95) * 100), 8, 98) : focus.confidence;
+      const metricB = focus.heat;
+      spotlightMetricALabel.textContent = isLive ? "比赛进度" : "校准置信";
+      spotlightMetricBLabel.textContent = "盘口热度";
+      spotlightMetricA.textContent = `${metricA}%`;
+      spotlightMetricB.textContent = `${metricB}%`;
+      spotlightMetricABar.style.setProperty("--w", `${metricA}%`);
+      spotlightMetricBBar.style.setProperty("--w", `${metricB}%`);
+    }
+
     function renderPredictionSurfaces() {
       updatePredictionCounts();
       renderCards();
       renderTable();
     }
 
-    async function refreshPredictionSurfacesFromFeed() {
+    function applyFeedToPredictionSurface(feed) {
+      upsertFeedMatches(feed.matches || []);
+      matchStates = new Map([
+        ...matchStates,
+        ...(feed.matches || []).map(item => [item.id, item])
+      ]);
+      renderHeroFromFeed(feed);
+      renderPredictionSurfaces();
+    }
+
+    async function readLiveFeed(cacheMode = "live") {
+      const query = cacheMode === "cached"
+        ? `cached=1&t=${Date.now()}`
+        : `predictions=${Date.now()}`;
+      const response = await fetch(`./live-feed.json?${query}`, { cache: "no-store" });
+      if (!response.ok) throw new Error(`HTTP ${response.status}`);
+      return response.json();
+    }
+
+    async function refreshPredictionSurfacesFromFeed(forceRefresh = true) {
       try {
+        const cachedFeed = await readLiveFeed("cached");
+        applyFeedToPredictionSurface(cachedFeed);
+        if (!forceRefresh) return;
         const refreshStatus = await refreshLiveSource("prediction-home");
-        const response = await fetch(`./live-feed.json?predictions=${Date.now()}`, { cache: "no-store" });
-        if (!response.ok) throw new Error(`HTTP ${response.status}`);
-        const feed = await response.json();
-        upsertFeedMatches(feed.matches || []);
-        matchStates = new Map([
-          ...matchStates,
-          ...(feed.matches || []).map(item => [item.id, item])
-        ]);
+        const freshFeed = await readLiveFeed("live");
+        applyFeedToPredictionSurface(freshFeed);
         if (refreshStatus && refreshStatus.ok === false) {
           predictionViewNote.textContent = `已使用上一份有效实时数据；本次打开时刷新未完成：${refreshStatus.lastError || "实时源暂慢"}。`;
         }
       } catch (error) {
         predictionViewNote.textContent = `赛程预测半小时更新一次；本次读取实时状态失败：${error.message}`;
+        renderPredictionSurfaces();
       }
-      renderPredictionSurfaces();
     }
 
     function startPredictionSurfacePolling() {
@@ -2328,18 +2467,30 @@
         return;
       }
       let activeDateGroup = "";
+      let groupIndex = -1;
       visibleMatches.forEach((match, index) => {
           const groupLabel = dateGroupLabel(match);
           if (groupLabel !== activeDateGroup) {
             activeDateGroup = groupLabel;
+            groupIndex += 1;
             const groupMatches = visibleMatches.filter(item => dateGroupLabel(item) === groupLabel).length;
+            const collapsed = currentViewFilter !== "completed" && currentTimeFilter === "home" && groupIndex >= 1;
             const divider = document.createElement("div");
-            divider.className = "date-divider";
-            divider.innerHTML = `<b>${groupLabel}</b><span>${groupMatches} 场</span>`;
+            divider.className = `date-divider ${collapsed ? "collapsible collapsed" : groupIndex >= 1 ? "collapsible" : ""}`;
+            divider.dataset.groupIndex = String(groupIndex);
+            divider.innerHTML = `<b>${groupLabel}</b><span>${groupMatches} 场${groupIndex >= 1 ? ` · <button class="date-toggle" type="button">${collapsed ? "展开" : "收起"}</button>` : ""}</span>`;
             cards.appendChild(divider);
+            const toggle = divider.querySelector(".date-toggle");
+            if (toggle) {
+              divider.addEventListener("click", () => toggleDateGroup(divider.dataset.groupIndex));
+            }
           }
           const card = document.createElement("article");
           card.className = "card fade-in";
+          card.dataset.groupIndex = String(groupIndex);
+          if (currentViewFilter !== "completed" && currentTimeFilter === "home" && groupIndex >= 1) {
+            card.hidden = true;
+          }
           card.style.animationDelay = `${Math.min(index * 55, 320)}ms`;
           card.innerHTML = `
             <div class="card-head">
@@ -2385,6 +2536,18 @@
             reviewButton.addEventListener("click", () => openCompletedReview(match.id));
           }
         });
+    }
+
+    function toggleDateGroup(groupIndex) {
+      const divider = cards.querySelector(`.date-divider[data-group-index="${groupIndex}"]`);
+      if (!divider) return;
+      const shouldOpen = divider.classList.contains("collapsed");
+      divider.classList.toggle("collapsed", !shouldOpen);
+      const toggle = divider.querySelector(".date-toggle");
+      if (toggle) toggle.textContent = shouldOpen ? "收起" : "展开";
+      cards.querySelectorAll(`.card[data-group-index="${groupIndex}"]`).forEach(card => {
+        card.hidden = !shouldOpen;
+      });
     }
 
     function openCompletedReview(matchId) {
@@ -3396,6 +3559,7 @@
           ...matchStates,
           ...(feed.matches || []).map(item => [item.id, item])
         ]);
+        renderHeroFromFeed(feed);
         renderLiveMatchOptions(Number(liveMatch.value), true);
         const match = matches[Number(liveMatch.value) || 0];
         const state = (feed.matches || []).find(item => item.id === match.id);

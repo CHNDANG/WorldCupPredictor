@@ -129,8 +129,9 @@ def make_handler(refresher: LiveFeedRefresher):
                     daemon=True,
                 ).start()
             elif path.endswith("/live-feed.json") or path == "/live-feed.json":
-                force = query.get("force", ["0"])[0] == "1"
-                refresher.refresh(force=force, reason="live-feed-json")
+                if query.get("cached", ["0"])[0] != "1":
+                    force = query.get("force", ["0"])[0] == "1"
+                    refresher.refresh(force=force, reason="live-feed-json")
             super().do_GET()
 
         def send_json(self, payload: dict[str, Any]) -> None:
