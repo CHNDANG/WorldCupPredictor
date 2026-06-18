@@ -2124,11 +2124,31 @@
     }
 
     function upsertFeedMatches(feedMatches) {
-      const existingIds = new Set(matches.map(match => match.id));
-      const additions = (feedMatches || [])
-        .filter(item => item?.id && !existingIds.has(item.id))
+      const items = (feedMatches || []).filter(item => item?.id);
+      const byId = new Map(matches.map(match => [match.id, match]));
+      let touched = false;
+      items.forEach(item => {
+        const match = byId.get(item.id);
+        if (!match) return;
+        const homeName = zhTeam(item.homeName);
+        const awayName = zhTeam(item.awayName);
+        if (item.kickoffUtc && item.kickoffUtc !== match.kickoffUtc) {
+          match.kickoffUtc = item.kickoffUtc;
+          touched = true;
+        }
+        if (homeName && homeName !== match.teamA) {
+          match.teamA = homeName;
+          touched = true;
+        }
+        if (awayName && awayName !== match.teamB) {
+          match.teamB = awayName;
+          touched = true;
+        }
+      });
+      const additions = items
+        .filter(item => !byId.has(item.id))
         .map(buildFeedFallbackMatch);
-      if (additions.length) {
+      if (additions.length || touched) {
         matches = [...matches, ...additions].sort((a, b) => kickoffTime(a) - kickoffTime(b));
       }
     }
@@ -2276,6 +2296,7 @@
 
     async function refreshPredictionSurfacesFromFeed() {
       try {
+        const refreshStatus = await refreshLiveSource("prediction-home");
         const response = await fetch(`./live-feed.json?predictions=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const feed = await response.json();
@@ -2284,6 +2305,9 @@
           ...matchStates,
           ...(feed.matches || []).map(item => [item.id, item])
         ]);
+        if (refreshStatus && refreshStatus.ok === false) {
+          predictionViewNote.textContent = `已使用上一份有效实时数据；本次打开时刷新未完成：${refreshStatus.lastError || "实时源暂慢"}。`;
+        }
       } catch (error) {
         predictionViewNote.textContent = `赛程预测半小时更新一次；本次读取实时状态失败：${error.message}`;
       }
@@ -2444,6 +2468,7 @@
     const reviewCopy = document.querySelector("#reviewCopy");
     let lastLiveState = null;
     let lastLiveResult = null;
+    let openingRefreshPromise = null;
     let lastFeedSignature = "";
     let userSelectedLiveMatch = false;
     let liveFeedTimer = null;
@@ -3334,6 +3359,23 @@
       renderLiveModel();
     }
 
+    async function refreshLiveSource(reason = "open") {
+      if (openingRefreshPromise) return openingRefreshPromise;
+      const controller = new AbortController();
+      const timeout = window.setTimeout(() => controller.abort(), 25000);
+      openingRefreshPromise = fetch(`/api/refresh-live?force=1&reason=${encodeURIComponent(reason)}&t=${Date.now()}`, {
+        cache: "no-store",
+        signal: controller.signal
+      })
+        .then(response => response.ok ? response.json() : null)
+        .catch(error => ({ ok: false, lastError: error.message || "刷新超时" }))
+        .finally(() => {
+          window.clearTimeout(timeout);
+          window.setTimeout(() => { openingRefreshPromise = null; }, 1000);
+        });
+      return openingRefreshPromise;
+    }
+
     async function pollLiveFeed() {
       if (!autoSyncInput.checked) {
         syncTitle.textContent = "自动同步已暂停";
@@ -3341,6 +3383,11 @@
         return;
       }
       try {
+        if (!lastFeedSignature) {
+          syncTitle.textContent = "正在校验最新赛程";
+          syncDetail.textContent = "打开页面时正在从实时源刷新当前比赛和未来赛程。";
+          await refreshLiveSource("live-panel");
+        }
         const response = await fetch(`./live-feed.json?t=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const feed = await response.json();

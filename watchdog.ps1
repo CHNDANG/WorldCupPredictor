@@ -19,15 +19,15 @@ try {
     $pageOk = $false
   }
 
-  $liveProc = @(Get-CimInstance Win32_Process | Where-Object {
-    $_.Name -eq "python.exe" -and $_.CommandLine -like "*live-feed-bridge-espn.py*"
+  $siteProc = @(Get-CimInstance Win32_Process | Where-Object {
+    $_.Name -eq "python.exe" -and $_.CommandLine -like "*site-server.py*"
   })
   $newsProc = @(Get-CimInstance Win32_Process | Where-Object {
     $_.Name -eq "python.exe" -and $_.CommandLine -like "*news-feed-bridge.py*"
   })
 
-  if (-not $pageOk -or $liveProc.Count -eq 0 -or $newsProc.Count -eq 0) {
-    Write-Log "restart needed pageOk=$pageOk live=$($liveProc.Count) news=$($newsProc.Count)"
+  if (-not $pageOk -or $siteProc.Count -eq 0 -or $newsProc.Count -eq 0) {
+    Write-Log "restart needed pageOk=$pageOk site=$($siteProc.Count) news=$($newsProc.Count)"
     powershell -ExecutionPolicy Bypass -File $StartScript | Out-Null
     Start-Sleep -Seconds 2
   }
