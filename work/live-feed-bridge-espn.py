@@ -15,6 +15,7 @@ import time
 import urllib.parse
 import urllib.error
 import urllib.request
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -44,6 +45,9 @@ EVENT_MAP = {
     "760433": "arg-alg",
     "760431": "aut-jor",
     "760435": "por-cod",
+    "760437": "eng-cro",
+    "760434": "gha-pan",
+    "760436": "uzb-col",
     "760438": "cze-rsa",
     "760439": "sui-bih",
     "760440": "can-qat",
@@ -104,6 +108,9 @@ TEAM_ALIAS = {
     "arg-alg": ("argentina", "algeria"),
     "aut-jor": ("austria", "jordan"),
     "por-cod": ("portugal", "congo dr"),
+    "eng-cro": ("england", "croatia"),
+    "gha-pan": ("ghana", "panama"),
+    "uzb-col": ("uzbekistan", "colombia"),
     "cze-rsa": ("czechia", "south africa"),
     "sui-bih": ("switzerland", "bosnia herzegovina"),
     "can-qat": ("canada", "qatar"),
@@ -189,7 +196,7 @@ def resolve_local_id(event: dict[str, Any]) -> str | None:
         wanted = {normalize_team_name(name) for name in aliases}
         if wanted == event_sides:
             return local_id
-    return None
+    return f"espn-{event_id}" if event_id else None
 
 
 def clamp(value: float, low: float, high: float) -> float:
@@ -707,6 +714,7 @@ def build_state(event: dict[str, Any], external_odds_events: list[dict[str, Any]
     return {
         "id": local_id,
         "espnEventId": event_id,
+        "kickoffUtc": event.get("date") or competition.get("date") or "",
         "status": local_status,
         "detail": status_type.get("detail") or status_type.get("shortDetail") or "Unknown",
         "minute": minute,
@@ -776,16 +784,26 @@ def attach_history(payload: dict[str, Any], previous: dict[str, Any]) -> dict[st
 
 
 def fetch_feed() -> dict[str, Any]:
+    dates = scoreboard_dates()
     scoreboards = []
-    for date in scoreboard_dates():
-        try:
-            scoreboards.append(fetch_json(f"{SCOREBOARD_URL}?dates={date}"))
-        except Exception as error:
-            log_line(f"SCOREBOARD_WARN {date} {type(error).__name__}: {error}")
+    failed_dates: list[str] = []
+    with ThreadPoolExecutor(max_workers=min(5, max(1, len(dates)))) as executor:
+        futures = {executor.submit(fetch_json, f"{SCOREBOARD_URL}?dates={date}"): date for date in dates}
+        for future in as_completed(futures):
+            date = futures[future]
+            try:
+                scoreboards.append(future.result())
+            except Exception as error:
+                failed_dates.append(date)
+                log_line(f"SCOREBOARD_WARN {date} {type(error).__name__}: {error}")
     if not scoreboards:
-        scoreboards = [fetch_json(SCOREBOARD_URL)]
+        try:
+            scoreboards = [fetch_json(SCOREBOARD_URL)]
+        except Exception as error:
+            log_line(f"SCOREBOARD_WARN fallback {type(error).__name__}: {error}")
+            scoreboards = []
     external_odds_events = odds_api_events()
-    matches = []
+    events = []
     seen: set[str] = set()
     for scoreboard in scoreboards:
         for event in scoreboard.get("events", []):
@@ -793,9 +811,20 @@ def fetch_feed() -> dict[str, Any]:
             if event_id in seen:
                 continue
             seen.add(event_id)
-            state = build_state(event, external_odds_events)
+            events.append(event)
+    matches = []
+    with ThreadPoolExecutor(max_workers=min(8, max(1, len(events)))) as executor:
+        futures = {executor.submit(build_state, event, external_odds_events): str(event.get("id", "")) for event in events}
+        for future in as_completed(futures):
+            event_id = futures[future]
+            try:
+                state = future.result()
+            except Exception as error:
+                log_line(f"EVENT_WARN {event_id} {type(error).__name__}: {error}")
+                continue
             if state:
                 matches.append(state)
+    matches.sort(key=lambda item: item.get("kickoffUtc") or "")
     payload = {
         "updatedAt": datetime.now(timezone.utc).isoformat(),
         "provider": "ESPN public scoreboard + summary",
@@ -803,6 +832,13 @@ def fetch_feed() -> dict[str, Any]:
         "matches": matches,
     }
     previous = load_previous()
+    if failed_dates and previous.get("matches"):
+        merged_by_id = {match.get("id"): match for match in previous.get("matches", []) if match.get("id")}
+        merged_by_id.update({match.get("id"): match for match in matches if match.get("id")})
+        payload["matches"] = sorted(merged_by_id.values(), key=lambda item: item.get("kickoffUtc") or "")
+        payload["sourceStatus"] = f"partial-scoreboard-merged-last-valid: {','.join(failed_dates)}"
+        payload["provider"] = "ESPN public scoreboard + summary（部分日期超时，已合并上一份有效数据）"
+        return attach_history(payload, previous)
     if not matches and previous.get("matches"):
         previous["updatedAt"] = payload["updatedAt"]
         previous["provider"] = "ESPN public scoreboard + summary（当前源无比赛，保留上一份有效数据）"

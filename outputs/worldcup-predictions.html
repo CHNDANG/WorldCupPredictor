@@ -1566,12 +1566,13 @@
           <p id="predictionViewNote">默认隐藏已完成比赛，只保留未开赛和进行中的预测；点击“已完成复盘”可以回看赛前预测、赛中动态和最终比分偏差。</p>
         </div>
         <div class="filters view-filters" role="tablist" aria-label="比赛状态筛选">
-          <button class="filter view-filter active counted" data-view="active" data-count="0">未完成/进行中</button>
+          <button class="filter view-filter active counted" data-view="active" data-count="0">首页比赛</button>
           <button class="filter view-filter counted" data-view="completed" data-count="0">已完成复盘</button>
         </div>
         <div class="filters time-filters" role="tablist" aria-label="时间范围筛选">
-          <button class="filter time-filter active counted" data-time-filter="near" data-count="0">近期</button>
+          <button class="filter time-filter active counted" data-time-filter="home" data-count="0">首页两日</button>
           <button class="filter time-filter counted" data-time-filter="today" data-count="0">今天</button>
+          <button class="filter time-filter counted" data-time-filter="tomorrow" data-count="0">明天</button>
           <button class="filter time-filter counted" data-time-filter="threeDays" data-count="0">未来3天</button>
           <button class="filter time-filter counted" data-time-filter="later" data-count="0">后续</button>
           <button class="filter time-filter counted" data-time-filter="all" data-count="0">全部</button>
@@ -1964,6 +1965,9 @@
     ];
 
     const futureFixtures = [
+      { id: "eng-cro", kickoffUtc: "2026-06-17T20:00:00Z", teamA: "英格兰", flagA: "🏴", teamB: "克罗地亚", flagB: "🇭🇷", lambdaA: 1.90, lambdaB: 1.05 },
+      { id: "gha-pan", kickoffUtc: "2026-06-17T23:00:00Z", teamA: "加纳", flagA: "🇬🇭", teamB: "巴拿马", flagB: "🇵🇦", lambdaA: 1.35, lambdaB: 0.85 },
+      { id: "uzb-col", kickoffUtc: "2026-06-18T02:00:00Z", teamA: "乌兹别克斯坦", flagA: "🇺🇿", teamB: "哥伦比亚", flagB: "🇨🇴", lambdaA: 0.85, lambdaB: 1.55 },
       { id: "cze-rsa", kickoffUtc: "2026-06-18T16:00:00Z", teamA: "捷克", flagA: "🇨🇿", teamB: "南非", flagB: "🇿🇦", lambdaA: 1.35, lambdaB: 1.05 },
       { id: "sui-bih", kickoffUtc: "2026-06-18T19:00:00Z", teamA: "瑞士", flagA: "🇨🇭", teamB: "波黑", flagB: "🇧🇦", lambdaA: 1.55, lambdaB: 1.05 },
       { id: "can-qat", kickoffUtc: "2026-06-18T22:00:00Z", teamA: "加拿大", flagA: "🇨🇦", teamB: "卡塔尔", flagB: "🇶🇦", lambdaA: 1.65, lambdaB: 0.95 },
@@ -2014,7 +2018,7 @@
       { id: "jor-arg", kickoffUtc: "2026-06-28T02:00:00Z", teamA: "约旦", flagA: "🇯🇴", teamB: "阿根廷", flagB: "🇦🇷", lambdaA: 0.45, lambdaB: 2.55 }
     ];
 
-    const matches = [...seededMatches, ...futureFixtures.map(buildFutureMatch)];
+    let matches = [...seededMatches, ...futureFixtures.map(buildFutureMatch)];
 
     function scoreProbability(home, away, lambdaA, lambdaB) {
       return poisson(home, lambdaA) * poisson(away, lambdaB);
@@ -2074,6 +2078,61 @@
       };
     }
 
+    function lambdasFromFeedState(state) {
+      const homeProb = americanToProbability(state?.odds?.homeMoneyline);
+      const awayProb = americanToProbability(state?.odds?.awayMoneyline);
+      const totalGoals = Number(state?.homeGoals || 0) + Number(state?.awayGoals || 0);
+      const elapsed = clamp(Number(state?.minute || 0), 0, 90);
+      const remainingRatio = clamp((95 - elapsed) / 95, 0.08, 1);
+      let lambdaA = 1.25;
+      let lambdaB = 1.25;
+      if (homeProb !== null && awayProb !== null) {
+        const edge = clamp((homeProb - awayProb) * 1.55, -0.95, 0.95);
+        lambdaA += edge;
+        lambdaB -= edge;
+      }
+      if (state?.status === "live" || state?.status === "ft") {
+        lambdaA = Number(state?.homeGoals || 0) + lambdaA * remainingRatio;
+        lambdaB = Number(state?.awayGoals || 0) + lambdaB * remainingRatio;
+        const xgHome = Number(state?.homeXg || 0);
+        const xgAway = Number(state?.awayXg || 0);
+        if (xgHome || xgAway) {
+          lambdaA = lambdaA * 0.78 + xgHome * 0.22;
+          lambdaB = lambdaB * 0.78 + xgAway * 0.22;
+        }
+      }
+      return {
+        lambdaA: clamp(lambdaA, 0.2, Math.max(4.2, totalGoals + 1.8)),
+        lambdaB: clamp(lambdaB, 0.2, Math.max(4.2, totalGoals + 1.8))
+      };
+    }
+
+    function buildFeedFallbackMatch(state) {
+      const teamA = zhTeam(state?.homeName) || "主队";
+      const teamB = zhTeam(state?.awayName) || "客队";
+      const lambdas = lambdasFromFeedState(state);
+      return buildFutureMatch({
+        id: state.id,
+        kickoffUtc: state.kickoffUtc || "",
+        teamA,
+        flagA: "",
+        teamB,
+        flagB: "",
+        lambdaA: lambdas.lambdaA,
+        lambdaB: lambdas.lambdaB
+      });
+    }
+
+    function upsertFeedMatches(feedMatches) {
+      const existingIds = new Set(matches.map(match => match.id));
+      const additions = (feedMatches || [])
+        .filter(item => item?.id && !existingIds.has(item.id))
+        .map(buildFeedFallbackMatch);
+      if (additions.length) {
+        matches = [...matches, ...additions].sort((a, b) => kickoffTime(a) - kickoffTime(b));
+      }
+    }
+
     const cards = document.querySelector("#cards");
     const tableBody = document.querySelector("#tableBody");
     const matchCount = document.querySelector("#matchCount");
@@ -2083,7 +2142,7 @@
     const completedFallbackIds = new Set(["esp-cpv", "bel-egy", "ksa-uru", "irn-nzl"]);
     let currentTypeFilter = "all";
     let currentViewFilter = "active";
-    let currentTimeFilter = "near";
+    let currentTimeFilter = "home";
     let matchStates = new Map([...completedFallbackIds].map(id => [id, { status: "ft" }]));
 
     function tagClass(type) {
@@ -2125,7 +2184,8 @@
     }
 
     function matchesForCurrentView() {
-      return matches.filter(match => currentViewFilter === "completed" ? isCompleted(match) : !isCompleted(match));
+      if (currentViewFilter === "completed") return matches.filter(match => isCompleted(match) && liveStateFor(match)?.status !== "live");
+      return matches.filter(match => !isCompleted(match) || matchInHomeWindow(match) || liveStateFor(match)?.status === "live");
     }
 
     function kickoffTime(match) {
@@ -2138,21 +2198,28 @@
       return date.getTime();
     }
 
+    function matchInHomeWindow(match) {
+      const kickoff = kickoffTime(match);
+      if (!kickoff) return false;
+      const todayStart = startOfLocalDay(Date.now());
+      const dayAfterTomorrowStart = todayStart + 2 * 24 * 60 * 60 * 1000;
+      return kickoff >= todayStart && kickoff < dayAfterTomorrowStart;
+    }
+
     function matchInTimeFilter(match, filter = currentTimeFilter) {
       if (filter === "all") return true;
       const kickoff = kickoffTime(match);
-      if (!kickoff) return filter === "near";
+      if (!kickoff) return filter === "home";
       const now = Date.now();
       const todayStart = startOfLocalDay(now);
       const tomorrowStart = todayStart + 24 * 60 * 60 * 1000;
       const threeDaysEnd = todayStart + 3 * 24 * 60 * 60 * 1000;
+      if (liveStateFor(match)?.status === "live") return true;
+      if (filter === "home") return matchInHomeWindow(match);
       if (filter === "today") return kickoff >= todayStart && kickoff < tomorrowStart;
+      if (filter === "tomorrow") return kickoff >= tomorrowStart && kickoff < tomorrowStart + 24 * 60 * 60 * 1000;
       if (filter === "threeDays") return kickoff >= todayStart && kickoff < threeDaysEnd;
       if (filter === "later") return kickoff >= threeDaysEnd;
-      if (filter === "near") {
-        if (currentViewFilter === "completed") return now - kickoff <= 36 * 60 * 60 * 1000;
-        return kickoff < todayStart + 2 * 24 * 60 * 60 * 1000;
-      }
       return true;
     }
 
@@ -2160,7 +2227,11 @@
       return matchesForCurrentView()
         .filter(match => matchInTimeFilter(match))
         .filter(match => currentTypeFilter === "all" || match.type === currentTypeFilter)
-        .sort((a, b) => kickoffTime(a) - kickoffTime(b));
+        .sort((a, b) => {
+          const liveDelta = Number(liveStateFor(b)?.status === "live") - Number(liveStateFor(a)?.status === "live");
+          if (liveDelta) return liveDelta;
+          return kickoffTime(a) - kickoffTime(b);
+        });
     }
 
     function dateGroupLabel(match) {
@@ -2175,7 +2246,7 @@
 
     function timeFilterLabel() {
       const active = document.querySelector(".time-filter.active");
-      return active?.textContent?.replace(/\d+$/, "").trim() || "近期";
+      return active?.textContent?.replace(/\d+$/, "").trim() || "首页两日";
     }
 
     function updatePredictionCounts() {
@@ -2186,15 +2257,15 @@
       document.querySelector('[data-view="active"]')?.setAttribute("data-count", String(activeCount));
       document.querySelector('[data-view="completed"]')?.setAttribute("data-count", String(completedCount));
       timeFilters.forEach(button => {
-        const value = button.dataset.timeFilter || "near";
+        const value = button.dataset.timeFilter || "home";
         const count = baseForTime.filter(match => matchInTimeFilter(match, value)).length;
         button.setAttribute("data-count", String(count));
       });
       const visibleCount = filteredMatches().length;
-      const rangePrefix = currentTimeFilter === "near" ? "默认按" : "当前按";
+      const rangePrefix = currentTimeFilter === "home" ? "默认按" : "当前按";
       predictionViewNote.textContent = currentViewFilter === "completed"
         ? `当前按“${timeFilterLabel()}”显示 ${visibleCount} 场已完成比赛，可回看赛前预测、赛中动态和完场偏差。`
-        : `${rangePrefix}“${timeFilterLabel()}”显示 ${visibleCount} 场未开赛或进行中的预测；可切换今天、未来3天、后续或全部。`;
+        : `${rangePrefix}“${timeFilterLabel()}”显示 ${visibleCount} 场今天和明天的比赛；正在进行的比赛永远置顶，更多赛程请切换未来3天、后续或全部。`;
     }
 
     function renderPredictionSurfaces() {
@@ -2208,6 +2279,7 @@
         const response = await fetch(`./live-feed.json?predictions=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const feed = await response.json();
+        upsertFeedMatches(feed.matches || []);
         matchStates = new Map([
           ...matchStates,
           ...(feed.matches || []).map(item => [item.id, item])
@@ -3272,6 +3344,7 @@
         const response = await fetch(`./live-feed.json?t=${Date.now()}`, { cache: "no-store" });
         if (!response.ok) throw new Error(`HTTP ${response.status}`);
         const feed = await response.json();
+        upsertFeedMatches(feed.matches || []);
         matchStates = new Map([
           ...matchStates,
           ...(feed.matches || []).map(item => [item.id, item])
@@ -3355,8 +3428,8 @@
         button.classList.add("active");
         currentViewFilter = button.dataset.view || "active";
         if (currentTimeFilter === "all") {
-          currentTimeFilter = "near";
-          timeFilters.forEach(item => item.classList.toggle("active", item.dataset.timeFilter === "near"));
+          currentTimeFilter = "home";
+          timeFilters.forEach(item => item.classList.toggle("active", item.dataset.timeFilter === "home"));
         }
         renderPredictionSurfaces();
       });
@@ -3366,7 +3439,7 @@
       button.addEventListener("click", () => {
         timeFilters.forEach(item => item.classList.remove("active"));
         button.classList.add("active");
-        currentTimeFilter = button.dataset.timeFilter || "near";
+        currentTimeFilter = button.dataset.timeFilter || "home";
         renderPredictionSurfaces();
       });
     });
