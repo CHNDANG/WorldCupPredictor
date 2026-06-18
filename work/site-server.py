@@ -105,14 +105,22 @@ class LiveFeedRefresher:
 def make_handler(refresher: LiveFeedRefresher):
     class RefreshingHandler(SimpleHTTPRequestHandler):
         server_version = "WorldCupPredictor/1.0"
+        extensions_map = {
+            **SimpleHTTPRequestHandler.extensions_map,
+            ".webmanifest": "application/manifest+json",
+            ".svg": "image/svg+xml",
+        }
 
         def __init__(self, *args, **kwargs) -> None:
             super().__init__(*args, directory=str(OUTPUTS), **kwargs)
 
         def end_headers(self) -> None:
             parsed = urllib.parse.urlparse(self.path)
-            if parsed.path.endswith((".json", ".html")) or parsed.path.startswith("/api/"):
+            if parsed.path.endswith((".json", ".html", ".webmanifest")) or parsed.path.startswith("/api/"):
                 self.send_header("Cache-Control", "no-store, max-age=0")
+            if parsed.path.endswith("/sw.js") or parsed.path == "/sw.js":
+                self.send_header("Cache-Control", "no-store, max-age=0")
+                self.send_header("Service-Worker-Allowed", "/")
             super().end_headers()
 
         def do_GET(self) -> None:  # noqa: N802 - stdlib handler API.

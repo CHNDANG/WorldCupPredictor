@@ -3,6 +3,13 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="theme-color" content="#070a10" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-title" content="盘口雷达" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <link rel="manifest" href="./manifest.webmanifest" />
+  <link rel="icon" href="./assets/app-icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="./assets/app-icon-192.png" />
   <title>世界杯盘口校准雷达</title>
   <style>
     :root {
@@ -131,6 +138,10 @@
       padding: 9px 12px;
       background: rgba(0, 0, 0, 0.18);
       backdrop-filter: blur(18px);
+    }
+
+    .mobile-tabbar {
+      display: none;
     }
 
     .hero-grid {
@@ -1710,6 +1721,46 @@
       }
 
       .wrap { width: min(100% - 24px, 1320px); }
+
+      main {
+        padding-bottom: calc(82px + env(safe-area-inset-bottom));
+      }
+
+      .mobile-tabbar {
+        position: fixed;
+        left: 10px;
+        right: 10px;
+        bottom: calc(10px + env(safe-area-inset-bottom));
+        z-index: 30;
+        display: grid;
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+        gap: 6px;
+        padding: 7px;
+        border: 1px solid rgba(255, 255, 255, 0.14);
+        border-radius: 18px;
+        background: rgba(7, 10, 16, 0.86);
+        box-shadow: 0 18px 52px rgba(0, 0, 0, 0.42);
+        backdrop-filter: blur(22px);
+      }
+
+      .mobile-tabbar a {
+        display: grid;
+        place-items: center;
+        min-height: 46px;
+        border-radius: 13px;
+        color: rgba(247,251,255,0.8);
+        text-decoration: none;
+        font-size: 12px;
+        font-weight: 850;
+        background: rgba(255,255,255,0.055);
+      }
+
+      .mobile-tabbar a:active,
+      .mobile-tabbar a:focus-visible {
+        color: #071019;
+        background: linear-gradient(135deg, var(--lime), var(--cyan));
+        outline: 0;
+      }
     }
 
     @media (max-width: 420px) {
@@ -1792,6 +1843,14 @@
       </aside>
     </div>
   </header>
+
+  <nav class="mobile-tabbar" aria-label="手机快捷导航">
+    <a href="#predictions">赛程</a>
+    <a href="#live">赛中</a>
+    <a href="#bookmakers">盘口</a>
+    <a href="#news">新闻</a>
+    <a href="#schedule">总表</a>
+  </nav>
 
   <main>
     <section id="predictions">
@@ -3875,6 +3934,12 @@
       initLiveModel();
       startNewsFeedPolling();
       startLearningPolling();
+
+      if ("serviceWorker" in navigator) {
+        window.addEventListener("load", () => {
+          navigator.serviceWorker.register("./sw.js").catch(() => {});
+        });
+      }
   </script>
 </body>
 </html>

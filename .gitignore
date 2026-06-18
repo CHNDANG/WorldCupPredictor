@@ -10,6 +10,14 @@ data/*.corrupt-*
 
 work/video_audio/
 work/video_frames/
+work/public-url.txt
+work/cloudflared*.log
+work/localhost-run*.log
+work/localhost-run-known-hosts
+work/localtunnel*.log
+
+tools/cloudflared.exe
+tools/npm-cache/
 
 .env
 .venv/
