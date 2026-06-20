@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T10:15:56.437722+00:00",
+  "updatedAt": "2026-06-20T16:03:25.118982+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -2965,7 +2965,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -3,
+      "marketMove": -2,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -2986,29 +2986,29 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-140",
+        "homeMoneyline": "-145",
         "drawMoneyline": "+310",
         "awayMoneyline": "+370",
         "homeOpenMoneyline": "-155",
         "spreadLine": "-0.5",
         "spreadOdds": "-145",
         "totalLine": "o2.5",
-        "overOdds": "-160",
-        "underOdds": "+130"
+        "overOdds": "-165",
+        "underOdds": "+135"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-140",
+          "homeMoneyline": "-145",
           "drawMoneyline": "+310",
           "awayMoneyline": "+370",
           "spreadLine": "-0.5",
           "spreadOdds": "-145",
           "totalLine": "o2.5",
-          "overOdds": "-160",
-          "underOdds": "+130",
-          "homeImplied": 0.5833333333333334,
+          "overOdds": "-165",
+          "underOdds": "+135",
+          "homeImplied": 0.5918367346938775,
           "drawImplied": 0.24390243902439024,
           "awayImplied": 0.2127659574468085,
           "available": true
@@ -3155,6 +3155,15 @@
           "awayMoneyline": "+370",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "-145",
+          "drawMoneyline": "+310",
+          "awayMoneyline": "+370",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -3183,7 +3192,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 3,
+      "marketMove": 4,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -3204,31 +3213,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-195",
-        "drawMoneyline": "+370",
-        "awayMoneyline": "+500",
+        "homeMoneyline": "-200",
+        "drawMoneyline": "+360",
+        "awayMoneyline": "+550",
         "homeOpenMoneyline": "-175",
         "spreadLine": "-1.5",
-        "spreadOdds": "+135",
+        "spreadOdds": "+130",
         "totalLine": "o2.5",
         "overOdds": "-170",
-        "underOdds": "+140"
+        "underOdds": "+135"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-195",
-          "drawMoneyline": "+370",
-          "awayMoneyline": "+500",
+          "homeMoneyline": "-200",
+          "drawMoneyline": "+360",
+          "awayMoneyline": "+550",
           "spreadLine": "-1.5",
-          "spreadOdds": "+135",
+          "spreadOdds": "+130",
           "totalLine": "o2.5",
           "overOdds": "-170",
-          "underOdds": "+140",
-          "homeImplied": 0.6610169491525424,
-          "drawImplied": 0.2127659574468085,
-          "awayImplied": 0.16666666666666666,
+          "underOdds": "+135",
+          "homeImplied": 0.6666666666666666,
+          "drawImplied": 0.21739130434782608,
+          "awayImplied": 0.15384615384615385,
           "available": true
         },
         {
@@ -3373,6 +3382,15 @@
           "awayMoneyline": "+500",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 4,
+          "homeMoneyline": "-200",
+          "drawMoneyline": "+360",
+          "awayMoneyline": "+550",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -3401,7 +3419,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 10,
+      "marketMove": 9,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -3422,30 +3440,30 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-750",
-        "drawMoneyline": "+800",
+        "homeMoneyline": "-700",
+        "drawMoneyline": "+750",
         "awayMoneyline": "+2000",
         "homeOpenMoneyline": "-390",
         "spreadLine": "-2.5",
         "spreadOdds": "+115",
         "totalLine": "o2.5",
-        "overOdds": "-170",
-        "underOdds": "+135"
+        "overOdds": "-165",
+        "underOdds": "+130"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-750",
-          "drawMoneyline": "+800",
+          "homeMoneyline": "-700",
+          "drawMoneyline": "+750",
           "awayMoneyline": "+2000",
           "spreadLine": "-2.5",
           "spreadOdds": "+115",
           "totalLine": "o2.5",
-          "overOdds": "-170",
-          "underOdds": "+135",
-          "homeImplied": 0.8823529411764706,
-          "drawImplied": 0.1111111111111111,
+          "overOdds": "-165",
+          "underOdds": "+130",
+          "homeImplied": 0.875,
+          "drawImplied": 0.11764705882352941,
           "awayImplied": 0.047619047619047616,
           "available": true
         },
@@ -3582,6 +3600,15 @@
           "awayMoneyline": "+2000",
           "spreadLine": "-2.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 9,
+          "homeMoneyline": "-700",
+          "drawMoneyline": "+750",
+          "awayMoneyline": "+2000",
+          "spreadLine": "-2.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -3610,7 +3637,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -8,
+      "marketMove": -9,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -3631,12 +3658,12 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+550",
+        "homeMoneyline": "+600",
         "drawMoneyline": "+310",
-        "awayMoneyline": "-180",
+        "awayMoneyline": "-190",
         "homeOpenMoneyline": "+360",
         "spreadLine": "+0.5",
-        "spreadOdds": "+150",
+        "spreadOdds": "+155",
         "totalLine": "o2.5",
         "overOdds": "+110",
         "underOdds": "-135"
@@ -3645,17 +3672,17 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+550",
+          "homeMoneyline": "+600",
           "drawMoneyline": "+310",
-          "awayMoneyline": "-180",
+          "awayMoneyline": "-190",
           "spreadLine": "+0.5",
-          "spreadOdds": "+150",
+          "spreadOdds": "+155",
           "totalLine": "o2.5",
           "overOdds": "+110",
           "underOdds": "-135",
-          "homeImplied": 0.15384615384615385,
+          "homeImplied": 0.14285714285714285,
           "drawImplied": 0.24390243902439024,
-          "awayImplied": 0.6428571428571429,
+          "awayImplied": 0.6551724137931034,
           "available": true
         },
         {
@@ -3780,6 +3807,15 @@
           "homeMoneyline": "+550",
           "drawMoneyline": "+310",
           "awayMoneyline": "-180",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -9,
+          "homeMoneyline": "+600",
+          "drawMoneyline": "+310",
+          "awayMoneyline": "-190",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
         }
@@ -4010,7 +4046,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -1,
+      "marketMove": 1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -4031,8 +4067,8 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-225",
-        "drawMoneyline": "+360",
+        "homeMoneyline": "-235",
+        "drawMoneyline": "+380",
         "awayMoneyline": "+650",
         "homeOpenMoneyline": "-230",
         "spreadLine": "-1.5",
@@ -4045,16 +4081,16 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-225",
-          "drawMoneyline": "+360",
+          "homeMoneyline": "-235",
+          "drawMoneyline": "+380",
           "awayMoneyline": "+650",
           "spreadLine": "-1.5",
           "spreadOdds": "+125",
           "totalLine": "o2.5",
           "overOdds": "-125",
           "underOdds": "+100",
-          "homeImplied": 0.6923076923076923,
-          "drawImplied": 0.21739130434782608,
+          "homeImplied": 0.7014925373134329,
+          "drawImplied": 0.20833333333333334,
           "awayImplied": 0.13333333333333333,
           "available": true
         },
@@ -4173,6 +4209,15 @@
           "awayMoneyline": "+650",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 1,
+          "homeMoneyline": "-235",
+          "drawMoneyline": "+380",
+          "awayMoneyline": "+650",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -4230,7 +4275,7 @@
         "spreadOdds": "+145",
         "totalLine": "o2.5",
         "overOdds": "+125",
-        "underOdds": "-155"
+        "underOdds": "-160"
       },
       "bookmakers": [
         {
@@ -4243,7 +4288,7 @@
           "spreadOdds": "+145",
           "totalLine": "o2.5",
           "overOdds": "+125",
-          "underOdds": "-155",
+          "underOdds": "-160",
           "homeImplied": 0.696969696969697,
           "drawImplied": 0.22727272727272727,
           "awayImplied": 0.11764705882352941,
@@ -4801,7 +4846,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 6,
+      "marketMove": 7,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -4822,31 +4867,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-1200",
+        "homeMoneyline": "-1400",
         "drawMoneyline": "+1100",
-        "awayMoneyline": "+2800",
+        "awayMoneyline": "+3000",
         "homeOpenMoneyline": "-700",
         "spreadLine": "-2.5",
-        "spreadOdds": "-125",
+        "spreadOdds": "-130",
         "totalLine": "o3.5",
-        "overOdds": "-105",
-        "underOdds": "-120"
+        "overOdds": "-110",
+        "underOdds": "-115"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-1200",
+          "homeMoneyline": "-1400",
           "drawMoneyline": "+1100",
-          "awayMoneyline": "+2800",
+          "awayMoneyline": "+3000",
           "spreadLine": "-2.5",
-          "spreadOdds": "-125",
+          "spreadOdds": "-130",
           "totalLine": "o3.5",
-          "overOdds": "-105",
-          "underOdds": "-120",
-          "homeImplied": 0.9230769230769231,
+          "overOdds": "-110",
+          "underOdds": "-115",
+          "homeImplied": 0.9333333333333333,
           "drawImplied": 0.08333333333333333,
-          "awayImplied": 0.034482758620689655,
+          "awayImplied": 0.03225806451612903,
           "available": true
         },
         {
@@ -4964,6 +5009,15 @@
           "awayMoneyline": "+2800",
           "spreadLine": "-2.5",
           "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 7,
+          "homeMoneyline": "-1400",
+          "drawMoneyline": "+1100",
+          "awayMoneyline": "+3000",
+          "spreadLine": "-2.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -4992,7 +5046,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -9,
+      "marketMove": -8,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -5013,12 +5067,12 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+135",
+        "homeMoneyline": "+130",
         "drawMoneyline": "+250",
-        "awayMoneyline": "+195",
+        "awayMoneyline": "+210",
         "homeOpenMoneyline": "+100",
         "spreadLine": "-0.5",
-        "spreadOdds": "+125",
+        "spreadOdds": "+120",
         "totalLine": "o2.5",
         "overOdds": "-105",
         "underOdds": "-115"
@@ -5027,17 +5081,17 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+135",
+          "homeMoneyline": "+130",
           "drawMoneyline": "+250",
-          "awayMoneyline": "+195",
+          "awayMoneyline": "+210",
           "spreadLine": "-0.5",
-          "spreadOdds": "+125",
+          "spreadOdds": "+120",
           "totalLine": "o2.5",
           "overOdds": "-105",
           "underOdds": "-115",
-          "homeImplied": 0.425531914893617,
+          "homeImplied": 0.43478260869565216,
           "drawImplied": 0.2857142857142857,
-          "awayImplied": 0.3389830508474576,
+          "awayImplied": 0.3225806451612903,
           "available": true
         },
         {
@@ -5153,6 +5207,15 @@
           "homeMoneyline": "+135",
           "drawMoneyline": "+250",
           "awayMoneyline": "+195",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -8,
+          "homeMoneyline": "+130",
+          "drawMoneyline": "+250",
+          "awayMoneyline": "+210",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
         }
