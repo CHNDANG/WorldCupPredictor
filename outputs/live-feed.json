@@ -1,376 +1,8 @@
 {
-  "updatedAt": "2026-06-26T10:39:12.695771+00:00",
+  "updatedAt": "2026-06-26T17:23:06.081877+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
-    {
-      "id": "bih-qat",
-      "espnEventId": "760462",
-      "kickoffUtc": "2026-06-24T19:00Z",
-      "status": "ft",
-      "detail": "FT",
-      "minute": 90,
-      "homeName": "Bosnia-Herzegovina",
-      "awayName": "Qatar",
-      "homeGoals": 3,
-      "awayGoals": 1,
-      "homeXg": 2.4,
-      "awayXg": 1.44,
-      "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 10,
-      "marketMove": 14,
-      "stats": {
-        "home": {
-          "shots": 14.0,
-          "shotsOnTarget": 5.0,
-          "corners": 5.0,
-          "possession": 54.4,
-          "passes": 515.0,
-          "redCards": 0.0
-        },
-        "away": {
-          "shots": 9.0,
-          "shotsOnTarget": 3.0,
-          "corners": 5.0,
-          "possession": 45.6,
-          "passes": 434.0,
-          "redCards": 0.0
-        }
-      },
-      "odds": {
-        "provider": "DraftKings",
-        "homeMoneyline": "-235",
-        "drawMoneyline": "+400",
-        "awayMoneyline": "+600",
-        "homeOpenMoneyline": "-140",
-        "spreadLine": "-1.5",
-        "spreadOdds": "+125",
-        "totalLine": "o2.5",
-        "overOdds": "-145",
-        "underOdds": "+115"
-      },
-      "bookmakers": [
-        {
-          "provider": "DraftKings",
-          "scope": "pregame",
-          "homeMoneyline": "-235",
-          "drawMoneyline": "+400",
-          "awayMoneyline": "+600",
-          "spreadLine": "-1.5",
-          "spreadOdds": "+125",
-          "totalLine": "o2.5",
-          "overOdds": "-145",
-          "underOdds": "+115",
-          "homeImplied": 0.7014925373134329,
-          "drawImplied": 0.2,
-          "awayImplied": 0.14285714285714285,
-          "available": true
-        },
-        {
-          "provider": "Bet 365",
-          "scope": "pregame",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Pinnacle",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Bet365",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "FanDuel",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "BetMGM",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Caesars",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "William Hill",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        }
-      ],
-      "correctScoreMarkets": [],
-      "bookmakerSourceStatus": {
-        "espn": 1,
-        "oddsApi": 0,
-        "correctScore": 0,
-        "oddsApiConfigured": false
-      },
-      "events": [
-        {
-          "id": "49600024",
-          "minute": "72'",
-          "type": "substitution",
-          "team": "Qatar",
-          "text": "Substitution, Qatar. Almoez Ali replaces Karim Boudiaf.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:33:44Z"
-        },
-        {
-          "id": "49600020",
-          "minute": "72'",
-          "type": "end-delay",
-          "team": "Bosnia-Herzegovina",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:33:49Z"
-        },
-        {
-          "id": "49600014",
-          "minute": "72'",
-          "type": "end-delay",
-          "team": "Qatar",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:33:49Z"
-        },
-        {
-          "id": "49600203",
-          "minute": "78'",
-          "type": "yellow-card",
-          "team": "Qatar",
-          "text": "Ahmed Fathy (Qatar) is shown the yellow card for a bad foul.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:40:08Z"
-        },
-        {
-          "id": "49600209",
-          "minute": "79'",
-          "type": "substitution",
-          "team": "Qatar",
-          "text": "Substitution, Qatar. Ahmed Alaa replaces Edmílson Junior.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:40:41Z"
-        },
-        {
-          "id": "49600211",
-          "minute": "79'",
-          "type": "substitution",
-          "team": "Qatar",
-          "text": "Substitution, Qatar. Mohammad Al Manai replaces Ahmed Fathy.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:40:48Z"
-        },
-        {
-          "id": "49600259",
-          "minute": "80'",
-          "type": "goal",
-          "team": "Bosnia-Herzegovina",
-          "text": "Goal! Bosnia and Herzegovina 3, Qatar 1. Ermin Mahmic (Bosnia and Herzegovina) right footed shot from the centre of the box to the centre of the goal. Assisted by Dennis Hadzikadunic following a corner.",
-          "scoringPlay": true,
-          "wallclock": "2026-06-24T20:42:19Z"
-        },
-        {
-          "id": "49600268",
-          "minute": "82'",
-          "type": "substitution",
-          "team": "Bosnia-Herzegovina",
-          "text": "Substitution, Bosnia and Herzegovina. Dzenis Burnic replaces Kerim Alajbegovic.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:44:00Z"
-        },
-        {
-          "id": "49600279",
-          "minute": "82'",
-          "type": "yellow-card",
-          "team": "Bosnia-Herzegovina",
-          "text": "Ermin Mahmic (Bosnia and Herzegovina) is shown the yellow card for excessive celebration.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:44:05Z"
-        },
-        {
-          "id": "49600459",
-          "minute": "88'",
-          "type": "start-delay",
-          "team": "Bosnia-Herzegovina",
-          "text": "Delay in match because of an injury Stjepan Radeljic (Bosnia and Herzegovina).",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:49:55Z"
-        },
-        {
-          "id": "49600467",
-          "minute": "88'",
-          "type": "start-delay",
-          "team": "Qatar",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:49:55Z"
-        },
-        {
-          "id": "49600466",
-          "minute": "88'",
-          "type": "end-delay",
-          "team": "Bosnia-Herzegovina",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:50:18Z"
-        },
-        {
-          "id": "49600469",
-          "minute": "88'",
-          "type": "end-delay",
-          "team": "Qatar",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:50:19Z"
-        },
-        {
-          "id": "49600672",
-          "minute": "90'+7'",
-          "type": "end-regular-time",
-          "team": "",
-          "text": "Second Half ends, Bosnia and Herzegovina 3, Qatar 1.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-24T20:58:44Z"
-        }
-      ],
-      "note": "",
-      "marketHistory": [
-        {
-          "minute": 0,
-          "marketMove": 14,
-          "homeMoneyline": "-230",
-          "drawMoneyline": "+400",
-          "awayMoneyline": "+600",
-          "spreadLine": "-1.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 16,
-          "homeMoneyline": "-255",
-          "drawMoneyline": "+425",
-          "awayMoneyline": "+650",
-          "spreadLine": "-1.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 17,
-          "homeMoneyline": "-265",
-          "drawMoneyline": "+450",
-          "awayMoneyline": "+700",
-          "spreadLine": "-1.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 90,
-          "marketMove": 14,
-          "homeMoneyline": "-235",
-          "drawMoneyline": "+400",
-          "awayMoneyline": "+600",
-          "spreadLine": "-1.5",
-          "totalLine": "o2.5"
-        }
-      ],
-      "scoreHistory": [
-        {
-          "minute": 0,
-          "homeGoals": 0,
-          "awayGoals": 0,
-          "homeXg": 0,
-          "awayXg": 0
-        },
-        {
-          "minute": 90,
-          "homeGoals": 3,
-          "awayGoals": 1,
-          "homeXg": 2.4,
-          "awayXg": 1.44
-        }
-      ]
-    },
     {
       "id": "sui-can",
       "espnEventId": "760463",
@@ -763,6 +395,374 @@
           "awayGoals": 1,
           "homeXg": 1.31,
           "awayXg": 2.67
+        }
+      ]
+    },
+    {
+      "id": "bih-qat",
+      "espnEventId": "760462",
+      "kickoffUtc": "2026-06-24T19:00Z",
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
+      "homeName": "Bosnia-Herzegovina",
+      "awayName": "Qatar",
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "homeXg": 2.4,
+      "awayXg": 1.44,
+      "homeRedCards": 0,
+      "awayRedCards": 0,
+      "tempo": 10,
+      "marketMove": 14,
+      "stats": {
+        "home": {
+          "shots": 14.0,
+          "shotsOnTarget": 5.0,
+          "corners": 5.0,
+          "possession": 54.4,
+          "passes": 515.0,
+          "redCards": 0.0
+        },
+        "away": {
+          "shots": 9.0,
+          "shotsOnTarget": 3.0,
+          "corners": 5.0,
+          "possession": 45.6,
+          "passes": 434.0,
+          "redCards": 0.0
+        }
+      },
+      "odds": {
+        "provider": "DraftKings",
+        "homeMoneyline": "-235",
+        "drawMoneyline": "+400",
+        "awayMoneyline": "+600",
+        "homeOpenMoneyline": "-140",
+        "spreadLine": "-1.5",
+        "spreadOdds": "+125",
+        "totalLine": "o2.5",
+        "overOdds": "-145",
+        "underOdds": "+115"
+      },
+      "bookmakers": [
+        {
+          "provider": "DraftKings",
+          "scope": "pregame",
+          "homeMoneyline": "-235",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+600",
+          "spreadLine": "-1.5",
+          "spreadOdds": "+125",
+          "totalLine": "o2.5",
+          "overOdds": "-145",
+          "underOdds": "+115",
+          "homeImplied": 0.7014925373134329,
+          "drawImplied": 0.2,
+          "awayImplied": 0.14285714285714285,
+          "available": true
+        },
+        {
+          "provider": "Bet 365",
+          "scope": "pregame",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Pinnacle",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Bet365",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "FanDuel",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "BetMGM",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Caesars",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "William Hill",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        }
+      ],
+      "correctScoreMarkets": [],
+      "bookmakerSourceStatus": {
+        "espn": 1,
+        "oddsApi": 0,
+        "correctScore": 0,
+        "oddsApiConfigured": false
+      },
+      "events": [
+        {
+          "id": "49600024",
+          "minute": "72'",
+          "type": "substitution",
+          "team": "Qatar",
+          "text": "Substitution, Qatar. Almoez Ali replaces Karim Boudiaf.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:33:44Z"
+        },
+        {
+          "id": "49600020",
+          "minute": "72'",
+          "type": "end-delay",
+          "team": "Bosnia-Herzegovina",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:33:49Z"
+        },
+        {
+          "id": "49600014",
+          "minute": "72'",
+          "type": "end-delay",
+          "team": "Qatar",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:33:49Z"
+        },
+        {
+          "id": "49600203",
+          "minute": "78'",
+          "type": "yellow-card",
+          "team": "Qatar",
+          "text": "Ahmed Fathy (Qatar) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:40:08Z"
+        },
+        {
+          "id": "49600209",
+          "minute": "79'",
+          "type": "substitution",
+          "team": "Qatar",
+          "text": "Substitution, Qatar. Ahmed Alaa replaces Edmílson Junior.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:40:41Z"
+        },
+        {
+          "id": "49600211",
+          "minute": "79'",
+          "type": "substitution",
+          "team": "Qatar",
+          "text": "Substitution, Qatar. Mohammad Al Manai replaces Ahmed Fathy.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:40:48Z"
+        },
+        {
+          "id": "49600259",
+          "minute": "80'",
+          "type": "goal",
+          "team": "Bosnia-Herzegovina",
+          "text": "Goal! Bosnia and Herzegovina 3, Qatar 1. Ermin Mahmic (Bosnia and Herzegovina) right footed shot from the centre of the box to the centre of the goal. Assisted by Dennis Hadzikadunic following a corner.",
+          "scoringPlay": true,
+          "wallclock": "2026-06-24T20:42:19Z"
+        },
+        {
+          "id": "49600268",
+          "minute": "82'",
+          "type": "substitution",
+          "team": "Bosnia-Herzegovina",
+          "text": "Substitution, Bosnia and Herzegovina. Dzenis Burnic replaces Kerim Alajbegovic.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:44:00Z"
+        },
+        {
+          "id": "49600279",
+          "minute": "82'",
+          "type": "yellow-card",
+          "team": "Bosnia-Herzegovina",
+          "text": "Ermin Mahmic (Bosnia and Herzegovina) is shown the yellow card for excessive celebration.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:44:05Z"
+        },
+        {
+          "id": "49600459",
+          "minute": "88'",
+          "type": "start-delay",
+          "team": "Bosnia-Herzegovina",
+          "text": "Delay in match because of an injury Stjepan Radeljic (Bosnia and Herzegovina).",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:49:55Z"
+        },
+        {
+          "id": "49600467",
+          "minute": "88'",
+          "type": "start-delay",
+          "team": "Qatar",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:49:55Z"
+        },
+        {
+          "id": "49600466",
+          "minute": "88'",
+          "type": "end-delay",
+          "team": "Bosnia-Herzegovina",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:50:18Z"
+        },
+        {
+          "id": "49600469",
+          "minute": "88'",
+          "type": "end-delay",
+          "team": "Qatar",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:50:19Z"
+        },
+        {
+          "id": "49600672",
+          "minute": "90'+7'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "Second Half ends, Bosnia and Herzegovina 3, Qatar 1.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-24T20:58:44Z"
+        }
+      ],
+      "note": "",
+      "marketHistory": [
+        {
+          "minute": 0,
+          "marketMove": 14,
+          "homeMoneyline": "-230",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+600",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 16,
+          "homeMoneyline": "-255",
+          "drawMoneyline": "+425",
+          "awayMoneyline": "+650",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 17,
+          "homeMoneyline": "-265",
+          "drawMoneyline": "+450",
+          "awayMoneyline": "+700",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 14,
+          "homeMoneyline": "-235",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+600",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        }
+      ],
+      "scoreHistory": [
+        {
+          "minute": 0,
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "homeXg": 0,
+          "awayXg": 0
+        },
+        {
+          "minute": 90,
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "homeXg": 2.4,
+          "awayXg": 1.44
         }
       ]
     },
@@ -1580,367 +1580,6 @@
       ]
     },
     {
-      "id": "cze-mex",
-      "espnEventId": "760467",
-      "kickoffUtc": "2026-06-25T01:00Z",
-      "status": "ft",
-      "detail": "FT",
-      "minute": 90,
-      "homeName": "Czechia",
-      "awayName": "Mexico",
-      "homeGoals": 0,
-      "awayGoals": 3,
-      "homeXg": 1.55,
-      "awayXg": 1.89,
-      "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 8,
-      "marketMove": -5,
-      "stats": {
-        "home": {
-          "shots": 13.0,
-          "shotsOnTarget": 1.0,
-          "corners": 5.0,
-          "possession": 51.9,
-          "passes": 398.0,
-          "redCards": 0.0
-        },
-        "away": {
-          "shots": 11.0,
-          "shotsOnTarget": 5.0,
-          "corners": 1.0,
-          "possession": 48.1,
-          "passes": 386.0,
-          "redCards": 0.0
-        }
-      },
-      "odds": {
-        "provider": "DraftKings",
-        "homeMoneyline": "+380",
-        "drawMoneyline": "+285",
-        "awayMoneyline": "-135",
-        "homeOpenMoneyline": "+300",
-        "spreadLine": "+0.5",
-        "spreadOdds": "+110",
-        "totalLine": "o2.5",
-        "overOdds": "+110",
-        "underOdds": "-135"
-      },
-      "bookmakers": [
-        {
-          "provider": "DraftKings",
-          "scope": "pregame",
-          "homeMoneyline": "+380",
-          "drawMoneyline": "+285",
-          "awayMoneyline": "-135",
-          "spreadLine": "+0.5",
-          "spreadOdds": "+110",
-          "totalLine": "o2.5",
-          "overOdds": "+110",
-          "underOdds": "-135",
-          "homeImplied": 0.20833333333333334,
-          "drawImplied": 0.2597402597402597,
-          "awayImplied": 0.574468085106383,
-          "available": true
-        },
-        {
-          "provider": "Pinnacle",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Bet365",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "FanDuel",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "BetMGM",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Caesars",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "William Hill",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        }
-      ],
-      "correctScoreMarkets": [],
-      "bookmakerSourceStatus": {
-        "espn": 1,
-        "oddsApi": 0,
-        "correctScore": 0,
-        "oddsApiConfigured": false
-      },
-      "events": [
-        {
-          "id": "49606124",
-          "minute": "68'",
-          "type": "start-delay",
-          "team": "Mexico",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:28:16Z"
-        },
-        {
-          "id": "49606139",
-          "minute": "71'",
-          "type": "end-delay",
-          "team": "Czechia",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:31:08Z"
-        },
-        {
-          "id": "49606140",
-          "minute": "71'",
-          "type": "end-delay",
-          "team": "Mexico",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:31:08Z"
-        },
-        {
-          "id": "49606161",
-          "minute": "72'",
-          "type": "substitution",
-          "team": "Mexico",
-          "text": "Substitution, Mexico. Álvaro Fidalgo replaces Gilberto Mora.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:32:36Z"
-        },
-        {
-          "id": "49606318",
-          "minute": "78'",
-          "type": "substitution",
-          "team": "Mexico",
-          "text": "Substitution, Mexico. Guillermo Ochoa replaces Raúl Rangel.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:38:04Z"
-        },
-        {
-          "id": "49606320",
-          "minute": "78'",
-          "type": "substitution",
-          "team": "Mexico",
-          "text": "Substitution, Mexico. Jesús Gallardo replaces Mateo Chávez.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:38:10Z"
-        },
-        {
-          "id": "49606512",
-          "minute": "84'",
-          "type": "start-delay",
-          "team": "Czechia",
-          "text": "Delay in match because of an injury Tomás Soucek (Czechia).",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:44:34Z"
-        },
-        {
-          "id": "49606510",
-          "minute": "84'",
-          "type": "start-delay",
-          "team": "Mexico",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:44:35Z"
-        },
-        {
-          "id": "49606535",
-          "minute": "86'",
-          "type": "end-delay",
-          "team": "Czechia",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:46:16Z"
-        },
-        {
-          "id": "49606548",
-          "minute": "86'",
-          "type": "end-delay",
-          "team": "Mexico",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:46:16Z"
-        },
-        {
-          "id": "49606545",
-          "minute": "87'",
-          "type": "substitution",
-          "team": "Czechia",
-          "text": "Substitution, Czechia. Tomás Chory replaces Lukás Cerv.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:46:56Z"
-        },
-        {
-          "id": "49606546",
-          "minute": "87'",
-          "type": "substitution",
-          "team": "Czechia",
-          "text": "Substitution, Czechia. Alexandr Sojka replaces Tomás Soucek because of an injury.",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:46:58Z"
-        },
-        {
-          "id": "49606810",
-          "minute": "90'+4'",
-          "type": "goal",
-          "team": "Mexico",
-          "text": "Goal! Czechia 0, Mexico 3. Álvaro Fidalgo (Mexico) right footed shot from the centre of the box to the top left corner. Assisted by Roberto Alvarado.",
-          "scoringPlay": true,
-          "wallclock": "2026-06-25T02:53:48Z"
-        },
-        {
-          "id": "49606874",
-          "minute": "90'+7'",
-          "type": "end-regular-time",
-          "team": "",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-06-25T02:57:22Z"
-        }
-      ],
-      "note": "",
-      "marketHistory": [
-        {
-          "minute": 0,
-          "marketMove": 1,
-          "homeMoneyline": "+285",
-          "drawMoneyline": "+290",
-          "awayMoneyline": "-110",
-          "spreadLine": "+0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 2,
-          "homeMoneyline": "+270",
-          "drawMoneyline": "+285",
-          "awayMoneyline": "-105",
-          "spreadLine": "+0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 2,
-          "homeMoneyline": "+270",
-          "drawMoneyline": "+275",
-          "awayMoneyline": "-105",
-          "spreadLine": "+0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 0,
-          "homeMoneyline": "+295",
-          "drawMoneyline": "+280",
-          "awayMoneyline": "-110",
-          "spreadLine": "+0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 90,
-          "marketMove": -5,
-          "homeMoneyline": "+380",
-          "drawMoneyline": "+285",
-          "awayMoneyline": "-135",
-          "spreadLine": "+0.5",
-          "totalLine": "o2.5"
-        }
-      ],
-      "scoreHistory": [
-        {
-          "minute": 0,
-          "homeGoals": 0,
-          "awayGoals": 0,
-          "homeXg": 0,
-          "awayXg": 0
-        },
-        {
-          "minute": 90,
-          "homeGoals": 0,
-          "awayGoals": 3,
-          "homeXg": 1.55,
-          "awayXg": 1.89
-        }
-      ]
-    },
-    {
       "id": "rsa-kor",
       "espnEventId": "760466",
       "kickoffUtc": "2026-06-25T01:00Z",
@@ -2325,6 +1964,367 @@
           "awayGoals": 0,
           "homeXg": 2.06,
           "awayXg": 1.43
+        }
+      ]
+    },
+    {
+      "id": "cze-mex",
+      "espnEventId": "760467",
+      "kickoffUtc": "2026-06-25T01:00Z",
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
+      "homeName": "Czechia",
+      "awayName": "Mexico",
+      "homeGoals": 0,
+      "awayGoals": 3,
+      "homeXg": 1.55,
+      "awayXg": 1.89,
+      "homeRedCards": 0,
+      "awayRedCards": 0,
+      "tempo": 8,
+      "marketMove": -5,
+      "stats": {
+        "home": {
+          "shots": 13.0,
+          "shotsOnTarget": 1.0,
+          "corners": 5.0,
+          "possession": 51.9,
+          "passes": 398.0,
+          "redCards": 0.0
+        },
+        "away": {
+          "shots": 11.0,
+          "shotsOnTarget": 5.0,
+          "corners": 1.0,
+          "possession": 48.1,
+          "passes": 386.0,
+          "redCards": 0.0
+        }
+      },
+      "odds": {
+        "provider": "DraftKings",
+        "homeMoneyline": "+380",
+        "drawMoneyline": "+285",
+        "awayMoneyline": "-135",
+        "homeOpenMoneyline": "+300",
+        "spreadLine": "+0.5",
+        "spreadOdds": "+110",
+        "totalLine": "o2.5",
+        "overOdds": "+110",
+        "underOdds": "-135"
+      },
+      "bookmakers": [
+        {
+          "provider": "DraftKings",
+          "scope": "pregame",
+          "homeMoneyline": "+380",
+          "drawMoneyline": "+285",
+          "awayMoneyline": "-135",
+          "spreadLine": "+0.5",
+          "spreadOdds": "+110",
+          "totalLine": "o2.5",
+          "overOdds": "+110",
+          "underOdds": "-135",
+          "homeImplied": 0.20833333333333334,
+          "drawImplied": 0.2597402597402597,
+          "awayImplied": 0.574468085106383,
+          "available": true
+        },
+        {
+          "provider": "Pinnacle",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Bet365",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "FanDuel",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "BetMGM",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Caesars",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "William Hill",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        }
+      ],
+      "correctScoreMarkets": [],
+      "bookmakerSourceStatus": {
+        "espn": 1,
+        "oddsApi": 0,
+        "correctScore": 0,
+        "oddsApiConfigured": false
+      },
+      "events": [
+        {
+          "id": "49606124",
+          "minute": "68'",
+          "type": "start-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:28:16Z"
+        },
+        {
+          "id": "49606139",
+          "minute": "71'",
+          "type": "end-delay",
+          "team": "Czechia",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:31:08Z"
+        },
+        {
+          "id": "49606140",
+          "minute": "71'",
+          "type": "end-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:31:08Z"
+        },
+        {
+          "id": "49606161",
+          "minute": "72'",
+          "type": "substitution",
+          "team": "Mexico",
+          "text": "Substitution, Mexico. Álvaro Fidalgo replaces Gilberto Mora.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:32:36Z"
+        },
+        {
+          "id": "49606318",
+          "minute": "78'",
+          "type": "substitution",
+          "team": "Mexico",
+          "text": "Substitution, Mexico. Guillermo Ochoa replaces Raúl Rangel.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:38:04Z"
+        },
+        {
+          "id": "49606320",
+          "minute": "78'",
+          "type": "substitution",
+          "team": "Mexico",
+          "text": "Substitution, Mexico. Jesús Gallardo replaces Mateo Chávez.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:38:10Z"
+        },
+        {
+          "id": "49606512",
+          "minute": "84'",
+          "type": "start-delay",
+          "team": "Czechia",
+          "text": "Delay in match because of an injury Tomás Soucek (Czechia).",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:44:34Z"
+        },
+        {
+          "id": "49606510",
+          "minute": "84'",
+          "type": "start-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:44:35Z"
+        },
+        {
+          "id": "49606535",
+          "minute": "86'",
+          "type": "end-delay",
+          "team": "Czechia",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:46:16Z"
+        },
+        {
+          "id": "49606548",
+          "minute": "86'",
+          "type": "end-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:46:16Z"
+        },
+        {
+          "id": "49606545",
+          "minute": "87'",
+          "type": "substitution",
+          "team": "Czechia",
+          "text": "Substitution, Czechia. Tomás Chory replaces Lukás Cerv.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:46:56Z"
+        },
+        {
+          "id": "49606546",
+          "minute": "87'",
+          "type": "substitution",
+          "team": "Czechia",
+          "text": "Substitution, Czechia. Alexandr Sojka replaces Tomás Soucek because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:46:58Z"
+        },
+        {
+          "id": "49606810",
+          "minute": "90'+4'",
+          "type": "goal",
+          "team": "Mexico",
+          "text": "Goal! Czechia 0, Mexico 3. Álvaro Fidalgo (Mexico) right footed shot from the centre of the box to the top left corner. Assisted by Roberto Alvarado.",
+          "scoringPlay": true,
+          "wallclock": "2026-06-25T02:53:48Z"
+        },
+        {
+          "id": "49606874",
+          "minute": "90'+7'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-06-25T02:57:22Z"
+        }
+      ],
+      "note": "",
+      "marketHistory": [
+        {
+          "minute": 0,
+          "marketMove": 1,
+          "homeMoneyline": "+285",
+          "drawMoneyline": "+290",
+          "awayMoneyline": "-110",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 2,
+          "homeMoneyline": "+270",
+          "drawMoneyline": "+285",
+          "awayMoneyline": "-105",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 2,
+          "homeMoneyline": "+270",
+          "drawMoneyline": "+275",
+          "awayMoneyline": "-105",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 0,
+          "homeMoneyline": "+295",
+          "drawMoneyline": "+280",
+          "awayMoneyline": "-110",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": -5,
+          "homeMoneyline": "+380",
+          "drawMoneyline": "+285",
+          "awayMoneyline": "-135",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        }
+      ],
+      "scoreHistory": [
+        {
+          "minute": 0,
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "homeXg": 0,
+          "awayXg": 0
+        },
+        {
+          "minute": 90,
+          "homeGoals": 0,
+          "awayGoals": 3,
+          "homeXg": 1.55,
+          "awayXg": 1.89
         }
       ]
     },
@@ -4156,7 +4156,7 @@
           "team": "",
           "text": "Second Half ends, Türkiye 3, USA 2.",
           "scoringPlay": false,
-          "wallclock": "2026-06-26T04:03:05Z"
+          "wallclock": "2026-06-26T04:01:56Z"
         }
       ],
       "note": "",
@@ -4628,7 +4628,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 2,
+      "marketMove": -7,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -4649,12 +4649,12 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+360",
-        "drawMoneyline": "+370",
-        "awayMoneyline": "-155",
+        "homeMoneyline": "+600",
+        "drawMoneyline": "+425",
+        "awayMoneyline": "-240",
         "homeOpenMoneyline": "+390",
-        "spreadLine": "+0.5",
-        "spreadOdds": "+130",
+        "spreadLine": "+1.5",
+        "spreadOdds": "-125",
         "totalLine": "o3.5",
         "overOdds": "+125",
         "underOdds": "-155"
@@ -4663,17 +4663,17 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+360",
-          "drawMoneyline": "+370",
-          "awayMoneyline": "-155",
-          "spreadLine": "+0.5",
-          "spreadOdds": "+130",
+          "homeMoneyline": "+600",
+          "drawMoneyline": "+425",
+          "awayMoneyline": "-240",
+          "spreadLine": "+1.5",
+          "spreadOdds": "-125",
           "totalLine": "o3.5",
           "overOdds": "+125",
           "underOdds": "-155",
-          "homeImplied": 0.21739130434782608,
-          "drawImplied": 0.2127659574468085,
-          "awayImplied": 0.6078431372549019,
+          "homeImplied": 0.14285714285714285,
+          "drawImplied": 0.19047619047619047,
+          "awayImplied": 0.7058823529411765,
           "available": true
         },
         {
@@ -4818,6 +4818,15 @@
           "awayMoneyline": "-155",
           "spreadLine": "+0.5",
           "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -7,
+          "homeMoneyline": "+600",
+          "drawMoneyline": "+425",
+          "awayMoneyline": "-240",
+          "spreadLine": "+1.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -4874,8 +4883,8 @@
         "spreadLine": "-1.5",
         "spreadOdds": "-160",
         "totalLine": "o3.5",
-        "overOdds": "+125",
-        "underOdds": "-155"
+        "overOdds": "+135",
+        "underOdds": "-165"
       },
       "bookmakers": [
         {
@@ -4887,8 +4896,8 @@
           "spreadLine": "-1.5",
           "spreadOdds": "-160",
           "totalLine": "o3.5",
-          "overOdds": "+125",
-          "underOdds": "-155",
+          "overOdds": "+135",
+          "underOdds": "-165",
           "homeImplied": 0.8095238095238095,
           "drawImplied": 0.15384615384615385,
           "awayImplied": 0.08333333333333333,
@@ -5031,6 +5040,233 @@
       ]
     },
     {
+      "id": "uru-esp",
+      "espnEventId": "760479",
+      "kickoffUtc": "2026-06-27T00:00Z",
+      "status": "pre",
+      "detail": "Fri, June 26th at 8:00 PM EDT",
+      "minute": 0,
+      "homeName": "Uruguay",
+      "awayName": "Spain",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeXg": 0,
+      "awayXg": 0,
+      "homeRedCards": 0,
+      "awayRedCards": 0,
+      "tempo": 0,
+      "marketMove": -2,
+      "stats": {
+        "home": {
+          "shots": 0.0,
+          "shotsOnTarget": 0.0,
+          "corners": 0.0,
+          "possession": 0.0,
+          "passes": 0.0,
+          "redCards": 0.0
+        },
+        "away": {
+          "shots": 0.0,
+          "shotsOnTarget": 0.0,
+          "corners": 0.0,
+          "possession": 0.0,
+          "passes": 0.0,
+          "redCards": 0.0
+        }
+      },
+      "odds": {
+        "provider": "DraftKings",
+        "homeMoneyline": "+475",
+        "drawMoneyline": "+260",
+        "awayMoneyline": "-145",
+        "homeOpenMoneyline": "+425",
+        "spreadLine": "+0.5",
+        "spreadOdds": "+120",
+        "totalLine": "o2.5",
+        "overOdds": "+120",
+        "underOdds": "-150"
+      },
+      "bookmakers": [
+        {
+          "provider": "DraftKings",
+          "scope": "pregame",
+          "homeMoneyline": "+475",
+          "drawMoneyline": "+260",
+          "awayMoneyline": "-145",
+          "spreadLine": "+0.5",
+          "spreadOdds": "+120",
+          "totalLine": "o2.5",
+          "overOdds": "+120",
+          "underOdds": "-150",
+          "homeImplied": 0.17391304347826086,
+          "drawImplied": 0.2777777777777778,
+          "awayImplied": 0.5918367346938775,
+          "available": true
+        },
+        {
+          "provider": "Pinnacle",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Bet365",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "FanDuel",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "BetMGM",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Caesars",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "William Hill",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        }
+      ],
+      "correctScoreMarkets": [],
+      "bookmakerSourceStatus": {
+        "espn": 1,
+        "oddsApi": 0,
+        "correctScore": 0,
+        "oddsApiConfigured": false
+      },
+      "events": [],
+      "note": "",
+      "marketHistory": [
+        {
+          "minute": 0,
+          "marketMove": -7,
+          "homeMoneyline": "+650",
+          "drawMoneyline": "+320",
+          "awayMoneyline": "-205",
+          "spreadLine": "+1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -7,
+          "homeMoneyline": "+650",
+          "drawMoneyline": "+310",
+          "awayMoneyline": "-200",
+          "spreadLine": "+1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -7,
+          "homeMoneyline": "+650",
+          "drawMoneyline": "+320",
+          "awayMoneyline": "-205",
+          "spreadLine": "+1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -3,
+          "homeMoneyline": "+500",
+          "drawMoneyline": "+280",
+          "awayMoneyline": "-160",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "+475",
+          "drawMoneyline": "+260",
+          "awayMoneyline": "-145",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
+        }
+      ],
+      "scoreHistory": [
+        {
+          "minute": 0,
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "homeXg": 0,
+          "awayXg": 0
+        }
+      ]
+    },
+    {
       "id": "cpv-ksa",
       "espnEventId": "760478",
       "kickoffUtc": "2026-06-27T00:00Z",
@@ -5069,13 +5305,13 @@
         "provider": "DraftKings",
         "homeMoneyline": "+165",
         "drawMoneyline": "+230",
-        "awayMoneyline": "+170",
+        "awayMoneyline": "+175",
         "homeOpenMoneyline": "+195",
         "spreadLine": "-0.5",
-        "spreadOdds": "+160",
+        "spreadOdds": "+155",
         "totalLine": "o2.5",
-        "overOdds": "+120",
-        "underOdds": "-145"
+        "overOdds": "+115",
+        "underOdds": "-140"
       },
       "bookmakers": [
         {
@@ -5083,15 +5319,15 @@
           "scope": "pregame",
           "homeMoneyline": "+165",
           "drawMoneyline": "+230",
-          "awayMoneyline": "+170",
+          "awayMoneyline": "+175",
           "spreadLine": "-0.5",
-          "spreadOdds": "+160",
+          "spreadOdds": "+155",
           "totalLine": "o2.5",
-          "overOdds": "+120",
-          "underOdds": "-145",
+          "overOdds": "+115",
+          "underOdds": "-140",
           "homeImplied": 0.37735849056603776,
           "drawImplied": 0.30303030303030304,
-          "awayImplied": 0.37037037037037035,
+          "awayImplied": 0.36363636363636365,
           "available": true
         },
         {
@@ -5245,223 +5481,14 @@
           "awayMoneyline": "+170",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
-        }
-      ],
-      "scoreHistory": [
-        {
-          "minute": 0,
-          "homeGoals": 0,
-          "awayGoals": 0,
-          "homeXg": 0,
-          "awayXg": 0
-        }
-      ]
-    },
-    {
-      "id": "uru-esp",
-      "espnEventId": "760479",
-      "kickoffUtc": "2026-06-27T00:00Z",
-      "status": "pre",
-      "detail": "Fri, June 26th at 8:00 PM EDT",
-      "minute": 0,
-      "homeName": "Uruguay",
-      "awayName": "Spain",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
-      "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 0,
-      "marketMove": -3,
-      "stats": {
-        "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
-          "redCards": 0.0
-        },
-        "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
-          "redCards": 0.0
-        }
-      },
-      "odds": {
-        "provider": "DraftKings",
-        "homeMoneyline": "+500",
-        "drawMoneyline": "+280",
-        "awayMoneyline": "-160",
-        "homeOpenMoneyline": "+425",
-        "spreadLine": "+0.5",
-        "spreadOdds": "+130",
-        "totalLine": "o2.5",
-        "overOdds": "+115",
-        "underOdds": "-145"
-      },
-      "bookmakers": [
-        {
-          "provider": "DraftKings",
-          "scope": "pregame",
-          "homeMoneyline": "+500",
-          "drawMoneyline": "+280",
-          "awayMoneyline": "-160",
-          "spreadLine": "+0.5",
-          "spreadOdds": "+130",
-          "totalLine": "o2.5",
-          "overOdds": "+115",
-          "underOdds": "-145",
-          "homeImplied": 0.16666666666666666,
-          "drawImplied": 0.2631578947368421,
-          "awayImplied": 0.6153846153846154,
-          "available": true
-        },
-        {
-          "provider": "Pinnacle",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Bet365",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "FanDuel",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "BetMGM",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Caesars",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "William Hill",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        }
-      ],
-      "correctScoreMarkets": [],
-      "bookmakerSourceStatus": {
-        "espn": 1,
-        "oddsApi": 0,
-        "correctScore": 0,
-        "oddsApiConfigured": false
-      },
-      "events": [],
-      "note": "",
-      "marketHistory": [
-        {
-          "minute": 0,
-          "marketMove": -7,
-          "homeMoneyline": "+650",
-          "drawMoneyline": "+320",
-          "awayMoneyline": "-205",
-          "spreadLine": "+1.5",
-          "totalLine": "o2.5"
         },
         {
           "minute": 0,
-          "marketMove": -7,
-          "homeMoneyline": "+650",
-          "drawMoneyline": "+310",
-          "awayMoneyline": "-200",
-          "spreadLine": "+1.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": -7,
-          "homeMoneyline": "+650",
-          "drawMoneyline": "+320",
-          "awayMoneyline": "-205",
-          "spreadLine": "+1.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": -3,
-          "homeMoneyline": "+500",
-          "drawMoneyline": "+280",
-          "awayMoneyline": "-160",
-          "spreadLine": "+0.5",
+          "marketMove": 5,
+          "homeMoneyline": "+165",
+          "drawMoneyline": "+230",
+          "awayMoneyline": "+175",
+          "spreadLine": "-0.5",
           "totalLine": "o2.5"
         }
       ],
@@ -5514,13 +5541,13 @@
         "provider": "DraftKings",
         "homeMoneyline": "+150",
         "drawMoneyline": "+160",
-        "awayMoneyline": "+280",
+        "awayMoneyline": "+290",
         "homeOpenMoneyline": "+140",
         "spreadLine": "-0.5",
         "spreadOdds": "+140",
         "totalLine": "o1.5",
-        "overOdds": "-170",
-        "underOdds": "+140"
+        "overOdds": "-165",
+        "underOdds": "+130"
       },
       "bookmakers": [
         {
@@ -5528,15 +5555,15 @@
           "scope": "pregame",
           "homeMoneyline": "+150",
           "drawMoneyline": "+160",
-          "awayMoneyline": "+280",
+          "awayMoneyline": "+290",
           "spreadLine": "-0.5",
           "spreadOdds": "+140",
           "totalLine": "o1.5",
-          "overOdds": "-170",
-          "underOdds": "+140",
+          "overOdds": "-165",
+          "underOdds": "+130",
           "homeImplied": 0.4,
           "drawImplied": 0.38461538461538464,
-          "awayImplied": 0.2631578947368421,
+          "awayImplied": 0.2564102564102564,
           "available": true
         },
         {
@@ -5672,6 +5699,15 @@
           "awayMoneyline": "+280",
           "spreadLine": "-0.5",
           "totalLine": "o1.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "+150",
+          "drawMoneyline": "+160",
+          "awayMoneyline": "+290",
+          "spreadLine": "-0.5",
+          "totalLine": "o1.5"
         }
       ],
       "scoreHistory": [
@@ -5700,7 +5736,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -3,
+      "marketMove": -2,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -5721,31 +5757,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+1400",
-        "drawMoneyline": "+700",
-        "awayMoneyline": "-525",
+        "homeMoneyline": "+1200",
+        "drawMoneyline": "+650",
+        "awayMoneyline": "-500",
         "homeOpenMoneyline": "+950",
         "spreadLine": "+2.5",
         "spreadOdds": "-145",
         "totalLine": "o3.5",
-        "overOdds": "-125",
+        "overOdds": "-130",
         "underOdds": "+105"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+1400",
-          "drawMoneyline": "+700",
-          "awayMoneyline": "-525",
+          "homeMoneyline": "+1200",
+          "drawMoneyline": "+650",
+          "awayMoneyline": "-500",
           "spreadLine": "+2.5",
           "spreadOdds": "-145",
           "totalLine": "o3.5",
-          "overOdds": "-125",
+          "overOdds": "-130",
           "underOdds": "+105",
-          "homeImplied": 0.06666666666666667,
-          "drawImplied": 0.125,
-          "awayImplied": 0.84,
+          "homeImplied": 0.07692307692307693,
+          "drawImplied": 0.13333333333333333,
+          "awayImplied": 0.8333333333333334,
           "available": true
         },
         {
@@ -5899,6 +5935,215 @@
           "awayMoneyline": "-525",
           "spreadLine": "+2.5",
           "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "+1200",
+          "drawMoneyline": "+650",
+          "awayMoneyline": "-500",
+          "spreadLine": "+2.5",
+          "totalLine": "o3.5"
+        }
+      ],
+      "scoreHistory": [
+        {
+          "minute": 0,
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "homeXg": 0,
+          "awayXg": 0
+        }
+      ]
+    },
+    {
+      "id": "pan-eng",
+      "espnEventId": "760485",
+      "kickoffUtc": "2026-06-27T21:00Z",
+      "status": "pre",
+      "detail": "Sat, June 27th at 5:00 PM EDT",
+      "minute": 0,
+      "homeName": "Panama",
+      "awayName": "England",
+      "homeGoals": 0,
+      "awayGoals": 0,
+      "homeXg": 0,
+      "awayXg": 0,
+      "homeRedCards": 0,
+      "awayRedCards": 0,
+      "tempo": 0,
+      "marketMove": -2,
+      "stats": {
+        "home": {
+          "shots": 0.0,
+          "shotsOnTarget": 0.0,
+          "corners": 0.0,
+          "possession": 0.0,
+          "passes": 0.0,
+          "redCards": 0.0
+        },
+        "away": {
+          "shots": 0.0,
+          "shotsOnTarget": 0.0,
+          "corners": 0.0,
+          "possession": 0.0,
+          "passes": 0.0,
+          "redCards": 0.0
+        }
+      },
+      "odds": {
+        "provider": "DraftKings",
+        "homeMoneyline": "+1500",
+        "drawMoneyline": "+750",
+        "awayMoneyline": "-600",
+        "homeOpenMoneyline": "+1100",
+        "spreadLine": "+2.5",
+        "spreadOdds": "-150",
+        "totalLine": "o3.5",
+        "overOdds": "+110",
+        "underOdds": "-140"
+      },
+      "bookmakers": [
+        {
+          "provider": "DraftKings",
+          "scope": "pregame",
+          "homeMoneyline": "+1500",
+          "drawMoneyline": "+750",
+          "awayMoneyline": "-600",
+          "spreadLine": "+2.5",
+          "spreadOdds": "-150",
+          "totalLine": "o3.5",
+          "overOdds": "+110",
+          "underOdds": "-140",
+          "homeImplied": 0.0625,
+          "drawImplied": 0.11764705882352941,
+          "awayImplied": 0.8571428571428571,
+          "available": true
+        },
+        {
+          "provider": "Pinnacle",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Bet365",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "FanDuel",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "BetMGM",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "Caesars",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "William Hill",
+          "scope": "api-pending",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        }
+      ],
+      "correctScoreMarkets": [],
+      "bookmakerSourceStatus": {
+        "espn": 1,
+        "oddsApi": 0,
+        "correctScore": 0,
+        "oddsApiConfigured": false
+      },
+      "events": [],
+      "note": "",
+      "marketHistory": [
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "+1400",
+          "drawMoneyline": "+700",
+          "awayMoneyline": "-575",
+          "spreadLine": "+2.5",
+          "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "+1500",
+          "drawMoneyline": "+750",
+          "awayMoneyline": "-600",
+          "spreadLine": "+2.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -5955,8 +6200,8 @@
         "spreadLine": "-0.5",
         "spreadOdds": "-135",
         "totalLine": "o2.5",
-        "overOdds": "+125",
-        "underOdds": "-155"
+        "overOdds": "+130",
+        "underOdds": "-160"
       },
       "bookmakers": [
         {
@@ -5968,8 +6213,8 @@
           "spreadLine": "-0.5",
           "spreadOdds": "-135",
           "totalLine": "o2.5",
-          "overOdds": "+125",
-          "underOdds": "-155",
+          "overOdds": "+130",
+          "underOdds": "-160",
           "homeImplied": 0.5652173913043478,
           "drawImplied": 0.29411764705882354,
           "awayImplied": 0.18181818181818182,
@@ -6103,14 +6348,14 @@
       ]
     },
     {
-      "id": "pan-eng",
-      "espnEventId": "760485",
-      "kickoffUtc": "2026-06-27T21:00Z",
+      "id": "cod-uzb",
+      "espnEventId": "760482",
+      "kickoffUtc": "2026-06-27T23:30Z",
       "status": "pre",
-      "detail": "Sat, June 27th at 5:00 PM EDT",
+      "detail": "Sat, June 27th at 7:30 PM EDT",
       "minute": 0,
-      "homeName": "Panama",
-      "awayName": "England",
+      "homeName": "Congo DR",
+      "awayName": "Uzbekistan",
       "homeGoals": 0,
       "awayGoals": 0,
       "homeXg": 0,
@@ -6118,7 +6363,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -2,
+      "marketMove": 20,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -6139,31 +6384,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+1400",
-        "drawMoneyline": "+700",
-        "awayMoneyline": "-575",
-        "homeOpenMoneyline": "+1100",
-        "spreadLine": "+2.5",
-        "spreadOdds": "-155",
-        "totalLine": "o3.5",
-        "overOdds": "+110",
-        "underOdds": "-140"
+        "homeMoneyline": "-125",
+        "drawMoneyline": "+300",
+        "awayMoneyline": "+330",
+        "homeOpenMoneyline": "+155",
+        "spreadLine": "-0.5",
+        "spreadOdds": "-135",
+        "totalLine": "o2.5",
+        "overOdds": "+100",
+        "underOdds": "-125"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+1400",
-          "drawMoneyline": "+700",
-          "awayMoneyline": "-575",
-          "spreadLine": "+2.5",
-          "spreadOdds": "-155",
-          "totalLine": "o3.5",
-          "overOdds": "+110",
-          "underOdds": "-140",
-          "homeImplied": 0.06666666666666667,
-          "drawImplied": 0.125,
-          "awayImplied": 0.8518518518518519,
+          "homeMoneyline": "-125",
+          "drawMoneyline": "+300",
+          "awayMoneyline": "+330",
+          "spreadLine": "-0.5",
+          "spreadOdds": "-135",
+          "totalLine": "o2.5",
+          "overOdds": "+100",
+          "underOdds": "-125",
+          "homeImplied": 0.5555555555555556,
+          "drawImplied": 0.25,
+          "awayImplied": 0.23255813953488372,
           "available": true
         },
         {
@@ -6275,12 +6520,30 @@
       "marketHistory": [
         {
           "minute": 0,
-          "marketMove": -2,
-          "homeMoneyline": "+1400",
-          "drawMoneyline": "+700",
-          "awayMoneyline": "-575",
-          "spreadLine": "+2.5",
-          "totalLine": "o3.5"
+          "marketMove": 22,
+          "homeMoneyline": "-135",
+          "drawMoneyline": "+320",
+          "awayMoneyline": "+330",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 22,
+          "homeMoneyline": "-135",
+          "drawMoneyline": "+320",
+          "awayMoneyline": "+340",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 20,
+          "homeMoneyline": "-125",
+          "drawMoneyline": "+300",
+          "awayMoneyline": "+330",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -6494,215 +6757,6 @@
       ]
     },
     {
-      "id": "cod-uzb",
-      "espnEventId": "760482",
-      "kickoffUtc": "2026-06-27T23:30Z",
-      "status": "pre",
-      "detail": "Sat, June 27th at 7:30 PM EDT",
-      "minute": 0,
-      "homeName": "Congo DR",
-      "awayName": "Uzbekistan",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
-      "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 0,
-      "marketMove": 20,
-      "stats": {
-        "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
-          "redCards": 0.0
-        },
-        "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
-          "redCards": 0.0
-        }
-      },
-      "odds": {
-        "provider": "DraftKings",
-        "homeMoneyline": "-125",
-        "drawMoneyline": "+300",
-        "awayMoneyline": "+330",
-        "homeOpenMoneyline": "+155",
-        "spreadLine": "-0.5",
-        "spreadOdds": "-135",
-        "totalLine": "o2.5",
-        "overOdds": "-105",
-        "underOdds": "-120"
-      },
-      "bookmakers": [
-        {
-          "provider": "DraftKings",
-          "scope": "pregame",
-          "homeMoneyline": "-125",
-          "drawMoneyline": "+300",
-          "awayMoneyline": "+330",
-          "spreadLine": "-0.5",
-          "spreadOdds": "-135",
-          "totalLine": "o2.5",
-          "overOdds": "-105",
-          "underOdds": "-120",
-          "homeImplied": 0.5555555555555556,
-          "drawImplied": 0.25,
-          "awayImplied": 0.23255813953488372,
-          "available": true
-        },
-        {
-          "provider": "Pinnacle",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Bet365",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "FanDuel",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "BetMGM",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "Caesars",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        },
-        {
-          "provider": "William Hill",
-          "scope": "api-pending",
-          "homeMoneyline": null,
-          "drawMoneyline": null,
-          "awayMoneyline": null,
-          "spreadLine": null,
-          "spreadOdds": null,
-          "totalLine": null,
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
-          "available": false
-        }
-      ],
-      "correctScoreMarkets": [],
-      "bookmakerSourceStatus": {
-        "espn": 1,
-        "oddsApi": 0,
-        "correctScore": 0,
-        "oddsApiConfigured": false
-      },
-      "events": [],
-      "note": "",
-      "marketHistory": [
-        {
-          "minute": 0,
-          "marketMove": 22,
-          "homeMoneyline": "-135",
-          "drawMoneyline": "+320",
-          "awayMoneyline": "+330",
-          "spreadLine": "-0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 22,
-          "homeMoneyline": "-135",
-          "drawMoneyline": "+320",
-          "awayMoneyline": "+340",
-          "spreadLine": "-0.5",
-          "totalLine": "o2.5"
-        },
-        {
-          "minute": 0,
-          "marketMove": 20,
-          "homeMoneyline": "-125",
-          "drawMoneyline": "+300",
-          "awayMoneyline": "+330",
-          "spreadLine": "-0.5",
-          "totalLine": "o2.5"
-        }
-      ],
-      "scoreHistory": [
-        {
-          "minute": 0,
-          "homeGoals": 0,
-          "awayGoals": 0,
-          "homeXg": 0,
-          "awayXg": 0
-        }
-      ]
-    },
-    {
       "id": "alg-aut",
       "espnEventId": "760484",
       "kickoffUtc": "2026-06-28T02:00Z",
@@ -6718,7 +6772,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -4,
+      "marketMove": -3,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -6739,7 +6793,7 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+310",
+        "homeMoneyline": "+300",
         "drawMoneyline": "+120",
         "awayMoneyline": "+190",
         "homeOpenMoneyline": "+260",
@@ -6753,7 +6807,7 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+310",
+          "homeMoneyline": "+300",
           "drawMoneyline": "+120",
           "awayMoneyline": "+190",
           "spreadLine": "+0.5",
@@ -6761,7 +6815,7 @@
           "totalLine": "o1.5",
           "overOdds": "-180",
           "underOdds": "+145",
-          "homeImplied": 0.24390243902439024,
+          "homeImplied": 0.25,
           "drawImplied": 0.45454545454545453,
           "awayImplied": 0.3448275862068966,
           "available": true
@@ -6890,6 +6944,15 @@
           "awayMoneyline": "+190",
           "spreadLine": "+0.5",
           "totalLine": "o1.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -3,
+          "homeMoneyline": "+300",
+          "drawMoneyline": "+120",
+          "awayMoneyline": "+190",
+          "spreadLine": "+0.5",
+          "totalLine": "o1.5"
         }
       ],
       "scoreHistory": [
@@ -6945,9 +7008,9 @@
         "homeOpenMoneyline": "+1400",
         "spreadLine": "+1.5",
         "spreadOdds": "+135",
-        "totalLine": "o2.5",
-        "overOdds": "-180",
-        "underOdds": "+145"
+        "totalLine": "o3.5",
+        "overOdds": "+145",
+        "underOdds": "-180"
       },
       "bookmakers": [
         {
@@ -6958,9 +7021,9 @@
           "awayMoneyline": "-550",
           "spreadLine": "+1.5",
           "spreadOdds": "+135",
-          "totalLine": "o2.5",
-          "overOdds": "-180",
-          "underOdds": "+145",
+          "totalLine": "o3.5",
+          "overOdds": "+145",
+          "underOdds": "-180",
           "homeImplied": 0.06666666666666667,
           "drawImplied": 0.13333333333333333,
           "awayImplied": 0.8461538461538461,
@@ -7090,6 +7153,15 @@
           "awayMoneyline": "-550",
           "spreadLine": "+1.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 0,
+          "homeMoneyline": "+1400",
+          "drawMoneyline": "+650",
+          "awayMoneyline": "-550",
+          "spreadLine": "+1.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
