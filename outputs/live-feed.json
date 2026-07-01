@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-01T10:58:17.664736+00:00",
+  "updatedAt": "2026-07-01T18:25:49.646083+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -1219,7 +1219,7 @@
           "shots": 14.0,
           "shotsOnTarget": 5.0,
           "corners": 14.0,
-          "possession": 47.1,
+          "possession": 47.0,
           "passes": 401.0,
           "redCards": 0.0
         },
@@ -1227,8 +1227,8 @@
           "shots": 9.0,
           "shotsOnTarget": 4.0,
           "corners": 3.0,
-          "possession": 52.9,
-          "passes": 473.0,
+          "possession": 53.0,
+          "passes": 474.0,
           "redCards": 0.0
         }
       },
@@ -1818,7 +1818,7 @@
           "team": "France",
           "text": "Goal! France 3, Sweden 0. Kylian Mbappé (France) right footed shot from the left side of the box to the bottom right corner. Assisted by Michael Olise with a through ball.",
           "scoringPlay": true,
-          "wallclock": "2026-06-30T22:32:31Z"
+          "wallclock": "2026-06-30T22:32:32Z"
         },
         {
           "id": "49667822",
@@ -1836,7 +1836,7 @@
           "team": "France",
           "text": "Substitution, France. Malo Gusto replaces Jules Koundé.",
           "scoringPlay": false,
-          "wallclock": "2026-06-30T22:33:27Z"
+          "wallclock": "2026-06-30T22:33:28Z"
         },
         {
           "id": "49667876",
@@ -1845,7 +1845,7 @@
           "team": "France",
           "text": "Substitution, France. Théo Hernández replaces Lucas Digne.",
           "scoringPlay": false,
-          "wallclock": "2026-06-30T22:37:01Z"
+          "wallclock": "2026-06-30T22:37:02Z"
         },
         {
           "id": "49667943",
@@ -1854,7 +1854,7 @@
           "team": "Sweden",
           "text": "Substitution, Sweden. Mattias Svanberg replaces Daniel Svensson.",
           "scoringPlay": false,
-          "wallclock": "2026-06-30T22:40:45Z"
+          "wallclock": "2026-06-30T22:40:46Z"
         },
         {
           "id": "49667945",
@@ -1890,7 +1890,7 @@
           "team": "Sweden",
           "text": "Substitution, Sweden. Gustaf Nilsson replaces Alexander Isak.",
           "scoringPlay": false,
-          "wallclock": "2026-06-30T22:48:11Z"
+          "wallclock": "2026-06-30T22:48:12Z"
         },
         {
           "id": "49668163",
@@ -2285,7 +2285,7 @@
           "team": "Ecuador",
           "text": "Moisés Caicedo (Ecuador) is shown the yellow card for a bad foul.",
           "scoringPlay": false,
-          "wallclock": "2026-07-01T04:00:35Z"
+          "wallclock": "2026-07-01T04:00:36Z"
         },
         {
           "id": "49670960",
@@ -2402,65 +2402,81 @@
       "id": "espn-760495",
       "espnEventId": "760495",
       "kickoffUtc": "2026-07-01T16:00Z",
-      "status": "pre",
-      "detail": "Wed, July 1st at 12:00 PM EDT",
-      "minute": 0,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "England",
       "awayName": "Congo DR",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
+      "homeGoals": 2,
+      "awayGoals": 1,
+      "homeXg": 2.83,
+      "awayXg": 1.11,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": 0,
-      "marketMove": 0,
+      "tempo": 8,
+      "marketMove": -1,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 16.0,
+          "shotsOnTarget": 7.0,
+          "corners": 5.0,
+          "possession": 59.7,
+          "passes": 517.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 7.0,
+          "shotsOnTarget": 2.0,
+          "corners": 3.0,
+          "possession": 40.3,
+          "passes": 365.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-340",
-        "drawMoneyline": "+425",
+        "homeMoneyline": "-330",
+        "drawMoneyline": "+400",
         "awayMoneyline": "+1200",
         "homeOpenMoneyline": "-340",
         "spreadLine": "-1.5",
         "spreadOdds": "-105",
         "totalLine": "o2.5",
-        "overOdds": "+105",
-        "underOdds": "-130"
+        "overOdds": "-110",
+        "underOdds": "-110"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-340",
-          "drawMoneyline": "+425",
+          "homeMoneyline": "-330",
+          "drawMoneyline": "+400",
           "awayMoneyline": "+1200",
           "spreadLine": "-1.5",
           "spreadOdds": "-105",
           "totalLine": "o2.5",
-          "overOdds": "+105",
-          "underOdds": "-130",
-          "homeImplied": 0.7727272727272727,
-          "drawImplied": 0.19047619047619047,
+          "overOdds": "-110",
+          "underOdds": "-110",
+          "homeImplied": 0.7674418604651163,
+          "drawImplied": 0.2,
           "awayImplied": 0.07692307692307693,
           "available": true
+        },
+        {
+          "provider": "Bet 365",
+          "scope": "pregame",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
         },
         {
           "provider": "Pinnacle",
@@ -2566,7 +2582,134 @@
         "correctScore": 0,
         "oddsApiConfigured": false
       },
-      "events": [],
+      "events": [
+        {
+          "id": "49672114",
+          "minute": "64'",
+          "type": "substitution",
+          "team": "Congo DR",
+          "text": "Substitution, Congo DR. Meschack Elia replaces Nathanaël Mbuku.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:26:48Z"
+        },
+        {
+          "id": "49672174",
+          "minute": "68'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "Delay in match for a drinks break.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:30:25Z"
+        },
+        {
+          "id": "49672173",
+          "minute": "68'",
+          "type": "start-delay",
+          "team": "Congo DR",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:30:26Z"
+        },
+        {
+          "id": "49672176",
+          "minute": "70'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:33:02Z"
+        },
+        {
+          "id": "49672175",
+          "minute": "70'",
+          "type": "end-delay",
+          "team": "Congo DR",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:33:02Z"
+        },
+        {
+          "id": "49672177",
+          "minute": "70'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Eberechi Eze replaces Djed Spence.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:33:11Z"
+        },
+        {
+          "id": "49672227",
+          "minute": "75'",
+          "type": "goal---header",
+          "team": "England",
+          "text": "Goal! England 1, Congo DR 1. Harry Kane (England) header from the centre of the box to the bottom left corner. Assisted by Anthony Gordon with a cross.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-01T17:37:17Z"
+        },
+        {
+          "id": "49672230",
+          "minute": "76'",
+          "type": "substitution",
+          "team": "Congo DR",
+          "text": "Substitution, Congo DR. Théo Bongonda replaces Brian Cipenga.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:38:45Z"
+        },
+        {
+          "id": "49672231",
+          "minute": "76'",
+          "type": "substitution",
+          "team": "Congo DR",
+          "text": "Substitution, Congo DR. Edo Kayembe replaces Ngal'ayel Mukau.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:39:01Z"
+        },
+        {
+          "id": "49672418",
+          "minute": "86'",
+          "type": "goal",
+          "team": "England",
+          "text": "Goal! England 2, Congo DR 1. Harry Kane (England) right footed shot from the right side of the box to the top right corner. Assisted by Anthony Gordon.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-01T17:48:48Z"
+        },
+        {
+          "id": "49672444",
+          "minute": "89'",
+          "type": "substitution",
+          "team": "Congo DR",
+          "text": "Substitution, Congo DR. Joris Kayembe replaces Arthur Masuaku.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:51:45Z"
+        },
+        {
+          "id": "49672449",
+          "minute": "89'",
+          "type": "substitution",
+          "team": "Congo DR",
+          "text": "Substitution, Congo DR. Fiston Mayele replaces Samuel Moutoussamy.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:51:48Z"
+        },
+        {
+          "id": "49672481",
+          "minute": "90'+1'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. John Stones replaces Declan Rice.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T17:54:08Z"
+        },
+        {
+          "id": "49672530",
+          "minute": "90'+7'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "Second Half ends, England 2, Congo DR 1.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-01T18:00:15Z"
+        }
+      ],
       "note": "",
       "marketHistory": [
         {
@@ -2604,6 +2747,15 @@
           "awayMoneyline": "+1200",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": -1,
+          "homeMoneyline": "-330",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+1200",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -2613,6 +2765,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0
+        },
+        {
+          "minute": 90,
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "homeXg": 2.83,
+          "awayXg": 1.11
         }
       ]
     },
@@ -2632,7 +2791,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -1,
+      "marketMove": 0,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -2653,30 +2812,30 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+115",
-        "drawMoneyline": "+230",
+        "homeMoneyline": "+110",
+        "drawMoneyline": "+235",
         "awayMoneyline": "+265",
         "homeOpenMoneyline": "+110",
         "spreadLine": "-0.5",
         "spreadOdds": "+110",
         "totalLine": "o2.5",
-        "overOdds": "+100",
-        "underOdds": "-120"
+        "overOdds": "-120",
+        "underOdds": "-105"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+115",
-          "drawMoneyline": "+230",
+          "homeMoneyline": "+110",
+          "drawMoneyline": "+235",
           "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "spreadOdds": "+110",
           "totalLine": "o2.5",
-          "overOdds": "+100",
-          "underOdds": "-120",
-          "homeImplied": 0.46511627906976744,
-          "drawImplied": 0.30303030303030304,
+          "overOdds": "-120",
+          "underOdds": "-105",
+          "homeImplied": 0.47619047619047616,
+          "drawImplied": 0.29850746268656714,
           "awayImplied": 0.273972602739726,
           "available": true
         },
@@ -2822,6 +2981,15 @@
           "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 0,
+          "homeMoneyline": "+110",
+          "drawMoneyline": "+235",
+          "awayMoneyline": "+265",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -2850,7 +3018,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 8,
+      "marketMove": 9,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -2871,31 +3039,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-255",
-        "drawMoneyline": "+380",
-        "awayMoneyline": "+750",
+        "homeMoneyline": "-265",
+        "drawMoneyline": "+400",
+        "awayMoneyline": "+800",
         "homeOpenMoneyline": "-185",
         "spreadLine": "-1.5",
-        "spreadOdds": "+110",
+        "spreadOdds": "+100",
         "totalLine": "o2.5",
-        "overOdds": "-140",
-        "underOdds": "+115"
+        "overOdds": "-160",
+        "underOdds": "+125"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-255",
-          "drawMoneyline": "+380",
-          "awayMoneyline": "+750",
+          "homeMoneyline": "-265",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+800",
           "spreadLine": "-1.5",
-          "spreadOdds": "+110",
+          "spreadOdds": "+100",
           "totalLine": "o2.5",
-          "overOdds": "-140",
-          "underOdds": "+115",
-          "homeImplied": 0.7183098591549296,
-          "drawImplied": 0.20833333333333334,
-          "awayImplied": 0.11764705882352941,
+          "overOdds": "-160",
+          "underOdds": "+125",
+          "homeImplied": 0.726027397260274,
+          "drawImplied": 0.2,
+          "awayImplied": 0.1111111111111111,
           "available": true
         },
         {
@@ -3029,6 +3197,15 @@
           "homeMoneyline": "-255",
           "drawMoneyline": "+380",
           "awayMoneyline": "+750",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 9,
+          "homeMoneyline": "-265",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "+800",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
         }
@@ -3278,8 +3455,8 @@
         "spreadLine": "-0.5",
         "spreadOdds": "-130",
         "totalLine": "o2.5",
-        "overOdds": "+110",
-        "underOdds": "-135"
+        "overOdds": "+105",
+        "underOdds": "-130"
       },
       "bookmakers": [
         {
@@ -3291,8 +3468,8 @@
           "spreadLine": "-0.5",
           "spreadOdds": "-130",
           "totalLine": "o2.5",
-          "overOdds": "+110",
-          "underOdds": "-135",
+          "overOdds": "+105",
+          "underOdds": "-130",
           "homeImplied": 0.5555555555555556,
           "drawImplied": 0.2777777777777778,
           "awayImplied": 0.20833333333333334,
@@ -3850,7 +4027,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -2,
+      "marketMove": -1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -3871,31 +4048,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-575",
-        "drawMoneyline": "+650",
-        "awayMoneyline": "+1700",
+        "homeMoneyline": "-600",
+        "drawMoneyline": "+700",
+        "awayMoneyline": "+1800",
         "homeOpenMoneyline": "-650",
         "spreadLine": "-1.5",
-        "spreadOdds": "-175",
+        "spreadOdds": "-180",
         "totalLine": "o2.5",
-        "overOdds": "-150",
-        "underOdds": "+120"
+        "overOdds": "-155",
+        "underOdds": "+125"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-575",
-          "drawMoneyline": "+650",
-          "awayMoneyline": "+1700",
+          "homeMoneyline": "-600",
+          "drawMoneyline": "+700",
+          "awayMoneyline": "+1800",
           "spreadLine": "-1.5",
-          "spreadOdds": "-175",
+          "spreadOdds": "-180",
           "totalLine": "o2.5",
-          "overOdds": "-150",
-          "underOdds": "+120",
-          "homeImplied": 0.8518518518518519,
-          "drawImplied": 0.13333333333333333,
-          "awayImplied": 0.05555555555555555,
+          "overOdds": "-155",
+          "underOdds": "+125",
+          "homeImplied": 0.8571428571428571,
+          "drawImplied": 0.125,
+          "awayImplied": 0.05263157894736842,
           "available": true
         },
         {
@@ -4011,6 +4188,15 @@
           "homeMoneyline": "-575",
           "drawMoneyline": "+650",
           "awayMoneyline": "+1700",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -1,
+          "homeMoneyline": "-600",
+          "drawMoneyline": "+700",
+          "awayMoneyline": "+1800",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
         }
