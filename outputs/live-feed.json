@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-06T00:16:14.895689+00:00",
+  "updatedAt": "2026-07-06T14:17:18.715389+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -807,7 +807,7 @@
           "shotsOnTarget": 4.0,
           "corners": 5.0,
           "possession": 33.6,
-          "passes": 330.0,
+          "passes": 331.0,
           "redCards": 0.0
         },
         "away": {
@@ -815,7 +815,7 @@
           "shotsOnTarget": 5.0,
           "corners": 5.0,
           "possession": 66.4,
-          "passes": 679.0,
+          "passes": 681.0,
           "redCards": 0.0
         }
       },
@@ -1057,7 +1057,7 @@
           "team": "Norway",
           "text": "Goal! Brazil 0, Norway 2. Erling Haaland (Norway) left footed shot from outside the box to the bottom right corner. Assisted by Andreas Schjelderup.",
           "scoringPlay": true,
-          "wallclock": "2026-07-05T21:51:31Z"
+          "wallclock": "2026-07-05T21:51:32Z"
         },
         {
           "id": "49720105",
@@ -1217,35 +1217,35 @@
       "id": "espn-760505",
       "espnEventId": "760505",
       "kickoffUtc": "2026-07-06T01:00Z",
-      "status": "pre",
-      "detail": "Sun, July 5th at 9:00 PM EDT",
-      "minute": 0,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "Mexico",
       "awayName": "England",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
+      "homeGoals": 2,
+      "awayGoals": 3,
+      "homeXg": 3.65,
+      "awayXg": 1.9,
       "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 0,
+      "awayRedCards": 1,
+      "tempo": 17,
       "marketMove": 5,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 20.0,
+          "shotsOnTarget": 5.0,
+          "corners": 12.0,
+          "possession": 66.9,
+          "passes": 453.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
-          "redCards": 0.0
+          "shots": 6.0,
+          "shotsOnTarget": 5.0,
+          "corners": 2.0,
+          "possession": 33.1,
+          "passes": 244.0,
+          "redCards": 1.0
         }
       },
       "odds": {
@@ -1255,7 +1255,7 @@
         "awayMoneyline": "+155",
         "homeOpenMoneyline": "+245",
         "spreadLine": "+0.5",
-        "spreadOdds": "-185",
+        "spreadOdds": "-180",
         "totalLine": "o2.5",
         "overOdds": "+145",
         "underOdds": "-185"
@@ -1268,7 +1268,7 @@
           "drawMoneyline": "+200",
           "awayMoneyline": "+155",
           "spreadLine": "+0.5",
-          "spreadOdds": "-185",
+          "spreadOdds": "-180",
           "totalLine": "o2.5",
           "overOdds": "+145",
           "underOdds": "-185",
@@ -1381,7 +1381,134 @@
         "correctScore": 0,
         "oddsApiConfigured": false
       },
-      "events": [],
+      "events": [
+        {
+          "id": "49724355",
+          "minute": "71'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:33:20Z"
+        },
+        {
+          "id": "49724356",
+          "minute": "72'",
+          "type": "yellow-card",
+          "team": "England",
+          "text": "Nico O'Reilly (England) is shown the yellow card.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:33:43Z"
+        },
+        {
+          "id": "49724358",
+          "minute": "74'",
+          "type": "end-delay",
+          "team": "Mexico",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:36:04Z"
+        },
+        {
+          "id": "49724357",
+          "minute": "74'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:36:05Z"
+        },
+        {
+          "id": "49724359",
+          "minute": "74'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Djed Spence replaces Nico O'Reilly.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:36:11Z"
+        },
+        {
+          "id": "49724360",
+          "minute": "75'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Dan Burn replaces Elliot Anderson.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:36:56Z"
+        },
+        {
+          "id": "49724422",
+          "minute": "79'",
+          "type": "substitution",
+          "team": "Mexico",
+          "text": "Substitution, Mexico. Álvaro Fidalgo replaces Jorge Sánchez.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:40:39Z"
+        },
+        {
+          "id": "49724447",
+          "minute": "81'",
+          "type": "substitution",
+          "team": "Mexico",
+          "text": "Substitution, Mexico. Guillermo Martínez replaces Julián Quiñones.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:43:06Z"
+        },
+        {
+          "id": "49724493",
+          "minute": "84'",
+          "type": "start-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:45:34Z"
+        },
+        {
+          "id": "49724495",
+          "minute": "84'",
+          "type": "end-delay",
+          "team": "Mexico",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:45:36Z"
+        },
+        {
+          "id": "49724586",
+          "minute": "90'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Morgan Rogers replaces Harry Kane.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T02:51:51Z"
+        },
+        {
+          "id": "49724695",
+          "minute": "90'+8'",
+          "type": "yellow-card",
+          "team": "Mexico",
+          "text": "Johan Vásquez (Mexico) is shown the yellow card.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T03:00:09Z"
+        },
+        {
+          "id": "49724696",
+          "minute": "90'+8'",
+          "type": "yellow-card",
+          "team": "England",
+          "text": "Jordan Henderson (England) is shown the yellow card.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T03:00:19Z"
+        },
+        {
+          "id": "49724756",
+          "minute": "90'+13'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "Second Half ends, Mexico 2, England 3.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-06T03:05:07Z"
+        }
+      ],
       "note": "",
       "marketHistory": [
         {
@@ -1464,6 +1591,15 @@
           "awayMoneyline": "+155",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 5,
+          "homeMoneyline": "+205",
+          "drawMoneyline": "+200",
+          "awayMoneyline": "+155",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1473,6 +1609,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0
+        },
+        {
+          "minute": 90,
+          "homeGoals": 2,
+          "awayGoals": 3,
+          "homeXg": 3.65,
+          "awayXg": 1.9
         }
       ]
     },
@@ -1492,7 +1635,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 2,
+      "marketMove": 1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -1513,31 +1656,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+280",
+        "homeMoneyline": "+295",
         "drawMoneyline": "+265",
-        "awayMoneyline": "-105",
+        "awayMoneyline": "-110",
         "homeOpenMoneyline": "+310",
         "spreadLine": "+0.5",
         "spreadOdds": "-115",
         "totalLine": "o2.5",
-        "overOdds": "-135",
-        "underOdds": "+110"
+        "overOdds": "-130",
+        "underOdds": "+105"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+280",
+          "homeMoneyline": "+295",
           "drawMoneyline": "+265",
-          "awayMoneyline": "-105",
+          "awayMoneyline": "-110",
           "spreadLine": "+0.5",
           "spreadOdds": "-115",
           "totalLine": "o2.5",
-          "overOdds": "-135",
-          "underOdds": "+110",
-          "homeImplied": 0.2631578947368421,
+          "overOdds": "-130",
+          "underOdds": "+105",
+          "homeImplied": 0.25316455696202533,
           "drawImplied": 0.273972602739726,
-          "awayImplied": 0.5121951219512195,
+          "awayImplied": 0.5238095238095238,
           "available": true
         },
         {
@@ -1664,6 +1807,15 @@
           "awayMoneyline": "-105",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 1,
+          "homeMoneyline": "+295",
+          "drawMoneyline": "+265",
+          "awayMoneyline": "-110",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1692,7 +1844,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -1,
+      "marketMove": 3,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -1713,31 +1865,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+165",
-        "drawMoneyline": "+245",
-        "awayMoneyline": "+160",
+        "homeMoneyline": "+145",
+        "drawMoneyline": "+240",
+        "awayMoneyline": "+185",
         "homeOpenMoneyline": "+160",
         "spreadLine": "-0.5",
-        "spreadOdds": "+155",
+        "spreadOdds": "+140",
         "totalLine": "o2.5",
-        "overOdds": "-150",
+        "overOdds": "-155",
         "underOdds": "+125"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+165",
-          "drawMoneyline": "+245",
-          "awayMoneyline": "+160",
+          "homeMoneyline": "+145",
+          "drawMoneyline": "+240",
+          "awayMoneyline": "+185",
           "spreadLine": "-0.5",
-          "spreadOdds": "+155",
+          "spreadOdds": "+140",
           "totalLine": "o2.5",
-          "overOdds": "-150",
+          "overOdds": "-155",
           "underOdds": "+125",
-          "homeImplied": 0.37735849056603776,
-          "drawImplied": 0.2898550724637681,
-          "awayImplied": 0.38461538461538464,
+          "homeImplied": 0.40816326530612246,
+          "drawImplied": 0.29411764705882354,
+          "awayImplied": 0.3508771929824561,
           "available": true
         },
         {
@@ -1900,6 +2052,15 @@
           "awayMoneyline": "+160",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 3,
+          "homeMoneyline": "+145",
+          "drawMoneyline": "+240",
+          "awayMoneyline": "+185",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1928,7 +2089,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -4,
+      "marketMove": -2,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -1949,31 +2110,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-255",
-        "drawMoneyline": "+360",
-        "awayMoneyline": "+750",
+        "homeMoneyline": "-270",
+        "drawMoneyline": "+380",
+        "awayMoneyline": "+800",
         "homeOpenMoneyline": "-300",
         "spreadLine": "-1.5",
-        "spreadOdds": "+115",
+        "spreadOdds": "+110",
         "totalLine": "o2.5",
         "overOdds": "+105",
-        "underOdds": "-125"
+        "underOdds": "-130"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-255",
-          "drawMoneyline": "+360",
-          "awayMoneyline": "+750",
+          "homeMoneyline": "-270",
+          "drawMoneyline": "+380",
+          "awayMoneyline": "+800",
           "spreadLine": "-1.5",
-          "spreadOdds": "+115",
+          "spreadOdds": "+110",
           "totalLine": "o2.5",
           "overOdds": "+105",
-          "underOdds": "-125",
-          "homeImplied": 0.7183098591549296,
-          "drawImplied": 0.21739130434782608,
-          "awayImplied": 0.11764705882352941,
+          "underOdds": "-130",
+          "homeImplied": 0.7297297297297297,
+          "drawImplied": 0.20833333333333334,
+          "awayImplied": 0.1111111111111111,
           "available": true
         },
         {
@@ -2107,6 +2268,15 @@
           "homeMoneyline": "-255",
           "drawMoneyline": "+360",
           "awayMoneyline": "+750",
+          "spreadLine": "-1.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -2,
+          "homeMoneyline": "-270",
+          "drawMoneyline": "+380",
+          "awayMoneyline": "+800",
           "spreadLine": "-1.5",
           "totalLine": "o2.5"
         }
