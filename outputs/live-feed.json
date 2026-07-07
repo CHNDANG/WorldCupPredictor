@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-07T18:32:49.382206+00:00",
+  "updatedAt": "2026-07-07T22:42:41.791159+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -1795,7 +1795,7 @@
           "team": "Argentina",
           "text": "Substitution, Argentina. Gonzalo Montiel replaces Nahuel Molina.",
           "scoringPlay": false,
-          "wallclock": "2026-07-07T17:36:51Z"
+          "wallclock": "2026-07-07T17:36:47Z"
         },
         {
           "id": "49731942",
@@ -1827,7 +1827,7 @@
         {
           "id": "49732134",
           "minute": "83'",
-          "type": "goal",
+          "type": "goal---volley",
           "team": "Argentina",
           "text": "Goal! Argentina 2, Egypt 2. Lionel Messi (Argentina) left footed shot from the centre of the box to the high centre of the goal. Assisted by Gonzalo Montiel.",
           "scoringPlay": true,
@@ -1993,65 +1993,81 @@
       "id": "espn-760508",
       "espnEventId": "760508",
       "kickoffUtc": "2026-07-07T20:00Z",
-      "status": "pre",
-      "detail": "Tue, July 7th at 4:00 PM EDT",
-      "minute": 0,
+      "status": "live",
+      "detail": "Penalties",
+      "minute": 120,
       "homeName": "Switzerland",
       "awayName": "Colombia",
       "homeGoals": 0,
       "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
+      "homeXg": 1.07,
+      "awayXg": 2.15,
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -1,
+      "marketMove": 0,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 7.0,
+          "shotsOnTarget": 2.0,
+          "corners": 3.0,
+          "possession": 53.2,
+          "passes": 626.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 15.0,
+          "shotsOnTarget": 3.0,
+          "corners": 7.0,
+          "possession": 46.8,
+          "passes": 548.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+245",
-        "drawMoneyline": "+205",
-        "awayMoneyline": "+130",
+        "homeMoneyline": "OFF",
+        "drawMoneyline": "OFF",
+        "awayMoneyline": "OFF",
         "homeOpenMoneyline": "+235",
         "spreadLine": "+0.5",
-        "spreadOdds": "-160",
+        "spreadOdds": "OFF",
         "totalLine": "o2.5",
-        "overOdds": "+130",
-        "underOdds": "-160"
+        "overOdds": "OFF",
+        "underOdds": "OFF"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "pregame",
-          "homeMoneyline": "+245",
-          "drawMoneyline": "+205",
-          "awayMoneyline": "+130",
+          "scope": "live",
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "OFF",
+          "awayMoneyline": "OFF",
           "spreadLine": "+0.5",
-          "spreadOdds": "-160",
+          "spreadOdds": "OFF",
           "totalLine": "o2.5",
-          "overOdds": "+130",
-          "underOdds": "-160",
-          "homeImplied": 0.2898550724637681,
-          "drawImplied": 0.32786885245901637,
-          "awayImplied": 0.43478260869565216,
+          "overOdds": "OFF",
+          "underOdds": "OFF",
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
           "available": true
+        },
+        {
+          "provider": "Bet 365",
+          "scope": "pregame",
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
         },
         {
           "provider": "Pinnacle",
@@ -2157,7 +2173,134 @@
         "correctScore": 0,
         "oddsApiConfigured": false
       },
-      "events": [],
+      "events": [
+        {
+          "id": "49733915",
+          "minute": "90'+6'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "Second Half ends, Switzerland 0, Colombia 0.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T21:54:51Z"
+        },
+        {
+          "id": "49733928",
+          "minute": "90'",
+          "type": "start-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T21:59:57Z"
+        },
+        {
+          "id": "49733961",
+          "minute": "95'",
+          "type": "yellow-card",
+          "team": "Colombia",
+          "text": "Davinson Sánchez (Colombia) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:04:03Z"
+        },
+        {
+          "id": "49734068",
+          "minute": "103'",
+          "type": "substitution",
+          "team": "Switzerland",
+          "text": "Substitution, Switzerland. Zeki Amdouni replaces Fabian Rieder.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:12:36Z"
+        },
+        {
+          "id": "49734108",
+          "minute": "105'",
+          "type": "yellow-card",
+          "team": "Switzerland",
+          "text": "Miro Muheim (Switzerland) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:14:28Z"
+        },
+        {
+          "id": "49734126",
+          "minute": "105'+2'",
+          "type": "halftime-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:16:20Z"
+        },
+        {
+          "id": "49734130",
+          "minute": "105'",
+          "type": "start-2nd-half-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:19:08Z"
+        },
+        {
+          "id": "49734297",
+          "minute": "117'",
+          "type": "start-delay",
+          "team": "Colombia",
+          "text": "Delay in match because of an injury Jhon Lucumí (Colombia).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:31:00Z"
+        },
+        {
+          "id": "49734298",
+          "minute": "117'",
+          "type": "start-delay",
+          "team": "Switzerland",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:31:01Z"
+        },
+        {
+          "id": "49734302",
+          "minute": "119'",
+          "type": "end-delay",
+          "team": "Colombia",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:32:17Z"
+        },
+        {
+          "id": "49734303",
+          "minute": "119'",
+          "type": "end-delay",
+          "team": "Switzerland",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:32:17Z"
+        },
+        {
+          "id": "49734304",
+          "minute": "119'",
+          "type": "substitution",
+          "team": "Colombia",
+          "text": "Substitution, Colombia. Yerry Mina replaces Jhon Lucumí because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:32:29Z"
+        },
+        {
+          "id": "49734345",
+          "minute": "120'+2'",
+          "type": "end-extra-time",
+          "team": "",
+          "text": "Second Half Extra Time ends, Switzerland 0, Colombia 0.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:35:15Z"
+        },
+        {
+          "id": "49734348",
+          "minute": "120'",
+          "type": "start-shootout",
+          "team": "",
+          "text": "Penalty Shootout begins Switzerland 0, Colombia 0.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-07T22:40:19Z"
+        }
+      ],
       "note": "",
       "marketHistory": [
         {
@@ -2195,6 +2338,15 @@
           "awayMoneyline": "+130",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 120,
+          "marketMove": 0,
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "OFF",
+          "awayMoneyline": "OFF",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -2204,6 +2356,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0
+        },
+        {
+          "minute": 120,
+          "homeGoals": 0,
+          "awayGoals": 0,
+          "homeXg": 1.07,
+          "awayXg": 2.15
         }
       ]
     },
@@ -2223,7 +2382,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 1,
+      "marketMove": -1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -2244,31 +2403,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-180",
-        "drawMoneyline": "+295",
-        "awayMoneyline": "+550",
+        "homeMoneyline": "-170",
+        "drawMoneyline": "+285",
+        "awayMoneyline": "+500",
         "homeOpenMoneyline": "-175",
         "spreadLine": "-0.5",
-        "spreadOdds": "-185",
+        "spreadOdds": "-175",
         "totalLine": "o2.5",
         "overOdds": "-105",
-        "underOdds": "-120"
+        "underOdds": "-115"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-180",
-          "drawMoneyline": "+295",
-          "awayMoneyline": "+550",
+          "homeMoneyline": "-170",
+          "drawMoneyline": "+285",
+          "awayMoneyline": "+500",
           "spreadLine": "-0.5",
-          "spreadOdds": "-185",
+          "spreadOdds": "-175",
           "totalLine": "o2.5",
           "overOdds": "-105",
-          "underOdds": "-120",
-          "homeImplied": 0.6428571428571429,
-          "drawImplied": 0.25316455696202533,
-          "awayImplied": 0.15384615384615385,
+          "underOdds": "-115",
+          "homeImplied": 0.6296296296296297,
+          "drawImplied": 0.2597402597402597,
+          "awayImplied": 0.16666666666666666,
           "available": true
         },
         {
@@ -2393,6 +2552,15 @@
           "homeMoneyline": "-180",
           "drawMoneyline": "+295",
           "awayMoneyline": "+550",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -1,
+          "homeMoneyline": "-170",
+          "drawMoneyline": "+285",
+          "awayMoneyline": "+500",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
         }
