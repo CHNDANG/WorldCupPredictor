@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-09T20:21:37.634133+00:00",
+  "updatedAt": "2026-07-09T22:00:56.579508+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -780,63 +780,63 @@
       "espnEventId": "760510",
       "kickoffUtc": "2026-07-09T20:00Z",
       "status": "live",
-      "detail": "20'",
-      "minute": 20,
+      "detail": "90'+6'",
+      "minute": 90,
       "homeName": "France",
       "awayName": "Morocco",
-      "homeGoals": 0,
+      "homeGoals": 2,
       "awayGoals": 0,
-      "homeXg": 0.58,
-      "awayXg": 0,
+      "homeXg": 3.95,
+      "awayXg": 0.8,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": -1,
-      "marketMove": 2,
+      "tempo": 14,
+      "marketMove": 0,
       "stats": {
         "home": {
-          "shots": 4.0,
-          "shotsOnTarget": 1.0,
-          "corners": 1.0,
-          "possession": 61.0,
-          "passes": 149.0,
+          "shots": 21.0,
+          "shotsOnTarget": 8.0,
+          "corners": 5.0,
+          "possession": 48.0,
+          "passes": 481.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 39.0,
-          "passes": 96.0,
+          "shots": 5.0,
+          "shotsOnTarget": 1.0,
+          "corners": 5.0,
+          "possession": 52.0,
+          "passes": 521.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-185",
-        "drawMoneyline": "+280",
-        "awayMoneyline": "+600",
+        "homeMoneyline": "OFF",
+        "drawMoneyline": "+17000",
+        "awayMoneyline": "OFF",
         "homeOpenMoneyline": "-175",
-        "spreadLine": "-0.5",
-        "spreadOdds": "-205",
+        "spreadLine": "-2.5",
+        "spreadOdds": "+1200",
         "totalLine": "o2.5",
-        "overOdds": "+122",
-        "underOdds": "-145"
+        "overOdds": "+1080",
+        "underOdds": "-2600"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "live",
-          "homeMoneyline": "-185",
-          "drawMoneyline": "+280",
-          "awayMoneyline": "+600",
-          "spreadLine": "-0.5",
-          "spreadOdds": "-205",
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "+17000",
+          "awayMoneyline": "OFF",
+          "spreadLine": "-2.5",
+          "spreadOdds": "+1200",
           "totalLine": "o2.5",
-          "overOdds": "+122",
-          "underOdds": "-145",
-          "homeImplied": 0.6491228070175439,
-          "drawImplied": 0.2631578947368421,
-          "awayImplied": 0.14285714285714285,
+          "overOdds": "+1080",
+          "underOdds": "-2600",
+          "homeImplied": null,
+          "drawImplied": 0.005847953216374269,
+          "awayImplied": null,
           "available": true
         },
         {
@@ -858,17 +858,17 @@
         {
           "provider": "DraftKings - Live Odds",
           "scope": "live",
-          "homeMoneyline": "-185",
-          "drawMoneyline": "280.0",
-          "awayMoneyline": "600",
-          "spreadLine": "FRA -185",
+          "homeMoneyline": null,
+          "drawMoneyline": "17000.0",
+          "awayMoneyline": null,
+          "spreadLine": "FRA -2.5",
           "spreadOdds": null,
           "totalLine": "2.5",
           "overOdds": null,
           "underOdds": null,
-          "homeImplied": 0.6491228070175439,
-          "drawImplied": 0.2631578947368421,
-          "awayImplied": 0.14285714285714285,
+          "homeImplied": null,
+          "drawImplied": 0.005847953216374269,
+          "awayImplied": null,
           "available": true
         },
         {
@@ -977,13 +977,130 @@
       },
       "events": [
         {
-          "id": "49740894",
-          "minute": "",
-          "type": "kickoff",
-          "team": "",
-          "text": "First Half begins.",
+          "id": "49742086",
+          "minute": "67'",
+          "type": "start-delay",
+          "team": "Morocco",
+          "text": "Delay in match for a drinks break.",
           "scoringPlay": false,
-          "wallclock": "2026-07-09T20:00:51Z"
+          "wallclock": "2026-07-09T21:31:40Z"
+        },
+        {
+          "id": "49742087",
+          "minute": "70'",
+          "type": "end-delay",
+          "team": "France",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:34:16Z"
+        },
+        {
+          "id": "49742088",
+          "minute": "70'",
+          "type": "end-delay",
+          "team": "Morocco",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:34:31Z"
+        },
+        {
+          "id": "49742089",
+          "minute": "71'",
+          "type": "substitution",
+          "team": "France",
+          "text": "Substitution, France. Warren Zaïre-Emery replaces Manu Koné.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:34:42Z"
+        },
+        {
+          "id": "49742137",
+          "minute": "74'",
+          "type": "substitution",
+          "team": "Morocco",
+          "text": "Substitution, Morocco. Zakaria El Ouahdi replaces Anass Salah-Eddine.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:37:46Z"
+        },
+        {
+          "id": "49742135",
+          "minute": "74'",
+          "type": "substitution",
+          "team": "Morocco",
+          "text": "Substitution, Morocco. Gessime Yassine replaces Brahim Díaz.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:37:50Z"
+        },
+        {
+          "id": "49742174",
+          "minute": "76'",
+          "type": "start-delay",
+          "team": "France",
+          "text": "Delay in match because of an injury Kylian Mbappé (France).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:40:06Z"
+        },
+        {
+          "id": "49742173",
+          "minute": "76'",
+          "type": "start-delay",
+          "team": "Morocco",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:40:06Z"
+        },
+        {
+          "id": "49742175",
+          "minute": "77'",
+          "type": "end-delay",
+          "team": "France",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:41:01Z"
+        },
+        {
+          "id": "49742178",
+          "minute": "77'",
+          "type": "end-delay",
+          "team": "Morocco",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:41:01Z"
+        },
+        {
+          "id": "49742176",
+          "minute": "77'",
+          "type": "substitution",
+          "team": "France",
+          "text": "Substitution, France. Jean-Philippe Mateta replaces Kylian Mbappé because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:41:09Z"
+        },
+        {
+          "id": "49742177",
+          "minute": "77'",
+          "type": "substitution",
+          "team": "France",
+          "text": "Substitution, France. Bradley Barcola replaces Désiré Doué.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:41:18Z"
+        },
+        {
+          "id": "49742278",
+          "minute": "85'",
+          "type": "substitution",
+          "team": "Morocco",
+          "text": "Substitution, Morocco. Amine Sbaï replaces Chemsdine Talbi.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:48:44Z"
+        },
+        {
+          "id": "49742301",
+          "minute": "87'",
+          "type": "substitution",
+          "team": "France",
+          "text": "Substitution, France. Malo Gusto replaces Jules Koundé.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-09T21:50:30Z"
         }
       ],
       "note": "",
@@ -1059,6 +1176,15 @@
           "awayMoneyline": "+600",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 0,
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "+17000",
+          "awayMoneyline": "OFF",
+          "spreadLine": "-2.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1075,6 +1201,13 @@
           "awayGoals": 0,
           "homeXg": 0.58,
           "awayXg": 0
+        },
+        {
+          "minute": 90,
+          "homeGoals": 2,
+          "awayGoals": 0,
+          "homeXg": 3.95,
+          "awayXg": 0.8
         }
       ]
     },
