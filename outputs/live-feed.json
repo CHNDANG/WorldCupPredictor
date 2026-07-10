@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-10T19:42:21.328196+00:00",
+  "updatedAt": "2026-07-10T21:10:23.514279+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -443,64 +443,64 @@
       "id": "espn-760511",
       "espnEventId": "760511",
       "kickoffUtc": "2026-07-10T19:00Z",
-      "status": "live",
-      "detail": "42'",
-      "minute": 42,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "Spain",
       "awayName": "Belgium",
-      "homeGoals": 1,
+      "homeGoals": 2,
       "awayGoals": 1,
-      "homeXg": 1.22,
-      "awayXg": 0.38,
+      "homeXg": 3.17,
+      "awayXg": 0.88,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": -2,
-      "marketMove": 0,
+      "tempo": 5,
+      "marketMove": 1,
       "stats": {
         "home": {
-          "shots": 7.0,
-          "shotsOnTarget": 3.0,
-          "corners": 1.0,
-          "possession": 64.7,
-          "passes": 270.0,
+          "shots": 17.0,
+          "shotsOnTarget": 8.0,
+          "corners": 5.0,
+          "possession": 67.8,
+          "passes": 665.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 2.0,
-          "shotsOnTarget": 1.0,
-          "corners": 0.0,
-          "possession": 35.3,
-          "passes": 144.0,
+          "shots": 5.0,
+          "shotsOnTarget": 2.0,
+          "corners": 1.0,
+          "possession": 32.2,
+          "passes": 314.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "OFF",
-        "drawMoneyline": "OFF",
-        "awayMoneyline": "OFF",
+        "homeMoneyline": "-165",
+        "drawMoneyline": "+290",
+        "awayMoneyline": "+475",
         "homeOpenMoneyline": "-160",
         "spreadLine": "-0.5",
-        "spreadOdds": "OFF",
+        "spreadOdds": "-165",
         "totalLine": "o2.5",
-        "overOdds": "OFF",
-        "underOdds": "OFF"
+        "overOdds": "-140",
+        "underOdds": "+115"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "OFF",
-          "drawMoneyline": "OFF",
-          "awayMoneyline": "OFF",
+          "scope": "pregame",
+          "homeMoneyline": "-165",
+          "drawMoneyline": "+290",
+          "awayMoneyline": "+475",
           "spreadLine": "-0.5",
-          "spreadOdds": "OFF",
+          "spreadOdds": "-165",
           "totalLine": "o2.5",
-          "overOdds": "OFF",
-          "underOdds": "OFF",
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
+          "overOdds": "-140",
+          "underOdds": "+115",
+          "homeImplied": 0.6226415094339622,
+          "drawImplied": 0.2564102564102564,
+          "awayImplied": 0.17391304347826086,
           "available": true
         },
         {
@@ -625,130 +625,130 @@
       },
       "events": [
         {
-          "id": "49747466",
-          "minute": "23'",
+          "id": "49748146",
+          "minute": "67'",
+          "type": "end-delay",
+          "team": "Spain",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:28:42Z"
+        },
+        {
+          "id": "49748148",
+          "minute": "67'",
           "type": "start-delay",
           "team": "Spain",
           "text": "Delay in match for a drinks break.",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T19:23:07Z"
+          "wallclock": "2026-07-10T20:28:42Z"
         },
         {
-          "id": "49747467",
-          "minute": "23'",
+          "id": "49748149",
+          "minute": "67'",
           "type": "start-delay",
           "team": "Belgium",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T19:23:07Z"
+          "wallclock": "2026-07-10T20:28:42Z"
         },
         {
-          "id": "49747469",
-          "minute": "26'",
+          "id": "49748150",
+          "minute": "70'",
           "type": "end-delay",
           "team": "Spain",
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T19:26:09Z"
+          "wallclock": "2026-07-10T20:31:15Z"
         },
         {
-          "id": "49747468",
-          "minute": "26'",
+          "id": "49748151",
+          "minute": "70'",
           "type": "end-delay",
           "team": "Belgium",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T19:26:10Z"
+          "wallclock": "2026-07-10T20:31:16Z"
         },
         {
-          "id": "49747537",
-          "minute": "30'",
+          "id": "49748174",
+          "minute": "71'",
+          "type": "substitution",
+          "team": "Belgium",
+          "text": "Substitution, Belgium. Senne Lammens replaces Thibaut Courtois because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:32:48Z"
+        },
+        {
+          "id": "49748314",
+          "minute": "79'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Nico Williams replaces Mikel Oyarzabal.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:40:56Z"
+        },
+        {
+          "id": "49748401",
+          "minute": "85'",
+          "type": "yellow-card",
+          "team": "Belgium",
+          "text": "Kevin De Bruyne (Belgium) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:46:47Z"
+        },
+        {
+          "id": "49748402",
+          "minute": "86'",
+          "type": "substitution",
+          "team": "Belgium",
+          "text": "Substitution, Belgium. Alexis Saelemaekers replaces Kevin De Bruyne.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:47:19Z"
+        },
+        {
+          "id": "49748403",
+          "minute": "86'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:47:36Z"
+        },
+        {
+          "id": "49748447",
+          "minute": "88'",
           "type": "goal",
           "team": "Spain",
-          "text": "Goal! Spain 1, Belgium 0. Fabián Ruiz (Spain) right footed shot from the centre of the box to the high centre of the goal.",
+          "text": "Goal! Spain 2, Belgium 1. Mikel Merino (Spain) left footed shot from very close range to the top left corner.",
           "scoringPlay": true,
-          "wallclock": "2026-07-10T19:29:58Z"
+          "wallclock": "2026-07-10T20:49:33Z"
         },
         {
-          "id": "49747550",
-          "minute": "31'",
-          "type": "start-delay",
+          "id": "49748509",
+          "minute": "90'+3'",
+          "type": "yellow-card",
           "team": "Spain",
+          "text": "Aymeric Laporte (Spain) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:54:33Z"
+        },
+        {
+          "id": "49748543",
+          "minute": "90'+5'",
+          "type": "yellow-card",
+          "team": "Belgium",
+          "text": "Axel Witsel (Belgium) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-10T20:56:30Z"
+        },
+        {
+          "id": "49748587",
+          "minute": "90'+8'",
+          "type": "end-regular-time",
+          "team": "",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T19:31:37Z"
-        },
-        {
-          "id": "49747551",
-          "minute": "31'",
-          "type": "start-delay",
-          "team": "Belgium",
-          "text": "Delay in match because of an injury Timothy Castagne (Belgium).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:31:37Z"
-        },
-        {
-          "id": "49747552",
-          "minute": "32'",
-          "type": "end-delay",
-          "team": "Belgium",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:32:13Z"
-        },
-        {
-          "id": "49747553",
-          "minute": "32'",
-          "type": "end-delay",
-          "team": "Spain",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:32:13Z"
-        },
-        {
-          "id": "49747594",
-          "minute": "35'",
-          "type": "start-delay",
-          "team": "Spain",
-          "text": "Delay in match (Spain).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:35:28Z"
-        },
-        {
-          "id": "49747595",
-          "minute": "35'",
-          "type": "start-delay",
-          "team": "Belgium",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:35:28Z"
-        },
-        {
-          "id": "49747597",
-          "minute": "36'",
-          "type": "end-delay",
-          "team": "Spain",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:36:00Z"
-        },
-        {
-          "id": "49747596",
-          "minute": "36'",
-          "type": "end-delay",
-          "team": "Belgium",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-10T19:36:00Z"
-        },
-        {
-          "id": "49747686",
-          "minute": "41'",
-          "type": "goal---header",
-          "team": "Belgium",
-          "text": "Goal! Spain 1, Belgium 1. Charles De Ketelaere (Belgium) header from the centre of the box to the centre of the goal. Assisted by Timothy Castagne with a cross.",
-          "scoringPlay": true,
-          "wallclock": "2026-07-10T19:40:47Z"
+          "wallclock": "2026-07-10T20:59:30Z"
         }
       ],
       "note": "",
@@ -815,6 +815,15 @@
           "awayMoneyline": "OFF",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 1,
+          "homeMoneyline": "-165",
+          "drawMoneyline": "+290",
+          "awayMoneyline": "+475",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -831,6 +840,13 @@
           "awayGoals": 1,
           "homeXg": 1.22,
           "awayXg": 0.38
+        },
+        {
+          "minute": 90,
+          "homeGoals": 2,
+          "awayGoals": 1,
+          "homeXg": 3.17,
+          "awayXg": 0.88
         }
       ]
     },
@@ -876,10 +892,10 @@
         "awayMoneyline": "-110",
         "homeOpenMoneyline": "+280",
         "spreadLine": "+0.5",
-        "spreadOdds": "-110",
+        "spreadOdds": "-105",
         "totalLine": "o2.5",
-        "overOdds": "-135",
-        "underOdds": "+110"
+        "overOdds": "-145",
+        "underOdds": "+115"
       },
       "bookmakers": [
         {
@@ -889,10 +905,10 @@
           "drawMoneyline": "+265",
           "awayMoneyline": "-110",
           "spreadLine": "+0.5",
-          "spreadOdds": "-110",
+          "spreadOdds": "-105",
           "totalLine": "o2.5",
-          "overOdds": "-135",
-          "underOdds": "+110",
+          "overOdds": "-145",
+          "underOdds": "+115",
           "homeImplied": 0.25,
           "drawImplied": 0.273972602739726,
           "awayImplied": 0.5238095238095238,
