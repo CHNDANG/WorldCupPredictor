@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T21:23:36.571893+00:00",
+  "updatedAt": "2026-07-11T22:23:50.210129+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -855,63 +855,63 @@
       "espnEventId": "760512",
       "kickoffUtc": "2026-07-11T21:00Z",
       "status": "live",
-      "detail": "22'",
-      "minute": 22,
+      "detail": "61'",
+      "minute": 61,
       "homeName": "Norway",
       "awayName": "England",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0.12,
+      "homeGoals": 1,
+      "awayGoals": 1,
+      "homeXg": 1.17,
+      "awayXg": 1.03,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": -19,
-      "marketMove": -5,
+      "tempo": 1,
+      "marketMove": -7,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 28.8,
-          "passes": 89.0,
+          "shots": 6.0,
+          "shotsOnTarget": 3.0,
+          "corners": 3.0,
+          "possession": 36.2,
+          "passes": 216.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 1.0,
-          "shotsOnTarget": 0.0,
-          "corners": 1.0,
-          "possession": 71.2,
-          "passes": 218.0,
+          "shots": 6.0,
+          "shotsOnTarget": 2.0,
+          "corners": 2.0,
+          "possession": 63.8,
+          "passes": 378.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+350",
-        "drawMoneyline": "+255",
-        "awayMoneyline": "-125",
+        "homeMoneyline": "+380",
+        "drawMoneyline": "+130",
+        "awayMoneyline": "+140",
         "homeOpenMoneyline": "+280",
         "spreadLine": "+0.5",
-        "spreadOdds": "+105",
-        "totalLine": "o2.5",
-        "overOdds": "+129",
-        "underOdds": "-154"
+        "spreadOdds": "-175",
+        "totalLine": "o3.5",
+        "overOdds": "+183",
+        "underOdds": "-225"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "live",
-          "homeMoneyline": "+350",
-          "drawMoneyline": "+255",
-          "awayMoneyline": "-125",
+          "homeMoneyline": "+380",
+          "drawMoneyline": "+130",
+          "awayMoneyline": "+140",
           "spreadLine": "+0.5",
-          "spreadOdds": "+105",
-          "totalLine": "o2.5",
-          "overOdds": "+129",
-          "underOdds": "-154",
-          "homeImplied": 0.2222222222222222,
-          "drawImplied": 0.28169014084507044,
-          "awayImplied": 0.5555555555555556,
+          "spreadOdds": "-175",
+          "totalLine": "o3.5",
+          "overOdds": "+183",
+          "underOdds": "-225",
+          "homeImplied": 0.20833333333333334,
+          "drawImplied": 0.43478260869565216,
+          "awayImplied": 0.4166666666666667,
           "available": true
         },
         {
@@ -933,17 +933,17 @@
         {
           "provider": "DraftKings - Live Odds",
           "scope": "live",
-          "homeMoneyline": "350",
-          "drawMoneyline": "255.0",
-          "awayMoneyline": "-125",
-          "spreadLine": "ENG -125",
+          "homeMoneyline": "380",
+          "drawMoneyline": "130.0",
+          "awayMoneyline": "140",
+          "spreadLine": "ENG +140",
           "spreadOdds": null,
-          "totalLine": "2.5",
+          "totalLine": "3.5",
           "overOdds": null,
           "underOdds": null,
-          "homeImplied": 0.2222222222222222,
-          "drawImplied": 0.28169014084507044,
-          "awayImplied": 0.5555555555555556,
+          "homeImplied": 0.20833333333333334,
+          "drawImplied": 0.43478260869565216,
+          "awayImplied": 0.4166666666666667,
           "available": true
         },
         {
@@ -1052,13 +1052,130 @@
       },
       "events": [
         {
-          "id": "49765769",
-          "minute": "",
-          "type": "kickoff",
+          "id": "49766200",
+          "minute": "27'",
+          "type": "end-delay",
+          "team": "Norway",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T21:27:34Z"
+        },
+        {
+          "id": "49766335",
+          "minute": "36'",
+          "type": "goal",
+          "team": "Norway",
+          "text": "Goal! Norway 1, England 0. Andreas Schjelderup (Norway) left footed shot from the left side of the box to the top right corner. Assisted by Martin Ødegaard.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-11T21:36:26Z"
+        },
+        {
+          "id": "49766475",
+          "minute": "45'+2'",
+          "type": "goal",
+          "team": "England",
+          "text": "Goal! Norway 1, England 1. Jude Bellingham (England) left footed shot from the left side of the box to the bottom right corner. Assisted by Anthony Gordon following a fast break.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-11T21:47:33Z"
+        },
+        {
+          "id": "49766509",
+          "minute": "45'+5'",
+          "type": "halftime",
           "team": "",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-11T21:01:24Z"
+          "wallclock": "2026-07-11T21:50:46Z"
+        },
+        {
+          "id": "49766514",
+          "minute": "45'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Bukayo Saka replaces Noni Madueke.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:06:31Z"
+        },
+        {
+          "id": "49766516",
+          "minute": "45'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Eberechi Eze replaces Declan Rice.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:06:31Z"
+        },
+        {
+          "id": "49766519",
+          "minute": "45'",
+          "type": "start-2nd-half",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:07:28Z"
+        },
+        {
+          "id": "49766645",
+          "minute": "57'",
+          "type": "start-delay",
+          "team": "Norway",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:18:47Z"
+        },
+        {
+          "id": "49766647",
+          "minute": "57'",
+          "type": "end-delay",
+          "team": "Norway",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:19:24Z"
+        },
+        {
+          "id": "49766656",
+          "minute": "59'",
+          "type": "start-delay",
+          "team": "Norway",
+          "text": "Delay in match because of an injury Julian Ryerson (Norway).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:21:18Z"
+        },
+        {
+          "id": "49766657",
+          "minute": "59'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:21:19Z"
+        },
+        {
+          "id": "49766659",
+          "minute": "60'",
+          "type": "substitution",
+          "team": "Norway",
+          "text": "Substitution, Norway. Fredrik Aursnes replaces Julian Ryerson because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:22:09Z"
+        },
+        {
+          "id": "49766660",
+          "minute": "60'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:22:18Z"
+        },
+        {
+          "id": "49766661",
+          "minute": "60'",
+          "type": "end-delay",
+          "team": "Norway",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-11T22:22:19Z"
         }
       ],
       "note": "",
@@ -1125,6 +1242,15 @@
           "awayMoneyline": "-125",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 61,
+          "marketMove": -7,
+          "homeMoneyline": "+380",
+          "drawMoneyline": "+130",
+          "awayMoneyline": "+140",
+          "spreadLine": "+0.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -1141,6 +1267,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0.12
+        },
+        {
+          "minute": 61,
+          "homeGoals": 1,
+          "awayGoals": 1,
+          "homeXg": 1.17,
+          "awayXg": 1.03
         }
       ]
     },
