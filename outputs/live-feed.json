@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T00:03:22.836347+00:00",
+  "updatedAt": "2026-07-11T03:53:14.479954+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -461,16 +461,16 @@
           "shots": 17.0,
           "shotsOnTarget": 8.0,
           "corners": 5.0,
-          "possession": 67.8,
-          "passes": 665.0,
+          "possession": 67.9,
+          "passes": 664.0,
           "redCards": 0.0
         },
         "away": {
           "shots": 5.0,
           "shotsOnTarget": 2.0,
           "corners": 1.0,
-          "possession": 32.2,
-          "passes": 314.0,
+          "possession": 32.1,
+          "passes": 312.0,
           "redCards": 0.0
         }
       },
@@ -712,7 +712,7 @@
           "team": "Spain",
           "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
           "scoringPlay": false,
-          "wallclock": "2026-07-10T20:47:36Z"
+          "wallclock": "2026-07-10T20:47:38Z"
         },
         {
           "id": "49748447",
@@ -866,7 +866,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": -2,
+      "marketMove": -1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -887,29 +887,29 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+300",
+        "homeMoneyline": "+290",
         "drawMoneyline": "+265",
         "awayMoneyline": "-110",
         "homeOpenMoneyline": "+280",
         "spreadLine": "+0.5",
-        "spreadOdds": "-105",
+        "spreadOdds": "-110",
         "totalLine": "o2.5",
-        "overOdds": "-140",
+        "overOdds": "-135",
         "underOdds": "+110"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+300",
+          "homeMoneyline": "+290",
           "drawMoneyline": "+265",
           "awayMoneyline": "-110",
           "spreadLine": "+0.5",
-          "spreadOdds": "-105",
+          "spreadOdds": "-110",
           "totalLine": "o2.5",
-          "overOdds": "-140",
+          "overOdds": "-135",
           "underOdds": "+110",
-          "homeImplied": 0.25,
+          "homeImplied": 0.2564102564102564,
           "drawImplied": 0.273972602739726,
           "awayImplied": 0.5238095238095238,
           "available": true
@@ -1038,6 +1038,15 @@
           "awayMoneyline": "-110",
           "spreadLine": "+0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -1,
+          "homeMoneyline": "+290",
+          "drawMoneyline": "+265",
+          "awayMoneyline": "-110",
+          "spreadLine": "+0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1092,7 +1101,7 @@
         "awayMoneyline": "+450",
         "homeOpenMoneyline": "-140",
         "spreadLine": "-0.5",
-        "spreadOdds": "-150",
+        "spreadOdds": "-155",
         "totalLine": "o2.5",
         "overOdds": "+120",
         "underOdds": "-150"
@@ -1105,7 +1114,7 @@
           "drawMoneyline": "+255",
           "awayMoneyline": "+450",
           "spreadLine": "-0.5",
-          "spreadOdds": "-150",
+          "spreadOdds": "-155",
           "totalLine": "o2.5",
           "overOdds": "+120",
           "underOdds": "-150",
