@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-11T10:00:16.394669+00:00",
+  "updatedAt": "2026-07-11T11:30:42.776331+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -1110,7 +1110,7 @@
         "awayMoneyline": "+450",
         "homeOpenMoneyline": "-140",
         "spreadLine": "-0.5",
-        "spreadOdds": "-155",
+        "spreadOdds": "-150",
         "totalLine": "o2.5",
         "overOdds": "+125",
         "underOdds": "-155"
@@ -1123,7 +1123,7 @@
           "drawMoneyline": "+255",
           "awayMoneyline": "+450",
           "spreadLine": "-0.5",
-          "spreadOdds": "-155",
+          "spreadOdds": "-150",
           "totalLine": "o2.5",
           "overOdds": "+125",
           "underOdds": "-155",
