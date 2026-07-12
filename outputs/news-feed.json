@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T19:44:30.618318+00:00",
+  "updatedAt": "2026-07-12T20:57:19.511040+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "espn-足球-a-list-fifa-s-top-4-make-wc-semis-for-first-time",
+      "title": "A名单：国际足联前四名首次进入世界杯半决赛",
+      "summary": "阿根廷、西班牙、法国和英格兰以国际足联排名前四的身份参加本届世界杯，距离再次加冕冠军只差两场胜利。",
+      "originalTitle": "A-List: FIFA's top-4 make WC semis for first time",
+      "originalSummary": "Argentina, Spain, France and England went into the tournament as the top four in FIFA's rankings and are two wins away from being crowned champions again.",
+      "translation": "online",
+      "source": "ESPN 足球",
+      "url": "https://www.espn.com/soccer/story/_/id/49344988/fifa-top-4-teams-world-cup-semifinals-first",
+      "publishedAt": "2026-07-12T21:25:11+00:00",
+      "heat": 48
+    },
     {
       "id": "espn-足球-sources-fifa-fifpro-in-talks-over-heat-protocol",
       "title": "资料来源：国际足联、国际足球联合会正在就热火协议进行谈判......",
@@ -16,7 +28,7 @@
       "translation": "online",
       "source": "ESPN 足球",
       "url": "https://www.espn.com/soccer/story/_/id/49343877/fifa-world-cup-fifpro-temperature-heat-protocol-talks-sources",
-      "publishedAt": "2026-07-12T20:24:01+00:00",
+      "publishedAt": "2026-07-12T21:25:11+00:00",
       "heat": 48
     },
     {
@@ -28,7 +40,7 @@
       "translation": "online",
       "source": "ESPN 足球",
       "url": "https://www.espn.com/soccer/story/_/id/49341900/alf-inge-haaland-norway-robbed-world-cup-2026-england-well-done-referee-erling-haaland",
-      "publishedAt": "2026-07-12T20:24:01+00:00",
+      "publishedAt": "2026-07-12T21:25:11+00:00",
       "heat": 48
     },
     {
@@ -40,7 +52,7 @@
       "translation": "online",
       "source": "ESPN 足球",
       "url": "https://www.espn.com/soccer/story/_/id/49339724/switzerland-breel-embolo-red-card-diving-var-argentina-2026-world-cup",
-      "publishedAt": "2026-07-12T20:24:01+00:00",
+      "publishedAt": "2026-07-12T21:25:11+00:00",
       "heat": 48
     },
     {
@@ -52,32 +64,80 @@
       "translation": "online",
       "source": "ESPN 足球",
       "url": "https://www.espn.com/soccer/story/_/id/49341436/lionel-messi-praises-not-normal-argentina-world-cup-semifinal-awaits",
-      "publishedAt": "2026-07-12T20:24:00+00:00",
+      "publishedAt": "2026-07-12T21:25:10+00:00",
       "heat": 48
     },
     {
-      "id": "espn-足球-fifa-denies-ball-hit-wire-in-england-s-first-goal",
-      "title": "国际足联否认英格兰队第一个进球是球击中钢丝",
-      "summary": "国际足联表示，“没有证据表明”英格兰在三狮军团2-1战胜挪威的世界杯四分之一决赛中扳平比分之前，球击中了架空电线。",
-      "originalTitle": "FIFA denies ball hit wire in England's first goal",
-      "originalSummary": "FIFA stated there is \"no evidence\" the ball struck an overhead wire before England's equalizing goal against Norway in the Three Lions' 2-1 World Cup quarterfinals victory.",
+      "id": "google-news-watch-world-cup-england-beat-norway-to-set-up-semifinal-against-argentina-al-jazeera",
+      "title": "观看世界杯：英格兰击败挪威进入半决赛对阵阿根廷 - 半岛电视台",
+      "summary": "观看世界杯：英格兰队击败挪威队进入半决赛对阵阿根廷队",
+      "originalTitle": "Watch World Cup: England beat Norway to set up semifinal against Argentina - Al Jazeera",
+      "originalSummary": "Watch World Cup: England beat Norway to set up semifinal against Argentina  Al Jazeera",
       "translation": "online",
-      "source": "ESPN 足球",
-      "url": "https://www.espn.com/soccer/story/_/id/49337953/england-norway-world-cup-goal-ball-camera-cable-jude-bellingham",
-      "publishedAt": "2026-07-12T20:24:00+00:00",
-      "heat": 56
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aY1lwQ1YtbUhBYWZtLWhjc3AtU0ZFMXZ4QlpsZ2h6RHNFMG13eGRVZnNqaC1TV2xpZExvSjBobGRrOXRXakhxamZMS2NZRktadWN4UGZVcHpMS0hVV3lSbU1yenlyRDBlVHduM0M1SHBlWTlGUmNnNC0tLWowd9IBgwFBVV95cUxPUUhxU3c2VThHblJ3STZWcDBlUmNIQlE0aUxUVjNKYVNCdlo1Y3RhekVLU1JsU1JYdlpyZHhnXzNKX2xITGFoazN6VmY5dWptY0cxYktFSXBDUHFWUTJ2RVpFR09TT1pUb29OMkhYN2V0SE9oejgyT29zTEhCSlN3VjJGVQ?oc=5",
+      "publishedAt": "2026-07-12T20:56:20+00:00",
+      "heat": 52
     },
     {
-      "id": "espn-足球-does-pulisic-deserve-blame-for-usmnt-woes",
-      "title": "⚽ 普利西奇应该为美国国家队的困境承担责任吗？",
-      "summary": "今年夏天，克里斯蒂安·普利西奇在家乡世界杯上表现出色，这是他的巅峰时刻，但由于多种原因，他未能实现这一目标。",
-      "originalTitle": "⚽ Does Pulisic deserve blame for USMNT woes?",
-      "originalSummary": "In his prime at a World Cup on home soil, this summer was Christian Pulisic's moment, but for a number of reasons, he failed to meet it.",
+      "id": "google-news-2026-fifa-world-cup-attendance-breaks-record-surpassing-russia-2018-and-qatar-2022-combined-bein-sports",
+      "title": "2026 年 FIFA 世界杯入场人数打破纪录，超过 2018 年俄罗斯世界杯和 2022 年卡塔尔世界杯观众人数总和 - beIN SPORTS",
+      "summary": "2026 年 FIFA 世界杯入场人数打破纪录，超过 2018 年俄罗斯世界杯和 2022 年卡塔尔世界杯观众人数总和",
+      "originalTitle": "2026 FIFA World Cup attendance breaks record, surpassing Russia 2018 and Qatar 2022 combined - beIN SPORTS",
+      "originalSummary": "2026 FIFA World Cup attendance breaks record, surpassing Russia 2018 and Qatar 2022 combined  beIN SPORTS",
       "translation": "online",
-      "source": "ESPN 足球",
-      "url": "https://www.espn.com/soccer/story/_/id/49317008/instead-being-usmnt-biggest-world-cup-star-pulisic-was-biggest-mystery",
-      "publishedAt": "2026-07-12T20:24:00+00:00",
-      "heat": 48
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxPUk0xa1gwNW1WVmRUTklnLTJuSVpYRlpMa3N2cl9aZ04tMHF5U3NsMl9MOGFERU1odVFmLXZqLW50Sl9SeFhfWkNtcG55SVRzODVRVjBNX0VjZjF0Slh4RVlISUEwWVpYdHdvVUh6S0cxVFBqMGJuMnd5QXU3VUR3dHMyWUczRmNXS0hPbEN1clBUS0dhYVpYV3J2bVlXYlkyZGdsMERSWGNTa1FzbGE0X0ExMGFqdkpVaUltdnJjLWluaXR5ckJwWFJUeE04S3psY050Z1FRRGtPeVFOaTh2d2ZZajBCTXZPY0NPX3ZLV0lpa2s1ZGpOcXhobUZZa2pPNDJTMUEtOHZ3ZVRPNWlPUjNwa3U?oc=5",
+      "publishedAt": "2026-07-12T20:53:26+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-ranking-the-possible-world-cup-final-matchups-is-france-vs-argentina-no-1-nbc-6-south-florida",
+      "title": "世界杯决赛可能对阵排名：法国VS阿根廷是第一吗？ - NBC 6 南佛罗里达",
+      "summary": "世界杯决赛可能对阵排名：法国VS阿根廷是第一吗？  NBC 6 南佛罗里达",
+      "originalTitle": "Ranking the possible World Cup final matchups: Is France vs. Argentina No. 1? - NBC 6 South Florida",
+      "originalSummary": "Ranking the possible World Cup final matchups: Is France vs. Argentina No. 1?  NBC 6 South Florida",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQc3BvXy1lYl9fQnpLWG9ScllacDN4Y3hPR3dlV2M1UXBEc1VyQjNRUXBycmpELUtFdC1WYnNKamJkYlBobV9NaHV4dk1BNmlaa21zSXVSdDgzaDRwUFdqS3NKaXdtUGI0bVBJUlZTUTlsMTJYVEpyWXdEZTE3QXNkdEFEczZubElEWEFpdXBtQ2lGZFk3VHVLcWlJakZFUdIBpgFBVV95cUxOd0JaWUx4dUs1WjI2R0tEVENSQThXTjlRRmRLS3d4T3ZYeFNEejE3NTVrR2pFWFQ0VmJybWdEQjBMUlA4RnkxMGFzTDNEYjRsU256cGM4WXNOWktHOHB4bV9Wc0xGMXhqeE1jMjRlbXZHYnpSa3ZkTUljYWxuejFhaVpHU2lQdHNpRW1mX2JzLWQ2cHNoOXdjR25zRU1Ea05CdGo3YVZR?oc=5",
+      "publishedAt": "2026-07-12T20:39:07+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-sun-devil-alumni-cool-things-down-for-fifa-world-cup-fans-the-state-press",
+      "title": "太阳魔鬼校友为 FIFA 世界杯球迷降温 - 国家新闻社",
+      "summary": "太阳魔鬼校友为 FIFA 世界杯球迷降温 - 国家新闻社",
+      "originalTitle": "Sun Devil alumni cool things down for FIFA World Cup fans - The State Press",
+      "originalSummary": "Sun Devil alumni cool things down for FIFA World Cup fans  The State Press",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORF9fOVpJTkpWSXh0dEloQ3RDOGNnNjJaekt5ekZLTmdBMnllaVQ5M21PVTdOd1hXN3liYVZiT0JsYXh4VS1SUXdBSjc1UFRqOUFPMEd1N2pQSkpwR1g3alB6ZHJQTENVVjJNQnR3cUpHaElfRTk2QnBlSEhYVWZWVQ?oc=5",
+      "publishedAt": "2026-07-12T20:27:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-diego-forlán-takes-charge-of-uruguay-after-world-cup-disappointment-bein-sports",
+      "title": "迭戈·弗兰在世界杯失利后接手乌拉圭队 - beIN SPORTS",
+      "summary": "迭戈·弗兰在世界杯失利后接手乌拉圭队 - beIN SPORTS",
+      "originalTitle": "Diego Forlán Takes Charge of Uruguay After World Cup Disappointment - beIN SPORTS",
+      "originalSummary": "Diego Forlán Takes Charge of Uruguay After World Cup Disappointment  beIN SPORTS",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPSkRFaDQ5cWQ5c3huRmhQSWg1ODUzdFdpMFFCT1JlRHJidUFOeFZhWmxvbExRZWIwYlJkZDNfb09WMU5BVXdTdHMyYkwyREZTMzJQOHlmTzhXbVNXTDlkbmllcEZIcm9uWTdrYV81aE1jM0dYMEk2M2lqaTUzTmdhZV9oelVONzVJYXJoQnVVcmJwWFN2OEp6TlVCRWN0cWFMcnlpb3lYUWhMdU1qcmlvUGRJSUUzNjk0eFZyYUpncVZKaEpfUUtpVzFiV2NFa2pINlJXYXVuSkN5LVQ0X01tMUQyNzhGZDQ?oc=5",
+      "publishedAt": "2026-07-12T20:13:59+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-livestream-how-to-watch-the-semifinals-this-week-even-for-free-pcmag",
+      "title": "2026 年 FIFA 世界杯直播：如何观看本周的半决赛，甚至是免费的 - PCMag",
+      "summary": "2026 年 FIFA 世界杯直播：如何观看本周的半决赛，即使是免费的 PCMag",
+      "originalTitle": "2026 FIFA World Cup Livestream: How to Watch the Semifinals This Week, Even for Free - PCMag",
+      "originalSummary": "2026 FIFA World Cup Livestream: How to Watch the Semifinals This Week, Even for Free  PCMag",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2VRQ3MxZ09hdlhPTXlyanRJcW9UcGY0dHVoV0tkVFRTT1NRRmVDR3JGZlp3QlRmdUNra1A0M2ZNVnZEZGdXNTBIVWhZSGZqd3A3ZEducTBXM3FvZmlOd0daU3hhbWFPZ2swUVlyVENpdmQ2ajJGbWZCb2lURXdIUDZxeGkzXzZ4ZmdWN250b2Q?oc=5",
+      "publishedAt": "2026-07-12T19:53:08+00:00",
+      "heat": 68
     },
     {
       "id": "espn-足球-world-cup-daily-live-spidercam-debate-rumbles-on",
@@ -162,66 +222,6 @@
       "url": "https://www.espn.com/soccer/story/_/id/49334623/fifa-world-cup-semifinal-preview-predictions-odds-argentina-england-france-spain",
       "publishedAt": "2026-07-12T19:31:34+00:00",
       "heat": 56
-    },
-    {
-      "id": "google-news-people-will-remember-this-run-from-erling-haaland-and-norway-at-the-2026-fifa-world-cup-fox-sports",
-      "title": "人们将会记住埃尔林·哈兰德和挪威队在 2026 年 FIFA 世界杯™ 上的这场比赛🇳🇴 - 福克斯体育",
-      "summary": "人们将会记住埃尔林·哈兰德和挪威队在 2026 年 FIFA 世界杯™ 上的这场比赛🇳🇴  福克斯体育",
-      "originalTitle": "People will remember this run from Erling Haaland and Norway at the 2026 FIFA World Cup™ 🇳🇴 - FOX Sports",
-      "originalSummary": "People will remember this run from Erling Haaland and Norway at the 2026 FIFA World Cup™ 🇳🇴  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBJUkFOenI2NExKT3lBVGJSWXRWVFRoOXBfbG9LSndnVXZBTjFaUXZCamlGUTd3QUU2WHZneDJhOU5KR0RvUVVwUXhDZ2NfQ19KYkx3bE9KS1JZVUtHeUhrTTlhdjRBV09jNWNFWVNn?oc=5",
-      "publishedAt": "2026-07-12T19:27:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-世界盃四強出爐-fifa-top4首度齊聚-新唐人電視台",
-      "title": "世界盃四強出爐 FIFA Top4首度齊聚 - 新唐人電視台",
-      "summary": "世界盃四強出爐 FIFA Top4首度齊聚  新唐人電視台",
-      "originalTitle": "世界盃四強出爐 FIFA Top4首度齊聚 - 新唐人電視台",
-      "originalSummary": "世界盃四強出爐 FIFA Top4首度齊聚  新唐人電視台",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1QZ2t1UDljbkQzb1dLWFhralA0UzhzVW5Cajl0VWN2OFF4LW5vcnFudlllZllXa2tRZ0c4dWd5UHgtMkJvXzE1c1JhUE5QSG1rV05OSTVvNzVUT3VkOVFkc9IBZkFVX3lxTE5FaVpGeXpOcVl3dERxMlFKdXhTLWZaQy1pZk9MMThaYW8wRWdNQW8yS3NPc2pEYU9jSnNxaUhObjlZYmlUS0RQXzgyS185MzdzMGs0ZzdOMlgwUTR3cDREUFMyRGtjUQ?oc=5",
-      "publishedAt": "2026-07-12T19:20:46+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-feuerstein-s-fire-2026-fifa-world-cup-quarterfinals-matchday-review-show-2-beyond-the-90",
-      "title": "Feuerstein 之火 2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 - Beyond The 90",
-      "summary": "Feuerstein 的《Fire》2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 超越 90 强",
-      "originalTitle": "Feuerstein's Fire 2026 FIFA World Cup Quarterfinals Matchday Review Show #2 - Beyond The 90",
-      "originalSummary": "Feuerstein's Fire 2026 FIFA World Cup Quarterfinals Matchday Review Show #2  Beyond The 90",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9xMFYxa0lYanBSSGMxa2VnRmppSDhOT3gyRzZBWGNnTl9aT2RtQmtNc1dFODRJbFJGRFBKQUhoTTZaTjYxamlHRHlHcTI5M1ZMMTZUSFZyRnZXUUFKWEFiQWEwb1dtaVpaZDVCejVrT21MYXRpM1JRR2prdw?oc=5",
-      "publishedAt": "2026-07-12T19:19:35+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-livestream-how-to-watch-the-semifinals-this-week-even-for-free-pcmag",
-      "title": "2026 年 FIFA 世界杯直播：如何观看本周的半决赛，甚至是免费的 - PCMag",
-      "summary": "2026 年 FIFA 世界杯直播：如何观看本周的半决赛，即使是免费的 PCMag",
-      "originalTitle": "2026 FIFA World Cup Livestream: How to Watch the Semifinals This Week, Even for Free - PCMag",
-      "originalSummary": "2026 FIFA World Cup Livestream: How to Watch the Semifinals This Week, Even for Free  PCMag",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNT2VRQ3MxZ09hdlhPTXlyanRJcW9UcGY0dHVoV0tkVFRTT1NRRmVDR3JGZlp3QlRmdUNra1A0M2ZNVnZEZGdXNTBIVWhZSGZqd3A3ZEducTBXM3FvZmlOd0daU3hhbWFPZ2swUVlyVENpdmQ2ajJGbWZCb2lURXdIUDZxeGkzXzZ4ZmdWN250b2Q?oc=5",
-      "publishedAt": "2026-07-12T18:59:43+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-kansas-city-crews-waste-no-time-cleaning-up-fifa-fan-festival-after-final-world-cup-match-kcur",
-      "title": "堪萨斯城工作人员在世界杯决赛后立即清理国际足联球迷节 - KCUR",
-      "summary": "堪萨斯城工作人员在世界杯决赛结束后立即清理 FIFA 球迷节 KCUR",
-      "originalTitle": "Kansas City crews waste no time cleaning up FIFA Fan Festival after final World Cup match - KCUR",
-      "originalSummary": "Kansas City crews waste no time cleaning up FIFA Fan Festival after final World Cup match  KCUR",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdnM3RVV2ci1qMDJlYl9NdjVtNjFYV0dGd0FkYThQeXktZFpqNmJLU3N5QXlGSHJheTMxYmM2QkdZN0NmU1Nva3V4ZkQ4X2JDQlUtdlpQSThENVNvOWZ6dTlHbEY0ZU9VbklTcDdhZDFmU3p2eDRDblJTQ09VRF9qdndDV2hpQQ?oc=5",
-      "publishedAt": "2026-07-12T18:59:00+00:00",
-      "heat": 60
     }
   ]
 }
