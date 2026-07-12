@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T01:08:28.969021+00:00",
+  "updatedAt": "2026-07-12T04:55:34.279961+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -437,7 +437,7 @@
           "shotsOnTarget": 4.0,
           "corners": 7.0,
           "possession": 47.6,
-          "passes": 576.0,
+          "passes": 577.0,
           "redCards": 0.0
         },
         "away": {
@@ -723,7 +723,7 @@
           "team": "",
           "text": "Second Half Extra Time ends, Norway 1, England 2.",
           "scoringPlay": false,
-          "wallclock": "2026-07-11T23:46:45Z"
+          "wallclock": "2026-07-11T23:46:33Z"
         }
       ],
       "note": "",
@@ -861,80 +861,64 @@
       "id": "espn-760513",
       "espnEventId": "760513",
       "kickoffUtc": "2026-07-12T01:00Z",
-      "status": "live",
-      "detail": "7'",
-      "minute": 7,
+      "status": "ft",
+      "detail": "AET",
+      "minute": 120,
       "homeName": "Argentina",
       "awayName": "Switzerland",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0.2,
+      "homeGoals": 3,
+      "awayGoals": 1,
+      "homeXg": 3.58,
+      "awayXg": 1.97,
       "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": 5,
-      "marketMove": 1,
+      "awayRedCards": 1,
+      "tempo": 10,
+      "marketMove": -1,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 30.9,
-          "passes": 25.0,
+          "shots": 22.0,
+          "shotsOnTarget": 7.0,
+          "corners": 8.0,
+          "possession": 59.1,
+          "passes": 692.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 2.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 69.1,
-          "passes": 53.0,
-          "redCards": 0.0
+          "shots": 11.0,
+          "shotsOnTarget": 5.0,
+          "corners": 2.0,
+          "possession": 40.9,
+          "passes": 474.0,
+          "redCards": 1.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-145",
-        "drawMoneyline": "+255",
-        "awayMoneyline": "+425",
+        "homeMoneyline": "-135",
+        "drawMoneyline": "+225",
+        "awayMoneyline": "+500",
         "homeOpenMoneyline": "-140",
         "spreadLine": "-0.5",
-        "spreadOdds": "-155",
+        "spreadOdds": "-140",
         "totalLine": "o2.5",
-        "overOdds": "+143",
-        "underOdds": "-171"
+        "overOdds": "+130",
+        "underOdds": "-160"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "-145",
-          "drawMoneyline": "+255",
-          "awayMoneyline": "+425",
+          "scope": "pregame",
+          "homeMoneyline": "-135",
+          "drawMoneyline": "+225",
+          "awayMoneyline": "+500",
           "spreadLine": "-0.5",
-          "spreadOdds": "-155",
+          "spreadOdds": "-140",
           "totalLine": "o2.5",
-          "overOdds": "+143",
-          "underOdds": "-171",
-          "homeImplied": 0.5918367346938775,
-          "drawImplied": 0.28169014084507044,
-          "awayImplied": 0.19047619047619047,
-          "available": true
-        },
-        {
-          "provider": "DraftKings - Live Odds",
-          "scope": "live",
-          "homeMoneyline": "-145",
-          "drawMoneyline": "255.0",
-          "awayMoneyline": "425",
-          "spreadLine": "ARG -145",
-          "spreadOdds": null,
-          "totalLine": "2.5",
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": 0.5918367346938775,
-          "drawImplied": 0.28169014084507044,
-          "awayImplied": 0.19047619047619047,
+          "overOdds": "+130",
+          "underOdds": "-160",
+          "homeImplied": 0.574468085106383,
+          "drawImplied": 0.3076923076923077,
+          "awayImplied": 0.16666666666666666,
           "available": true
         },
         {
@@ -1036,20 +1020,137 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 2,
+        "espn": 1,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
       "events": [
         {
-          "id": "49769464",
-          "minute": "",
-          "type": "kickoff",
-          "team": "",
-          "text": "First Half begins.",
+          "id": "49772414",
+          "minute": "98'",
+          "type": "yellow-card",
+          "team": "Argentina",
+          "text": "Lautaro Martínez (Argentina) is shown the yellow card for a bad foul.",
           "scoringPlay": false,
-          "wallclock": "2026-07-12T01:00:41Z"
+          "wallclock": "2026-07-12T03:13:22Z"
+        },
+        {
+          "id": "49772543",
+          "minute": "105'+2'",
+          "type": "halftime-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:22:10Z"
+        },
+        {
+          "id": "49772550",
+          "minute": "105'",
+          "type": "substitution",
+          "team": "Argentina",
+          "text": "Substitution, Argentina. Nicolás Otamendi replaces Cristian Romero.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:24:37Z"
+        },
+        {
+          "id": "49772561",
+          "minute": "105'",
+          "type": "start-2nd-half-extra-time",
+          "team": "",
+          "text": "Second Half Extra Time begins Argentina 1, Switzerland 1.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:25:23Z"
+        },
+        {
+          "id": "49772628",
+          "minute": "110'",
+          "type": "substitution",
+          "team": "Argentina",
+          "text": "Substitution, Argentina. José Manuel López replaces Leandro Paredes because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:29:38Z"
+        },
+        {
+          "id": "49772661",
+          "minute": "112'",
+          "type": "goal",
+          "team": "Argentina",
+          "text": "Goal! Argentina 2, Switzerland 1. Julián Alvarez (Argentina) right footed shot from outside the box to the top right corner. Assisted by José Manuel López.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-12T03:32:05Z"
+        },
+        {
+          "id": "49772671",
+          "minute": "114'",
+          "type": "yellow-card",
+          "team": "Argentina",
+          "text": "José Manuel López (Argentina) is shown the yellow card.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:34:09Z"
+        },
+        {
+          "id": "49772674",
+          "minute": "115'",
+          "type": "substitution",
+          "team": "Switzerland",
+          "text": "Substitution, Switzerland. Rubén Vargas replaces Remo Freuler.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:34:45Z"
+        },
+        {
+          "id": "49772697",
+          "minute": "116'",
+          "type": "start-delay",
+          "team": "Argentina",
+          "text": "Delay in match because of an injury Emiliano Martínez (Argentina).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:36:03Z"
+        },
+        {
+          "id": "49772700",
+          "minute": "116'",
+          "type": "start-delay",
+          "team": "Switzerland",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:36:03Z"
+        },
+        {
+          "id": "49772699",
+          "minute": "117'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:36:28Z"
+        },
+        {
+          "id": "49772701",
+          "minute": "117'",
+          "type": "end-delay",
+          "team": "Switzerland",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:36:29Z"
+        },
+        {
+          "id": "49772761",
+          "minute": "120'+1'",
+          "type": "goal",
+          "team": "Argentina",
+          "text": "Goal! Argentina 3, Switzerland 1. Lautaro Martínez (Argentina) right footed shot from the centre of the box to the bottom right corner following a fast break.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-12T03:41:07Z"
+        },
+        {
+          "id": "49772783",
+          "minute": "120'+4'",
+          "type": "end-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-12T03:44:36Z"
         }
       ],
       "note": "",
@@ -1098,6 +1199,15 @@
           "awayMoneyline": "+425",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 120,
+          "marketMove": -1,
+          "homeMoneyline": "-135",
+          "drawMoneyline": "+225",
+          "awayMoneyline": "+500",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -1114,6 +1224,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0.2
+        },
+        {
+          "minute": 120,
+          "homeGoals": 3,
+          "awayGoals": 1,
+          "homeXg": 3.58,
+          "awayXg": 1.97
         }
       ]
     },
@@ -1159,9 +1276,9 @@
         "awayMoneyline": "+220",
         "homeOpenMoneyline": "+135",
         "spreadLine": "-0.5",
-        "spreadOdds": "+130",
+        "spreadOdds": "+125",
         "totalLine": "o2.5",
-        "overOdds": "-110",
+        "overOdds": "-115",
         "underOdds": "-110"
       },
       "bookmakers": [
@@ -1172,9 +1289,9 @@
           "drawMoneyline": "+225",
           "awayMoneyline": "+220",
           "spreadLine": "-0.5",
-          "spreadOdds": "+130",
+          "spreadOdds": "+125",
           "totalLine": "o2.5",
-          "overOdds": "-110",
+          "overOdds": "-115",
           "underOdds": "-110",
           "homeImplied": 0.425531914893617,
           "drawImplied": 0.3076923076923077,
