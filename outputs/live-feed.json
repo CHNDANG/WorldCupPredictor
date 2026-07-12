@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-12T04:55:34.279961+00:00",
+  "updatedAt": "2026-07-12T07:31:32.251225+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -879,15 +879,15 @@
           "shots": 22.0,
           "shotsOnTarget": 7.0,
           "corners": 8.0,
-          "possession": 59.1,
-          "passes": 692.0,
+          "possession": 59.0,
+          "passes": 691.0,
           "redCards": 0.0
         },
         "away": {
           "shots": 11.0,
           "shotsOnTarget": 5.0,
           "corners": 2.0,
-          "possession": 40.9,
+          "possession": 41.0,
           "passes": 474.0,
           "redCards": 1.0
         }
