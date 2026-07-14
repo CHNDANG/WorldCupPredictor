@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T11:08:16.834276+00:00",
+  "updatedAt": "2026-07-14T12:48:34.493784+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -41,8 +41,8 @@
       "odds": {
         "provider": "DraftKings",
         "homeMoneyline": "+140",
-        "drawMoneyline": "+215",
-        "awayMoneyline": "+215",
+        "drawMoneyline": "+205",
+        "awayMoneyline": "+220",
         "homeOpenMoneyline": "+135",
         "spreadLine": "-0.5",
         "spreadOdds": "+135",
@@ -55,16 +55,16 @@
           "provider": "DraftKings",
           "scope": "pregame",
           "homeMoneyline": "+140",
-          "drawMoneyline": "+215",
-          "awayMoneyline": "+215",
+          "drawMoneyline": "+205",
+          "awayMoneyline": "+220",
           "spreadLine": "-0.5",
           "spreadOdds": "+135",
           "totalLine": "o2.5",
           "overOdds": "-105",
           "underOdds": "-115",
           "homeImplied": 0.4166666666666667,
-          "drawImplied": 0.31746031746031744,
-          "awayImplied": 0.31746031746031744,
+          "drawImplied": 0.32786885245901637,
+          "awayImplied": 0.3125,
           "available": true
         },
         {
@@ -227,6 +227,15 @@
           "awayMoneyline": "+215",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": -1,
+          "homeMoneyline": "+140",
+          "drawMoneyline": "+205",
+          "awayMoneyline": "+220",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -284,7 +293,7 @@
         "spreadOdds": "+160",
         "totalLine": "o2.5",
         "overOdds": "+130",
-        "underOdds": "-160"
+        "underOdds": "-165"
       },
       "bookmakers": [
         {
@@ -297,7 +306,7 @@
           "spreadOdds": "+160",
           "totalLine": "o2.5",
           "overOdds": "+130",
-          "underOdds": "-160",
+          "underOdds": "-165",
           "homeImplied": 0.37735849056603776,
           "drawImplied": 0.3448275862068966,
           "awayImplied": 0.3333333333333333,
