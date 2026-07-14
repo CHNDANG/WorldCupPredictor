@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-14T20:39:51.104354+00:00",
+  "updatedAt": "2026-07-14T22:02:37.684506+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -7,64 +7,64 @@
       "id": "espn-760514",
       "espnEventId": "760514",
       "kickoffUtc": "2026-07-14T19:00Z",
-      "status": "live",
-      "detail": "78'",
-      "minute": 78,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "France",
       "awayName": "Spain",
       "homeGoals": 0,
       "awayGoals": 2,
-      "homeXg": 0.69,
-      "awayXg": 1.6,
+      "homeXg": 1.67,
+      "awayXg": 1.76,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": -2,
-      "marketMove": -30,
+      "tempo": 5,
+      "marketMove": -5,
       "stats": {
         "home": {
-          "shots": 5.0,
-          "shotsOnTarget": 0.0,
-          "corners": 6.0,
-          "possession": 47.8,
-          "passes": 369.0,
+          "shots": 10.0,
+          "shotsOnTarget": 3.0,
+          "corners": 7.0,
+          "possession": 49.1,
+          "passes": 472.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 8.0,
+          "shots": 10.0,
           "shotsOnTarget": 2.0,
           "corners": 1.0,
-          "possession": 52.2,
-          "passes": 411.0,
+          "possession": 50.9,
+          "passes": 500.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+5000",
-        "drawMoneyline": "+900",
-        "awayMoneyline": "-1600",
+        "homeMoneyline": "+160",
+        "drawMoneyline": "+190",
+        "awayMoneyline": "+210",
         "homeOpenMoneyline": "+135",
-        "spreadLine": "+1.5",
-        "spreadOdds": "+175",
+        "spreadLine": "-0.5",
+        "spreadOdds": "+150",
         "totalLine": "o2.5",
-        "overOdds": "-175",
-        "underOdds": "+146"
+        "overOdds": "-115",
+        "underOdds": "-105"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "+5000",
-          "drawMoneyline": "+900",
-          "awayMoneyline": "-1600",
-          "spreadLine": "+1.5",
-          "spreadOdds": "+175",
+          "scope": "pregame",
+          "homeMoneyline": "+160",
+          "drawMoneyline": "+190",
+          "awayMoneyline": "+210",
+          "spreadLine": "-0.5",
+          "spreadOdds": "+150",
           "totalLine": "o2.5",
-          "overOdds": "-175",
-          "underOdds": "+146",
-          "homeImplied": 0.0196078431372549,
-          "drawImplied": 0.1,
-          "awayImplied": 0.9411764705882353,
+          "overOdds": "-115",
+          "underOdds": "-105",
+          "homeImplied": 0.38461538461538464,
+          "drawImplied": 0.3448275862068966,
+          "awayImplied": 0.3225806451612903,
           "available": true
         },
         {
@@ -82,22 +82,6 @@
           "drawImplied": null,
           "awayImplied": null,
           "available": false
-        },
-        {
-          "provider": "DraftKings - Live Odds",
-          "scope": "live",
-          "homeMoneyline": "5000",
-          "drawMoneyline": "900.0",
-          "awayMoneyline": "-1600",
-          "spreadLine": "ESP -1600",
-          "spreadOdds": null,
-          "totalLine": "2.5",
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": 0.0196078431372549,
-          "drawImplied": 0.1,
-          "awayImplied": 0.9411764705882353,
-          "available": true
         },
         {
           "provider": "Pinnacle",
@@ -198,66 +182,12 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 2,
+        "espn": 1,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
       "events": [
-        {
-          "id": "49793021",
-          "minute": "45'+7'",
-          "type": "halftime",
-          "team": "",
-          "text": "First Half ends, France 0, Spain 1.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-14T19:51:22Z"
-        },
-        {
-          "id": "49793060",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Manu Koné replaces Adrien Rabiot.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-14T20:04:52Z"
-        },
-        {
-          "id": "49793075",
-          "minute": "45'",
-          "type": "start-2nd-half",
-          "team": "",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-14T20:06:58Z"
-        },
-        {
-          "id": "49793341",
-          "minute": "57'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Désiré Doué replaces Bradley Barcola.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-14T20:18:09Z"
-        },
-        {
-          "id": "49793380",
-          "minute": "58'",
-          "type": "goal",
-          "team": "Spain",
-          "text": "Goal! France 0, Spain 2. Pedro Porro (Spain) right footed shot from the centre of the box to the bottom right corner. Assisted by Dani Olmo.",
-          "scoringPlay": true,
-          "wallclock": "2026-07-14T20:19:32Z"
-        },
-        {
-          "id": "49793631",
-          "minute": "69'",
-          "type": "start-delay",
-          "team": "Spain",
-          "text": "Delay in match for a drinks break.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-14T20:30:46Z"
-        },
         {
           "id": "49793630",
           "minute": "69'",
@@ -283,7 +213,7 @@
           "team": "France",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:33:42Z"
+          "wallclock": "2026-07-14T20:33:05Z"
         },
         {
           "id": "49793645",
@@ -301,7 +231,7 @@
           "team": "France",
           "text": "Substitution, France. Rayan Cherki replaces Michael Olise.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:33:58Z"
+          "wallclock": "2026-07-14T20:33:59Z"
         },
         {
           "id": "49793684",
@@ -317,7 +247,7 @@
           "minute": "78'",
           "type": "substitution",
           "team": "Spain",
-          "text": "Mikel Merino (Spain) Substitution at 78'",
+          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
           "scoringPlay": false,
           "wallclock": "2026-07-14T20:39:03Z"
         },
@@ -326,9 +256,63 @@
           "minute": "78'",
           "type": "substitution",
           "team": "Spain",
-          "text": "Pedri (Spain) Substitution at 78'",
+          "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
           "scoringPlay": false,
           "wallclock": "2026-07-14T20:39:10Z"
+        },
+        {
+          "id": "49793846",
+          "minute": "83'",
+          "type": "start-delay",
+          "team": "France",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:44:41Z"
+        },
+        {
+          "id": "49793849",
+          "minute": "84'",
+          "type": "end-delay",
+          "team": "France",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:45:07Z"
+        },
+        {
+          "id": "49793850",
+          "minute": "84'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Marcos Llorente replaces Pedro Porro.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:45:11Z"
+        },
+        {
+          "id": "49793852",
+          "minute": "84'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Nico Williams replaces Álex Baena.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:45:12Z"
+        },
+        {
+          "id": "49793901",
+          "minute": "86'",
+          "type": "yellow-card",
+          "team": "France",
+          "text": "Kylian Mbappé (France) is shown the yellow card for a bad foul.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:47:44Z"
+        },
+        {
+          "id": "49794100",
+          "minute": "90'+7'",
+          "type": "end-regular-time",
+          "team": "",
+          "text": "Second Half ends, France 0, Spain 2.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-14T20:59:11Z"
         }
       ],
       "note": "",
@@ -422,6 +406,15 @@
           "awayMoneyline": "-1600",
           "spreadLine": "+1.5",
           "totalLine": "o2.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": -5,
+          "homeMoneyline": "+160",
+          "drawMoneyline": "+190",
+          "awayMoneyline": "+210",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -445,6 +438,13 @@
           "awayGoals": 2,
           "homeXg": 0.69,
           "awayXg": 1.6
+        },
+        {
+          "minute": 90,
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "homeXg": 1.67,
+          "awayXg": 1.76
         }
       ]
     },
@@ -492,8 +492,8 @@
         "spreadLine": "-0.5",
         "spreadOdds": "+170",
         "totalLine": "o2.5",
-        "overOdds": "+130",
-        "underOdds": "-165"
+        "overOdds": "+135",
+        "underOdds": "-170"
       },
       "bookmakers": [
         {
@@ -505,8 +505,8 @@
           "spreadLine": "-0.5",
           "spreadOdds": "+170",
           "totalLine": "o2.5",
-          "overOdds": "+130",
-          "underOdds": "-165",
+          "overOdds": "+135",
+          "underOdds": "-170",
           "homeImplied": 0.36363636363636365,
           "drawImplied": 0.3508771929824561,
           "awayImplied": 0.3448275862068966,
