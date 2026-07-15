@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T19:45:55.566655+00:00",
+  "updatedAt": "2026-07-15T21:04:55.885455+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -231,7 +231,7 @@
           "team": "France",
           "text": "Substitution, France. Rayan Cherki replaces Michael Olise.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:33:58Z"
+          "wallclock": "2026-07-14T20:33:59Z"
         },
         {
           "id": "49793684",
@@ -240,7 +240,7 @@
           "team": "Spain",
           "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:35:46Z"
+          "wallclock": "2026-07-14T20:35:47Z"
         },
         {
           "id": "49793726",
@@ -249,7 +249,7 @@
           "team": "Spain",
           "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:39:02Z"
+          "wallclock": "2026-07-14T20:39:03Z"
         },
         {
           "id": "49793727",
@@ -258,7 +258,7 @@
           "team": "Spain",
           "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:39:09Z"
+          "wallclock": "2026-07-14T20:39:10Z"
         },
         {
           "id": "49793846",
@@ -285,7 +285,7 @@
           "team": "Spain",
           "text": "Substitution, Spain. Marcos Llorente replaces Pedro Porro.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:45:10Z"
+          "wallclock": "2026-07-14T20:45:11Z"
         },
         {
           "id": "49793852",
@@ -303,7 +303,7 @@
           "team": "France",
           "text": "Kylian Mbappé (France) is shown the yellow card for a bad foul.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:47:43Z"
+          "wallclock": "2026-07-14T20:47:44Z"
         },
         {
           "id": "49794100",
@@ -312,7 +312,7 @@
           "team": "",
           "text": "Second Half ends, France 0, Spain 2.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:58:58Z"
+          "wallclock": "2026-07-14T20:59:11Z"
         }
       ],
       "note": "",
@@ -452,64 +452,64 @@
       "id": "espn-760515",
       "espnEventId": "760515",
       "kickoffUtc": "2026-07-15T19:00Z",
-      "status": "live",
-      "detail": "45'",
-      "minute": 45,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "England",
       "awayName": "Argentina",
-      "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0.12,
-      "awayXg": 0.24,
+      "homeGoals": 1,
+      "awayGoals": 2,
+      "homeXg": 0.91,
+      "awayXg": 2.43,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": -16,
-      "marketMove": -1,
+      "tempo": 5,
+      "marketMove": 2,
       "stats": {
         "home": {
-          "shots": 1.0,
-          "shotsOnTarget": 0.0,
-          "corners": 1.0,
-          "possession": 38.9,
-          "passes": 149.0,
+          "shots": 5.0,
+          "shotsOnTarget": 2.0,
+          "corners": 2.0,
+          "possession": 35.6,
+          "passes": 324.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 2.0,
-          "shotsOnTarget": 0.0,
-          "corners": 1.0,
-          "possession": 61.1,
-          "passes": 238.0,
+          "shots": 15.0,
+          "shotsOnTarget": 5.0,
+          "corners": 6.0,
+          "possession": 64.4,
+          "passes": 590.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+190",
-        "drawMoneyline": "+130",
-        "awayMoneyline": "+265",
+        "homeMoneyline": "+170",
+        "drawMoneyline": "+180",
+        "awayMoneyline": "+205",
         "homeOpenMoneyline": "+180",
         "spreadLine": "-0.5",
-        "spreadOdds": "+180",
-        "totalLine": "o1.5",
-        "overOdds": "+120",
-        "underOdds": "-143"
+        "spreadOdds": "+165",
+        "totalLine": "o2.5",
+        "overOdds": "+140",
+        "underOdds": "-175"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "+190",
-          "drawMoneyline": "+130",
-          "awayMoneyline": "+265",
+          "scope": "pregame",
+          "homeMoneyline": "+170",
+          "drawMoneyline": "+180",
+          "awayMoneyline": "+205",
           "spreadLine": "-0.5",
-          "spreadOdds": "+180",
-          "totalLine": "o1.5",
-          "overOdds": "+120",
-          "underOdds": "-143",
-          "homeImplied": 0.3448275862068966,
-          "drawImplied": 0.43478260869565216,
-          "awayImplied": 0.273972602739726,
+          "spreadOdds": "+165",
+          "totalLine": "o2.5",
+          "overOdds": "+140",
+          "underOdds": "-175",
+          "homeImplied": 0.37037037037037035,
+          "drawImplied": 0.35714285714285715,
+          "awayImplied": 0.32786885245901637,
           "available": true
         },
         {
@@ -527,22 +527,6 @@
           "drawImplied": null,
           "awayImplied": null,
           "available": false
-        },
-        {
-          "provider": "DraftKings - Live Odds",
-          "scope": "live",
-          "homeMoneyline": "190",
-          "drawMoneyline": "130.0",
-          "awayMoneyline": "265",
-          "spreadLine": "ENG +190",
-          "spreadOdds": null,
-          "totalLine": "1.5",
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": 0.3448275862068966,
-          "drawImplied": 0.43478260869565216,
-          "awayImplied": 0.273972602739726,
-          "available": true
         },
         {
           "provider": "Pinnacle",
@@ -643,110 +627,137 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 2,
+        "espn": 1,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
       "events": [
         {
-          "id": "49796192",
-          "minute": "",
-          "type": "kickoff",
+          "id": "49797548",
+          "minute": "82'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:42:35Z"
+        },
+        {
+          "id": "49797549",
+          "minute": "82'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:42:35Z"
+        },
+        {
+          "id": "49797550",
+          "minute": "82'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Dan Burn replaces Reece James because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:42:52Z"
+        },
+        {
+          "id": "49797552",
+          "minute": "82'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Nico O'Reilly replaces Declan Rice.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:43:04Z"
+        },
+        {
+          "id": "49797604",
+          "minute": "85'",
+          "type": "goal",
+          "team": "Argentina",
+          "text": "Goal! England 1, Argentina 1. Enzo Fernández (Argentina) right footed shot from outside the box to the bottom left corner. Assisted by Lionel Messi following a corner.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-15T20:46:00Z"
+        },
+        {
+          "id": "49797639",
+          "minute": "88'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "Delay in match because of an injury John Stones (England).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:49:05Z"
+        },
+        {
+          "id": "49797638",
+          "minute": "88'",
+          "type": "start-delay",
+          "team": "Argentina",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:49:05Z"
+        },
+        {
+          "id": "49797640",
+          "minute": "90'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:50:26Z"
+        },
+        {
+          "id": "49797642",
+          "minute": "90'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:50:25Z"
+        },
+        {
+          "id": "49797667",
+          "minute": "90'+2'",
+          "type": "goal---header",
+          "team": "Argentina",
+          "text": "Goal! England 1, Argentina 2. Lautaro Martínez (Argentina) header from very close range to the top left corner. Assisted by Lionel Messi with a cross.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-15T20:52:33Z"
+        },
+        {
+          "id": "49797670",
+          "minute": "90'+4'",
+          "type": "yellow-card",
+          "team": "Argentina",
+          "text": "Rodrigo De Paul (Argentina) is shown the yellow card.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:54:42Z"
+        },
+        {
+          "id": "49797694",
+          "minute": "90'+6'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Ivan Toney replaces John Stones.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:56:18Z"
+        },
+        {
+          "id": "49797695",
+          "minute": "90'+6'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Marcus Rashford replaces Djed Spence.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:56:35Z"
+        },
+        {
+          "id": "49797780",
+          "minute": "90'+12'",
+          "type": "end-regular-time",
           "team": "",
-          "text": "First Half begins.",
+          "text": "Second Half ends, England 1, Argentina 2.",
           "scoringPlay": false,
-          "wallclock": "2026-07-15T19:00:18Z"
-        },
-        {
-          "id": "49796371",
-          "minute": "12'",
-          "type": "start-delay",
-          "team": "Argentina",
-          "text": "Delay in match (Argentina).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:11:28Z"
-        },
-        {
-          "id": "49796372",
-          "minute": "12'",
-          "type": "start-delay",
-          "team": "England",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:11:28Z"
-        },
-        {
-          "id": "49796374",
-          "minute": "12'",
-          "type": "end-delay",
-          "team": "Argentina",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:12:15Z"
-        },
-        {
-          "id": "49796373",
-          "minute": "12'",
-          "type": "end-delay",
-          "team": "England",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:12:15Z"
-        },
-        {
-          "id": "49796571",
-          "minute": "25'",
-          "type": "start-delay",
-          "team": "Argentina",
-          "text": "Delay in match for a drinks break.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:24:39Z"
-        },
-        {
-          "id": "49796572",
-          "minute": "25'",
-          "type": "start-delay",
-          "team": "England",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:24:40Z"
-        },
-        {
-          "id": "49796574",
-          "minute": "28'",
-          "type": "end-delay",
-          "team": "Argentina",
-          "text": "Delay over. They are ready to continue.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:27:21Z"
-        },
-        {
-          "id": "49796575",
-          "minute": "28'",
-          "type": "end-delay",
-          "team": "England",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:27:21Z"
-        },
-        {
-          "id": "49796710",
-          "minute": "37'",
-          "type": "yellow-card",
-          "team": "England",
-          "text": "Elliot Anderson (England) is shown the yellow card for a bad foul.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:37:08Z"
-        },
-        {
-          "id": "49796783",
-          "minute": "42'",
-          "type": "yellow-card",
-          "team": "Argentina",
-          "text": "Lisandro Martínez (Argentina) is shown the yellow card for a bad foul.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T19:41:31Z"
+          "wallclock": "2026-07-15T21:02:50Z"
         }
       ],
       "note": "",
@@ -831,6 +842,15 @@
           "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "totalLine": "o1.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 2,
+          "homeMoneyline": "+170",
+          "drawMoneyline": "+180",
+          "awayMoneyline": "+205",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -847,6 +867,13 @@
           "awayGoals": 0,
           "homeXg": 0.12,
           "awayXg": 0.24
+        },
+        {
+          "minute": 90,
+          "homeGoals": 1,
+          "awayGoals": 2,
+          "homeXg": 0.91,
+          "awayXg": 2.43
         }
       ]
     }
