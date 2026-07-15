@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T06:36:52.528704+00:00",
+  "updatedAt": "2026-07-15T09:12:04.022898+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -464,7 +464,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 2,
+      "marketMove": 1,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -485,30 +485,30 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+165",
-        "drawMoneyline": "+190",
+        "homeMoneyline": "+175",
+        "drawMoneyline": "+185",
         "awayMoneyline": "+200",
         "homeOpenMoneyline": "+180",
         "spreadLine": "-0.5",
         "spreadOdds": "+165",
         "totalLine": "o2.5",
         "overOdds": "+140",
-        "underOdds": "-170"
+        "underOdds": "-175"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+165",
-          "drawMoneyline": "+190",
+          "homeMoneyline": "+175",
+          "drawMoneyline": "+185",
           "awayMoneyline": "+200",
           "spreadLine": "-0.5",
           "spreadOdds": "+165",
           "totalLine": "o2.5",
           "overOdds": "+140",
-          "underOdds": "-170",
-          "homeImplied": 0.37735849056603776,
-          "drawImplied": 0.3448275862068966,
+          "underOdds": "-175",
+          "homeImplied": 0.36363636363636365,
+          "drawImplied": 0.3508771929824561,
           "awayImplied": 0.3333333333333333,
           "available": true
         },
@@ -660,6 +660,15 @@
           "marketMove": 2,
           "homeMoneyline": "+165",
           "drawMoneyline": "+190",
+          "awayMoneyline": "+200",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 1,
+          "homeMoneyline": "+175",
+          "drawMoneyline": "+185",
           "awayMoneyline": "+200",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
