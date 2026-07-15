@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T04:08:58.680200+00:00",
+  "updatedAt": "2026-07-15T06:36:52.528704+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -312,7 +312,7 @@
           "team": "",
           "text": "Second Half ends, France 0, Spain 2.",
           "scoringPlay": false,
-          "wallclock": "2026-07-14T20:59:11Z"
+          "wallclock": "2026-07-14T20:58:58Z"
         }
       ],
       "note": "",
@@ -485,30 +485,30 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+170",
-        "drawMoneyline": "+185",
+        "homeMoneyline": "+165",
+        "drawMoneyline": "+190",
         "awayMoneyline": "+200",
         "homeOpenMoneyline": "+180",
         "spreadLine": "-0.5",
         "spreadOdds": "+165",
         "totalLine": "o2.5",
-        "overOdds": "+135",
-        "underOdds": "-165"
+        "overOdds": "+140",
+        "underOdds": "-170"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "+170",
-          "drawMoneyline": "+185",
+          "homeMoneyline": "+165",
+          "drawMoneyline": "+190",
           "awayMoneyline": "+200",
           "spreadLine": "-0.5",
           "spreadOdds": "+165",
           "totalLine": "o2.5",
-          "overOdds": "+135",
-          "underOdds": "-165",
-          "homeImplied": 0.37037037037037035,
-          "drawImplied": 0.3508771929824561,
+          "overOdds": "+140",
+          "underOdds": "-170",
+          "homeImplied": 0.37735849056603776,
+          "drawImplied": 0.3448275862068966,
           "awayImplied": 0.3333333333333333,
           "available": true
         },
@@ -651,6 +651,15 @@
           "marketMove": 2,
           "homeMoneyline": "+170",
           "drawMoneyline": "+185",
+          "awayMoneyline": "+200",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 2,
+          "homeMoneyline": "+165",
+          "drawMoneyline": "+190",
           "awayMoneyline": "+200",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
