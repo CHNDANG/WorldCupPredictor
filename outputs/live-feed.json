@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-15T21:04:55.885455+00:00",
+  "updatedAt": "2026-07-15T22:31:09.390848+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -470,15 +470,15 @@
           "shots": 5.0,
           "shotsOnTarget": 2.0,
           "corners": 2.0,
-          "possession": 35.6,
-          "passes": 324.0,
+          "possession": 35.7,
+          "passes": 325.0,
           "redCards": 0.0
         },
         "away": {
           "shots": 15.0,
           "shotsOnTarget": 5.0,
           "corners": 6.0,
-          "possession": 64.4,
+          "possession": 64.3,
           "passes": 590.0,
           "redCards": 0.0
         }
@@ -634,20 +634,20 @@
       },
       "events": [
         {
-          "id": "49797548",
-          "minute": "82'",
-          "type": "end-delay",
-          "team": "Argentina",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T20:42:35Z"
-        },
-        {
           "id": "49797549",
           "minute": "82'",
           "type": "end-delay",
           "team": "England",
           "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:42:35Z"
+        },
+        {
+          "id": "49797548",
+          "minute": "82'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "",
           "scoringPlay": false,
           "wallclock": "2026-07-15T20:42:35Z"
         },
@@ -697,15 +697,6 @@
           "wallclock": "2026-07-15T20:49:05Z"
         },
         {
-          "id": "49797640",
-          "minute": "90'",
-          "type": "end-delay",
-          "team": "Argentina",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-15T20:50:26Z"
-        },
-        {
           "id": "49797642",
           "minute": "90'",
           "type": "end-delay",
@@ -713,6 +704,15 @@
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
           "wallclock": "2026-07-15T20:50:25Z"
+        },
+        {
+          "id": "49797640",
+          "minute": "90'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-15T20:50:26Z"
         },
         {
           "id": "49797667",
