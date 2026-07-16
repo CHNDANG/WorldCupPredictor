@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T19:42:03.282890+00:00",
+  "updatedAt": "2026-07-16T21:07:17.243541+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -658,7 +658,7 @@
           "team": "England",
           "text": "Substitution, England. Dan Burn replaces Reece James because of an injury.",
           "scoringPlay": false,
-          "wallclock": "2026-07-15T20:42:52Z"
+          "wallclock": "2026-07-15T20:42:53Z"
         },
         {
           "id": "49797552",
@@ -721,7 +721,7 @@
           "team": "Argentina",
           "text": "Goal! England 1, Argentina 2. Lautaro Martínez (Argentina) header from very close range to the top left corner. Assisted by Lionel Messi with a cross.",
           "scoringPlay": true,
-          "wallclock": "2026-07-15T20:52:33Z"
+          "wallclock": "2026-07-15T20:52:34Z"
         },
         {
           "id": "49797670",
@@ -757,7 +757,7 @@
           "team": "",
           "text": "Second Half ends, England 1, Argentina 2.",
           "scoringPlay": false,
-          "wallclock": "2026-07-15T21:02:50Z"
+          "wallclock": "2026-07-15T21:02:58Z"
         }
       ],
       "note": "",
