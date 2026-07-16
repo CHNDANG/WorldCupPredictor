@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T03:47:56.084213+00:00",
+  "updatedAt": "2026-07-16T06:23:16.065130+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -916,13 +916,13 @@
         "provider": "DraftKings",
         "homeMoneyline": "+100",
         "drawMoneyline": "+275",
-        "awayMoneyline": "+265",
+        "awayMoneyline": "+260",
         "homeOpenMoneyline": "+110",
         "spreadLine": "-0.5",
         "spreadOdds": "-105",
         "totalLine": "o3.5",
-        "overOdds": "+125",
-        "underOdds": "-155"
+        "overOdds": "+120",
+        "underOdds": "-150"
       },
       "bookmakers": [
         {
@@ -930,15 +930,15 @@
           "scope": "pregame",
           "homeMoneyline": "+100",
           "drawMoneyline": "+275",
-          "awayMoneyline": "+265",
+          "awayMoneyline": "+260",
           "spreadLine": "-0.5",
           "spreadOdds": "-105",
           "totalLine": "o3.5",
-          "overOdds": "+125",
-          "underOdds": "-155",
+          "overOdds": "+120",
+          "underOdds": "-150",
           "homeImplied": 0.5,
           "drawImplied": 0.26666666666666666,
-          "awayImplied": 0.273972602739726,
+          "awayImplied": 0.2777777777777778,
           "available": true
         },
         {
@@ -1063,6 +1063,15 @@
           "homeMoneyline": "+100",
           "drawMoneyline": "+275",
           "awayMoneyline": "+265",
+          "spreadLine": "-0.5",
+          "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 3,
+          "homeMoneyline": "+100",
+          "drawMoneyline": "+275",
+          "awayMoneyline": "+260",
           "spreadLine": "-0.5",
           "totalLine": "o3.5"
         }
