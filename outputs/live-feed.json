@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-16T00:02:42.843362+00:00",
+  "updatedAt": "2026-07-16T03:47:56.084213+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -470,7 +470,7 @@
           "shots": 5.0,
           "shotsOnTarget": 2.0,
           "corners": 2.0,
-          "possession": 35.7,
+          "possession": 35.8,
           "passes": 325.0,
           "redCards": 0.0
         },
@@ -478,8 +478,8 @@
           "shots": 15.0,
           "shotsOnTarget": 5.0,
           "corners": 6.0,
-          "possession": 64.3,
-          "passes": 590.0,
+          "possession": 64.2,
+          "passes": 588.0,
           "redCards": 0.0
         }
       },
@@ -893,7 +893,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 4,
+      "marketMove": 3,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -914,8 +914,8 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-105",
-        "drawMoneyline": "+265",
+        "homeMoneyline": "+100",
+        "drawMoneyline": "+275",
         "awayMoneyline": "+265",
         "homeOpenMoneyline": "+110",
         "spreadLine": "-0.5",
@@ -928,16 +928,16 @@
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-105",
-          "drawMoneyline": "+265",
+          "homeMoneyline": "+100",
+          "drawMoneyline": "+275",
           "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "spreadOdds": "-105",
           "totalLine": "o3.5",
           "overOdds": "+125",
           "underOdds": "-155",
-          "homeImplied": 0.5121951219512195,
-          "drawImplied": 0.273972602739726,
+          "homeImplied": 0.5,
+          "drawImplied": 0.26666666666666666,
           "awayImplied": 0.273972602739726,
           "available": true
         },
@@ -1053,6 +1053,15 @@
           "marketMove": 4,
           "homeMoneyline": "-105",
           "drawMoneyline": "+265",
+          "awayMoneyline": "+265",
+          "spreadLine": "-0.5",
+          "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 3,
+          "homeMoneyline": "+100",
+          "drawMoneyline": "+275",
           "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "totalLine": "o3.5"
