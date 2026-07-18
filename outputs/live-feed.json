@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T22:25:28.530461+00:00",
+  "updatedAt": "2026-07-18T23:29:07.170262+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -7,64 +7,64 @@
       "id": "espn-760516",
       "espnEventId": "760516",
       "kickoffUtc": "2026-07-18T21:00Z",
-      "status": "live",
-      "detail": "61'",
-      "minute": 61,
+      "status": "ft",
+      "detail": "FT",
+      "minute": 90,
       "homeName": "France",
       "awayName": "England",
-      "homeGoals": 2,
-      "awayGoals": 4,
-      "homeXg": 1.59,
-      "awayXg": 2.86,
+      "homeGoals": 4,
+      "awayGoals": 6,
+      "homeXg": 3.4,
+      "awayXg": 4.33,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": 23,
-      "marketMove": -30,
+      "tempo": 26,
+      "marketMove": 14,
       "stats": {
         "home": {
-          "shots": 9.0,
-          "shotsOnTarget": 4.0,
-          "corners": 2.0,
-          "possession": 42.9,
-          "passes": 304.0,
+          "shots": 19.0,
+          "shotsOnTarget": 9.0,
+          "corners": 3.0,
+          "possession": 45.9,
+          "passes": 444.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 14.0,
-          "shotsOnTarget": 8.0,
+          "shots": 19.0,
+          "shotsOnTarget": 11.0,
           "corners": 4.0,
-          "possession": 57.1,
-          "passes": 398.0,
+          "possession": 54.1,
+          "passes": 517.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+700",
+        "homeMoneyline": "-145",
         "drawMoneyline": "+310",
-        "awayMoneyline": "-270",
+        "awayMoneyline": "+350",
         "homeOpenMoneyline": "+110",
-        "spreadLine": "+1.5",
-        "spreadOdds": "-170",
-        "totalLine": "o7.5",
-        "overOdds": "-157",
-        "underOdds": "+132"
+        "spreadLine": "-0.5",
+        "spreadOdds": "-145",
+        "totalLine": "o3.5",
+        "overOdds": "+115",
+        "underOdds": "-140"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "+700",
+          "scope": "pregame",
+          "homeMoneyline": "-145",
           "drawMoneyline": "+310",
-          "awayMoneyline": "-270",
-          "spreadLine": "+1.5",
-          "spreadOdds": "-170",
-          "totalLine": "o7.5",
-          "overOdds": "-157",
-          "underOdds": "+132",
-          "homeImplied": 0.125,
+          "awayMoneyline": "+350",
+          "spreadLine": "-0.5",
+          "spreadOdds": "-145",
+          "totalLine": "o3.5",
+          "overOdds": "+115",
+          "underOdds": "-140",
+          "homeImplied": 0.5918367346938775,
           "drawImplied": 0.24390243902439024,
-          "awayImplied": 0.7297297297297297,
+          "awayImplied": 0.2222222222222222,
           "available": true
         },
         {
@@ -82,22 +82,6 @@
           "drawImplied": null,
           "awayImplied": null,
           "available": false
-        },
-        {
-          "provider": "DraftKings - Live Odds",
-          "scope": "live",
-          "homeMoneyline": "700",
-          "drawMoneyline": null,
-          "awayMoneyline": "-270",
-          "spreadLine": "ENG -270",
-          "spreadOdds": null,
-          "totalLine": "7.5",
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": 0.125,
-          "drawImplied": null,
-          "awayImplied": 0.7297297297297297,
-          "available": true
         },
         {
           "provider": "Pinnacle",
@@ -198,137 +182,137 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 2,
+        "espn": 1,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
       "events": [
         {
-          "id": "49865831",
-          "minute": "23'",
+          "id": "49868556",
+          "minute": "82'",
           "type": "start-delay",
-          "team": "England",
+          "team": "France",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T21:22:19Z"
+          "wallclock": "2026-07-18T22:44:56Z"
         },
         {
-          "id": "49865889",
-          "minute": "25'",
+          "id": "49868561",
+          "minute": "83'",
           "type": "end-delay",
-          "team": "France",
+          "team": "England",
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T21:25:02Z"
+          "wallclock": "2026-07-18T22:45:33Z"
         },
         {
-          "id": "49865887",
-          "minute": "25'",
+          "id": "49868567",
+          "minute": "83'",
+          "type": "end-delay",
+          "team": "France",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:45:34Z"
+        },
+        {
+          "id": "49868565",
+          "minute": "83'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Reece James replaces Jarell Quansah because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:45:37Z"
+        },
+        {
+          "id": "49868711",
+          "minute": "87'",
+          "type": "penalty---scored",
+          "team": "England",
+          "text": "Goal! France 3, England 5. Bukayo Saka (England) converts the penalty with a left footed shot to the bottom right corner.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-18T22:49:43Z"
+        },
+        {
+          "id": "49868894",
+          "minute": "90'+1'",
+          "type": "substitution",
+          "team": "France",
+          "text": "Substitution, France. Jules Koundé replaces Malo Gusto because of an injury.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:53:36Z"
+        },
+        {
+          "id": "49868925",
+          "minute": "90'+3'",
+          "type": "substitution",
+          "team": "England",
+          "text": "Substitution, England. Trevoh Chalobah replaces Marc Guéhi.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:55:16Z"
+        },
+        {
+          "id": "49868993",
+          "minute": "90'+4'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "Delay in match because of an injury Djed Spence (England).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:56:50Z"
+        },
+        {
+          "id": "49868986",
+          "minute": "90'+4'",
+          "type": "start-delay",
+          "team": "France",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:56:51Z"
+        },
+        {
+          "id": "49868994",
+          "minute": "90'+5'",
           "type": "end-delay",
           "team": "England",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:57:42Z"
+        },
+        {
+          "id": "49868995",
+          "minute": "90'+5'",
+          "type": "end-delay",
+          "team": "France",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T21:25:02Z"
+          "wallclock": "2026-07-18T22:57:42Z"
         },
         {
-          "id": "49866393",
-          "minute": "37'",
+          "id": "49869018",
+          "minute": "90'+6'",
+          "type": "goal",
+          "team": "France",
+          "text": "Goal! France 4, England 5. Ousmane Dembélé (France) left footed shot from the centre of the box to the bottom left corner. Assisted by Dayot Upamecano following a fast break.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-18T22:58:27Z"
+        },
+        {
+          "id": "49869058",
+          "minute": "90'+8'",
           "type": "goal",
           "team": "England",
-          "text": "Goal! France 0, England 3. Bukayo Saka (England) left footed shot from the left side of the box to the high centre of the goal. Assisted by Marcus Rashford following a fast break.",
+          "text": "Goal! France 4, England 6. Jude Bellingham (England) right footed shot from the centre of the box to the bottom right corner following a fast break.",
           "scoringPlay": true,
-          "wallclock": "2026-07-18T21:36:24Z"
+          "wallclock": "2026-07-18T23:00:18Z"
         },
         {
-          "id": "49866797",
-          "minute": "45'+1'",
-          "type": "goal",
-          "team": "England",
-          "text": "Goal! France 0, England 4. Bukayo Saka (England) left footed shot from the centre of the box to the bottom right corner. Assisted by Eberechi Eze with a through ball.",
-          "scoringPlay": true,
-          "wallclock": "2026-07-18T21:46:06Z"
-        },
-        {
-          "id": "49866906",
-          "minute": "45'+5'",
-          "type": "halftime",
+          "id": "49869073",
+          "minute": "90'+9'",
+          "type": "end-regular-time",
           "team": "",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T21:49:48Z"
-        },
-        {
-          "id": "49867172",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Ousmane Dembélé replaces Rayan Cherki.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:06:46Z"
-        },
-        {
-          "id": "49867173",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Bradley Barcola replaces Désiré Doué.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:06:46Z"
-        },
-        {
-          "id": "49867174",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Lucas Digne replaces Théo Hernández.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:06:47Z"
-        },
-        {
-          "id": "49867175",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "France",
-          "text": "Substitution, France. Dayot Upamecano replaces Ibrahima Konaté.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:06:47Z"
-        },
-        {
-          "id": "49867186",
-          "minute": "45'",
-          "type": "substitution",
-          "team": "England",
-          "text": "Substitution, England. Ollie Watkins replaces Marcus Rashford.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:06:47Z"
-        },
-        {
-          "id": "49867254",
-          "minute": "45'",
-          "type": "start-2nd-half",
-          "team": "",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:08:03Z"
-        },
-        {
-          "id": "49867337",
-          "minute": "48'",
-          "type": "goal",
-          "team": "France",
-          "text": "Goal! France 1, England 4. Kylian Mbappé (France) left footed shot from the centre of the box to the bottom right corner. Assisted by Michael Olise with a through ball following a fast break.",
-          "scoringPlay": true,
-          "wallclock": "2026-07-18T22:10:33Z"
-        },
-        {
-          "id": "49867589",
-          "minute": "54'",
-          "type": "goal",
-          "team": "France",
-          "text": "Goal! France 2, England 4. Bradley Barcola (France) right footed shot from the centre of the box to the bottom left corner. Assisted by Kylian Mbappé with a through ball.",
-          "scoringPlay": true,
-          "wallclock": "2026-07-18T22:16:41Z"
+          "wallclock": "2026-07-18T23:01:40Z"
         }
       ],
       "note": "",
@@ -422,6 +406,15 @@
           "awayMoneyline": "-270",
           "spreadLine": "+1.5",
           "totalLine": "o7.5"
+        },
+        {
+          "minute": 90,
+          "marketMove": 14,
+          "homeMoneyline": "-145",
+          "drawMoneyline": "+310",
+          "awayMoneyline": "+350",
+          "spreadLine": "-0.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -445,6 +438,13 @@
           "awayGoals": 4,
           "homeXg": 1.59,
           "awayXg": 2.86
+        },
+        {
+          "minute": 90,
+          "homeGoals": 4,
+          "awayGoals": 6,
+          "homeXg": 3.4,
+          "awayXg": 4.33
         }
       ]
     },
