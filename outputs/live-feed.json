@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T20:21:41.120719+00:00",
+  "updatedAt": "2026-07-18T21:25:48.236528+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -7,64 +7,96 @@
       "id": "espn-760516",
       "espnEventId": "760516",
       "kickoffUtc": "2026-07-18T21:00Z",
-      "status": "pre",
-      "detail": "Sat, July 18th at 5:00 PM EDT",
-      "minute": 0,
+      "status": "live",
+      "detail": "26'",
+      "minute": 26,
       "homeName": "France",
       "awayName": "England",
       "homeGoals": 0,
-      "awayGoals": 0,
-      "homeXg": 0,
-      "awayXg": 0,
+      "awayGoals": 2,
+      "homeXg": 0.61,
+      "awayXg": 0.95,
       "homeRedCards": 0,
       "awayRedCards": 0,
-      "tempo": 0,
-      "marketMove": 11,
+      "tempo": 21,
+      "marketMove": -30,
       "stats": {
         "home": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 4.0,
+          "shotsOnTarget": 1.0,
+          "corners": 1.0,
+          "possession": 54.2,
+          "passes": 135.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
-          "shotsOnTarget": 0.0,
-          "corners": 0.0,
-          "possession": 0.0,
-          "passes": 0.0,
+          "shots": 5.0,
+          "shotsOnTarget": 2.0,
+          "corners": 2.0,
+          "possession": 45.8,
+          "passes": 110.0,
           "redCards": 0.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-130",
-        "drawMoneyline": "+300",
-        "awayMoneyline": "+320",
+        "homeMoneyline": "+500",
+        "drawMoneyline": "+400",
+        "awayMoneyline": "-225",
         "homeOpenMoneyline": "+110",
-        "spreadLine": "-0.5",
-        "spreadOdds": "-135",
-        "totalLine": "o3.5",
-        "overOdds": "+110",
-        "underOdds": "-140"
+        "spreadLine": "+1.5",
+        "spreadOdds": "-165",
+        "totalLine": "o4.5",
+        "overOdds": "-151",
+        "underOdds": "+127"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
+          "scope": "live",
+          "homeMoneyline": "+500",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "-225",
+          "spreadLine": "+1.5",
+          "spreadOdds": "-165",
+          "totalLine": "o4.5",
+          "overOdds": "-151",
+          "underOdds": "+127",
+          "homeImplied": 0.16666666666666666,
+          "drawImplied": 0.2,
+          "awayImplied": 0.6923076923076923,
+          "available": true
+        },
+        {
+          "provider": "Bet 365",
           "scope": "pregame",
-          "homeMoneyline": "-130",
-          "drawMoneyline": "+300",
-          "awayMoneyline": "+320",
-          "spreadLine": "-0.5",
-          "spreadOdds": "-135",
-          "totalLine": "o3.5",
-          "overOdds": "+110",
-          "underOdds": "-140",
-          "homeImplied": 0.5652173913043478,
-          "drawImplied": 0.25,
-          "awayImplied": 0.23809523809523808,
+          "homeMoneyline": null,
+          "drawMoneyline": null,
+          "awayMoneyline": null,
+          "spreadLine": null,
+          "spreadOdds": null,
+          "totalLine": null,
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
+          "available": false
+        },
+        {
+          "provider": "DraftKings - Live Odds",
+          "scope": "live",
+          "homeMoneyline": "500",
+          "drawMoneyline": "400.0",
+          "awayMoneyline": "-225",
+          "spreadLine": "ENG -225",
+          "spreadOdds": null,
+          "totalLine": "4.5",
+          "overOdds": null,
+          "underOdds": null,
+          "homeImplied": 0.16666666666666666,
+          "drawImplied": 0.2,
+          "awayImplied": 0.6923076923076923,
           "available": true
         },
         {
@@ -166,12 +198,76 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 1,
+        "espn": 2,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
-      "events": [],
+      "events": [
+        {
+          "id": "49864951",
+          "minute": "",
+          "type": "kickoff",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T21:00:13Z"
+        },
+        {
+          "id": "49865115",
+          "minute": "3'",
+          "type": "goal",
+          "team": "England",
+          "text": "Goal! France 0, England 1. Declan Rice (England) right footed shot from outside the box to the bottom right corner.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-18T21:02:28Z"
+        },
+        {
+          "id": "49865676",
+          "minute": "18'",
+          "type": "goal---header",
+          "team": "England",
+          "text": "Goal! France 0, England 2. Ezri Konsa (England) header from the centre of the box to the bottom right corner. Assisted by Declan Rice with a cross following a corner.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-18T21:18:05Z"
+        },
+        {
+          "id": "49865830",
+          "minute": "23'",
+          "type": "start-delay",
+          "team": "France",
+          "text": "Delay in match for a drinks break.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T21:22:19Z"
+        },
+        {
+          "id": "49865831",
+          "minute": "23'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T21:22:19Z"
+        },
+        {
+          "id": "49865887",
+          "minute": "25'",
+          "type": "end-delay",
+          "team": "England",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T21:25:02Z"
+        },
+        {
+          "id": "49865889",
+          "minute": "25'",
+          "type": "end-delay",
+          "team": "France",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T21:25:02Z"
+        }
+      ],
       "note": "",
       "marketHistory": [
         {
@@ -245,6 +341,15 @@
           "awayMoneyline": "+320",
           "spreadLine": "-0.5",
           "totalLine": "o3.5"
+        },
+        {
+          "minute": 26,
+          "marketMove": -30,
+          "homeMoneyline": "+500",
+          "drawMoneyline": "+400",
+          "awayMoneyline": "-225",
+          "spreadLine": "+1.5",
+          "totalLine": "o4.5"
         }
       ],
       "scoreHistory": [
@@ -254,6 +359,13 @@
           "awayGoals": 0,
           "homeXg": 0,
           "awayXg": 0
+        },
+        {
+          "minute": 26,
+          "homeGoals": 0,
+          "awayGoals": 2,
+          "homeXg": 0.61,
+          "awayXg": 0.95
         }
       ]
     },
