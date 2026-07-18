@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T06:29:19.625169+00:00",
+  "updatedAt": "2026-07-18T08:24:51.783500+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,78 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-us-hails-2026-world-cup-as-success-in-attendance-security-organization-international-cooperarion-vov-world",
+      "title": "美国称赞2026年世界杯在观众人数、安全、组织和国际合作方面取得了成功 - VOV World",
+      "summary": "美国称赞2026年世界杯在参赛人数、安全、组织和国际合作方面取得了成功 VOV World",
+      "originalTitle": "US hails 2026 World Cup as success in attendance, security, organization, international cooperarion - VOV World",
+      "originalSummary": "US hails 2026 World Cup as success in attendance, security, organization, international cooperarion  VOV World",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQRndDRThaR2hHMHpLT1hPSUJYd1R0eERBSjlJWGFEdHVnb2NxNVhOYmJVVTRydGU2bXhNX29tTnN0ZGZJb0NCUDhBQ25kd3pFUXJuckcycWFoa2Nra3J0Nk5GLWdMQVFrNVNzSkNmM292UnU5V2dyWnM4VkY0elJKLXhrNTZTR2RpNTlmVW5FVXUyWko4Y2dQdjg2ZkZGcEhJNUN3S3Y5NUUzZ2RJMzZkam9ob3ZrX0R0aUpjNE1Qc0dWZzFveXFoNkx3Z2h0YkNoU21oSmtnYzQ0bGx6?oc=5",
+      "publishedAt": "2026-07-18T08:15:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-final-ceremony-to-celebrate-sportsmanship-and-unity-says-creative-producer-china-org-cn",
+      "title": "创意制作人称世界杯决赛庆祝体育精神和团结_中国网客户端",
+      "summary": "创意制作人表示 FIFA 世界杯决赛庆祝体育精神和团结 China.org.cn",
+      "originalTitle": "FIFA World Cup final ceremony to celebrate sportsmanship and unity, says creative producer - China.org.cn",
+      "originalSummary": "FIFA World Cup final ceremony to celebrate sportsmanship and unity, says creative producer  China.org.cn",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1YNFdzQVdsOGZsSW9lbUxMSWFoUUdFUU9MTm00MmlMUTh6bEhIQmZWVThkLS05d1VUUEtDaE1oOG5uZ01GLUpzaWx5dXlscmZjdHVmSGNBRlR2TWhpNm1mc2xDVXZDcnlab2c?oc=5",
+      "publishedAt": "2026-07-18T08:07:26+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-much-does-a-world-cup-referee-make-salary-details-and-more-for-2026-fifa-final-officials-yahoo-sports",
+      "title": "世界杯裁判能赚多少钱？ 2026 年 FIFA 决赛官员的薪资详情及更多信息 - 雅虎体育",
+      "summary": "世界杯裁判能赚多少钱？ 2026 年 FIFA 决赛官员的薪资详情及更多信息 雅虎体育",
+      "originalTitle": "How much does a World Cup referee make? Salary details and more for 2026 FIFA final officials - Yahoo Sports",
+      "originalSummary": "How much does a World Cup referee make? Salary details and more for 2026 FIFA final officials  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQUtmaUpYYkRRLVdzSnV0UTE4OFNVbXBlTUdhQUhwZjM1X3o5QU51QVV4QjlCVFFqU01KeFRROVd4dWdEWF9hdXNuZUdZQTZvcVBsYkNPNjduUEJfcUlYMUFFN3NJX3pSRklvbG95eE9ic0xaRnhrQ2lDZlRucVNYRWF3?oc=5",
+      "publishedAt": "2026-07-18T07:30:01+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-迪玛希音乐作品亮相2026年世界杯墨西哥fifa球迷节-哈通社",
+      "title": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节 - 哈通社",
+      "summary": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节  哈通社",
+      "originalTitle": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节 - 哈通社",
+      "originalSummary": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节  哈通社",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWkQ4aVNiODBCVFpINFhRZmU3d21LQlRqWUYwNXdmYlQ5b0RHQTcxNUxwTm1EQUhSVFdlN0UwYmlmX21rdTBGcU10ZzhQN2IzLWMwSm5UQndNSGZ5NGdxSDQ3RnJteWPSAWZBVV95cUxNdlAtVDRPUnJyLVdNcmpFVmh2VjRHVS1jYTl6b1NnYW1GblQzOGZOUDdmZFk4WURyVUY3LUFPMXFRMFhNeEliTkhUT29tYjE4UFFQRHFpWTY5YkJJaVExeThvUWFvQ0E?oc=5",
+      "publishedAt": "2026-07-18T07:19:32+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-capital-958预测-世界杯季军战-法国略占优势-英格兰力争收官巅峰对决-8world",
+      "title": "CAPITAL 958预测：世界杯季军战：法国略占优势，英格兰力争收官巅峰对决！ - 8world",
+      "summary": "CAPITAL 958预测：世界杯季军战：法国略占优势，英格兰力争收官巅峰对决！  8world",
+      "originalTitle": "CAPITAL 958预测：世界杯季军战：法国略占优势，英格兰力争收官巅峰对决！ - 8world",
+      "originalSummary": "CAPITAL 958预测：世界杯季军战：法国略占优势，英格兰力争收官巅峰对决！  8world",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNX19CVFZPWnNtSVpCdnJIbzl2WW8tRTlWb0xsYTBncGpJZG9NNDlHN3Q2ZkZhZk5ReXFtWm1MTHpyb01ET2N5MnhsU2pweU9uUDVNc2JYMzItUVhmTDhpNHE3WnJZRW1JNElORjRXRlNpLXVpMG9xTnBWMkdPYUFjNg?oc=5",
+      "publishedAt": "2026-07-18T07:02:45+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-世界杯快讯-阿根廷与西班牙争夺冠军-英格兰和法国角逐季军-sbs",
+      "title": "【世界杯快讯】阿根廷与西班牙争夺冠军 英格兰和法国角逐季军 - SBS",
+      "summary": "【世界杯快讯】阿根廷与西班牙争夺冠军 英格兰和法国角逐季军  SBS",
+      "originalTitle": "【世界杯快讯】阿根廷与西班牙争夺冠军 英格兰和法国角逐季军 - SBS",
+      "originalSummary": "【世界杯快讯】阿根廷与西班牙争夺冠军 英格兰和法国角逐季军  SBS",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNMno2d0xUZmVheHRMMC02eVFQc2huV3h0YTdqcm5YV2MxS2FQZk03NWpjeU9lR0poU3dfVFNGcXByank0N3k3R2lCNTh3UUhvWXdNamU1cDdId091dmR2QWtqSXNlR3FEMEIxUGlRUGZWdVpfQUR3alEyZS1jSzdsZ2NVTk82eC02N3l3RC1IckdvWkhhUEdIMURHMjItNFUwbW1tMnczNk0wVko0OFEzMVQzOXVtSEZoOTllbElRdER4MDR6UmhrUlpUcDhHR2Qtc2xQTF9vS04zSWRkOXcxM0ctbF9FaG14WnJLanZOWkROUzZmRFBDamw5TGFlN2piT2hVSUNHQVgwNXBjTlpKZmtSWGFpYjlzNXRz?oc=5",
+      "publishedAt": "2026-07-18T06:54:19+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-watch-fifa-world-cup-argentina-arrives-in-new-jersey-ahead-of-spain-final-al-jazeera",
       "title": "观看 FIFA 世界杯：阿根廷在西班牙决赛前抵达新泽西 - 半岛电视台",
@@ -20,6 +92,42 @@
       "heat": 60
     },
     {
+      "id": "google-news-trump-infantino-give-world-cup-high-praise-calling-tournament-a-success-japan-today",
+      "title": "特朗普、因凡蒂诺高度赞扬世界杯并称赛事取得成功 - 今日日本",
+      "summary": "特朗普和因凡蒂诺高度评价世界杯，称赛事取得成功 今天日本",
+      "originalTitle": "Trump, Infantino give World Cup high praise, calling tournament a success - Japan Today",
+      "originalSummary": "Trump, Infantino give World Cup high praise, calling tournament a success  Japan Today",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNczRiTmlzcmxwWFFjUFRuYV9IU1labFRKcU5wTHphRzBISFBTb0h1YTdVa2NnZ2NJOEtDTUtDcTVqSkpyM2hlS19LUGFhN25CMXR3LVliaTlUT1p3VkNKZFM4d2RSUEYyalpxWWxRR25zdndvVjVWTnpoQ1dvZlJBR1VsRDQxSElhbWNsNmxzYzFkM25pc1d5RHhlLWVaZ1B0SVpaa0JSZlJIUUZ1aThFQWppYWJfaVgyNm9JcGQ5TlU1aVBIMkIwVmJ3?oc=5",
+      "publishedAt": "2026-07-18T06:16:19+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-how-to-watch-france-v-england-at-world-cup-2026-channel-and-kick-off-time-time-out-worldwide",
+      "title": "如何观看 2026 年世界杯法国对阵英格兰的比赛、频道和开球时间 - Time Out Worldwide",
+      "summary": "如何观看 2026 年世界杯法国对阵英格兰的比赛、频道和开球时间 Time Out Worldwide",
+      "originalTitle": "How to watch France v England at World Cup 2026, channel and kick off time - Time Out Worldwide",
+      "originalSummary": "How to watch France v England at World Cup 2026, channel and kick off time  Time Out Worldwide",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRUd2R05rVE1vVlhYZUtWR1p0ZWJmb0x4eThxWUdhamxxdjVZUUUtdmtEbURUTzdLZDV2MjZuMi1ZSUZvRHJYc01TQmdrRlM1TWJlUXRxTDBWeVlZX1BOM0JFTWFWVmNtNmljaVZMYU9RdnlKN1VsYUg5ekxKMDZsQjN5U01GZHJvMVpfbG9GYzFJenkwUUhGQl9WQlJrQWpxbC10dg?oc=5",
+      "publishedAt": "2026-07-18T06:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-vs-argentina-history-head-to-head-matches-at-world-cup-last-meeting-team-records-and-more-yahoo-sports",
+      "title": "西班牙 vs 阿根廷历史：世界杯上的交锋、上次交锋、球队记录等 - 雅虎体育",
+      "summary": "西班牙 vs 阿根廷历史：世界杯上的交锋记录、上次交锋、球队记录等 雅虎体育",
+      "originalTitle": "Spain vs. Argentina history: Head-to-head matches at World Cup, last meeting, team records and more - Yahoo Sports",
+      "originalSummary": "Spain vs. Argentina history: Head-to-head matches at World Cup, last meeting, team records and more  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYjhITUw5VDZFRnYyVWNackw5MjItMXVYeE1wbE1yV29aajhtZERfWVlUV1BLdERrbklSM0NuMFp2TE50VElfUkhPNE5YOUlTc3FfWGpiSGF6bkdxM2MtcENfZ2ZfY1p6cjl4WUJsM0pOekRlT2hwbnZ6T3c4RUhwVFR4VnBid2M?oc=5",
+      "publishedAt": "2026-07-18T06:00:00+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-新闻-中文-世界杯决赛凌晨开踢-独立广场邀民众共享直播盛况-mediaselangor-com",
       "title": "世界杯决赛凌晨开踢 独立广场邀民众共享直播盛况 - mediaselangor.com",
       "summary": "世界杯决赛凌晨开踢 独立广场邀民众共享直播盛况  mediaselangor.com",
@@ -30,18 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9xUXNSYl9VM3Y0ZmdXZEpELUFvVERXX0JDZ2tPNFl3Q1FFTGhoNkZOeWN6VU03RmdBTkpFOUIzZjRWVG5vUHRVdVF4aTlKN0VUYTlqd3Vn?oc=5",
       "publishedAt": "2026-07-18T05:59:10+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026年世界杯-特朗普-fifa给了我建议-美国中国可联办世界杯-体育-2026世界杯-场外花絮-sin-chew-daily",
-      "title": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
-      "summary": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
-      "originalTitle": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
-      "originalSummary": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybEFiQTFhSWF3VG56bDhha2VISm5ody1XdnFMVEV2T3lMSUphZk54MWxXS2x1NzlsUnJjZnh1ZFNtcUpDQlowYUVkR0NWdEFDRXBGU1VwT0JIbWFBS2UtU1hvNEdSZw?oc=5",
-      "publishedAt": "2026-07-18T05:58:50+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-2026-world-cup-third-place-game-france-vs-england-yahoo-sports",
@@ -68,16 +164,16 @@
       "heat": 68
     },
     {
-      "id": "google-news-klst-originals-2026-fifa-world-cup-final-predictions-spain-vs-argentina-aol-com",
-      "title": "KLST+ ORIGINALS：2026 年 FIFA 世界杯决赛预测，西班牙 vs 阿根廷 - AOL.com",
-      "summary": "KLST+ ORIGINALS：2026 年 FIFA 世界杯决赛预测，西班牙 vs 阿根廷 AOL.com",
-      "originalTitle": "KLST+ ORIGINALS: 2026 FIFA World Cup Final predictions, Spain vs. Argentina - AOL.com",
-      "originalSummary": "KLST+ ORIGINALS: 2026 FIFA World Cup Final predictions, Spain vs. Argentina  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1NVjRYejlBeGdkM1hKM2VfbjFKR1VxVU9jSDNHRHNlSlE4V2RDOXlCb2J5NVVqTG9QNXhWeXd1emFoc0ItVjBRYnBaamYzbkJ6ckhGYVhqR212N0lKUWlzbWJrMlZLY29uQV9XOEZGSmQ2LXhmVzlVUHA4Wm5TZ3c?oc=5",
-      "publishedAt": "2026-07-18T05:16:50+00:00",
-      "heat": 60
+      "id": "google-新闻-中文-世界杯决赛三大看点-阿根廷与西班牙-跨世代对决-bbc",
+      "title": "世界杯决赛三大看点：阿根廷与西班牙“跨世代对决” - BBC",
+      "summary": "世界杯决赛三大看点：阿根廷与西班牙“跨世代对决”  BBC",
+      "originalTitle": "世界杯决赛三大看点：阿根廷与西班牙“跨世代对决” - BBC",
+      "originalSummary": "世界杯决赛三大看点：阿根廷与西班牙“跨世代对决”  BBC",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE14RDhNVEpIRk8yMWpnT0NjQnFjcVZqWGEyeHNVZS16SXdIcjltTGRlMkpIcWs1QjdCNkxncjBRdUZ4aF9uRFZjeXhiRFZJbVBuQjZfQkM3aU1ONVhQbWhFTlVqMGtuUdIBa0FVX3lxTFBwdGEwX2JBRHl2NG0zdXFhMm10bWhfNkpZTkhHMEQzaUpKMkhENXZzUjZIZ1V4eXdqSWNNTEJlcGZRTHdERVEtOVNCX1l2LVh5OTR4MzBPY3FtVGthQ3hMU3RHZlNJX0oxRVBn?oc=5",
+      "publishedAt": "2026-07-18T05:35:46+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-what-time-is-france-vs-england-live-stream-tv-channel-kickoff-schedule-for-world-cup-2026-third-place-match-",
@@ -92,16 +188,28 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-迪玛希音乐作品亮相2026年世界杯墨西哥fifa球迷节-哈通社",
-      "title": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节 - 哈通社",
-      "summary": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节  哈通社",
-      "originalTitle": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节 - 哈通社",
-      "originalSummary": "迪玛希音乐作品亮相2026年世界杯墨西哥FIFA球迷节  哈通社",
+      "id": "google-新闻-中文-2026年世界杯-特朗普-fifa给了我建议-美国中国可联办世界杯-体育-2026世界杯-场外花絮-sin-chew-daily",
+      "title": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
+      "summary": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
+      "originalTitle": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
+      "originalSummary": "2026年世界杯| 特朗普：FIFA给了我建议“美国中国可联办世界杯” - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5JWkQ4aVNiODBCVFpINFhRZmU3d21LQlRqWUYwNXdmYlQ5b0RHQTcxNUxwTm1EQUhSVFdlN0UwYmlmX21rdTBGcU10ZzhQN2IzLWMwSm5UQndNSGZ5NGdxSDQ3RnJteWPSAWZBVV95cUxNdlAtVDRPUnJyLVdNcmpFVmh2VjRHVS1jYTl6b1NnYW1GblQzOGZOUDdmZFk4WURyVUY3LUFPMXFRMFhNeEliTkhUT29tYjE4UFFQRHFpWTY5YkJJaVExeThvUWFvQ0E?oc=5",
-      "publishedAt": "2026-07-18T04:55:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybEFiQTFhSWF3VG56bDhha2VISm5ody1XdnFMVEV2T3lMSUphZk54MWxXS2x1NzlsUnJjZnh1ZFNtcUpDQlowYUVkR0NWdEFDRXBGU1VwT0JIbWFBS2UtU1hvNEdSZw?oc=5",
+      "publishedAt": "2026-07-18T04:51:56+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-kit-ranking-which-teams-will-look-best-in-2026-espn-in",
+      "title": "2026 年世界杯球衣排名：哪些球队看起来最好？ - espn.in",
+      "summary": "2026 年世界杯球衣排名：哪些球队看起来最好？  ESPN",
+      "originalTitle": "World Cup kit ranking: Which teams will look best in 2026? - espn.in",
+      "originalSummary": "World Cup kit ranking: Which teams will look best in 2026?  espn.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPUHFwZGhobXEtdTZqdU1jV3FyV1dUVUpWOVdUbENHNjhFYXZNUjVDOHcxUUJ0MHJtcXg4UFdELU9mRXVuT3l6QUVCUndQXzREZVQwdFhaOTFvbXBjeHl5LWlhaUFpSEphbEUwVzZkX0RUV0NSMlFjMXJmcXFfbF9EUE1GWnhUTnN6d0VtTXE0UUVndFVIcjNOd0NYMHJzNUZfa05LWHNjbFpXN3pVSFhsTEJGbVMwOVh2SW14VmFCdDBWdlh3LUxoZlJTQlJaUFliU05OMTNTUW5Ua3Z6MTVvWHVDNjFPbVlZaHAyZW12Y2tSdERRQ2JUOW1GbTU?oc=5",
+      "publishedAt": "2026-07-18T04:45:28+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-where-to-buy-world-cup-tickets-cheapest-prices-for-the-final-and-bronze-medal-match-business-insider",
@@ -113,114 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWHJ2RnZJUGdwY0kwZHRRbDJyWU9YRDFFZWZpVjkwbFRzTk9HdktpT2t1R3lTNTk4RDA0c2FDYWdHaGRKY0o1aWpUWGdIYW90cm9ud0VIT0E2a05QbmRqamdveE1Od05uWG13dERtQ0hsSWZNckdyOHFLUFhsSnBXZ2trYW5fYWw3Ymc?oc=5",
       "publishedAt": "2026-07-18T04:40:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-只有勇敢的球员才有资格参加2026年世界杯决赛-voi-id",
-      "title": "只有勇敢的球员才有资格参加2026年世界杯决赛 - VOI.ID",
-      "summary": "只有勇敢的球员才有资格参加2026年世界杯决赛  VOI.ID",
-      "originalTitle": "只有勇敢的球员才有资格参加2026年世界杯决赛 - VOI.ID",
-      "originalSummary": "只有勇敢的球员才有资格参加2026年世界杯决赛  VOI.ID",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9WZ3JjRmdjOEtrZWRVaWpnS2ZFblM1Y3RpTDU2YU5oX1BpVkdVV1pSbzBGbDA5S0lMOS05S2FrVFQ2dw?oc=5",
-      "publishedAt": "2026-07-18T04:20:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-opinion-has-the-2026-fifa-world-cup-been-more-controversial-than-entertaining-dawan-africa",
-      "title": "观点：2026 年 FIFA 世界杯的争议性多于娱乐性吗？ - 大万非洲",
-      "summary": "观点：2026 年 FIFA 世界杯的争议性多于娱乐性吗？  达万非洲",
-      "originalTitle": "Opinion: Has the 2026 FIFA World Cup Been More Controversial Than Entertaining? - Dawan Africa",
-      "originalSummary": "Opinion: Has the 2026 FIFA World Cup Been More Controversial Than Entertaining?  Dawan Africa",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSEE2NUhHWjlZSmNFT20wYndFRXBEOF9yZVNNbUt0bEF2RHhWeUNhNlFuV2FCNkFwV0ZRTmxEcVBKRWMyTW1JcmZscExIOXdTMmVoc2V1U2ZfWWxyTzNVbkZCS2Vjd00tSTRySkxtNkUwdGhmeDQyZm1iQnkyd2prcWRlOHJZamk3VGxBbk5xT2M5U21sVUMyTHV3WWEtQXhKNUF3aTNFOXdvTW8?oc=5",
-      "publishedAt": "2026-07-18T04:17:30+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-全球只有2026枚-世界杯第一代-冠军戒指-要发售了-手机网易网",
-      "title": "全球只有2026枚！世界杯第一代\"冠军戒指\"，要发售了... - 手机网易网",
-      "summary": "全球只有2026枚！世界杯第一代\"冠军戒指\"，要发售了...  手机网易网",
-      "originalTitle": "全球只有2026枚！世界杯第一代\"冠军戒指\"，要发售了... - 手机网易网",
-      "originalSummary": "全球只有2026枚！世界杯第一代\"冠军戒指\"，要发售了...  手机网易网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMZTQ5aWFlQ3RzRThDaG1ibjVXTHp4VktUVEJISER0TUJNcGdqUllQNl9RaEZyZVJVb1I4MjlRU1lXV2RpVVBOZVAxdU9QOVltWEp2WUdpMXM4NUdaYjUtdTFB?oc=5",
-      "publishedAt": "2026-07-18T04:01:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-final-closing-ceremony-takes-shape-as-stars-rehearse-news-cgtn-com",
-      "title": "世界杯决赛闭幕式成型 众星排练_新闻中心",
-      "summary": "明星排练世界杯决赛闭幕式初具规模 news.cgtn.com",
-      "originalTitle": "World Cup final closing ceremony takes shape as stars rehearse - news.cgtn.com",
-      "originalSummary": "World Cup final closing ceremony takes shape as stars rehearse  news.cgtn.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQR2lVRi1wWVpFVG1EcWZPVmpmU1k5TFNaZFJqd2xIdEYzTGxUcHNOM21CVTR0d1FRMXphOHE3YnNIM2dRb3E2Tk8wSVR2cW93cml2Y19yampxbFdPbHY2U214UUNKYVJtZDJLeWo2MHZZeUlaSVpGaUxCNUNHdldnWURIZng3WGRwREZiYjBtSnUzN3UyOVZ6b1l6OGF3bU9VLUt5SzVQdGpWT1BLLUVqaDAzdU5yU0Jpb084?oc=5",
-      "publishedAt": "2026-07-18T03:53:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-donald-trump-bizarrely-tells-gianni-infantino-to-host-next-world-cup-in-the-us-with-china-yahoo-sports",
-      "title": "唐纳德·特朗普奇怪地告诉詹尼·因凡蒂诺与中国在美国主办下一届世界杯 - 雅虎体育",
-      "summary": "唐纳德·特朗普奇怪地告诉詹尼·因凡蒂诺与中国在美国主办下一届世界杯 雅虎体育",
-      "originalTitle": "Donald Trump bizarrely tells Gianni Infantino to host next World Cup in the US with China - Yahoo Sports",
-      "originalSummary": "Donald Trump bizarrely tells Gianni Infantino to host next World Cup in the US with China  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQWnBGcm1IS3VVT3BqN1FOTlg5TVdHQjFRT3JvQ2t0OE93U3JzRkVEZ21GcGtmZ0wxZVFKOHNQSWFmbUVPTEFMbElPV25mN2pCR2FkeDN3QkJCZmpMMks4VzdvQ2IwempYTWNYZHVURVdGV2g3YWF0bUd5TFhNLTJWT3d5VmsxOVRuQ01hSA?oc=5",
-      "publishedAt": "2026-07-18T03:53:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-union-station-reports-400-000-visitors-during-kansas-city-world-cup-2026-kshb-41-kansas-city",
-      "title": "联合车站报告 2026 年堪萨斯城世界杯期间有超过 400,000 名游客 - KSHB 41 Kansas City",
-      "summary": "联合车站报告 2026 年堪萨斯城世界杯期间有超过 400,000 名游客  KSHB 41 堪萨斯城",
-      "originalTitle": "Union Station reports 400,000+ visitors during Kansas City World Cup 2026 - KSHB 41 Kansas City",
-      "originalSummary": "Union Station reports 400,000+ visitors during Kansas City World Cup 2026  KSHB 41 Kansas City",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV2xMMlZjM1ROMTFJS3pCbGtVY19mREdVTWswb0dqVzdwX2F2UDgtUXRpZDM4N082TW9VcTh0NkszOVpZSEZDQkZwdVlValR1TVBneXNkZUJqYWk3OEdsQWNYa25CV0ZvRVhqV3BteUo2amdsX25xY0QxQUdFMHR1LTVNN19wcDBKc2VlTzkycEVuVkJqd21Zc1NSTlcxZThNQXh1ZUxGbGZXVzhiM044?oc=5",
-      "publishedAt": "2026-07-18T03:46:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-fifa官方-2026年世界杯冠军将历史首次获得专属冠军戒指-新浪网",
-      "title": "FIFA官方：2026年世界杯冠军将历史首次获得专属冠军戒指 - 新浪网",
-      "summary": "FIFA官方：2026年世界杯冠军将历史首次获得专属冠军戒指  新浪网",
-      "originalTitle": "FIFA官方：2026年世界杯冠军将历史首次获得专属冠军戒指 - 新浪网",
-      "originalSummary": "FIFA官方：2026年世界杯冠军将历史首次获得专属冠军戒指  新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRF9SRzVEb1JzSURxLUxyX3ByYXpVT3hVclJQa3BzOGVfa0h6VF9YWVNnckVLc3pWUHlkOElESVNaeXRkOC1fRkJfQ0FUVi1RM1BFeTR3QmVIYWFMN1cwcEtRdUJERk9YTzdXTVpfNmVyUWtMclV2VWx2ZWhOS054MFM0a0czUEtPdUw0Q1U2MnVXZw?oc=5",
-      "publishedAt": "2026-07-18T03:40:45+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-final-pitch-type-of-grass-and-how-the-2026-field-at-metlife-stadium-took-fifa-eight-years-to-devel",
-      "title": "世界杯决赛场地：草坪类型以及大都会人寿体育场 2026 年球场如何花费 FIFA 八年时间开发 - sportingnews.com",
-      "summary": "世界杯决赛场地：草坪类型，以及大都会人寿体育场 2026 年球场如何花费 FIFA 八年的时间来开发 sportingnews.com",
-      "originalTitle": "World Cup final pitch: Type of grass, and how the 2026 field at MetLife Stadium took FIFA eight years to develop - sportingnews.com",
-      "originalSummary": "World Cup final pitch: Type of grass, and how the 2026 field at MetLife Stadium took FIFA eight years to develop  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOa1o1LWxkbzRLVjRDdFZ2TU5ocXNpdEpaUUU5bjJXeUFEVWY4OURRN05SSlBsdlFIajk3SHFhRU50dzBSMDh2S1lUdkQ3X2FldDNzT1VZX1JpSjZKRW5PbU9aLXlodFlLWElxVVNtUmVacm9LVnlTTWl6S2VIN2FFMVN3SmpfM3dpMU12OEJfb1JQVlZiSnk3Vk9yVVlESVZJRExXVUotMUFNUDR1b3YyTDgyeE5XVUtxX25MR2oyRmJhX3M?oc=5",
-      "publishedAt": "2026-07-18T03:34:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-final-what-to-know-xinhua",
-      "title": "世界杯决赛：你需要知道什么 - 新华社",
-      "summary": "世界杯决赛：需要了解什么 新华社",
-      "originalTitle": "World Cup final: What to know - Xinhua",
-      "originalSummary": "World Cup final: What to know  Xinhua",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAwb0M2SlBQWXRaMjRMOGJSVU80WGZoMGREMkFwbDU5ZlpaUlVKZU12cjhxbWt0UlJjMEQ5M0NXUmUwVjJGM1NBdTRLczJWTnZURFdzOWlVRk81ZFNzY2FmMkJyZjRraEhJNVlrOTA2UGF0eHpzRXdDRUlFNA?oc=5",
-      "publishedAt": "2026-07-18T03:21:18+00:00",
       "heat": 52
     }
   ]
