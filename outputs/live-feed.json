@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T19:18:07.982245+00:00",
+  "updatedAt": "2026-07-18T20:21:41.120719+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -19,7 +19,7 @@
       "homeRedCards": 0,
       "awayRedCards": 0,
       "tempo": 0,
-      "marketMove": 8,
+      "marketMove": 11,
       "stats": {
         "home": {
           "shots": 0.0,
@@ -40,31 +40,31 @@
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "-120",
+        "homeMoneyline": "-130",
         "drawMoneyline": "+300",
-        "awayMoneyline": "+285",
+        "awayMoneyline": "+320",
         "homeOpenMoneyline": "+110",
         "spreadLine": "-0.5",
-        "spreadOdds": "-125",
+        "spreadOdds": "-135",
         "totalLine": "o3.5",
         "overOdds": "+110",
-        "underOdds": "-135"
+        "underOdds": "-140"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "pregame",
-          "homeMoneyline": "-120",
+          "homeMoneyline": "-130",
           "drawMoneyline": "+300",
-          "awayMoneyline": "+285",
+          "awayMoneyline": "+320",
           "spreadLine": "-0.5",
-          "spreadOdds": "-125",
+          "spreadOdds": "-135",
           "totalLine": "o3.5",
           "overOdds": "+110",
-          "underOdds": "-135",
-          "homeImplied": 0.5454545454545454,
+          "underOdds": "-140",
+          "homeImplied": 0.5652173913043478,
           "drawImplied": 0.25,
-          "awayImplied": 0.2597402597402597,
+          "awayImplied": 0.23809523809523808,
           "available": true
         },
         {
@@ -236,6 +236,15 @@
           "awayMoneyline": "+285",
           "spreadLine": "-0.5",
           "totalLine": "o3.5"
+        },
+        {
+          "minute": 0,
+          "marketMove": 11,
+          "homeMoneyline": "-130",
+          "drawMoneyline": "+300",
+          "awayMoneyline": "+320",
+          "spreadLine": "-0.5",
+          "totalLine": "o3.5"
         }
       ],
       "scoreHistory": [
@@ -290,7 +299,7 @@
         "awayMoneyline": "+255",
         "homeOpenMoneyline": "+125",
         "spreadLine": "-0.5",
-        "spreadOdds": "+120",
+        "spreadOdds": "+115",
         "totalLine": "o2.5",
         "overOdds": "+125",
         "underOdds": "-155"
@@ -303,7 +312,7 @@
           "drawMoneyline": "+200",
           "awayMoneyline": "+255",
           "spreadLine": "-0.5",
-          "spreadOdds": "+120",
+          "spreadOdds": "+115",
           "totalLine": "o2.5",
           "overOdds": "+125",
           "underOdds": "-155",
