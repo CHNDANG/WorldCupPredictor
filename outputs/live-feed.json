@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T20:56:56.052655+00:00",
+  "updatedAt": "2026-07-19T22:00:09.678051+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -453,63 +453,63 @@
       "espnEventId": "760517",
       "kickoffUtc": "2026-07-19T19:00Z",
       "status": "live",
-      "detail": "79'",
-      "minute": 79,
+      "detail": "120'+3'",
+      "minute": 120,
       "homeName": "Spain",
       "awayName": "Argentina",
-      "homeGoals": 0,
+      "homeGoals": 1,
       "awayGoals": 0,
-      "homeXg": 2.39,
-      "awayXg": 0.04,
+      "homeXg": 4.2,
+      "awayXg": 0.34,
       "homeRedCards": 0,
-      "awayRedCards": 0,
-      "tempo": -5,
-      "marketMove": -14,
+      "awayRedCards": 1,
+      "tempo": 2,
+      "marketMove": 0,
       "stats": {
         "home": {
-          "shots": 10.0,
-          "shotsOnTarget": 7.0,
-          "corners": 7.0,
-          "possession": 63.0,
-          "passes": 507.0,
+          "shots": 20.0,
+          "shotsOnTarget": 12.0,
+          "corners": 9.0,
+          "possession": 65.4,
+          "passes": 841.0,
           "redCards": 0.0
         },
         "away": {
-          "shots": 0.0,
+          "shots": 2.0,
           "shotsOnTarget": 0.0,
-          "corners": 1.0,
-          "possession": 37.0,
-          "passes": 307.0,
-          "redCards": 0.0
+          "corners": 4.0,
+          "possession": 34.6,
+          "passes": 451.0,
+          "redCards": 1.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "+205",
-        "drawMoneyline": "-150",
-        "awayMoneyline": "+700",
+        "homeMoneyline": "OFF",
+        "drawMoneyline": "OFF",
+        "awayMoneyline": "OFF",
         "homeOpenMoneyline": "+125",
         "spreadLine": "-0.5",
-        "spreadOdds": "+200",
-        "totalLine": "o0.5",
-        "overOdds": "+113",
-        "underOdds": "-134"
+        "spreadOdds": "OFF",
+        "totalLine": "o2.5",
+        "overOdds": "OFF",
+        "underOdds": "OFF"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
           "scope": "live",
-          "homeMoneyline": "+205",
-          "drawMoneyline": "-150",
-          "awayMoneyline": "+700",
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "OFF",
+          "awayMoneyline": "OFF",
           "spreadLine": "-0.5",
-          "spreadOdds": "+200",
-          "totalLine": "o0.5",
-          "overOdds": "+113",
-          "underOdds": "-134",
-          "homeImplied": 0.32786885245901637,
-          "drawImplied": 0.6,
-          "awayImplied": 0.125,
+          "spreadOdds": "OFF",
+          "totalLine": "o2.5",
+          "overOdds": "OFF",
+          "underOdds": "OFF",
+          "homeImplied": null,
+          "drawImplied": null,
+          "awayImplied": null,
           "available": true
         },
         {
@@ -527,22 +527,6 @@
           "drawImplied": null,
           "awayImplied": null,
           "available": false
-        },
-        {
-          "provider": "DraftKings - Live Odds",
-          "scope": "live",
-          "homeMoneyline": "205",
-          "drawMoneyline": "-150.0",
-          "awayMoneyline": "700",
-          "spreadLine": "ESP +205",
-          "spreadOdds": null,
-          "totalLine": "0.5",
-          "overOdds": null,
-          "underOdds": null,
-          "homeImplied": 0.32786885245901637,
-          "drawImplied": 0.6,
-          "awayImplied": 0.125,
-          "available": true
         },
         {
           "provider": "Pinnacle",
@@ -643,137 +627,137 @@
       ],
       "correctScoreMarkets": [],
       "bookmakerSourceStatus": {
-        "espn": 2,
+        "espn": 1,
         "oddsApi": 0,
         "correctScore": 0,
         "oddsApiConfigured": false
       },
       "events": [
         {
-          "id": "49879553",
-          "minute": "45'",
+          "id": "49880354",
+          "minute": "98'",
+          "type": "start-delay",
+          "team": "Argentina",
+          "text": "Delay in match because of an injury Emiliano Martínez (Argentina).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:27:59Z"
+        },
+        {
+          "id": "49880356",
+          "minute": "99'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Martín Zubimendi replaces Rodri.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:29:05Z"
+        },
+        {
+          "id": "49880357",
+          "minute": "99'",
+          "type": "substitution",
+          "team": "Spain",
+          "text": "Substitution, Spain. Eric García replaces Aymeric Laporte.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:29:13Z"
+        },
+        {
+          "id": "49880358",
+          "minute": "99'",
+          "type": "end-delay",
+          "team": "Argentina",
+          "text": "Delay over. They are ready to continue.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:29:17Z"
+        },
+        {
+          "id": "49880359",
+          "minute": "99'",
+          "type": "end-delay",
+          "team": "Spain",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:29:18Z"
+        },
+        {
+          "id": "49880402",
+          "minute": "102'",
           "type": "substitution",
           "team": "Argentina",
-          "text": "Substitution, Argentina. Leandro Paredes replaces Nico González.",
+          "text": "Substitution, Argentina. Marcos Senesi replaces Julián Alvarez.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:21:55Z"
+          "wallclock": "2026-07-19T21:32:08Z"
         },
         {
-          "id": "49879555",
-          "minute": "45'",
-          "type": "start-2nd-half",
+          "id": "49880507",
+          "minute": "105'+3'",
+          "type": "halftime-extra-time",
           "team": "",
-          "text": "Second Half begins Spain 0, Argentina 0.",
+          "text": "First Half Extra Time ends, Spain 0, Argentina 0.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:22:22Z"
+          "wallclock": "2026-07-19T21:38:49Z"
         },
         {
-          "id": "49879651",
-          "minute": "52'",
+          "id": "49880513",
+          "minute": "105'",
+          "type": "start-2nd-half-extra-time",
+          "team": "",
+          "text": "Second Half Extra Time begins Spain 0, Argentina 0.",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:41:52Z"
+        },
+        {
+          "id": "49880522",
+          "minute": "106'",
+          "type": "goal---volley",
+          "team": "Spain",
+          "text": "Goal! Spain 1, Argentina 0. Ferran Torres (Spain) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nico Williams with a headed pass.",
+          "scoringPlay": true,
+          "wallclock": "2026-07-19T21:42:30Z"
+        },
+        {
+          "id": "49880589",
+          "minute": "111'",
           "type": "yellow-card",
           "team": "Argentina",
-          "text": "Leandro Paredes (Argentina) is shown the yellow card.",
+          "text": "Alexis Mac Allister (Argentina) is shown the yellow card for a bad foul.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:28:38Z"
+          "wallclock": "2026-07-19T21:47:16Z"
         },
         {
-          "id": "49879727",
-          "minute": "58'",
-          "type": "substitution",
-          "team": "Argentina",
-          "text": "Substitution, Argentina. Nahuel Molina replaces Gonzalo Montiel.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:34:39Z"
-        },
-        {
-          "id": "49879769",
-          "minute": "62'",
-          "type": "substitution",
-          "team": "Spain",
-          "text": "Substitution, Spain. Ferran Torres replaces Mikel Oyarzabal.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:38:33Z"
-        },
-        {
-          "id": "49879770",
-          "minute": "62'",
-          "type": "substitution",
-          "team": "Spain",
-          "text": "Substitution, Spain. Pedri replaces Fabián Ruiz.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:38:34Z"
-        },
-        {
-          "id": "49879841",
-          "minute": "67'",
+          "id": "49880679",
+          "minute": "117'",
           "type": "start-delay",
           "team": "Spain",
-          "text": "Delay in match for a drinks break.",
+          "text": "Delay in match because of an injury Mikel Merino (Spain).",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:44:09Z"
+          "wallclock": "2026-07-19T21:53:19Z"
         },
         {
-          "id": "49879843",
-          "minute": "67'",
+          "id": "49880678",
+          "minute": "117'",
           "type": "start-delay",
           "team": "Argentina",
-          "text": "Delay in match for a drinks break.",
+          "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:44:10Z"
+          "wallclock": "2026-07-19T21:53:19Z"
         },
         {
-          "id": "49879847",
-          "minute": "70'",
+          "id": "49880681",
+          "minute": "118'",
           "type": "end-delay",
           "team": "Spain",
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:46:54Z"
+          "wallclock": "2026-07-19T21:54:50Z"
         },
         {
-          "id": "49879845",
-          "minute": "70'",
+          "id": "49880682",
+          "minute": "119'",
           "type": "end-delay",
           "team": "Argentina",
-          "text": "Delay over. They are ready to continue.",
+          "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T20:46:54Z"
-        },
-        {
-          "id": "49879846",
-          "minute": "70'",
-          "type": "substitution",
-          "team": "Argentina",
-          "text": "Substitution, Argentina. Facundo Medina replaces Cristian Romero because of an injury.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:47:07Z"
-        },
-        {
-          "id": "49879848",
-          "minute": "70'",
-          "type": "substitution",
-          "team": "Argentina",
-          "text": "Substitution, Argentina. Giuliano Simeone replaces Rodrigo De Paul.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:47:10Z"
-        },
-        {
-          "id": "49879933",
-          "minute": "75'",
-          "type": "substitution",
-          "team": "Spain",
-          "text": "Substitution, Spain. Nico Williams replaces Álex Baena.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:52:03Z"
-        },
-        {
-          "id": "49879934",
-          "minute": "75'",
-          "type": "substitution",
-          "team": "Spain",
-          "text": "Substitution, Spain. Mikel Merino replaces Dani Olmo.",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T20:52:05Z"
+          "wallclock": "2026-07-19T21:54:59Z"
         }
       ],
       "note": "",
@@ -849,6 +833,15 @@
           "awayMoneyline": "+700",
           "spreadLine": "-0.5",
           "totalLine": "o0.5"
+        },
+        {
+          "minute": 120,
+          "marketMove": 0,
+          "homeMoneyline": "OFF",
+          "drawMoneyline": "OFF",
+          "awayMoneyline": "OFF",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
         }
       ],
       "scoreHistory": [
@@ -872,6 +865,13 @@
           "awayGoals": 0,
           "homeXg": 2.39,
           "awayXg": 0.04
+        },
+        {
+          "minute": 120,
+          "homeGoals": 1,
+          "awayGoals": 0,
+          "homeXg": 4.2,
+          "awayXg": 0.34
         }
       ]
     }
