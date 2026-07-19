@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-18T23:29:07.170262+00:00",
+  "updatedAt": "2026-07-19T01:05:49.338541+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -294,7 +294,7 @@
           "team": "France",
           "text": "Goal! France 4, England 5. Ousmane Dembélé (France) left footed shot from the centre of the box to the bottom left corner. Assisted by Dayot Upamecano following a fast break.",
           "scoringPlay": true,
-          "wallclock": "2026-07-18T22:58:27Z"
+          "wallclock": "2026-07-18T22:58:26Z"
         },
         {
           "id": "49869058",
