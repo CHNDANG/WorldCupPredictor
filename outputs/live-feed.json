@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T22:00:09.678051+00:00",
+  "updatedAt": "2026-07-19T23:04:16.798572+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -452,8 +452,8 @@
       "id": "espn-760517",
       "espnEventId": "760517",
       "kickoffUtc": "2026-07-19T19:00Z",
-      "status": "live",
-      "detail": "120'+3'",
+      "status": "ft",
+      "detail": "AET",
       "minute": 120,
       "homeName": "Spain",
       "awayName": "Argentina",
@@ -470,46 +470,46 @@
           "shots": 20.0,
           "shotsOnTarget": 12.0,
           "corners": 9.0,
-          "possession": 65.4,
-          "passes": 841.0,
+          "possession": 65.1,
+          "passes": 852.0,
           "redCards": 0.0
         },
         "away": {
           "shots": 2.0,
           "shotsOnTarget": 0.0,
           "corners": 4.0,
-          "possession": 34.6,
-          "passes": 451.0,
+          "possession": 34.9,
+          "passes": 464.0,
           "redCards": 1.0
         }
       },
       "odds": {
         "provider": "DraftKings",
-        "homeMoneyline": "OFF",
-        "drawMoneyline": "OFF",
-        "awayMoneyline": "OFF",
+        "homeMoneyline": "+125",
+        "drawMoneyline": "+205",
+        "awayMoneyline": "+265",
         "homeOpenMoneyline": "+125",
         "spreadLine": "-0.5",
-        "spreadOdds": "OFF",
+        "spreadOdds": "+115",
         "totalLine": "o2.5",
-        "overOdds": "OFF",
-        "underOdds": "OFF"
+        "overOdds": "+130",
+        "underOdds": "-160"
       },
       "bookmakers": [
         {
           "provider": "DraftKings",
-          "scope": "live",
-          "homeMoneyline": "OFF",
-          "drawMoneyline": "OFF",
-          "awayMoneyline": "OFF",
+          "scope": "pregame",
+          "homeMoneyline": "+125",
+          "drawMoneyline": "+205",
+          "awayMoneyline": "+265",
           "spreadLine": "-0.5",
-          "spreadOdds": "OFF",
+          "spreadOdds": "+115",
           "totalLine": "o2.5",
-          "overOdds": "OFF",
-          "underOdds": "OFF",
-          "homeImplied": null,
-          "drawImplied": null,
-          "awayImplied": null,
+          "overOdds": "+130",
+          "underOdds": "-160",
+          "homeImplied": 0.4444444444444444,
+          "drawImplied": 0.32786885245901637,
+          "awayImplied": 0.273972602739726,
           "available": true
         },
         {
@@ -634,15 +634,6 @@
       },
       "events": [
         {
-          "id": "49880354",
-          "minute": "98'",
-          "type": "start-delay",
-          "team": "Argentina",
-          "text": "Delay in match because of an injury Emiliano Martínez (Argentina).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T21:27:59Z"
-        },
-        {
           "id": "49880356",
           "minute": "99'",
           "type": "substitution",
@@ -694,7 +685,7 @@
           "team": "",
           "text": "First Half Extra Time ends, Spain 0, Argentina 0.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T21:38:49Z"
+          "wallclock": "2026-07-19T21:38:48Z"
         },
         {
           "id": "49880513",
@@ -712,7 +703,7 @@
           "team": "Spain",
           "text": "Goal! Spain 1, Argentina 0. Ferran Torres (Spain) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nico Williams with a headed pass.",
           "scoringPlay": true,
-          "wallclock": "2026-07-19T21:42:30Z"
+          "wallclock": "2026-07-19T21:42:29Z"
         },
         {
           "id": "49880589",
@@ -752,12 +743,21 @@
         },
         {
           "id": "49880682",
-          "minute": "119'",
+          "minute": "118'",
           "type": "end-delay",
           "team": "Argentina",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T21:54:59Z"
+          "wallclock": "2026-07-19T21:54:50Z"
+        },
+        {
+          "id": "49880762",
+          "minute": "120'+5'",
+          "type": "end-extra-time",
+          "team": "",
+          "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T22:02:23Z"
         }
       ],
       "note": "",
@@ -840,6 +840,15 @@
           "homeMoneyline": "OFF",
           "drawMoneyline": "OFF",
           "awayMoneyline": "OFF",
+          "spreadLine": "-0.5",
+          "totalLine": "o2.5"
+        },
+        {
+          "minute": 120,
+          "marketMove": 0,
+          "homeMoneyline": "+125",
+          "drawMoneyline": "+205",
+          "awayMoneyline": "+265",
           "spreadLine": "-0.5",
           "totalLine": "o2.5"
         }
