@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-19T01:05:49.338541+00:00",
+  "updatedAt": "2026-07-19T04:51:00.749622+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -26,7 +26,7 @@
           "shotsOnTarget": 9.0,
           "corners": 3.0,
           "possession": 45.9,
-          "passes": 444.0,
+          "passes": 445.0,
           "redCards": 0.0
         },
         "away": {
@@ -34,7 +34,7 @@
           "shotsOnTarget": 11.0,
           "corners": 4.0,
           "possession": 54.1,
-          "passes": 517.0,
+          "passes": 518.0,
           "redCards": 0.0
         }
       },
@@ -189,13 +189,13 @@
       },
       "events": [
         {
-          "id": "49868556",
+          "id": "49868557",
           "minute": "82'",
           "type": "start-delay",
-          "team": "France",
-          "text": "",
+          "team": "England",
+          "text": "Delay in match because of an injury Jarell Quansah (England).",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T22:44:56Z"
+          "wallclock": "2026-07-18T22:44:50Z"
         },
         {
           "id": "49868561",
@@ -231,7 +231,7 @@
           "team": "England",
           "text": "Goal! France 3, England 5. Bukayo Saka (England) converts the penalty with a left footed shot to the bottom right corner.",
           "scoringPlay": true,
-          "wallclock": "2026-07-18T22:49:43Z"
+          "wallclock": "2026-07-18T22:49:44Z"
         },
         {
           "id": "49868894",
@@ -252,22 +252,22 @@
           "wallclock": "2026-07-18T22:55:16Z"
         },
         {
-          "id": "49868993",
-          "minute": "90'+4'",
-          "type": "start-delay",
-          "team": "England",
-          "text": "Delay in match because of an injury Djed Spence (England).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-18T22:56:50Z"
-        },
-        {
           "id": "49868986",
           "minute": "90'+4'",
           "type": "start-delay",
           "team": "France",
           "text": "",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T22:56:51Z"
+          "wallclock": "2026-07-18T22:56:49Z"
+        },
+        {
+          "id": "49868993",
+          "minute": "90'+4'",
+          "type": "start-delay",
+          "team": "England",
+          "text": "Delay in match because of an injury Djed Spence (England).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-18T22:56:49Z"
         },
         {
           "id": "49868994",
@@ -294,7 +294,7 @@
           "team": "France",
           "text": "Goal! France 4, England 5. Ousmane Dembélé (France) left footed shot from the centre of the box to the bottom left corner. Assisted by Dayot Upamecano following a fast break.",
           "scoringPlay": true,
-          "wallclock": "2026-07-18T22:58:26Z"
+          "wallclock": "2026-07-18T22:58:27Z"
         },
         {
           "id": "49869058",
@@ -303,7 +303,7 @@
           "team": "England",
           "text": "Goal! France 4, England 6. Jude Bellingham (England) right footed shot from the centre of the box to the bottom right corner following a fast break.",
           "scoringPlay": true,
-          "wallclock": "2026-07-18T23:00:18Z"
+          "wallclock": "2026-07-18T23:00:19Z"
         },
         {
           "id": "49869073",
@@ -490,10 +490,10 @@
         "awayMoneyline": "+255",
         "homeOpenMoneyline": "+125",
         "spreadLine": "-0.5",
-        "spreadOdds": "+115",
+        "spreadOdds": "+120",
         "totalLine": "o2.5",
         "overOdds": "+125",
-        "underOdds": "-155"
+        "underOdds": "-160"
       },
       "bookmakers": [
         {
@@ -503,10 +503,10 @@
           "drawMoneyline": "+200",
           "awayMoneyline": "+255",
           "spreadLine": "-0.5",
-          "spreadOdds": "+115",
+          "spreadOdds": "+120",
           "totalLine": "o2.5",
           "overOdds": "+125",
-          "underOdds": "-155",
+          "underOdds": "-160",
           "homeImplied": 0.4444444444444444,
           "drawImplied": 0.3333333333333333,
           "awayImplied": 0.28169014084507044,
