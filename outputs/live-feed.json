@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T01:06:25.169606+00:00",
+  "updatedAt": "2026-07-20T05:08:10.592562+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -471,7 +471,7 @@
           "shotsOnTarget": 12.0,
           "corners": 9.0,
           "possession": 65.1,
-          "passes": 852.0,
+          "passes": 853.0,
           "redCards": 0.0
         },
         "away": {
@@ -699,7 +699,7 @@
         {
           "id": "49880522",
           "minute": "106'",
-          "type": "goal---volley",
+          "type": "goal",
           "team": "Spain",
           "text": "Goal! Spain 1, Argentina 0. Ferran Torres (Spain) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nico Williams with a headed pass.",
           "scoringPlay": true,
