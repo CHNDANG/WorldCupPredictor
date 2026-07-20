@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T13:27:30.599955+00:00",
+  "updatedAt": "2026-07-20T15:30:56.703465+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -658,7 +658,7 @@
           "team": "Argentina",
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T21:29:18Z"
+          "wallclock": "2026-07-19T21:29:17Z"
         },
         {
           "id": "49880359",
@@ -685,7 +685,7 @@
           "team": "",
           "text": "First Half Extra Time ends, Spain 0, Argentina 0.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T21:38:48Z"
+          "wallclock": "2026-07-19T21:38:49Z"
         },
         {
           "id": "49880513",
@@ -703,7 +703,7 @@
           "team": "Spain",
           "text": "Goal! Spain 1, Argentina 0. Ferran Torres (Spain) left footed shot from the centre of the box to the high centre of the goal. Assisted by Nico Williams with a headed pass.",
           "scoringPlay": true,
-          "wallclock": "2026-07-19T21:42:29Z"
+          "wallclock": "2026-07-19T21:42:30Z"
         },
         {
           "id": "49880589",
