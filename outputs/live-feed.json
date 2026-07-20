@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-20T05:08:10.592562+00:00",
+  "updatedAt": "2026-07-20T08:25:35.187041+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -222,7 +222,7 @@
           "team": "England",
           "text": "Substitution, England. Reece James replaces Jarell Quansah because of an injury.",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T22:45:37Z"
+          "wallclock": "2026-07-18T22:45:38Z"
         },
         {
           "id": "49868711",
@@ -240,7 +240,7 @@
           "team": "France",
           "text": "Substitution, France. Jules Koundé replaces Malo Gusto because of an injury.",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T22:53:36Z"
+          "wallclock": "2026-07-18T22:53:37Z"
         },
         {
           "id": "49868925",
@@ -249,7 +249,7 @@
           "team": "England",
           "text": "Substitution, England. Trevoh Chalobah replaces Marc Guéhi.",
           "scoringPlay": false,
-          "wallclock": "2026-07-18T22:55:16Z"
+          "wallclock": "2026-07-18T22:55:17Z"
         },
         {
           "id": "49868986",
@@ -658,7 +658,7 @@
           "team": "Argentina",
           "text": "Delay over. They are ready to continue.",
           "scoringPlay": false,
-          "wallclock": "2026-07-19T21:29:17Z"
+          "wallclock": "2026-07-19T21:29:18Z"
         },
         {
           "id": "49880359",
@@ -715,20 +715,20 @@
           "wallclock": "2026-07-19T21:47:16Z"
         },
         {
-          "id": "49880679",
-          "minute": "117'",
-          "type": "start-delay",
-          "team": "Spain",
-          "text": "Delay in match because of an injury Mikel Merino (Spain).",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T21:53:19Z"
-        },
-        {
           "id": "49880678",
           "minute": "117'",
           "type": "start-delay",
           "team": "Argentina",
           "text": "",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:53:19Z"
+        },
+        {
+          "id": "49880679",
+          "minute": "117'",
+          "type": "start-delay",
+          "team": "Spain",
+          "text": "Delay in match because of an injury Mikel Merino (Spain).",
           "scoringPlay": false,
           "wallclock": "2026-07-19T21:53:19Z"
         },
