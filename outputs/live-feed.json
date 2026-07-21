@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-21T07:34:43.942658+00:00",
+  "updatedAt": "2026-07-21T10:28:46.256721+00:00",
   "provider": "ESPN public scoreboard + summary",
   "source": "https://site.api.espn.com/apis/site/v2/sports/soccer/fifa.world/scoreboard",
   "matches": [
@@ -270,20 +270,20 @@
           "wallclock": "2026-07-19T21:47:16Z"
         },
         {
-          "id": "49880678",
-          "minute": "117'",
-          "type": "start-delay",
-          "team": "Argentina",
-          "text": "",
-          "scoringPlay": false,
-          "wallclock": "2026-07-19T21:53:19Z"
-        },
-        {
           "id": "49880679",
           "minute": "117'",
           "type": "start-delay",
           "team": "Spain",
           "text": "Delay in match because of an injury Mikel Merino (Spain).",
+          "scoringPlay": false,
+          "wallclock": "2026-07-19T21:53:19Z"
+        },
+        {
+          "id": "49880678",
+          "minute": "117'",
+          "type": "start-delay",
+          "team": "Argentina",
+          "text": "",
           "scoringPlay": false,
           "wallclock": "2026-07-19T21:53:19Z"
         },
