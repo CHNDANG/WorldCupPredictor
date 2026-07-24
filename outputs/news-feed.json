@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-24T14:22:02.184758+00:00",
+  "updatedAt": "2026-07-24T15:56:46.437916+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,111 @@
   ],
   "articles": [
     {
-      "id": "google-news-world-cup-2026-official-fifa-payouts-usmnt-net-16-million-while-spain-lead-with-51-million-hitc-com",
-      "title": "2026 年世界杯 FIFA 官方赔付：美国净赚 1600 万美元，西班牙领先 5100 万美元 - hitc.com",
-      "summary": "2026 年世界杯 FIFA 官方支出：USMNT 净收入 1,600 万美元，西班牙以 5,100 万美元领先 hitc.com",
-      "originalTitle": "World Cup 2026 official FIFA payouts: USMNT net $16 million while Spain lead with $51 million - hitc.com",
-      "originalSummary": "World Cup 2026 official FIFA payouts: USMNT net $16 million while Spain lead with $51 million  hitc.com",
+      "id": "google-news-10-brands-that-won-the-world-cup-according-to-data-adweek",
+      "title": "数据显示，赢得世界杯的 10 个品牌 - ADWEEK",
+      "summary": "ADWEEK 数据显示，赢得世界杯的 10 个品牌",
+      "originalTitle": "10 Brands That Won the World Cup, According to Data - ADWEEK",
+      "originalSummary": "10 Brands That Won the World Cup, According to Data  ADWEEK",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYXYwRzZIQjQ4Rlp4V2pFTk8tTWtqNEFudWdxeG5pOVBHYldnMHhQM0VqcU9lSTVZTXAwMkZpejZTcDF1LXhhbUxPNkZSRGduRXpIcEpoTFozaEtBa3ZTY21oQkc0Rmc3XzlKbnkxaEJoTmdiclpnVVBXdElSLTQ2SXBOODlBZGI3ZzFibm44SUphZ2NUQkZWVWpMZFVxUWE3aEppTFNwaXlUNklya2ZEWS1n?oc=5",
-      "publishedAt": "2026-07-24T14:16:14+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQblJOSFVxcGVEVGlLZDdCX3JkWVpUS1JLdTF2cGlJTkpHNGw5YU9Pcy0tR3gzQm4wQllKSl9iWllOaFhwUGVmTlVZUUk2Vlk3VS1hWEtiT2lrbUllTUFLRFZBRmFfZXVzM2U2WjhEc0k0ZDR3WkJIZHZLUk1EbzF5Q21IUGRMMnJESWljZXE5dXRwalItZHhXemliUzhQd01iN1ZtRl9MVVpOVTIyVXBqTGpkelFyRmN5MERMU0c5ZlI0bUNTMVFfeTBCODFSdUN6a1IyZHNuVFdZQ0pPWkF5bGhDX1A?oc=5",
+      "publishedAt": "2026-07-24T15:52:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-south-korea-exits-early-at-2026-world-cup-amid-criticism-조선일보",
+      "title": "韩国在批评声中提前退出 2026 年世界杯 - 조선일보",
+      "summary": "韩国在批评声中提前退出 2026 年世界杯",
+      "originalTitle": "South Korea Exits Early at 2026 World Cup Amid Criticism - 조선일보",
+      "originalSummary": "South Korea Exits Early at 2026 World Cup Amid Criticism  조선일보",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN08tcmZFSndBV3YxTmRGdTVIcE53cVR2c3doYU9kY3pyR2lHeHQ1Ri0wLWxmUkNrNi0yME1fdERyQU1PMmJ2SmZVWFFwS0NGSmtLQ3VpQlJNQ3JSdEM5c2Z6alBvYUFVSFktMWR1WS1fcjN6SXVoZUhQWEFnR1VjdFdPcnhLMnI0?oc=5",
+      "publishedAt": "2026-07-24T15:31:11+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-national-team-coach-calls-behavior-of-argentina-national-team-players-in-the-2026-world-cup-final-unac",
+      "title": "西班牙国家队教练称阿根廷国家队球员在 2026 年世界杯决赛中的行为不可接受且不可接受 - Українські Національні Новини (УНН)",
+      "summary": "西班牙国家队教练称阿根廷国家队球员在 2026 年世界杯决赛中的行为不可接受且不可接受",
+      "originalTitle": "Spain national team coach calls behavior of Argentina national team players in the 2026 World Cup final unacceptable and inadmissible - Українські Національні Новини (УНН)",
+      "originalSummary": "Spain national team coach calls behavior of Argentina national team players in the 2026 World Cup final unacceptable and inadmissible  Українські Національні Новини (УНН)",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNWUJHcC1GNTAxaWJoZk5vUE1NRTl0N0pva2xjUjlTdUY1dkJIcDBNWHZLZEtYbnJnRGpGSHB0Ynl0LXFRdnhBY3hYVU9GZGdOOFgtVWs3UGk1R2lOU0JzQlN6cDlRLWN5RGo4Q0wtNEFpWmNTMF9lblN0Qzd1YUZZRVhiYTQxYVJhTW15WHpXempwUVFiazlZTUZpTWV5Q3gyZ2thMDhMRllQN0hlUExqNTZnMVQ2SUpLTjFfTHBuSWZmOVE3cFREclcwcVJCT09lQmRWRjlxM3k0RVJqSWdUMUotX3VZeHhaQnJZdNIB6wFBVV95cUxOUkxJa21zeWlHWTZWR01FWXg4VGJtQ0pPa2tNcmp1ZzV4aFV1d3ZjOTZnMEFWQlloRWxEbWIxYVQtUHU5bU5nbHJlNThUVVkyUGt6OVZwWV9kaEVPdGxJT1hTNXk3anFsejYyNzFBRHpxb0hkckVleDhNSEdFNlN0MDBNSGRXV3Vram90RlgyZl9KVHhQam9hNmpBSl91dXlseTAzd25BRFhoSGRyLTZBUmZVd2NoN1BnRkN2VDRDUndyNThFaXBnRmxnbXNQS05sa0dKZ2JKTUpTMHF6dzQ1bmlZR3hXN19kUFlN?oc=5",
+      "publishedAt": "2026-07-24T15:18:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-behaviour-after-world-cup-final-was-intolerable-says-de-la-fuente-the-guardian",
+      "title": "德拉富恩特称阿根廷队在世界杯决赛后的行为“无法容忍” - 卫报",
+      "summary": "《卫报》德拉富恩特表示，阿根廷队在世界杯决赛后的行为“令人无法容忍”",
+      "originalTitle": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente - The Guardian",
+      "originalSummary": "Argentina behaviour after World Cup final was ‘intolerable’, says De la Fuente  The Guardian",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVWlORmpOUE81d3p6Q2Nhd2RocnlQU2Y1bUNSQWxsYU9kNzMtZk9neDBsVjdyaThoYXlTN215clg2V2NkUzZlOEZVOUVrb3VDMldiWHJIUEFyUWdOTWJMTGFLaUdNY0FJNEZNRXFXNFh0UzJZNENDS1BaVDc3b3hDUTUtaXRQSkFLXzlqZUEtSWlEY1R5Ym1DQXl3cHZONE9FbDg2a3gxQThNYzc5Umc?oc=5",
+      "publishedAt": "2026-07-24T15:11:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-all-45-major-league-soccer-players-at-the-2026-world-cup-ranked-the-guardian",
+      "title": "参加 2026 年世界杯的全部 45 名美国职业足球大联盟球员排名 - 《卫报》",
+      "summary": "《卫报》对参加 2026 年世界杯的全部 45 名美国职业足球大联盟球员进行了排名",
+      "originalTitle": "All 45 Major League Soccer players at the 2026 World Cup, ranked - The Guardian",
+      "originalSummary": "All 45 Major League Soccer players at the 2026 World Cup, ranked  The Guardian",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX29GRExPZnAta0dlMEFzc2hkS1lnbUVhNHBQYUREdGJNbWN4c1E5RWdFWEtFUUtIczRaR0FqOGVNVVUzalJ3WHVYZjlyUWNKVkdFYXNIdjFHYnNwOXRjc2l4amlQODl1bldZMTJKa0NDS3ZVUmE1QlJBOVl2NGFRUWdFX3FZUm9PTWc?oc=5",
+      "publishedAt": "2026-07-24T15:09:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-s-coach-condemns-argentina-s-unacceptable-behavior-after-world-cup-final-descends-into-chaos-with-braw",
+      "title": "世界杯决赛陷入混乱斗殴后，西班牙教练谴责阿根廷“不可接受”的行为",
+      "summary": "世界杯决赛因斗殴而陷入混乱后，西班牙教练谴责阿根廷的“不可接受”行为 People.com",
+      "originalTitle": "Spain’s Coach Condemns Argentina’s ‘Unacceptable’ Behavior After World Cup Final Descends into Chaos with Brawl - People.com",
+      "originalSummary": "Spain’s Coach Condemns Argentina’s ‘Unacceptable’ Behavior After World Cup Final Descends into Chaos with Brawl  People.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaHAxVmhrVGdSUWxsRVdIVjVNaURNb1hKRVdvREZ1YTJlUW1YYzA3MkxpSUtkU1puNkJOaHYwNE92aGxsT2JScXdUQi0ybnVYLV8tX2tuc0owbFNxU1B3MU01YWhBOHlrdGpYOG85RThMQ29fZjVXUXR6Z0F4ei1rMFlpTnlGS0I3T0Q3LUQ4NjlRdjFuaUhj?oc=5",
+      "publishedAt": "2026-07-24T15:02:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-dancing-with-shakira-at-world-cup-was-very-very-very-very-very-good-ghetto-kids-aol-com",
+      "title": "在世界杯上与夏奇拉共舞“非常非常非常非常非常好” - Ghetto Kids - AOL.com",
+      "summary": "在世界杯上与夏奇拉共舞“非常非常非常非常非常好” - Ghetto Kids AOL.com",
+      "originalTitle": "Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids - AOL.com",
+      "originalSummary": "Dancing with Shakira at World Cup was 'very, very, very, very, very good' - Ghetto Kids  AOL.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9rREVXdXcwa2R2Ti1uOW1pc2RRZUdkaU5tUkhQb21KNkZXSmM5NVc4RHdVeDJ6bkthazFzQlBZVXVmcFppYnJXalJ1M05yWDRfVGU2M3pWNzBfNUlxZlFEM3BPTjRUZFRKdDhEQjZ0S2hSZHA3a1Q0SDZuVHJ3cUk?oc=5",
+      "publishedAt": "2026-07-24T14:56:33+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-official-fifa-payouts-usmnt-net-16-million-while-spain-lead-with-51-million-yahoo-sports",
+      "title": "2026 年世界杯 FIFA 官方支出：美国队净赚 1600 万美元，西班牙以 5100 万美元领先 - 雅虎体育",
+      "summary": "2026 年世界杯 FIFA 官方支出：USMNT 净收入 1,600 万美元，西班牙以 5,100 万美元领先 雅虎体育",
+      "originalTitle": "World Cup 2026 official FIFA payouts: USMNT net $16 million while Spain lead with $51 million - Yahoo Sports",
+      "originalSummary": "World Cup 2026 official FIFA payouts: USMNT net $16 million while Spain lead with $51 million  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOEJJTTNYYUhZX2R3RWVSLUJVWmZHbUpfMUxEM0NfWlU5Y3pIcnVHMDl3TFA2U0VLUU4yNkRYTUZMVmhDcmlTNjVDcmZXQ2t4ZzVzdzI3WHZWQXFFc29OMVA3VjRCRjdSUlpSMFNlMFRsU0tSOERUbWlEUUxQY19OaDBiaw?oc=5",
+      "publishedAt": "2026-07-24T14:46:14+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-mexican-state-sees-economic-impact-after-fifa-world-cup-2026-telesur-english",
+      "title": "墨西哥州看到 2026 年 FIFA 世界杯后的经济影响 - teleSUR",
+      "summary": "墨西哥州看到 2026 年 FIFA 世界杯后的经济影响 teleSUR 中文",
+      "originalTitle": "Mexican State Sees Economic Impact After FIFA World Cup 2026 - teleSUR English",
+      "originalSummary": "Mexican State Sees Economic Impact After FIFA World Cup 2026  teleSUR English",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNEN6c0QybUNySFotaGlyY0lJMkdVX0ZiaHRSMXY1MzZOMV9HdzNxRXRxRnZIcFBIX0lwbENGMzdnUHZqZ0FOS29XOXFiWU51X1NFXzRSNmdfZy1EM0txR2FpSWhNdmtJVXpPYVlIRWVTS2JfWjBlNV9CMm1JSWU3WFVGREp5ZzRxMTRuMlpCVlVndnBnMGhZ?oc=5",
+      "publishedAt": "2026-07-24T14:15:21+00:00",
       "heat": 60
     },
     {
@@ -32,6 +128,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-trump-s-world-cup-and-the-beautiful-game-of-political-interference-diem25-democracy-in-europe-movement-2025",
+      "title": "特朗普的世界杯和政治干预的美丽游戏 - DiEM25 - 2025年欧洲民主运动",
+      "summary": "特朗普的世界杯和政治干预的美丽游戏 DiEM25 - 2025 年欧洲民主运动",
+      "originalTitle": "Trump’s World Cup and the beautiful game of political interference - DiEM25 - Democracy in Europe Movement 2025",
+      "originalSummary": "Trump’s World Cup and the beautiful game of political interference  DiEM25 - Democracy in Europe Movement 2025",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNMHRvd2JlZm5uYkFQS2Nrc1lORE52YW1CaHkwV0Q2S0FRZFJENXlTeXRyb2V4c21TelJBa09ueVV0LWVIbjJZeDVaU1IwVDdGTGZ0ejA0cEhZQUFRMkNzbldsQXZ3R09nVUMyOEowVVVqcElCZTBZV0VNWGQ0eng2WkRhNlNzNFU5Y0Jrb19R?oc=5",
+      "publishedAt": "2026-07-24T14:12:48+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-millions-demand-fifa-bans-argentina-from-world-cup-for-life-aol-com",
       "title": "数百万人要求国际足联终身禁止阿根廷参加世界杯 - AOL.com",
       "summary": "数百万人要求国际足联终身禁止阿根廷参加世界杯 AOL.com",
@@ -41,6 +149,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQajVyQjJwaUFySEc5ZmtVSFRTWHRhLWttbEdBVmRnYlpOcFlCQ2l1YlNieVVEU0lUY2xjRUFwZm91bGk3NTRyMjFvX0xtX01qYjhfQmRvenlhcV9kaFdlRThZX01ISGJhQVNZN3NxUHY5MGt6aFhWUWVEQ18wdnk5X3NabGRidw?oc=5",
       "publishedAt": "2026-07-24T14:00:14+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-best-2026-fifa-world-cup-ads-from-adidas-and-nike-yahoo",
+      "title": "阿迪达斯和耐克 2026 年 FIFA 世界杯最佳广告 - 雅虎",
+      "summary": "来自阿迪达斯和耐克的最佳 2026 年 FIFA 世界杯广告 雅虎",
+      "originalTitle": "Best 2026 FIFA World Cup Ads From Adidas and Nike - Yahoo",
+      "originalSummary": "Best 2026 FIFA World Cup Ads From Adidas and Nike  Yahoo",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNOEhxY0xLY2l2ZGtVcG84cFoxVFJ5UjVfcUFrUnhZTU12QU1LNU15TUFzUVN3bUFHdG8ya0w4YnFoMHFGelIwcXhzYjllaGhid3lvVVBHeGdOWGJnbDRhMjg5czExckQzRk5BZm44bG5FMFBhUEdNX19qd0tVTFJFd1UxYWctTDVQeHRfQw?oc=5",
+      "publishedAt": "2026-07-24T14:00:06+00:00",
       "heat": 60
     },
     {
@@ -102,126 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUnVJU29weTFFZHhvbDJ1TGplWXdFTjdPOHV2SGE4b0FoSWNicXFvSTluWWhRWHN1b2w3MkxTbHZfMVNicHNZVm93RjY3amRqYUNpekxqUGYxaW4tTHNTR0VkVHBPN3BoX0FnZ1lST2F6VXFIZkZMOU4xUHIwOEQwSnU3LUxxZmQ5Y3NGUnMxOFRkZGVWVFJVS2JzckE2ZUtOX19XVjg1dFI1eWZqN1c0TUtjNS1fYTEtZ3NRUVFWS21Kcm1YV3NXcVNGaHhlTTg?oc=5",
       "publishedAt": "2026-07-24T13:38:44+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-miami-boston-san-jose-led-world-cup-spending-surge-visa-travel-agent-central",
-      "title": "迈阿密、波士顿、圣何塞引领世界杯消费激增：Visa - Travel Agent Central",
-      "summary": "迈阿密、波士顿、圣何塞引领世界杯消费激增：Visa 旅行社中心",
-      "originalTitle": "Miami, Boston, San Jose Led World Cup Spending Surge: Visa - Travel Agent Central",
-      "originalSummary": "Miami, Boston, San Jose Led World Cup Spending Surge: Visa  Travel Agent Central",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUmpFM2w1M1E0RUpvNFlVUWZFSEZMVEFMbUx0c1NaV210ZWFvZ0l4eVdWWjhtRTFKRlFqYlozZmNjeUlwVXNwSTVzZmdVQy1saXJlTldaWmxNRGFzeEtQMWhsUENfeW82a18zTlhyVmhoSlNVNlg4UDVGbTlkcnA4WEpTUnRfQkpqS0JLeFAwUFFuUm1HWmJKUmhYNDdvMVd1Yjd1Q3JCUQ?oc=5",
-      "publishedAt": "2026-07-24T13:30:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-de-la-fuente-slams-argentina-s-intolerable-world-cup-final-behaviour-bein-sports",
-      "title": "德拉富恩特猛烈抨击阿根廷世界杯决赛的“令人难以忍受”的行为 - beIN SPORTS",
-      "summary": "德拉富恩特抨击阿根廷在世界杯决赛中的“令人无法容忍”的行为",
-      "originalTitle": "De la Fuente slams Argentina's 'intolerable' World Cup final behaviour - beIN SPORTS",
-      "originalSummary": "De la Fuente slams Argentina's 'intolerable' World Cup final behaviour  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOS01Kb3poMnNhQTB4a3RnRkVXYnN5S19DSXNzS3BEZUlNWDZvMl9Jd1ZiV0Z2UlYxOExUNXY1Ml9CVlh0NnBNZjBWbzRVa0g0QnFKR1FzQWoySTlEN1FVSnJ1SHRiTlEzM0pJNDdMNHZVNjRtWURNaGh0YjQ2WXduYWtVSkxMc29VUzJjZF90ZjNaWU4tM0RlVmxyaXVnRlB6OGczNTI3Uzd0UEFzWUd6Tzl3WHlJNGRoMnhUUWV4RDZFTlc3T3RLYTBTWXZZTzNiRXBuTnpCNEo2aUhvaDhfQw?oc=5",
-      "publishedAt": "2026-07-24T13:26:54+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-one-nation-won-the-world-cup-one-book-was-given-to-all-48-standard-newswire",
-      "title": "一国夺得世界杯——为所有 48 人赠送一本书 - Standard Newswire",
-      "summary": "一个国家赢得了世界杯——向所有 48 个人赠送了一本书 Standard Newswire",
-      "originalTitle": "One Nation Won the World Cup — One Book Was Given to All 48 - Standard Newswire",
-      "originalSummary": "One Nation Won the World Cup — One Book Was Given to All 48  Standard Newswire",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWVF2VnIxdjd3Q2M2V0F6eTlIWjk5cHdqUnFIOGRkYXFOUkJ6ZG1laDZMT05jSTdWNWUzQ3VUYnVVR3JrMmMyem1VYWNkZndrN2twMmVLX2NtZUQyRVlCYUhGWWZrTElXSUtKVUpVemtWZnZUYlNSTUdhX2pNVEpHalhaNGQzUTZtX1A1NWIwMFE?oc=5",
-      "publishedAt": "2026-07-24T13:04:30+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-most-stressed-fans-study-shows-heavy-com",
-      "title": "研究显示 2026 年 FIFA 世界杯球迷压力最大 - Heavy.com",
-      "summary": "研究显示 2026 年 FIFA 世界杯球迷压力最大  heavy.com",
-      "originalTitle": "FIFA World Cup 2026 Most Stressed Fans, Study Shows - heavy.com",
-      "originalSummary": "FIFA World Cup 2026 Most Stressed Fans, Study Shows  heavy.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYjVlV2Jncl9MdUtYZ3pqeUw3RjMxbWtCM2dYZzRtcjVrc3dzUV9nbjY0QXhCYlJmTmQzc2dTcW9Kc2hhZVZHX1laOFdOYkhSYUNfQzVNSy16NWFxMkdBNHVoSFVlSGpmLWVlYXg0ZFIzZ1Y0bllmREtaQ3Q4c3RBZjRXb01IVzduZm9F?oc=5",
-      "publishedAt": "2026-07-24T13:02:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-people-behind-the-world-cup-drexel-triangle",
-      "title": "世界杯背后的人们——德雷克塞尔三角",
-      "summary": "世界杯德雷塞尔三角背后的人们",
-      "originalTitle": "The people behind the World Cup - Drexel Triangle",
-      "originalSummary": "The people behind the World Cup  Drexel Triangle",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1YQWhVT2xfVGhXQUx6WVhEaXBOMk1MTVZ4THR3dE41UE14S3o4ZVN2UlFyUzFvUnA5TC1DY01FNlUtZk1OckdralV1TEVZS2Z2YmsyZ0dGMDI2OVVCTkp5VmlhZ0p4ZnI4YVY2QUIxWTgzdUVGanc?oc=5",
-      "publishedAt": "2026-07-24T13:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-philadelphia-reflects-on-the-world-cup-drexel-triangle",
-      "title": "费城对世界杯的反思 - 德雷克塞尔三角",
-      "summary": "费城对世界杯德雷克塞尔三角的反思",
-      "originalTitle": "Philadelphia reflects on the World Cup - Drexel Triangle",
-      "originalSummary": "Philadelphia reflects on the World Cup  Drexel Triangle",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9RcWJzSTNMTGpBZUdnMzZJZktUVFFGTGdPckpZMlBVSm5wNGVocUVIcl9uVGNqTVFBVkZkWlVnQW4wOUl3N2JqS3d0Smw3czctSEdsMWpvbHJWT1dDMkFKd3F6MkVVUXRIRGlLcVRJTVgwYmVjM1NjcDNMYlEtenc?oc=5",
-      "publishedAt": "2026-07-24T13:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-luis-de-la-fuente-blasts-argentina-s-intolerable-and-unacceptable-behaviour-towards-spain-players-after-worl",
-      "title": "德拉富恩特怒斥阿根廷队在世界杯决赛失利后对西班牙球员的行为“无法容忍且无法接受” Goal.com",
-      "summary": "路易斯·德拉富恩特抨击世界杯决赛失利后阿根廷队对西班牙球员的“无法容忍和不可接受”的行为 Goal.com",
-      "originalTitle": "Luis de la Fuente blasts Argentina's 'intolerable and unacceptable' behaviour towards Spain players after World Cup final loss - Goal.com",
-      "originalSummary": "Luis de la Fuente blasts Argentina's 'intolerable and unacceptable' behaviour towards Spain players after World Cup final loss  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNHRzZkJlblBtQ1F1QUNETW5qZ01xZnBoZWhnOFlGMm5IenlvWXpXMjhoWVc4ZnBlaGlrVi1oVHR5RVhObHp1YllvR1dfWF9rMFI2RUtZVDVWeGU3NW9Za0dILWp4Zm5JZE1lZ1NXbzRWak93dWRoeEIzZUV6UkdaMjFhakdpekd0Snh5SVhFMnE3T2FXWV9qZ1RIVHU3NnBIZklDQk1NUFc5M0pPb1RnMDVB?oc=5",
-      "publishedAt": "2026-07-24T12:58:07+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-intolerable-and-unacceptable-luis-de-la-fuente-slams-argentina-s-behaviour-after-world-cup-final-ndtv-profit",
-      "title": "“无法容忍和不可接受”：路易斯·德拉富恩特猛烈抨击阿根廷队在世界杯决赛后的行为 - NDTV Profit",
-      "summary": "“无法容忍且无法接受”：路易斯·德拉富恩特猛烈抨击阿根廷队在世界杯决赛后的行为 NDTV Profit",
-      "originalTitle": "'Intolerable And Unacceptable': Luis De La Fuente Slams Argentina's Behaviour After World Cup Final - NDTV Profit",
-      "originalSummary": "'Intolerable And Unacceptable': Luis De La Fuente Slams Argentina's Behaviour After World Cup Final  NDTV Profit",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOU3RFenpJSHIzRE5VcXJIMW9yWVJnVGU4aEEtT0piRVh2V1pKXzRQWDRfZWRzSXFoVVNncHJ2anExZTk2bERrQTcwX2hmNUNIMEs3S2V3S2ZSZ0t3djJiRFpBMXdKWEdhYS16Y1dXT2YwR2RNdzRSVUh6WEJqZXFpYkFybi1YQjZOUGhCaGlGbGJ6LTBQYlZad1AxLUF5ZEY3dzhvUVdYZmM4VGhjS3l3eFh5d01MTkt4VnE0dDkxYV9vUE84eVN0dlNCSVNzal9SMVdITUE4NWh3bEdvcVJLVWF30gHqAUFVX3lxTE5CelNFd2V3X2F3Vm5zZm9Md3JsSFFjWEZwSl9MXzBfcmdmMDlXZXNaNFdGcVBtcmF6M0htTkVzR2tnd0M3WlM5dkI2SzVRTnRiQjdfT0s1WERtQU1ac3huMm1LWTcxYUJRa1BJWEtiNGlBNGZHdW04TThkeUE3RUxla2wxNUZyRDRnNGw5a1ZQdllmbTRQSDlzaEhUcER6X1lqVlpUWVEyWTAza0xhYkY1VThYSG9BbTZUUjY2X0NvYnlyWEp6bGMxRTJ6eUs4VVBIVmRSVFd4c0NGc2R2d1hfYUJGTjlkV0NiZw?oc=5",
-      "publishedAt": "2026-07-24T12:54:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-was-fifa-world-cup-final-set-up-argentina-star-leandro-paredes-responds-to-theories-pay-no-attention-ndtv-sp",
-      "title": "国际足联世界杯决赛是“安排好的”吗？阿根廷球星莱昂德罗·帕雷德斯回应理论：“别在意” - NDTV Sports",
-      "summary": "国际足联世界杯决赛是“安排好的”吗？阿根廷球星莱安德罗·帕雷德斯回应理论：“别理会”NDTV Sports",
-      "originalTitle": "Was FIFA World Cup Final 'Set Up'? Argentina Star Leandro Paredes Responds To Theories: \"Pay No Attention\" - NDTV Sports",
-      "originalSummary": "Was FIFA World Cup Final 'Set Up'? Argentina Star Leandro Paredes Responds To Theories: \"Pay No Attention\"  NDTV Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOWmRjYTMwOUFGVlNwdGliYXh4MnYtQ0h0Snd1cmN1ZzlBTVhndUVGcnp0N2owcXpJQ3UtcGxlakIyajNxXzNpRkZTTEc3ZUNWWmtrQ1FNUVFpcVA4STRCZDRQOTAtMkF1M2xBTXBSTUliclJqYjdELUtodlNEM1JQNHIxRDlVRDVrTzZIRTB2STFaYlJBMVdCRDhKU1hvai1tNXhoTDVFbmdUcXpCYUJYbFdTbVF2dHN4SkZWVGZSNkhhSVBIWHhqdlllS0s1N0hmWDRYUjdSaURtS0llZ0ZRQ0otY3VXeFpm?oc=5",
-      "publishedAt": "2026-07-24T12:52:43+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026年世界杯的赌注相当于10次超级碗-voi-id",
-      "title": "2026年世界杯的赌注相当于10次超级碗 - VOI.ID",
-      "summary": "2026年世界杯的赌注相当于10次超级碗  VOI.ID",
-      "originalTitle": "2026年世界杯的赌注相当于10次超级碗 - VOI.ID",
-      "originalSummary": "2026年世界杯的赌注相当于10次超级碗  VOI.ID",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9iNGxJT3FsMlJFenVCdnhHdUxIVFVzc0o1Z1otYTRycEVlUHJqNmJtNnk2ekgyVVNQcVRIT2FVYmlNd9IBQkFVX3lxTE9iNGxJT3FsMlJFenVCdnhHdUxIVFVzc0o1Z1otYTRycEVlUHJqNmJtNnk2ekgyVVNQcVRIT2FVYmlNdw?oc=5",
-      "publishedAt": "2026-07-24T12:45:01+00:00",
-      "heat": 52
     }
   ]
 }
