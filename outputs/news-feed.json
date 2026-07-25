@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-25T08:31:31.233633+00:00",
+  "updatedAt": "2026-07-25T10:38:04.058546+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,76 @@
   ],
   "articles": [
     {
-      "id": "google-news-barcelona-star-is-now-the-leading-contender-for-the-2026-ballon-d-or-report-yahoo-sports-canada",
-      "title": "巴塞罗那球星现在是 2026 年金球奖的主要竞争者——报道 - 雅虎体育加拿大",
-      "summary": "巴塞罗那球星现在是 2026 年金球奖的主要竞争者——加拿大雅虎体育报道",
-      "originalTitle": "Barcelona star is now the leading contender for the 2026 Ballon d’Or – report - Yahoo Sports Canada",
-      "originalSummary": "Barcelona star is now the leading contender for the 2026 Ballon d’Or – report  Yahoo Sports Canada",
+      "id": "google-news-is-it-still-the-world-cup-haaland-just-keeps-on-rowing-yahoo-sports",
+      "title": "🎥 这还是世界杯吗？哈兰德继续划船 - 雅虎体育",
+      "summary": "🎥 这还是世界杯吗？哈兰德继续划船 雅虎体育",
+      "originalTitle": "🎥 Is it still the World Cup? Haaland just keeps on rowing - Yahoo Sports",
+      "originalSummary": "🎥 Is it still the World Cup? Haaland just keeps on rowing  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRzRvUVM0Sm1CTUduenBSUDhBMTJNNmNrZ0dJSG5XNld1QVdjZnVYbWZ5WG8ta0lRczk2ZWJibzRZTnpJT2lGN25pTk15YXFpSnQ5LWRiREVFd3pLekZUZkNCTmtJcG9jS2p0a2RobkhhUGVuenJwcU9nNmxTb04wQWhhcVphSHZ5a3ZmSQ?oc=5",
-      "publishedAt": "2026-07-25T08:05:00+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSjVmVkhGdVN0Mkt6VnoxSHcwNEtybmlCN1JpOHJoMDlCZTRJQzZlbldrc05VbGlMMXFhRkVmcGhVWTRRYndqcGxOSjNxUDI2Nmc4dmpXM0ppVldweTBNaTRjU2Z3c285bF9mS1BFcERyUTZGN2daZkw0X2pVa2p4WWQxNA?oc=5",
+      "publishedAt": "2026-07-25T10:11:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-when-are-barcelona-s-world-cup-winners-due-back-for-pre-season-yahoo-sports",
+      "title": "巴塞罗那的世界杯冠军何时回归季前赛？ - 雅虎体育",
+      "summary": "巴塞罗那的世界杯冠军何时回归季前赛？  雅虎体育",
+      "originalTitle": "When are Barcelona’s World Cup winners due back for pre-season? - Yahoo Sports",
+      "originalSummary": "When are Barcelona’s World Cup winners due back for pre-season?  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQVJYS1JlNlJsN015bTBIVXNueWx0UExiOVFFdElpZjdCS2RRdTlycnRSdG1rc1NldlI3bXZJcmhKM2pkaGk3QV85SURlRlgyNk9STl9rRDA3cUlaemEwZDJKMEtPZ3BLZU84S2oxeFpvaE5TcXNXTF9ZQTR1OG9yYm52WVpVX0U?oc=5",
+      "publishedAt": "2026-07-25T10:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-real-madrid-working-on-spectacular-deal-for-2026-world-cup-hero-yahoo-sports",
+      "title": "皇家马德里正在为 2026 年世界杯英雄达成惊人的交易 - 雅虎体育",
+      "summary": "皇家马德里正在为 2026 年世界杯英雄打造精彩交易 雅虎体育",
+      "originalTitle": "Real Madrid working on spectacular deal for 2026 World Cup hero - Yahoo Sports",
+      "originalSummary": "Real Madrid working on spectacular deal for 2026 World Cup hero  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxON1RtTnFZdlZnRl9fTnNOa3Zoa1JEclRSVGc2Nm5RNTlNTWlZZ3ltTGI2LWRTVHFicEs5bkFXVE1wMF9qOTl6cU5DZHZvMU5rbnRaeUplWFVLZU0tZV9ZUzhGel83bnZMeEVXZ2V5dUc4Sl9OOGRJckdPdlBuSGdVY1hsZEx2RE0xTGNaLXl3?oc=5",
+      "publishedAt": "2026-07-25T09:25:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-阿根廷队银牌同样珍视-阿根廷队-fifa-world-cup-2026_新浪新闻-新浪网",
+      "title": "阿根廷队银牌同样珍视|阿根廷队|fifa world cup 2026_新浪新闻 - 新浪网",
+      "summary": "阿根廷队银牌同样珍视|阿根廷队|fifa world cup 2026_新浪新闻  新浪网",
+      "originalTitle": "阿根廷队银牌同样珍视|阿根廷队|fifa world cup 2026_新浪新闻 - 新浪网",
+      "originalSummary": "阿根廷队银牌同样珍视|阿根廷队|fifa world cup 2026_新浪新闻  新浪网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBnbXhLRElkRXFZbnV3aGVpaWJFRnRETHc0a1JXZG5pWmt4ZWZqVkFPa0JQWGIyX2dVRnIxaU9OWGhERTlHdWlfUVd4M3RpdlREYzY0MkFYTm1VcWtfRThrUmFKOA?oc=5",
+      "publishedAt": "2026-07-25T09:17:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026年世界杯-巴洛贡世杯禁赛暂缓风波国际奥委会不调查因凡蒂诺-体育-2026世界杯-场外花絮-sin-chew-daily",
+      "title": "2026年世界杯|巴洛贡世杯禁赛暂缓风波国际奥委会不调查因凡蒂诺- 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
+      "summary": "2026年世界杯|巴洛贡世杯禁赛暂缓风波国际奥委会不调查因凡蒂诺- 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
+      "originalTitle": "2026年世界杯|巴洛贡世杯禁赛暂缓风波国际奥委会不调查因凡蒂诺- 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
+      "originalSummary": "2026年世界杯|巴洛贡世杯禁赛暂缓风波国际奥委会不调查因凡蒂诺- 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE4yLXVCckV4bVZFVzdrWm40N2xmTU9SLUZfcF96OTBORFpEUWdvWFROVkpUMUhtOEs0aGFrSmtnX2V4TEMxTjRMSHJxMzBaaWl1b2F5Z0FxcC1LWTI2OW42SlFtcEtOQQ?oc=5",
+      "publishedAt": "2026-07-25T08:36:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider",
+      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - VegasInsider",
+      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 VegasInsider",
+      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - VegasInsider",
+      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  VegasInsider",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHprbm94WFhmOXNZZHotTGkxSHdoZm1rRGlFcWRHTGNoZHM4SzJWOWFXdWVXX2V3MTQtLW5qOEYzaUdJZF81XzQzSjZkRXJlTzR6UFJxRmd0RnNIS2F6S0x0ajBQSGNQczdDemQ4MndGN2J3WldoTEgxaWFTdkNXb2UxcEhoX2JyWTlhTkxQdE9ZN2FF?oc=5",
+      "publishedAt": "2026-07-25T08:05:19+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-world-cup-star-vozinha-joins-colo-colo-조선일보",
@@ -30,6 +90,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOWXVXUVp0Qm9IRDUwRHFBclBueG42cTJzTlNYWFVYVy1QWE9NSENJWjZPd29jZHMtS1VPbU1tWXhkUXRBQmRsSkh2ZUM1Wko0UUpQQnpGaEpQUUQ2U0NjbWJJQUxaYXQ0bGpxRTJHUHhPaTVRYzBxYmlTcVNPbXE0bDIyMEs?oc=5",
       "publishedAt": "2026-07-25T08:00:06+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-president-donald-trump-loudly-booed-during-2026-fifa-world-cup-final-appearance-aol-com",
+      "title": "唐纳德·特朗普总统在 2026 年 FIFA 世界杯决赛中大声嘘声 - AOL.com",
+      "summary": "唐纳德·特朗普总统在 2026 年 FIFA 世界杯决赛中大声嘘声 AOL.com",
+      "originalTitle": "President Donald Trump Loudly Booed During 2026 FIFA World Cup Final Appearance - AOL.com",
+      "originalSummary": "President Donald Trump Loudly Booed During 2026 FIFA World Cup Final Appearance  AOL.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVktkYlUtMHgtNklCcjJSNXBXeXRmYXI4dGhHekZPejA0S0IweTZ3Q3NBN29VYjhTd3duTWtwSk9iM3MxVnlndEFESDZWRXNHcUktcVFUeGhPQ0dYSWVRbHFFQjFWaWVoUWZ3dklpUDJGMlBqQlFsSjJ4OTA4eFk5aVhqM0RFdw?oc=5",
+      "publishedAt": "2026-07-25T07:57:40+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-ioc-rules-out-pursuing-infantino-over-fifa-world-cup-2026-red-card-row-business-standard",
@@ -56,15 +128,51 @@
       "heat": 60
     },
     {
-      "id": "google-news-study-challenges-claims-2026-world-cup-was-sport-s-most-polluting-event-khabarhub",
-      "title": "研究质疑 2026 年世界杯是体育界污染最严重的赛事 - Khabarhub",
-      "summary": "研究质疑 2026 年世界杯是体育界污染最严重的赛事的说法 Khabarhub",
-      "originalTitle": "Study challenges claims 2026 World Cup was sport’s most polluting event - Khabarhub",
-      "originalSummary": "Study challenges claims 2026 World Cup was sport’s most polluting event  Khabarhub",
+      "id": "google-news-world-cup-grades-for-all-47-eliminated-teams-from-the-tournament-espn",
+      "title": "世界杯所有 47 支被淘汰球队的成绩 - ESPN",
+      "summary": "所有 47 支被淘汰的球队的世界杯成绩 ESPN",
+      "originalTitle": "World Cup grades for all 47 eliminated teams from the tournament - ESPN",
+      "originalSummary": "World Cup grades for all 47 eliminated teams from the tournament  ESPN",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB2MDJXUG1wVHJVeG1tR0RpNkRMYzc2MGN1b0NxZTlyN1F6b3JBb2pDbW03OU93SXlqTURLbFROejY3cjNkR0g5LXRlV1BzX3pXWFRxMmgyTWQ?oc=5",
-      "publishedAt": "2026-07-25T06:51:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQzVVd2YyVUR5b2R5R1V4R1VjVUZMdllmR05JcHVrVHc2cGVoV1hkN3JmSFVKNmlTZFVnaV9QQ1NYVXltTmhWMkFvZXg1Z2JJTVFuNU1MZUpNNUhRR2ZSa3ZudlIxZTcxQ2FCVk1EZ1AzSms4LUl6MV9lVFRMT3J3WlFVYVkzc0VZMnJaV1p0d0tIb2w4NUpya3ZvTEVwTUVHRnBWcFhyMDl6eHVSaVpKTnAwMGk?oc=5",
+      "publishedAt": "2026-07-25T07:29:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-we-were-all-fortunate-to-see-lionel-messi-juan-roman-riquelme-suggests-argentina-captain-may-be-above-diego-",
+      "title": "“我们都很幸运能见到梅西”——胡安·罗曼·里克尔梅表示，在2026年世界杯的出色表现后，阿根廷队长可能会超越迭戈·马拉多纳 - Goal.com",
+      "summary": "“我们都很幸运能见到梅西”——胡安·罗曼·里克尔梅表示，在 2026 年世界杯的出色表现后，阿根廷队长可能会超越迭戈·马拉多纳 Goal.com",
+      "originalTitle": "'We were all fortunate to see Lionel Messi' - Juan Roman Riquelme suggests Argentina captain may be above Diego Maradona after stellar 2026 World Cup campaign - Goal.com",
+      "originalSummary": "'We were all fortunate to see Lionel Messi' - Juan Roman Riquelme suggests Argentina captain may be above Diego Maradona after stellar 2026 World Cup campaign  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQdGVfWkx6MkpLM2pSVGhMdUthWVFvN0FJbl93SndmTUNfZlZfbTNWOFQwWHZtZ3M3MVBHYWFKbVl5cW9Za1JNRWVrbkdKdU9aUUZDVExSa18zS00tckY5Y3I5YkZPeHFNSDZ4WkN1WTdGQWt0OENLUWhranJWbUxyTm5wOTliWjZacmhIcFFPRkxVczUyWUdUb2N4WmhreFJjT1ZnUUVpbDZ5YXpIZkh6eUtBSlh1UQ?oc=5",
+      "publishedAt": "2026-07-25T07:22:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-meet-erling-haaland-s-dad-alfie-who-played-for-norway-in-the-1994-fifa-world-cup-the-korea-times",
+      "title": "来认识一下埃尔林·哈兰德的父亲阿尔菲，他代表挪威队参加了 1994 年 FIFA 世界杯 - 韩国时报",
+      "summary": "来认识一下埃尔林·哈兰德的父亲阿尔菲，他代表挪威队参加了 1994 年 FIFA 世界杯",
+      "originalTitle": "Meet Erling Haaland's dad Alfie, who played for Norway in the 1994 FIFA World Cup - The Korea Times",
+      "originalSummary": "Meet Erling Haaland's dad Alfie, who played for Norway in the 1994 FIFA World Cup  The Korea Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZHZLTWR5RExQS2dKcS1ra0JyeFA5SkE1d3N2bVdaMVR0cVdrQ0dNOHBPVGdxNDYzWm1oWFQ1bkNJM19nY2lQcUR2N3Y4a1E5a1NNbUR2X0xYYlRyWjZlXzVZYkNITmphbzJtZkdoNzFXNmtXM2xqdnp5U2ZMWVBWZmlRcXNGckR1UW5JaXZhdWt2ZlFFR3Ftb1NEMmZRdFpobW9NOTdoeVFxbklBaGdPSXhSS1B6ek11T2xjRnpLZmVueEE3YllF0gHHAUFVX3lxTE1kdktNZHlETFBLZ0pxLWtrQnJ4UDlKQTV3c3ZtV1oxVHRxV2tDR004cE9UZ3E0NjNabWhYVDVuQ0kzX2djaVBxRHY3djhrUTlrU01tRHZfTFhiVHJaNmVfNVliQ0hOamFvMm1mR2g3MVc2a1czbGp2enlTZkxZUFZmaVFxc0ZyRHVRbklpdmF1a3ZmUUVHcW1vU0QyZlF0Wmhtb005N2h5UXFuSUFoZ09JeFJLUHp6TXVPbGNGektmZW54QTdiWUU?oc=5",
+      "publishedAt": "2026-07-25T07:20:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-森保一为何选择在2026世界杯后卸任国家队教练-新浪网",
+      "title": "森保一为何选择在2026世界杯后卸任国家队教练？ - 新浪网",
+      "summary": "森保一为何选择在2026世界杯后卸任国家队教练？  新浪网",
+      "originalTitle": "森保一为何选择在2026世界杯后卸任国家队教练？ - 新浪网",
+      "originalSummary": "森保一为何选择在2026世界杯后卸任国家队教练？  新浪网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHSzgwZWlQZjZRaG5ZYnIyTmZHZWpQR0xIa1R2S1l2UmJaN21pX1o4Q1BYM052UUZxTlBwMVBIelVMREszR0dJVHk3ak0yWjdmR3JxR3lNWWx6YUpBVzJ4OUx4SHh1cVBxWllEX2FTcHZ1Zw?oc=5",
+      "publishedAt": "2026-07-25T07:19:00+00:00",
       "heat": 52
     },
     {
@@ -92,6 +200,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-how-world-cup-2026-proved-football-has-remarkable-ability-to-cure-all-ills-london-evening-standard",
+      "title": "2026 年世界杯如何证明足球具有包治百病的非凡能力 - 伦敦标准晚报",
+      "summary": "2026 年世界杯如何证明足球具有包治百病的非凡能力 伦敦标准晚报",
+      "originalTitle": "How World Cup 2026 proved football has remarkable ability to cure all ills - London Evening Standard",
+      "originalSummary": "How World Cup 2026 proved football has remarkable ability to cure all ills  London Evening Standard",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTGlEZWw3TjNiaEwzcEJiOWoyUExrWlVPeEdZR3EzNlZXbDV6Uko1OFk5M1l4dG12RG10SU02ZDVhVGxER2lENmk5UlVGNmo3TnFMelN1MzFuLUtyS0RJWERqLUFSUHRJZDlBNlg3cEEwYVBkZWN6Q1JRNzRlUjdEODhkUE1xOGk0Sy1yZFIyTQ?oc=5",
+      "publishedAt": "2026-07-25T06:00:36+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-新闻-中文-世界杯扩军至64队对中国队意味着什么-手机新浪网",
       "title": "世界杯扩军至64队对中国队意味着什么？ - 手机新浪网",
       "summary": "世界杯扩军至64队对中国队意味着什么？  手机新浪网",
@@ -101,126 +221,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPeU9Pc3Jhel8zZWo2OUZ1eWtzZEhFdUlEOGxBaW5WMUhqa0NjTDY1YzVmczVFZ3NKQlNuZHdIRWhMM1NXWE5rOHA0djZhcklRWFVXVGR3TGFHT1VucXdfalJia1dzV1ItQkNnSUgxdWs3cHlkZXRNQnpkSDlIVDhOTThDTHh0ZlRyR3FIR05PQmFqNXp4ZWhTbVVEXzBoMGx2WXc?oc=5",
       "publishedAt": "2026-07-25T05:59:53+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-loewe-celebrates-spain-s-second-world-cup-with-a-commemorative-photo-collection-fashion-united",
-      "title": "Loewe 推出纪念照片集庆祝西班牙第二次夺得世界杯 - Fashion United",
-      "summary": "Loewe 推出纪念照片集庆祝西班牙第二次夺得世界杯 Fashion United",
-      "originalTitle": "Loewe celebrates Spain's second World Cup with a commemorative photo collection - Fashion United",
-      "originalSummary": "Loewe celebrates Spain's second World Cup with a commemorative photo collection  Fashion United",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNQktXc0xqSDlyOXVLeUFqa0R4RlpTekFBaDJHV251V2JZYXhiTHZhMG9NQ2hKNC1hVzE1QVIzbFk5U2N0cVVFdldnRjVKcU5EMXpPUElQS0l3Sm5udngxcG55dzNFTHF0Y2VTcUQydUVnd3NYS3NUVFNBbnZsZFhWQjZUUDYxdXh5WEVoRnJrd1hWQ0RvT3R4R2JTWjlYbTl2ZmpfTjVmQzdRSVR1TzJ2ZE9sSzJwSlY2cElLUW9sUW5DOGZ0LUNJSW9n?oc=5",
-      "publishedAt": "2026-07-25T05:53:31+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-donald-trump-mocked-after-he-s-booed-at-2026-world-cup-finale-the-world-hates-him-watch-aol-com",
-      "title": "唐纳德·特朗普在 2026 年世界杯决赛中遭到嘘声后遭到嘲笑：“世界讨厌他” — 观看 - AOL.com",
-      "summary": "唐纳德·特朗普在 2026 年世界杯决赛中遭到嘘声后遭到嘲笑：“全世界都讨厌他” — 观看 AOL.com",
-      "originalTitle": "Donald Trump Mocked After He's Booed at 2026 World Cup Finale: 'The World Hates Him' — Watch - AOL.com",
-      "originalSummary": "Donald Trump Mocked After He's Booed at 2026 World Cup Finale: 'The World Hates Him' — Watch  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBRWDBlTHowamNPTXkwTTJiclZBWnpTTGtjeVRIOXdIQWI0dWJYaE9KRU1wT2ZoV1dfeGRuemFsbDBLVEhpaTBCOE94djhfb2tGaGZJNmpZUmVHUWRHNzhFUHFaMGRoWDNjZ2RoWnBiRzBRUzlrYTBmX0hVSU94UQ?oc=5",
-      "publishedAt": "2026-07-25T05:17:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-国际足联主席年薪十年涨四倍-世界杯过度商业化引发争议-新浪网",
-      "title": "国际足联主席年薪十年涨四倍，世界杯过度商业化引发争议。 - 新浪网",
-      "summary": "国际足联主席年薪十年涨四倍，世界杯过度商业化引发争议。  新浪网",
-      "originalTitle": "国际足联主席年薪十年涨四倍，世界杯过度商业化引发争议。 - 新浪网",
-      "originalSummary": "国际足联主席年薪十年涨四倍，世界杯过度商业化引发争议。  新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb2h5Y3hmeTVKc0s2cFk2NkVjdGNUd21hVWZ0WEN0YXFCeGVWZU1QYVQ4S3JIZkRrV3ZRaTQ4QjZIYXg5NG1rQVdTSFBGZFRYRTJsb3J5MlBDR3dYT0wyVUE3S2QtYmp4ZHk2Z1E1RHNKYzZBMmtJRFdxcGlaSldhaWVn?oc=5",
-      "publishedAt": "2026-07-25T05:01:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-france-s-kylian-mbappe-earns-golden-boot-as-2026-world-cup-top-scorer-aol-com",
-      "title": "法国队的基利安·姆巴佩 (Kylian Mbappe) 荣获 2026 年世界杯金靴奖 - AOL.com",
-      "summary": "法国队的基利安·姆巴佩 (Kylian Mbappe) 荣获 2026 年世界杯最佳射手金靴奖 AOL.com",
-      "originalTitle": "France's Kylian Mbappe earns Golden Boot as 2026 World Cup top scorer - AOL.com",
-      "originalSummary": "France's Kylian Mbappe earns Golden Boot as 2026 World Cup top scorer  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQeVRWWGJmSDRKNHBOcGd5UmwtdkVULWR5VW84LWUtZ1plcV9DYmxrU19tQTlMOVhjb3lvVmliZi1fdGR6c29RSldycktQd1dfT1ZLdXp0YlJVeUhCdTRSM3paZnVRWXFkY0k2U0d6M0o0THA5Znh4WHp6c0ZnMF9WNUtjNGo?oc=5",
-      "publishedAt": "2026-07-25T04:45:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cape-verde-hero-vozinha-joins-popular-chilean-club-after-world-cup-exploits-the-big-lead",
-      "title": "佛得角英雄沃齐尼亚在世界杯上取得佳绩后加盟智利受欢迎的俱乐部 - 大领先",
-      "summary": "佛得角英雄沃齐尼亚在世界杯后加入受欢迎的智利俱乐部大比分领先",
-      "originalTitle": "Cape Verde hero Vozinha joins popular Chilean club after World Cup exploits - The Big Lead",
-      "originalSummary": "Cape Verde hero Vozinha joins popular Chilean club after World Cup exploits  The Big Lead",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWE52LU9KeDI5V1h0aEVrYUpWNjFxenFERThzdkV4SU1YUHU0cGJVUFpicEtEbHg2TjBqdXo2OEprZkNjbnR2V3NrX2Q4VXBZd2ZZYmRReWFjM1FkWjQ2S0J3dFFOY3dkODg2aFNkbE9zQU1WMHJBNjZZSFUwLVJYUE9EZVpxdUpwLUZIUnExdlJmSExSMk5j?oc=5",
-      "publishedAt": "2026-07-25T04:40:29+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-president-condemns-world-cup-critics-over-treatment-of-lionel-messi-and-co-yahoo-sports",
-      "title": "阿根廷总统谴责世界杯批评者对梅西及其同事的待遇 - 雅虎体育",
-      "summary": "阿根廷总统谴责世界杯批评者对莱昂内尔·梅西及其团队的待遇。雅虎体育",
-      "originalTitle": "Argentina President Condemns World Cup Critics Over Treatment of Lionel Messi and Co. - Yahoo Sports",
-      "originalSummary": "Argentina President Condemns World Cup Critics Over Treatment of Lionel Messi and Co.  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUzNoV05oNWxuMVdjcENIVUtXdlhqSks5VnNBaTBWNUV2U01panpSc3Z2TFVPZmNEQ2FaV1BDMjZXeXVlalNGbndoR3Z1akZXdmtfUXA5SVBZY0dRcWhNV1R4N0VxM25kV1g1M09Cb18wZkhJd1BYLV9jZHdoQTYyWW9GcFVKTS11OVdrTDVlb1U?oc=5",
-      "publishedAt": "2026-07-25T04:25:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cape-verde-s-fifa-world-cup-sensation-vozinha-to-join-chile-club-colo-colo-ndtv-sports",
-      "title": "佛得角世界杯明星沃齐尼亚将加盟智利科洛科洛俱乐部 - NDTV Sports",
-      "summary": "佛得角世界杯明星球员沃齐尼亚将加盟智利科洛科洛俱乐部 NDTV Sports",
-      "originalTitle": "Cape Verde's FIFA World Cup Sensation Vozinha To Join Chile Club Colo Colo - NDTV Sports",
-      "originalSummary": "Cape Verde's FIFA World Cup Sensation Vozinha To Join Chile Club Colo Colo  NDTV Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONF9QX2JkYnE5TDVscXNZX2NJQjVuLTVObFBiUFZGR3hoMVZScWRBUEYyd08ybVpjV1p2bERTd2JNWXg1SzVlb2VUckM4Mktvek5nNmlMelhaSW5KdVhWVjhEc3ZOd0dIUVVDandhS1B6VXFWSnRxOWNTZHVYQ0JTU09zZm5BTzBwREdZOUNzT3FFR2Rpejk1UnhPUWtoODNGM0Q2aDcza19hVElEanAtNTY0eWlfUmFvU1otaUlB?oc=5",
-      "publishedAt": "2026-07-25T04:11:58+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-downtown-san-jose-hosts-one-million-visitors-over-the-course-of-the-world-cup-games-ktvu",
-      "title": "圣何塞市中心在世界杯期间接待了 100 万游客 - KTVU",
-      "summary": "圣何塞市中心在世界杯比赛期间接待了 100 万游客 KTVU",
-      "originalTitle": "Downtown San Jose hosts one million visitors over the course of the World Cup games - KTVU",
-      "originalSummary": "Downtown San Jose hosts one million visitors over the course of the World Cup games  KTVU",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZXFYTmRPelc1S010dnlWUkJRTmo1R2RoNGJIU1FHRjhRdUw2bmJmYmp6QVZjajJwa0dHTWJzaWVHdXlxak9XRURYbU15WFFsalY4VmJhRjE4VmZkN1hIZk9QVVpFdWxJLXJxTUZhRUtVdFhKUnBqSF9IdjRBZXpkMjB0dWtqMVVpc1gzNnpmb0pPM3htdklELURCLXR2UGs?oc=5",
-      "publishedAt": "2026-07-25T03:46:37+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cape-verde-goalie-vozinha-earns-move-to-new-club-after-stealing-show-at-2026-world-cup-yahoo-sports-canada",
-      "title": "佛得角守门员沃齐尼亚在 2026 年世界杯上大放异彩后转会至新俱乐部 - 雅虎体育加拿大",
-      "summary": "佛得角守门员沃齐尼亚 (Vozinha) 在 2026 年世界杯上大放异彩后转会至新俱乐部 Yahoo Sports Canada",
-      "originalTitle": "Cape Verde goalie Vozinha earns move to new club after stealing show at 2026 World Cup - Yahoo Sports Canada",
-      "originalSummary": "Cape Verde goalie Vozinha earns move to new club after stealing show at 2026 World Cup  Yahoo Sports Canada",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDNqeG01V1pTZjk1MFlsdktNeXRYdjdLNWczQTI1NjcwVTR6Z3NQRjFMcUFyS2RPN0paWGZ4UFV3S253UTNjZlZ6cENMbkk5cEM4ZG1NSVA5NUZOcnRGdUkzbHdqOG9xZVdublVjTzdjeEdqeHdCNVdLSU5JX1pMaVZFUEQ2Zw?oc=5",
-      "publishedAt": "2026-07-25T03:33:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-shakira-s-world-cup-performance-has-unexpected-result-and-ex-gerard-piqué-won-t-be-happy-aol-com",
-      "title": "夏奇拉世界杯表现出人意料 - 前杰拉德·皮克不会高兴 - AOL.com",
-      "summary": "夏奇拉在世界杯上的表现出人意料 - 前杰拉德·皮克不会高兴 AOL.com",
-      "originalTitle": "Shakira's World Cup performance has unexpected result - and ex Gerard Piqué won't be happy - AOL.com",
-      "originalSummary": "Shakira's World Cup performance has unexpected result - and ex Gerard Piqué won't be happy  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYjRSeVJ3UWdxOWR0V0lIVUtqV3N1MW5ITmk3bEsxNVlVM1FrMTg5UGd1SFBmVnA2dko2MjRVank5aVVwS1haak5kMnV0SE9tQ0RmSG00MU9kb1ZOMi1qM3l3Y041a2twSGtUSFZIbnNxblQ1Z0FsYUlKSjlrWC1lNUlWUUh1SWwzSldQbU9B?oc=5",
-      "publishedAt": "2026-07-25T02:59:58+00:00",
       "heat": 52
     }
   ]
