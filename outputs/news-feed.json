@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-27T22:11:46.146130+00:00",
+  "updatedAt": "2026-07-27T23:37:14.505450+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-scott-seaman-discusses-how-the-insurance-industry-contributed-to-the-2026-fifa-world-cup-hinshaw-culbertson-",
+      "title": "Scott Seaman 讨论保险业如何为 2026 年 FIFA 世界杯做出贡献 - Hinshaw & Culbertson LLP",
+      "summary": "Scott Seaman 讨论保险业如何为 2026 年 FIFA 世界杯做出贡献 Hinshaw & Culbertson LLP",
+      "originalTitle": "Scott Seaman Discusses How the Insurance Industry Contributed to the 2026 FIFA World Cup - Hinshaw & Culbertson LLP",
+      "originalSummary": "Scott Seaman Discusses How the Insurance Industry Contributed to the 2026 FIFA World Cup  Hinshaw & Culbertson LLP",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQYVNXMHRLVUp6dXVfbFdxb1JYaHVjMW1CdnVIdXJfSzB5NEp5ajJ2Y0FfVHh6Yi13Z2VXakdXVWwyeWl0QmFzcC1ITjNjRkw2OFVpZEg4ejV3bi1fX09ZNDFTbWdpX0pCSlVRRE0tZWstVnlBbFppUEJDbmx6VFBYRDQ2VzZQU2NnOUtnZy1YdUJFOE9JRUFaaFc5c3hlNVJMLVVKODJTaUdpSlhzd3hHZjd4MFJWdWc4U2xLaTF3VHpFQ0g5RzZkRWVYdmZXakRRTUFPQS1B?oc=5",
+      "publishedAt": "2026-07-27T22:39:26+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-vozinha-joins-colo-colo-after-world-cup-breakthrough-draws-global-attention-colombiaone-com",
+      "title": "世界杯突破引起全球关注后，沃齐尼亚加盟科洛科洛 - ColumbiaOne.com",
+      "summary": "世界杯突破引起全球关注后，Vozinha 加入科洛科洛 ColombiaOne.com",
+      "originalTitle": "Vozinha Joins Colo-Colo After World Cup Breakthrough Draws Global Attention - ColombiaOne.com",
+      "originalSummary": "Vozinha Joins Colo-Colo After World Cup Breakthrough Draws Global Attention  ColombiaOne.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQU13cGUtV01jX0tQekFMaUJKM2QzeVNyZGx5MzJCSmlLdVFoazl4bVZvT1hBdWNQaE9HU0l1cVJFbFVGWjZxdnpVTWFCTExiaW9FN2pXRVRCTnBMUHhjYjFpOU0tT0I1REVvY1BkaTN0QkxwME5WZ2Q4Zkc5SWwwVw?oc=5",
+      "publishedAt": "2026-07-27T22:15:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-why-the-world-cup-winners-extend-far-beyond-the-champions-carleton-university",
+      "title": "为什么世界杯优胜者远远超过冠军 - 卡尔顿大学",
+      "summary": "为什么世界杯冠军远远超过冠军 卡尔顿大学",
+      "originalTitle": "Why the World Cup Winners Extend Far Beyond the Champions - Carleton University",
+      "originalSummary": "Why the World Cup Winners Extend Far Beyond the Champions  Carleton University",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBSc1dKdUJpLWt6dDF0a2NKX01uSjdDWk1mR1lBd1VIWEV5MW9PU0lfSC1BUnNXYkhvTGRILW5XcHJ3TWZVYjg5YWtuZUJIV3FSV3BYTWNRQzQ2M2dYUlpXbGNHblNfVDg3RjFNczNIN3dTVERWa3Awc2RndmNfQQ?oc=5",
+      "publishedAt": "2026-07-27T22:01:04+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-president-gianni-infantino-accuses-critics-of-spreading-hate-at-world-cup-the-guardian",
+      "title": "国际足联主席因凡蒂诺指责批评者在世界杯上散布仇恨 - 卫报",
+      "summary": "国际足联主席詹尼·因凡蒂诺指责批评者在世界杯上散布仇恨",
+      "originalTitle": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup - The Guardian",
+      "originalSummary": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup  The Guardian",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZER3ZV9VT0wySEhfTHpJV1hFQVJHYnFXSlJuYzVhd05Ob0ZzQU5zYXFLa29XU0lxX21NTW1vTkFKb2drN1haNnZFWFlMRWg4SGVFeXh6blJNanlqbm5xU2x3cjdkQ0xNVlkxa3EyTnFDc1NVTlFaZUNUZkJvZGphZEYwYUh4TDFDc3I4MVUyWElLV29CWDcxOUp2bUh6cElZdnk1X2FtQ0w4NGtLa2lmcWRUT2c?oc=5",
+      "publishedAt": "2026-07-27T22:00:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-国际足联宣布世界杯-清白无瑕-此前监管机构已记录了7起诚信警示-bitcoin-news",
       "title": "国际足联宣布世界杯“清白无瑕”，此前监管机构已记录了7起诚信警示 - Bitcoin News",
@@ -30,6 +78,18 @@
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFpaVHBnZkhzQVplc1F3SC1YeG12NTgyNk1RQm9CdEZjcFZlR3A0My00QVhZc0szbE5RNng0Z2t4TUt6QUVHY082Qy1uYUkzSE9jWHg3WUROSHJvNFZ3VEN1M1JRUjdMTW00VC00eVhyaFhSQnAtb2RNb2xPTFc0U2hocGw?oc=5",
       "publishedAt": "2026-07-27T21:07:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-how-the-world-cup-became-a-beacon-of-faith-movieguide",
+      "title": "世界杯如何成为信仰的灯塔 - 电影指南",
+      "summary": "世界杯如何成为信仰的灯塔电影指南",
+      "originalTitle": "How the World Cup Became a Beacon of Faith - Movieguide",
+      "originalSummary": "How the World Cup Became a Beacon of Faith  Movieguide",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdDBQTy1OQVNCVmZzc253Rmh0aU9wcFBMcDh5cW1CeHFlcnNRY0dnbTNWUFJZanR5MzdqaVp4VXp1YXdzck5JV3l4b1FRNkNlSXdJSEI4M2dlSzM3azBMWDY1Wklydnc1cHpCRmNKWkJyZVFhNXc0d2FWZEg0cklEWFctbm9QSk1vN003SEdRQ2htUQ?oc=5",
+      "publishedAt": "2026-07-27T21:01:49+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-border-patrol-9-million-in-counterfeit-world-cup-merch-seized-upi-com",
@@ -56,18 +116,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-fifa-president-gianni-infantino-accuses-critics-of-spreading-hate-at-world-cup-the-guardian",
-      "title": "国际足联主席因凡蒂诺指责批评者在世界杯上散布仇恨 - 卫报",
-      "summary": "国际足联主席詹尼·因凡蒂诺指责批评者在世界杯上散布仇恨",
-      "originalTitle": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup - The Guardian",
-      "originalSummary": "Fifa president Gianni Infantino accuses critics of spreading hate at World Cup  The Guardian",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZER3ZV9VT0wySEhfTHpJV1hFQVJHYnFXSlJuYzVhd05Ob0ZzQU5zYXFLa29XU0lxX21NTW1vTkFKb2drN1haNnZFWFlMRWg4SGVFeXh6blJNanlqbm5xU2x3cjdkQ0xNVlkxa3EyTnFDc1NVTlFaZUNUZkJvZGphZEYwYUh4TDFDc3I4MVUyWElLV29CWDcxOUp2bUh6cElZdnk1X2FtQ0w4NGtLa2lmcWRUT2c?oc=5",
-      "publishedAt": "2026-07-27T20:47:00+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-fifa-world-cup-by-the-numbers-how-many-beers-how-many-hot-dogs-how-many-fans-the-stats-behind-the-global-eve",
       "title": "国际足联世界杯数据：需要多少啤酒？多少个热狗？有多少粉丝？全球活动背后的统计数据 - WFAA",
       "summary": "国际足联世界杯数据：需要多少啤酒？多少个热狗？有多少粉丝？全球活动 WFAA 背后的统计数据",
@@ -80,8 +128,20 @@
       "heat": 60
     },
     {
+      "id": "google-news-france-vs-england-2026-livestream-how-to-watch-world-cup-for-free-mashable",
+      "title": "2026 年法国对阵英格兰直播：如何免费观看世界杯 - Mashable",
+      "summary": "2026 年法国队对阵英格兰队直播：如何免费观看世界杯 Mashable",
+      "originalTitle": "France vs. England 2026 livestream: How to watch World Cup for free - Mashable",
+      "originalSummary": "France vs. England 2026 livestream: How to watch World Cup for free  Mashable",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPNGZ5LXdEMWVHNHpZRjJuMXVudEFTUGpXQzhlRHhBeXJoNG9nN0dyaGM1TnAzUlRGS3A4c201cWhadFlreUU5NFd5REFOVGNFUHRvMG0zY1hLd3VrTjJZVjFLRENSUnV0dmdpVUdHLXdzQVpEeEtkQzU4LXVJRDdtbXFJTUFlUlp2VFpYdDJ1aTV5M3NS?oc=5",
+      "publishedAt": "2026-07-27T20:29:11+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifa-president-gianni-infantino-called-to-appear-before-congress-over-trump-ties-the-guardian",
-      "title": "国际足联主席詹尼·因凡蒂诺因与特朗普的关系而出席国会听证会 - 《卫报》",
+      "title": "国际足联主席詹尼·因凡蒂诺就特朗普关系呼吁出席国会听证会 - 《卫报》",
       "summary": "国际足联主席詹尼·因凡蒂诺就特朗普关系呼吁出席国会听证会",
       "originalTitle": "Fifa president Gianni Infantino called to appear before Congress over Trump ties - The Guardian",
       "originalSummary": "Fifa president Gianni Infantino called to appear before Congress over Trump ties  The Guardian",
@@ -117,7 +177,7 @@
     },
     {
       "id": "google-news-mistaken-identity-does-not-include-simulation-despite-world-cup-decisions-lawmaker-the-new-york-times",
-      "title": "尽管世界杯做出了决定，但“身份错误”并不包括模拟 - 立法者 - 纽约时报",
+      "title": "尽管世界杯做出了决定，“错误的身份”并不包括模拟 - 立法者 - 纽约时报",
       "summary": "尽管世界杯做出了决定，但“身份错误”并不包括模拟——立法者《纽约时报》",
       "originalTitle": "‘Mistaken identity’ does not include simulation despite World Cup decisions – lawmaker - The New York Times",
       "originalSummary": "‘Mistaken identity’ does not include simulation despite World Cup decisions – lawmaker  The New York Times",
@@ -154,73 +214,13 @@
     {
       "id": "google-news-fifa-world-cup-puts-nfl-turf-debate-back-in-the-spotlight-as-players-renew-push-for-grass-fields-yahoo-sport",
       "title": "随着球员们重新争取草地，FIFA 世界杯让 NFL 草坪争论重新成为人们关注的焦点 - 雅虎体育",
-      "summary": "随着球员们重新推动草地运动，FIFA 世界杯让 NFL 草坪争论重新成为人们关注的焦点 雅虎体育",
+      "summary": "随着球员们重新推动草地运动，FIFA 世界杯让 NFL 草坪辩论重新成为人们关注的焦点 雅虎体育",
       "originalTitle": "FIFA World Cup Puts NFL Turf Debate Back in the Spotlight as Players Renew Push for Grass Fields - Yahoo Sports",
       "originalSummary": "FIFA World Cup Puts NFL Turf Debate Back in the Spotlight as Players Renew Push for Grass Fields  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBsXy1CM01nbnRjdHQ4RTJvMWFDZ2ZuenNPZ0xHa09lRlY3WXQ2ZElacTlJdEQwOVNqNDdqVGttaVlFQ1hZbTFsSUZRQ1JzV01YWWlYRmxLSVc5SHpLQ3R1cV94N3llNTE4Sm8zbkNOeVZfZ2JXdktVNi1KTkk?oc=5",
       "publishedAt": "2026-07-27T19:19:23+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-was-donald-trump-s-2026-world-cup-a-success-yahoo-sports",
-      "title": "唐纳德·特朗普的 2026 年世界杯成功了吗？ - 雅虎体育",
-      "summary": "唐纳德·特朗普的 2026 年世界杯成功了吗？  雅虎体育",
-      "originalTitle": "Was Donald Trump’s 2026 World Cup a Success? - Yahoo Sports",
-      "originalSummary": "Was Donald Trump’s 2026 World Cup a Success?  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPQnVBeGNrMWRGbTIzUHcyNF95V1JrSmp6aVhXYWpxNFpFWmpqX3J1U1VWRExDWk83cS1aVWdWenpfdzRJSDhielVmbW5jMnIteEZMRjBCeDdoNmluc3FKX1A3WmZDaUp5U3lERzVUYm1VcTVBQmU0UTZ4R3h0V2p1b2FB?oc=5",
-      "publishedAt": "2026-07-27T19:18:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-what-2-8-billion-bought-world-cup-sponsors-hint-it-wasn-t-a-logo-forbes",
-      "title": "28 亿美元买了什么世界杯赞助商（提示：这不是一个徽标） - 福布斯",
-      "summary": "28 亿美元买了什么世界杯赞助商（提示：这不是一个徽标）福布斯",
-      "originalTitle": "What $2.8 Billion Bought World Cup Sponsors (Hint: It Wasn’t A Logo) - Forbes",
-      "originalSummary": "What $2.8 Billion Bought World Cup Sponsors (Hint: It Wasn’t A Logo)  Forbes",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSVZqQVYzd2FacUg0dW5oMHV0QVd2T2RWbzdUWVRoSzNNV21wLXhTVWlfdkw3bDNjN01zc3pLZG1YRDkwWGEzTFR1bXVLbHhvQWJzbmZHSjhtdmxhSlRVdHJTalh6bzVxM2hkZENYNlAzbU91WFl6dmVWTnBidjFlZDR5NTJPTTdDbFF0Vkc3aDdYSk42ZkNOb1BLZEJ3NFRYbzJRbmU2V3FsYmpxRDNlaks0Xzc?oc=5",
-      "publishedAt": "2026-07-27T19:04:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cape-verde-s-cabral-wins-world-cup-goal-of-the-tournament-award-for-argentina-stunner-bein-sports",
-      "title": "佛得角的卡布拉尔为阿根廷选手赢得世界杯最佳进球奖 - beIN SPORTS",
-      "summary": "佛得角的卡布拉尔为阿根廷选手贝因体育赢得世界杯赛事最佳进球奖",
-      "originalTitle": "Cape Verde's Cabral wins World Cup Goal of the Tournament award for Argentina stunner - beIN SPORTS",
-      "originalSummary": "Cape Verde's Cabral wins World Cup Goal of the Tournament award for Argentina stunner  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMU5TNXc2YVdpRFdnalMtNERtaEJIRDFVX2NxMjU2SW9jQ0JPVkNZNzN0ZDJyYTZaZ0w4ZGhzRl9CcHFvUzNhRVJCeXhMZFRvM1VmdGFMb0JWNEEtWjBoVGhPWGxpZFhOMlNmWGRHekY2TmZZeXAwYlh5N3QzX1dWeHdmWkVRREx5QmJfdGNURVN3NzVjdVJkWG5lT1BINDlrdHFsUlJWWm5lOFlvXy1HX1I4WXpheXZvRHd3TFEtRWFDdVA3b2drUGdkUmlnUDVmZFZodFc0ME9XSk5reVlvQkdWajFvYVRBZ0xRb2VQUmdUVUo2OWg0?oc=5",
-      "publishedAt": "2026-07-27T18:59:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-just-how-big-was-the-2026-fifa-world-cup-here-is-a-breakdown-of-the-numbers-aol-com",
-      "title": "2026 年 FIFA 世界杯到底有多大？以下是具体数字 - AOL.com",
-      "summary": "2026 年 FIFA 世界杯到底有多大？以下是 AOL.com 数字的细分",
-      "originalTitle": "Just how big was the 2026 FIFA World Cup? Here is a breakdown of the numbers - AOL.com",
-      "originalSummary": "Just how big was the 2026 FIFA World Cup? Here is a breakdown of the numbers  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5rXzJLSjJHZWxDLXJVTmg2OFFVVXV5R2FDUzVWU0dzekdFU05BN1FZeWtLNmtkS1hnTmVQREIxcFZTcWlRYUxUX1l4WllYSjBKdzdod19vNGRUMFlFNlhLcEpSWnZkc21ZYl96VzlVb0JYSjdyUEZv?oc=5",
-      "publishedAt": "2026-07-27T18:45:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-staggering-amount-in-billions-fifa-made-in-revenue-from-world-cup-aol-com",
-      "title": "国际足联从世界杯中获得的收入达数十亿美元 - AOL.com",
-      "summary": "国际足联从世界杯中获得的收入高达数十亿美元 AOL.com",
-      "originalTitle": "Staggering amount in billions FIFA made in revenue from World Cup - AOL.com",
-      "originalSummary": "Staggering amount in billions FIFA made in revenue from World Cup  AOL.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUFNeUQ3LXVtYjBnY21KQllGa3pVa0lZZlpzcUFsQllFbDhyc1Q4T1pNYTd1U3lmQTRSeDl5eVI3M0tvcWlnQUg4RWIzNlpMa2pSSDJPNHU5M3o3Z2gzSlFiRlNPSzlwZXNkTVNBRnhwa0RUcW92blgxZFB1WndOZXlZT3NMeGc?oc=5",
-      "publishedAt": "2026-07-27T18:44:22+00:00",
       "heat": 60
     }
   ]
