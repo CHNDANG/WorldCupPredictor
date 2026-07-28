@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-28T02:54:21.079702+00:00",
+  "updatedAt": "2026-07-28T05:53:28.102443+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,114 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-世界杯最佳进球-来自佛得角-新西兰中文先驱网",
+      "title": "世界杯最佳进球，来自佛得角！ - 新西兰中文先驱网",
+      "summary": "世界杯最佳进球，来自佛得角！  新西兰中文先驱网",
+      "originalTitle": "世界杯最佳进球，来自佛得角！ - 新西兰中文先驱网",
+      "originalSummary": "世界杯最佳进球，来自佛得角！  新西兰中文先驱网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOWZYLTJSNkhJdEI5UHJibjVVeEZCLUlvMnY0a05JQTFlSVdCeTZVamVnbEp6dXhicnRCQ0liUG1WeXlYbjVlQzhSaFJoRTgxVzFVbDZ6SGZNY1luNzhQZzlOd18tOHlYQTJ4OTVEWDB4clFUa0VyN0dZV2tRTjRrcjZWLUVpa1ZEREE?oc=5",
+      "publishedAt": "2026-07-28T05:14:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-世界杯的数据-卖出了多少万热狗-喝了多少百万啤酒-informat-ro",
+      "title": "世界杯的数据：卖出了多少万热狗，喝了多少百万啤酒 - Informat.ro",
+      "summary": "世界杯的数据：卖出了多少万热狗，喝了多少百万啤酒  Informat.ro",
+      "originalTitle": "世界杯的数据：卖出了多少万热狗，喝了多少百万啤酒 - Informat.ro",
+      "originalSummary": "世界杯的数据：卖出了多少万热狗，喝了多少百万啤酒  Informat.ro",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQV25fWkVEOURZZ2xCd09HYWZzTzkzbml1Xy1tbDZKeGJyMnNsUF9VNHZRZFRnTU5IVTFBZS03Q3JIWmlrMk5JMG5jWmVjcS1fR050TTJkZDVXMHJmUW5pVkc3dkpaU21lQllsSHNmdGVma2ZsT3VRcEhmdnBtbW1zMXRCclBhN1lIdloyVmRGcjgxSDlvd2ZLX1BtZ1NrQUtuTUI2MlR1a0FjekI1NDdzZHF2T3FZeVlQc2FpSDJoM0ZwRk0xT2JMZnNaVjJyX2VMdHpB?oc=5",
+      "publishedAt": "2026-07-28T04:36:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-best-young-xi-views-bangladesh",
+      "title": "2026 年 FIFA 世界杯最佳年轻阵容 - 孟加拉国观点",
+      "summary": "2026 年 FIFA 世界杯最佳年轻十一人观点孟加拉国",
+      "originalTitle": "FIFA World Cup 2026 best young XI - Views Bangladesh",
+      "originalSummary": "FIFA World Cup 2026 best young XI  Views Bangladesh",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE92TXFPUDRZN3NIdmxZU3BxMklJWFlUdXhNR3A3eTRLeDlfUDF2Qy03SHgtanJaUUhYcWxmRXV1WHdOUy1PbmI1dXNqZHdfc3hmRld5bFVSRG1YYjEtNzVtUTZ2TS1EcW9fOGtYdzM3VQ?oc=5",
+      "publishedAt": "2026-07-28T04:29:06+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-世界杯2026-有片-国际足协公布最佳入球-佛得角后卫轰破阿根廷膺-金球-星島頭條",
+      "title": "世界杯2026·有片｜国际足协公布最佳入球 佛得角后卫轰破阿根廷膺「金球」 - 星島頭條",
+      "summary": "世界杯2026·有片｜国际足协公布最佳入球 佛得角后卫轰破阿根廷膺「金球」  星島頭條",
+      "originalTitle": "世界杯2026·有片｜国际足协公布最佳入球 佛得角后卫轰破阿根廷膺「金球」 - 星島頭條",
+      "originalSummary": "世界杯2026·有片｜国际足协公布最佳入球 佛得角后卫轰破阿根廷膺「金球」  星島頭條",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMivwNBVV95cUxQeGVhYnl4R0pSejhOd1lGMU02YkdhbzhnYTlKQ0thT3JXeERRVGdtQXhCbU1TejNfc2hUbFRCUzdraXVmVE5tdmxLR2tSekR6UzVZVEdqSk9MNzJnSzN2ODRfY3FTV2dGbnFHVlhUVTA4UDQ3Qkc1MElZT0pOdmsxeVJSWU90azVVazBiZVNmZWg3dlBPNUNKdnJYN0RORE1NQTZLQlZkd0dzd3Q5cm1udWtMd29vVHBnN1M3VTl4MEZsYW5QdWY4N0F3dk5iMGxrcTRNcFpsRWotUWZYTm93aTNvZmdNNTZ0aU82YTZ1X2YzQXExTGdkdDNJLXREQ3IxSU12ZUdQNGllbjJ3N1lvcU1TbGhjNGlRZkdyVWhtTVJlMV82S1FNeTVWQ3V1aTdNdEFUamdqQjJkRVc2X2JkZVRORXpjS3VUMkgxTU5nUHVVY093UkxFRFYtMEc0bmNFWFZYOHhiOGE4NTNpYmZIUXd1NlNPeFY1M3ZBb3hDMWRBUjBycXc2YS1OeEtoVFNBNFhkYl9NWjMxSHE2VXd6OGhFbGQ1SldwTzg5bHQ0OUdSdU91VEpwWFVUclRwQ1U?oc=5",
+      "publishedAt": "2026-07-28T04:17:53+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-cabo-verde-s-cabral-wins-fifa-world-cup-best-goal-award-조선일보",
+      "title": "佛得角卡布拉尔荣获世界杯最佳进球奖 - 조선일보",
+      "summary": "佛得角卡布拉尔荣获世界杯最佳进球奖",
+      "originalTitle": "Cabo Verde's Cabral Wins FIFA World Cup Best Goal Award - 조선일보",
+      "originalSummary": "Cabo Verde's Cabral Wins FIFA World Cup Best Goal Award  조선일보",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSV9pWmdmOXRBaDRKbFp4QXVCQXFtWGlEX2llZzEwS3ZxRjF0MlJBQjY3OERwRXQyWTdBX2lLXzZDNGZ4b2piUmtMTHp3V2NmNWo1T0dXRFA1UnRsd2FSQldRbjl4Mk1BbmdhNjJsaHpaeWpMLWFrSmYtd2d1ZkNaaFBZeVZKQQ?oc=5",
+      "publishedAt": "2026-07-28T04:07:57+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-梅西-2026年世界杯决赛和足球统治的终结-voi-id",
+      "title": "梅西，2026年世界杯决赛和足球统治的终结 - VOI.ID",
+      "summary": "梅西，2026年世界杯决赛和足球统治的终结  VOI.ID",
+      "originalTitle": "梅西，2026年世界杯决赛和足球统治的终结 - VOI.ID",
+      "originalSummary": "梅西，2026年世界杯决赛和足球统治的终结  VOI.ID",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9kV3FlUWVwMkg1YkppbFV2QktpVmcyZjY1eHdaeWpmel9mM1FjdVlDY3Y1dUZJTXdPUHZkMDkwZlBLTWND0gFCQVVfeXFMTU1PZy1FdEV6YnJNUGlXSTNzR1pvc3dqNzNaTGR6ZmhnQjEwcVpRZWJlX2ZVLXpJOXFzUm5uT0dwU1Z3?oc=5",
+      "publishedAt": "2026-07-28T04:00:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-hits-back-at-fifa-and-world-cup-critics-bein-sports",
+      "title": "詹尼·因凡蒂诺回击国际足联和世界杯批评者 - beIN SPORTS",
+      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 回击国际足联和世界杯批评者 beIN SPORTS",
+      "originalTitle": "Gianni Infantino Hits Back at FIFA and World Cup Critics - beIN SPORTS",
+      "originalSummary": "Gianni Infantino Hits Back at FIFA and World Cup Critics  beIN SPORTS",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNTndiUjRaZlVCNjJMY0hEejFCbmVQUURYYlNYd04waEcyNDAzUHpZNFd0aVJ5MlRKOUVGX0FjdUZicXdGUzJUd2tJQU1jSk5rMV9rSGx3TkZxdXhKZFFSSDJfVXp0QXZNM2xrS00tTHZlLWl6T3N1eXJ4TjBLVGhILTBqOWZjRkhMNkNpa043Rko0QVZBanYxVGNtOHlHd0p5Y0I0RFA4aGpSOFBfbzNFQ1R1WHBEdE5YVzVZSmF3RTIyOGlIeFMyU0RhVHNBMGMtWVE?oc=5",
+      "publishedAt": "2026-07-28T03:43:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯-天外飞仙-洞穿阿根廷龙门卡布拉尔夺世界杯最佳进球奖-体育-2026世界杯-世杯战报-sin-chew-daily",
+      "title": "2026世界杯| “天外飞仙”洞穿阿根廷龙门卡布拉尔夺世界杯最佳进球奖- 体育 - 2026世界杯 - 世杯战报 - Sin Chew Daily",
+      "summary": "2026世界杯| “天外飞仙”洞穿阿根廷龙门卡布拉尔夺世界杯最佳进球奖- 体育 - 2026世界杯 - 世杯战报  Sin Chew Daily",
+      "originalTitle": "2026世界杯| “天外飞仙”洞穿阿根廷龙门卡布拉尔夺世界杯最佳进球奖- 体育 - 2026世界杯 - 世杯战报 - Sin Chew Daily",
+      "originalSummary": "2026世界杯| “天外飞仙”洞穿阿根廷龙门卡布拉尔夺世界杯最佳进球奖- 体育 - 2026世界杯 - 世杯战报  Sin Chew Daily",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFB2ZUoxN25mX0Q5TmF4UGdlQWxyTkxqcTVxNkNuRWdOd0NtcHdEVDUxaUZiaks0OFB3dzBZZU1CSHdPdDhSTDJkbGpVYTVsRnp3VFhKek8tYnNUb3NXUHc3aElfSkJYUQ?oc=5",
+      "publishedAt": "2026-07-28T03:42:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026年国际篮联-国际团结杯-海口站比赛-中国男篮斩获三连胜-chinanews-com-cn",
+      "title": "2026年国际篮联“国际团结杯”海口站比赛：中国男篮斩获三连胜 - chinanews.com.cn",
+      "summary": "2026年国际篮联“国际团结杯”海口站比赛：中国男篮斩获三连胜  chinanews.com.cn",
+      "originalTitle": "2026年国际篮联“国际团结杯”海口站比赛：中国男篮斩获三连胜 - chinanews.com.cn",
+      "originalSummary": "2026年国际篮联“国际团结杯”海口站比赛：中国男篮斩获三连胜  chinanews.com.cn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE00eHZKeHkzdk82TnR3a3dHV05Qc0FtNXBSLU95R3pXU3FpSnhLc0dFRWF0cmdsZC1Yd2xhUm9YNzNUTnNEaUltS1ZyNVpBYzBHYThJVmZiTlEzaDh6RlVYN0daTWRzWHdM?oc=5",
+      "publishedAt": "2026-07-28T02:43:00+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-on-repeat-celebrating-the-magic-of-a-world-cup-to-remember-the-cavalier-daily",
       "title": "重播：庆祝令人难忘的世界杯魔力 - The Cavalier Daily",
@@ -58,7 +166,7 @@
     {
       "id": "google-news-fact-check-video-shows-fifa-world-cup-fans-in-argentina-not-supporters-of-vp-sara-vera-files",
       "title": "事实核查：视频显示阿根廷世界杯球迷，而不是副总统萨拉的支持者 - VERA 文件",
-      "summary": "事实核查：视频显示的是阿根廷 FIFA 世界杯球迷，而不是 VP Sara VERA 文件的支持者",
+      "summary": "事实核查：视频显示阿根廷 FIFA 世界杯球迷，而不是 VP Sara VERA 文件的支持者",
       "originalTitle": "FACT CHECK: Video shows FIFA World Cup fans in Argentina, NOT supporters of VP Sara - VERA Files",
       "originalSummary": "FACT CHECK: Video shows FIFA World Cup fans in Argentina, NOT supporters of VP Sara  VERA Files",
       "translation": "online",
@@ -80,6 +188,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-men-s-top-50-world-rankings-july-2026-espn-in",
+      "title": "FIFA 男子世界排名前 50 名：2026 年 7 月 - espn.in",
+      "summary": "FIFA 男子世界排名前 50 名：2026 年 7 月 espn.in",
+      "originalTitle": "FIFA Men's Top 50 World Rankings: July 2026 - espn.in",
+      "originalSummary": "FIFA Men's Top 50 World Rankings: July 2026  espn.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGxiQndkUm9walRHb0tjcWxDelYzYkk5OU9DOF9PZENLUzIxZ0daeUhMd1NrMVdvaV9ueHowNUQwaW5oaXc5UzdqcWVhUUlQVjRHQU1zcmw0YVduS0VTU1pfNl9JeGJGbDVsS3lnc1B2LTdsVHZ0SC1LYkFsb0hhQ2tUdjF0RTg?oc=5",
+      "publishedAt": "2026-07-28T01:29:36+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-recognized-sidney-cabral-s-goal-from-cape-verde-as-the-best-at-the-2026-world-cup-українські-національн",
       "title": "国际足联认可佛得角西德尼·卡布拉尔的2026年世界杯最佳进球 - Українські Національні Новини (УНН)",
       "summary": "国际足联将佛得角西德尼·卡布拉尔的进球评为 2026 年世界杯最佳进球",
@@ -92,136 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-只有勇敢的球员才有资格参加2026-年世界杯决赛-voi-id",
-      "title": "只有勇敢的球员才有资格参加2026 年世界杯决赛 - VOI.ID",
-      "summary": "只有勇敢的球员才有资格参加2026 年世界杯决赛  VOI.ID",
-      "originalTitle": "只有勇敢的球员才有资格参加2026 年世界杯决赛 - VOI.ID",
-      "originalSummary": "只有勇敢的球员才有资格参加2026 年世界杯决赛  VOI.ID",
+      "id": "google-新闻-中文-2026-27賽季-英超積分榜及賽程一覽-新唐人電視台",
+      "title": "2026/27賽季 英超積分榜及賽程一覽 - 新唐人電視台",
+      "summary": "2026/27賽季 英超積分榜及賽程一覽  新唐人電視台",
+      "originalTitle": "2026/27賽季 英超積分榜及賽程一覽 - 新唐人電視台",
+      "originalSummary": "2026/27賽季 英超積分榜及賽程一覽  新唐人電視台",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1FVG0zYkZYTl81b3FWcFp5NF8zU3hrdnQ5MGVoS1I2VDh0dHVtckdLMXZDZGhnSVExOVEyWm5nRmhrY2dTZk5TT2FR?oc=5",
-      "publishedAt": "2026-07-28T01:22:42+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-fan-festival-record-9m-fans-attend-2026-world-cup-celebrations-fox-5-atlanta",
-      "title": "FIFA 球迷节：创纪录的 900 万球迷参加 2026 年世界杯庆祝活动 - FOX 5 亚特兰大",
-      "summary": "FIFA 球迷节：创纪录的 900 万球迷参加 2026 年世界杯庆祝活动 FOX 5 亚特兰大",
-      "originalTitle": "FIFA Fan Festival: Record 9M fans attend 2026 World Cup celebrations - FOX 5 Atlanta",
-      "originalSummary": "FIFA Fan Festival: Record 9M fans attend 2026 World Cup celebrations  FOX 5 Atlanta",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1ZPSEhxa2pYemo5cTZsRXVNLXlfUWdJY3h1b3ZfaEx0WERlZnhoZmZ0Y0RNbFRMQTYzUC12MkJka0dqUVpnd0thazZhREctMktfR0VGQzIzaEM1aFFzaTBRVm51MDNnbDZjdWJ5OUU4czJoZzNUQjFYeXFzM0RLbzdxWGU1YmtEZm5icUY3Y2hDcHNJeHpoNEVwbTlDNVFPWGc?oc=5",
-      "publishedAt": "2026-07-28T01:21:01+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-refereeing-part-1-officiating-how-fifa-wanted-it-soccer-america",
-      "title": "2026 年世界杯裁判（第 1 部分）：按照 FIFA 的意愿进行裁判 - Soccer America",
-      "summary": "2026 年世界杯裁判（第 1 部分）：按照 FIFA 的意愿进行裁判 Soccer America",
-      "originalTitle": "World Cup 2026 refereeing (Part 1): Officiating how FIFA wanted it - Soccer America",
-      "originalSummary": "World Cup 2026 refereeing (Part 1): Officiating how FIFA wanted it  Soccer America",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQU0E4RkgtLWF5dC1NOG1UMWlEMG9JVXFGMkR1akZ5ZVFFQUhDcEcxbTdTNnVTMllwRi1YM051U3VsN1c3VnBxMmFPSjBKcjViNVo1bnNZVlVUdWw1aFZZdG1sd1R6azdNMmtwMGdQa2N5LVJoUFR1Q0pqMHlxX0NfWFRGTHFiU0M2X0hRa2NaVFg5VGRWNTdkQ0Vn?oc=5",
-      "publishedAt": "2026-07-28T01:06:18+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-will-vancouver-see-canada-s-fifa-world-cup-stars-again-without-grass-at-bc-place-daily-hive",
-      "title": "温哥华会在 BC Place 没有草坪的情况下再次看到加拿大 FIFA 世界杯球星的身影吗？ - 每日蜂巢",
-      "summary": "温哥华会在 BC Place 没有草坪的情况下再次看到加拿大 FIFA 世界杯球星的身影吗？  每日蜂巢",
-      "originalTitle": "Will Vancouver see Canada's FIFA World Cup stars again without grass at BC Place? - Daily Hive",
-      "originalSummary": "Will Vancouver see Canada's FIFA World Cup stars again without grass at BC Place?  Daily Hive",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOFpaVHBnZkhzQVplc1F3SC1YeG12NTgyNk1RQm9CdEZjcFZlR3A0My00QVhZc0szbE5RNng0Z2t4TUt6QUVHY082Qy1uYUkzSE9jWHg3WUROSHJvNFZ3VEN1M1JRUjdMTW00VC00eVhyaFhSQnAtb2RNb2xPTFc0U2hocGw?oc=5",
-      "publishedAt": "2026-07-28T00:57:32+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-men-s-top-50-world-rankings-july-2026-espn-in",
-      "title": "FIFA 男子世界排名前 50 名：2026 年 7 月 - espn.in",
-      "summary": "FIFA 男子世界排名前 50 名：2026 年 7 月 espn.in",
-      "originalTitle": "FIFA Men's Top 50 World Rankings: July 2026 - espn.in",
-      "originalSummary": "FIFA Men's Top 50 World Rankings: July 2026  espn.in",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZGxiQndkUm9walRHb0tjcWxDelYzYkk5OU9DOF9PZENLUzIxZ0daeUhMd1NrMVdvaV9ueHowNUQwaW5oaXc5UzdqcWVhUUlQVjRHQU1zcmw0YVduS0VTU1pfNl9JeGJGbDVsS3lnc1B2LTdsVHZ0SC1LYkFsb0hhQ2tUdjF0RTg?oc=5",
-      "publishedAt": "2026-07-28T00:54:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-when-is-the-2026-mls-all-star-game-rosters-how-to-watch-more-nbc-sports-boston",
-      "title": "2026 年 MLS 全明星赛何时举行？名单、如何观看以及更多 - NBC Sports Boston",
-      "summary": "2026 年 MLS 全明星赛何时举行？名单、如何观看、更多 NBC Sports Boston",
-      "originalTitle": "When is the 2026 MLS All-Star Game? Rosters, how to watch, more - NBC Sports Boston",
-      "originalSummary": "When is the 2026 MLS All-Star Game? Rosters, how to watch, more  NBC Sports Boston",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcVFqaDFwTlBvTkV5XzZoMWdfM3RrbWxuYmZSMlhDaW9CQUc0T2Fubl9MVmhzeE5rdHVfaWtSYUs4OVhFSkdJNW5Zb2RHU203TGtLdFQ5bDJSZ0ZERExXSFRpODRXaUZWYmJoWVZhQ0ZValpaQ2JZcEJwSnlQOE1BTXREZ3p4UWoycF9XazczTnh6SHB3Nmoydko3UU5RX3g3aFphMFlnQdIBrwFBVV95cUxPRkxSMFl6RXFvdVJ5SjhFMHQ0ODZTVTRvLWR2Z3RfNGRDczdQdEVUVmdtRmRuWGFfeWF0RWZpN0JwU0ttN2E4T09pUlZHdHdKRXhEeHRSYjdlV25sMU1ZLUpnelkyWHlSWDZDNmVITTYyWnhENnBMeGt5bU8xbl96WHhVNTBUc01XZU02UWdQRHlJTEFadHY5aXpmRzhGZ3RwRkMwcEtLV2xocWhiYnBF?oc=5",
-      "publishedAt": "2026-07-28T00:21:27+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9sQkJUZWxsaEhLV0hLSDdTSmlDNHVQOVZhYVVmcklEcE81NlJZRXNOaXJCNjlWQ1lrbC1vandFUUFLWXEzZFUzWDQyYkhHSHJKSjJBcW01Q0stMHlNQ3otX9IBZkFVX3lxTE9Fd1JYbEx0VDhDajRGbjMwaWNGWnhuNFh0SzAxV29iOFVVNHoydUdJZ0M0dmVScUNzWVMxNG9rTjJMdWVLd2NITE9EckwtNjU4Rlo3TVFFT2pfRlhSWEJYX2dxYzAydw?oc=5",
+      "publishedAt": "2026-07-28T01:24:00+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-sbj-unpacks-what-the-world-cup-taught-u-s-sports-industry-sports-business-journal",
-      "title": "SBJ 揭秘：世界杯教会了美国体育产业 - Sports Business Journal",
-      "summary": "SBJ 揭秘：世界杯给美国体育产业的启示 Sports Business Journal",
-      "originalTitle": "SBJ Unpacks: What the World Cup taught U.S. sports industry - Sports Business Journal",
-      "originalSummary": "SBJ Unpacks: What the World Cup taught U.S. sports industry  Sports Business Journal",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5haHpBRzRmaHpDNFM5bkhmZWtMa1FfR0tvaGxpamk3NHdNVmN3TjRIYVBySVVzLXpSZ0hZVlVJeVhrbUJDekpnMWF6MVBiNUlTM0ZteXoxZUFmalFCRnRTeGtTejEzTklEbjltTlRrWW1WenhYdUR5Y0pB?oc=5",
-      "publishedAt": "2026-07-27T23:48:59+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-s-infantino-lashes-out-at-critics-he-says-spread-hate-and-false-rumors-about-world-cup-pbs",
-      "title": "国际足联主席因凡蒂诺猛烈抨击批评者，称他散布有关世界杯的“仇恨和虚假谣言” - PBS",
-      "summary": "国际足联主席因凡蒂诺猛烈抨击批评者，称其散布有关世界杯的“仇恨和虚假谣言” PBS",
-      "originalTitle": "FIFA's Infantino lashes out at critics he says spread 'hate and false rumors' about World Cup - PBS",
-      "originalSummary": "FIFA's Infantino lashes out at critics he says spread 'hate and false rumors' about World Cup  PBS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQY2xXSjk3Ujc3c19uQU04bDVqd2p5WnJXek0zZmZGNGJBSXVjRURUWmY3ajhTOEs0YzNtRW1yY0tZMjJHX2lJUVdvSXF4a2plSXJMclJtNTM1MGxPTXRRVXJkbS1lT250VnZSRnhwcmZ1OUtnMjZ3QXNyQi1YWXMyNlNQU29EbGg1c1BWOElFeFRsMGV3bkR3bklCNUNESzFsOTg3MlROU1FvMUd3T2VvNmVTSnRoREpkYmxaZ3oxN3FteWvSAcgBQVVfeXFMUDZyVjFOX2swTUFyMW9RYWFLamUtaEZudDJwVWhQbGw1Qk1NTnBFbC1TWlRHQ0c1emZuVnJmUDNJMTkyTjlfMmhnazZWeDhjMGVOSDlnZ1VrVXlKbXNheDJ4aHdJRTB1LVlMNUNBUHJzOHM4SDFTejdHc20yRkVRbVo2TjBmQ1dNZThrNHZqbkc5ZlNJaFFfVGxNWWkyY2ZoV0J5T01DekNkV2t5SlA5Wmdtc2k3c1N0V3lKNkpsWkh2OEVkOXNHTDA?oc=5",
-      "publishedAt": "2026-07-27T23:35:30+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-andruw-jones-on-curaçao-s-historic-world-cup-run-world-baseball-network",
-      "title": "安德鲁·琼斯谈库拉索岛历史性的世界杯之旅 - 世界棒球网",
-      "summary": "安德鲁·琼斯谈库拉索岛历史性的世界杯比赛 世界棒球网络",
-      "originalTitle": "Andruw Jones on Curaçao’s Historic World Cup Run - World Baseball Network",
-      "originalSummary": "Andruw Jones on Curaçao’s Historic World Cup Run  World Baseball Network",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00TkFMWXJnbUh5TkVnU0dQZ1FxSGlkRlBYY3N6ZjBrYVBhYUVJOHdRcTZpSE9IMHVFRWtOX29JbzFVa1FrTUpJUjQyY1RoT0pkUFNkQUpIYzljdDktZlFJVWdFbkoxNFZaanlhU0w1N1dHem1MdkRXb3VR?oc=5",
-      "publishedAt": "2026-07-27T23:26:39+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-lionel-messi-gets-6-10-argentine-players-rated-after-losing-to-spain-in-the-fifa-world-cup-2026-final-onefoo",
-      "title": "莱昂内尔·梅西 (Lionel Messi) 获得 6/10 | 2026 年世界杯决赛输给西班牙后阿根廷球员的评价 - OneFootball",
-      "summary": "莱昂内尔·梅西 (Lionel Messi) 获得 6/10 |阿根廷球员在 2026 年 FIFA 世界杯决赛中输给西班牙后的评价 OneFootball",
-      "originalTitle": "Lionel Messi Gets 6/10 | Argentine Players Rated After Losing To Spain In The FIFA World Cup 2026 Final - OneFootball",
-      "originalSummary": "Lionel Messi Gets 6/10 | Argentine Players Rated After Losing To Spain In The FIFA World Cup 2026 Final  OneFootball",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxOV1VQUmJPX2s0QWY2SG5iNzZtYkJjdm91TWMzX2tfQXlKU3pLWW9YT0N6WmR2VC04TEJialR5SzB5MHdLOF9SdEc5VS1rMnVBTzlubDNJVWFYWmlvWmw1bDBGNjJKNzFMOW5TZlRUZC1DX25EYlpwZVgxbVFGalI1bFZNY2RYTHhsdWlHLVgydDRRTWlkd1ExdUtQV3F6LU9oeFBITGhvMWRaR2x0UHJoRjl1VG9UNFpDRF9mYWNYVEZfTjdDb3VhRkZuTDVTNVl0c2ZSMlhwalF3d2xJSkE?oc=5",
-      "publishedAt": "2026-07-27T23:26:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-banglalink-s-toffee-sets-fifa-world-cup-2026-digital-streaming-records-in-bangladesh-the-fast-mode",
-      "title": "Banglalink 的太妃糖在孟加拉国创下了 2026 年 FIFA 世界杯数字流媒体记录 - 快速模式",
-      "summary": "Banglalink 的太妃糖在孟加拉国创下了 2026 年 FIFA 世界杯数字流媒体记录",
-      "originalTitle": "Banglalink’s Toffee Sets FIFA World Cup 2026 Digital Streaming Records in Bangladesh - The Fast Mode",
-      "originalSummary": "Banglalink’s Toffee Sets FIFA World Cup 2026 Digital Streaming Records in Bangladesh  The Fast Mode",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnZ3WHhINmhOODYwLU8zbFI5aDFzb1VSYzFjVm9OUXVhQmZlTUNNVnNMX3Y1eERrbnJ0UURTeS1nbXZwNXc0SDYxcXRVSDJXYlVJSVNzMUtHamNTVzlOQWVVSTFFdGxDSkdXVGRsMFBfUWhacWhLU2phMjZMRGVDdHdPN1hfTWw5RlN2Tk0zaVdPSWZsdG9SNHZPbl9YSmdLeU5rYVRrbnFmS19pUXdmTUp1YWgzSGNwRDBmNGVfU09XekJnOFhsSi02RzZKcmlRVDMwMUd3?oc=5",
-      "publishedAt": "2026-07-27T23:15:56+00:00",
-      "heat": 60
     }
   ]
 }
