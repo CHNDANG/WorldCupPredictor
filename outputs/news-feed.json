@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-07-31T15:03:36.381593+00:00",
+  "updatedAt": "2026-07-31T17:06:54.631444+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,114 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-senior-fifa-executive-says-staff-were-deceived-over-infantino-s-world-cup-sell-off-plan-herald-bulletin",
+      "title": "国际足联高级管理人员表示员工因因凡蒂诺的世界杯抛售计划而受到欺骗 - 先驱报",
+      "summary": "国际足联高级管理人员表示，员工因因凡蒂诺的世界杯抛售计划而受到欺骗",
+      "originalTitle": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan - Herald Bulletin",
+      "originalSummary": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan  Herald Bulletin",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgJBVV95cUxOcXBBZGdVNTRfMmN0UVFjU09uczE2V1VzYVNYWkNrVkpQS0FCNjZ3dEZRODJRNzBaLW8zNkF3dnRtaG1KUWJ0aXJ1SnBiUnZjUTBRb01zUDdtalZFRXRWYWVoQmVic3M3X2N5VkFfUV9Xd0pMS1pXdUdMbWlxZEd6YUhFQ0x0RWhka0E0QWt4dU1MSDNfRjJmbXlCblB2V1kweE0zNDBuTHpReVA0Vm5oUEE0RExSeS1PRzg1M1ZHODVXdmZRVThKa1FiVTZVRUtrdEg5V2NCeXZwS2xqMTQtVDZyVWJWLWVQN0ZSQ2tBcTZ5Qk81ZWhVeXhuNmZXV3NVb0M0MEotMGcxRFBteGMwRlh4NWFDd1JfNEE?oc=5",
+      "publishedAt": "2026-07-31T16:59:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-trump-says-he-never-spoke-to-fifa-leader-about-sale-gv-wire",
+      "title": "特朗普称他从未与国际足联主席谈过出售事宜 - GV Wire",
+      "summary": "特朗普表示他从未与国际足联领导人谈过出售 GV Wire 的事情",
+      "originalTitle": "Trump Says He Never Spoke to FIFA Leader About Sale - GV Wire",
+      "originalSummary": "Trump Says He Never Spoke to FIFA Leader About Sale  GV Wire",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT0VpZnJsX2U4Q0M5Z25yY0VZU2RBZG9DeFRUNFNRU3FRbGl0WDRzLU5iTGpFcHJ1WlhYWGoyQnhQVXAtVHQ5UlJ2MFBJcm5BVXV1U2pJaWZ5Yl9leU9ySGphaUk0eTNRcmxJaGY3ZXg5d3NUVDFseVpSYmtuN0ExTnh0UUJTdU5KUmc?oc=5",
+      "publishedAt": "2026-07-31T16:50:06+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-prediction-markets-topped-20-billion-with-ronaldo-tears-among-the-biggest-wagers-the-block",
+      "title": "2026 年世界杯预测市场突破 200 亿美元，C罗的眼泪成为最大赌注",
+      "summary": "2026 年世界杯预测市场突破 200 亿美元，罗纳尔多的眼泪是最大赌注之一 The Block",
+      "originalTitle": "World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers - The Block",
+      "originalSummary": "World Cup 2026 prediction markets topped $20 billion, with Ronaldo tears among the biggest wagers  The Block",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQbFMyQ01sb2YyUzFEVmRGRU0tTTEzZDMyRXFoWXd5MG40WWl0TTlOT0I4cUNBWmd6WWJKaUVJWGhIVFJsU0xnLVBLNjVKYUR2ZFA1VG5hdFI2Y05HZmNOXzNPNkhrZ1BId2Y1VHc5anNHSXcycG13UXNDdEZaejdPdWN4Q3N1TlFYYmtvMkRtbzBnQTk3dk95d3pzM0UxUGhqaWpRQjdKcmRHYW5WX1k2RDhheVYtQXBVWmVyVWpfZ3lBLVFfVF9OZlpTVkszbWR1VkJEVC1wSHZGMllzRGh6V08wdkNuUQ?oc=5",
+      "publishedAt": "2026-07-31T16:48:36+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-video-of-the-fifa-world-cup-2026-victory-celebration-in-mexico-falsely-shared-as-cjp-protest-in-delhi-englis",
+      "title": "2026 年墨西哥国际足联世界杯胜利庆祝视频被错误地分享为德里的 CJP 抗议 - english.factcrescendo.com",
+      "summary": "2026 年墨西哥 FIFA 世界杯胜利庆祝视频被错误地分享为 CJP 在德里的抗议 english.factcrescendo.com",
+      "originalTitle": "Video of the FIFA World Cup 2026 victory celebration in Mexico falsely shared as CJP protest in Delhi - english.factcrescendo.com",
+      "originalSummary": "Video of the FIFA World Cup 2026 victory celebration in Mexico falsely shared as CJP protest in Delhi  english.factcrescendo.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNYXg0SUh5U3Zaak5LVm9xMm41eUdfQTFzODhpdVhCdG9iMWFCdEZVeG90RzNITGcza2dneFBHX0lFUVhjNzYteEctWTV5b1FQMkRQOUJkQ3FjYXdXR283WWFKbWVrSmFlRWVzMGs2QkNzNmc0U0NfT3Y3MjlrTXVTWTFiQzhTaTFEcGRUS2MybW1jRTZOcHF5NFlIS1VxRHU1WEhCbDNUNXp5Mm5VTU9kaTdpR2diMGtpbkNNV1d3c1N4b3VuVk9rbTY0RmZ2SUw5NnRSM0ktLV9EenhzQWFXVw?oc=5",
+      "publishedAt": "2026-07-31T16:43:58+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-spain-world-cup-2026-la-roja-crowned-champions-squawka",
+      "title": "2026 年西班牙世界杯：La Roja 加冕冠军 - Squawka",
+      "summary": "2026 年西班牙世界杯：La Roja 加冕冠军 Squawka",
+      "originalTitle": "Spain World Cup 2026: La Roja crowned champions - Squawka",
+      "originalSummary": "Spain World Cup 2026: La Roja crowned champions  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0RUN3VsMVI4VFFiMFJlMWpGSDFrUkw0aS02YVJOdGY2OEV3SWlPX1RxY1psb0RSaC1CdjhRdS1MdnIzYXZmUWs4bjJCUm56YlhsVmNJUkozLTZEWHhKVDUteE13NzljamFyTVpHWVl5elcyUlRrSnVVaEs5dFJ1ME41WEFGdzdCUGw0WHNhckxvdw?oc=5",
+      "publishedAt": "2026-07-31T16:18:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-senior-fifa-executive-says-staff-were-deceived-over-infantino-s-world-cup-sell-off-plan-couriernews-com",
+      "title": "国际足联高级管理人员表示员工因因凡蒂诺的世界杯抛售计划而受到欺骗",
+      "summary": "国际足联高级管理人员表示，员工因因凡蒂诺的世界杯抛售计划而受到欺骗 - couriernews.com",
+      "originalTitle": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan - couriernews.com",
+      "originalSummary": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan  couriernews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxObEVqX09OMS00NjZPbU9OUDgzalZIOGhodzVDUVJXUmtkeWU4ODdLZTVQbERGUHROUmg4TlVkX1dPWHlTdUFITzctUkZ6NG92TW1rVFhKWTN3LVl5ak9GUlJzMHQyT2NQQVEwVnZMZjVTYUZDaEEwWE5SQlczREdaS2VIemtzUG80b2lLd2c0TGdCWE5xNW5RVnpOaFRhQ2cwc2ZXcTJfLURoYld6RzRoR1d2c045M2E1Z29xOE9LUEpqVDZ4SDZuaE4wWmZlb3N3MkJGUlAxSVJxeDc3Q2pieEJ2SUFyWFJ1b3BLMUFhNkRWSmZZYWRKMnI1aHpMc1VN?oc=5",
+      "publishedAt": "2026-07-31T16:17:28+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-senior-fifa-executive-says-staff-were-deceived-over-infantino-s-world-cup-sell-off-plan-manistee-news-advoca",
+      "title": "国际足联高级管理人员表示员工因因凡蒂诺的世界杯抛售计划而受到欺骗 - Manistee News Advocate",
+      "summary": "国际足联高级管理人员表示，员工因因凡蒂诺的世界杯抛售计划而受到欺骗 Manistee News Advocate",
+      "originalTitle": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan - Manistee News Advocate",
+      "originalSummary": "Senior FIFA executive says staff were deceived over Infantino's World Cup sell-off plan  Manistee News Advocate",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd0NwX0VQbVp3Tk1oQnZpQ2h6b1pNajFJaTBINmlMbGFONWh2aXZwNERXNTJFR3JnMEZ3YnhqUVdoV3VaTGxqd1FOU1QzY3REUnUxWjRMZTc4cF9BYVY0V2NLR3d4TGxCYzJVRlIwaHEtX21SWjlvNjIwYVktWUU3RXJvcFB4dTducEs1UzRoU0tOV09NRk11Ukh1X0tWR3VDd2xyc2xjWHg?oc=5",
+      "publishedAt": "2026-07-31T15:50:35+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
+      "publishedAt": "2026-07-31T15:40:20+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-what-you-need-to-know-about-fifa-s-private-investment-plan-and-the-backlash-cbc",
+      "title": "关于国际足联的私人投资计划，你需要了解什么——以及强烈反对 - CBC",
+      "summary": "关于国际足联私人投资计划您需要了解的内容以及遭到的强烈反对 CBC",
+      "originalTitle": "What you need to know about FIFA's private investment plan — and the backlash - CBC",
+      "originalSummary": "What you need to know about FIFA's private investment plan — and the backlash  CBC",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNejF4NmdXZFBGMkdueU1IMHFLSk9yX3gtNDB4Q0x0OE1RLXE3VXI1Ujd6dmRmM0ZKVXR2Y2V1TG0yLWwzTmcyODRienZ1amI0YnZidTJ6QklLMU9qUXJYQ0xQQW9TR0l3MEVWVmM3TkVpUjBDcXR2TGlHdUNlS3BGUFJfYTlDcE1tZUdlUHVoTElOTE5mQXV3cGVGOTh5THpPeEE?oc=5",
+      "publishedAt": "2026-07-31T15:25:31+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-2026-fifa-world-cup-redefines-multicultural-and-multiplatform-sports-engagement-señal-news-senal-news",
       "title": "2026 年 FIFA 世界杯重新定义了多元文化和多平台体育参与 - Senal News - Senal News",
@@ -30,18 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaHlEUFk4b0xRWDBQLXd6ZTc3a3hhbzlXN1ZMS3NnNGhQenE1ZEpPR1luNVNFTVNQMkE4bE9QelVmVkZ4NUI4UmwyY2J6dWtQSDJoRG5Db0R6WHNyU1NiSWlKTHkzU1NrSkRUS0dKdXNUV2h6emNmdzZJUi1nTXM5VXFLMUxQWkkzUzNHRTR1eURYX1JuZGZ3?oc=5",
       "publishedAt": "2026-07-31T14:56:59+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-senior-fifa-official-resigns-over-infantino-s-world-cup-sell-off-plan-second-says-it-deceived-staff-semissou",
-      "title": "国际足联高级官员因因凡蒂诺的世界杯抛售计划而辞职。第二个说它欺骗了工作人员 - seMissourian",
-      "summary": "国际足联高级官员因因凡蒂诺的世界杯抛售计划而辞职。第二个说它欺骗了密苏里州的工作人员",
-      "originalTitle": "Senior FIFA official resigns over Infantino's World Cup sell-off plan. Second says it deceived staff - seMissourian",
-      "originalSummary": "Senior FIFA official resigns over Infantino's World Cup sell-off plan. Second says it deceived staff  seMissourian",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNaTE3T0lkcVBETl9sZFVEUmxrc3RNaVRMQ1p1d0xNb2NibTd1akFUSllvdWFhbTdpNlRHeml0WHBUdnhyNmllR0E0dDVBQ2JfUHdMX2h6cDVGZU4tMnV3MTMwWG1ZSU1BZDU3REpZV2c1YXNTSS05ZXFmTG9YM05JdFN6bXd5TnJtZzBoWG5TR3VmdUhvOU5DLUpyU1JCU19qeGJlRjVNZU9HUkc0Y09SVmpXeDA1LTRleW5qTllwN0xXemZUUWFZMFpDZU53TzVGMTJLcGJSUEMxUQ?oc=5",
-      "publishedAt": "2026-07-31T14:56:03+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-aftermath-of-american-style-world-cup-조선일보",
@@ -68,16 +164,28 @@
       "heat": 60
     },
     {
-      "id": "google-news-fifa-studying-impact-of-expanding-world-cup-to-64-teams-for-2030-tournament-flashscore-com",
-      "title": "国际足联正在研究将 2030 年世界杯参赛球队扩大到 64 支球队的影响 - Flashscore.com",
-      "summary": "国际足联正在研究将 2030 年世界杯参赛球队扩大到 64 支球队的影响 Flashscore.com",
-      "originalTitle": "FIFA studying impact of expanding World Cup to 64 teams for 2030 tournament - Flashscore.com",
-      "originalSummary": "FIFA studying impact of expanding World Cup to 64 teams for 2030 tournament  Flashscore.com",
+      "id": "google-news-fifa-world-cup-2026-standings-after-matchday-1-scotland-above-brazil-usa-flying-high-kenny-smith-nnp8o7inwr-",
+      "title": "😱 FIFA 2026 世界杯第 1 比赛日后积分榜 |苏格兰高于巴西？！美国展翅高飞！肯尼·史密斯 (NNp8o7inWR) - Mshale",
+      "summary": "😱 FIFA 2026 世界杯第 1 比赛日后积分榜 |苏格兰高于巴西？！美国展翅高飞！肯尼·史密斯 (NNp8o7inWR) Mshale",
+      "originalTitle": "😱 FIFA World Cup 2026 Standings After Matchday 1 | Scotland Above Brazil?! USA Flying High! Kenny Smith (NNp8o7inWR) - Mshale",
+      "originalSummary": "😱 FIFA World Cup 2026 Standings After Matchday 1 | Scotland Above Brazil?! USA Flying High! Kenny Smith (NNp8o7inWR)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNR0NGaWE2NklUTjE3Z3g2YlREanI3Rl9PSm1oVjQwcGRnSUZnX1hsS0lScDgzVUxYQVJOQ0lhekdDdjBDYUt1MHY0MHg1MkN3WE9fNGJBZTlNcWthamdrYm0yNmtrclZPcFBMNTJXc2o3a3RYbnduTjA1NTVtOUt0NjI0RzNmR1cwc1JrMXd2TkdOZ0trZTd4dDVZbVlyRGE1WXoteVpRaVM3OW4xWm8zNUNxWnBYSlJh?oc=5",
-      "publishedAt": "2026-07-31T14:37:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwcTBqUEs2dlBZVG1IaGZYRHZmMDRkaU5hbHZkTVY0akx1a05SSndQNWxOTXBzQ1F3QU5QQ2kzM2R4QWp3UUZQMlg3Q1hJaWxKQ2J3bFJYNGxuT3M?oc=5",
+      "publishedAt": "2026-07-31T14:45:55+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-the-record-breaking-numbers-behind-the-2026-fifa-world-cup-sports-travel-magazine",
+      "title": "2026 年 FIFA 世界杯背后的破纪录数字 - 体育旅游杂志",
+      "summary": "2026 年 FIFA 世界杯背后的破纪录数字 体育旅游杂志",
+      "originalTitle": "The Record-Breaking Numbers Behind the 2026 FIFA World Cup - Sports Travel Magazine",
+      "originalSummary": "The Record-Breaking Numbers Behind the 2026 FIFA World Cup  Sports Travel Magazine",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWGRQdHFXZVdsYk1rNGtIaTVtc2I0VFhjTDNwOU54ZjVhRE1VZTkyVEdCS0MxMFJ4ek9YQkVaNHRRaWwzSjZnOXZ3UDItWVd3QlZjUkl6VWhHM2xBSUVrT0tfb1IteThwbGxkSlgwM2F5UDVBN2ptaHBzR29PSTZyQjBXdUJ5SWNkejhMb1BDMFFlTjMzZXBFUkhJSnQ?oc=5",
+      "publishedAt": "2026-07-31T14:33:40+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-a-world-cup-without-europeans-is-worthless-uli-hoeneß-talks-up-europe-s-ability-to-fight-back-against-infant",
@@ -92,135 +200,27 @@
       "heat": 52
     },
     {
+      "id": "google-news-erling-haaland-s-market-value-skyrockets-post-world-cup-as-usmnt-stars-fail-to-crack-top-100-yahoo-sports",
+      "title": "由于美国国家队球星未能进入前 100 名，埃尔林·哈兰德的市值在世界杯后飙升 - 雅虎体育",
+      "summary": "由于 USMNT 球星未能进入前 100 名，埃尔林·哈兰德的市值在世界杯后飙升 雅虎体育",
+      "originalTitle": "Erling Haaland’s market value skyrockets post-World Cup as USMNT stars fail to crack top 100 - Yahoo Sports",
+      "originalSummary": "Erling Haaland’s market value skyrockets post-World Cup as USMNT stars fail to crack top 100  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPZDN0bXJzaHhaUWVjNWdOYjA0SldIZ25CUE16TVFRZjFNZkhZbXlBeVNVekxPVXdSb1VUX2JmaXdhMldnbWRGQTVsc1lUMlFNZHFHdjdzbGxYcGFBQUdYOGRwUGVmYmRCQVplUDZ2UXgwNWc1YlEzSk5KTE5xblVSV0JOOEQwRGpGWHA1QmVTR2U?oc=5",
+      "publishedAt": "2026-07-31T14:30:00+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-reportedly-exploring-expansion-of-world-cup-to-64-teams-amid-backlash-over-selling-event-to-private-inv",
-      "title": "据报道，由于向私人投资者出售赛事引发强烈反对，国际足联正在考虑将世界杯扩大到 64 支球队 - ca.sports.yahoo.com",
-      "summary": "据报道，由于向私人投资者出售赛事引发强烈反对，国际足联正在考虑将世界杯扩大到 64 支球队 ca.sports.yahoo.com",
-      "originalTitle": "FIFA reportedly exploring expansion of World Cup to 64 teams amid backlash over selling event to private investors - ca.sports.yahoo.com",
-      "originalSummary": "FIFA reportedly exploring expansion of World Cup to 64 teams amid backlash over selling event to private investors  ca.sports.yahoo.com",
+      "title": "据报道，由于向私人投资者出售赛事遭到强烈反对，国际足联正在考虑将世界杯扩大到 64 支球队 - 雅虎体育加拿大",
+      "summary": "据报道，由于向私人投资者出售赛事引发强烈反对，国际足联正在考虑将世界杯扩大到 64 支球队 雅虎体育加拿大",
+      "originalTitle": "FIFA reportedly exploring expansion of World Cup to 64 teams amid backlash over selling event to private investors - Yahoo Sports Canada",
+      "originalSummary": "FIFA reportedly exploring expansion of World Cup to 64 teams amid backlash over selling event to private investors  Yahoo Sports Canada",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOQ0JQM25MeXFua3VKQk5wdmZTUmdNX2piNnptYXk5UG80X0VkT0g1dWpvWi1SOWVDSzhVSi00Z0JfRVdoUUYyYk8xU2tObHdjUkVBS2VwZUtCUnQ5Um5QdmIwSWlUQ2FlU091UEx6Rm0zZG5VZkhZQWRCU1NvN19WRmxoZ0FSZU12S3hSLXNIZ2J1MHp1UFRmc3oyYmhfUXlzWnNERXNYeC1NMWFaazZsWmJKbnM1NkFQcS1PV1pXclRnX05RS21kZG1EcVZRVEJIM3BTVk5aU1JfbXpGRHlHTzdMd0xxUnFIZG1vcTBDdFBUSWxh?oc=5",
       "publishedAt": "2026-07-31T14:26:46+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-meet-the-kansas-city-dentist-who-came-to-aid-of-2-teams-during-2026-fifa-world-cup-kansascity-com",
-      "title": "来认识一下在 2026 年 FIFA 世界杯期间为两支球队提供帮助的堪萨斯城牙医 - kansascity.com",
-      "summary": "来认识一下在 2026 年 FIFA 世界杯期间为 2 支球队提供帮助的堪萨斯城牙医 kansascity.com",
-      "originalTitle": "Meet the Kansas City dentist who came to aid of 2 teams during 2026 FIFA World Cup - kansascity.com",
-      "originalSummary": "Meet the Kansas City dentist who came to aid of 2 teams during 2026 FIFA World Cup  kansascity.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMlpDME1WaU1icms2ZlY2b3h0bXdKUHQ5UW8tazRJMC1Lay1INTBSM1M2WXczQ1NxMnJickItRkNSUktWWWxuVTNJSFc2VC15T1pLVlAtMnFsVmxqbEtMNTNLbmszVFdKUnFnV0xra0xaYzFnNUh5SUJJd1hWSmZQc0ZCZDFEMFYzcnROWTU3Zm1OUdIBkgFBVV95cUxQT1pMTjUwZ1BNT3J5QVlMdS02TE5zaHZTZGs0bDN3dW8xaE1EWVExQmxCMzJsOEVRdTRkRnhwc1NZcWN3TlNQNllHZDRIWExHTkxic19ucU1Tb3RaX0wtZU1EVjRsbUpxR0s5cllONk9WRDFtM2lJR1IxeVM5SVpkVl96X19Zd3lhNTByS0pOWnljZw?oc=5",
-      "publishedAt": "2026-07-31T14:11:02+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-国足利好-曝fifa加速推进下届世界杯扩军至64队-最早2周后敲定-手机新浪网",
-      "title": "国足利好！曝FIFA加速推进下届世界杯扩军至64队！最早2周后敲定 - 手机新浪网",
-      "summary": "国足利好！曝FIFA加速推进下届世界杯扩军至64队！最早2周后敲定  手机新浪网",
-      "originalTitle": "国足利好！曝FIFA加速推进下届世界杯扩军至64队！最早2周后敲定 - 手机新浪网",
-      "originalSummary": "国足利好！曝FIFA加速推进下届世界杯扩军至64队！最早2周后敲定  手机新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQb3MwenlLSllrWnNSTEhoVjdySzdkNzdqdVNYWkJNNFRMU2RDcy1JUUNSUTctcWZmblhjOTZ1UUFsN0dVWXpSV2ZpVEZRb2w3OHBEUG9Ob3o2eTdxVW5yZkdSYnVHLU94d2FiR1Nwc3llR2VYV05COU5xbzJ6ajllMy1rS2pTeG1ieFNHclA4M3c4eEstX0I0?oc=5",
-      "publishedAt": "2026-07-31T14:06:42+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-studying-impact-of-expanding-world-cup-to-64-teams-for-2030-edition-reuters",
-      "title": "国际足联正在研究2030年世界杯扩军至64支球队的影响 - 路透中文网",
-      "summary": "国际足联正在研究 2030 年世界杯扩军至 64 支球队的影响 路透",
-      "originalTitle": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition - Reuters",
-      "originalSummary": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQlVkRE1yeXlUWWpUUk84SHZhRzNjNm00TzlnOTlTMXBJc3ItRmlFRm1CNkRRV014bi1UOEFUTEk0VVk1Qy13T1RZNEIwdlZpdWZuT1NFWHhNSHBpLU9ETGRuakhENWVfR1d0dExpbzA1UFg2amlQZGxYNnVDLTJoZFlXZXRxUjlRNXJJYVFIV1RwSDRNQU9hY3RyaV9EUHJPZmtJaU5Ha3haY0JaaVJ2a18xZ1J0Y1hYSG5fYmhON1NwNFlnNEl5VA?oc=5",
-      "publishedAt": "2026-07-31T14:05:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-spain-and-portugal-s-position-threatens-the-2030-world-cup-what-about-morocco-goal-com",
-      "title": "西班牙和葡萄牙的地位威胁2030年世界杯：摩洛哥呢？ - 目标.com",
-      "summary": "西班牙和葡萄牙的地位威胁2030年世界杯：摩洛哥呢？  目标网",
-      "originalTitle": "Spain and Portugal's position threatens the 2030 World Cup: what about Morocco? - goal.com",
-      "originalSummary": "Spain and Portugal's position threatens the 2030 World Cup: what about Morocco?  goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSGp3YTU4UGpBNE1jNng3cWdCazRvZ0FwdEVEbVQxcFN4UVd1ZGcyRFlpR3htMlVBNTJtdTF4ZGpVS3Y4QUF5aGVub3FGdDNrcXRFZElfX081STJEekhzUV9OUk5lcHREejdMSHc2Wm5HTFNraVpTRm41d2g0VmRDRjlyMnVNNk9EWjNlczUweG05UDEyNmRDdmY0MkwyVlh1LUgzQ1AxZGRyYUlxZDRma3paS3JLeG9tc29ra3V6d2VCQQ?oc=5",
-      "publishedAt": "2026-07-31T14:04:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-studying-impact-of-expanding-world-cup-to-64-teams-for-2030-edition-the-straits-times",
-      "title": "国际足联研究2030年世界杯扩军至64支球队的影响 - 海峡时报",
-      "summary": "国际足联正在研究将 2030 年世界杯扩大到 64 支球队的影响 - 海峡时报",
-      "originalTitle": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition - The Straits Times",
-      "originalSummary": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition  The Straits Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNWEhsWUZmZ0lDeFczSU1TaEV3QzZxajBKNVlNdzFTV2ZyREtNeFZZU1FkSFFHTjBnYThNcFMtcGFVV2F4ZVRoSUdScy11b0FFcmdTbDBnUklfS1lGZEFzSGJReURyQWR4MGVqTGlUMXUzY3l2Zi1BSjlucjFRanlvLTYzQk5mLVBFTWRiLUtnYTZXOWN0NjBBY2tBekc5bUJ0dV8yQ2tsQ2lrZjFPZW1MQURZMkhXbUk?oc=5",
-      "publishedAt": "2026-07-31T13:36:34+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-cabral-s-curler-against-argentina-voted-2026-world-cup-goal-of-the-tournament-the-daily-star",
-      "title": "卡布拉尔对阵阿根廷的冰壶被评选为2026年世界杯最佳进球 - 每日星报",
-      "summary": "卡布拉尔对阵阿根廷的冰壶球被评选为 2026 年世界杯比赛最佳进球《每日星报》",
-      "originalTitle": "Cabral's curler against Argentina voted 2026 World Cup Goal of the Tournament - The Daily Star",
-      "originalSummary": "Cabral's curler against Argentina voted 2026 World Cup Goal of the Tournament  The Daily Star",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMDhOOW9LZ3lLRmI2TG82UUFoZTU5bWZkT0I4N1pFbTJuMnpiVklITDBvRncwZXlFNU9rVTA2SzJWOUZMUEVTV0tVYnVNbllaOXNHXzJxa2ktcUZqOUlNcTRrSDBTWDdqRXZuTExIRk9MNG9IeG15bTdfMlNaSWtlWXFQbmJLT3VqeTRJQnVyMUN4cmFIUXVha2RpaEpfRzZnQkpPZm52VENGYWdrMER5NW1STTY4QV9nTEVuMGRDajFTVHVlRzQwZ0c5cw?oc=5",
-      "publishedAt": "2026-07-31T13:34:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-afc-backs-uefa-concacaf-opposition-to-fifa-s-world-cup-private-investment-plan-ndtv-sports",
-      "title": "亚足联支持欧足联和中北美及加勒比地区足联反对国际足联世界杯私人投资计划 - NDTV Sports",
-      "summary": "亚足联支持欧足联和中北美及加勒比地区足联反对国际足联世界杯私人投资计划 NDTV Sports",
-      "originalTitle": "AFC Backs UEFA, CONCACAF Opposition To FIFA's World Cup Private Investment Plan - NDTV Sports",
-      "originalSummary": "AFC Backs UEFA, CONCACAF Opposition To FIFA's World Cup Private Investment Plan  NDTV Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdEtfd0xiZUZjMU0tMUN3UFBFZlhseEs1bmRkOXpxdnZBQWl1cmdvM0ZzZmtRNTkyQ3BVbFlWVkV5UHYwQmdGZFZOMzVLb1NfNXZrOHFoZEV0THlRRFNSR0NDS0l6X08yczFxcHZRVGlycVpmVWgxc19xU0pGdmZOc2JQa3NTbGtsUEtLUlNqTmZIZUxfTFR1ck4tU3BTRGNHY1NKMGlsZXlIUnZiY3pJQ09waWdPaW9xcHVmN2ZIb1VEQjVmMGJTRUV3?oc=5",
-      "publishedAt": "2026-07-31T13:26:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-plan-infantino-tackles-uefa-and-global-game-all-to-know-al-jazeera",
-      "title": "国际足联世界杯计划：因凡蒂诺应对欧足联和全球比赛——众所周知 - 半岛电视台",
-      "summary": "国际足联世界杯计划：因凡蒂诺应对欧足联和全球比赛——众所周知",
-      "originalTitle": "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know - Al Jazeera",
-      "originalSummary": "FIFA World Cup plan: Infantino tackles UEFA and global game – all to know  Al Jazeera",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMWw2TERkZ1d2cW1jY1JPN2puWEZYNGJZV1M0ZTROdEs3SlFRdkV6NFZDRmNPT3Jkc0NQMHBSRm9VUVFNeFV1LVlLdURKWm5WUVFhTTlOaDVsVXlZeVhJRFBDNVhWa2NSVE51ZnR0eXhpSjhPVG5kWjNDOW5fRkhibHBEYTVaYVZza0lFTEQ3YXlvZXNOQUtQcloxRmNQbHRaTF9rX25vVGRhcWJ6SzJtOER5YWHSAboBQVVfeXFMTWdtQUhOcFFOSWwza1lOZEtPQUZtMUVSUzdjaEJoeXo4MUdZeWMxaGZpTTRjVHA1UC1lMUhPY1pDRUxUbW1tX0ZGWGdEREF0ZnRfdTdGMjk0ZVBzTnJ4cmxvZ3B1UnU2OC1MeTFSRVNqSExreXlnSzJqd3FDSmNjbVNhVXc1Z2dzaUR0VzZka3JCMlJvNEJXMG83MEhFTE5tYnFEVFdVRmFEbWJhMU1CcXFoQk5jSUVHX0d3?oc=5",
-      "publishedAt": "2026-07-31T13:10:07+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-is-studying-impact-of-expanding-world-cup-to-64-teams-for-2030-edition-document-says-channelnewsasia-co",
-      "title": "文件称，国际足联正在研究将 2030 年世界杯扩大到 64 支球队的影响 - Channelnewsasia.com",
-      "summary": "文件称，国际足联正在研究将 2030 年世界杯扩大到 64 支球队的影响",
-      "originalTitle": "FIFA is studying impact of expanding World Cup to 64 teams for 2030 edition, document says - channelnewsasia.com",
-      "originalSummary": "FIFA is studying impact of expanding World Cup to 64 teams for 2030 edition, document says  channelnewsasia.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM2VndnZENE1JQUJqUHoyNXI1Z0pubWliWjFHOFJqYmhJY1VfVUtaQUUzdEg0c3pIbXFjYldKYl9ycWZKb1BGd1ZoZS05MnpiRlgxSW1lWTZ6aFpVSHJsOVgySXdyYV9hbF9qU2V5TU8wLVItZHZyVWlaZUZ3dS1wVG5iTzNuS0MxMkZUOHhKak1lRFk1STdSUmJLV0hUVF9rMUUwbU5nenpRNDFfOE1HSWdmX0xFNXk0MF9yWU96OA?oc=5",
-      "publishedAt": "2026-07-31T13:08:20+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-gianni-infantino-s-senior-advisor-quits-over-fifa-s-world-cup-plans-it-is-mortgaging-football-s-future-the-n",
-      "title": "因凡蒂诺高级顾问因国际足联世界杯计划辞职：“这是在抵押足球的未来” - 纽约时报",
-      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 高级顾问因国际足联世界杯计划辞职：“这是在抵押足球的未来”《纽约时报》",
-      "originalTitle": "Gianni Infantino’s senior advisor quits over FIFA’s World Cup plans: ‘It is mortgaging football’s future’ - The New York Times",
-      "originalSummary": "Gianni Infantino’s senior advisor quits over FIFA’s World Cup plans: ‘It is mortgaging football’s future’  The New York Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPVnJfektXSWJueW42Z2VlWmlJU2NqMms0Y2xRREk3NXVkMElTXy1RYVhMRWVWRmdzQUtOd0dHT2lwMlcyTkZhMHZGUjRVSFhXWFVSWHFUal9ESkxySFllSGl0QWhaNHBxVTJHOURqc0t3TnFhcXdoOHBEQ1hOeEJwQkp5OXFZM0Q5UWRkMXBkel9JRHk4WlZB?oc=5",
-      "publishedAt": "2026-07-31T13:00:56+00:00",
       "heat": 60
     }
   ]
