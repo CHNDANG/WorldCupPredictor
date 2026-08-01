@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-01T04:55:45.378401+00:00",
+  "updatedAt": "2026-08-01T07:30:50.332202+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,18 +7,6 @@
     "ESPN 足球"
   ],
   "articles": [
-    {
-      "id": "google-新闻-中文-卫报-欧足联及其他大洲足联正加紧物色人选参加明年fifa主席选举-直播吧",
-      "title": "卫报：欧足联及其他大洲足联正加紧物色人选参加明年FIFA主席选举 - 直播吧",
-      "summary": "卫报：欧足联及其他大洲足联正加紧物色人选参加明年FIFA主席选举  直播吧",
-      "originalTitle": "卫报：欧足联及其他大洲足联正加紧物色人选参加明年FIFA主席选举 - 直播吧",
-      "originalSummary": "卫报：欧足联及其他大洲足联正加紧物色人选参加明年FIFA主席选举  直播吧",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5mUW5aTVZLdjNDbGE0aVBsbHE1WHRzT3dHYzEtdTRPNFhUTTJtSC1QQ1JZUjB1VDBjTU5XUDExblhPTjN0azMwYjNUNDF4TU03UVhXNU5vQWdqbGJLelZIYXd2XzhlSGRlRzlJUmZUUFdjZw?oc=5",
-      "publishedAt": "2026-08-01T04:29:21+00:00",
-      "heat": 52
-    },
     {
       "id": "google-news-fifa-scraps-proposal-to-sell-off-stakes-in-world-cup-after-widespread-backlash-the-guardian",
       "title": "国际足联因强烈反对而放弃出售世界杯股份的提议 - 英国《卫报》",
@@ -28,8 +16,104 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcWJwTU5fSnh2MHpsb21ud3BvSFY1Tk95U0o5Y01tNlEyTkpyWG1temZkV2w5aVRvYUpaa3NBVnVqQUVJTmFlUnNDRnpPMkw5TDRiS2xLZGFpMWtXY2hvUi1vRWQ4S1lVcUV0elBRbUh6bVdreW5mTkRHM09GTkRsSUdCRUxsclUyZEYtaWJUUEw3UGNldUhiQlVhQkZyMU4tc21wSFVUQUtpd3BGOWhEd185LURTc280R3QwVlpqR0M?oc=5",
-      "publishedAt": "2026-08-01T03:41:00+00:00",
+      "publishedAt": "2026-08-01T07:04:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-挪威足协主席谈fifa-我认为他们的计划会被搁置-有种勒索的感觉-直播吧",
+      "title": "挪威足协主席谈FIFA：我认为他们的计划会被搁置 有种勒索的感觉 - 直播吧",
+      "summary": "挪威足协主席谈FIFA：我认为他们的计划会被搁置 有种勒索的感觉  直播吧",
+      "originalTitle": "挪威足协主席谈FIFA：我认为他们的计划会被搁置 有种勒索的感觉 - 直播吧",
+      "originalSummary": "挪威足协主席谈FIFA：我认为他们的计划会被搁置 有种勒索的感觉  直播吧",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9aNWdMRHY0dFp2b1p2RTJVMV9ObXFpQmpRcTI0MDZPdURmQmJWRDJpY1Fyb3gwMEFUVWltZkhHUUxXTW1QNUtKanJ0MmNHS3A5QlE5X3NUaDBCa2tBMnN0Rk9UVkFra3F4aHpITGxvYzlYZw?oc=5",
+      "publishedAt": "2026-08-01T07:03:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-the-class-of-2026-young-stars-who-lit-up-the-fifa-world-cup-businesstoday-com-my",
+      "title": "2026 届毕业生：点亮 FIFA 世界杯的年轻明星 - Businesstoday.com.my",
+      "summary": "2026 届毕业生：点亮 FIFA 世界杯的年轻明星 Businesstoday.com.my",
+      "originalTitle": "The Class Of 2026: Young Stars Who Lit Up The FIFA World Cup - businesstoday.com.my",
+      "originalSummary": "The Class Of 2026: Young Stars Who Lit Up The FIFA World Cup  businesstoday.com.my",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAJBVV95cUxNOXVfNlZIcUhKaVRqWXFkc1hJaXFMa2Y1LWF1bmszZDdWRWVBY3dGdE5PeHdObzdFOE4xU2hCeTA0VGd4WUl1MEwtVzNlOXRPblBraV9fRFM4azVZcl9tbnJ1Y0sxRWNUT0hMaUI3UTBaT0lKcUFLbmM4Rl9MQkc5ZEV2Q01tUTl5Z1V0MHd0cUNURXVGSTJNR04xcU93ZzJ0c2xWOUh3WUFRREJEbEhiRGlwYmk2VGVtcWZ4bWJTbUpTNUl5MEFJaC00R3VnT2RxUHpoYjM4TUdOVmlEd1FfdVVxRm9NUGJLQUtXYmFmWmIzeDNDM0Z0R3JwSU52ZmttYUl2akJORXgwbjkyZzd6cWxkaFNWdjJzSHJHVTJKSHhBZFVXMTJXQVo3SFl1OUR3?oc=5",
+      "publishedAt": "2026-08-01T06:32:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-bins-controversial-private-investment-plan-after-backlash-euronews",
+      "title": "国际足联在强烈反对后搁置了有争议的私人投资计划 - 欧洲新闻",
+      "summary": "国际足联在强烈反对后搁置了有争议的私人投资计划 Euronews",
+      "originalTitle": "FIFA bins controversial private investment plan after backlash - Euronews",
+      "originalSummary": "FIFA bins controversial private investment plan after backlash  Euronews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkE1NmVicDlVSFgtYzRsTjlTVWdBRWxraTF3QXhVcEdsMGlFT0JtcFE5Q0IwNWZZMmlYZkNsekpiSjFCUnltdWVuQVhwZ0lHTFBfMW5ZNHMwWElmanFic1Mxb05IbGtTRU9kSFh3VlZPMFFfWlJlRXZOQzBhYWhWa3ZrdnU5UmlvSXJweWMyb2xuOTFnZTZGMktZRENZUTA?oc=5",
+      "publishedAt": "2026-08-01T06:14:44+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ranking-world-cup-performances-by-bayern-munich-players-bavarian-football-works",
+      "title": "拜仁慕尼黑球员世界杯表现排名 - Bavarian Football Works",
+      "summary": "拜仁慕尼黑球员世界杯表现排名 Bavarian Football Works",
+      "originalTitle": "Ranking World Cup performances by Bayern Munich players - Bavarian Football Works",
+      "originalSummary": "Ranking World Cup performances by Bayern Munich players  Bavarian Football Works",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEF2SEtvZTNkVUF6MF9aaENSYXRtQ0NhMnJ3ME0ycjAwME9iNlZpaUVXQTQwYlpDR2Y4S3ZQUTNPNHVFT1JKeFMtUjFvT0w2LTNJdmVBYVFzcG9qalZGeWNmMEJZQjVwM1ZDV1N6aGgzNFhBS0NYWC16Y24wUGJZZDdiT0kxVmVId2NNMVJHQUV5ZDY4a09yUjB5WFc5SklTV0VnSFlUTXZqWXg4YnJfSEZ0THNMLW13ejFxMW5Ib1FISDhIeERydg?oc=5",
+      "publishedAt": "2026-08-01T06:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026格拉斯哥共运-大马力士横扫5金-首捧特拉法加杯-中國報-china-press",
+      "title": "2026格拉斯哥共运｜大马力士横扫5金 首捧特拉法加杯 - 中國報 China Press",
+      "summary": "2026格拉斯哥共运｜大马力士横扫5金 首捧特拉法加杯  中國報 China Press",
+      "originalTitle": "2026格拉斯哥共运｜大马力士横扫5金 首捧特拉法加杯 - 中國報 China Press",
+      "originalSummary": "2026格拉斯哥共运｜大马力士横扫5金 首捧特拉法加杯  中國報 China Press",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOLTJBY1NMYU1rTFJrc2F1ZjFjQ2RNTzhrV1RfSFp4VFgzS3RlNHVmVmNSSzdfUjExRUlqV2R6aWQtUk5ESWJXT19BNUNmYnBTdXE5ZC1jOVhrd2hpUVlEdjlmNkstTG5IT0t6R3c4T2YzMFlhMXNEZzh4ekxGQU8yeGlodEFlSS1EcVNYNkh6WmNXcFFUMURZMmlBQTRacDQ0NHFQOFlmM25GbzAyOUNES3FkanhVOExwc1NYeFFvVExkYTE5MnpJOW1sU0FxOUItdEJiOTZCR0YzM1lDLS03aVIwM19PcU9aaHZVMDlsTjNWLUZ0U0tjZ1BDY3JZUDhfZUEwX0daTXd0ZGV3OXkxWU1VQjE3NDBnOVZ0aDNWQzZnZjBkQzFEM0FYSGhxdDVMa0dLcDYzRkJTbFl3ZU5RM18ySkU3UDhtdXJuazNBQTRqV1BBR3c?oc=5",
+      "publishedAt": "2026-08-01T05:45:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
+      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
+      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
+      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
+      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
+      "publishedAt": "2026-08-01T05:44:37+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-fifa-boss-29bn-world-cup-plot-blows-up-with-job-on-the-line-as-australia-lands-integrity-jab-fox-sports",
+      "title": "澳大利亚遭遇“诚信”攻击，国际足联老板290亿美元的世界杯阴谋破裂，工作岌岌可危 - 福克斯体育",
+      "summary": "澳大利亚遭遇“诚信”攻击，国际足联老板 290 亿美元世界杯阴谋告吹，工作岌岌可危 福克斯体育",
+      "originalTitle": "FIFA boss’ $29bn World Cup plot blows up with job on the line as Australia lands ‘integrity’ jab - Fox Sports",
+      "originalSummary": "FIFA boss’ $29bn World Cup plot blows up with job on the line as Australia lands ‘integrity’ jab  Fox Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZEZaT2l5b2F3X0N3WUhGMXRYRVYzV3RtZzFoZjI0aGg1Tm9uQUZUSEMxWHFoZWhVOGpEeFo1OGp3dDZEbzNQenpUT2t2UWE3RnAycy1YbHZJWmFscEFsaERGTWwzRW1SQnJKRWVGRkhydjQ4VjREXzAtZnhiTmI3ZkFnMTQ3RE84Ql9VNk96Yms2dy1vczk4Qy02LWFoWVlJMFJhdDVjUmtiRnZuVTBUS1BPRTVZdkVMVDF3S0NWTzA1UUlTdjVaMFFVR185WlNjZkp5Wk44Yld2cl9TN3dmMGpwNEc1NG5wT2pNYkk2QWxiX3ZjRE9BODBnNGdkVHlnRmFaa1RwckhtMnZBbUptbXk4UnlUdVFTenlMb0ZLQmNsX0k2RTY5eGlVelh3UndrYnRIMEZMZ1Z1OXpQYlhkRkMzZmsxTzhkS0NHZ2NxQmM2WGdZMXNOMWIyb0FMaDjSAd8CQVVfeXFMT2RGWk9peW9hd19Dd1lIRjF0WEVWM1d0bWcxaGYyNGhoNU5vbkFGVEhDMVhxaGVoVThqRHhaNThqd3Q2RG8zUHp6VE9rdlFhN0ZwMnMtWGx2SVphbHBBbGhERk1sM0VtUkJySkVlRkZIcnY0OFY0RF8wLWZ4Yk5iN2ZBZzE0N0RPOEJfVTZPemJrNnctb3M5OEMtNi1haFlZSTBSYXQ1Y1JrYkZ2blUwVEtQT0U1WXZFTFQxd0tDVk8wNVFJU3Y1WjBRVUdfOVpTY2ZKeVpOOGJXdnJfUzd3ZjBqcDRHNTRucE9qTWJJNkFsYl92Y0RPQTgwZzRnZFR5Z0ZhWmtUcHJIbTJ2QW1KbW15OFJ5VHVRU3p5TG9GS0JjbF9JNkU2OXhpVXpYd1J3a2J0SDBGTGdWdTl6UGJYZEZDM2ZrMU84ZEtDR2djcUJjNlhnWTFzTjFiMm9BTGg4?oc=5",
+      "publishedAt": "2026-08-01T05:18:36+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-amid-threat-of-boycotts-fifa-ditches-commercialization-plan-bavarian-football-works",
+      "title": "在抵制威胁下，国际足联放弃商业化计划 - Bavarian Football Works",
+      "summary": "在抵制威胁下，国际足联放弃商业化计划 Bavarian Football Works",
+      "originalTitle": "Amid threat of boycotts, FIFA ditches commercialization plan - Bavarian Football Works",
+      "originalSummary": "Amid threat of boycotts, FIFA ditches commercialization plan  Bavarian Football Works",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSDd0YVJLOG5BcnNueUE4RjE1T3lWNTI1c0QtWjNpMC1VUUNpU3lnS0w5ZnpIODFOYU1LSEtDTmJ6cmR1LVFYSEJXcENqekZ1OV8xckxoYTVlbHZGa2hlZWJ6LUhJWk5mVUg0NjJCTU1ySFJiVGlmME4yeGxCdlBpVmlYVC1vZlJwT1IwOHg4OHc2N2d0cXpKS29rdnI0VklRSHFUbm15MHVoWkd3a2hfYTBPbzRjOVZEWWJN?oc=5",
+      "publishedAt": "2026-08-01T04:45:00+00:00",
+      "heat": 52
     },
     {
       "id": "google-新闻-中文-不敌反对声浪-fifa放弃卖世界杯股权计划-orientaldaily-com-my",
@@ -41,18 +125,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9hQjZyWUo2SXBDY1pfaHUwQUhHLUdLN3BfUTNqMkNhSmdpOTF2dnBGM1lOZ1lNT3hQZkdaZXZXSHgxbFdfWWVIR1JyXzFCaEJwblVFRWpDcmlDUU1FYXJoczJGMXB2ZGZud24tdWhjUQ?oc=5",
       "publishedAt": "2026-08-01T03:36:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-scraps-controversial-plan-to-sell-stakes-in-world-cup-thenationalnews-com",
-      "title": "国际足联取消了有争议的出售世界杯股份的计划 - thenationalnews.com",
-      "summary": "国际足联取消了有争议的出售世界杯股份的计划 thenationalnews.com",
-      "originalTitle": "Fifa scraps controversial plan to sell stakes in World Cup - thenationalnews.com",
-      "originalSummary": "Fifa scraps controversial plan to sell stakes in World Cup  thenationalnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcDZtRkV1dElLTzBQR1MtWUFISlNCanI0enk1cXNEbEx2TWRYaTR1c2hweE45OFFfXzZ0VzZUWFdqeUJNY3ppMU5tNlRsWjdINV9PazV3VDNSWEZDTnM5dFJNY1JMbkVCQVdaUlFqbHVsdzJMSjk0SFI0TDFRMXBfQkRSVW0xeWxDbEsxM1NiM1BvX2FhQkxZT0h2eTRVRlE0cVh2OWpGbmJvalNYWFlfOUtaT1pWNmVm?oc=5",
-      "publishedAt": "2026-08-01T03:30:02+00:00",
       "heat": 60
     },
     {
@@ -68,6 +140,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-scraps-world-cup-sell-off-plan-after-resistance-from-members-the-business-standard",
+      "title": "国际足联因会员抵制而取消世界杯抛售计划 - 商业标准",
+      "summary": "在会员抵制后，国际足联取消了世界杯抛售计划 - 商业标准",
+      "originalTitle": "Fifa scraps World Cup sell-off plan after resistance from members - The Business Standard",
+      "originalSummary": "Fifa scraps World Cup sell-off plan after resistance from members  The Business Standard",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd1Zmc1UzT3RhY0h0YkVlWFBpbUNnRkZzMU8taGFMZUhLN2YyMGdCMlJHTTBxOU5Zd0lhZmI4RDJFU293Ymd6VWhReXAyYzVPd3ZFOWJTUmNtMDVBSlQzTHZSNmo0a2lZb2w2Y0FPY1JjY0JCaGZ4WGJoTGpfSEVhYlZ6SUJnVnFBZ0dRbGhIZGl2cS10OEdRRVJyUEo4ZnhmUHM2NFJwVdIBrAFBVV95cUxNd3FuN2F1bkg0ek50ZjJFeEdTdThQaGd5RkppelFqU3E0eTRqMjRfdEVPX3NsbGYtbGZSeW1sYm14djhrVU5uSF9tb0RqOGNaUk5RcmhRV2s3eHF6Q1Q2Xzdzak5Zd0s4V0Z4VlhXdEVJRjNJOW9zOUlTdlVydk5RbHlyQVhCTHFtXzRLSEZGcFlQdDZDbXhKSXFORHJIZHVUUWlIN05kdDRIQmNj?oc=5",
+      "publishedAt": "2026-08-01T03:05:00+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifpro-will-never-support-world-cup-sell-off-plan-as-players-union-slams-gianni-infantino-s-controversial-pl",
       "title": "FIFPRO“永远不会支持”世界杯抛售计划，球员工会猛烈抨击詹尼·因凡蒂诺“不可逆转地重塑”比赛的有争议计划 Goal.com",
       "summary": "FIFPRO“永远不会支持”世界杯抛售计划，球员工会猛烈抨击詹尼·因凡蒂诺“不可逆转地重塑”赛事的有争议计划 Goal.com",
@@ -80,20 +164,44 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-国际足协放弃出售世界杯股权恩芬天奴引爆内部风暴高层怒批被瞒骗-vanpeople",
-      "title": "国际足协放弃出售世界杯股权恩芬天奴引爆内部风暴高层怒批被瞒骗 - VanPeople",
-      "summary": "国际足协放弃出售世界杯股权恩芬天奴引爆内部风暴高层怒批被瞒骗  VanPeople",
-      "originalTitle": "国际足协放弃出售世界杯股权恩芬天奴引爆内部风暴高层怒批被瞒骗 - VanPeople",
-      "originalSummary": "国际足协放弃出售世界杯股权恩芬天奴引爆内部风暴高层怒批被瞒骗  VanPeople",
+      "id": "google-news-2026-concacaf-under-20-championship-in-mexico-teams-full-schedule-and-all-results-complete-list-olympics-com",
+      "title": "2026 年墨西哥 2026 年 CONCACAF 20 岁以下锦标赛：参赛队伍、完整赛程和所有结果 – 完整列表 - olympics.com",
+      "summary": "2026 年墨西哥 2026 年 CONCACAF 20 岁以下锦标赛：参赛队伍、完整赛程表和所有结果 – 完整列表 olympics.com",
+      "originalTitle": "2026 CONCACAF Under-20 Championship in Mexico: Teams, full schedule and all results – complete list - olympics.com",
+      "originalSummary": "2026 CONCACAF Under-20 Championship in Mexico: Teams, full schedule and all results – complete list  olympics.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeGVzSU80SXVoMjROUFdEZVNfQzR1b0c5NHptdlZUNWtENDNoeHZUX2U5TzRzSXhkZ1V0NDVhQTdVMnI4SHFPMzVlcEFaMm4yUGNZNGdsa2QtNzQxUzgyblB1LXp4RHpzRlFYYm00TU50M29DUzZMekdwbnlWVFdlX2MxWUZwdEZoc1NKWGFtRE9EZ2FYWE9mTmZndzFIbmM?oc=5",
+      "publishedAt": "2026-08-01T02:57:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-恩法天奴大镬了欧洲足协威胁杯葛世杯等fifa赛事-即时新闻-体波-on-cc东网-on-cc東網",
+      "title": "恩法天奴大镬了欧洲足协威胁杯葛世杯等FIFA赛事｜即时新闻｜体波｜on.cc东网 - on.cc東網",
+      "summary": "恩法天奴大镬了欧洲足协威胁杯葛世杯等FIFA赛事｜即时新闻｜体波｜on.cc东网  on.cc東網",
+      "originalTitle": "恩法天奴大镬了欧洲足协威胁杯葛世杯等FIFA赛事｜即时新闻｜体波｜on.cc东网 - on.cc東網",
+      "originalSummary": "恩法天奴大镬了欧洲足协威胁杯葛世杯等FIFA赛事｜即时新闻｜体波｜on.cc东网  on.cc東網",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5MZU1sY1FhNExhazZBT0ZRRGoydmE0amQyWTNwZ2hMdVdQSEFCQnVPN3hjMlYyLVJxa05oSzRlTnZmYzB3V1lqUDE2VFpUZUIx?oc=5",
-      "publishedAt": "2026-08-01T02:41:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNckdxLWFyTXhCQzJ1SlZsSkRZa1QxOU9aUWYxSmF1Ykw4NjQ5cUxlelRPQ2p6bzlya21fNENpZFNxTHZac0xHTUVzRXBBYWxXckprb0lTb3JoSEM1amZSSFBIUjU2Z3NaWnBBTnFlVEswX085WmJaRWdsZmdDZkNPZ3ZlTTZtVGpYMmZpOUxKODZldHRfSnU3UGlB?oc=5",
+      "publishedAt": "2026-08-01T02:45:29+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-国际足协放弃出售世界杯股权-恩芬天奴引爆内部风暴-高层怒批被瞒骗-dushi-singtao-ca",
+      "title": "国际足协放弃出售世界杯股权 恩芬天奴引爆内部风暴 高层怒批被瞒骗 - dushi.singtao.ca",
+      "summary": "国际足协放弃出售世界杯股权 恩芬天奴引爆内部风暴 高层怒批被瞒骗  dushi.singtao.ca",
+      "originalTitle": "国际足协放弃出售世界杯股权 恩芬天奴引爆内部风暴 高层怒批被瞒骗 - dushi.singtao.ca",
+      "originalSummary": "国际足协放弃出售世界杯股权 恩芬天奴引爆内部风暴 高层怒批被瞒骗  dushi.singtao.ca",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxNc2g1RVd4b04yUWtzNVAyY0J4ckhDT3ZQcFlfNzQ0TGhKSFBYcW5yNDlwQk1TeS0yNjBZR0xhZEM1Z0ZnMkYybjNkWTFSZnNyX1FrTHEwc0g3cXI0T2tOVzFwQTI5VTlTS0hsMm9IeXpEOHNYRjNoTlBtdEszaHVOMExyeXdvX2Nrc0tIVWN1dURXWXViZ0FSQ185eGJhYzhua1RzR1pMdUhPaHB1b1JPS1ROS3RoVklMRTVMY0V4VHI0LV9tUnZjaHF3T1VZQnNkak9jMGo2SDB6OW91NjQtc3NMMlRvT0JTUFJ1b0dLRjJ4UHBHOFoya2tya1gtUFFMQlFrekdqQkRCWVFkRldtZ2V4YnJyUmg3QlYzbWZBVWJJSVlPbTFZZVNyNXU1VTM1QjdJbUdaZEdfV0dHcXJNem1JaktfcDVFNTRNVHZ3SWpIMU9xbWxUWDVuWENmSjhkMkQ5OWRQRXZRczMwTENuRU9zbnV3N2RTZjgzaTNtdzA2dU9wZFhidnRGMVJuNXo3OHY0RFA4QmpSZkdhMkE?oc=5",
+      "publishedAt": "2026-08-01T02:31:21+00:00",
       "heat": 52
     },
     {
       "id": "google-news-2026-fifa-world-cup-becomes-the-first-ai-driven-tournament-leaving-three-key-technical-legacies-kucoin",
-      "title": "2026 FIFA 世界杯成为首届人工智能驱动的赛事，留下三大关键技术遗产 - KuCoin",
+      "title": "2026年世界杯成为首届人工智能驱动的赛事，留下三大关键技术遗产 - KuCoin",
       "summary": "2026 年 FIFA 世界杯成为首届人工智能驱动的赛事，留下三项关键技术遗产 KuCoin",
       "originalTitle": "2026 FIFA World Cup Becomes the First AI-Driven Tournament, Leaving Three Key Technical Legacies - KuCoin",
       "originalSummary": "2026 FIFA World Cup Becomes the First AI-Driven Tournament, Leaving Three Key Technical Legacies  KuCoin",
@@ -104,124 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-不搞了-因凡蒂诺世界杯股权出售计划4天便告夭折-新浪财经",
-      "title": "不搞了！因凡蒂诺世界杯股权出售计划4天便告夭折 - 新浪财经",
-      "summary": "不搞了！因凡蒂诺世界杯股权出售计划4天便告夭折  新浪财经",
-      "originalTitle": "不搞了！因凡蒂诺世界杯股权出售计划4天便告夭折 - 新浪财经",
-      "originalSummary": "不搞了！因凡蒂诺世界杯股权出售计划4天便告夭折  新浪财经",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLVBjUnFBYWZfMEVOUE1KZmxuZlhYN2lxdldGWnJ0WF9fSExlZU1EaWRQal9GeFRSNWxCcExQTUdleDJyNkpMTmJucTZ5QWNQdV81SEpDZGw2X0w3RVBQR0ZJZEFiR2NlcWx6bUxhRFhUWFZBb0JOdXJwYktSU0NhV1JuWGRmUmhPYkRwNXB0a3dyRF9SSi1vX0FUXzRGVy1QNEtiNzk2bW84c1lQbk9zOURtSi1Nc0dUVE8wTVNxckY4NTlIMVBzR1lxWUdldGU4?oc=5",
-      "publishedAt": "2026-08-01T02:18:00+00:00",
+      "id": "google-news-news-analysis-why-gianni-infantino-s-secret-attempt-to-sell-world-cup-stake-backfired-so-spectacularly-los-a",
+      "title": "新闻分析：为什么詹尼·因凡蒂诺秘密出售世界杯股份的尝试却适得其反 - 《洛杉矶时报》",
+      "summary": "新闻分析：为什么詹尼·因凡蒂诺秘密试图出售世界杯股份却适得其反 - 洛杉矶时报",
+      "originalTitle": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly - Los Angeles Times",
+      "originalSummary": "News Analysis: Why Gianni Infantino's secret attempt to sell World Cup stake backfired so spectacularly  Los Angeles Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPQmplRzlaYlNGTnk1VUsxcm96VmxTMmlUZHVnWXVHQS1PR3Fjb2ZWazJGZ3FCMUNEbDNhQU9NMWVFN0FCNl9JdjNxYnU1QnFoblJSWEtUYnBRYXBSZHozSE9WVmZsQlk1RHlmaEdzZTk3M0lUTy1UR3NkemkxR3hVOHEyd3BFX0R2OGFiZ1AwMHBvdzZZWnpfVzZtdmx4d0ZDZlcxY3FseldSX0VzenpfS1R1UXVneGpWV3c?oc=5",
+      "publishedAt": "2026-08-01T02:23:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-infantino-s-fifa-controversy-details-as-football-should-never-have-been-placed-in-such-a-position-nbc-sports",
-      "title": "因凡蒂诺的国际足联争议——“足球不应该被置于这样的位置”的细节 - NBC Sports",
-      "summary": "因凡蒂诺的国际足联争议 - 细节为“足球不应该被置于这样的位置” NBC Sports",
-      "originalTitle": "Infantino's FIFA controversy — Details as ‘football should never have been placed in such a position' - NBC Sports",
-      "originalSummary": "Infantino's FIFA controversy — Details as ‘football should never have been placed in such a position'  NBC Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNVlg3cTl5bDRnd21ac0dMMnFHVm5paGY5YnVFWW15N3hGQjFMUHA3d3B1cXNweER6eWRNSHVORUlESVFwQ1hDeGVjV1R1ZGI3SGFRZjFaRUxaTGljakNRV2p1T3RFYnlkN1lGdmFUeUxZVXQ1eWVNb1Z4TGs5YXBRT09XMGN4TDlUMmt1SUxaZVJmcUFORWRCeWtvYzhqVTMyVGpTdHhmZVVfWWNjRXRxMG5hU1VOYTZtWHIxc0ZLUlRUWGFnYTNqcUN2Ny0yeTQ?oc=5",
-      "publishedAt": "2026-08-01T02:10:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-var-continues-to-take-centre-stage-as-technology-leaves-its-mark-on-world-cup-iol-co-za",
-      "title": "随着技术在世界杯上留下印记，VAR 继续占据舞台中心 - iol.co.za",
-      "summary": "随着技术在世界杯上留下印记，VAR 继续占据舞台中心 iol.co.za",
-      "originalTitle": "VAR continues to take centre stage as technology leaves its mark on World Cup - iol.co.za",
-      "originalSummary": "VAR continues to take centre stage as technology leaves its mark on World Cup  iol.co.za",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxORVJlbVRLRjVZQzZkLXVmc1lJQ19jeG9KTFZ0ZHZ1Q0d0TnBnRnVnSlpjZVN0WElqWWp5Z0RfNk9tTjJZSUpyOWd3YlJGNnBlU2ZYcVhScVd5N25RSnd5dEt2UnlyZmlVNnQxZjc5d2RrUmczaktrcmxwamp2UjhpeXd1QlhEXzVjMy1tZnZ3WW5hbGE0UGx4bVpDVVkxTU9iZURiSGdvTjZrSGJ1UGNVTG05TkQ0UDZVSGJlam1uLWRfTHU4TjUyLU4tVkZrMTFE?oc=5",
-      "publishedAt": "2026-08-01T02:09:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-scraps-controversial-deal-to-sell-stakes-in-world-cup-to-private-investors-npr",
-      "title": "国际足联取消了向私人投资者出售世界杯股份的有争议的交易 - NPR",
-      "summary": "国际足联取消了向私人投资者出售世界杯股份的有争议的交易 NPR",
-      "originalTitle": "FIFA scraps controversial deal to sell stakes in World Cup to private investors - NPR",
-      "originalSummary": "FIFA scraps controversial deal to sell stakes in World Cup to private investors  NPR",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNR0hYVjhvTXVKbGkwaDhzcnlKeEtBVkp1Rk9PUnpRR0lPNmUtZHZTVUJPWklXcWpmWXltZWNCWTlPc185WjRSdU1VSzNRbXQ5clRWcXB5WVFJRUlXcVgwOHhleWp6Y3NyVmJoNWRZWndXME45TGJDSHNSODhTX1A4WHhR?oc=5",
-      "publishedAt": "2026-08-01T02:08:51+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-不敌反弹声浪-fifa宣布取消出售世界杯股权案-体育-2026世界杯-场外花絮-sin-chew-daily",
-      "title": "不敌反弹声浪 FIFA宣布取消出售世界杯股权案 - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
-      "summary": "不敌反弹声浪 FIFA宣布取消出售世界杯股权案 - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
-      "originalTitle": "不敌反弹声浪 FIFA宣布取消出售世界杯股权案 - 体育 - 2026世界杯 - 场外花絮 - Sin Chew Daily",
-      "originalSummary": "不敌反弹声浪 FIFA宣布取消出售世界杯股权案 - 体育 - 2026世界杯 - 场外花絮  Sin Chew Daily",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5Ib2hXTzJYMjdZdXdrOEc5WGhhLXNzeTUwakJkTmlPTTVlVnpqWlVybUlfYndZSjNLMVd4WHNneG5rYk8tVDNhRXp4SXVlX25iZlJJdmE4SktZWGV6T3p2VUZPdFF2TlJWQmF4Z3lZaw?oc=5",
-      "publishedAt": "2026-08-01T02:08:35+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-国际足联宣布放弃世界杯股权出售项目-中国宁波网",
-      "title": "国际足联宣布放弃世界杯股权出售项目 - 中国宁波网",
-      "summary": "国际足联宣布放弃世界杯股权出售项目  中国宁波网",
-      "originalTitle": "国际足联宣布放弃世界杯股权出售项目 - 中国宁波网",
-      "originalSummary": "国际足联宣布放弃世界杯股权出售项目  中国宁波网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1LM1RyTTJkTmxpQXY5UjFhZlBHaEl5RmZrTGdxWGRxY1FKWUlTUFVOeGh3S2hxbWlmUjVLVnF6d0ZJU2VZM2twUVNWR3ZlSFhSaEJ1VlQ4azVBbTliaFJyTzFDbUFkZWpV?oc=5",
-      "publishedAt": "2026-08-01T02:04:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-explains-call-to-scrap-controversial-20b-world-cup-plot-after-plan-condemned-fox-sports",
-      "title": "国际足联解释称，在计划遭到谴责后，呼吁取消有争议的 200 亿美元世界杯计划 - 福克斯体育",
-      "summary": "国际足联 (FIFA) 解释称，在计划遭到谴责后，呼吁取消有争议的 200 亿美元世界杯阴谋",
-      "originalTitle": "FIFA explains call to scrap controversial $20b World Cup plot after plan condemned - Fox Sports",
-      "originalSummary": "FIFA explains call to scrap controversial $20b World Cup plot after plan condemned  Fox Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxPZEZaT2l5b2F3X0N3WUhGMXRYRVYzV3RtZzFoZjI0aGg1Tm9uQUZUSEMxWHFoZWhVOGpEeFo1OGp3dDZEbzNQenpUT2t2UWE3RnAycy1YbHZJWmFscEFsaERGTWwzRW1SQnJKRWVGRkhydjQ4VjREXzAtZnhiTmI3ZkFnMTQ3RE84Ql9VNk96Yms2dy1vczk4Qy02LWFoWVlJMFJhdDVjUmtiRnZuVTBUS1BPRTVZdkVMVDF3S0NWTzA1UUlTdjVaMFFVR185WlNjZkp5Wk44Yld2cl9TN3dmMGpwNEc1NG5wT2pNYkk2QWxiX3ZjRE9BODBnNGdkVHlnRmFaa1RwckhtMnZBbUptbXk4UnlUdVFTenlMb0ZLQmNsX0k2RTY5eGlVelh3UndrYnRIMEZMZ1Z1OXpQYlhkRkMzZmsxTzhkS0NHZ2NxQmM2WGdZMXNOMWIyb0FMaDjSAd8CQVVfeXFMT2RGWk9peW9hd19Dd1lIRjF0WEVWM1d0bWcxaGYyNGhoNU5vbkFGVEhDMVhxaGVoVThqRHhaNThqd3Q2RG8zUHp6VE9rdlFhN0ZwMnMtWGx2SVphbHBBbGhERk1sM0VtUkJySkVlRkZIcnY0OFY0RF8wLWZ4Yk5iN2ZBZzE0N0RPOEJfVTZPemJrNnctb3M5OEMtNi1haFlZSTBSYXQ1Y1JrYkZ2blUwVEtQT0U1WXZFTFQxd0tDVk8wNVFJU3Y1WjBRVUdfOVpTY2ZKeVpOOGJXdnJfUzd3ZjBqcDRHNTRucE9qTWJJNkFsYl92Y0RPQTgwZzRnZFR5Z0ZhWmtUcHJIbTJ2QW1KbW15OFJ5VHVRU3p5TG9GS0JjbF9JNkU2OXhpVXpYd1J3a2J0SDBGTGdWdTl6UGJYZEZDM2ZrMU84ZEtDR2djcUJjNlhnWTFzTjFiMm9BTGg4?oc=5",
-      "publishedAt": "2026-08-01T02:02:41+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-our-favorite-nj-photos-from-july-see-world-cup-tall-ships-wildfires-bergen-record",
-      "title": "我们最喜欢的七月新泽西照片。看看世界杯、高大的船只、野火 - 卑尔根记录",
-      "summary": "我们最喜欢的七月新泽西照片。查看世界杯、高大船只、野火卑尔根记录",
-      "originalTitle": "Our favorite NJ photos from July. See World Cup, tall ships, wildfires - Bergen Record",
-      "originalSummary": "Our favorite NJ photos from July. See World Cup, tall ships, wildfires  Bergen Record",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQkJRcTB2ZlJiM01GMDBPUldzRGxQamRBOURxdm85UFlsbUhkVE5sNzRwSzd4aGtzdHJzcXFlaTRRQ1FFMzFDSHoxSFc2NndScHQwMVBMeTgxOHJqc0RuY3hwMkhmM2wzYTdXNjl6RnVKNkd1ZThKcWl0VmI0Y2YzWUxLNUgtbG5EZllBQ1lMQnl5clFjUnJpNHMtb044QUtGVUVfRzNWR1o5Z0lDWjRwaG5uZzhVaFVlVklHOHZhMlR2QV9EV29Vdmw5bDJ4SXpIb0NENlBGRTZ0QQ?oc=5",
-      "publishedAt": "2026-08-01T02:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-scraps-controversial-us-20-billion-world-cup-investment-plan-cp24",
-      "title": "国际足联取消备受争议的200亿美元世界杯投资计划 - CP24",
-      "summary": "国际足联取消备受争议的 200 亿美元世界杯投资计划 CP24",
-      "originalTitle": "FIFA scraps controversial US$20 billion World Cup investment plan - CP24",
-      "originalSummary": "FIFA scraps controversial US$20 billion World Cup investment plan  CP24",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOUVRtQ1RMQk5ndkFFUF9aUU9kQ0dFSEoxQUYzUFJyZzhoOW91SnA2MFFlMVhpU0Vldnd0Q181OXZ3bXNaWEhqdE92RGlwLXZCdjNIRC1NdEx6MFI1X043MUJoZXRqTE1JQlhFck9fWHBmZDd2aVpKR3V6VGtzcVFaMDRKMFA1ZkVmM2RVQXIwdktTb3NLNHpvdllpOXRIaGd3djdYWUNRa0pFTHNtLXVOR08wOWJVR2I4enZ5aXZR?oc=5",
-      "publishedAt": "2026-08-01T01:55:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-scraps-controversial-plan-to-turn-world-cup-into-commercial-enterprise-deadline",
-      "title": "国际足联废除了有争议的将世界杯转变为商业企业的计划 - 截止日期",
-      "summary": "国际足联取消了有争议的将世界杯转变为商业企业的计划",
-      "originalTitle": "FIFA Scraps Controversial Plan To Turn World Cup Into Commercial Enterprise - Deadline",
-      "originalSummary": "FIFA Scraps Controversial Plan To Turn World Cup Into Commercial Enterprise  Deadline",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBSVnJQVzBOcE16S2xScFQ2V09DNDMwUlBLSzJxZFZrSUc3SDFtZENDVXpxdk1rN2cxeDREeWlrZXRqOGJGSEdaYkljMzRJQ1dJXzl0UDA3aVh2MTlTMmpOTmJkT3FUcE11VEdMVV9najNCQmlqNTlPb3FoVkw?oc=5",
-      "publishedAt": "2026-08-01T01:20:00+00:00",
-      "heat": 60
     }
   ]
 }
