@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T19:19:06.795494+00:00",
+  "updatedAt": "2026-08-02T20:30:12.861222+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-five-teams-that-could-win-the-2026-leagues-cup-ranked-sports-illustrated",
+      "title": "五支可能赢得 2026 年联赛杯的球队——排名 - 《体育画报》",
+      "summary": "五支可能赢得 2026 年联赛杯的球队——《体育画报》排名",
+      "originalTitle": "Five Teams That Could Win the 2026 Leagues Cup—Ranked - Sports Illustrated",
+      "originalSummary": "Five Teams That Could Win the 2026 Leagues Cup—Ranked  Sports Illustrated",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFB1bXRDT2ZBNDhGelFtVWFWN0twZU9kVldmejAwMURwOFYtYW5wLWJkZnk5UDdubVJaSlpLdUJnNWZ1WVNWc1ZCZ2RlYktTckx0UlJ5dVdrN1JMU3hvS2E3RVlyQng0Q1VtSUh5S3Jadk9fZw?oc=5",
+      "publishedAt": "2026-08-02T20:00:01+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-world-cup-winger-furious-with-silkeborg-management-and-fans-for-disrespectful-behavior-flashscore-com",
+      "title": "世界杯边锋对锡尔克堡管理层和球迷的不尊重行为感到愤怒 - Flashscore.com",
+      "summary": "世界杯边锋对锡尔克堡管理层和球迷的不尊重行为感到愤怒 Flashscore.com",
+      "originalTitle": "World Cup winger furious with Silkeborg management and fans for disrespectful behavior - Flashscore.com",
+      "originalSummary": "World Cup winger furious with Silkeborg management and fans for disrespectful behavior  Flashscore.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPdFByWjFNUm1MTjdLdzh2cWVkSmdyYXFTcmNLd040SmpHUDd3TmdmenpCNlpKNnhpVTczblNKQVJ4ZWZNR2w0bF9NYnNkeHcxblpuNHNVVEk0S1ZqZEVMM1pfdmlOWFpVN3lUU2ZfOXNyWG1OQURXall4c1NfNmctTHVmeHg5dVZ4eFBhdVpxQ0RPT3dGVlY1UHpKdmR4NGFwR0x4US16UFkwUGFiX0dPaGg4ZTdKUFAtSXU1WjdEcHlRd3c2OW02dzRtVmRXYWdnd1ZTQU5fWHhEaXVCSUE?oc=5",
+      "publishedAt": "2026-08-02T19:52:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-阿斯-特朗普突破足球伦理底线-fifa颁发和平奖令足球界蒙羞-直播吧",
+      "title": "阿斯：特朗普突破足球伦理底线 FIFA颁发和平奖令足球界蒙羞 - 直播吧",
+      "summary": "阿斯：特朗普突破足球伦理底线 FIFA颁发和平奖令足球界蒙羞  直播吧",
+      "originalTitle": "阿斯：特朗普突破足球伦理底线 FIFA颁发和平奖令足球界蒙羞 - 直播吧",
+      "originalSummary": "阿斯：特朗普突破足球伦理底线 FIFA颁发和平奖令足球界蒙羞  直播吧",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBsZERBekF2Z2hxSkFPYmFRVE9BZzJIYVREN3NLaWstQmxPWlV0NGUtbkVuMVV3cEptb04taTJqWC1tbzRXVVVzTFduMDRHYVdfeFhpNWJ6XzNTdlNjT3pmd0ZDTFZSRkNVMnBJMXdaZ0Vhdw?oc=5",
+      "publishedAt": "2026-08-02T19:32:25+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-cabo-verde-stunned-the-world-with-a-2026-world-cup-run-межа-новини-україни",
       "title": "佛得角凭借 2026 年世界杯的表现震惊了世界 - Межа。 Новини України。",
@@ -17,18 +53,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE4tQ05QSWlvTXRLejZtLWt5T0ZTc3Y1NHJWWXRwTms4MjkzS3BDN0k0Y2FpZnlGVlQ2d0VhQUE2UFFzUDlucU1uQVhQSXdwcldNWlFyZHBqMzhvRGdGZ0lKVHItMXN4U3c?oc=5",
       "publishedAt": "2026-08-02T18:51:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-i-started-coughing-blood-doku-opens-up-on-world-cup-illness-before-son-s-birth-vanguard-news",
-      "title": "“我开始咳血”——多库在儿子出生前谈到世界杯生病的事 - Vanguard News",
-      "summary": "“我开始咳血”——多库在儿子出生前讲述了世界杯期间的疾病情况 Vanguard News",
-      "originalTitle": "‘I started coughing blood’ — Doku opens up on World Cup illness before son’s birth - Vanguard News",
-      "originalSummary": "‘I started coughing blood’ — Doku opens up on World Cup illness before son’s birth  Vanguard News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQZmQ2NkJ6NXN1RHNPdmRnNTJlOHZIbkQ3aWV4QThSMEdjcVJDRDVoaVZqaFFQdU54N3BwQ3lzeGF3MmNNRGJFUEVJR0ZoUTJSZjR3cUpCZkM0bTJmeldzWElyNGZNQ3liRk5kQ3dpQUFHV2JFcWxVZ2kzYndSc3Z1ZFV3T1l1Tm15MV9CVGJfMU1TRmFvdWpnTzFGTzR4aVpOUGoxckUzZTY3c2hmUXd1QWJRNW7SAboBQVVfeXFMT3FReUw4Q0tpYXRmVmR5QV9id2h3aVIwb0JiWlkxbUxOLVJhVzZwRldVdkRmQWVkQjR3OVJJQmtuUE1jMFN0cjhpUnoyR25yTzEwdC1TdjNHcElRN041SlhKUm9vZ2hSVHJOeWNFeWxzcXI5bjNsN1JRZzRtakdPaHVqMFdiSzI5QjRiemNBZkdITFlBcVNNa1NJQUVZck9PbHJGRE1lWWdOSlJ6SnhETXVPRUVtbkhKeVdn?oc=5",
-      "publishedAt": "2026-08-02T18:37:21+00:00",
       "heat": 52
     },
     {
@@ -44,16 +68,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-scraps-controversial-world-cup-sell-off-project-1news",
-      "title": "国际足联取消了有争议的世界杯抛售项目 - 1News",
-      "summary": "国际足联取消了有争议的世界杯抛售项目 1News",
-      "originalTitle": "FIFA scraps controversial World Cup sell-off project - 1News",
-      "originalSummary": "FIFA scraps controversial World Cup sell-off project  1News",
+      "id": "google-news-british-prime-minister-says-infantino-is-not-the-right-man-to-lead-fifa-big-rapids-pioneer",
+      "title": "英国首相表示因凡蒂诺不是领导国际足联的合适人选 - Big Rapids Pioneer",
+      "summary": "英国首相表示因凡蒂诺不是领导国际足联大急流城先锋队的合适人选",
+      "originalTitle": "British prime minister says Infantino is not the right man to lead FIFA - Big Rapids Pioneer",
+      "originalSummary": "British prime minister says Infantino is not the right man to lead FIFA  Big Rapids Pioneer",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNEI0amVMZTFrY3JJVGk2Z1dMS28wdDZXUHNMOHp3UzJqY25uRzlKQTZyX0V5c2dsR0o1YXJvc3c2MURzLXZGdUE1QjloaGNqc0dGTDZVekVaU2h3RjY1a1RpOER6S0huS3hXUFZMb2E4WTFFdjduY1lSR3p1UUNiMG1TOHUzeEtIa1U2R1g0RjVIdw?oc=5",
-      "publishedAt": "2026-08-02T18:03:56+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdjlCTXU0OThvMkRCbDRpVWdSSXZhQVFUdVZzYURBeVpJbTFFcThjZ091SklvcmhCckRQbWJGVW5ITmp2WEhndV9EWDgyZnloaUVoTmVDNW5HYXBPUUU5SVdGVUFsMENRaVJfOS13cHA4bmwxTEV2THF5Z0w1T2tqRzZxRG9MZG5CdzIwX1l2UF9NdE9obzJTQlo4SHQ0bUhzR3c1YUZQMl9EQQ?oc=5",
+      "publishedAt": "2026-08-02T18:13:45+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-doku-reveals-world-cup-health-scare-after-coughing-blood-the-sun-nigeria",
@@ -116,6 +140,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-morocco-becomes-first-team-to-reach-fifa-world-cup-2026-quarter-finals-with-3-0-win-over-canada-the-news-mil",
+      "title": "摩洛哥 3-0 战胜加拿大，成为首支闯入 2026 年世界杯四分之一决赛的球队 - The News Mill",
+      "summary": "摩洛哥以 3-0 战胜加拿大，成为第一支进入 2026 年 FIFA 世界杯四分之一决赛的球队 The News Mill",
+      "originalTitle": "Morocco becomes first team to reach FIFA World Cup 2026 quarter-finals with 3-0 win over Canada - The News Mill",
+      "originalSummary": "Morocco becomes first team to reach FIFA World Cup 2026 quarter-finals with 3-0 win over Canada  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNTVVnd3NENm1zNGZMWWFlblVEamItdG12c1A5T0NMcnBORXFadkhuOFRKVjZreWZZelZCMjI2LWxHbGlwR1h6TUhUUkcxNl9yMzBPZzdhd09iZVFpQ2NON0MxcFdBLWI2NWswbHdhaUlrUGFfWmlDa2tTcjEybm5SMmswNWk4bHg4Sk03SVNRTWVicHRIRTB0RUN4cXBtTnQ1VTlUNS03SV91T2tkYU9UU2JkeUxpQ254MU5IaHNmTEk2VDVVa0I4?oc=5",
+      "publishedAt": "2026-08-02T17:42:12+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-gianni-infantino-accuses-world-cup-critics-of-spreading-hate-roundtable-io",
       "title": "詹尼·因凡蒂诺 (Gianni Infantino) 指责世界杯批评者散布仇恨 - roundtable.io",
       "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 指责世界杯批评者散布仇恨 roundtable.io",
@@ -126,6 +162,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWEdwRHZZTTViUnJwczZJNDlyTm05d2M4YjgtZWFjRkhaNTFUUFhtTmd1Mm5tUThwVU9rcFpjSnI1ZWRxX0QzX1FFNzMySHU2cjZuVWk0U1AxbTZLOEtXUFVqMWhPaUxwMHpGS3h1Tk9OVEcyUkttdVM5aUpQeENwbDVub3lrMENwTTBOQmdBSWZQd3Z0MFNDeGhxQy00cmY4d0l3?oc=5",
       "publishedAt": "2026-08-02T17:38:18+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
+      "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN 中国",
+      "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN 菲律宾",
+      "originalTitle": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN Philippines",
+      "originalSummary": "2026 ASEAN Championship: Fixtures, results, standings, how to watch  ESPN Philippines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElTNkJWeHJ6d3dCaTliczd0VXJ6YnR3SkRzVmpuTlBjeFBwYzNqN0Z2eGJrM0JjdUpCdGlHbUFaRjV4WFREZHhXcmdmNXBLSGpBX2VhWXF6X2Y0NVVCbFkwRjBkQm5fYTUzdWtuZHN3dEMyWWhneHBuM3VsdXI2aVRvY296aGlFclRRZ09QWlF6QmFsakNTYmtfTlJRZDFEaUtrUEJmaVcyUG4yLXc?oc=5",
+      "publishedAt": "2026-08-02T17:35:36+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-cape-verde-s-historic-2026-world-cup-journey-celebrated-the-news-mill",
@@ -140,16 +188,28 @@
       "heat": 52
     },
     {
-      "id": "google-news-they-d-already-moved-on-to-zidane-didier-deschamps-felt-abandoned-by-french-fa-during-world-cup-2026-goal-co",
-      "title": "“他们已经转向齐达内了”——2026年世界杯期间德尚感觉被法国足协抛弃了 - Goal.com",
-      "summary": "“他们已经转向齐达内了”——2026 年世界杯期间德尚感觉被法国足协抛弃 Goal.com",
-      "originalTitle": "‘They’d already moved on to Zidane’ - Didier Deschamps felt abandoned by French FA during World Cup 2026 - Goal.com",
-      "originalSummary": "‘They’d already moved on to Zidane’ - Didier Deschamps felt abandoned by French FA during World Cup 2026  Goal.com",
+      "id": "google-news-england-wins-bronze-with-6-4-victory-over-france-at-world-cup-2026-the-news-mill",
+      "title": "2026 年世界杯英格兰队 6-4 战胜法国队夺得铜牌 - The News Mill",
+      "summary": "2026 年世界杯英格兰队以 6-4 战胜法国队夺得铜牌 The News Mill",
+      "originalTitle": "England Wins Bronze with 6-4 Victory Over France at World Cup 2026 - The News Mill",
+      "originalSummary": "England Wins Bronze with 6-4 Victory Over France at World Cup 2026  The News Mill",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVkZ5LUlZSFpoNl9wRUNDSWdrRGxxYWRoMUo0Skh0R1hfdGFDVmw3WmdYVFc5T2JSY3h6QVl4VFVRMnlMaDF0RGk2YnVKQ0lUZlB1NEZxcEpyX0xWRFJCU284cmZZNi1vSUZKenF1MF8zQmRSRnJzYUF3S09FWmpxRjExaHhvaHpPMHhVUmtnZ2szWExyQVNtWk1KUEcwVG1O?oc=5",
-      "publishedAt": "2026-08-02T17:15:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPM2o5QzZJeFRIQ05aRjFJU09nRms4X1g5QXNmRWM3MzNLWEdxbXNRRnpIa3poaFNBVFFwenktRHd2cFBNcXVtZHdBTGdndUdzeU8zWGFISjE1RGZLc1lBUUxGSnM1ZG5wN2ZUOUFPcTVuSmMyenZkV3Bwd09UMzFPRkwtTnJtZnpZalktdmJSaW1ydWwycndRMXdQeGp4RVVybm5yVUtIanE5YXc?oc=5",
+      "publishedAt": "2026-08-02T17:12:14+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-hero-vozinha-to-complete-colo-colo-move-shafaq-news-latest-breaking-news-in-iraq-and-the-worl",
+      "title": "2026 年世界杯英雄沃齐尼亚完成科洛科洛转会 - Shafaq 新闻 |伊拉克和世界的最新突发新闻 - فق فق فف",
+      "summary": "2026 年世界杯英雄沃齐尼亚完成科洛科洛转会 - Shafaq 新闻 |伊拉克和世界的最新突发新闻",
+      "originalTitle": "World Cup 2026 hero Vozinha to complete Colo-Colo move - Shafaq News | Latest breaking news in Iraq and the world - شفق نيوز",
+      "originalSummary": "World Cup 2026 hero Vozinha to complete Colo-Colo move - Shafaq News | Latest breaking news in Iraq and the world  شفق نيوز",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPc2w5Mm52Zkd5YU9jM1RfWEdtb0xZTXYtbm5PbGJRZmlDZ3F3SWVkemNZcDRrX1JQZWg5bmJhUDlVVXpPcGRjcXQ4YVhhakVObVdROWw3QWxnOFhUTDIzWnlBR0dRa1JXZGcwXzVxV0xYa3NTdlhwaTgwMFl5aVpXeC01bFFvaGdUcFE?oc=5",
+      "publishedAt": "2026-08-02T17:05:48+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-usa-eliminated-from-fifa-world-cup-2026-by-belgium-4-1-the-news-mill",
@@ -161,66 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWWVySldLQXZJajJGZkNCTnpidHZaNllObzZhMGN3SXoyVFh6ZURqdjFKNXk3VFhuZk1rZmE3Q3JRMEM4dkYyeG1UVmRocDRkV0thazk2Ym10OEV3dklKZGVxN2cyX2p3SFBEVVRiSHFFU3o0R0c5SHdOem9pOVZEU2dHY0FxcmxaMHRQRURyb0xGY3psSzkzbURn?oc=5",
       "publishedAt": "2026-08-02T16:47:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-goat-mls-fans-all-say-the-same-thing-after-lionel-messi-s-first-game-since-the-world-cup-yahoo-sports",
-      "title": "“山羊”——在莱昂内尔·梅西世界杯以来的第一场比赛后，美国职业足球大联盟的球迷都说了同样的话 - 雅虎体育",
-      "summary": "“山羊”——在莱昂内尔·梅西 (Lionel Messi) 自世界杯以来的第一场比赛后，美国职业足球大联盟 (MLS) 球迷都说了同样的话 雅虎体育",
-      "originalTitle": "‘The GOAT’ – MLS fans all say the same thing after Lionel Messi’s first game since the World Cup - Yahoo Sports",
-      "originalSummary": "‘The GOAT’ – MLS fans all say the same thing after Lionel Messi’s first game since the World Cup  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55X1Y0SjhLUS03cENSM29OZmk0LTVEM3pqaF9wU3BvWU5BMERBTHd2Y1pwUHhjWm4yVTgyWHVkWFJFLTFzM0pEbHZoMVNDcTlmLUZHaVFleGg3bHNqZkloS0RGQ2w4U0U0TDVqZHN0bGdwS3JhUEp4LXZCYnZXZw?oc=5",
-      "publishedAt": "2026-08-02T16:10:52+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-iran-s-fifa-world-cup-2026-exit-a-display-of-resilience-the-news-mill",
-      "title": "伊朗退出 2026 年世界杯：展现韧性 - The News Mill",
-      "summary": "伊朗队退出 2026 年世界杯：展现韧性 The News Mill",
-      "originalTitle": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience - The News Mill",
-      "originalSummary": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZENlVEt2SFdaY0lncGZPcVlwVzFBUjl3dmhPMm9IdkF2MGwwUjhDSFJaWUNaNHhlNW5GV3g2ZWdOZktCemJFWDAwVHVxNXhfblR6b1d6NEprRVJGQko2emxDTnpabGdBbGEtY2pveDNGbGV1TU1ydTVUc3pYOTdSenlkVlZNZzN4TUtLSV8yVUxjajAyUm9kZVJzNnNPTVhjWFVmeA?oc=5",
-      "publishedAt": "2026-08-02T16:07:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-thierry-henry-comments-on-balogun-s-clearance-for-usa-vs-belgium-in-world-cup-2026-round-of-16-the-news-mill",
-      "title": "蒂埃里·亨利评论巴洛贡在 2026 年世界杯 16 强赛中为美国队对阵比利时队的解围 - The News Mill",
-      "summary": "蒂埃里·亨利 (Thierry Henry) 评论巴洛贡 (Balogun) 在 2026 年世界杯 16 强赛中代表美国对阵比利时的比赛 The News Mill",
-      "originalTitle": "Thierry Henry comments on Balogun’s clearance for USA vs Belgium in World Cup 2026 round of 16 - The News Mill",
-      "originalSummary": "Thierry Henry comments on Balogun’s clearance for USA vs Belgium in World Cup 2026 round of 16  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSEtEdUs0Sm9ZNHpGQU1OZUVTREZkVGsySldpa05lcmQyRVdvWlBvM0dvWHY0RlFFOE1rX096dTZMWkNIUXFFUnA1OGZGbFp2THR4aTNraTQxZkpna2xuTENvbk9fampWZlpGakdHQWJqRmpUZjI3X2paZW1uUTItNFhQbnVwNGFvaHpqbW83VnNNQlRRRkJoTTViakFISVBNaUVyRWY4ZmZtWlJMdXE4RW9wS0xkOXc1SHVoTkdhRUN3am5r?oc=5",
-      "publishedAt": "2026-08-02T16:07:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2030-must-learn-this-lesson-from-2026-edition-heavy-com",
-      "title": "2030 年 FIFA 世界杯必须吸取 2026 年世界杯的教训 - Heavy.com",
-      "summary": "2030 年 FIFA 世界杯必须吸取 2026 年版的教训 heavy.com",
-      "originalTitle": "FIFA World Cup 2030 Must Learn This Lesson from 2026 Edition - heavy.com",
-      "originalSummary": "FIFA World Cup 2030 Must Learn This Lesson from 2026 Edition  heavy.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ1NyOXhsYmNXWFpEUV9hdUNpUkZtajBidnViRlFCWlZHUG5NcUhaeWlWd0dxWnZLcmdvOFB6N2ZxOXl3OEY1aUFDTG5XOUJQOG5xY0dER3dyZHItSmpNcGlJeU1lRjlIbzNBTzhmdDQxdHlBbC1aVmt0UVdpcVJjbWtKRjlhYUFzRkJoOEp6U3BqQUstazhPdg?oc=5",
-      "publishedAt": "2026-08-02T16:02:32+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-bosnian-wonderkid-alajbegovic-joins-juventus-from-leverkusen-after-fifa-world-cup-2026-heroics-sportstar",
-      "title": "波斯尼亚神童阿拉贝戈维奇在 2026 年世界杯英雄事迹后从勒沃库森加盟尤文图斯 - 体育明星",
-      "summary": "波斯尼亚神童阿拉贝戈维奇在 2026 年 FIFA 世界杯英雄事迹后从勒沃库森加盟尤文图斯",
-      "originalTitle": "Bosnian wonderkid Alajbegovic joins Juventus from Leverkusen after FIFA World Cup 2026 heroics - Sportstar",
-      "originalSummary": "Bosnian wonderkid Alajbegovic joins Juventus from Leverkusen after FIFA World Cup 2026 heroics  Sportstar",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQWV9udm50Tnh3QlJ3bGtVS1VZNklHMlV2c1h3LWstdVhjbkpSZFBxR0k2TldTMGJPMmZMSmk5NjZwbUtuVjVFaTUyWVhFVk5iNjZaVXUwYmhCOEJkSTJHYnhuMlM1QWxlMnhISGk3ZXRQVVl1Zms3QVVKdFBrMldlQjRMckZSdVdXOGlUeENpUWxQUFZFaXVQUTE1VkJicmlGVWdTU2haWGcxSnRyM1BaTkFsd0VXNDdlYjZoYUxaRmxBZy1wcnFjRXk5Q1FTTFQzWlNEX0ppMEdfbTliOThMMlZReWw5MUo4WHFjNFhZV1NUTEXSAfoBQVVfeXFMUHAzWGdIdWV2dmxIc0VJeEpLUm1DODRYU1FNVWxWWExvQ0Z0WEZlOWc3LTVMZmpMcVlrLUZ6dC1PMHUzOXNjYjJvWVY0UVA5bVpVMVpvdnNlN3M0QlBiVzNiSXlPaWlVdjY2Z2FSMUVMQ1lxRVN2NURDOW1JNVozbDFQcHN6MVFBSkl3N3N5MnJGOHhKcklFZmZZbnJQbXM2dm1uR0xfUHdDUG93bHBWOUd4RWNMUEx4MmUxUDVLSlc2aDlUcGotM1NFdF9HanZHeThsMXBmSEs2Y2ZyUVRwR09xSV9OOS1DWENkZ2twMzFFRFhfVmdPa2poUQ?oc=5",
-      "publishedAt": "2026-08-02T15:59:42+00:00",
       "heat": 60
     }
   ]
