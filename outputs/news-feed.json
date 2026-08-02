@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-02T11:20:44.073767+00:00",
+  "updatedAt": "2026-08-02T12:36:53.081041+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-kitchen-confidential-how-norway-cracked-the-diet-code-for-fifa-world-cup-2026-sportstar",
+      "title": "厨房机密：挪威如何破解 2026 年 FIFA 世界杯的饮食密码 - Sportstar",
+      "summary": "厨房机密：挪威如何破解 2026 年 FIFA 世界杯的饮食密码",
+      "originalTitle": "Kitchen confidential: How Norway cracked the diet code for FIFA World Cup 2026 - Sportstar",
+      "originalSummary": "Kitchen confidential: How Norway cracked the diet code for FIFA World Cup 2026  Sportstar",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNOW9yQ3FUWFdDdGpUdDBTN1N6Q0pZcFpuNGNPMldKODMtWXFqM253TkphYjNRN2VqN2xYRUUtQXl4enNKdHYybS1EZWZBOHBNUVR0eGpuYlgtaXJiN1pWNVFoeWpyUU9hZk83bWhBV3ZPWndpemxmajg2N0lUSl9UMHlWeTU3Y1c4WXdNOENmZUZTQjVMLWtwdWNRTUhlU2REUXVkZ2p3YUVzdkx2MUxBZTFFX0luaFlGMzc5bjRkcjdRdXRLdEVyYm1JZGd4TTVUZjU5MUxOOFh1c3RyYlp0eTdZdzRkVUNJN1EyVE5JV25BOTBOZ1pOaNIB_wFBVV95cUxPeTFnOG5mWEJNNmZ1c2JTWGM2RlVTREZwdTJwZ2MxcE9sSWRwZzFodVVNb0xRMVdXYjVsY1V0QU5wWnhoNF9ONzlQWGZidGplei1oWndNLXpEbTdpZTFqRDVQT0ZGX3Nyc3ZkT2g3SDVteUItTXU3dHJBZDBCeGdMNVRnZWpCTTRDcDRodFAwaFB6UzM1dFlnd0owdFlNOXZOc3ZuMVlwaFBJQU9vMTIzTVBOWDgxVkotNmdtMVh1T0ltdUdRdEt4YjFWM2dYVDdHdkthSGwwLTlRVU9ETldlcWtvLW1PMVJNSUdpSU50SWlPX2ZHVWdwZTZNM0oyXzQ?oc=5",
+      "publishedAt": "2026-08-02T11:30:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-bein-sports-achieves-record-breaking-6-2-billion-cumulative-viewers-for-fifa-world-cup-2026-iloveqatar-net",
+      "title": "beIN SPORTS 2026 年 FIFA 世界杯累计观众人数达到破纪录的 62 亿 - ILoveQatar.net",
+      "summary": "beIN SPORTS 2026 年 FIFA 世界杯累计观看人数突破 62 亿人次 ILoveQatar.net",
+      "originalTitle": "beIN SPORTS achieves record-breaking 6.2 billion cumulative viewers for FIFA World Cup 2026 - ILoveQatar.net",
+      "originalSummary": "beIN SPORTS achieves record-breaking 6.2 billion cumulative viewers for FIFA World Cup 2026  ILoveQatar.net",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNmE0d0RqZ3lRRGo0QlFTeGNVUUM5UmZxTTd5aWpRNkU5aERnbnhMODZkemRQQmtOMHBnbnNuZDczazcteUpwZlRuYW1xT25vN2dIS2ZfOVBDSjhFT3NoOUVycVc3S0tZT2lGZWpRSG5LSE5LdmFDMjJXWWJMUm1CX2JBUzdmaU9IZFd6bzhDQlAwcEIxVWhMMFBMZGZjRS0yYk1kbm1KQnRWdw?oc=5",
+      "publishedAt": "2026-08-02T11:06:00+00:00",
+      "heat": 68
+    },
     {
       "id": "google-news-n-j-s-world-cup-success-proves-tourism-is-our-economic-powerhouse-opinion-nj-com",
       "title": "新泽西州世界杯的成功证明旅游业是我们的经济动力意见 - NJ.com",
@@ -20,16 +44,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-bein-sports-scores-record-breaking-6-2-billion-cumulative-viewership-for-fifa-world-cup-2026-bein-sports",
-      "title": "beIN SPORTS 2026 年 FIFA 世界杯累计收视人数突破 62 亿人次纪录 - beIN SPORTS",
-      "summary": "beIN SPORTS 2026 年 FIFA 世界杯累计收视人数突破 62 亿人次纪录 beIN SPORTS",
-      "originalTitle": "beIN SPORTS scores record-breaking 6.2 billion cumulative viewership for FIFA World Cup 2026 - beIN SPORTS",
-      "originalSummary": "beIN SPORTS scores record-breaking 6.2 billion cumulative viewership for FIFA World Cup 2026  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQYjRZYzhBT1hGbXpEdXprSV9ueThSOHR6RVlpOUVITXFnTFlfMmo2dFJCa2NVVUtkSWl3ZmtLVWZjcm8zZUVhblFBQ2xrdlMyREd6WDNZN0xoZFNhWHBJc2piWTgyY0tGeGpXUmNSdGJQdllUOFUxSWdNVnZYcC1hUTktRkU5bDVpc2ttVmE4MnlFZ2xycklENy05TVFiZXN4cEFqazV5eWx4OEx0NWtpeXFnem96VFFTRXRSREg5SkxXUmlRRlFpX2FZc3dlTHNuZDZDZTJLUHJTQmtQSHhYSXc4ekNoQzA5b3NnUmtVQzMxUVQ1WVBrSFhhcGZEVmFveVJudHZUcjFPOHBqY3dN?oc=5",
-      "publishedAt": "2026-08-02T10:25:32+00:00",
-      "heat": 68
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-02T10:27:34+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-norway-s-viking-row-celebration-unites-fans-at-fifa-world-cup-2026-the-news-mill",
@@ -44,9 +68,21 @@
       "heat": 60
     },
     {
+      "id": "google-news-leandro-paredes-acknowledges-spain-s-2026-world-cup-victory-the-news-mill",
+      "title": "莱昂德罗·帕雷德斯承认西班牙赢得 2026 年世界杯 - The News Mill",
+      "summary": "莱昂德罗·帕雷德斯 (Leandro Paredes) 承认西班牙夺得 2026 年世界杯冠军 The News Mill",
+      "originalTitle": "Leandro Paredes Acknowledges Spain's 2026 World Cup Victory - The News Mill",
+      "originalSummary": "Leandro Paredes Acknowledges Spain's 2026 World Cup Victory  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVjVScUg0S3haOGluWHhISnZYN3lkamM3ZzRlb2pud0NjQmszWE51c1YwSUpRWDZSU1o1cWs4bnZ5M1pOdWg0MEl3UDN5M0ZlNHhDUmI4OHpwZHQ5R2h6NjZLdFlfOUVWYVpuLXV5X3k2ZmdTWGFheHh6b2lMbXM3d2RDcEpiQnpGU1U2TU9lSXdBUjVWbmJyUTlJWlJ6N202MUpJ?oc=5",
+      "publishedAt": "2026-08-02T09:42:11+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-iran-s-fifa-world-cup-2026-exit-a-display-of-resilience-the-news-mill",
       "title": "伊朗退出 2026 年世界杯：展现韧性 - The News Mill",
-      "summary": "伊朗退出 2026 年世界杯：展现韧性 The News Mill",
+      "summary": "伊朗队退出 2026 年世界杯：展现韧性 The News Mill",
       "originalTitle": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience - The News Mill",
       "originalSummary": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience  The News Mill",
       "translation": "online",
@@ -68,15 +104,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-who-will-win-fifa-world-cup-2026-opta-supercomputer-projections-eva-lys-oo4idgwxse-mshale",
-      "title": "谁将赢得 2026 年 FIFA 世界杯？ （Opta 超级计算机投影）Eva Lys (oO4idgWxSe) - Mshale",
-      "summary": "谁将赢得 2026 年 FIFA 世界杯？ （Opta 超级计算机预测）Eva Lys (oO4idgWxSe)  Mshale",
-      "originalTitle": "Who Will Win FIFA World Cup 2026? (Opta Supercomputer Projections) Eva Lys (oO4idgWxSe) - Mshale",
-      "originalSummary": "Who Will Win FIFA World Cup 2026? (Opta Supercomputer Projections) Eva Lys (oO4idgWxSe)  Mshale",
+      "id": "google-news-the-economics-of-the-fifa-world-cup-ticket-pricing-tourism-revenue-and-costs-explained-encyclopedia-britanni",
+      "title": "FIFA 世界杯的经济学：门票定价、旅游收入和成本解释 - 大英百科全书",
+      "summary": "FIFA 世界杯的经济学：门票定价、旅游收入和成本解释 大英百科全书",
+      "originalTitle": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained - Encyclopedia Britannica",
+      "originalSummary": "The economics of the FIFA World Cup: Ticket pricing, tourism revenue, and costs explained  Encyclopedia Britannica",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lTzIySGFJemRTNHMtcXdHQndYM3Zvb0NObkVaXzczeGlnZTdFZmp2WnlrWE4wU2s0Q2d2N21QN3BYcV8tTGRTdFFRV3lzdmdBcWV1bTNFeVM4MFU?oc=5",
-      "publishedAt": "2026-08-02T08:20:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "publishedAt": "2026-08-02T08:58:45+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-bosnia-and-herzegovina-vs-qatar-fifa-world-cup-2026-group-b-pes-2021-simulation-paul-george-jz1atlcpie-mshal",
+      "title": "波斯尼亚和黑塞哥维那 vs 卡塔尔 | 2026 年国际足联世界杯 | B组| PES 2021 模拟 保罗·乔治 (jz1AtLcpIE) - Mshale",
+      "summary": "波斯尼亚和黑塞哥维那 vs 卡塔尔 | 2026 年国际足联世界杯 | B组| PES 2021 模拟 保罗·乔治 (jz1AtLcpIE)  Mshale",
+      "originalTitle": "Bosnia And Herzegovina Vs Qatar | FIFA World Cup 2026 | Group B | PES 2021 Simulation Paul George (jz1AtLcpIE) - Mshale",
+      "originalSummary": "Bosnia And Herzegovina Vs Qatar | FIFA World Cup 2026 | Group B | PES 2021 Simulation Paul George (jz1AtLcpIE)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bHJWaGcwd0tNUXRVSUVVYVNiODFUMHM4QWtwTTNQZktZMHNSci1HWGlYczd0VzA0T3l6bEp0dmVldXZOUl9SMmVnMzNObFJvS19OQU85VU9Bd1U?oc=5",
+      "publishedAt": "2026-08-02T08:35:30+00:00",
       "heat": 60
     },
     {
@@ -105,7 +153,7 @@
     },
     {
       "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn",
-      "title": "英超 2026-27 赛季球衣：每件发布的球衣排名 - ESPN",
+      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN",
       "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN",
       "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
       "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN",
@@ -118,7 +166,7 @@
     {
       "id": "google-news-england-arrive-in-mexico-for-fifa-world-cup-2026-round-of-16-match-at-estadio-azteca-the-news-mill",
       "title": "英格兰队抵达墨西哥在阿兹特克体育场参加 2026 年世界杯 16 强比赛 - The News Mill",
-      "summary": "英格兰队抵达墨西哥在阿兹特克体育场参加 2026 年 FIFA 世界杯 16 强比赛 The News Mill",
+      "summary": "英格兰队抵达墨西哥，参加在阿兹特克体育场举行的 2026 年 FIFA 世界杯 16 强比赛 The News Mill",
       "originalTitle": "England arrive in Mexico for FIFA World Cup 2026 Round of 16 match at Estadio Azteca - The News Mill",
       "originalSummary": "England arrive in Mexico for FIFA World Cup 2026 Round of 16 match at Estadio Azteca  The News Mill",
       "translation": "online",
@@ -164,64 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-bts-star-jimin-s-world-cup-shirt-fetches-110-000-at-fifa-auction-views-bangladesh",
-      "title": "BTS 明星 Jimin 的世界杯球衣在 FIFA 拍卖会上拍出 11 万美元的价格",
-      "summary": "BTS 明星 Jimin 的世界杯球衣在 FIFA 拍卖会上拍出 11 万美元的价格",
-      "originalTitle": "BTS star Jimin's World Cup shirt fetches $110,000 at FIFA auction - Views Bangladesh",
-      "originalSummary": "BTS star Jimin's World Cup shirt fetches $110,000 at FIFA auction  Views Bangladesh",
+      "id": "google-news-fifa-president-gianni-infantino-under-enormous-pressure-these-are-his-possible-successors-goal-com",
+      "title": "国际足联主席因凡蒂诺面临巨大压力：这些是他可能的继任者 - goal.com",
+      "summary": "国际足联主席詹尼·因凡蒂诺面临巨大压力：这些是他可能的继任者 goal.com",
+      "originalTitle": "FIFA president Gianni Infantino under enormous pressure: these are his possible successors - goal.com",
+      "originalSummary": "FIFA president Gianni Infantino under enormous pressure: these are his possible successors  goal.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVFpDem9xUlk4djRUc3RuWlotNUplV01SR3dhZGZ5a0pERkctVWV2cDBEZjhWak84eVNDeHhneVNQWG9wTGtIUmtnZFhwLUdKYW41dWlNUVFNNGJMX2NSMEdRV3YxZ1VYLS1GZHlWUF9uYUVMSnZwWm5GblFqWVpsODcxeVhGOGdQOW80aThheWhWVmJSOGc?oc=5",
-      "publishedAt": "2026-08-02T07:01:54+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-world-cup-is-broken-here-are-13-ways-to-fix-it-the-i-paper",
-      "title": "世界杯被打破了。这里有 13 种修复方法 - The i Paper",
-      "summary": "世界杯被打破了。这里有 13 种修复方法 The i Paper",
-      "originalTitle": "The World Cup is broken. Here are 13 ways to fix it - The i Paper",
-      "originalSummary": "The World Cup is broken. Here are 13 ways to fix it  The i Paper",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB6VnBPejlUOXdQQ0FCaU1YWl9haGNUeTVTNUxNdXdJYUVzckJLbGxJaEtFMGkwQnJjR2l4a3BrazVhNmE2TjcxakRvSFdoVXhtYmQtZS1ZYV9jWFlzS0hwZ0tKc2pLNHd6d3dwSG1HTThQT1RT?oc=5",
-      "publishedAt": "2026-08-02T07:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUWpCam5XVEN4RlZNSlRrV3B6NWVhc3dtRUtfcXdfd25fdFREN3E4ZkwyVjZWQm9OQnJJZy1UQ2ZfcGxSTkNxanNVUE9PVXRHRDNoOE8yR2FaWjZabjlhQjVKbmNsc3I5SUVFRDVGMVdXNjkyZVBGa1FyN0t3WG1OX1IzRGhSZVpGaS1ZTi16TkNPYVFIcTQwcm9WQW9KRW5sTV9UbmptOHd4TDdXcVJoZlktbThRdHB3YklsczNCVGZxQzFjZkFtc09pblJBNjB3amlZaQ?oc=5",
+      "publishedAt": "2026-08-02T07:41:16+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-2026-world-cup-winner-odds-kalshi-vs-polymarket-defi-rate",
-      "title": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket - DeFi 利率",
-      "summary": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket DeFi 利率",
-      "originalTitle": "2026 World Cup Winner Odds: Kalshi vs. Polymarket - DeFi Rate",
-      "originalSummary": "2026 World Cup Winner Odds: Kalshi vs. Polymarket  DeFi Rate",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
-      "publishedAt": "2026-08-02T06:46:02+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-studying-impact-of-expanding-world-cup-to-64-teams-for-2030-edition-the-daily-star",
-      "title": "国际足联正在研究将 2030 年世界杯扩大到 64 支球队的影响 - 每日星报",
-      "summary": "国际足联正在研究将 2030 年世界杯扩大到 64 支球队的影响 - 每日星报",
-      "originalTitle": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition - The Daily Star",
-      "originalSummary": "FIFA studying impact of expanding World Cup to 64 teams for 2030 edition  The Daily Star",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYW5BLWJnZTJFNW9yQUhkZjF6YXBkRjV2VFBTcjRaUFFlX1BKRUdzcEYyOWRxbTZpOFVBNTdsY2p1aEhwTDlVRkJNOGZqSzlSTFFEbHJrZ05keGhGRzN1NE9TU3RwbGZ3ZEJaWWEtTm83REZqV1hDbE5wLVpLeXByTVg5VGlXcC1hQXUyNl9lYzBBeXFCOXQ1c09QUUhfY2x3aDlia0VyVmJmdkF4OFVRTDdNbTIzYkk3REhOUg?oc=5",
-      "publishedAt": "2026-08-02T06:35:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-it-s-time-fifa-world-cup-2026-begins-the-biggest-tournament-in-football-pierce-brosnan-8vzxicf26f-mshale",
-      "title": "🔥 是时候了！ 2026 年 FIFA 世界杯开幕 |足球界最大的锦标赛皮尔斯·布鲁斯南 (8VzxICF26f) - Mshale",
-      "summary": "🔥 是时候了！ 2026 年 FIFA 世界杯开幕 |足球界最大的锦标赛 Pierce Brosnan (8VzxICF26f)  Mshale",
-      "originalTitle": "🔥 IT'S TIME! FIFA World Cup 2026 Begins | The Biggest Tournament In Football Pierce Brosnan (8VzxICF26f) - Mshale",
-      "originalSummary": "🔥 IT'S TIME! FIFA World Cup 2026 Begins | The Biggest Tournament In Football Pierce Brosnan (8VzxICF26f)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5iZk5aclN2bGZNbWg0RE9EM2VIelFDb293bTlYNUpGLTJTWlRSRUxsRTlydkxVdTBReGRZUkc3cllSb3dqOTc0d2xKaDgteXlVU3RVTXZLXzdSM285c2FTUQ?oc=5",
-      "publishedAt": "2026-08-02T06:32:06+00:00",
-      "heat": 60
     }
   ]
 }
