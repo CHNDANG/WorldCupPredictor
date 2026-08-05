@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T14:56:44.490126+00:00",
+  "updatedAt": "2026-08-05T16:47:21.246049+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,78 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-u-s-world-cup-cities-seek-fifa-legacy-funds-daily-guardian",
+      "title": "美国世界杯城市寻求国际足联遗产基金 - 每日卫报",
+      "summary": "美国世界杯城市寻求国际足联遗产基金《每日卫报》",
+      "originalTitle": "U.S. World Cup cities seek FIFA legacy funds - Daily Guardian",
+      "originalSummary": "U.S. World Cup cities seek FIFA legacy funds  Daily Guardian",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlE3VlNIRDJoUVcyZmtfQmNrZ2JfUHJpSWktQk40TVRzQVZZcmFsczdxLUdnRGxyejlnV2dWdS1yY29NdUpuZ09kYmtjTkpBNWdkZFZFSnRXSEdaS2JwWmlKeGxOSU9VS3BOSi1DTmhVMHVaYmtQX1JnWjBKNTg5V2VFLVhURzU1?oc=5",
+      "publishedAt": "2026-08-05T16:09:33+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-by-the-numbers-how-world-cup-fever-took-over-netflix-about-netflix",
+      "title": "从数据来看：世界杯热潮如何席卷 Netflix - 关于 Netflix",
+      "summary": "从数据来看：世界杯热潮如何席卷 Netflix 关于 Netflix",
+      "originalTitle": "By the Numbers: How World Cup Fever Took Over Netflix - About Netflix",
+      "originalSummary": "By the Numbers: How World Cup Fever Took Over Netflix  About Netflix",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFE2cVFIdlF5N2J6TlR0cEtMazVFRlR5NmwxRlg4M0tNNGZvTXI1aTlDMjBMXzBUSTBWTHRVRnlldmxTeVpGQXpKM1prcWRnRk43ZFVxVXJPZDN1d0RwZzVoR01YZ3YwUUtqY0xLY3lBcFBrakdxMjh1S0ZKUHVfWW5UOXphdHZSRWRhNmVwcw?oc=5",
+      "publishedAt": "2026-08-05T16:05:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-president-gianni-infantino-accused-of-blackmail-by-jordan-fa-chief-as-pressure-mounts-for-resignation-g",
+      "title": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控被约旦足协主席“勒索” Goal.com",
+      "summary": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控遭到约旦足协主席“勒索” Goal.com",
+      "originalTitle": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation - Goal.com",
+      "originalSummary": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTE2cENQdkpWaXZZSDFsU013UkhHT21Vd0xMRXFWSHVOLUwzNmtDaHo5TDNnTFBzRHlNRTI0QTlNeGd1VnVMNENEV1FIakVDV3hEOVVTUG5OSmNsUEMyVFJ2X3ljWGllbXJ6RmM4YU16aWE3cklWckR0RjI1bTRkSWNhTUJEQ2ZEYTFMTmN1WF9WU3VLMDdjZXNqVkxfNUxIa0lz?oc=5",
+      "publishedAt": "2026-08-05T15:45:06+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-stop-crying-foul-egypt-s-ref-excuses-can-t-obscure-argentina-and-messi-s-timeless-genius-weekendargus-co-za",
+      "title": "别再喊犯规了：埃及裁判的借口无法掩盖阿根廷和梅西永恒的天才 - Weekendargus.co.za",
+      "summary": "别再喊犯规了：埃及裁判的借口无法掩盖阿根廷和梅西永恒的天才 Weekendargus.co.za",
+      "originalTitle": "Stop crying foul: Egypt’s ref excuses can’t obscure Argentina and Messi’s timeless genius - weekendargus.co.za",
+      "originalSummary": "Stop crying foul: Egypt’s ref excuses can’t obscure Argentina and Messi’s timeless genius  weekendargus.co.za",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS2d5ZGNTMmQ5emY5eWlCRUtua1R5REZuc29DcWliNWxVbUg5NnFPTlJ1V2Z0dTZJeV9MMi1kbW5pS01QUWVqWTRwcmJ5MHJnYzBISlFraXJ0Wm5GOENobDQxZzZXYS1Wd2UzRnJVczktMVpVY0NtRjFGUGlfbXlVUnhMbHVhcERtbkZkOEhzalB2cktOY2xTMndQQjEtaHkzVU1LZGhpTGZYbndyNnRWQ0dIZk51VGk4QUh2TlpNNXo3QQ?oc=5",
+      "publishedAt": "2026-08-05T15:05:24+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-arsene-wenger-predicts-france-to-win-fifa-world-cup-2026-identifies-spain-as-main-challengers-the-news-mill",
+      "title": "温格预测法国将赢得 2026 年世界杯，并将西班牙视为主要挑战者 - The News Mill",
+      "summary": "温格预测法国将赢得 2026 年 FIFA 世界杯，并将西班牙视为主要挑战者 The News Mill",
+      "originalTitle": "Arsene Wenger predicts France to win FIFA World Cup 2026, identifies Spain as main challengers - The News Mill",
+      "originalSummary": "Arsene Wenger predicts France to win FIFA World Cup 2026, identifies Spain as main challengers  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOGtVcFFHcFdLanlxVEhmLXJmdHRKOEZCeFhZTWd2ZjV2aVhBZTFVTDljMHBJbkYyQ0s4X0hIMXJEZlViamJFMDVydnBDZFRWWHd5WkVvSHZUeDBtQnVRWVl6Z1ByUXc1REFTbVNkR25BcGRqV0VOdW9SNzdIaXVBWTRHWVY2VWZrQmpGUk82VC04bUNIWUlXUlFWQTE4cG1CRnkwUGtEV0RUQkFwdmRMZmpfNnRsNGw2aEpvUzdNWFZRRzE4?oc=5",
+      "publishedAt": "2026-08-05T14:18:12+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
+      "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN 中国",
+      "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN 菲律宾",
+      "originalTitle": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN Philippines",
+      "originalSummary": "2026 ASEAN Championship: Fixtures, results, standings, how to watch  ESPN Philippines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElTNkJWeHJ6d3dCaTliczd0VXJ6YnR3SkRzVmpuTlBjeFBwYzNqN0Z2eGJrM0JjdUpCdGlHbUFaRjV4WFREZHhXcmdmNXBLSGpBX2VhWXF6X2Y0NVVCbFkwRjBkQm5fYTUzdWtuZHN3dEMyWWhneHBuM3VsdXI2aVRvY296aGlFclRRZ09QWlF6QmFsakNTYmtfTlJRZDFEaUtrUEJmaVcyUG4yLXc?oc=5",
+      "publishedAt": "2026-08-05T13:48:36+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-infantino-holds-crisis-meeting-in-morocco-as-fifa-stake-sale-fallout-continues-reuters",
       "title": "因凡蒂诺在摩洛哥召开危机会议，国际足联股权出售影响仍在继续 - 路透中文网",
@@ -21,15 +93,51 @@
     },
     {
       "id": "google-news-bubista-steps-down-as-coach-of-cape-verde-after-their-incredible-performance-in-the-fifa-world-cup-2026-bein",
-      "title": "布比斯塔在 2026 年 FIFA 世界杯上表现出色后辞去佛得角主教练职务 - beIN SPORTS",
-      "summary": "布比斯塔在 2026 年 FIFA 世界杯上表现出色，辞去佛得角教练职务 beIN SPORTS",
-      "originalTitle": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026 - beIN SPORTS",
-      "originalSummary": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026  beIN SPORTS",
+      "title": "布比斯塔在 2026 年 FIFA 世界杯上表现出色后辞去佛得角教练职务 - beinsports.com",
+      "summary": "布比斯塔在 2026 年 FIFA 世界杯上表现出色，辞去佛得角教练职务 beinsports.com",
+      "originalTitle": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026 - beinsports.com",
+      "originalSummary": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026  beinsports.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSXAtaWpHV0s5X1M0UThfeWdfSkdqR200emh0dXpVYTVKV2w5dmtoa0NPV0stb3EyTHU5OWw3WnptaEFQWGlKSVd5UjJ3S0J1SndncDR4Q3RoUDE0ZThSRk9fUXZ3Mk1DN0EtZEphRjJYc0lIWGVaZ29Qc29aS2IzY2RCT3U1SnM5d1ZmcUVJYnBqS01QRGZVa0tVN0JuTXl5Ymw3dXNsWDJ0bG40cm5jT0FHWjVtMEk5VDZTY2IzdHk1dUVHenFTazNwNTkwdzdtalAxYV93Qm8zZEswVFAwWnhBV2JPVlIyRUdMWC04N1JORlVHOTN1MVFCckZhWVlrX185Ui1mOWVFRGQ1eWl6VA?oc=5",
       "publishedAt": "2026-08-05T13:37:07+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-mckenzie-loses-patience-over-scrutiny-dodges-parliament-s-questions-on-r31m-world-cup-spend-daily-maverick",
+      "title": "麦肯齐对审查失去耐心，回避议会有关 3100 万兰特世界杯支出的问题 - Daily Maverick",
+      "summary": "麦肯齐对审查失去耐心，回避议会有关 3100 万兰特世界杯支出的问题 Daily Maverick",
+      "originalTitle": "McKenzie loses patience over scrutiny, dodges Parliament’s questions on R31m World Cup spend - Daily Maverick",
+      "originalSummary": "McKenzie loses patience over scrutiny, dodges Parliament’s questions on R31m World Cup spend  Daily Maverick",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNc09QLWpNUkpOaXNBYjREMDVVMXpfZ0s3R0I0TS1sQnE0cXZfVXlpVlpJZnpGOWRYTFNpRF96RnBQS0RLQkxSVVFEVTB6cWxFUFBfV1EzLXAzbDYtemMyR2xsNnBKdkZ6dms5NjBGMFBld2lRMFJyWjJnbHg0bm5zajlnNGZ0cmZUaVRoQVppd0hOZHJDbjY5V2pqY0c3RHRVWHRteG1zYkhxZ1k2bUo3d19xMnZkeGVXTlZkallEMA?oc=5",
+      "publishedAt": "2026-08-05T13:16:24+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-oliver-baumann-says-julian-nagelsmann-apologized-after-world-cup-benching-bavarian-football-works",
+      "title": "奥利弗·鲍曼表示朱利安·纳格尔斯曼在世界杯替补席上道歉 - Bavarian Football Works",
+      "summary": "奥利弗·鲍曼 (Oliver Baumann) 表示朱利安·纳格尔斯曼 (Julian Nagelsmann) 在世界杯替补席上道歉",
+      "originalTitle": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching - Bavarian Football Works",
+      "originalSummary": "Oliver Baumann says Julian Nagelsmann apologized after World Cup benching  Bavarian Football Works",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQRi02S1pPVnBCd2lyMXdnT3BsVThlUlB4Ykc1X0JnbVd3b3hDdktXUGdiWU1OQUh5NVkzeDByQjN3Z05MbFduSER6OF9xRlNXeXhDYjlTUzdCdjFfdGI5Qm0xWFRKb0FtVmVhbnZOU3hhZUJubl9ONGpRMy1tVUJxT3huaEhScS0xZTJya01LSnhBQkxuOGhSWGVpeGF4ckZfR3Z5ekwwWDZIM0FTYlkzbUdOTTdWUU9MeDVWYUhrMURYSHhRQ2N4dG1kRTYwdTZPa3BVaG1xdzRja3Z4TDV1dA?oc=5",
+      "publishedAt": "2026-08-05T13:15:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-05T12:57:45+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-softswiss-sportsbook-sees-threefold-surge-in-betting-activity-during-fifa-world-cup-2026-yogonet",
@@ -44,16 +152,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-cape-verde-world-cup-hero-vozinha-had-no-doubts-over-colo-colo-move-bein-sports",
-      "title": "佛得角世界杯英雄沃齐尼亚对科洛科洛转会“毫不怀疑” - beIN SPORTS",
-      "summary": "佛得角世界杯英雄沃齐尼亚对科洛科洛的转会“毫无疑问” beIN SPORTS",
-      "originalTitle": "Cape Verde World Cup hero Vozinha had 'no doubts' over Colo-Colo move - beIN SPORTS",
-      "originalSummary": "Cape Verde World Cup hero Vozinha had 'no doubts' over Colo-Colo move  beIN SPORTS",
+      "id": "google-news-world-cup-2026-golden-ball-odds-unstoppable-messi-heavily-favoured-over-rodri-for-individual-crown-squawka",
+      "title": "2026 年世界杯金球奖赔率：不可阻挡的梅西超过罗德里获得个人冠军 - Squawka",
+      "summary": "2026 年世界杯金球奖赔率：不可阻挡的梅西击败罗德里获得个人冠军 Squawka",
+      "originalTitle": "World Cup 2026 Golden Ball odds: Unstoppable Messi heavily favoured over Rodri for individual crown - Squawka",
+      "originalSummary": "World Cup 2026 Golden Ball odds: Unstoppable Messi heavily favoured over Rodri for individual crown  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNZ1cyZHVkclNwOWhtUnV6cXZiX25YM2tqX3ZxdEFIODF6emd6OFVJRTEwZFdKdFBsR1ZsMzE0a1UzSnl6UG9YN29QV0tQMWpzV3BaY0o0MUREcmxIT3ZORE5CSENEeXpueTNmQkloUW5mT01rWEcxVXp6RTczQlF3ZTdkdlRaZ2JPeHFkTkhoeGFNZUtMS2N6OC15U2ZqMEt3NEFyaTJRTG16Rm0xVUNCa3NXVjZoZWJvM09NMHhsc0V3YjNjMW05cVA4Mm9jOHdNWURnVlkxSk12TUU5NGcwVA?oc=5",
-      "publishedAt": "2026-08-05T12:06:48+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEVLV21JaERoV19tS1NCNWNLYzRWUjRxR05jR25wdzNmcFVGMDVDSzRqZ3lrUGpNWjlpMkE0LWI2QnJBeVZjSmM3RmJDYldwSml6al9TcGE2R2VETjJLLTdaU1FQY2ltc3FhTVplY2MybHZPNGFWUDZrOTlXdmxqcFBCVUhsaGVvNkE?oc=5",
+      "publishedAt": "2026-08-05T12:31:43+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-japan-vs-uruguay-24-sep-2026-live-score-espn-philippines",
@@ -113,114 +221,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQYmtFWW1vZTZtemt1ZXJHX0FoT2tIa3FfanhCRnl5YjBlbnJDUFZOTi1nejdYWEFMWHRuUU9oeTNUNHBQc2hVbDR5aEVNVUREOFhLV0t0aFJwVWtEX2lGWmkwaWQ1UDlUODR0UE56dTVxYVBRbjlKM1ZfX3dNQzcxejBXM0JTTnZFNmRSR3Voek9yeUttSHRDQndZTVlnQlpYelJSakEwRE9tNnJrZ1ZaMWdNYlhMaFFMODQzQTNzeHYyVUhFVG1FNnBiQm1leGtkUVAwczVxWlZRTGZhV0FhbUpucjA2aHNldWIyMW1CdGwzVGFQV0pJU3diSW9xVDdOU2hVd0JnRjVrLVRjWWF0YzExeDhaS0RBeU5HUVF4UUtNUUtJX2E3bGNJNE1DbklpMEZHRW9peFdXalpaVzdkNUdISUdBWl9UNnpUa2VtRm5YemFGaFl1cmEzV3E4cGZiMUZqSW9kTV9YNHMzNUhZdS1fekFFQzMzZmEwRVBrSS1DZGZSNGtHVVF6NlVoVklhRWFfSXFGVkRuc2JiLV80?oc=5",
       "publishedAt": "2026-08-05T11:00:11+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-黄牌-liga-mx2026-2027的monterrey数据-fotmob",
-      "title": "黄牌 — Liga MX2026/2027的Monterrey数据 - FotMob",
-      "summary": "黄牌 — Liga MX2026/2027的Monterrey数据  FotMob",
-      "originalTitle": "黄牌 — Liga MX2026/2027的Monterrey数据 - FotMob",
-      "originalSummary": "黄牌 — Liga MX2026/2027的Monterrey数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxORmJBcERyLUJlOC10V0dOSHU1NFdYVTdsck81azVkNTdqc0FnZ0VfWFIzSW1DX3U2ZWl3U18ybUxGR0phanZsRmJNWjBMNC10Q3hoOE5OSm5yQ3oyNVJoUkhib21JcXYtaXd6WDFEU3BBMmdNY2RORTgwSFItQ21LS1BkSE9LMGZUcThWR3RjZGNfRVlzVHl1VFp6cl84NVZ5LS00SWp2VUZpenEzNl9rRGRHa3pnemRENGlIX1M1NFE?oc=5",
-      "publishedAt": "2026-08-05T10:26:57+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-lan-kwai-fong-transforms-into-giant-fan-zone-for-2026-world-cup-the-standard-hk",
-      "title": "兰桂坊变身2026年世界杯巨型球迷区 - The Standard (HK)",
-      "summary": "兰桂坊变身 2026 年世界杯巨型球迷区 The Standard (HK)",
-      "originalTitle": "Lan Kwai Fong transforms into giant fan zone for 2026 World Cup - The Standard (HK)",
-      "originalSummary": "Lan Kwai Fong transforms into giant fan zone for 2026 World Cup  The Standard (HK)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPS3RDMTJnT1RJN2lKRGNTc2tKU05jMkJzaS1JekthS0hQUmNBd0VrMXd0MjJGS09sV3JRWGNJUi1fLXRTckxHSHB0ZW5pbThzVV9tWmozNFB6bFNsRTdiY3hNUHY5Q0x2bnY4RFlmTFpNaUZPTV9JUFY1akhBMlBUc2prcmhZOHJlWDhMSjFZaFYzVFpST3o4ZDR5SFFLY19LdEY1cXRPcjBQZU5wMHREdjVsU0c?oc=5",
-      "publishedAt": "2026-08-05T10:01:19+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-dazn48-unites-global-football-fans-through-creator-led-storytelling-at-fifa-world-cup-2026-dazngroup-com",
-      "title": "DAZN48 通过创作者主导的 2026 年 FIFA 世界杯故事将全球球迷团结起来 - dazngroup.com",
-      "summary": "DAZN48 通过创作者主导的 2026 年 FIFA 世界杯故事将全球球迷团结起来  dazngroup.com",
-      "originalTitle": "DAZN48 unites global football fans through creator-led storytelling at FIFA World Cup 2026 - dazngroup.com",
-      "originalSummary": "DAZN48 unites global football fans through creator-led storytelling at FIFA World Cup 2026  dazngroup.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNVkdsT3c5YVRqOE9VbTNwb013SEZ3SnVteHRfVS1OM1ZCZUg2SVhDSTZZR2tLbHpDa2h0bHRoQjFNWFRKQi1hLWZ4R3dMUEZEWkhfTEpsdlMxYXFWWmJ5VUVPcW5mcTVqTDVuR0w2aU9GTGJQREdmRThHRVYxRjRHY0NoT0ZxSG1GckpMWm5lWDhvWXl6ZHpfS0ZYNDJ4X2RpZHFKcGxsWmY0aXlVMHZsZVFFYk9QMVl5TDE2NWNrT0ItUQ?oc=5",
-      "publishedAt": "2026-08-05T09:53:30+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-president-gianni-infantino-accused-of-blackmail-by-jordan-fa-chief-as-pressure-mounts-for-resignation-g",
-      "title": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控被约旦足协主席“勒索” Goal.com",
-      "summary": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控遭到约旦足协主席“勒索” Goal.com",
-      "originalTitle": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation - Goal.com",
-      "originalSummary": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSTE2cENQdkpWaXZZSDFsU013UkhHT21Vd0xMRXFWSHVOLUwzNmtDaHo5TDNnTFBzRHlNRTI0QTlNeGd1VnVMNENEV1FIakVDV3hEOVVTUG5OSmNsUEMyVFJ2X3ljWGllbXJ6RmM4YU16aWE3cklWckR0RjI1bTRkSWNhTUJEQ2ZEYTFMTmN1WF9WU3VLMDdjZXNqVkxfNUxIa0lz?oc=5",
-      "publishedAt": "2026-08-05T09:45:05+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-2026-world-cup-tested-football-s-guardrails-which-held-ucanews-com",
-      "title": "2026年世界杯考验了足球的护栏，它坚守了 - ucannews.com",
-      "summary": "2026 年世界杯考验了足球的护栏，其中包含 ucannews.com",
-      "originalTitle": "The 2026 World Cup tested football’s guardrails, which held - ucanews.com",
-      "originalSummary": "The 2026 World Cup tested football’s guardrails, which held  ucanews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNelVIRUhfUmRwYkw5NUdQZVdBRFZ4OWx3RnNQZ2htd0FnMGZsRzc2NDgzNlJuWklld1REbldqWVR6WS1aa0NxenRIeW85YlZYalloQ3NnNDJ1b0s3WXdhSmZSUFlsdlZrMG9QYXZ5YjNHQmZpRG5Ic2xRdk5rZE1oRy1LMVRaaDhBVS0xdjEyUE9vNVJRY2Fn0gGXAUFVX3lxTE16VUhFSF9SZHBiTDk1R1BlV0FEVng5bHdGc1BnaG13QWcwZmxHNzY0ODM2Um5aSWV3VERuV2pZVHpZLVprQ3F6dEh5bzliVlhqWWhDc2c0MnVvSzdZd2FKZlJQWWx2Vmswb1BhdnliM0dCZmlEbkhzbFF2TmtkTWhHLUsxVFpoOEFVLTF2MTJQT281UlFjYWc?oc=5",
-      "publishedAt": "2026-08-05T09:43:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-lisandro-martinez-calls-for-unity-ahead-of-world-cup-final-vs-spain-the-news-mill",
-      "title": "利桑德罗·马丁内斯呼吁在世界杯决赛对阵西班牙之前团结一致 - 新闻中心",
-      "summary": "利桑德罗·马丁内斯呼吁在世界杯决赛对阵西班牙之前团结一致",
-      "originalTitle": "Lisandro Martinez Calls for Unity Ahead of World Cup Final vs Spain - The News Mill",
-      "originalSummary": "Lisandro Martinez Calls for Unity Ahead of World Cup Final vs Spain  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQSE8ybFJhQnJ3TmVKcU5sd19nbVE3eG1GQVMtTTVZdVZtRHpvSV95T0s0b184NG5KWDJVR1NwODFjbElfSENGUnZnb0NXd3VfUjRaMW5VR3lWM2dqME9SNk01SFNnWDdmRXNVQ2lBWnJTX1BHWXBqT0l4eDFpMGtwZEc3R0tqWXRSc0JxUmFGZXoxU0ZaZnNfUVF4RExKQUtXYkR5QnBJUFZxcGRlN0hmQXZEZEpFQ3U3Q0lGSk9zWFpLZw?oc=5",
-      "publishedAt": "2026-08-05T09:37:57+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-coca-cola-kicks-off-2026-world-cup-trophy-tour-12-18-2025-mediapost",
-      "title": "可口可乐开启 2026 年世界杯奖杯之旅 2025 年 12 月 18 日 - MediaPost",
-      "summary": "可口可乐开启 2026 年世界杯奖杯之旅 2025 年 12 月 18 日 MediaPost",
-      "originalTitle": "Coca-Cola Kicks Off 2026 World Cup Trophy Tour 12/18/2025 - MediaPost",
-      "originalSummary": "Coca-Cola Kicks Off 2026 World Cup Trophy Tour 12/18/2025  MediaPost",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjZGTV9QdVpxTmN3YWQ1NGtLbmRmU1o4dFlUNlQ3ZFRsaEItM0tKeGJDdmhxSGxhMmFxd1doM0dwT0xXTmh0dHJHQ3EtQ045WDZyYTc2ZzF1LWJ5SG1oUWZuODBMWFE3MmhtdDRHa25iUm9KSXQwNnZSZzhzY1BvZXlZdFlXX1lCTkcwUEJCbGZWNTUtZ0N3a2ZxdUlJVzFLbmdhU2U1VkdmdUk4dkE5UWlqUUY?oc=5",
-      "publishedAt": "2026-08-05T09:30:24+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-switzerland-to-face-argentina-in-fifa-world-cup-2026-quarter-finals-after-penalty-win-over-colombia-the-news",
-      "title": "瑞士点球战胜哥伦比亚后将在 2026 年世界杯四分之一决赛中对阵阿根廷 - 新闻中心",
-      "summary": "瑞士在 2026 年世界杯四分之一决赛中点球战胜哥伦比亚后将迎战阿根廷 The News Mill",
-      "originalTitle": "Switzerland to face Argentina in FIFA World Cup 2026 quarter-finals after penalty win over Colombia - The News Mill",
-      "originalSummary": "Switzerland to face Argentina in FIFA World Cup 2026 quarter-finals after penalty win over Colombia  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdGF3MDRkQWV6ZlhoaXg1eGtnYTdnTXh6eE5PMHEzRFRuQU0zcTM1WjNSUUJ1UExtdVRSUTBxU0dfUFBXeVFubGlCbXBROUJ2ZHVLZ2tzTHpIcU5pWTFkSU5XYW5YODYwdW9rOGVKbFgya0tTU3FrX2pCN2lNY3h0dFRxUzAtUFZYUFlibjBOQVEyVzlILVRLazVvR0U0TGhNM1g2ck9EdFo5Unh6Qnl3bmYwdmxRS21iUjZrX0JLXzdlOU5HSGZPcXpaQVA?oc=5",
-      "publishedAt": "2026-08-05T09:18:01+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-05T09:11:56+00:00",
       "heat": 52
     }
   ]
