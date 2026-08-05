@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T21:49:46.377804+00:00",
+  "updatedAt": "2026-08-05T23:06:03.785822+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,56 @@
   ],
   "articles": [
     {
+      "id": "google-news-world-cup-round-of-16-review-thrills-spills-and-giant-killings-as-final-eight-are-locked-in-sunday-tribune",
+      "title": "世界杯 16 强赛回顾：八强锁定，惊心动魄、精彩纷呈、大杀四方 - 《星期日论坛报》",
+      "summary": "世界杯 16 强赛回顾：《周日论坛报》锁定八强，激动人心、精彩纷呈和巨人杀戮",
+      "originalTitle": "World Cup Round of 16 review: Thrills, spills and giant-killings as final eight are locked in - Sunday Tribune",
+      "originalSummary": "World Cup Round of 16 review: Thrills, spills and giant-killings as final eight are locked in  Sunday Tribune",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOT1Z5VEhwN3JfaXdXODhWd2kzUFJMamNkT1RiVjU2Yk85SDlQYnN5Rk9NNkRXMXFuSmhDMTB5VGdSZWZGT0hic3RJaElsaUFqLThZMzJMaTM0WnJ6cXF3MGpPVllVWWJYeENROV9wcU9YN2liR3loWUlNWFN2eGVEUnd3U2g2S3FSVE9TSmFlVkpQanlvYmNwQkh2ZnJDZmJkVUduSm5ueFFDTDF1aEtKbUF5bmxhVV9wdC1YUkFtOWQzLUVvemlIZmo3Yw?oc=5",
+      "publishedAt": "2026-08-05T22:59:23+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-gets-internal-support-at-crisis-meeting-to-remain-as-fifa-president-lancasteronline",
+      "title": "詹尼·因凡蒂诺在危机会议上获得内部支持，继续担任国际足联主席 - LancasterOnline",
+      "summary": "詹尼·因凡蒂诺在危机会议上获得内部支持，继续担任国际足联主席 LancasterOnline",
+      "originalTitle": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president - LancasterOnline",
+      "originalSummary": "Gianni Infantino gets internal support at crisis meeting to remain as FIFA president  LancasterOnline",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOdWNHZ0trM3FtYmVEZ09LQXFHMW9sQ2xNaEVMb1otdzlERmJrV0UzZkNUd2dPWENmZ0F3N3B1WnBZaHZkaURxSnVvM2VvSG9QVTA1OFhNRFktWWR1NU5UU1dEREVoNUlDTUl3SDRBWDlqLTRVWmkxU04za2wwem9WN040MjFLVGtTeGxrU3U4bVBRenJ3YUZBTWF0RnAwT2N5UUVTdnBRZkNNR2hjdEp6dGoxV1lGTTZYWGtpLUVZVk4zNXNsSnAzS1JUR1MzeUk4RFBMTDRiOTdraWdKdmQ4U2doYi1SZ3BRTkYwT3NZVjI5OU5uX0lxX0VpZlBIZkpXakhFV0d0VjRVYWV0NXpxNQ?oc=5",
+      "publishedAt": "2026-08-05T22:37:15+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-apologises-for-mistakes-over-world-cup-sell-off-plan-but-retains-fifa-support-yahoo-sports",
+      "title": "詹尼·因凡蒂诺为世界杯抛售计划的“错误”道歉，但保留国际足联支持 - 雅虎体育",
+      "summary": "Gianni Infantino apologises for ‘mistakes’ over 世界杯 sell-off plan but retains Fifa support  Yahoo Sports",
+      "originalTitle": "Gianni Infantino apologises for ‘mistakes’ over World Cup sell-off plan but retains Fifa support - Yahoo Sports",
+      "originalSummary": "Gianni Infantino apologises for ‘mistakes’ over World Cup sell-off plan but retains Fifa support  Yahoo Sports",
+      "translation": "online/local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNb2xYUUdHMUNrWHprLWhaNklRRGhWNjU2RGJLY3l0TXV4R2pocWlSSFBfZWFaa3VuYzl1ekN4RUE5T3h5enRjMU1ENGdxeVhkLUVHNmJsdW10TGpZTTlPNkxGdUc5a3NIRDN0cURKZlpfR3B3VU5Wa1B4Q0h1N0NoNnNESjVhcmc5eDM4RFk0akZ3QVNE?oc=5",
+      "publishedAt": "2026-08-05T22:09:14+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-shakira-returns-with-new-anthem-dai-dai-for-2026-fifa-world-cup-fijivillage",
+      "title": "夏奇拉携 2026 年 FIFA 世界杯新歌“Dai Dai”回归 - Fijivillage",
+      "summary": "夏奇拉携 2026 年 FIFA 世界杯新歌“Dai Dai”回归斐济村",
+      "originalTitle": "Shakira returns with new anthem 'Dai Dai' for 2026 FIFA World Cup - Fijivillage",
+      "originalSummary": "Shakira returns with new anthem 'Dai Dai' for 2026 FIFA World Cup  Fijivillage",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMGdzRVNuSi1NVUMtRnVsRnJrZ2xGYzRWMVNxMDlUOVlPYXgzZVoyZFlZd29sakEza05pRmowczFhZU92THVyNHlhT3JBZjJsMEktSG9vTU5BODJfQnJwOGJSaDVQNEUyWFg5cFQ4WmM3S3RxWXQ1WmRrakJ0UmV4Nk8xMS1nR0xGemlpLV9TemZZbUVnYXFlVnBRX3I1bkNjU0V0RkQwYXpHaVJKdWFxaVVBdw?oc=5",
+      "publishedAt": "2026-08-05T21:50:22+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifa-president-gianni-infantino-accused-of-blackmail-by-jordan-fa-chief-as-pressure-mounts-for-resignation-g",
-      "title": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控遭到约旦足协主席“勒索” Goal.com",
+      "title": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控被约旦足协主席“勒索” Goal.com",
       "summary": "国际足联主席詹尼·因凡蒂诺因辞职压力加大而被指控遭到约旦足协主席“勒索” Goal.com",
       "originalTitle": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation - Goal.com",
       "originalSummary": "FIFA president Gianni Infantino accused of 'blackmail' by Jordan FA chief as pressure mounts for resignation  Goal.com",
@@ -20,16 +68,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-how-did-psg-fare-in-their-first-2026-27-preseason-match-bein-sports",
-      "title": "巴黎圣日尔曼在 2026-27 赛季首场季前赛中表现如何？ - 贝因体育",
-      "summary": "巴黎圣日尔曼在 2026-27 赛季首场季前赛中表现如何？  贝因体育",
-      "originalTitle": "How Did PSG Fare in Their First 2026-27 Preseason Match? - beIN SPORTS",
-      "originalSummary": "How Did PSG Fare in Their First 2026-27 Preseason Match?  beIN SPORTS",
+      "id": "google-news-canada-s-prime-minister-says-he-has-no-confidence-in-fifa-s-infantino-nbc-boston",
+      "title": "加拿大总理表示他对国际足联主席因凡蒂诺没有信心 - NBC Boston",
+      "summary": "加拿大总理表示他对国际足联的因凡蒂诺没有信心 NBC Boston",
+      "originalTitle": "Canada's prime minister says he has no confidence in FIFA's Infantino - NBC Boston",
+      "originalSummary": "Canada's prime minister says he has no confidence in FIFA's Infantino  NBC Boston",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNzlZLVJpN0dHX2NWY2Fpdm1MWF85TmQyZDBMb3ctUXl6Vk9rWUtwcDhUVXBmazJhNHFMOUlFbUw1X3JHUXV1UUk4Z0llRmFoQjNlelpuTHc5NElKR0NwR0p1dmdVaHBHOEo5UmdmOGp5eTN1SGtaei02Z2gyYnVSRkQzRExPR1p2Mk9xMWVLTEhZcHBmYVc5WmdUVWV4dDJpT3ZJdm1xZl9aekF6aGNoRjdUR3U1aHZCNUREUVdMRGw?oc=5",
-      "publishedAt": "2026-08-05T21:44:08+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQemt1T3lVU0FUZjdBdjNfcVJ2UGZtYnZ4ZzNtZmg4X1lVck5TMl84bS1jTmVna1NKdU05ZmxfOHpaWlpWcUVxcmNYYXZDZ3doY1lKNUxIYU4zM3BBR0lJY01aS2JKMllpTkIxakkxVXJXSncybE81MWJGRVQyT05XcnNET1JtT1lhSFFTZXdWd2VuY0tQYWZZUjA1VHRKbDFlNm90dGs3M3dHb3daT2d30gGvAUFVX3lxTFB6a3VPeVVTQVRmN0F2M19xUnZQZm1idnhnM21maDhfWVVyTlMyXzhtLWNOZWdrU0p1TTlmbF84elpaWlZxRXFyY1hhdkNnd2hjWUo1TEhhTjMzcEFHSUljTVpLYkoyWWlOQjFqSTFVcldKdzJsTzUxYkZFVDJPTldyc0RPUm1PWWFIUVNld1Z3ZW5jS1BhZllSMDVUdEpsMWU2b3R0azczd0dvd1pPZ3c?oc=5",
+      "publishedAt": "2026-08-05T21:29:13+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-i-don-t-have-confidence-in-fifa-president-gianni-infantino-carney-says-cbc",
@@ -56,21 +104,9 @@
       "heat": 60
     },
     {
-      "id": "google-news-pm-carney-says-he-has-no-confidence-in-fifa-s-infantino-after-failed-world-cup-plan-ctv-news",
-      "title": "卡尼总理表示世界杯计划失败后他对国际足联主席因凡蒂诺没有信心 - CTV News",
-      "summary": "卡尼总理表示，在世界杯计划失败后，他对国际足联的因凡蒂诺没有信心 CTV 新闻",
-      "originalTitle": "PM Carney says he has no confidence in FIFA’s Infantino after failed World Cup plan - CTV News",
-      "originalSummary": "PM Carney says he has no confidence in FIFA’s Infantino after failed World Cup plan  CTV News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOeGZGRFFsS3lNNXJSMlh6U3VYS2ZBUEwwU2VtU1cyVHJJS1FuZmRwdmMza1l3VmtSdUc5azZ4ekRVNlVUcFJsUjRITEdETmhLSTY2YUZTSWgxZmltSUluNEVxcXFPYU9ZQUVsOGtXb1RvaHgwX2R6Q0RsOW1ZV1ljZ0J2TDVmZWR4dTJkaThNNWVCNjJRemVTaVJqUUtnWlktNVdIeXJGSC02U19NRnA4QVFsMlN6cUpWYThia2lR?oc=5",
-      "publishedAt": "2026-08-05T21:06:52+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-mfk-mp-calls-for-national-documentary-on-curaçao-s-historic-fifa-world-cup-journey-curaçao-chronicle",
       "title": "MFK 议员呼吁制作有关库拉索岛历史性 FIFA 世界杯之旅的国家纪录片 - 库拉索岛纪事报",
-      "summary": "MFK 议员呼吁制作有关库拉索岛历史性 FIFA 世界杯之旅的国家纪录片 库拉索纪事",
+      "summary": "MFK 议员呼吁制作关于库拉索历史性 FIFA 世界杯之旅的国家纪录片 库拉索纪事",
       "originalTitle": "MFK MP Calls for National Documentary on Curaçao's Historic FIFA World Cup Journey - Curaçao Chronicle",
       "originalSummary": "MFK MP Calls for National Documentary on Curaçao's Historic FIFA World Cup Journey  Curaçao Chronicle",
       "translation": "online",
@@ -92,11 +128,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-antonela-roccuzzo-shows-off-her-toned-abs-as-she-embraces-summer-after-argentina-s-world-cup-loss-hola-com",
-      "title": "安东内拉·罗库佐在阿根廷队输掉世界杯后拥抱夏天，展示她健美的腹肌 - Hola.com",
-      "summary": "阿根廷队输掉世界杯后，安东内拉·罗库佐 (Antonela Rocuzzo) 拥抱夏天，展示她健美的腹肌 Hola.com",
-      "originalTitle": "Antonela Roccuzzo shows off her toned abs as she embraces summer after Argentina's World Cup loss - hola.com",
-      "originalSummary": "Antonela Roccuzzo shows off her toned abs as she embraces summer after Argentina's World Cup loss  hola.com",
+      "id": "google-news-antonela-roccuzzo-shows-off-her-toned-abs-as-she-embraces-summer-after-argentina-s-world-cup-loss-hola",
+      "title": "安东内拉·罗库佐在阿根廷队输掉世界杯后拥抱夏天，展示她健美的腹肌 - HOLA",
+      "summary": "安东内拉·罗库佐在阿根廷队输掉世界杯后拥抱夏天，展示了她健美的腹肌 HOLA",
+      "originalTitle": "Antonela Roccuzzo shows off her toned abs as she embraces summer after Argentina's World Cup loss - HOLA",
+      "originalSummary": "Antonela Roccuzzo shows off her toned abs as she embraces summer after Argentina's World Cup loss  HOLA",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaGgweENUeHhFZ3VYVUFFMGpsdzU1ajc1RXMtb3JaSTk2UU1oVmVmWmZNaUsxbE5GRzZFWUZNQk9HVFctY2c1THdzUHBSZUEtOVg5Qmh2cVhYSTNwT3FHYk9nTkVNNDdLMFdHRVgybGNPLVNodkR5V2FQRFdGOGtwSEtlVXZXQi0wY1lmcHdialB2bWd2TU9oUlVST2FqXy1mQzRZ?oc=5",
@@ -104,11 +140,47 @@
       "heat": 52
     },
     {
-      "id": "google-news-infantino-holds-crisis-meeting-in-morocco-as-fifa-stake-sale-fallout-continues-reuters-com",
-      "title": "因凡蒂诺在摩洛哥召开危机会议，国际足联股权出售影响仍在继续 - reuters.com",
-      "summary": "因凡蒂诺在摩洛哥召开危机会议，国际足联股权出售影响仍在继续 reuters.com",
-      "originalTitle": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - reuters.com",
-      "originalSummary": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues  reuters.com",
+      "id": "google-news-world-cup-host-cities-press-fifa-over-11m-in-unpaid-legacy-funds-business-news-nigeria",
+      "title": "世界杯主办城市向国际足联施压，要求其支付 1100 万美元的未付遗产基金 - 尼日利亚商业新闻",
+      "summary": "世界杯主办城市向国际足联施压，要求其支付 1100 万美元的未付遗产基金",
+      "originalTitle": "World Cup host cities press FIFA over $11m in unpaid legacy funds - Business News Nigeria",
+      "originalSummary": "World Cup host cities press FIFA over $11m in unpaid legacy funds  Business News Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUnA5UUFTZW1tNHZQRVVzWWJHWU1DMTFPTTd2SU9EdG1ZQjBidF9kVEdjUXBtTkUxM2ZWREJ2QW44akJ2TTZ4RjAyNm9nZlJOT05QOGZHRWtkaU1fa05XeWVRa2plSW5Dc1hlbjNOTzNCY2IwUmRlMzE3VWlua1RmeHlORmFtWU1SU0lvT2tzYXR6ZllMeTVURlFNcmxfODBCd1VWMnM4QkgzS0N4bVpQTjVHSTNrXzM1WGhiUnZjS2pjeV9RM0tPTmJ6dGFSeWFJX21CMGQ4elJYYjFL?oc=5",
+      "publishedAt": "2026-08-05T20:42:44+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-canada-pm-carney-says-he-does-not-have-confidence-in-fifa-s-infantino-reuters",
+      "title": "加拿大总理卡尼表示他对国际足联主席因凡蒂诺没有信心 - 路透中文网",
+      "summary": "加拿大总理卡尼表示他对国际足联主席因凡蒂诺没有信心 路透",
+      "originalTitle": "Canada PM Carney says he does not have confidence in FIFA's Infantino - Reuters",
+      "originalSummary": "Canada PM Carney says he does not have confidence in FIFA's Infantino  Reuters",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOQTVkSjNEaTRVclI3TWV5eDdLOUNHNG44UXJST2VPem9QMUhnWFFjM3djZkhZR3E0YTE1d1ExdHg0TVNkZ1loTHBQUllPZVhiSWhpZ21tSnFDZ2ZpcXcyM2dOQktDZHl5U0hzZjVKVVd4X1lYVmtfaHpRY0trOWZURE1qbEY5dnY5WDEyQ1l0VUFodmxLaFA4TkJmZ1ZsanV6WVlaM1g5VW9kbTVZVGtqYUVaUU5qdw?oc=5",
+      "publishedAt": "2026-08-05T20:42:40+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-he-was-sorry-oliver-baumann-reveals-julian-nagelsmann-apology-over-world-cup-axe-goal-com",
+      "title": "“他很抱歉”——奥利弗·鲍曼向朱利安·纳格尔斯曼就世界杯被砍薪事件道歉 - Goal.com",
+      "summary": "“他很抱歉”——奥利弗·鲍曼向朱利安·纳格尔斯曼就世界杯被砍一事道歉 Goal.com",
+      "originalTitle": "'He was sorry' - Oliver Baumann reveals Julian Nagelsmann apology over World Cup axe - Goal.com",
+      "originalSummary": "'He was sorry' - Oliver Baumann reveals Julian Nagelsmann apology over World Cup axe  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd3lkZnczN2FRNzhONnotQ1RuQ0VrWTRrSlBncXBHbTE2TG9razhzX2RsdGM1QWZCYXhvZDNra3ZvWTdreEtUNFpEQW9rY2pPSDNXd2N3a2JYU0lFNjdINF9fX3BRZGZ0dG9VVUxuYURtWVBtTmJCU2RmbmV1bDVOWHU4RHQtYS01TnVyUE9LUmhnWEd3WXpJaE15aFdGX01nYTdUcW1fNjlQbWVYd2VtVC1NblU4Zw?oc=5",
+      "publishedAt": "2026-08-05T20:29:09+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-infantino-holds-crisis-meeting-in-morocco-as-fifa-stake-sale-fallout-continues-reuters",
+      "title": "因凡蒂诺在摩洛哥召开危机会议，国际足联股权出售影响仍在继续 - 路透中文网",
+      "summary": "因凡蒂诺在摩洛哥召开危机会议，国际足联股权出售影响仍在继续 路透",
+      "originalTitle": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues - Reuters",
+      "originalSummary": "Infantino holds crisis meeting in Morocco as FIFA stake sale fallout continues  Reuters",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSmJPenJsYUFVUXJVNXRDN205US1NQnlqbFJ6aW1Pb3RNNlE0MHY0V2prVnZTVVlIQ2ExM3Q1WHp5bEpqa01UVHlHRDdZRXJlSTlTa3Z5R2hFdENLaUtRYnpMZEVhYWFfZE53X3V0eE9YMmM3QlBWamlvb0piMFU5U29Yb0ZVZ01acXhlZGE1Rzl4by15ZWdCUnUzTE0yc3lkWmdTZk9tUnJQUnRzUGdzVFJlT3lKQjlnZVd3Sm5vVQ?oc=5",
@@ -128,18 +200,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-east-downtown-residents-say-promenade-lost-valuable-green-space-after-fifa-fan-festival-the-business-journal",
-      "title": "东市中心居民表示，国际足联球迷节之后，海滨长廊失去了宝贵的绿地 - 商业期刊",
-      "summary": "东市中心居民表示，国际足联球迷节之后，海滨长廊失去了宝贵的绿地 - 商业期刊",
-      "originalTitle": "East Downtown residents say promenade lost valuable green space after FIFA Fan Festival - The Business Journals",
-      "originalSummary": "East Downtown residents say promenade lost valuable green space after FIFA Fan Festival  The Business Journals",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemg5S0owdDhFQVVBSHBRcF8xcFpMbFc1eEdJN3g1ZUxVYTRKNUJSa09rc1g4WWY3VzdfQlMxdjdBNllIdGxMdHAwQVJmcTdteHNoVFFzYVp2eTBjTmpKclZ3Q0Z1aHNsMDNCOEkzWmxaZmZOTVg0cnRnNjhTR1BRdUFwdUhGWDBnRVdrVFhVaUE3enRXeWJQWjYya0oyNGNjVTA3Ng?oc=5",
-      "publishedAt": "2026-08-05T19:51:00+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
       "title": "2026世界杯足球赛 - 美国之音",
       "summary": "2026世界杯足球赛  美国之音",
@@ -154,7 +214,7 @@
     {
       "id": "google-news-not-too-late-to-save-football-luis-figo-leads-footballing-legends-demanding-shamed-fifa-boss-infantino-quits",
       "title": "“拯救足球还为时不晚”——路易斯·菲戈带领足球传奇人物要求羞愧的国际足联主帅因凡蒂诺立即辞职 - the-sun.com",
-      "summary": "“拯救足球还为时不晚”——路易斯·菲戈带领足球传奇人物要求羞愧的国际足联主帅因凡蒂诺立即辞职 the-sun.com",
+      "summary": "“拯救足球还为时不晚”——路易斯·菲戈带领足球传奇人物要求耻辱的国际足联主帅因凡蒂诺立即辞职 the-sun.com",
       "originalTitle": "'Not too late to save football' - Luis Figo leads footballing legends demanding shamed Fifa boss Infantino quits now - the-sun.com",
       "originalSummary": "'Not too late to save football' - Luis Figo leads footballing legends demanding shamed Fifa boss Infantino quits now  the-sun.com",
       "translation": "online",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTDJ4LUp6blVEbGRfNTJDMGJRZVlKR1lwMndMSDdrVms4QlotNm4waEFIVjlMamtvQnZSMzdCOWtmbDlLT0VuVVFVXzFTa1RJZTRjR1JMLTFweU5GY0JaVXowOEhKc1h2N0Z3Y2FiR0FtU3R4alhycGhZeGNGaFdadjJaVUZzVmpzUWJ3?oc=5",
       "publishedAt": "2026-08-05T19:03:45+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-the-times-infantino-offers-morocco-2030-world-cup-final-in-return-for-support-morocco-world-news",
-      "title": "泰晤士报：因凡蒂诺提议举办摩洛哥2030年世界杯决赛以换取支持 - 摩洛哥世界新闻",
-      "summary": "泰晤士报：因凡蒂诺提议举办摩洛哥 2030 年世界杯决赛以换取支持 摩洛哥世界新闻",
-      "originalTitle": "The Times: Infantino Offers Morocco 2030 World Cup Final in Return for Support - Morocco World News",
-      "originalSummary": "The Times: Infantino Offers Morocco 2030 World Cup Final in Return for Support  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNS2tRZVpRMUVkaldleUJJYTB3WDN3SmVCV3QzSW1xeVlVeVdCTTEtdzZ4cDFHRGVXWm9IdmY1V3RqSGZIMTFkeXpGeVQyZ1FYU2IxSUU0LTByWnpucU14ZXBoZ19PZ2haNGJadEtkU2dkakxKNVVYWlJ3TXRoY1hJNHBCN3pxMF9nQ21nNTBFbENGNHJyU2Z1VlFlTDktbHUtcHIzTGxPSUpVdTdUdmRjbTFuV3pfVUhuemZ6WFJha09CYlAy?oc=5",
-      "publishedAt": "2026-08-05T18:45:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-messi-and-ronaldo-wear-legacy-badge-at-fifa-world-cup-2026-the-news-mill",
-      "title": "梅西和罗纳尔多在 2026 年 FIFA 世界杯上佩戴“Legacy”徽章 - The News Mill",
-      "summary": "梅西和罗纳尔多在 2026 年 FIFA 世界杯上佩戴“Legacy”徽章 The News Mill",
-      "originalTitle": "Messi and Ronaldo wear ‘Legacy’ badge at FIFA World Cup 2026 - The News Mill",
-      "originalSummary": "Messi and Ronaldo wear ‘Legacy’ badge at FIFA World Cup 2026  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2J1b0VvbExONmlKdXYwb0VBajB0N0FlRnFEY2J6TklEREJqalYwYXNoZzJuQUJlYUFFVzE5Q2FzbGR0T29qelBNamZjMkx2ekMzSUtSc2wzNVFQWlZjMXpteGEweW1kbndDQlNzUGNsWGpZSFpzWmRoM01KNGdfbFVlLW9Yb0J5Y2tKOUMtYVpxdXc4NlE?oc=5",
-      "publishedAt": "2026-08-05T18:12:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-mbappe-leads-france-to-world-cup-knockout-stage-with-record-goals-the-news-mill",
-      "title": "姆巴佩带领法国队以创纪录的进球率进入世界杯淘汰赛阶段 - 新闻中心",
-      "summary": "姆巴佩以创纪录的进球带领法国队进入世界杯淘汰赛阶段",
-      "originalTitle": "Mbappe leads France to World Cup knockout stage with record goals - The News Mill",
-      "originalSummary": "Mbappe leads France to World Cup knockout stage with record goals  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMldwdFpqcDM2YVlVbjZkZk5XVUlzSmJobDJ2UGRHc2s1X3J2Y29IWEZNX2NseWVRblF0MWlOdjhYQXJHVGhYM0tyMG5UVURHOXVmZ3p4NmhPSE1RZUJzOEdMZjZlY0UtUHgxYkp4bng5Y1BBWFFBOU9CX0xsTDMyMlM1QW5tY0lqa1Y1bDFyYmV0VHZTcUoxTjNmbnBFUzQ?oc=5",
-      "publishedAt": "2026-08-05T18:12:37+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-arrive-in-mexico-for-fifa-world-cup-2026-round-of-16-match-at-estadio-azteca-the-news-mill",
-      "title": "英格兰队抵达墨西哥在阿兹特克体育场参加 2026 年世界杯 16 强比赛 - The News Mill",
-      "summary": "英格兰队抵达墨西哥，参加在阿兹特克体育场举行的 2026 年 FIFA 世界杯 16 强比赛 The News Mill",
-      "originalTitle": "England arrive in Mexico for FIFA World Cup 2026 Round of 16 match at Estadio Azteca - The News Mill",
-      "originalSummary": "England arrive in Mexico for FIFA World Cup 2026 Round of 16 match at Estadio Azteca  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZEJIMUNpcFlMUkQ2cnliejVUSnlVem1IX0pXTTJWVXpFRElWQ29BUVpEc0FLb2hkeGhsTWtXckc3Sy1CQjExcWx3QmM2VTAyVFpBclRUWTczRTVJd1djd3E5RG1kNXJWZ25DRUlSYU5mdUhZd1FSZERPN09sRDFXTEVFRDRSekhNOHpDNnhJemFqNHRfaTIyUEtyb25haWpub05EX25CLVphWUw0UERkOFdrcmhGTWFv?oc=5",
-      "publishedAt": "2026-08-05T18:07:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-morocco-defeats-canada-3-0-to-reach-fifa-world-cup-2026-quarter-finals-the-news-mill",
-      "title": "摩洛哥 3-0 击败加拿大晋级 2026 年世界杯四分之一决赛 - 新闻中心",
-      "summary": "摩洛哥 3-0 击败加拿大晋级 2026 年 FIFA 世界杯四分之一决赛",
-      "originalTitle": "Morocco Defeats Canada 3-0 to Reach FIFA World Cup 2026 Quarter-Finals - The News Mill",
-      "originalSummary": "Morocco Defeats Canada 3-0 to Reach FIFA World Cup 2026 Quarter-Finals  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTDdRTkhsNzV3UlpmM240OXJmcnUzd01abGg0WjFRcm1kQTJKY1ltOFV6ZjdFRWJtRmhKRnQyd0dvQjBZLVZIcWRUYjNPcUlHSXJyU2NDajZ2aDduSF9SWE5XRWx4TXhqbTN6WjlsSE81OTdVNzkxdXlzNGJ6bWsxekFJQklhWkNwWFRXdFRtaWZZcHNqT2JYTGJtMG5LQldwbWVIXzRXT0ZIZw?oc=5",
-      "publishedAt": "2026-08-05T17:52:18+00:00",
-      "heat": 60
     }
   ]
 }
