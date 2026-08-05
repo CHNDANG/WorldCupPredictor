@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-05T16:47:21.246049+00:00",
+  "updatedAt": "2026-08-05T18:25:09.019915+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-netflix-shares-how-fifa-2026-world-cup-drove-record-engagement-iphone-in-canada",
+      "title": "Netflix 分享 FIFA 2026 世界杯如何在加拿大创下 iPhone 参与度纪录",
+      "summary": "Netflix 分享 FIFA 2026 世界杯如何推动加拿大 iPhone 的参与度创历史新高",
+      "originalTitle": "Netflix Shares How FIFA 2026 World Cup Drove Record Engagement - iPhone in Canada",
+      "originalSummary": "Netflix Shares How FIFA 2026 World Cup Drove Record Engagement  iPhone in Canada",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQdmlfQ01WWmRLYTNDVXVCVEZ3QTR4YnhYRXQwLXc4cENkMHJDM2FsaGdqR1oxN2tGTzRHRnl5TlpxWmtIRkZpcG5zR3RrdmxBemxhTVFNTFlyRmtiNXRhb2RlWjF1RW9RTnhxTWdubXRpZGVfajNjdmo2a3RVOVROTnh0SlVjUDZrRlV4Z3F1NDlHbDk1YjY5RVRGQi1HRVlPaTlBRllVdw?oc=5",
+      "publishedAt": "2026-08-05T17:46:55+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-world-cup-ip-strategy-and-the-world-s-largest-sports-event-mexico-business-news",
+      "title": "2026 年世界杯：知识产权战略和世界上最大的体育赛事 - 墨西哥商业新闻",
+      "summary": "2026 年世界杯：知识产权战略和世界上最大的体育赛事 墨西哥商业新闻",
+      "originalTitle": "2026 World Cup: IP Strategy and the World’s Largest Sports Event - Mexico Business News",
+      "originalSummary": "2026 World Cup: IP Strategy and the World’s Largest Sports Event  Mexico Business News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMHFCdnlUTkdUc0dtZlMzYV9nWDdRVmNld2VIRHJsU25HRm1XeFA4UWx1N2hxUGNzR2FaSEFqUlVkTWNCZGs0czNPWE9pTHZhSEEtNEFvcjlYcF9QeFB4WTNjLW5LeWRueHdIejBpaWZ6Y21ic0pYMGtDZ2pheXNBel9qNW8zdFVDU3RfS0NTYldjME5GU0haTVhBRVhYRnBMZV9ISGdRN0Y3U2tk?oc=5",
+      "publishedAt": "2026-08-05T17:00:36+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-after-the-final-whistle-football-experts-revisit-their-2026-fifa-world-cup-predictions-asbarez",
+      "title": "终场哨响后：足球专家重新审视他们对 2026 年 FIFA 世界杯的预测 - 阿斯巴雷斯",
+      "summary": "终场哨响后：足球专家重新审视他们对 2026 年 FIFA 世界杯的预测",
+      "originalTitle": "After the Final Whistle: Football Experts Revisit Their 2026 FIFA World Cup Predictions - Asbarez",
+      "originalSummary": "After the Final Whistle: Football Experts Revisit Their 2026 FIFA World Cup Predictions  Asbarez",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOTFl4eVJkSTlhQ3BFYlNka1dLMmo5U1M3Ri1Ib2xXb2JEYV9PTkNxYVpPRkJPWHYtVldrbThkUkVJc0VrekRRSFpQMmRnd2NrN2hLc2pLelJDNnk4dUM2eFVmbk1XRV9LRkplSEhwUnBla0UyREZiWFZRbnYzTlJJQVlwMW9CXzRjVEIzU3JrV1lfM0N3ZlRiSW1BQ285M29pSkJ4SlEwRTRHcW8?oc=5",
+      "publishedAt": "2026-08-05T16:54:07+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-caf-executive-meeting-to-tackle-afcon-2027-fifa-forward-and-major-reforms-morocco-world-news",
+      "title": "非洲足联执行会议将讨论非洲杯2027、国际足联前进和重大改革 - 摩洛哥世界新闻",
+      "summary": "非洲足联执行会议将讨论 2027 年非洲杯、国际足联前进和重大改革 摩洛哥世界新闻",
+      "originalTitle": "CAF Executive Meeting to Tackle AFCON 2027, FIFA Forward, and Major Reforms - Morocco World News",
+      "originalSummary": "CAF Executive Meeting to Tackle AFCON 2027, FIFA Forward, and Major Reforms  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbkNTVEp0ZWw3VUNjSVhWcFplcmV2ME5aTy1SRzhaSmVPVmI4NnNUTTdCWlgwZUpPenItV3dYZzliT19velpRWDZ6Sl92Vjc5c3ZYSEVxSExxbzAyRWRTZjRfV0wxeFlvYVYwLUNIYXJYYUIwLWZqa1hqdlF1NWx1d0QybnBvZFRmUXpCOFFXeExGSW1HbnE1RXRPVG1Jd0ZrSnpTV3lOZTZJSk9JU2lSZWFqVnFLLWRFRkNOdkhHRQ?oc=5",
+      "publishedAt": "2026-08-05T16:41:15+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-u-s-world-cup-cities-seek-fifa-legacy-funds-daily-guardian",
       "title": "美国世界杯城市寻求国际足联遗产基金 - 每日卫报",
@@ -18,18 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYlE3VlNIRDJoUVcyZmtfQmNrZ2JfUHJpSWktQk40TVRzQVZZcmFsczdxLUdnRGxyejlnV2dWdS1yY29NdUpuZ09kYmtjTkpBNWdkZFZFSnRXSEdaS2JwWmlKeGxOSU9VS3BOSi1DTmhVMHVaYmtQX1JnWjBKNTg5V2VFLVhURzU1?oc=5",
       "publishedAt": "2026-08-05T16:09:33+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-by-the-numbers-how-world-cup-fever-took-over-netflix-about-netflix",
-      "title": "从数据来看：世界杯热潮如何席卷 Netflix - 关于 Netflix",
-      "summary": "从数据来看：世界杯热潮如何席卷 Netflix 关于 Netflix",
-      "originalTitle": "By the Numbers: How World Cup Fever Took Over Netflix - About Netflix",
-      "originalSummary": "By the Numbers: How World Cup Fever Took Over Netflix  About Netflix",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMFE2cVFIdlF5N2J6TlR0cEtMazVFRlR5NmwxRlg4M0tNNGZvTXI1aTlDMjBMXzBUSTBWTHRVRnlldmxTeVpGQXpKM1prcWRnRk43ZFVxVXJPZDN1d0RwZzVoR01YZ3YwUUtqY0xLY3lBcFBrakdxMjh1S0ZKUHVfWW5UOXphdHZSRWRhNmVwcw?oc=5",
-      "publishedAt": "2026-08-05T16:05:52+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-fifa-president-gianni-infantino-accused-of-blackmail-by-jordan-fa-chief-as-pressure-mounts-for-resignation-g",
@@ -68,6 +104,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-卡拉格-fifa曾请我为两年一届世界杯背书-这事让我看清了温格-直播吧",
+      "title": "卡拉格：FIFA曾请我为两年一届世界杯背书，这事让我看清了温格 - 直播吧",
+      "summary": "卡拉格：FIFA曾请我为两年一届世界杯背书，这事让我看清了温格  直播吧",
+      "originalTitle": "卡拉格：FIFA曾请我为两年一届世界杯背书，这事让我看清了温格 - 直播吧",
+      "originalSummary": "卡拉格：FIFA曾请我为两年一届世界杯背书，这事让我看清了温格  直播吧",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE80TTRsdzJwUDVac2xSanc5TVAtd005NzAtMWYxZ2prNWgxUTRvT3BJUFNlM3pCSVZuZllPRXJTdmQzNGg5N0RoYjQ3eXBMM09hbTcwY2FVTzd0ZjdRSVZYMTkxSDVzOEFVNjBVUUMzd3otUQ?oc=5",
+      "publishedAt": "2026-08-05T14:12:14+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
       "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN 中国",
       "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN 菲律宾",
@@ -93,10 +141,10 @@
     },
     {
       "id": "google-news-bubista-steps-down-as-coach-of-cape-verde-after-their-incredible-performance-in-the-fifa-world-cup-2026-bein",
-      "title": "布比斯塔在 2026 年 FIFA 世界杯上表现出色后辞去佛得角教练职务 - beinsports.com",
-      "summary": "布比斯塔在 2026 年 FIFA 世界杯上表现出色，辞去佛得角教练职务 beinsports.com",
-      "originalTitle": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026 - beinsports.com",
-      "originalSummary": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026  beinsports.com",
+      "title": "布比斯塔在 2026 年 FIFA 世界杯上表现出色后辞去佛得角主教练职务 - beIN SPORTS",
+      "summary": "布比斯塔在 2026 年 FIFA 世界杯上表现出色，辞去佛得角教练职务 beIN SPORTS",
+      "originalTitle": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026 - beIN SPORTS",
+      "originalSummary": "Bubista Steps Down as Coach of Cape Verde After Their Incredible Performance in the FIFA World Cup 2026  beIN SPORTS",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPSXAtaWpHV0s5X1M0UThfeWdfSkdqR200emh0dXpVYTVKV2w5dmtoa0NPV0stb3EyTHU5OWw3WnptaEFQWGlKSVd5UjJ3S0J1SndncDR4Q3RoUDE0ZThSRk9fUXZ3Mk1DN0EtZEphRjJYc0lIWGVaZ29Qc29aS2IzY2RCT3U1SnM5d1ZmcUVJYnBqS01QRGZVa0tVN0JuTXl5Ymw3dXNsWDJ0bG40cm5jT0FHWjVtMEk5VDZTY2IzdHk1dUVHenFTazNwNTkwdzdtalAxYV93Qm8zZEswVFAwWnhBV2JPVlIyRUdMWC04N1JORlVHOTN1MVFCckZhWVlrX185Ui1mOWVFRGQ1eWl6VA?oc=5",
@@ -128,11 +176,11 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5leDNnUHo1cmM4NHhjVktEVXAtSlRvYjJHMVQ1N3BzbGFnNXViMFdwNFNTajJKNUpsWnZxSzQxNXBKZHozUUU1Q2txblp6dHBCZlFYRVg2UXlLYkFfd092cGZPZHdHZ19td1VwS013M0lwQQ?oc=5",
       "publishedAt": "2026-08-05T11:52:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-to-base-team-in-kansas-city-for-fifa-world-cup-2026-the-news-mill",
-      "title": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯 - The News Mill",
-      "summary": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯",
-      "originalTitle": "Argentina to base team in Kansas City for FIFA World Cup 2026 - The News Mill",
-      "originalSummary": "Argentina to base team in Kansas City for FIFA World Cup 2026  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmhsT0dheUlqUzRWT0o2MnAxbFVaT05nYWxfOEtIZ29tZGF0NHEzaTRxTFExX3BvNDZHU2NWN0FDbnZ2ak1EVVh2UjBYX1ZyblVKN0RSVU4zODdjcGEyXy1nekhjeS1lU0huTnZpOHRMclJENjZfWl9lcGtRQ2dia0kzWm9zYjVuek5vMHNzWFkyWkd0MEJyWlhB?oc=5",
-      "publishedAt": "2026-08-05T11:12:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-press-release-fubotv-delivers-1-48-billion-global-revenue-in-q3-fy-2026-record-q3-north-america-subscribers",
-      "title": "新闻稿：FuboTV 2026 财年第三季度全球收入达 14.8 亿美元，北美订户数量创纪录 - Moomoo",
-      "summary": "新闻稿：FuboTV 2026 财年第三季度全球收入达 14.8 亿美元，北美订户数量创下第三季度记录 Moomoo",
-      "originalTitle": "Press Release: FuboTV Delivers $1.48 Billion Global Revenue in Q3 FY 2026, Record Q3 North America Subscribers - Moomoo",
-      "originalSummary": "Press Release: FuboTV Delivers $1.48 Billion Global Revenue in Q3 FY 2026, Record Q3 North America Subscribers  Moomoo",
-      "translation": "online",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRTU3cjFNbFp2V1kwZDFlVU45YnJkci1vMTFSZmd5ZDVVM0JacHUyOW1WWXVxR3BVUkRGWFltWWNHaGlJRlNueFI4TFVGb3RJS2xSNlBXc0s0RlVkT0Y2dVQzUFMxNzZMb1Z4Ymwxb3lNbE5TNVFfeGZteXo3aWpfQTYxekptUW94TVR2SjVSM1VhTFctbWdCQkdPdU1jZk5ONk9MNHZLUUZpUEE?oc=5",
-      "publishedAt": "2026-08-05T11:03:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-japan-vs-uruguay-24-sep-2026-live-score-espn-singapore",
-      "title": "日本 vs 乌拉圭 (2026 年 9 月 24 日) 实时比分 - ESPN Singapore",
-      "summary": "日本 vs 乌拉圭（2026 年 9 月 24 日）实时比分 ESPN 新加坡",
-      "originalTitle": "Japan vs. Uruguay (24 Sep, 2026) Live Score - ESPN Singapore",
-      "originalSummary": "Japan vs. Uruguay (24 Sep, 2026) Live Score  ESPN Singapore",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1pQ2dadWhZb25hUjlwanhLVmJwMlh5MlYyWGFLQTIxUHJRbnVuaHN3bWVyOE1maGlsaWVtX1lvNWhFWVo4Q3BXT0VPV2x3a0lPY3JNWkFFZnhJa2N4SXBPTi1hQUgzcnJoeVpqUEViNFhTUE9wbzhnaC1ETQ?oc=5",
-      "publishedAt": "2026-08-05T11:02:18+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-今日体育-因凡蒂诺陷领导危机-fifa高层摩洛哥召开紧急会议-rfi",
-      "title": "今日体育 - 因凡蒂诺陷领导危机 FIFA高层摩洛哥召开紧急会议 - RFI",
-      "summary": "今日体育 - 因凡蒂诺陷领导危机 FIFA高层摩洛哥召开紧急会议  RFI",
-      "originalTitle": "今日体育 - 因凡蒂诺陷领导危机 FIFA高层摩洛哥召开紧急会议 - RFI",
-      "originalSummary": "今日体育 - 因凡蒂诺陷领导危机 FIFA高层摩洛哥召开紧急会议  RFI",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQYmtFWW1vZTZtemt1ZXJHX0FoT2tIa3FfanhCRnl5YjBlbnJDUFZOTi1nejdYWEFMWHRuUU9oeTNUNHBQc2hVbDR5aEVNVUREOFhLV0t0aFJwVWtEX2lGWmkwaWQ1UDlUODR0UE56dTVxYVBRbjlKM1ZfX3dNQzcxejBXM0JTTnZFNmRSR3Voek9yeUttSHRDQndZTVlnQlpYelJSakEwRE9tNnJrZ1ZaMWdNYlhMaFFMODQzQTNzeHYyVUhFVG1FNnBiQm1leGtkUVAwczVxWlZRTGZhV0FhbUpucjA2aHNldWIyMW1CdGwzVGFQV0pJU3diSW9xVDdOU2hVd0JnRjVrLVRjWWF0YzExeDhaS0RBeU5HUVF4UUtNUUtJX2E3bGNJNE1DbklpMEZHRW9peFdXalpaVzdkNUdISUdBWl9UNnpUa2VtRm5YemFGaFl1cmEzV3E4cGZiMUZqSW9kTV9YNHMzNUhZdS1fekFFQzMzZmEwRVBrSS1DZGZSNGtHVVF6NlVoVklhRWFfSXFGVkRuc2JiLV80?oc=5",
-      "publishedAt": "2026-08-05T11:00:11+00:00",
       "heat": 52
     }
   ]
