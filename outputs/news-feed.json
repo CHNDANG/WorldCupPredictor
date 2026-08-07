@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T08:35:04.432091+00:00",
+  "updatedAt": "2026-08-07T10:05:00.500555+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,11 +8,107 @@
   ],
   "articles": [
     {
-      "id": "google-news-argentina-declares-july-15-a-national-football-holiday-to-mark-its-2026-world-cup-semi-final-win-hypebeast-c",
-      "title": "阿根廷宣布 7 月 15 日为全国足球假日，以纪念 2026 年世界杯半决赛的胜利 - hypebeast.com",
-      "summary": "阿根廷宣布 7 月 15 日为国家足球假日，以纪念 2026 年世界杯半决赛的胜利 hypebeast.com",
-      "originalTitle": "Argentina Declares July 15 a National Football Holiday to Mark Its 2026 World Cup Semi-Final Win - hypebeast.com",
-      "originalSummary": "Argentina Declares July 15 a National Football Holiday to Mark Its 2026 World Cup Semi-Final Win  hypebeast.com",
+      "id": "google-news-adweek-tv-advantage-world-cup-reveals-3-marketing-lessons-to-add-a-real-kick-adweek",
+      "title": "ADWEEK 电视优势：世界杯揭示 3 个营销教训，增添真正的活力 - ADWEEK",
+      "summary": "ADWEEK 电视优势：世界杯揭示 3 个营销经验教训，助您一臂之力 ADWEEK",
+      "originalTitle": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick - ADWEEK",
+      "originalSummary": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick  ADWEEK",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWI2NG0tLWhSZlR4TnFRWTZzcnBHMmhiYTM0MHdPVFJGTDdpdUR5Mkw2UmltRDVrMTdUNjRXTENMS1NtVmxYYmgxWGpLc0JCZUJuUE1vVXkyVnFPOXhDTVFFRWlLaEZVR0ZSdXA0cTlrRklETFU3NmVucTMyMUEwSThxcXpVa0c0WE84b1dmTFdvejBweFJPdmEtRQ?oc=5",
+      "publishedAt": "2026-08-07T10:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-back-gianni-infantino-and-close-in-on-being-handed-world-cup-2030-perk-in-return-the-sun",
+      "title": "阿根廷队后卫贾尼·因凡蒂诺 (Gianni Infantino) 即将获得 2030 年世界杯特权 - 《太阳报》",
+      "summary": "阿根廷队后卫贾尼·因凡蒂诺 (Gianni Infantino) 即将获得 2030 年世界杯的奖励",
+      "originalTitle": "Argentina back Gianni Infantino and close in on being handed World Cup 2030 perk in return - The Sun",
+      "originalSummary": "Argentina back Gianni Infantino and close in on being handed World Cup 2030 perk in return  The Sun",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZBN3dYSWZiRVFtaVQ5Z24yRkhZaTc5RXltMS1mTU8xRUNjWHh3d09rWWdRb25GbmpTeFBFSEtXYWxzU25aaFJ1YnRMRWt3MDN3Z25TQ3RBYXBYbTY4OUdFU012NXZkaElXRUVpSG1oVXpnZXZwRFU5UzQ4MVhwdndWWkRUZkp1VkZFX3B0Q2YwUFNz?oc=5",
+      "publishedAt": "2026-08-07T09:52:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-欧足总维持抵制世界杯-国际足联撤回投资无效-亚洲电视新闻",
+      "title": "欧足总维持抵制世界杯 国际足联撤回投资无效 - 亚洲电视新闻",
+      "summary": "欧足总维持抵制世界杯 国际足联撤回投资无效  亚洲电视新闻",
+      "originalTitle": "欧足总维持抵制世界杯 国际足联撤回投资无效 - 亚洲电视新闻",
+      "originalSummary": "欧足总维持抵制世界杯 国际足联撤回投资无效  亚洲电视新闻",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR0hlZGw1MnlNUlc1c2NUNWRWV1ItZnI0N045MUxsRmFHLXFzTmVLTktvZG4wbHY4UWs0bzlDejVaY0FkSmtKemIya0lzZ0ZCQUFDZWExcFpGZGhlTm1FTVBHZTNIV3dBZGlGY3hod0Nad0lXNWEzYnp0bmY3ZEo2ekNRTmI5N2RkNVIzN0tCVEVQd2tMYXFuRzJHNjZqSTZNcTVJTkVvNG5WX0M3WXVrem1Bck9tb0NrMC1HM2l0Uy1VZng4eUlPWDA4Y3RqNFJqVkljeV81QnhvWXBxRFdpc1VQRzdUbkxzak9aM1F5eVBkRVVUSUhBbmNsUW9nczRxcmZsRUlEWV9nYTZLUW1hV1k3SXlKUFZrRUVOQy1SclAyQ1dYQ2hCN3VydTlwZWc4TUdfWE1aTENEVEJTZEFkYzJ1Q3Rsa3JvbDdN?oc=5",
+      "publishedAt": "2026-08-07T09:45:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-lighting-up-our-mood-bts-jimin-brightened-fans-day-as-he-shared-snaps-from-the-supergroup-s-recent-activitie",
+      "title": "点亮我们的心情！ 💜✨ BTS 的 Jimin 分享了该超级组合最近的活动快照，包括他们在 2026 年 FIFA 世界杯上的表现，为粉丝们带来了欢乐。 （📸：智旻/Instagram）- facebook.com",
+      "summary": "点亮我们的心情！ 💜✨ BTS 的 Jimin 分享了该超级组合最近的活动快照，包括他们在 2026 年 FIFA 世界杯上的表现，为粉丝们带来了欢乐。 （📸：Jimin/Instagram）  facebook.com",
+      "originalTitle": "LIGHTING UP OUR MOOD! 💜✨ BTS' Jimin brightened fans' day as he shared snaps from the supergroup's recent activities, including their performance at the 2026 FIFA World Cup. (📸: Jimin/Instagram) - facebook.com",
+      "originalSummary": "LIGHTING UP OUR MOOD! 💜✨ BTS' Jimin brightened fans' day as he shared snaps from the supergroup's recent activities, including their performance at the 2026 FIFA World Cup. (📸: Jimin/Instagram)  facebook.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaElDam43eHNMOGx1QXBXS0h5R2ZnaHYtZERkUi1GOHA0bGVZb3lNSE0wdllOcHp0djNHTVlHNllMcmRDMEwwdV90Vmt6TzVIdUlBOHUzczhsWXRiaW1fNThyaEFQR1FwQnBRYkVLeG9qTHJhNktLbHJkbWllZ05DWmdyWmJWMjQ4dGVkU2tLOFdVbld3VExnRWF2WDRzVnZlRWVYMjhXeE82ZE9NVjRmaXUyS0lZd1I3bDFPdUNxZU5yV1pHM0pRaG4tVXlNNUpXX1ROMXpQZw?oc=5",
+      "publishedAt": "2026-08-07T09:15:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-the-2026-fifa-world-cup-changed-us-hotel-markets-hospitality-net",
+      "title": "2026 年 FIFA 世界杯如何改变美国酒店市场 - 酒店网",
+      "summary": "2026 年 FIFA 世界杯如何改变美国酒店市场 酒店网",
+      "originalTitle": "How the 2026 FIFA World Cup Changed US Hotel Markets - Hospitality Net",
+      "originalSummary": "How the 2026 FIFA World Cup Changed US Hotel Markets  Hospitality Net",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVEydHdUTUVVNGRHTkE1U1RCZjNRbnRMYWhTd3VQcXdnZFd3ellHNnUyVEI3NkYxOXNtZU1QWGFmZzJlUDh6WmJqVDJJaVhzQVVoSjByckZRSVRlcDVxWjJ3V190NGI0T1hwQ2hHWXZyU0pMTGE1ZWlPRDd1WEw3UXM5RTQwV2pRMzBQVzF0MlRCV2Jua2xlYl9iTU8yWFE?oc=5",
+      "publishedAt": "2026-08-07T08:32:41+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-iran-says-will-play-in-fifa-world-cup-demands-hosts-accept-conditions-iol",
+      "title": "伊朗表示将参加国际足联世界杯，要求东道主接受条件 - IOL",
+      "summary": "伊朗表示将参加国际足联世界杯，要求东道主接受条件 IOL",
+      "originalTitle": "Iran says will play in Fifa World Cup, demands hosts accept conditions - IOL",
+      "originalSummary": "Iran says will play in Fifa World Cup, demands hosts accept conditions  IOL",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHI5bnlLb0tNeF9TVnRWME1sQXJYLXNYaGhiaFY0eGNlaUJSQW9hZk1LTDhVcFdRdnprWmxjelhGb21KQWpQcFNIay15QzdzY2hOR3c5ZEczQ2hzbnNTUjJKWmpuWjJvdk5ZdHh1cE95TUVKeUpaVXlYMGpZTXZXeG1nMHBFU2xFVF9EYlo4bTV2TE0xbjV5cGhB?oc=5",
+      "publishedAt": "2026-08-07T08:20:20+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-maltese-regulator-urges-heightened-vigilance-for-suspicious-betting-during-fifa-world-cup-2026-focus-gaming-",
+      "title": "马耳他监管机构敦促 2026 年 FIFA 世界杯期间对可疑投注提高警惕 - Focus Gaming News",
+      "summary": "马耳他监管机构敦促对 2026 年 FIFA 世界杯期间的可疑投注提高警惕 Focus Gaming News",
+      "originalTitle": "Maltese regulator urges heightened vigilance for suspicious betting during FIFA World Cup 2026 - Focus Gaming News",
+      "originalSummary": "Maltese regulator urges heightened vigilance for suspicious betting during FIFA World Cup 2026  Focus Gaming News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2xzbTU5MU5YWS1DYkJJR1h6UUMzeGtxbGRnTDdRcEpwRVNZXzIxV1MtREZoWXBZN3R3QTdRekRJX3NfYlFwd3pINW93V0FxNExaWVJ0dHBuRk1WSU5qOUIyYVl2YUhSZ1dFcm1zX1gxcFI2STRJR3d4MDJickJhempnNzZFMGV2VUtPcWJEbzVFUDNheXoxZXdxbTZmZWxqSnRXY0NVU2Q5amUxVG9pWWh0Tm0?oc=5",
+      "publishedAt": "2026-08-07T08:05:07+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-2026-stadium-rules-banned-food-and-beverages-fans-can-t-bring-inside-iol",
+      "title": "2026 年世界杯体育场规则：球迷不得携带违禁食品和饮料入场 - IOL",
+      "summary": "2026 年世界杯体育场规则：球迷不得携带违禁食品和饮料入场 IOL",
+      "originalTitle": "World Cup 2026 stadium rules: banned food and beverages fans can’t bring inside - IOL",
+      "originalSummary": "World Cup 2026 stadium rules: banned food and beverages fans can’t bring inside  IOL",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbVFIcnVhWVE4d05DMzMzdUF0UVhlZFFsQlBRZDloSGNOWU9HenhWSzJaNnNacUU1b19WdG5PWjNIZjRPNEZWVmwzSDJoOXA2UlItLUNUcFBLVTlQQTVSQkRWNWJRZEFYNUNjajZwbW91T09SOHNHekNxTVExOFFTU3lFX3hOR09qQTVUYjBLN2txck9rVkxvSkpmQnFOUFd1VGZZSWY4U0tienc?oc=5",
+      "publishedAt": "2026-08-07T07:28:23+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-declares-july-15-a-national-football-holiday-to-mark-its-2026-world-cup-semi-final-win-hypebeast",
+      "title": "阿根廷宣布 7 月 15 日为全国足球假日，以纪念 2026 年世界杯半决赛的胜利 - Hypebeast",
+      "summary": "阿根廷宣布 7 月 15 日为国家足球假日，以纪念 2026 年世界杯半决赛的胜利 Hypebeast",
+      "originalTitle": "Argentina Declares July 15 a National Football Holiday to Mark Its 2026 World Cup Semi-Final Win - Hypebeast",
+      "originalSummary": "Argentina Declares July 15 a National Football Holiday to Mark Its 2026 World Cup Semi-Final Win  Hypebeast",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZVREYUduOS00YnRhMS0zN3drRlhpdzlFNzJTam1KMFUzWHE5d2hleHpLRzRfYU1XdWYyWHpXVmdjY1dkV3VmYkJZeHpib3M0LU9ldDNBTzBvOUdfblIxZnc2ampyRzlBRFYwbW5OSDRmaEdJT0NOOHN0bTd3dWUtWXhDQQ?oc=5",
@@ -21,7 +117,7 @@
     },
     {
       "id": "google-news-tv-brics-to-premiere-international-media-project-on-fifa-world-cup-2026-for-its-television-audience-tv-brics",
-      "title": "金砖国家电视台将向电视观众首播有关 FIFA 2026 世界杯™的国际媒体项目 - TV BRICS",
+      "title": "金砖国家电视台将为其电视观众首播有关 FIFA 2026 世界杯™的国际媒体项目 - TV BRICS",
       "summary": "金砖国家电视台 (TV BRICS) 将为电视观众首播有关 FIFA 2026 世界杯™ 的国际媒体项目 TV BRICS",
       "originalTitle": "TV BRICS to premiere international media project on FIFA World Cup 2026™ for its television audience - TV BRICS",
       "originalSummary": "TV BRICS to premiere international media project on FIFA World Cup 2026™ for its television audience  TV BRICS",
@@ -29,18 +125,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNZnFmVWFFc1ROVFhIbVFDa2NiV2dGX002UHRicGN4R2EtdlNzTk9lY01hU041TzBublRLZElzcG8xdmpUSmtSdlp1VHRORTZTaFNsSWl5dkVoWjlJTG9iV1RJd3lhOVA3R1VxVnp3ZUpHRzljejFfNFdrUHNUV0NKNlJmSXhKWGMwMVI4S1YxWUp4VV9OWEFYdW9xWTRuSGx3MXFnQzRBYkhBTmpNd2dlcGNDZEIyZkVURXJHM2hxU0NSVzVOR0dV?oc=5",
       "publishedAt": "2026-08-07T07:00:25+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-thestar-co-za",
-      "title": "这是雨果·布罗斯和巴法纳球星将从国际足联2.18亿兰特世界杯奖金中获得的金额 - thestar.co.za",
-      "summary": "这是 Hugo Broos 和 Bafana 球星将从国际足联世界杯 2.18 亿兰特的奖金中获得的收入 thestar.co.za",
-      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - thestar.co.za",
-      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  thestar.co.za",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOTG1FcUk3R1loZUc3ZlBGMW93MUJpUmtfQjN0TmpRWmExNXFtcmxpX3R2TmcyVktfLVpHc01zaDYwT0FWdU9zWGlVTFZNQmhMdEZDVkljaWZ3elBCQktjd1o2UlA2YldjNEtOZ0ZUQWZ0TVpqeTlJcGttMGo5NERZMnhXODhLOF9xLXF6SG1oZDZzay1JdmVoRnRHX1ZhN0h0aWxFbGlLc2N4OHN0SGE3ZktTazBjQ0RfWW5HVG9DZHNHUXRZcThnalBsMlNaeXJieUVCcDVGMi1UeHg5?oc=5",
-      "publishedAt": "2026-08-07T06:56:15+00:00",
       "heat": 60
     },
     {
@@ -80,16 +164,16 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-场均射门-premier-league2025-2026的chelsea数据-fotmob",
-      "title": "场均射门 — Premier League2025/2026的Chelsea数据 - FotMob",
-      "summary": "场均射门 — Premier League2025/2026的Chelsea数据  FotMob",
-      "originalTitle": "场均射门 — Premier League2025/2026的Chelsea数据 - FotMob",
-      "originalSummary": "场均射门 — Premier League2025/2026的Chelsea数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbVhIaHUyTS12REZhbnQwSmhDbUszNDdhclhpVVUtUEZvOERFTnJmMWV5YWtNMHhMeEd0MmFXenlfTl9jWWRTdnlsTzRDNEF5M1czY1dCTUJFRVVGTENNb05KRFAtTC1vRlBhZnJCYUY2b2VmdWhFenFZbWh4eVRKWUZqbV92Y3hiMDdCUVpyQXJ2T3RPeTdid21tVXhVRDNWYjVZZ0RnUmlya2dwb1R3ZWlnUXBjMm13blk4aE05SDlUb0pWaFNTYTFGaGgxRDRoV1M0SEZWbjZSTC1WZFc3ME1R?oc=5",
-      "publishedAt": "2026-08-07T05:26:19+00:00",
-      "heat": 44
+      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
+      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
+      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
+      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
+      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
+      "publishedAt": "2026-08-07T05:29:00+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-switzerland-s-johan-manzambi-out-for-world-cup-quarterfinal-vs-argentina-the-news-mill",
@@ -128,30 +212,6 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-英媒-欧足联明确继续抵制fifa赛事-中北美多国不再信任因凡蒂诺-直播吧",
-      "title": "英媒：欧足联明确继续抵制FIFA赛事，中北美多国不再信任因凡蒂诺 - 直播吧",
-      "summary": "英媒：欧足联明确继续抵制FIFA赛事，中北美多国不再信任因凡蒂诺  直播吧",
-      "originalTitle": "英媒：欧足联明确继续抵制FIFA赛事，中北美多国不再信任因凡蒂诺 - 直播吧",
-      "originalSummary": "英媒：欧足联明确继续抵制FIFA赛事，中北美多国不再信任因凡蒂诺  直播吧",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9MNHIwT2pRSEZjeEZYN1VETVlxbWEta0MzdDdjN09GelBfVXQzeW51Wkg0RENJejNQa2lwLWxEZzhMd0pjQ0I2am01UHc1d2ZVVTM0c0pwZE14bF93VUdVT3pxNG83dnkyLWdudmM4eGVEdw?oc=5",
-      "publishedAt": "2026-08-07T05:06:18+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mexico-argentina-back-infantino-as-fifa-fight-rages-on-reuters",
-      "title": "墨西哥和阿根廷支持因凡蒂诺，国际足联之争愈演愈烈 - 路透中文网",
-      "summary": "国际足联之争愈演愈烈，墨西哥和阿根廷支持因凡蒂诺 - 路透中文网",
-      "originalTitle": "Mexico, Argentina back Infantino as FIFA fight rages on - Reuters",
-      "originalSummary": "Mexico, Argentina back Infantino as FIFA fight rages on  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
-      "publishedAt": "2026-08-07T05:05:00+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-argentina-vs-cape-verde-stream-fifa-world-cup-2026-match-live-for-free-yahoo-sports",
       "title": "阿根廷对阵佛得角：免费直播 2026 年 FIFA 世界杯比赛 - 雅虎体育",
       "summary": "阿根廷队对阵佛得角队：免费直播 2026 年 FIFA 世界杯比赛 雅虎体育",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTRPSkNXUUJqbXI1eEdVeUxkR0RJcUVzdng4ZFVZcEVudlJGSTJ5ZUI1QUtHUUtVa2N5ajk1WVJqeEtZV0Z4QUxxa1daMTg3TjdrYmJVVm5nb2NabmhuRC0wOXo2Nk9ybVh4dEN3bGFMbGdrU2dHdDF4WnBtN0xweHNVYmx0UQ?oc=5",
       "publishedAt": "2026-08-07T04:52:48+00:00",
       "heat": 68
-    },
-    {
-      "id": "google-新闻-中文-金玟哉世界杯惨败首次坦白-南非之战-连球员们都未能做到-对于下一任教练-必须明确想要踢出的足球-starnewskorea-com",
-      "title": "金玟哉世界杯惨败首次坦白：“南非之战，连球员们都未能做到……对于下一任教练，‘必须明确想要踢出的足球’” - starnewskorea.com",
-      "summary": "金玟哉世界杯惨败首次坦白：“南非之战，连球员们都未能做到……对于下一任教练，‘必须明确想要踢出的足球’”  starnewskorea.com",
-      "originalTitle": "金玟哉世界杯惨败首次坦白：“南非之战，连球员们都未能做到……对于下一任教练，‘必须明确想要踢出的足球’” - starnewskorea.com",
-      "originalSummary": "金玟哉世界杯惨败首次坦白：“南非之战，连球员们都未能做到……对于下一任教练，‘必须明确想要踢出的足球’”  starnewskorea.com",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9EMkxrV0pIOTJaX3ZYQlVDdUJfZkV0RU9yXzBrM1h1ZC10RlhPWF8wYWNUc3dsak9yZ19xXzFMN21haTNtMVZoRjVWdWZualREWkpPenFMd2ZMal9nOUZQUUlBSUtKV2FtbmZVQlRzRndVRnFhMmoybkFB?oc=5",
-      "publishedAt": "2026-08-07T04:43:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bono-theo-al-hilal-friends-become-foes-for-place-in-world-cup-semi-final-spl-com-sa",
-      "title": "博诺和西奥：阿尔希拉尔的朋友们为了世界杯半决赛的席位而成为敌人 - spl.com.sa",
-      "summary": "博诺和西奥：阿尔希拉尔的朋友们为了世界杯半决赛的席位而成为敌人 spl.com.sa",
-      "originalTitle": "Bono & Theo: Al Hilal friends become foes for place in World Cup semi-final - spl.com.sa",
-      "originalSummary": "Bono & Theo: Al Hilal friends become foes for place in World Cup semi-final  spl.com.sa",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNX3JiN3FFU0ZLbnRHcFcwOTJzT2V0RFB4ZlFrNU5OMXhGMlY0LU0taFd5cDJ3YjFaM2hZcWNwZnIyTldsa0I5Y0VzeXNFREF3NnlWZmE5RTE4akpsZVVTZUI1dkt0V2ZYck1GRXB3cHhZY0I1MUh2SEJjSVI0SHRsdFhzSTY4Q0J3VTg0eHdiSnE1cV8zMkJBa1pxYThyZ1hqRlE?oc=5",
-      "publishedAt": "2026-08-07T04:37:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-belgium-defeats-usmnt-4-1-in-round-of-16-at-fifa-world-cup-2026-the-news-mill",
-      "title": "2026 年 FIFA 世界杯 16 强，比利时 4-1 击败 USMNT - The News Mill",
-      "summary": "2026 年 FIFA 世界杯 16 强赛比利时队以 4-1 击败 USMNT The News Mill",
-      "originalTitle": "Belgium defeats USMNT 4-1 in Round of 16 at FIFA World Cup 2026 - The News Mill",
-      "originalSummary": "Belgium defeats USMNT 4-1 in Round of 16 at FIFA World Cup 2026  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWR1c09vUGhEa285S3RIVmFEaW4tVG1UekpDS1lMRGhWVkpXSDhkRkV6RWc2Vm5LMHNLTlRQeGktcTFfVHpXRG9pSFZuT1VnNVVyaHBQS3BMNElqblJ1d0dFOFhCbGxqbTRBLWk3LUhBLTBPc1p5M1QxM0JkR19wb3ZnOW9qNmZKVS1BUkZRYzMxTmJFdDZLaGFjeGM?oc=5",
-      "publishedAt": "2026-08-07T04:12:08+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-morocco-defeats-canada-3-0-to-reach-2026-world-cup-quarterfinals-the-news-mill",
-      "title": "摩洛哥3-0击败加拿大晋级2026年世界杯四分之一决赛 - 新闻中心",
-      "summary": "摩洛哥 3-0 击败加拿大晋级 2026 年世界杯四分之一决赛",
-      "originalTitle": "Morocco Defeats Canada 3-0 to Reach 2026 World Cup Quarterfinals - The News Mill",
-      "originalSummary": "Morocco Defeats Canada 3-0 to Reach 2026 World Cup Quarterfinals  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkdIVzhaMVotc0hpMDg0Y0o1TVI1MzY0cHZ1SVpKTnFwWWlxZmpiQ0I1RnIydkZ1Njc5UTVVZW9JTm02eTFQMFVqekVFOFFwQ3kxM1lCR0c3V21hN1l2N2p4M3lIOHhlX2pJNTN6TUt6cmpiSS02aThKc1E2VmVZS1pLREIxdTU4YWFvUk8wb0RNeWVnOTZobE9JZ3NtLUpxakE?oc=5",
-      "publishedAt": "2026-08-07T03:57:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-belgium-eliminated-from-fifa-world-cup-2026-by-spain-2-1-the-news-mill",
-      "title": "比利时 2-1 被西班牙淘汰出 2026 年世界杯 - The News Mill",
-      "summary": "比利时 2-1 被西班牙淘汰出 2026 年世界杯",
-      "originalTitle": "Belgium Eliminated from FIFA World Cup 2026 by Spain 2-1 - The News Mill",
-      "originalSummary": "Belgium Eliminated from FIFA World Cup 2026 by Spain 2-1  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkV0LXktUC13QVl1OVlQcEQxMlBKOGg2eG9qYVF2Yzlvd2JRODR5enR0bG5JWkU1dHFZeWFlRGE0dGFZWlBVdTROVG5MS1VobGp0NG1wck5GWEs2UXRvN3ZLZ1dxMDkyenh2aUxyT253S2lHUC1Yb20zZkNWelJQcVBVdDUybV9yX1VzeW51bXcwX0FWVFBTVUUtU09oSFF5VVBsLQ?oc=5",
-      "publishedAt": "2026-08-07T03:32:33+00:00",
-      "heat": 60
     }
   ]
 }
