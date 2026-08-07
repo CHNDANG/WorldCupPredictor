@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T18:24:03.756406+00:00",
+  "updatedAt": "2026-08-07T19:31:46.061302+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-president-of-the-argentine-federation-beating-england-is-like-winning-the-world-cup-and-the-match-against-eg",
+      "title": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 - Goal.com",
+      "summary": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 Goal.com",
+      "originalTitle": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us - Goal.com",
+      "originalSummary": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcFNkWVk3UlEtUWIxV2NOSmpSalpaemh2Rm00VG9KY0J1ckM5MTNlbkR3dFZkSGR2Qm1KQW5oN2hkRkltcFlDQ0xzOGhDdWxTbTdOY3NHOHBNSERsaXZ2VjJTamFoX1l1RFpSd1FoMG53aFJqVTNWVmEwelp0X2xoMG9oX1Q3NHNGbFUxN1FmVXNpWHRhNldGX0duS3hQZmhjRk9LTk5uZ2ttczlXM0VobGhxVVhHbmJ3Sk9GMm1LU05vT191aFJ0S3VkQzVSX08zQTcteTEzU3hUUVJCMlcyNmdqandFN2lLVWZnMm5XY1FkZjlxeUhKNHdsM3VnbmdCOU44MVFoWk9RVnlT?oc=5",
+      "publishedAt": "2026-08-07T18:39:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-undercover-operation-recovers-97-human-trafficking-victims-in-nj-during-world-cup-wdha-fm",
+      "title": "世界杯期间新泽西州卧底行动成功救回 97 名人口贩卖受害者 - WDHA FM",
+      "summary": "世界杯期间，卧底行动在新泽西州救回了 97 名人口贩卖受害者 WDHA FM",
+      "originalTitle": "Undercover Operation Recovers 97 Human Trafficking Victims in NJ During World Cup - WDHA FM",
+      "originalSummary": "Undercover Operation Recovers 97 Human Trafficking Victims in NJ During World Cup  WDHA FM",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVJsd1lLdXRwc1ZUZ3ozTnNRR0pFdHlfVlBydEdQWWVOVEFOUEZteWt5ZlpBSkk1VkRIMExRZ1BFb2pOSTJVbGZiZHM5M0UySG4yRzhJQjFZNXlVMERfSF93bzBwMll5NUIyZm82NkZIWmNFaHYzTGpSd2x1Vm8xbkpkTmMzanNjMVBGRExhTDRrU3BKbDlPWE9wRmVINWhYeElRRG5tUndBS3pBRGtwM0hR?oc=5",
+      "publishedAt": "2026-08-07T18:38:03+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-beyond-the-pitch-measuring-the-2026-world-cup-s-brand-impact-kantar",
+      "title": "球场之外：衡量 2026 年世界杯的品牌影响 - Kantar",
+      "summary": "球场之外：衡量 2026 年世界杯的品牌影响 Kantar",
+      "originalTitle": "Beyond the pitch: Measuring the 2026 World Cup's brand impact - Kantar",
+      "originalSummary": "Beyond the pitch: Measuring the 2026 World Cup's brand impact  Kantar",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WMkNZTUVVckhRel9DOHo4TjlFX1hKZVRiZGdZa1ZNMFU4dGJ1N0FXS1U0T2UtWW5XZndrOUFsb1FSaW9WaVVqN0JhdDRady1kVU16MXZCYWVGT3hQN2tzVWpWUDRrZS1lSzZDdHpfM2pXWGFyWmZaTFNLSm9Rdw?oc=5",
+      "publishedAt": "2026-08-07T17:39:38+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-reporter-s-notebook-a-hockey-fan-s-world-cup-highlandscurrent-org",
       "title": "记者笔记本：冰球迷的世界杯 - highlandscurrent.org",
@@ -32,16 +68,64 @@
       "heat": 52
     },
     {
-      "id": "google-news-goals-per-match-canada-stats-for-fifa-world-cup-2026-fotmob-com",
-      "title": "每场比赛进球数 - 2026 年 FIFA 世界杯加拿大统计数据 - fotmob.com",
-      "summary": "每场比赛进球数 - 2026 年 FIFA 世界杯加拿大统计数据 fotmob.com",
-      "originalTitle": "Goals per match - Canada stats for FIFA World Cup 2026 - fotmob.com",
-      "originalSummary": "Goals per match - Canada stats for FIFA World Cup 2026  fotmob.com",
+      "id": "google-新闻-中文-助攻-bundesliga2025-2026的borussia-dortmund数据-fotmob",
+      "title": "助攻 — Bundesliga2025/2026的Borussia Dortmund数据 - FotMob",
+      "summary": "助攻 — Bundesliga2025/2026的Borussia Dortmund数据  FotMob",
+      "originalTitle": "助攻 — Bundesliga2025/2026的Borussia Dortmund数据 - FotMob",
+      "originalSummary": "助攻 — Bundesliga2025/2026的Borussia Dortmund数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV0dVREw2NmxiZ2pLME5FNTkzZmFyaUJrNmF6SjZXSDVXQnJtbktVOTlMYlJVSEluaXFhcGc5R3NSVGdGWm5wbTJRc0ZYWW82YTNpNnpqWGxLcW5TRDNEUDkzUktrZnk0MmZ4dkNWa1VnY254RHpHZFNIRWRhOXZHSzJoTGtKRzhzSU9MazZHMXBFWWNJQW5wVnhENi1vczFhZ1BnRzJjVVhDOGZidFIweUln?oc=5",
+      "publishedAt": "2026-08-07T17:16:28+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-goals-per-90-senegal-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "每 90 粒进球 - 塞内加尔 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "summary": "每 90 球进球 - 塞内加尔 2026 年 FIFA 世界杯统计 FotMob",
+      "originalTitle": "Goals per 90 - Senegal stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Goals per 90 - Senegal stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPSWNWdGNRaTJZY2xmMFVCUW1fYnVTMy1FWlM2T1F2ODc0aHY2anhGTjZTUVlfOXo1LXctLWhhZ3ZjdVE3bnlwQkRBaWNRTFFrMm9vQm4xV1dpbkF4T0pVRFdLYUxOY2F5WFRfRzljUmlWNUhoYlZ0STl4WWd4SHU1OFU2VGM1dnRTSzN5UGZKNFNROU1DbG0ySWZWSGJJQQ?oc=5",
+      "publishedAt": "2026-08-07T17:13:51+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-goals-per-match-canada-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "每场比赛进球数 - 2026 年 FIFA 世界杯加拿大统计数据 - FotMob",
+      "summary": "每场比赛进球 - 加拿大 2026 年 FIFA 世界杯统计 FotMob",
+      "originalTitle": "Goals per match - Canada stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Goals per match - Canada stats for FIFA World Cup 2026  FotMob",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONXJDeDVsUkR5cUtZSlI2NUI2eWRabGFKZFJnTTZCN2htWEo2c3ViS2s1dHdBMnNGNi1PaWhUWDJ2Rm1mbl9WWk5DeTFYMmpoa0hUdF9BUTcxYjJvdjE2YTJjbFpXSkRjM29xVkFSQWNPZU8yNWg5TV9IWjFXSmJHbGY1cE8xVDZ0cWUtaGlRZGtFV1JtSnBHb3Ewak52LTBwRXVzNUQ0Mjg0UEh6OXpCeGZoLUIwUnVlUDF3cG43clgzcGdBRDJsdHpXOTFRQQ?oc=5",
       "publishedAt": "2026-08-07T16:35:14+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-spain-world-cup-2026-la-roja-crowned-champions-squawka",
+      "title": "2026 年西班牙世界杯：La Roja 加冕冠军 - Squawka",
+      "summary": "2026 年西班牙世界杯：La Roja 加冕冠军 Squawka",
+      "originalTitle": "Spain World Cup 2026: La Roja crowned champions - Squawka",
+      "originalSummary": "Spain World Cup 2026: La Roja crowned champions  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0RUN3VsMVI4VFFiMFJlMWpGSDFrUkw0aS02YVJOdGY2OEV3SWlPX1RxY1psb0RSaC1CdjhRdS1MdnIzYXZmUWs4bjJCUm56YlhsVmNJUkozLTZEWHhKVDUteE13NzljamFyTVpHWVl5elcyUlRrSnVVaEs5dFJ1ME41WEFGdzdCUGw0WHNhckxvdw?oc=5",
+      "publishedAt": "2026-08-07T16:29:36+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-hospitality-program-scores-record-breaking-demand-ticketnews",
+      "title": "2026 年 FIFA 世界杯接待计划需求量破纪录 - TicketNews",
+      "summary": "2026 年 FIFA 世界杯接待计划需求量破纪录 TicketNews",
+      "originalTitle": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand - TicketNews",
+      "originalSummary": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHdUZmo4WnFHbFVXV19fSy0yTWFuOTl2QUFvTmRJZERUV253LVBmZFp1RnZfUkZpSldETW5pNmxxQWhrNG5ZMGxzOXRzc1JFVlM1V3FFdGljazhpNExUdUNyenlNSG8zeUlPTFRORkRrZERJdTl6NjJ5QkRXZUh3ZUJVbmVSLXNrNkpRZkNZWkk3dw?oc=5",
+      "publishedAt": "2026-08-07T16:20:47+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-morocco-becomes-first-team-to-reach-fifa-world-cup-2026-quarter-finals-with-3-0-win-over-canada-the-news-mil",
@@ -116,15 +200,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-how-america-s-greatest-stadiums-were-transformed-for-world-cup-usatoday-com",
-      "title": "美国最伟大的体育场如何为世界杯进行改造 - usatoday.com",
-      "summary": "美国最伟大的体育场如何为世界杯进行改造 usatoday.com",
-      "originalTitle": "How America's greatest stadiums were transformed for World Cup - usatoday.com",
-      "originalSummary": "How America's greatest stadiums were transformed for World Cup  usatoday.com",
+      "id": "google-news-how-the-kansas-city-chiefs-have-helped-soccer-and-fifa-build-a-fanbase-in-the-usa-yardbarker",
+      "title": "堪萨斯城酋长队如何帮助足球和国际足联在美国建立球迷基础 - Yardbarker",
+      "summary": "堪萨斯城酋长队如何帮助足球和国际足联在美国建立球迷基础 Yardbarker",
+      "originalTitle": "How the Kansas City Chiefs have helped soccer and FIFA build a fanbase in the USA - Yardbarker",
+      "originalSummary": "How the Kansas City Chiefs have helped soccer and FIFA build a fanbase in the USA  Yardbarker",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQc3RGMDNrbElPRnRTc0piR3ZaendZWEdZUXB1NC0wLXhZMnJzVEFUckdMRnQ0UDMyM0ZjZ0ltbElQdk1WbkNLZkhEMjhya01vcVdOT3VrTTFrZmlaOWEzejQtLWJZYWk0dFp3bmZTa2N6ZV9kdTFRXy12LVQ2TlliV2paN2hhdUdKT2MzUlZSVU5HTlJ4NW53WFcwQUZLVlRyR1g2WFZ3TC13NlZyQWNB?oc=5",
-      "publishedAt": "2026-08-07T14:46:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQOUJ3V2VZMEQ1T00xVHlVTkxRbDVBSHR0cENicHZqak5JZTFWb3g2eU96T0lVelFmbDBsZnJMc0paMEhRdmhyZjlUcW9STGNVaG1xenFRU3pJNGdZaGVtR1VURktPMmFOc3dScGl3QzIydXVhamFmQ21pRHRVbW9xSzBvZmdfWjRiNUlTTTBJR29FWXhVR1JnSW16VUtZWnVrdnh3SVdWejhpdEZuaW1FSVhBSExHUFJYUW1Fd2I3OUpaMEtoQXJ6eWtUU2duZjhzRW5zLVNn?oc=5",
+      "publishedAt": "2026-08-07T14:40:22+00:00",
       "heat": 52
     },
     {
@@ -138,90 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlpLZ250REgxOUFOWXRhUlV0cDE2X2s1SzZ6MGRmenJsVV9HbFc1dFZKV2FVcDVyMzNmbnRuVnB3ZWlic3NIVXc2bmVjN0Jsc3dMM0xyTm11aEFvaDNOTWg5MGNrX0lzUHFHVS1xTEk0Tm5Mb0thN2x1d3ZlVlppbjV5VFVfaU9NaTVkZjBvS1V5Tm9yZ0c1ZWxIUEp1WUlqUWpqdGxQRGIwUm9QbHpXZnozVmRNd3lvM3pBdGUwcnp2bWw4MUHSAcwBQVVfeXFMTnk2U2owYm9weE9Ka2JCeS0zQnc5OUdPYTdvczF5d2IxX0ZXb2FqRkVSdHJrbnVKWk9aVFFQaXNINjFtc05mYmY4TEVrMThyN0RvcWFSVGNsc1dtUFpvYVB4NEdKUU1rTEV3Ylo5NlREOGxaU0EtdEJWVFpmQ3pBZV90aEFPSEpkYlY4OXBwNUFMRkp0T3BsSkRlYmNfUkd2RTgxcTZDUUJDR2lsQXZ4Y0JYeHp3UDd6UnZDTDNTd1cwYV9YaFVHNzRBZEJw?oc=5",
       "publishedAt": "2026-08-07T14:37:28+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-mexico-advances-to-fifa-world-cup-2026-round-of-16-with-2-0-win-the-news-mill",
-      "title": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强 - The News Mill",
-      "summary": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强",
-      "originalTitle": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win - The News Mill",
-      "originalSummary": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlBZWHhnZmJnTWdHQzhoWmVpNlNWaWR6VU5fenpoVUo5U2xySVktSXhYcFZWcXZKblZYYzZuUlcwY3RVVzVUMWNzcl9IWUNGb3V4TVhVSXYtZUowNDBOSDlvV2RtdHBDdnFNdEFDcS1oY1h3QmlzY0JDLTZqNjhtOGJELTg1TUNLbkhFRXRYc3dncjlwS0hYUVo2NEVmZw?oc=5",
-      "publishedAt": "2026-08-07T14:32:13+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-declares-national-holiday-for-2026-world-cup-campaign-the-news-mill",
-      "title": "阿根廷宣布 2026 年世界杯全国放假 - The News Mill",
-      "summary": "阿根廷宣布 2026 年世界杯全国放假 - The News Mill",
-      "originalTitle": "Argentina Declares National Holiday for 2026 World Cup Campaign - The News Mill",
-      "originalSummary": "Argentina Declares National Holiday for 2026 World Cup Campaign  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTVJpX19Dc3c4SDZ4QmZzRFZHajV4QW1qQ21FMGx0UjVvVmVkUEtybkdBRElWc0hnSUNpYWFvVGdMcnFZVnNfVllsdEk0NExwR1RQUjdzb1NuY1ZIamVxV3pWMlRIeXFvLUtQUzdIemt2VmIzQnh1anVyRlJRVlFkYnRYMkFPNk52VEZSVTZsMjZvT2JSVFlCd25MdGEzSWM?oc=5",
-      "publishedAt": "2026-08-07T14:22:17+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-morocco-sends-120-athletes-to-2026-mediterranean-games-in-taranto-morocco-world-news",
-      "title": "摩洛哥派出 120 名运动员参加 2026 年塔兰托地中海运动会 - 摩洛哥世界新闻",
-      "summary": "摩洛哥派出 120 名运动员参加 2026 年塔兰托地中海运动会 摩洛哥世界新闻",
-      "originalTitle": "Morocco Sends 120 Athletes to 2026 Mediterranean Games in Taranto - Morocco World News",
-      "originalSummary": "Morocco Sends 120 Athletes to 2026 Mediterranean Games in Taranto  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTdBYXBZQmN0S0VUelJnajhrTVh1aU9YM3VIcWpFbGxTaUlENUR6VWtWYkJya3hZZDB2UU9SQVFJUkU5U3RadnVKZUthZ0tZRkJVRkJLWDBJTW9tWUZZM2RIVVdLcmZtMVUyd0FHMUxjUmpSNnJkMGk2OHhrT0Z4THNKY0ZvaGNCdUp3YVNlTFR0MHRQcEQ5TlR1ZWhrMC00ejl0ZjVlNktWaDhRODV5RDNZSGQ?oc=5",
-      "publishedAt": "2026-08-07T14:15:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
-      "publishedAt": "2026-08-07T14:02:04+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-获得点球-serie-a2026的botafogo-rj数据-fotmob",
-      "title": "获得点球 — Serie A2026的Botafogo RJ数据 - FotMob",
-      "summary": "获得点球 — Serie A2026的Botafogo RJ数据  FotMob",
-      "originalTitle": "获得点球 — Serie A2026的Botafogo RJ数据 - FotMob",
-      "originalSummary": "获得点球 — Serie A2026的Botafogo RJ数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNQmNLSDJUNHdyeWRhNVA1cGRMOXMxSmxpbHhqS0pIY3VhVXJRTlg0NjN2X3p2bGVLa05zeFp0U2JPRlFYUWFWSlFNVE9MOVNtM3hqQnZpakhtVzY2QzZtWlNOdXBkZWZiMTMwLTNzVmNHLW5Lb1JtZTZ1WVBfc1BHNVJvZ2ZYVTFXam56WGVVNmI3MXdpbVM1WXZDZmdzV3dKa0NQODN2U1FyNk9tRlhOaTBBNlptUWFMZUVyc1QzTHVibUlf?oc=5",
-      "publishedAt": "2026-08-07T13:55:14+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-world-cup-2026-which-countries-have-changed-managers-world-soccer-talk",
-      "title": "2026 年世界杯：哪些国家更换了主帅？ - 世界足球讲座",
-      "summary": "2026 年世界杯：哪些国家更换了主帅？  世界足球讲座",
-      "originalTitle": "World Cup 2026: Which countries have changed managers? - World Soccer Talk",
-      "originalSummary": "World Cup 2026: Which countries have changed managers?  World Soccer Talk",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZDFHWE1UeHZPSWNnWWZnbjhXbWhFSThOUGx5T3RzbVBNQnlLMnFVbWdxaUJjUzBkbjJCTEJiUmRtTldGVFFFRHZpR1pKWC1BeVI3ajRVRUNMWGEzY1lBZllRZ0hnSHBlcjNETk5FdHd5YTZONnJZQ3pZUjJuT0x1ZU5fXzZ1dVY1SUZJVVVwQWo3OGhmR0HSAZoBQVVfeXFMT1BLZzFVbUF6ejNRWDRsT3NPUFhNa0dienpDUWZ3S3A5ZkhJOTBHQU9wV2dqaHk4MlZUd1N0NnMxQlhhYmI5OHJyS2NYNWIweUpuUmpuYnYzblBoZWpnVlUwdXJDYVlLOTZ3U2hIVVJVS1BVQlI3SkdYaVo4ZWNqdkkzdWx0NTFDS2Y4NkU4NHU1MEFlSnhzX0U1QQ?oc=5",
-      "publishedAt": "2026-08-07T13:51:56+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-the-2026-fifa-world-cup-changed-us-hotel-markets-by-thomas-a-hazinski-hotel-news-resource",
-      "title": "2026 年 FIFA 世界杯如何改变美国酒店市场 - 作者：Thomas A. Hazinski - 酒店新闻资源",
-      "summary": "2026 年 FIFA 世界杯如何改变美国酒店市场 - 作者：Thomas A. Hazinski 酒店新闻资源",
-      "originalTitle": "How the 2026 FIFA World Cup Changed US Hotel Markets - By Thomas A. Hazinski - Hotel News Resource",
-      "originalSummary": "How the 2026 FIFA World Cup Changed US Hotel Markets - By Thomas A. Hazinski  Hotel News Resource",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4yZlM1QjVpcWRhWS1aWndGcWNVOERScV8tdTF2ejRiY3AyeGp5TW1HZl9mcFdTM2xFZHlhQkhhOVV3TU1ETlFrNEVWR3dENjgzazZEQVpiQ2pmU2VwdVlhTnNn?oc=5",
-      "publishedAt": "2026-08-07T13:47:07+00:00",
-      "heat": 60
     }
   ]
 }
