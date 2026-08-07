@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T13:51:59.154867+00:00",
+  "updatedAt": "2026-08-07T14:57:56.549932+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-england-s-world-cup-star-charged-with-assault-at-nightclub-the-indian-express",
+      "title": "英格兰世界杯球星被指控在夜总会袭击 - 印度快报",
+      "summary": "英格兰世界杯球星被指控在夜总会袭击 - 印度快报",
+      "originalTitle": "England’s World Cup star charged with assault at nightclub - The Indian Express",
+      "originalSummary": "England’s World Cup star charged with assault at nightclub  The Indian Express",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONlpLZ250REgxOUFOWXRhUlV0cDE2X2s1SzZ6MGRmenJsVV9HbFc1dFZKV2FVcDVyMzNmbnRuVnB3ZWlic3NIVXc2bmVjN0Jsc3dMM0xyTm11aEFvaDNOTWg5MGNrX0lzUHFHVS1xTEk0Tm5Mb0thN2x1d3ZlVlppbjV5VFVfaU9NaTVkZjBvS1V5Tm9yZ0c1ZWxIUEp1WUlqUWpqdGxQRGIwUm9QbHpXZnozVmRNd3lvM3pBdGUwcnp2bWw4MUHSAcwBQVVfeXFMTnk2U2owYm9weE9Ka2JCeS0zQnc5OUdPYTdvczF5d2IxX0ZXb2FqRkVSdHJrbnVKWk9aVFFQaXNINjFtc05mYmY4TEVrMThyN0RvcWFSVGNsc1dtUFpvYVB4NEdKUU1rTEV3Ylo5NlREOGxaU0EtdEJWVFpmQ3pBZV90aEFPSEpkYlY4OXBwNUFMRkp0T3BsSkRlYmNfUkd2RTgxcTZDUUJDR2lsQXZ4Y0JYeHp3UDd6UnZDTDNTd1cwYV9YaFVHNzRBZEJw?oc=5",
+      "publishedAt": "2026-08-07T14:37:28+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-sends-120-athletes-to-2026-mediterranean-games-in-taranto-morocco-world-news",
+      "title": "摩洛哥派出 120 名运动员参加 2026 年塔兰托地中海运动会 - 摩洛哥世界新闻",
+      "summary": "摩洛哥派出 120 名运动员参加 2026 年塔兰托地中海运动会 摩洛哥世界新闻",
+      "originalTitle": "Morocco Sends 120 Athletes to 2026 Mediterranean Games in Taranto - Morocco World News",
+      "originalSummary": "Morocco Sends 120 Athletes to 2026 Mediterranean Games in Taranto  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYTdBYXBZQmN0S0VUelJnajhrTVh1aU9YM3VIcWpFbGxTaUlENUR6VWtWYkJya3hZZDB2UU9SQVFJUkU5U3RadnVKZUthZ0tZRkJVRkJLWDBJTW9tWUZZM2RIVVdLcmZtMVUyd0FHMUxjUmpSNnJkMGk2OHhrT0Z4THNKY0ZvaGNCdUp3YVNlTFR0MHRQcEQ5TlR1ZWhrMC00ejl0ZjVlNktWaDhRODV5RDNZSGQ?oc=5",
+      "publishedAt": "2026-08-07T14:15:00+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-argentina-back-infantino-and-close-in-on-world-cup-2030-perk-in-return-the-sun-com",
       "title": "阿根廷队回归因凡蒂诺，有望获得 2030 年世界杯的回报 - the-sun.com",
@@ -20,8 +44,20 @@
       "heat": 52
     },
     {
+      "id": "google-news-argentina-to-base-team-in-kansas-city-for-fifa-world-cup-2026-the-news-mill",
+      "title": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯 - The News Mill",
+      "summary": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯",
+      "originalTitle": "Argentina to base team in Kansas City for FIFA World Cup 2026 - The News Mill",
+      "originalSummary": "Argentina to base team in Kansas City for FIFA World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcmhsT0dheUlqUzRWT0o2MnAxbFVaT05nYWxfOEtIZ29tZGF0NHEzaTRxTFExX3BvNDZHU2NWN0FDbnZ2ak1EVVh2UjBYX1ZyblVKN0RSVU4zODdjcGEyXy1nekhjeS1lU0huTnZpOHRMclJENjZfWl9lcGtRQ2dia0kzWm9zYjVuek5vMHNzWFkyWkd0MEJyWlhB?oc=5",
+      "publishedAt": "2026-08-07T13:17:12+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-messi-suicide-bomb-ronaldo-hotel-alert-as-world-cup-threats-leaked-in-dossier-the-sun",
-      "title": "梅西自杀式炸弹和罗纳尔多酒店警报因世界杯威胁在档案中泄露 - 太阳报",
+      "title": "世界杯威胁在档案中泄露，梅西自杀式炸弹和罗纳尔多酒店警报 - 太阳报",
       "summary": "世界杯威胁在档案中泄露，梅西自杀式炸弹和罗纳尔多酒店警报",
       "originalTitle": "Messi suicide bomb & Ronaldo hotel alert as World Cup threats leaked in dossier - The Sun",
       "originalSummary": "Messi suicide bomb & Ronaldo hotel alert as World Cup threats leaked in dossier  The Sun",
@@ -40,13 +76,37 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJHSE43allxQ3RFSklaZ9IBuwFBVV95cUxPODZWYzZZY1N0SXo4cTVNTlVQUExFempXNGtLMEpKcXJ6SnJfeUNnMlRRUUsxNUdXYUEyV2hwdnNiY2FHMllha09CR1lDbnpoR0FFcUhSZ2h4RXVaR24xOC14NVZfZjNLaTFUMEd0VlRlelB2YWhCeVhER0lvelV2blhXZzgyU2YtTXJLVE1mUDk0ZUlheEtQZEVxNjBXNkwxWWVQNjJ4UldDeEREQ0FuUnNET0pzUGJWdVpN?oc=5",
-      "publishedAt": "2026-08-07T12:30:49+00:00",
+      "publishedAt": "2026-08-07T12:42:40+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-usa-sets-record-for-highest-world-cup-attendance-in-history-at-8-million-the-news-mill",
+      "title": "美国队创下世界杯入场人数800万的历史最高记录 - The News Mill",
+      "summary": "美国队创下世界杯入场人数 800 万人次的历史最高纪录 The News Mill",
+      "originalTitle": "USA sets record for highest World Cup attendance in history at 8 million - The News Mill",
+      "originalSummary": "USA sets record for highest World Cup attendance in history at 8 million  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnpQWTRfUUlwOXg3eUxLN04xa09kdFVFN0hzS2NtOGc0XzNQNGp0TXpWLXpTWENnU3hSRURYdVh2LUN0WjRuRW1na2E5VnFrQ2xrZHdVMW5Lc1o1eDZWOTBZWHBPamJTeml5YzRhbGRnWlVhcVE5U1F5XzdFTVhpeEVOaEZDRlE2Q0tFZlVVTDFQMFdEY2VzdENaVUxyeFpIYnczM0lIVnA?oc=5",
+      "publishedAt": "2026-08-07T12:23:16+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-germany-at-the-2026-fifa-world-cup-full-coverage-bavarianfootballworks-com",
+      "title": "德国队参加 2026 年 FIFA 世界杯 — 全程报道 - bavarianfootballworks.com",
+      "summary": "德国队参加 2026 年 FIFA 世界杯 — 全面报道 bavarianfootballworks.com",
+      "originalTitle": "Germany at the 2026 FIFA World Cup — Full Coverage - bavarianfootballworks.com",
+      "originalSummary": "Germany at the 2026 FIFA World Cup — Full Coverage  bavarianfootballworks.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZqbVJWSmFpemlXQU5xQnlNSkEzRnNCT3I1VWZEbmhEWElvRmUtOVpTY2E4YTdBSGFTWFBiTHk3Y2s3ekhaaEd3Q05tUHFXQXNoakVWbzJPaDY3M1hQYkxIempaR1ZSRjFBZF9WWFNTZTdvR3Fkb3J3YkpSU0NUVEZFMUd2a19fTkJ5TlVVMm9MTFBaX0dQQTgzMDdYdlF4UmEzbEIyVXY4UTJfa1hEZjBIbjJpVnRNUDJyZWN0SQ?oc=5",
+      "publishedAt": "2026-08-07T12:22:26+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-diego-forlan-becomes-uruguay-coach-after-team-s-disastrous-fifa-world-cup-2026-campaign-the-new-indian-expre",
       "title": "乌拉圭 2026 年世界杯惨败后，迭戈·弗兰出任乌拉圭主帅",
-      "summary": "乌拉圭队在 2026 年 FIFA 世界杯上惨败后，迭戈·弗兰 (Diego Forlan) 出任乌拉圭队主教练 - 新印度快报",
+      "summary": "乌拉圭队 2026 年世界杯惨败后，迭戈·弗兰成为乌拉圭队主帅 - 新印度快报",
       "originalTitle": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign - The New Indian Express",
       "originalSummary": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign  The New Indian Express",
       "translation": "online",
@@ -70,7 +130,7 @@
     {
       "id": "google-news-fifa-world-cup-2026-generates-14-3-million-ai-prompts-as-fan-engagement-shifts-to-llms-adgully-com",
       "title": "随着球迷参与度转向法学硕士，2026 年 FIFA 世界杯生成了 1,430 万条 AI 提示 - Adgully.com",
-      "summary": "随着球迷参与度转向法学硕士，2026 年 FIFA 世界杯生成了 1,430 万条 AI 提示 Adgully.com",
+      "summary": "随着球迷参与度转向法学硕士，2026 年 FIFA 世界杯生成了 1430 万条 AI 提示 Adgully.com",
       "originalTitle": "FIFA World Cup 2026 generates 14.3 million AI prompts as fan engagement shifts to LLMs - Adgully.com",
       "originalSummary": "FIFA World Cup 2026 generates 14.3 million AI prompts as fan engagement shifts to LLMs  Adgully.com",
       "translation": "online",
@@ -90,6 +150,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXAxTGxuVVNZM2FiWmdjeXZ0LXlyRUVBay04M21ObF9fMzRVUjgxOHd5akdSdHI5N3NvZlllaWtYa2lHMEpJWjk4bEYyUHZibnVYNi1kMk4tU3pnSktLWXNKbWZjZUxsd05oeVc5OV9ybGI3dzgzSHFBVjRXanFHMk13U1QwamxPR1RDVFNaTFJVUjFuTEhiSXBqUmt6Y1Y0NGdfa192aEtGSkN0TGk3REo5b2d6eXN3?oc=5",
       "publishedAt": "2026-08-07T11:42:22+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-photos-2026-world-cup-draw-at-the-kennedy-center-in-washington-d-c-ajc-com",
+      "title": "照片：2026 年世界杯抽签仪式在华盛顿特区肯尼迪中心举行 - AJC.com",
+      "summary": "照片：2026 年世界杯抽签仪式在华盛顿特区肯尼迪中心举行 AJC.com",
+      "originalTitle": "Photos: 2026 World Cup draw at the Kennedy Center in Washington, D.C. - AJC.com",
+      "originalSummary": "Photos: 2026 World Cup draw at the Kennedy Center in Washington, D.C.  AJC.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm5fUkpjRVp1Mm9qdngzc0Zpb0FEd29ucklKMFpwSTZLR2dVMkplRkRSbmpwOEVSMXNQS1RSblVWSXUtZWpwTWs1Y2o2QUNwN3A4a3BXNFNJZVBVb0E4alZYVWlrWU4yRGhnYXFlY0ZuR1BxWDVVc0NGX3gwOXZwdXdDbERjTVpIU0pNblZQQUc0U2owTjlxTTFHZjRjX1ZxYjdtOUc1THd2bVR1dlE?oc=5",
+      "publishedAt": "2026-08-07T11:39:54+00:00",
+      "heat": 52
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tb3B4cVpkY0xhYUVpVGdRNGpVSVd2bW9yeHJtZWFQVEZpdGxjYjdPamRKbWF1My1pVkNPdTkzLXhjOUhqWjRiQ3FRRmFSVzVnb3p6Nm5oYjdLRS1DOXlfcWdWV0s0YTZneDBuVlRGQVBsZDVJcVNkTVc1MHpTWVXSAZMBQVVfeXFMTWdwM0RPMndoZVRoUTRkSndIazlrVy1nWkRtczh2Y1NqeVpkc1kzbnFra2JtX21fbF80RHF4N3FYdUhudG54cFR4UlJtZUJNOUVJQVZGQzBoQTQ2SEZlUXBBT2R2LTBodHhWby1sMV9LTlY2UlZjaXlNS3VfQngwMElnd1czLWJHQkxvcHlHanptMklN?oc=5",
       "publishedAt": "2026-08-07T10:40:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-infantino-allies-rally-as-norway-fa-chief-demands-fifa-president-s-resignation-reuters",
-      "title": "因凡蒂诺盟友集会，挪威足协主席要求国际足联主席辞职 - 路透中文网",
-      "summary": "挪威足协主席要求国际足联主席辞职 因凡蒂诺盟友集会 路透",
-      "originalTitle": "Infantino allies rally as Norway FA chief demands FIFA president's resignation - Reuters",
-      "originalSummary": "Infantino allies rally as Norway FA chief demands FIFA president's resignation  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
-      "publishedAt": "2026-08-07T10:30:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-2026-cup-delivers-major-boost-to-rté-adworld-ie",
-      "title": "2026 年 FIFA 世界杯为 RTÉ 带来重大推动 - AdWorld.ie",
-      "summary": "2026 年 FIFA 世界杯为 RTÉ AdWorld.ie 带来重大推动",
-      "originalTitle": "FIFA World 2026 Cup Delivers Major Boost to RTÉ - AdWorld.ie",
-      "originalSummary": "FIFA World 2026 Cup Delivers Major Boost to RTÉ  AdWorld.ie",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUFiRjNKNGpKV01vU09PcldyVXUxOTdScUdQY3YtSnNQWmVpS0NVQmUyT2t4amhMR2pvQkhmb21fa2FUR2hMc0lWd3hRbGVUYUhGMHZ2WlN0MzBfX255LXo2NHRIaXVaR1RlcTl2dldEbGxvWFFXbDl1dGtlcHZzQ2ZjbndqWGRHOEE?oc=5",
-      "publishedAt": "2026-08-07T10:29:25+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-england-s-fifa-world-cup-star-charged-with-assault-after-nightclub-incident-ndtv-sports",
-      "title": "英格兰世界杯球星在夜总会事件后被指控袭击 - NDTV Sports",
-      "summary": "英格兰 FIFA 世界杯球星在夜总会事件后被指控袭击 NDTV Sports",
-      "originalTitle": "England's FIFA World Cup Star Charged With Assault After Nightclub Incident - NDTV Sports",
-      "originalSummary": "England's FIFA World Cup Star Charged With Assault After Nightclub Incident  NDTV Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNanFjcnl2UmtqVjFvdzhGSXVuTkdaV0Z0SHEwaUkyd2V6bzR1N0NWd1lfeWpwenJUeV9uWTF0RENvUWlWV3daY0lpamNEWW4wc1BrS243TFRrcHRTbUFXdmNSc3plOG5XcUs2dEoxMGh5Mk9iQnJ5WUV1dHNQLWpobXBPYUhNNlA0RTZJeEJfMk1RZ1QxdjBfVkR4eHBfSDIzZkNiWUMxRWR1dXd6cFcyQTQ2YldkSUdrS3JoaUp5MkQ1Q09vSnc?oc=5",
-      "publishedAt": "2026-08-07T10:27:24+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-yellow-cards-egypt-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "黄牌 - 埃及 2026 年世界杯统计数据 - FotMob",
-      "summary": "黄牌 - 2026 年 FIFA 世界杯埃及统计 FotMob",
-      "originalTitle": "Yellow cards - Egypt stats for FIFA World Cup 2026 - FotMob",
-      "originalSummary": "Yellow cards - Egypt stats for FIFA World Cup 2026  FotMob",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNdmtXR2VZamI0TFMxNTVNN24yVTJlS09CMTg1OVNHZ1p3S2pWZmQ1bjVXTnFueHd6RjlUcDQzbUpVejJUZTRIQUpVZV9BNURXUHdOc0tvOUQzRWw1ejBkNDdIbDROU1ZNNzdxN1BreG4wYmxHbV9wNkdpSldlbDRTaTE2Q2xOdFg1MmJ1aTFrdHNzd1dvNE1PVEJwbjhYLXRzRmYyWDZ1dWlUN1M2cFJMVHIwYXJLVU12TUk2djlJeXZXOWc5OHpYNWlyWGk0b3dVMnJvNUpmcFJhVWcwVWJ1WmQ0SmZnWm9pZWhPYl80YUNuMGlFZDNXcWx4NHA?oc=5",
-      "publishedAt": "2026-08-07T10:22:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-big-chances-ghana-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "巨大的机会 - 加纳 2026 年世界杯统计数据 - FotMob",
-      "summary": "巨大的机会 - 加纳 2026 年 FIFA 世界杯统计数据 FotMob",
-      "originalTitle": "Big chances - Ghana stats for FIFA World Cup 2026 - FotMob",
-      "originalSummary": "Big chances - Ghana stats for FIFA World Cup 2026  FotMob",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEkwNk03dWp4WW9XeXo5VjdqOFh5NmR1by1hdUN4c3BrWkhjVHFTb1VLR1dmQVJwckQ2RHphbGozVXRhTGVabGZqUDN6aGtveDJHZDVBYk82R3VwMkRfcnc2ZGl6emtxcGljdjcwOG90Sm5rb2pSSU9ZZ0dyNHF2THJ4NXowZmI4NlVNNmtOeVF0YndGcVMzN0R4MEtZaVlpYXBrQ2pQUXRMVEkxYUwyY25vRnlFN3ZxdFRFdUlR?oc=5",
-      "publishedAt": "2026-08-07T10:19:43+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-国际足联要卖掉世界杯-因凡蒂诺为什么突然认输了-懂球帝",
-      "title": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？ - 懂球帝",
-      "summary": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？  懂球帝",
-      "originalTitle": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？ - 懂球帝",
-      "originalSummary": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？  懂球帝",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VelBKTlpPQTFoTF9RWUJ0eURwNXFYd0NON0xJNDRlSlBZc241SUt3eHRSVk5vdV9iMG1hMVVCRmtuMFNlUWtjaGxnNGlLdHc3SmxiTHBGMA?oc=5",
-      "publishedAt": "2026-08-07T10:17:43+00:00",
       "heat": 52
     }
   ]
