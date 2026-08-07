@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T12:10:46.418544+00:00",
+  "updatedAt": "2026-08-07T13:51:59.154867+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,12 +8,60 @@
   ],
   "articles": [
     {
+      "id": "google-news-argentina-back-infantino-and-close-in-on-world-cup-2030-perk-in-return-the-sun-com",
+      "title": "阿根廷队回归因凡蒂诺，有望获得 2030 年世界杯的回报 - the-sun.com",
+      "summary": "阿根廷队支持因凡蒂诺并接近 2030 年世界杯作为回报 the-sun.com",
+      "originalTitle": "Argentina back Infantino and close in on World Cup 2030 perk in return - the-sun.com",
+      "originalSummary": "Argentina back Infantino and close in on World Cup 2030 perk in return  the-sun.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZWZ2dUZGbnFaaVp1ekl1dV9RaWFydWRNdzlBNlBXemY5VGdTZmFYalBlNS1MbnpQOVlZYlBZQjhkZXpEU2daZW9oT0p6cGVUUWFhd2FZblBkaGVNQVJPNDQweTlBblh5cTZsTUI2V2hUc0ZTVXdaYkotNnd1VGxIb3pUT1YzbEswdmhrQ1lUa2tiaFU?oc=5",
+      "publishedAt": "2026-08-07T13:26:54+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-messi-suicide-bomb-ronaldo-hotel-alert-as-world-cup-threats-leaked-in-dossier-the-sun",
+      "title": "梅西自杀式炸弹和罗纳尔多酒店警报因世界杯威胁在档案中泄露 - 太阳报",
+      "summary": "世界杯威胁在档案中泄露，梅西自杀式炸弹和罗纳尔多酒店警报",
+      "originalTitle": "Messi suicide bomb & Ronaldo hotel alert as World Cup threats leaked in dossier - The Sun",
+      "originalSummary": "Messi suicide bomb & Ronaldo hotel alert as World Cup threats leaked in dossier  The Sun",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZ2JzTXVZZkFQQ3BLM0ZGbkdWcF9Qc1Fabk1BSjRGSm5sQVVwTWNPUnRMMnJDVUNuajlETWIxUl9KZVZfQmR3YzA5VjA5TTRaM3dlNDZzbGs4WEc1QVNVeVI0MWtveDFXV2tMS1o4S0RneVNzdGliRzBiaGNfcmJ2UWRkdFQyN0pxVF9nSmprd0ZhaEdq?oc=5",
+      "publishedAt": "2026-08-07T12:52:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-and-mexico-join-africa-in-backing-fifa-s-infantino-what-to-know-al-jazeera",
+      "title": "阿根廷和墨西哥与非洲一起支持国际足联的因凡蒂诺：要知道什么 - 半岛电视台",
+      "summary": "阿根廷和墨西哥与非洲一起支持国际足联的因凡蒂诺：须知",
+      "originalTitle": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know - Al Jazeera",
+      "originalSummary": "Argentina and Mexico join Africa in backing FIFA’s Infantino: What to know  Al Jazeera",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZkRElWa2tLOEdQUF83YzBqNlp6alNjMlhfdnFBR2tRSHQ5a1VhdFhtbFJYN2hiR2xJREl5ZHhubXdZOFJTMVpBbEYyY205LUhfRC0xVkFwYWQ1VzYwRjdIMWllLXNIenBDVXREMEhCU2lISmQ5TDZ2RGVMN1N4aUFwM1QwVS1HNjlKWjlrWFBuQy12T1VsaE9DNmROU3FkUW9ZZUJ3TXJHSE43allxQ3RFSklaZ9IBuwFBVV95cUxPODZWYzZZY1N0SXo4cTVNTlVQUExFempXNGtLMEpKcXJ6SnJfeUNnMlRRUUsxNUdXYUEyV2hwdnNiY2FHMllha09CR1lDbnpoR0FFcUhSZ2h4RXVaR24xOC14NVZfZjNLaTFUMEd0VlRlelB2YWhCeVhER0lvelV2blhXZzgyU2YtTXJLVE1mUDk0ZUlheEtQZEVxNjBXNkwxWWVQNjJ4UldDeEREQ0FuUnNET0pzUGJWdVpN?oc=5",
+      "publishedAt": "2026-08-07T12:30:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-diego-forlan-becomes-uruguay-coach-after-team-s-disastrous-fifa-world-cup-2026-campaign-the-new-indian-expre",
+      "title": "乌拉圭 2026 年世界杯惨败后，迭戈·弗兰出任乌拉圭主帅",
+      "summary": "乌拉圭队在 2026 年 FIFA 世界杯上惨败后，迭戈·弗兰 (Diego Forlan) 出任乌拉圭队主教练 - 新印度快报",
+      "originalTitle": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign - The New Indian Express",
+      "originalSummary": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign  The New Indian Express",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOV0hoR2k5eW9POC1aVDdzVWJWdm1fMTR3ZXlSRTUwZlNuU08wLUFmZy1WU3c1a1dBS3FfRmtNa0R1ZS12TG94R3hhZEV4aFlyRUg0RFJYZmlPMlQ1cmRMVzZaYlRXeUlHLS1YVUNkdnBKT2FrUmlGYjZxM2JaZXREMjFFcmltTmQ1UTRHLUZmc3p2cWwyRWVUY2VOR0lJb2NrbmkyZ1RDTmZNNjhYWW94Vlc1eDhjeUJJT2JrZGN2dy1KRGczTWcyZGt1QVdRejNVc094TEFidmZSYWJpTGln?oc=5",
+      "publishedAt": "2026-08-07T12:09:48+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-prepango-scores-with-fifa-merchandise-vending-machines-vending-times",
-      "title": "Prepango scores with 国际足联 merchandise vending machines - Vending Times",
+      "title": "Prepango 在 FIFA 商品自动售货机上得分 - Vending Times",
       "summary": "Prepango 通过 FIFA 商品自动售货机得分 Vending Times",
       "originalTitle": "Prepango scores with FIFA merchandise vending machines - Vending Times",
       "originalSummary": "Prepango scores with FIFA merchandise vending machines  Vending Times",
-      "translation": "local/online",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFlnRWEzVDFSVTAtcGs3WXVLeTZfQ2JGNjlsTDNaUUZMQ0hzZWRYMmpNUFBqLS1SMEhQbkcyQVFYcE1UaUVTemNUYnZIbnpVUXBybHNVbFhRU3NaRHdhYU8xenpOZ2oxMW9xVVpTUEh0VV9HTmNBSGlqb1VwX0VHTXdIa2dfZjNoSERhMkV0Zng0Q2dJWnROeg?oc=5",
       "publishedAt": "2026-08-07T12:00:00+00:00",
@@ -32,6 +80,30 @@
       "heat": 60
     },
     {
+      "id": "google-news-unai-simon-sets-clean-sheet-record-before-spain-vs-portugal-match-the-news-mill",
+      "title": "乌奈·西蒙在西班牙对阵葡萄牙的比赛前创造不失球纪录 - 新闻中心",
+      "summary": "乌奈·西蒙 (Unai Simon) 在西班牙对阵葡萄牙的比赛前创造不失球记录 - 新闻工厂",
+      "originalTitle": "Unai Simon Sets Clean-Sheet Record Before Spain vs Portugal Match - The News Mill",
+      "originalSummary": "Unai Simon Sets Clean-Sheet Record Before Spain vs Portugal Match  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMXAxTGxuVVNZM2FiWmdjeXZ0LXlyRUVBay04M21ObF9fMzRVUjgxOHd5akdSdHI5N3NvZlllaWtYa2lHMEpJWjk4bEYyUHZibnVYNi1kMk4tU3pnSktLWXNKbWZjZUxsd05oeVc5OV9ybGI3dzgzSHFBVjRXanFHMk13U1QwamxPR1RDVFNaTFJVUjFuTEhiSXBqUmt6Y1Y0NGdfa192aEtGSkN0TGk3REo5b2d6eXN3?oc=5",
+      "publishedAt": "2026-08-07T11:42:22+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-07T11:19:53+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-world-cup-2026-group-led-cbi-to-neet-suspects-gulf-news",
       "title": "“FIFA 2026 世界杯”小组带领 CBI 追查 NEET 嫌疑人 - 海湾新闻",
       "summary": "“FIFA 2026 世界杯”小组带领 CBI 追查 NEET 嫌疑人 海湾新闻",
@@ -44,16 +116,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-diego-forlan-appointed-uruguay-interim-head-coach-as-la-celeste-move-on-from-marcelo-bielsa-after-world-cup-",
-      "title": "世界杯灾难后，迭戈·弗兰任命乌拉圭临时主教练，拉塞莱斯特队接替马塞洛·贝尔萨 - Goal.com",
-      "summary": "迭戈·弗兰任命乌拉圭临时主教练，拉塞莱斯特队在世界杯灾难后接替马塞洛·贝尔萨 Goal.com",
-      "originalTitle": "Diego Forlan appointed Uruguay interim head coach as La Celeste move on from Marcelo Bielsa after World Cup disaster - Goal.com",
-      "originalSummary": "Diego Forlan appointed Uruguay interim head coach as La Celeste move on from Marcelo Bielsa after World Cup disaster  Goal.com",
+      "id": "google-news-intel-from-the-ivory-tower-democracies-win-at-fifa-world-cup-pagosa-daily-post",
+      "title": "来自象牙塔的情报：民主国家在国际足联世界杯上获胜 - 帕戈萨日报邮报",
+      "summary": "来自象牙塔的情报：民主国家在 FIFA 世界杯上获胜 帕戈萨每日邮报",
+      "originalTitle": "INTEL FROM THE IVORY TOWER: Democracies Win at FIFA World Cup - Pagosa Daily Post",
+      "originalSummary": "INTEL FROM THE IVORY TOWER: Democracies Win at FIFA World Cup  Pagosa Daily Post",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNZjY1YkNuUmE0YXc4TlRDcHlFSGc3bnJ5RFg3a2FMR0VnRGVuUHJJWHFJZzEyNmFnN3ZITkZ0TF91aEZ1dXZOWUljcmJqX2NUVm9wZXlOWE1KdGdJWXpvaGVpOEtJSk9rYWNLdFZmOHEyUmVVeEFMcmhFNW85TDlIdEFzYVJ2R09DUzRubFNPV1BrZU1oWUh6dzh2UnZJUW1EOWdMVjZKZ3JlallBUzRxbVdaQUpSNldnTnBHbGs3dmxiZW1ySWc?oc=5",
-      "publishedAt": "2026-08-07T11:02:59+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTNabjVJSjVZZmR2V2JPd05aYXZpTjBnS0dRREx4WVd5ZzFnMTdvNnYteGpGNUQyNU9vOEZMRmlTdy1EdW5hT2JpS3J3ekNUcWRzQlYtSkl4QTRqZlk1QUpqbDlWZU1fc0NoYmdfNzlEZmlYbWhjTGdQTk8zNDFMSWxzdTYzWUZSUDNhZ2RjTlRiaGJ4UkZFV0F5d2RrSGxmUHc?oc=5",
+      "publishedAt": "2026-08-07T11:04:15+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-fifa-world-cup-2026-helps-fox-to-record-revenue-ebitda-across-fiscal-year-sportcal",
@@ -66,6 +138,30 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQN0F0eE9YbHNvNnFVMHRaZzE4MkpidFFDeldfS2N4clpXcHVjWFBfdmw2RXp4Vk4yVFEya0pycnY2a3lUajlBRnE5N2xkeEo0UDgxVy1iZWMwTVQ1dXhKSmNXbVlqMjh6a0tIT1hVaVAzY1FqNzF4cnRKSmZtY2pNSjUxcDFSSXVNWC1ESDhzSnVyYmMtdTRsVFFoUExBU0Z6ZnJ3WGJjOA?oc=5",
       "publishedAt": "2026-08-07T10:52:56+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-kim-min-jae-apologizes-for-world-cup-exit-vows-to-change-south-korea-team-atmosphere-chosunbiz-chosunbiz",
+      "title": "金珉载为世界杯出局道歉，誓言改变韩国队氛围 - CHOSUNBIZ - Chosunbiz",
+      "summary": "金珉载为世界杯出局道歉，誓言改变韩国队氛围 - CHOSUNBIZ Chosunbiz",
+      "originalTitle": "Kim Min-jae apologizes for World Cup exit, vows to change South Korea team atmosphere - CHOSUNBIZ - Chosunbiz",
+      "originalSummary": "Kim Min-jae apologizes for World Cup exit, vows to change South Korea team atmosphere - CHOSUNBIZ  Chosunbiz",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tb3B4cVpkY0xhYUVpVGdRNGpVSVd2bW9yeHJtZWFQVEZpdGxjYjdPamRKbWF1My1pVkNPdTkzLXhjOUhqWjRiQ3FRRmFSVzVnb3p6Nm5oYjdLRS1DOXlfcWdWV0s0YTZneDBuVlRGQVBsZDVJcVNkTVc1MHpTWVXSAZMBQVVfeXFMTWdwM0RPMndoZVRoUTRkSndIazlrVy1nWkRtczh2Y1NqeVpkc1kzbnFra2JtX21fbF80RHF4N3FYdUhudG54cFR4UlJtZUJNOUVJQVZGQzBoQTQ2SEZlUXBBT2R2LTBodHhWby1sMV9LTlY2UlZjaXlNS3VfQngwMElnd1czLWJHQkxvcHlHanptMklN?oc=5",
+      "publishedAt": "2026-08-07T10:40:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-infantino-allies-rally-as-norway-fa-chief-demands-fifa-president-s-resignation-reuters",
+      "title": "因凡蒂诺盟友集会，挪威足协主席要求国际足联主席辞职 - 路透中文网",
+      "summary": "挪威足协主席要求国际足联主席辞职 因凡蒂诺盟友集会 路透",
+      "originalTitle": "Infantino allies rally as Norway FA chief demands FIFA president's resignation - Reuters",
+      "originalSummary": "Infantino allies rally as Norway FA chief demands FIFA president's resignation  Reuters",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWTJWaTZJVmF2Zm1DNDdfSDY5RzZBcVpLRjhPWjZtSjFnZUhoU0Z0cTMza3J0MGxoNnZjVFMycjdLWUV0a1ZoQUFNTHNJd2k1RHZoUW81VTFWRlhwYUExSHlmX29ZQkxvdWlmcnhRT2E4cmlNcVFqYUtTLXJjbmZjMjJfcmk3U00tU2FENjcyXzFmbk4ydTVSS2t5ZGpNR0U?oc=5",
+      "publishedAt": "2026-08-07T10:30:03+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-fifa-world-2026-cup-delivers-major-boost-to-rté-adworld-ie",
@@ -105,7 +201,7 @@
     },
     {
       "id": "google-news-big-chances-ghana-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "巨大的机会 - 加纳 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "title": "巨大的机会 - 加纳 2026 年世界杯统计数据 - FotMob",
       "summary": "巨大的机会 - 加纳 2026 年 FIFA 世界杯统计数据 FotMob",
       "originalTitle": "Big chances - Ghana stats for FIFA World Cup 2026 - FotMob",
       "originalSummary": "Big chances - Ghana stats for FIFA World Cup 2026  FotMob",
@@ -116,112 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-how-america-s-greatest-stadiums-were-transformed-for-world-cup-yahoo-sports",
-      "title": "美国最伟大的体育场如何为世界杯而改造 - 雅虎体育",
-      "summary": "美国最伟大的体育场如何为世界杯进行改造 雅虎体育",
-      "originalTitle": "How America's greatest stadiums were transformed for World Cup - Yahoo Sports",
-      "originalSummary": "How America's greatest stadiums were transformed for World Cup  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5",
-      "publishedAt": "2026-08-07T10:08:57+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-adweek-tv-advantage-world-cup-reveals-3-marketing-lessons-to-add-a-real-kick-adweek",
-      "title": "ADWEEK 电视优势：世界杯揭示 3 个营销教训，增添真正的活力 - ADWEEK",
-      "summary": "ADWEEK 电视优势：世界杯揭示 3 个营销经验教训，助您一臂之力 ADWEEK",
-      "originalTitle": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick - ADWEEK",
-      "originalSummary": "ADWEEK TV Advantage: World Cup Reveals 3 Marketing Lessons to Add a Real Kick  ADWEEK",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPdWI2NG0tLWhSZlR4TnFRWTZzcnBHMmhiYTM0MHdPVFJGTDdpdUR5Mkw2UmltRDVrMTdUNjRXTENMS1NtVmxYYmgxWGpLc0JCZUJuUE1vVXkyVnFPOXhDTVFFRWlLaEZVR0ZSdXA0cTlrRklETFU3NmVucTMyMUEwSThxcXpVa0c0WE84b1dmTFdvejBweFJPdmEtRQ?oc=5",
-      "publishedAt": "2026-08-07T10:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-back-infantino-and-close-in-on-world-cup-2030-perk-in-return-the-sun",
-      "title": "阿根廷队回归因凡蒂诺，有望获得2030年世界杯的回报——《太阳报》",
-      "summary": "阿根廷队支持因凡蒂诺并接近 2030 年世界杯作为回报《太阳报》",
-      "originalTitle": "Argentina back Infantino and close in on World Cup 2030 perk in return - The Sun",
-      "originalSummary": "Argentina back Infantino and close in on World Cup 2030 perk in return  The Sun",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZBN3dYSWZiRVFtaVQ5Z24yRkhZaTc5RXltMS1mTU8xRUNjWHh3d09rWWdRb25GbmpTeFBFSEtXYWxzU25aaFJ1YnRMRWt3MDN3Z25TQ3RBYXBYbTY4OUdFU012NXZkaElXRUVpSG1oVXpnZXZwRFU5UzQ4MVhwdndWWkRUZkp1VkZFX3B0Q2YwUFNz?oc=5",
-      "publishedAt": "2026-08-07T09:52:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-a-fifa-world-cup-2026-whatsapp-group-exposed-neet-leak-hindustan-times",
-      "title": "“2026 年 FIFA 世界杯”WhatsApp 群组如何曝光 NEET 泄密事件 - 印度斯坦时报",
-      "summary": "“2026 年 FIFA 世界杯”WhatsApp 群组如何揭露 NEET 泄密事件 印度斯坦时报",
-      "originalTitle": "How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak - Hindustan Times",
-      "originalSummary": "How a 'Fifa world cup 2026' WhatsApp group exposed NEET leak  Hindustan Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOVExHZjB4OWRsRlVra0RjbGNlNk5iNDV0SlBOS1pNeDZlMlFfSVplSzVnRDJ6WktybWdQRUtVcHdGMEtNR2FPUVoxVkp2N21Idlp5R1FDUmcxNm5DQlNiUUhVR3lycXhDZEREeVZxU1AtVWtXem1DZU92VFNvWHZCVnRQRGxIS1dSWFVNYTdlRUgtYjRNS3JLVHU0WWtOTEN2X3NKeUhtUk8zUm9jTG1LcVZaVjZaeGRTRUw5QzJUUElmbmJvQ2c?oc=5",
-      "publishedAt": "2026-08-07T09:46:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-欧足总维持抵制世界杯-国际足联撤回投资无效-亚洲电视新闻",
-      "title": "欧足总维持抵制世界杯 国际足联撤回投资无效 - 亚洲电视新闻",
-      "summary": "欧足总维持抵制世界杯 国际足联撤回投资无效  亚洲电视新闻",
-      "originalTitle": "欧足总维持抵制世界杯 国际足联撤回投资无效 - 亚洲电视新闻",
-      "originalSummary": "欧足总维持抵制世界杯 国际足联撤回投资无效  亚洲电视新闻",
+      "id": "google-新闻-中文-国际足联要卖掉世界杯-因凡蒂诺为什么突然认输了-懂球帝",
+      "title": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？ - 懂球帝",
+      "summary": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？  懂球帝",
+      "originalTitle": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？ - 懂球帝",
+      "originalSummary": "国际足联要卖掉世界杯？因凡蒂诺为什么突然认输了？  懂球帝",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNR0hlZGw1MnlNUlc1c2NUNWRWV1ItZnI0N045MUxsRmFHLXFzTmVLTktvZG4wbHY4UWs0bzlDejVaY0FkSmtKemIya0lzZ0ZCQUFDZWExcFpGZGhlTm1FTVBHZTNIV3dBZGlGY3hod0Nad0lXNWEzYnp0bmY3ZEo2ekNRTmI5N2RkNVIzN0tCVEVQd2tMYXFuRzJHNjZqSTZNcTVJTkVvNG5WX0M3WXVrem1Bck9tb0NrMC1HM2l0Uy1VZng4eUlPWDA4Y3RqNFJqVkljeV81QnhvWXBxRFdpc1VQRzdUbkxzak9aM1F5eVBkRVVUSUhBbmNsUW9nczRxcmZsRUlEWV9nYTZLUW1hV1k3SXlKUFZrRUVOQy1SclAyQ1dYQ2hCN3VydTlwZWc4TUdfWE1aTENEVEJTZEFkYzJ1Q3Rsa3JvbDdN?oc=5",
-      "publishedAt": "2026-08-07T09:45:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9VelBKTlpPQTFoTF9RWUJ0eURwNXFYd0NON0xJNDRlSlBZc241SUt3eHRSVk5vdV9iMG1hMVVCRmtuMFNlUWtjaGxnNGlLdHc3SmxiTHBGMA?oc=5",
+      "publishedAt": "2026-08-07T10:17:43+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-lighting-up-our-mood-bts-jimin-brightened-fans-day-as-he-shared-snaps-from-the-supergroup-s-recent-activitie",
-      "title": "点亮我们的心情！ 💜✨ BTS 的 Jimin 分享了该超级组合最近的活动快照，包括他们在 2026 年 FIFA 世界杯上的表现，为粉丝们带来了欢乐。 （📸：智旻/Instagram）- facebook.com",
-      "summary": "点亮我们的心情！ 💜✨ BTS 的 Jimin 分享了该超级组合最近的活动快照，包括他们在 2026 年 FIFA 世界杯上的表现，为粉丝们带来了欢乐。 （📸：Jimin/Instagram）  facebook.com",
-      "originalTitle": "LIGHTING UP OUR MOOD! 💜✨ BTS' Jimin brightened fans' day as he shared snaps from the supergroup's recent activities, including their performance at the 2026 FIFA World Cup. (📸: Jimin/Instagram) - facebook.com",
-      "originalSummary": "LIGHTING UP OUR MOOD! 💜✨ BTS' Jimin brightened fans' day as he shared snaps from the supergroup's recent activities, including their performance at the 2026 FIFA World Cup. (📸: Jimin/Instagram)  facebook.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaElDam43eHNMOGx1QXBXS0h5R2ZnaHYtZERkUi1GOHA0bGVZb3lNSE0wdllOcHp0djNHTVlHNllMcmRDMEwwdV90Vmt6TzVIdUlBOHUzczhsWXRiaW1fNThyaEFQR1FwQnBRYkVLeG9qTHJhNktLbHJkbWllZ05DWmdyWmJWMjQ4dGVkU2tLOFdVbld3VExnRWF2WDRzVnZlRWVYMjhXeE82ZE9NVjRmaXUyS0lZd1I3bDFPdUNxZU5yV1pHM0pRaG4tVXlNNUpXX1ROMXpQZw?oc=5",
-      "publishedAt": "2026-08-07T09:15:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-belgium-coach-garcia-reflects-on-setbacks-in-fifa-world-cup-2026-quarter-final-loss-to-spain-the-news-mill",
-      "title": "比利时主帅加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 - The News Mill",
-      "summary": "比利时教练加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 The News Mill",
-      "originalTitle": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain - The News Mill",
-      "originalSummary": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYk9RRlNpQ1Mtdmdqc1ltdW5vdVg5dk9JRFB5a0VsSTFhcmhaUE01WjVlbkpKRDVZeXZHSGt5NkZubk9TUFVJYy1vbi0zNEZnNDMzMEdHS1NnWTJ3MWVxS080cHZmaTJ2aXZLWGZZVjBDMk9QQUpQR0QyVGRmd0FrLU5Ibm1IZXdFLXJ0bHdUWWpxeTFzVGYtOFdxSld1MFZsaEZLLWhMcXduZDMwWmVWRkM0YUNyWDB4M2E1aVA4amItNk0?oc=5",
-      "publishedAt": "2026-08-07T09:12:11+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-金元-私有化与政治干预-fifa-世界杯公司计划-的金权风暴-whatsnew-端傳媒initium-media",
-      "title": "金元、私有化与政治干预：FIFA「世界杯公司计划」的金权风暴｜Whatsnew - 端傳媒Initium Media",
-      "summary": "金元、私有化与政治干预：FIFA「世界杯公司计划」的金权风暴｜Whatsnew  端傳媒Initium Media",
-      "originalTitle": "金元、私有化与政治干预：FIFA「世界杯公司计划」的金权风暴｜Whatsnew - 端傳媒Initium Media",
-      "originalSummary": "金元、私有化与政治干预：FIFA「世界杯公司计划」的金权风暴｜Whatsnew  端傳媒Initium Media",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbG8tRzFSN3BsT0FSdEtVcVJZMXJFZnNBYVBVaUs2cWw5Vzl0WkgzTk9VZHNZRkJNMFhRaWxja1Z5a0FDd1hVMXNwbjRPZzZZRDFqcmp2Y0JORVNlTmtYaWV4MGJ4bkJfV3ROdWF3bWNfQW5la2VPYk9EX1JXZV9QRG1VY3dJVUYzU2VQUnFkUVFwcVdhLW95Ng?oc=5",
-      "publishedAt": "2026-08-07T09:02:43+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-gianni-infantino-hails-historic-tv-figures-across-host-nations-iol",
-      "title": "2026 年 FIFA 世界杯：詹尼·因凡蒂诺 (Gianni Infantino) 赞扬主办国的“历史性”电视人物 - IOL",
-      "summary": "2026 年国际足联世界杯：詹尼·因凡蒂诺 (Gianni Infantino) 赞扬主办国的“历史性”电视人物 IOL",
-      "originalTitle": "Fifa World Cup 2026: Gianni Infantino hails 'historic' TV figures across host nations - IOL",
-      "originalSummary": "Fifa World Cup 2026: Gianni Infantino hails 'historic' TV figures across host nations  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTl9mV3JPSURFaUs1djdBaGVYMHA4bG9oSDJKVG12eGpZN1V0Mm9FRkxzczY3RXdFcmFYbnlsSVYtemVkV2M2bTJFNlRPSHJlcTF4M0lZNFoySmZTb05ud2tkcVRSeVNuWTFRSGphMUp5WXo5S3ZoNFFHRHhwbHlRdjdqRVZfRnQ4Wnh1b3AyS1JEUXJBRHdHMUpCaElFZE9KaUtJTmdpZW5fcDVmb3RvR3hB?oc=5",
-      "publishedAt": "2026-08-07T09:01:12+00:00",
-      "heat": 60
     }
   ]
 }
