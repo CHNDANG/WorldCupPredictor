@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T22:41:43.956957+00:00",
+  "updatedAt": "2026-08-07T23:37:58.672681+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -20,6 +20,18 @@
       "heat": 52
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-07T21:17:48+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-leagues-cup-bracket-schedule-results-for-2026-competition-between-mls-and-liga-mx-sportingnews-com",
       "title": "2026 年 MLS 和 Liga MX 之间的联赛杯分组、赛程表和结果 - sportingnews.com",
       "summary": "2026 年 MLS 和 Liga MX 之间的联赛杯分组、赛程表和结果 sportingnews.com",
@@ -30,6 +42,18 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmZmbzFyNGloYlU0TWdDWnRWNDhDRmVPdVpTX1FDaVlkLU92WXpkeUJuU3NwOFhXejg0MkdPN3Mxc0ZwWlpDV1pIVEZ6MDRWYWNMNlZ5b0tKWjlFV3ltRTZfdkpTbHE1M3RPekk2aE5jTEhvMUxvRDZMTW9oaFJKQXhoWnpHUUU4RmotZ1BDSWhkUjRja3JsWXY1TEhNa2puLUdsQzhob3RyV1JvNGJv?oc=5",
       "publishedAt": "2026-08-07T21:09:40+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-world-cup-sensation-vozinha-joins-chilean-giant-colo-colo-the-business-standard",
+      "title": "世界杯名将沃齐尼亚加盟智利豪门科洛科洛 - 商业标准",
+      "summary": "世界杯明星沃齐尼亚 (Vozinha) 加盟智利巨人科洛科洛队 The Business Standard",
+      "originalTitle": "World Cup sensation Vozinha joins Chilean giant Colo-Colo - The Business Standard",
+      "originalSummary": "World Cup sensation Vozinha joins Chilean giant Colo-Colo  The Business Standard",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXZBcXNmUzNaNTFETEQ1cXRpaGxWcTdzUjBLaUhHRzU4Wmk2dUJyVGhtcmxYWS1vRTNobUNuSnpEcTRJRGN4MUJaZzIyUWZ0THQ2SUl3QlRYME5hYVFDNzM0TElJZUtHdUJkT1pVVHBzYmloWlNKMk9sTnhJMFFQNGM5ZXpPWEtQTnJNZXktVl9SVUxkdUtNLTd0dlRzRjhFTGw5YnJaSGNTZ9IBrwFBVV95cUxNdGh4S0NsNzczRmY1VURiczhMTHVmSmNjVE44Mk5hakNqaDBDRDhhLUhVVERaOXlxRmpUZHEzbUNrSlV3YU5wRlNHU1FpV2hhUnpqX05VaU5Cc3RwNjBKNmJJY01xR1RzRVkxVThOTlpwNUlFUm0tTS0zSlV6cnhsbDNZcEMwaFpzMXV2M0hleFFvQnlNcUF4dHpYRTRxR3p6dFhTM1VYNGJWTjgtXzJV?oc=5",
+      "publishedAt": "2026-08-07T21:01:10+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
@@ -68,6 +92,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
+      "publishedAt": "2026-08-07T20:09:06+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-news-during-the-world-cup-hotels-in-toronto-outperform-vancouver-s-costar",
       "title": "新闻 |世界杯期间，多伦多酒店表现优于温哥华 - CoStar",
       "summary": "新闻 |世界杯期间，多伦多的酒店表现优于温哥华的 CoStar",
@@ -104,16 +140,52 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
+      "id": "google-新闻-中文-xg差值-world-cup2026的iraq数据-fotmob",
+      "title": "xG差值 — World Cup2026的Iraq数据 - FotMob",
+      "summary": "xG差值 — World Cup2026的Iraq数据  FotMob",
+      "originalTitle": "xG差值 — World Cup2026的Iraq数据 - FotMob",
+      "originalSummary": "xG差值 — World Cup2026的Iraq数据  FotMob",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-07T19:15:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeG50OTVQWEk1cG1vMjFIMElvMFA3OFdiN01UZHViRnBpT29EWF9PY202Rm9SbGdzTk8xcllMNkJlVHdlcTdYaFAxT3RuR0tNaS1QVlFKNFF2TjZydjdBVkxnVFk3d1NiUFJMczNUX05BUzZsdTExTnN2MFF5SC1QR2llaVZJazNySWJJcHZmaDU4MXpSaGdFVm5NZHh4bVpQY19J?oc=5",
+      "publishedAt": "2026-08-07T19:05:15+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-belgium-defeats-usmnt-4-1-in-round-of-16-at-fifa-world-cup-2026-the-news-mill",
+      "title": "2026 年 FIFA 世界杯 16 强，比利时 4-1 击败 USMNT - The News Mill",
+      "summary": "2026 年 FIFA 世界杯 16 强赛比利时队以 4-1 击败 USMNT The News Mill",
+      "originalTitle": "Belgium defeats USMNT 4-1 in Round of 16 at FIFA World Cup 2026 - The News Mill",
+      "originalSummary": "Belgium defeats USMNT 4-1 in Round of 16 at FIFA World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWR1c09vUGhEa285S3RIVmFEaW4tVG1UekpDS1lMRGhWVkpXSDhkRkV6RWc2Vm5LMHNLTlRQeGktcTFfVHpXRG9pSFZuT1VnNVVyaHBQS3BMNElqblJ1d0dFOFhCbGxqbTRBLWk3LUhBLTBPc1p5M1QxM0JkR19wb3ZnOW9qNmZKVS1BUkZRYzMxTmJFdDZLaGFjeGM?oc=5",
+      "publishedAt": "2026-08-07T19:02:34+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-de-bruyne-proud-of-belgium-despite-world-cup-2026-quarter-final-exit-the-news-mill",
+      "title": "尽管 2026 年世界杯四分之一决赛出局，德布劳内仍为比利时感到自豪 - The News Mill",
+      "summary": "尽管 2026 年世界杯四分之一决赛出局，德布劳内仍为比利时感到自豪 The News Mill",
+      "originalTitle": "De Bruyne proud of Belgium despite World Cup 2026 quarter-final exit - The News Mill",
+      "originalSummary": "De Bruyne proud of Belgium despite World Cup 2026 quarter-final exit  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX044U05VMzBPcE5rX24yanlpZklWOUJyLUMtVVNKajhvMmpqSnhhM2c0cVZOSm1UR1N0T3ZSM2prRFhNTy16OUpmdk1xZThQRkQtS1hQcEdoTmtvMjFrUGNRUEh2ekg4UDdIeHVyMFVCU0xmOUk5cjQzS1otQzRSU0RiNmRtNGFLZEUwWGx1alh4LUt4ZnA0Y2FLU3p5QVFhQlhJ?oc=5",
+      "publishedAt": "2026-08-07T19:02:15+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-场均解围-liga-portugal2025-2026的fc-porto数据-fotmob",
+      "title": "场均解围 — Liga Portugal2025/2026的FC Porto数据 - FotMob",
+      "summary": "场均解围 — Liga Portugal2025/2026的FC Porto数据  FotMob",
+      "originalTitle": "场均解围 — Liga Portugal2025/2026的FC Porto数据 - FotMob",
+      "originalSummary": "场均解围 — Liga Portugal2025/2026的FC Porto数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQb1hOR0ZadXBiSTU4aF9xNlhvbEtIbzZIb2Z0ejNoQWx2SEQxVEhVWlZ0RVU0ZXZWYmh2aklKSUhKZmZ0U1lRZkg0UGlvVXJoWC1ZZXFIcmVDS2ZyZW5RQnBzNHBjNE5IVTZGRUFXQ05PeWRKcWdGNmZNd1RnWjZmRTJwdm5LdXlvZ2FSNkdaSG9JVzlNSGwzc09veTlWQ0s1TVdJYllYaHp0M3BJdGp4ajF4TXJtemt6dU9XUDFoUlFKQUx6bXJNZy1iUkQ2cGVOUjRvMk5EeWNKdkw1RDNV?oc=5",
+      "publishedAt": "2026-08-07T18:47:36+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
@@ -128,6 +200,18 @@
       "heat": 68
     },
     {
+      "id": "google-news-president-of-the-argentine-federation-beating-england-is-like-winning-the-world-cup-and-the-match-against-eg",
+      "title": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 - Goal.com",
+      "summary": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 Goal.com",
+      "originalTitle": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us - Goal.com",
+      "originalSummary": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcFNkWVk3UlEtUWIxV2NOSmpSalpaemh2Rm00VG9KY0J1ckM5MTNlbkR3dFZkSGR2Qm1KQW5oN2hkRkltcFlDQ0xzOGhDdWxTbTdOY3NHOHBNSERsaXZ2VjJTamFoX1l1RFpSd1FoMG53aFJqVTNWVmEwelp0X2xoMG9oX1Q3NHNGbFUxN1FmVXNpWHRhNldGX0duS3hQZmhjRk9LTk5uZ2ttczlXM0VobGhxVVhHbmJ3Sk9GMm1LU05vT191aFJ0S3VkQzVSX08zQTcteTEzU3hUUVJCMlcyNmdqandFN2lLVWZnMm5XY1FkZjlxeUhKNHdsM3VnbmdCOU44MVFoWk9RVnlT?oc=5",
+      "publishedAt": "2026-08-07T18:39:08+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-undercover-operation-recovers-97-human-trafficking-victims-in-nj-during-world-cup-wdha-fm",
       "title": "世界杯期间新泽西州卧底行动成功救回 97 名人口贩卖受害者 - WDHA FM",
       "summary": "世界杯期间，卧底行动在新泽西州救回了 97 名人口贩卖受害者 WDHA FM",
@@ -137,90 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWVJsd1lLdXRwc1ZUZ3ozTnNRR0pFdHlfVlBydEdQWWVOVEFOUEZteWt5ZlpBSkk1VkRIMExRZ1BFb2pOSTJVbGZiZHM5M0UySG4yRzhJQjFZNXlVMERfSF93bzBwMll5NUIyZm82NkZIWmNFaHYzTGpSd2x1Vm8xbkpkTmMzanNjMVBGRExhTDRrU3BKbDlPWE9wRmVINWhYeElRRG5tUndBS3pBRGtwM0hR?oc=5",
       "publishedAt": "2026-08-07T18:38:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-president-of-the-argentine-federation-beating-england-is-like-winning-the-world-cup-and-the-match-against-eg",
-      "title": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 - Goal.com",
-      "summary": "阿根廷足协主席：击败英格兰就像赢得世界杯，对阵埃及的比赛给我们留下了深刻的印象 Goal.com",
-      "originalTitle": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us - Goal.com",
-      "originalSummary": "President of the Argentine federation: beating England is like winning the World Cup, and the match against Egypt left its mark on us  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNcFNkWVk3UlEtUWIxV2NOSmpSalpaemh2Rm00VG9KY0J1ckM5MTNlbkR3dFZkSGR2Qm1KQW5oN2hkRkltcFlDQ0xzOGhDdWxTbTdOY3NHOHBNSERsaXZ2VjJTamFoX1l1RFpSd1FoMG53aFJqVTNWVmEwelp0X2xoMG9oX1Q3NHNGbFUxN1FmVXNpWHRhNldGX0duS3hQZmhjRk9LTk5uZ2ttczlXM0VobGhxVVhHbmJ3Sk9GMm1LU05vT191aFJ0S3VkQzVSX08zQTcteTEzU3hUUVJCMlcyNmdqandFN2lLVWZnMm5XY1FkZjlxeUhKNHdsM3VnbmdCOU44MVFoWk9RVnlT?oc=5",
-      "publishedAt": "2026-08-07T18:29:47+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mexico-argentina-back-infantino-as-fifa-rift-deepens-ahead-of-2027-congress-morocco-world-news",
-      "title": "国际足联在 2027 年大会之前分歧加深，墨西哥和阿根廷支持因凡蒂诺 - 摩洛哥世界新闻",
-      "summary": "国际足联在 2027 年大会之前分歧加深，墨西哥和阿根廷支持因凡蒂诺 摩洛哥世界新闻",
-      "originalTitle": "Mexico, Argentina Back Infantino as FIFA Rift Deepens Ahead of 2027 Congress - Morocco World News",
-      "originalSummary": "Mexico, Argentina Back Infantino as FIFA Rift Deepens Ahead of 2027 Congress  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQWTZ2aUpjMDVFcFM5bW96TnVseU1PTGNkcHNBNm5JNWRPaVFHV1lLbFlHUHBvU0tqTlJzSGdFeTlpa1lWU3RiNmFiYldOX1ozaWVMdjA2SlJhbHBpQktXS1pvMFM0OTBqNzJLeXhGT08yRGVQb3RBbENaZmp1aElFelhjV0Iyd2E1ZlpmcFJ2dUwxTDhtdVFLNU9sSV9GdUJHOEFFN1FjUHFaVUt3ZlRXTVk3a09SVUl4dDFqS2hsNVVHZw?oc=5",
-      "publishedAt": "2026-08-07T18:22:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-场均精准长传-liga-profesional2026的river-plate数据-fotmob",
-      "title": "场均精准长传 — Liga Profesional2026的River Plate数据 - FotMob",
-      "summary": "场均精准长传 — Liga Profesional2026的River Plate数据  FotMob",
-      "originalTitle": "场均精准长传 — Liga Profesional2026的River Plate数据 - FotMob",
-      "originalSummary": "场均精准长传 — Liga Profesional2026的River Plate数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOeFV6MHVuUjZtV1ExS1hreGJrS2V5Y01ycVE3aVhpTGZtY0VLZExFek5vTVgzRjFjYW9URzlpSF82N1pUSl9sNjIzYW05M0dYdUpBWEtEblNWc1llbmt0anhCYS0yV2hHTnJGejA3cE9wdDhNQkV1bGRYYzNHOTV6YnVVTVg0RHN2cDk5dF9OdWhsTmVWcDBXUWRodVdFUVo1XzVrbHZfY1YtVC14dGs3WVYycGx3VXNuMTBaa1hZQ0dNN0ZPVVF0dmtYN3J4UkRRc1B2bWJqQkFjaUdIbm13U0NRWQ?oc=5",
-      "publishedAt": "2026-08-07T17:58:38+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-beyond-the-pitch-measuring-the-2026-world-cup-s-brand-impact-kantar",
-      "title": "球场之外：衡量 2026 年世界杯的品牌影响 - Kantar",
-      "summary": "球场之外：衡量 2026 年世界杯的品牌影响 Kantar",
-      "originalTitle": "Beyond the pitch: Measuring the 2026 World Cup's brand impact - Kantar",
-      "originalSummary": "Beyond the pitch: Measuring the 2026 World Cup's brand impact  Kantar",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WMkNZTUVVckhRel9DOHo4TjlFX1hKZVRiZGdZa1ZNMFU4dGJ1N0FXS1U0T2UtWW5XZndrOUFsb1FSaW9WaVVqN0JhdDRady1kVU16MXZCYWVGT3hQN2tzVWpWUDRrZS1lSzZDdHpfM2pXWGFyWmZaTFNLSm9Rdw?oc=5",
-      "publishedAt": "2026-08-07T17:39:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-match-facts-switzerland-v-colombia-world-cup-2026-ahram-online",
-      "title": "比赛事实：瑞士 v 哥伦比亚（2026 年世界杯） - Ahram Online",
-      "summary": "比赛事实：瑞士 v 哥伦比亚（2026 年世界杯）Ahram Online",
-      "originalTitle": "Match facts: Switzerland v Colombia (World Cup 2026) - Ahram Online",
-      "originalSummary": "Match facts: Switzerland v Colombia (World Cup 2026)  Ahram Online",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUXIxVzIwcllqNUM2bDMwVXpHTm96ajlPUmlYdjVjLXRHNTYtQnZqUl83bi05ZkVuX2xoVWdVV2czVWp3Q1JQTm0xc3JkcVFxSk5EYnZXd0lSb1cyU2VaVWpOd0VzZnFjZ3NxNnFIVEJsVS1pYkdvem5CYVVQaFF0eGZ2V25YQQ?oc=5",
-      "publishedAt": "2026-08-07T17:37:01+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-we-asked-ai-to-simulate-the-2026-world-cup-who-will-be-crowned-world-champions-squawka",
-      "title": "我们让 AI 模拟 2026 年世界杯：谁将夺得世界冠军？ - 斯夸卡",
-      "summary": "我们让 AI 模拟 2026 年世界杯：谁将夺得世界冠军？  斯夸卡",
-      "originalTitle": "We asked AI to simulate the 2026 World Cup: Who will be crowned world champions? - Squawka",
-      "originalSummary": "We asked AI to simulate the 2026 World Cup: Who will be crowned world champions?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZHVBVDB1bG5maEpmWWt4WVg1d19rZGtxWmRINVhsaEVSbjQ5VzN4Mi04VG8xeDlaVERhNXJNTnh0VmZyV3ZkQUl2ejVIY1ktRXJlMmFVeUlvQVpMNmRYUTdUbTlkSWtka0tYLTVDUmFyckExbjEzc296dHJ4NDlWVmdtME5Cai1W?oc=5",
-      "publishedAt": "2026-08-07T17:19:42+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-blow-up-messi-with-four-bombs-strapped-to-my-body-leaked-police-file-reveals-alleged-world-cup-terror-the-ti",
-      "title": "“用绑在我身上的四枚炸弹炸死梅西”：泄露的警方档案揭露了所谓的世界杯恐怖事件 - 印度时报",
-      "summary": "“用绑在我身上的四枚炸弹炸死梅西”：泄露的警方档案揭露了所谓的世界杯恐怖事件 印度时报",
-      "originalTitle": "'Blow up Messi with four bombs strapped to my body': Leaked police file reveals alleged World Cup terror - The Times of India",
-      "originalSummary": "'Blow up Messi with four bombs strapped to my body': Leaked police file reveals alleged World Cup terror  The Times of India",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQRWVnN1ZFeFk4WTNrbW1KVnpmTS1kLUN0Um9OLVJ5WWZSNjJJdUp6Ry00NnVLX2J3eUVxdUhPNXdCMngyVHduSUpUc0kyb05qeWh4VUZxZ0NxYUI2cFV4aGZvOFd1Wi05elduZlNtcmZjWUlmYkxYWUV4aUxsYXQ2ZE9Hd0c2bldVTkNVMGN2ZDNxUDZzUmlkenBSMDZqUU93NFBEZ255aXNtRnJHWUVDS1ExZlRYX0wxYkE0MENjbzBlS3RCa05PSG4yb1RFNmFWcnc0T0VhbHpPVnFkVUNlSTBtN3VFN2F2UnJHRUNwV3ZYcUd6cXNjdnZIZExCQjFJSTZUOHBGemtKVU1OYlVQek5mM3RUbGlqbFQ4Nkk1Y3dadktEOHfSAasCQVVfeXFMTkJFMXZXTXZvOVVNazRHcDJvcTAwbjRaMmNFUzVOdWc4MnFkb2VucXBvWVpiMzVaUFpHaTF6WTNXc2dyNjZBMzJDbll0UE50UUQyOE9yQmtOWVUzVkExcnZvaHdvVzFzVWp6NW5iRGlPWGZHMkN4eEk3WEFWbUhhdTFvVnEwMVZ0c3VHU2NuVWp1b21iX2FzdVQtRGE3VmRMMVZ6UG4taDg2WllnQXVQZzZkbzkzbmhqRnNYa3N5cUtPSXNjeGNibm9YQ3pmN05fNDVveE5wX2ZIbEM1MW0tUE16OTFYdXFkV0k0bnhYSERRa0tvRjY5bURjUld1SXFwZ0E3Uk9CQ2hfcUxIQlJpR1ZkOHl1ZXJIRVAtWnRtV01KVWlFek03akE0QUU?oc=5",
-      "publishedAt": "2026-08-07T17:18:00+00:00",
       "heat": 52
     }
   ]
