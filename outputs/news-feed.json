@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-07T11:23:45.928086+00:00",
+  "updatedAt": "2026-08-07T12:10:46.418544+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-prepango-scores-with-fifa-merchandise-vending-machines-vending-times",
+      "title": "Prepango scores with 国际足联 merchandise vending machines - Vending Times",
+      "summary": "Prepango 通过 FIFA 商品自动售货机得分 Vending Times",
+      "originalTitle": "Prepango scores with FIFA merchandise vending machines - Vending Times",
+      "originalSummary": "Prepango scores with FIFA merchandise vending machines  Vending Times",
+      "translation": "local/online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNMFlnRWEzVDFSVTAtcGs3WXVLeTZfQ2JGNjlsTDNaUUZMQ0hzZWRYMmpNUFBqLS1SMEhQbkcyQVFYcE1UaUVTemNUYnZIbnpVUXBybHNVbFhRU3NaRHdhYU8xenpOZ2oxMW9xVVpTUEh0VV9HTmNBSGlqb1VwX0VHTXdIa2dfZjNoSERhMkV0Zng0Q2dJWnROeg?oc=5",
+      "publishedAt": "2026-08-07T12:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-generates-14-3-million-ai-prompts-as-fan-engagement-shifts-to-llms-adgully-com",
+      "title": "随着球迷参与度转向法学硕士，2026 年 FIFA 世界杯生成了 1,430 万条 AI 提示 - Adgully.com",
+      "summary": "随着球迷参与度转向法学硕士，2026 年 FIFA 世界杯生成了 1,430 万条 AI 提示 Adgully.com",
+      "originalTitle": "FIFA World Cup 2026 generates 14.3 million AI prompts as fan engagement shifts to LLMs - Adgully.com",
+      "originalSummary": "FIFA World Cup 2026 generates 14.3 million AI prompts as fan engagement shifts to LLMs  Adgully.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUHg1Z1JXNkRWTk1FaVdTb2ZTR0Z6NkxidFE0eUFyNkpVRFp2WVhWdVktWXlrQzM0RnM1NUROb19iZGtGeGNEOS1ZVlVoWVZNbXotR2ZSVUxWTDJxNFZ6NHBlOWxMdTdKTU1vTTVpVFNDTmJLYzlrU3o2MGw3TDJxdl9xQ3g5V0phT1JQZFR1cVFOQWlQY0gwb2UzeDNMY0FlLUZMZEE5aC16MjJXNnBKUElBTW0yUW5iRGh2Qw?oc=5",
+      "publishedAt": "2026-08-07T11:58:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-group-led-cbi-to-neet-suspects-gulf-news",
+      "title": "“FIFA 2026 世界杯”小组带领 CBI 追查 NEET 嫌疑人 - 海湾新闻",
+      "summary": "“FIFA 2026 世界杯”小组带领 CBI 追查 NEET 嫌疑人 海湾新闻",
+      "originalTitle": "‘FIFA World Cup 2026’ group led CBI to NEET suspects - Gulf News",
+      "originalSummary": "‘FIFA World Cup 2026’ group led CBI to NEET suspects  Gulf News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQcmxzWU1JM2k1NE0taWhVeTc5bml1X0Z5T1ZaY2UxaC11eWNLNjByZnRIWUFuZDBaN2lEVGhQZmZYUUkxRHF0Y29sSHhGZW5uWVhBUTZKVkJLUFpwa09ncGtfbjFoMk5LTFlRVElEWFpjNzZ1TG1XdEdGM3pQU2Q3eGNTYzdiWUpRMHVRdVFTUDlMdGhxZmE3eVJCTk1iUlJ3ZFHSAbcBQVVfeXFMUFNmRTZRS2w1anlJUk1RZGJoYXpxQkhXZnNnLU14YVQtRERySFUwc2lvUGpxRGtLMFFsVlFsQXdxd2NSYnNmYlNTZnlWazREOFFpZ1MtR3hReUJzd2Q5VGp4ZVhDM0t6Q0t5OUlVUnk5Y24yOVd5T1d4cW03R0l1OGhaLS1aYTVzWjdkRGExTVlJWDFwNkJ2bUU1RVVfU0NVMEdQQkdZWU8wZDVEaWhyeWh1ZnBETE1Z?oc=5",
+      "publishedAt": "2026-08-07T11:17:37+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-diego-forlan-appointed-uruguay-interim-head-coach-as-la-celeste-move-on-from-marcelo-bielsa-after-world-cup-",
       "title": "世界杯灾难后，迭戈·弗兰任命乌拉圭临时主教练，拉塞莱斯特队接替马塞洛·贝尔萨 - Goal.com",
@@ -33,10 +69,10 @@
     },
     {
       "id": "google-news-fifa-world-2026-cup-delivers-major-boost-to-rté-adworld-ie",
-      "title": "2026 年 FIFA 世界杯为 RTÉ 带来重大推动 - adworld.ie",
-      "summary": "2026 年 FIFA 世界杯为 RTÉ 带来重大推动 adworld.ie",
-      "originalTitle": "FIFA World 2026 Cup Delivers Major Boost to RTÉ - adworld.ie",
-      "originalSummary": "FIFA World 2026 Cup Delivers Major Boost to RTÉ  adworld.ie",
+      "title": "2026 年 FIFA 世界杯为 RTÉ 带来重大推动 - AdWorld.ie",
+      "summary": "2026 年 FIFA 世界杯为 RTÉ AdWorld.ie 带来重大推动",
+      "originalTitle": "FIFA World 2026 Cup Delivers Major Boost to RTÉ - AdWorld.ie",
+      "originalSummary": "FIFA World 2026 Cup Delivers Major Boost to RTÉ  AdWorld.ie",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQRUFiRjNKNGpKV01vU09PcldyVXUxOTdScUdQY3YtSnNQWmVpS0NVQmUyT2t4amhMR2pvQkhmb21fa2FUR2hMc0lWd3hRbGVUYUhGMHZ2WlN0MzBfX255LXo2NHRIaXVaR1RlcTl2dldEbGxvWFFXbDl1dGtlcHZzQ2ZjbndqWGRHOEE?oc=5",
@@ -68,6 +104,30 @@
       "heat": 60
     },
     {
+      "id": "google-news-big-chances-ghana-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "巨大的机会 - 加纳 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "summary": "巨大的机会 - 加纳 2026 年 FIFA 世界杯统计数据 FotMob",
+      "originalTitle": "Big chances - Ghana stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Big chances - Ghana stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZEkwNk03dWp4WW9XeXo5VjdqOFh5NmR1by1hdUN4c3BrWkhjVHFTb1VLR1dmQVJwckQ2RHphbGozVXRhTGVabGZqUDN6aGtveDJHZDVBYk82R3VwMkRfcnc2ZGl6emtxcGljdjcwOG90Sm5rb2pSSU9ZZ0dyNHF2THJ4NXowZmI4NlVNNmtOeVF0YndGcVMzN0R4MEtZaVlpYXBrQ2pQUXRMVEkxYUwyY25vRnlFN3ZxdFRFdUlR?oc=5",
+      "publishedAt": "2026-08-07T10:19:43+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-america-s-greatest-stadiums-were-transformed-for-world-cup-yahoo-sports",
+      "title": "美国最伟大的体育场如何为世界杯而改造 - 雅虎体育",
+      "summary": "美国最伟大的体育场如何为世界杯进行改造 雅虎体育",
+      "originalTitle": "How America's greatest stadiums were transformed for World Cup - Yahoo Sports",
+      "originalSummary": "How America's greatest stadiums were transformed for World Cup  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbHFPVklMYk5lSmJ4SEtIejlHWVRobmxZRTYxZ1ZJQXJNRkdUVTlDRFpWYjFqWmQtcGtrUVhYbDJFd2ZkRUh4RFkwSGNhWl8yMU1RbmdwQWF0VVpOWTVmVDJTR1g1VVJ3a2RpaklQZ2daT3FuNng5TXk0X1h1aGgycVpyMV9IalprUGN0dGRkeTFZcXUtTTFj?oc=5",
+      "publishedAt": "2026-08-07T10:08:57+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-adweek-tv-advantage-world-cup-reveals-3-marketing-lessons-to-add-a-real-kick-adweek",
       "title": "ADWEEK 电视优势：世界杯揭示 3 个营销教训，增添真正的活力 - ADWEEK",
       "summary": "ADWEEK 电视优势：世界杯揭示 3 个营销经验教训，助您一臂之力 ADWEEK",
@@ -80,11 +140,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-argentina-back-gianni-infantino-and-close-in-on-being-handed-world-cup-2030-perk-in-return-the-sun",
-      "title": "阿根廷队后卫贾尼·因凡蒂诺 (Gianni Infantino) 有望获得 2030 年世界杯特权 - 《太阳报》",
-      "summary": "阿根廷队后卫詹尼·因凡蒂诺 (Gianni Infantino) 即将获得 2030 年世界杯的奖励",
-      "originalTitle": "Argentina back Gianni Infantino and close in on being handed World Cup 2030 perk in return - The Sun",
-      "originalSummary": "Argentina back Gianni Infantino and close in on being handed World Cup 2030 perk in return  The Sun",
+      "id": "google-news-argentina-back-infantino-and-close-in-on-world-cup-2030-perk-in-return-the-sun",
+      "title": "阿根廷队回归因凡蒂诺，有望获得2030年世界杯的回报——《太阳报》",
+      "summary": "阿根廷队支持因凡蒂诺并接近 2030 年世界杯作为回报《太阳报》",
+      "originalTitle": "Argentina back Infantino and close in on World Cup 2030 perk in return - The Sun",
+      "originalSummary": "Argentina back Infantino and close in on World Cup 2030 perk in return  The Sun",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVXZBN3dYSWZiRVFtaVQ5Z24yRkhZaTc5RXltMS1mTU8xRUNjWHh3d09rWWdRb25GbmpTeFBFSEtXYWxzU25aaFJ1YnRMRWt3MDN3Z25TQ3RBYXBYbTY4OUdFU012NXZkaElXRUVpSG1oVXpnZXZwRFU5UzQ4MVhwdndWWkRUZkp1VkZFX3B0Q2YwUFNz?oc=5",
@@ -161,66 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNTl9mV3JPSURFaUs1djdBaGVYMHA4bG9oSDJKVG12eGpZN1V0Mm9FRkxzczY3RXdFcmFYbnlsSVYtemVkV2M2bTJFNlRPSHJlcTF4M0lZNFoySmZTb05ud2tkcVRSeVNuWTFRSGphMUp5WXo5S3ZoNFFHRHhwbHlRdjdqRVZfRnQ4Wnh1b3AyS1JEUXJBRHdHMUpCaElFZE9KaUtJTmdpZW5fcDVmb3RvR3hB?oc=5",
       "publishedAt": "2026-08-07T09:01:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-usa-odds-to-win-the-world-cup-markets-say-not-likely-vegasinsider",
-      "title": "市场认为美国队赢得世界杯的可能性不大 - VegasInsider",
-      "summary": "市场称美国赢得世界杯的可能性不大 - VegasInsider",
-      "originalTitle": "USA Odds to Win The World Cup, Markets Say Not Likely - VegasInsider",
-      "originalSummary": "USA Odds to Win The World Cup, Markets Say Not Likely  VegasInsider",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1UNTJYbW9Fb296NnJpUjduMmtaMFhXWjhkQng2UnprV0Jmak1Cd0p5cS1VaXA1V0dwMjVtTm1sV01pbE9ISFg4XzBnSUtKY094aFBkQzVFMmp2c1hpcGY1SnRmaERpdmdxN2dpSzhRMEl5OVhVQ1E?oc=5",
-      "publishedAt": "2026-08-07T08:50:26+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-celebrating-south-africa-the-unforgettable-moments-from-the-2026-fifa-world-cup-iol",
-      "title": "庆祝南非：2026 年 FIFA 世界杯的难忘时刻 - IOL",
-      "summary": "庆祝南非：2026 年国际足联世界杯的难忘时刻 IOL",
-      "originalTitle": "Celebrating South Africa: the unforgettable moments from the 2026 Fifa World Cup - IOL",
-      "originalSummary": "Celebrating South Africa: the unforgettable moments from the 2026 Fifa World Cup  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcXItNFA2bkladXB0TUpvNWVSRm1wcFlDd2o4WnNTYTFIeFEwUUtPOGxwelZqZGMxTjRzRnlPbnNtaHB3U3ZQYlUxX2NzYkxCNFFmUElHUEV4bmowZHRoNHNkNTZ2V0h5RkdPdzFvMmRXVmxkRXQtYmcybER5WnpXNkVYR1dpaHc3cndQTjVpeHhtZkFFT0Y3d19kUVhwX2tlMkxBVEVhblF5bXRTQ3c?oc=5",
-      "publishedAt": "2026-08-07T08:43:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-the-2026-fifa-world-cup-changed-us-hotel-markets-hospitality-net",
-      "title": "2026 年 FIFA 世界杯如何改变美国酒店市场 - 酒店网",
-      "summary": "2026 年 FIFA 世界杯如何改变美国酒店市场 酒店网",
-      "originalTitle": "How the 2026 FIFA World Cup Changed US Hotel Markets - Hospitality Net",
-      "originalSummary": "How the 2026 FIFA World Cup Changed US Hotel Markets  Hospitality Net",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcVEydHdUTUVVNGRHTkE1U1RCZjNRbnRMYWhTd3VQcXdnZFd3ellHNnUyVEI3NkYxOXNtZU1QWGFmZzJlUDh6WmJqVDJJaVhzQVVoSjByckZRSVRlcDVxWjJ3V190NGI0T1hwQ2hHWXZyU0pMTGE1ZWlPRDd1WEw3UXM5RTQwV2pRMzBQVzF0MlRCV2Jua2xlYl9iTU8yWFE?oc=5",
-      "publishedAt": "2026-08-07T08:32:41+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-iran-says-will-play-in-fifa-world-cup-demands-hosts-accept-conditions-iol",
-      "title": "伊朗表示将参加国际足联世界杯，要求东道主接受条件 - IOL",
-      "summary": "伊朗表示将参加国际足联世界杯，要求东道主接受条件 IOL",
-      "originalTitle": "Iran says will play in Fifa World Cup, demands hosts accept conditions - IOL",
-      "originalSummary": "Iran says will play in Fifa World Cup, demands hosts accept conditions  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUHI5bnlLb0tNeF9TVnRWME1sQXJYLXNYaGhiaFY0eGNlaUJSQW9hZk1LTDhVcFdRdnprWmxjelhGb21KQWpQcFNIay15QzdzY2hOR3c5ZEczQ2hzbnNTUjJKWmpuWjJvdk5ZdHh1cE95TUVKeUpaVXlYMGpZTXZXeG1nMHBFU2xFVF9EYlo4bTV2TE0xbjV5cGhB?oc=5",
-      "publishedAt": "2026-08-07T08:20:20+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-maltese-regulator-urges-heightened-vigilance-for-suspicious-betting-during-fifa-world-cup-2026-focus-gaming-",
-      "title": "马耳他监管机构敦促对 2026 年 FIFA 世界杯期间的可疑投注提高警惕 - Focus Gaming News",
-      "summary": "马耳他监管机构敦促对 2026 年 FIFA 世界杯期间的可疑投注提高警惕 Focus Gaming News",
-      "originalTitle": "Maltese regulator urges heightened vigilance for suspicious betting during FIFA World Cup 2026 - Focus Gaming News",
-      "originalSummary": "Maltese regulator urges heightened vigilance for suspicious betting during FIFA World Cup 2026  Focus Gaming News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd2xzbTU5MU5YWS1DYkJJR1h6UUMzeGtxbGRnTDdRcEpwRVNZXzIxV1MtREZoWXBZN3R3QTdRekRJX3NfYlFwd3pINW93V0FxNExaWVJ0dHBuRk1WSU5qOUIyYVl2YUhSZ1dFcm1zX1gxcFI2STRJR3d4MDJickJhempnNzZFMGV2VUtPcWJEbzVFUDNheXoxZXdxbTZmZWxqSnRXY0NVU2Q5amUxVG9pWWh0Tm0?oc=5",
-      "publishedAt": "2026-08-07T08:05:07+00:00",
       "heat": 60
     }
   ]
