@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T21:34:51.774593+00:00",
+  "updatedAt": "2026-08-08T22:34:43.027414+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
+      "publishedAt": "2026-08-08T22:15:32+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-there-was-a-reason-for-messi-s-tears-at-the-world-cup-father-jorge-passes-away-at-68-the-quiet-supporter-who",
+      "title": "“世界杯‘梅西落泪’是有原因的”：豪尔赫神父去世，享年68岁； “创造‘足球之神’的安静支持者” - starnewskorea.com",
+      "summary": "“世界杯‘梅西落泪’是有原因的”：豪尔赫神父去世，享年68岁； “创造‘足球之神’的安静支持者”starnewskorea.com",
+      "originalTitle": "\"There Was a Reason for 'Messi's Tears' at the World Cup\": Father Jorge Passes Away at 68; \"The Quiet Supporter Who Created the 'God of Football'\" - starnewskorea.com",
+      "originalSummary": "\"There Was a Reason for 'Messi's Tears' at the World Cup\": Father Jorge Passes Away at 68; \"The Quiet Supporter Who Created the 'God of Football'\"  starnewskorea.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBXdFF4TkNWaGRKbEttMUMxNHozODhoX3cyQXZmSzVxcjZVNlNyaVBvYS1pWmlpZ1RUd1JvYzJVNTFQOXJWRm1mVU4ybW5TdFFDTUxBTDJLS3JrNFR2SFBhTlJacW5oU0E4anF2bGQ4T21zZTNTdUE3Qjd3?oc=5",
+      "publishedAt": "2026-08-08T22:08:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-vows-to-resist-attempts-to-undermine-president-infantino-punch-newspapers",
+      "title": "国际足联誓言抵制破坏主席因凡蒂诺的企图 - Punch Newspapers",
+      "summary": "国际足联发誓抵制破坏主席因凡蒂诺的企图",
+      "originalTitle": "FIFA vows to resist attempts to undermine president Infantino - Punch Newspapers",
+      "originalSummary": "FIFA vows to resist attempts to undermine president Infantino  Punch Newspapers",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3lsdGNFU2hzR2VLREtYdTBIaHVNanVHSDQ1N3N1N29zdTljSk5WWktlLXlLT1FEUC1BUU5vbnE5OGJ4U0RpQXNHbU4yOUp6NzUtSklqNFJVY0JIeWhOT3BkVnY2Qi1aWDZiTlprVy1xLVd0bGQtM1NKd28xX1pHVnFnbHZYYXNzamc?oc=5",
+      "publishedAt": "2026-08-08T21:32:13+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-adidas-spain-2026-world-cup-winners-2-star-kit-edition-released-available-next-week-footy-headlines",
+      "title": "阿迪达斯西班牙 2026 年世界杯优胜者 2 明星球衣版发布 - 下周发售 - Footy Headlines",
+      "summary": "阿迪达斯西班牙 2026 年世界杯冠军 2 明星球衣版发布 - 下周发售",
+      "originalTitle": "Adidas Spain 2026 World Cup Winners 2 Star Kit Edition Released - Available Next Week - Footy Headlines",
+      "originalSummary": "Adidas Spain 2026 World Cup Winners 2 Star Kit Edition Released - Available Next Week  Footy Headlines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTVY2SHM0S3B0QzBWWTVpdFgtcEpsSFcyLVE1OFFvdkR3bGJaX040eUpxZ200bVpGVS16UnNqbW8zQUV6VUlDZEZXV21BeXZkTTFzNExwa3FmSlFicUVkREtBVEg0ZmJaY3g2WTlpRklnV3FMUm9jWnQyVW1Ib0JCOEdyUHFnWVFKTEhrOFF3TjJhNFhUSGRwTUVGbVYyZUFTcXBxRUdoVk9MenJzVzRmRFFzSWI2U0NhTUxCNEFUQnZyaGlQLUlBOUN3?oc=5",
+      "publishedAt": "2026-08-08T21:28:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-messi-and-ronaldo-targeted-by-threats-during-2026-fifa-world-cup-leaked-security-file-reveals-morocco-world-",
       "title": "泄露的安全文件显示梅西和罗纳尔多在 2026 年 FIFA 世界杯期间受到威胁 - 摩洛哥世界新闻",
@@ -20,16 +68,28 @@
       "heat": 60
     },
     {
-      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "id": "google-news-algeria-reach-wafcon-semi-finals-and-world-cup-bein-sports",
+      "title": "阿尔及利亚进入WAFCON半决赛和世界杯 - beIN SPORTS",
+      "summary": "阿尔及利亚进入 WAFCON 半决赛和世界杯 beIN SPORTS",
+      "originalTitle": "Algeria reach WAFCON semi-finals and World Cup - beIN SPORTS",
+      "originalSummary": "Algeria reach WAFCON semi-finals and World Cup  beIN SPORTS",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
-      "publishedAt": "2026-08-08T19:17:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNSjNnXzF0U3VJZ2JvZFhDYndjZFBScDR3RDZzcjRJUGliUmlTN3NYVWE5eWxIWWpVLWFmZklHN3RQdURoRHFfdW5aSTZtdTRoZTRPek1URTdjMU9GZmJxdlJkdk1IcFBkY0ZCakFVRnJMYlhHenZVUHF3MVktRHhickdHSkF6ODRzTGZOSl9UemlSVU85WUxyMW5OVjFEZDNqLUthUHg2ek9Udm5rRVRmWjFuUXM1LWo5TnczZGlvaWEzbEQ0bTlxcVY5MA?oc=5",
+      "publishedAt": "2026-08-08T20:01:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-argentina-official-squad-announced-for-fifa-world-cup-2026-argentina-26-man-squad-revealed-cnn-news-gdrgwlin",
+      "title": "🇦🇷 阿根廷 2026 年世界杯官方阵容公布 |阿根廷26人大名单揭晓！美国有线电视新闻网新闻 (GDRgWlInBh) - Mshale",
+      "summary": "🇦🇷 阿根廷 2026 年世界杯官方阵容公布 |阿根廷26人大名单揭晓！美国有线电视新闻网新闻 (GDRgWlInBh) Mshale",
+      "originalTitle": "🇦🇷 Argentina OFFICIAL Squad Announced For FIFA World Cup 2026 | Argentina 26-Man Squad REVEALED! Cnn News (GDRgWlInBh) - Mshale",
+      "originalSummary": "🇦🇷 Argentina OFFICIAL Squad Announced For FIFA World Cup 2026 | Argentina 26-Man Squad REVEALED! Cnn News (GDRgWlInBh)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE16Wm9GcTl3bnpSbW5DS25IM2NVSW1xcmRnSGZLMHRsUGxNM1ZkTzIxZm5oRTNlVGtVbU8xVG9SNmozS05tNzE0REJGd2N2QzRaOG9TZHNBLTd4TWEtSEl4eQ?oc=5",
+      "publishedAt": "2026-08-08T19:44:38+00:00",
+      "heat": 60
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -118,7 +178,7 @@
     {
       "id": "google-news-mohanlal-shares-video-from-fifa-world-cup-2026-final-in-new-jersey-the-news-mill",
       "title": "Mohanlal 分享 2026 年新泽西世界杯决赛视频 - The News Mill",
-      "summary": "Mohanlal 分享了新泽西 2026 年 FIFA 世界杯决赛的视频 The News Mill",
+      "summary": "Mohanlal 分享了 2026 年 FIFA 世界杯新泽西决赛的视频 The News Mill",
       "originalTitle": "Mohanlal shares video from FIFA World Cup 2026 final in New Jersey - The News Mill",
       "originalSummary": "Mohanlal shares video from FIFA World Cup 2026 final in New Jersey  The News Mill",
       "translation": "online",
@@ -128,11 +188,23 @@
       "heat": 60
     },
     {
+      "id": "google-news-zlatko-dalic-resigns-as-croatia-coach-after-2026-world-cup-round-of-32-exit-the-news-mill",
+      "title": "2026 年世界杯 32 强出局后，兹拉科·达利奇辞去克罗地亚教练职务",
+      "summary": "2026 年世界杯 32 强出局后，兹拉科·达利奇辞去克罗地亚教练职务",
+      "originalTitle": "Zlatko Dalic resigns as Croatia coach after 2026 World Cup Round of 32 exit - The News Mill",
+      "originalSummary": "Zlatko Dalic resigns as Croatia coach after 2026 World Cup Round of 32 exit  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlNJRmpHeUdDSWExZnJuSndmbVFHZUdiS0dCMHloVEN2UDhNdnlJVDZHeVRxYS1WbW1GaUUzYUlLN2FBOXNtNVFJTkRyNXlEZ2FEUDN3VW1JYjYyVXJXUnlwWV9qeXBhY1d4d1duWWh4YkF5NjA1eWcwSFppcWg5RFdIVFV0TWQ5N2VMYVRXNmNxeE5hYWVPTXJjQmlQdGY2bTlPMlVPeF9TeEF3?oc=5",
+      "publishedAt": "2026-08-08T17:42:12+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-nff-clears-air-on-demand-for-infantino-to-step-down-as-fifa-president-soccernet-ng",
-      "title": "NFF澄清要求因凡蒂诺辞去国际足联主席职务 - Soccernet.ng",
-      "summary": "NFF 澄清要求因凡蒂诺辞去国际足联主席职务 Soccernet.ng",
-      "originalTitle": "NFF clears air on demand for Infantino to step down as FIFA president - Soccernet.ng",
-      "originalSummary": "NFF clears air on demand for Infantino to step down as FIFA president  Soccernet.ng",
+      "title": "NFF澄清要求因凡蒂诺辞去国际足联主席职务的要求 - 足球网",
+      "summary": "NFF 澄清因凡蒂诺辞去国际足联主席职务的要求 soccernet.ng",
+      "originalTitle": "NFF clears air on demand for Infantino to step down as FIFA president - soccernet.ng",
+      "originalSummary": "NFF clears air on demand for Infantino to step down as FIFA president  soccernet.ng",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9rNXhfejJQeHJPNy1qbjdoQmpqS3Bpa2xmbk44UFdIMHpTSldQbzE5WDZ6XzlMbFdMOGFBM3Rla2pJZE5NVFA0cWZjTXlRNFdKQzEtYzE1ZS1RZXNTNEY5Nnln?oc=5",
@@ -140,88 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-场均盘带成功-serie-a2025-2026的juventus数据-fotmob",
-      "title": "场均盘带成功 — Serie A2025/2026的Juventus数据 - FotMob",
-      "summary": "场均盘带成功 — Serie A2025/2026的Juventus数据  FotMob",
-      "originalTitle": "场均盘带成功 — Serie A2025/2026的Juventus数据 - FotMob",
-      "originalSummary": "场均盘带成功 — Serie A2025/2026的Juventus数据  FotMob",
+      "id": "google-新闻-中文-对方禁区内触球-asean-championship2026的indonesia数据-fotmob",
+      "title": "对方禁区内触球 — ASEAN Championship2026的Indonesia数据 - FotMob",
+      "summary": "对方禁区内触球 — ASEAN Championship2026的Indonesia数据  FotMob",
+      "originalTitle": "对方禁区内触球 — ASEAN Championship2026的Indonesia数据 - FotMob",
+      "originalSummary": "对方禁区内触球 — ASEAN Championship2026的Indonesia数据  FotMob",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeEU0ZGNMRG9Fc1Y1cE15c2tkYWc3NkxBaFFmZGdMMkZHczhqbVFnM1ltMmh3bEg2MHdPT1B6OE0tN3RhYmE0b1VXSjBiZW9JTk9scnFCVEd6UFpkOVhxOU5pdVYwcHlHV201alJuaUM0WkhNTGVFUnRHWkdrXzZBaThhcm93QmNJSkVqdm9Ra3dmU2xxNWxOYWxFZ3l1TURZQWY5Tk9mZEIwVVc0aWYzQ1BEeXRTWEZFa0pMZUtVSUVmV2ptQlBleQ?oc=5",
-      "publishedAt": "2026-08-08T17:05:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwRBVV95cUxQOGtHcFZ4WWpSSHB3NGNGREdWWGd2eS1nTENOVnNuMTFuaTRUZG5SenoxVDNVRXJtVEFpSjhzZHhMTVZzRXR0WTdRdm0tYXpScFc2WXBEalBlNHBNYUZySGJMN0gxVUhjbS03dW5PMlZ1WmdUYy1mbmwxa0pWWEFpd2xrWUR2RDROV2IxY1ZhSVlpM21pbDNsNFZZUWU0dV9kazRKajFWd0prM211aWx4WUdMbFB6ZHZQejNpdzdkYkpkWDFsQ29Ud1c0Z0d4NHA3R1oweVpJSlNCMTk1aU1tWFdYRGxXNVgxOWpvYXFweVVtSTRGb3RVbnh5NDlsQnhSQ01XODRPTUdDaDdSSTBtbnBaOWgtN2YyZWNrbW9XTWg3cVQxMmljNnoxSlRsZ1g2blkxRDVhS0dCdHRtWl9sM1pJLXVUekl2Tk1DcFZwMWpZRXZuVHN0TzktcXF1ZWpRSWw0elBhMmxVbGhudUF2Nm9yMkRISi1nYXZoVHhCNlFyaGJETFIwTFBNVElKWjl5QlkzTVBmUlU4bTR4aEtDX0V3dHRZcDFqZlo3QkYzMDg5N2NQenNWUFk0aWJuMnBhdjVNTTd6UXEyWEZmcjRTRF83SmZiU0hUNkc1MklsYUIyTG83X0swd2ttZlRkckYwclRkT2UxR0lxaGNGVjBrUENlaGJGcVFtWkE4ckxuV1I5eWd3SGVj?oc=5",
+      "publishedAt": "2026-08-08T17:35:22+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-assailants-plotted-to-assassinate-messi-at-world-cup-thewhistler-ng",
-      "title": "“袭击者密谋在世界杯上暗杀梅西” - thewhistler.ng",
-      "summary": "“袭击者密谋在世界杯上暗杀梅西”thewhistler.ng",
-      "originalTitle": "‘Assailants Plotted To Assassinate Messi At World Cup’ - thewhistler.ng",
-      "originalSummary": "‘Assailants Plotted To Assassinate Messi At World Cup’  thewhistler.ng",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNU0hrWFprMTRuUGd6ZkpLZlJySWxuLXNMOTJLZG4wcEdwZFYtd1JzdVpqRjRoMnJPcDhrRkxiaVFLNGNpOUl5eWNxT0c2Z2c4Q1BiQjJwSzc1SlpVcmtteGs3d2RSRVRuLTd2d2ZGcDhHSTdiVFU4TXY3MUlYNTJtdVdB?oc=5",
-      "publishedAt": "2026-08-08T16:35:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-messi-targeted-in-bomb-threats-during-world-cup-report-punch-newspapers",
-      "title": "梅西在世界杯期间成为炸弹威胁目标 - 报道 - Punch Newspapers",
-      "summary": "梅西在世界杯期间成为炸弹威胁目标 - 报道 Punch Newspapers",
-      "originalTitle": "Messi Targeted in Bomb Threats During World Cup – Report - Punch Newspapers",
-      "originalSummary": "Messi Targeted in Bomb Threats During World Cup – Report  Punch Newspapers",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDhIbTZYdUZGSzZUOXhtTDM4MWFCR0JSN2o3Qko5dzQxQVZrc0NJQjJQTklkdWJwa29LUFE4a19Lb0pEalUwMnVpekpodWJncFM4dWVERkF1amg3MjBKeHh2cE5sT3ZyZkJnek9EZS13TzlPclo1VmRnSEY0X0M3WQ?oc=5",
-      "publishedAt": "2026-08-08T15:58:25+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mexico-advances-to-fifa-world-cup-2026-round-of-16-with-2-0-win-the-news-mill",
-      "title": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强 - The News Mill",
-      "summary": "墨西哥以 2-0 获胜晋级 2026 年 FIFA 世界杯 16 强",
-      "originalTitle": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win - The News Mill",
-      "originalSummary": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlBZWHhnZmJnTWdHQzhoWmVpNlNWaWR6VU5fenpoVUo5U2xySVktSXhYcFZWcXZKblZYYzZuUlcwY3RVVzVUMWNzcl9IWUNGb3V4TVhVSXYtZUowNDBOSDlvV2RtdHBDdnFNdEFDcS1oY1h3QmlzY0JDLTZqNjhtOGJELTg1TUNLbkhFRXRYc3dncjlwS0hYUVo2NEVmZw?oc=5",
-      "publishedAt": "2026-08-08T15:52:38+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-england-and-norway-honor-jayden-adams-before-world-cup-match-the-news-mill",
-      "title": "英格兰和挪威在世界杯比赛前向杰登·亚当斯致敬 - The News Mill",
-      "summary": "英格兰和挪威在世界杯比赛前向杰登·亚当斯致敬 - 新闻中心",
-      "originalTitle": "England and Norway Honor Jayden Adams Before World Cup Match - The News Mill",
-      "originalSummary": "England and Norway Honor Jayden Adams Before World Cup Match  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUWp6Q3lobzdTWVpWYUtrbFp0SDN6X04xZ3RiTHdhWFZRcGhyb2hDYmlSaFE2YXByUjZjSC1zdnhMUDdFdGJ2RkVRNjFXbDFkUlptRmh1MzB3Ymk5WGZVWTRYek9pczRLNk85TEZEMUdHQTd6VjVTbDNBWUp5YUp4SDRKaGlOLTV0Tmptd1JGY09RaER1ZG5ORXpKNUlLb2I1WThoYWlBRV9MZldaeU1rWVhNSzNiQQ?oc=5",
-      "publishedAt": "2026-08-08T15:52:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-harry-kane-shines-as-england-beats-mexico-in-world-cup-2026-the-news-mill",
-      "title": "哈里·凯恩在 2026 年世界杯上闪耀英格兰击败墨西哥 - The News Mill",
-      "summary": "哈里·凯恩 (Harry Kane) 闪耀 2026 年世界杯英格兰击败墨西哥 - 新闻中心",
-      "originalTitle": "Harry Kane Shines as England Beats Mexico in World Cup 2026 - The News Mill",
-      "originalSummary": "Harry Kane Shines as England Beats Mexico in World Cup 2026  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdC02SFBfckYwQ0tRTUVmNWhtUWJXQmlIRFUyRmFSN1hwTlZfMXpqdHlucGtyVzNFY21RY0J5N0dJNUkwUHJmNmdOMDhUYld4VkJSR0l6clVhZjl4cXBqXzNuYUU3R0M0Yl95SnlqZnYyNHFyeWNoZWg1R3M4T1B1WVhQbkZldkZ1YzBCdWJkWGp5Q0NDMWR6RF9WRHRzVDRuc3ROSlduTTZIa1E?oc=5",
-      "publishedAt": "2026-08-08T15:52:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cristiano-ronaldo-expresses-support-for-portugal-after-world-cup-round-of-16-exit-the-news-mill",
-      "title": "世界杯16强出局后，克里斯蒂亚诺·罗纳尔多表示支持葡萄牙 - The News Mill",
-      "summary": "世界杯 16 强出局后，克里斯蒂亚诺·罗纳尔多表达了对葡萄牙的支持 The News Mill",
-      "originalTitle": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit - The News Mill",
-      "originalSummary": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjg1cG5yTDFFQ3lzZ0JGRjVpXzlmTEFId3FOSW9FOFFlX2s4UUpaUERXLVdUelpOOW9DNkpzcDNtYlM1ZjVnVlp3ajRmYXF5YW9TcnlDUUstLTM5SVVwQzJGcnpXSkVvT2lqNXVRVDMtdEFyRzdpa3A4R3V2ZlVfaFNyNXlPTXEtV1ExRlBVMWhQa0JEZVFNeFp4cjM3LThJeXktU0h1LXdVV29SQXZUeWNKaVg?oc=5",
-      "publishedAt": "2026-08-08T15:52:14+00:00",
-      "heat": 52
     }
   ]
 }
