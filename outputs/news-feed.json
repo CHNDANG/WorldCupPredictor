@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T09:42:34.033959+00:00",
+  "updatedAt": "2026-08-08T10:38:56.506135+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-marseille-tracking-egypt-international-haissem-hassan-after-world-cup-breakthrough-get-french-football-news",
+      "title": "马赛在世界杯突破后追踪埃及国脚海塞姆·哈桑 - 获取法国足球新闻",
+      "summary": "马赛在世界杯突破后追踪埃及国脚海塞姆·哈桑 获取法国足球新闻",
+      "originalTitle": "Marseille tracking Egypt international Haissem Hassan after World Cup breakthrough - Get French Football News",
+      "originalSummary": "Marseille tracking Egypt international Haissem Hassan after World Cup breakthrough  Get French Football News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYmZCY1hqcnE2LTVtNFhrQnRnY04zNVFrOGNwMTN6Y3N1VmRaMjVEaHh1R1lHMmZkV3d1QXhWbVdza0MwN19lWi1IS0FpRC1xU21rM3h3ZFB4bWVSR3dRS1RBNFVSdVZnc2dGTnpYNDIzZnU4dlgwRERTcnlwdzRUcktNR0FpR3pWY3J2eW9nb2lYZ0h3TGJPQldacndhNW5RZ3R0UmZRZWJSRWpmdU82UV9STDMzRlF4OEZQU3dRZlM0TzhF?oc=5",
+      "publishedAt": "2026-08-08T10:25:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-d-fend-s-enforceair-provided-fifa-world-cup-2026-counter-drone-security-unmanned-airspace",
+      "title": "D-Fend 的 EnforceAir 为 2026 年 FIFA 世界杯提供反无人机安全保障 - 无人空域",
+      "summary": "D-Fend 的 EnforceAir 为 2026 年 FIFA 世界杯提供反无人机安全保障 无人空域",
+      "originalTitle": "D-Fend’s EnforceAir provided FIFA World Cup 2026 counter-drone security - Unmanned airspace",
+      "originalSummary": "D-Fend’s EnforceAir provided FIFA World Cup 2026 counter-drone security  Unmanned airspace",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOTjVpZEZZU3oxd2Vxd29oOEZoSUN2YXQ3NW13NEUxZUNMOVNSVm96ZlVVYnJiZUVNc3ZwYnhOX1NFM3hzNFR5QWJXeTZYb21TZXpiOVlvZzh6ZE5EU1JVdmcwY09ZN0JDc0xXc2lESWNhVjNNTkVNZkk4bUpXRDBvR2p3XzZ1QUlRc0t6TEg2LWJUdF90NUxxVU9PY2U1dWpwQVBXcG1QWE9hb2syMk5ldWtTdG5xazl0enpYUFZvNTZFQnJaMHU0ZGVzVHBULWx5NHgxNg?oc=5",
+      "publishedAt": "2026-08-08T10:03:40+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
+      "publishedAt": "2026-08-08T09:45:49+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-chief-infantino-gets-backing-of-south-american-football-citizen-digital",
       "title": "国际足联主席因凡蒂诺获得南美足球的支持 - Citizen Digital",
@@ -32,6 +68,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-messi-and-ronaldo-wear-legacy-badge-at-fifa-world-cup-2026-the-news-mill",
+      "title": "梅西和罗纳尔多在 2026 年 FIFA 世界杯上佩戴“Legacy”徽章 - The News Mill",
+      "summary": "梅西和罗纳尔多在 2026 年 FIFA 世界杯上佩戴“Legacy”徽章 The News Mill",
+      "originalTitle": "Messi and Ronaldo wear ‘Legacy’ badge at FIFA World Cup 2026 - The News Mill",
+      "originalSummary": "Messi and Ronaldo wear ‘Legacy’ badge at FIFA World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQT2J1b0VvbExONmlKdXYwb0VBajB0N0FlRnFEY2J6TklEREJqalYwYXNoZzJuQUJlYUFFVzE5Q2FzbGR0T29qelBNamZjMkx2ekMzSUtSc2wzNVFQWlZjMXpteGEweW1kbndDQlNzUGNsWGpZSFpzWmRoM01KNGdfbFVlLW9Yb0J5Y2tKOUMtYVpxdXc4NlE?oc=5",
+      "publishedAt": "2026-08-08T09:17:28+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-uruguay-appoint-diego-forlan-as-interim-head-coach-after-world-cup-debacle-the-business-standard",
       "title": "世界杯惨败后乌拉圭任命迭戈·弗兰为临时主教练 - 商业标准",
       "summary": "世界杯惨败后，乌拉圭任命迭戈·弗兰为临时主教练 The Business Standard",
@@ -42,6 +90,18 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWx0MzJ6cC00dTU5U0VPcDdaTEFpTnRZZjctXzVmZlBJZlN0a05yaW51Z2NzdjBtTnh3SHpFbExua0xETzVlQ0NSUlhfbGpzdVBLQmJQRXk2LXMwOWNrdDVVVktZUjVCTXlhWTRsWlZjTFRKam1Mc1FjM1MyME9uRmc1ZTN4enJmNnJFdEI3RHk2VVEwLXBwbFpDcTFPVHcwbnNrQUY1aFZsbU8yTzE00gG0AUFVX3lxTE5tZm5EUVNJZ3ZVZ0lKemRpWWFWYUI3VExRVGl0MzZXX1JLMFN5d05qaWhtVk8tMkpiS2ltN0R3Qk9vRW44d1J5Ny1SS09kbF9RVEhuOExicUM3WFZPQ2hndDVxaWItNDNfMHBHOXFMTzh1UmQwUWZMNlVQLVRyOHJuMGhMUExDUUtHR1FpMExvOHJ5ZUJMbEdkODQxeHJVaWpMYy1ENUFxOFROa2JaNzNiLUFtbA?oc=5",
       "publishedAt": "2026-08-08T09:00:41+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-tickets-go-on-sale-igor-thiago-a3oikyse23-mshale-com",
+      "title": "2026 年 FIFA 世界杯门票开始发售 伊戈尔·蒂亚戈 (a3OikYsE23) - mshale.com",
+      "summary": "2026 年 FIFA 世界杯门票开始销售 Igor Thiago (a3OikYsE23)  mshale.com",
+      "originalTitle": "2026 FIFA World Cup Tickets Go On Sale Igor Thiago (a3OikYsE23) - mshale.com",
+      "originalSummary": "2026 FIFA World Cup Tickets Go On Sale Igor Thiago (a3OikYsE23)  mshale.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA1RGZrWTA1Nkdnby1ZSGZBUHZ6Wm5PUlBuZXdqQzdvTll6UEZObjBiYTJ3dWZZQVgzTlByWlh6eWlkcEFLQVZjczlOa2JLdWt1a2tvQ2VmWTVlLU0?oc=5",
+      "publishedAt": "2026-08-08T08:35:25+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
@@ -77,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlQ5cjl5b3VneXlRRDFLY2RYOV90Ql92MHBaQ2R0WVZBOHNYZ2JSNDItNXRCN29jc3NjN25JMmRzOVRwM1RwXy1QTFBBMDJ4M3lUWXF3TFRZUi1vQUZTZWJpeG9DdWlLem5oejMyS2c4eVg5NDU3czJ5UkZYT2JvSVpMR0xKbXpoWnBZTm9vRVRtTXR1UnZtQUVlYw?oc=5",
       "publishedAt": "2026-08-08T07:20:33+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-mexico-showcases-2026-world-cup-preparations-to-local-travel-agencies-وكالة-الانباء-الاردنية",
+      "title": "墨西哥向当地旅行社展示 2026 年世界杯筹备工作",
+      "summary": "墨西哥向当地旅行社展示 2026 年世界杯筹备情况",
+      "originalTitle": "Mexico showcases 2026 World Cup preparations to local travel agencies - وكالة الانباء الاردنية",
+      "originalSummary": "Mexico showcases 2026 World Cup preparations to local travel agencies  وكالة الانباء الاردنية",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRWU2eFVrWDZxUEc1bU9LaEkyOWgyOVQzS3dHaHhWaE5CcG5VT2QtbDNIY2hocDZySmM3UEVKZ3RrZmsweC1PdDRHcEJYbERNc2lmN0JxXzYwSlNmYmM4Tzl4emVaWFVIWU5Vd3F5bHp3S1dBYzZkM2s4MDc2b3B3eFluMDBPeFlLR2c3VlAya2taM2ZLaVd6YWF4YUlRWDVVTENuNXA5VTB4Z1VvUWlzb0NNaGk?oc=5",
+      "publishedAt": "2026-08-08T07:09:12+00:00",
       "heat": 52
     },
     {
@@ -140,87 +212,15 @@
       "heat": 44
     },
     {
-      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
-      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
-      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
-      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
-      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
+      "id": "google-news-world-cup-2026-final-betting-explained-odds-markets-european-gaming",
+      "title": "2026 年世界杯决赛投注解释：赔率与市场 - 欧洲博彩",
+      "summary": "2026 年世界杯决赛投注解释：赔率与市场 欧洲博彩",
+      "originalTitle": "World Cup 2026 Final Betting Explained: Odds & Markets - European Gaming",
+      "originalSummary": "World Cup 2026 Final Betting Explained: Odds & Markets  European Gaming",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
-      "publishedAt": "2026-08-08T05:44:48+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-the-ageless-icon-cristiano-ronaldo-defies-time-to-claim-eusebio-s-crown-and-make-world-cup-history-iol",
-      "title": "永恒的偶像：克里斯蒂亚诺·罗纳尔多不畏时间夺取尤西比奥桂冠并创造世界杯历史 - IOL",
-      "summary": "永恒的偶像：克里斯蒂亚诺·罗纳尔多不畏时间夺取尤西比奥桂冠，创造世界杯历史 IOL",
-      "originalTitle": "The ageless icon: Cristiano Ronaldo defies time to claim Eusebio’s crown and make World Cup history - IOL",
-      "originalSummary": "The ageless icon: Cristiano Ronaldo defies time to claim Eusebio’s crown and make World Cup history  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ05VLXF0TzFMSDlicnlsZ3Q3eFpWeHlRenR6RVR1MEtIWDlZb0ZYV2NqeFVHaUxycDl1NGhqMDlpU3dlRnZPem1oc1locFBxeHVwV0g3RVVKOXkybU9LS21fdU93YS1mckFDeGFYVVE0N0F6Tzh0c0dQODJXdDJIeEd5UGQ3VDJOVGVmQjF0ZTlPb2h2d2djdHpVVFlMajhaNEJZTUljSmNWbkV4b2UyaEJLc0FIUXVaemlpOHRCeUNGSVBPbFE?oc=5",
-      "publishedAt": "2026-08-08T05:34:55+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-每90分钟抢断-world-cup2026的algeria数据-fotmob",
-      "title": "每90分钟抢断 — World Cup2026的Algeria数据 - FotMob",
-      "summary": "每90分钟抢断 — World Cup2026的Algeria数据  FotMob",
-      "originalTitle": "每90分钟抢断 — World Cup2026的Algeria数据 - FotMob",
-      "originalSummary": "每90分钟抢断 — World Cup2026的Algeria数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRkI3NFVLUEF6TS00bHZkYmNHNzJrN0NpT0c4aVVrM0wwdkhZU0VyQkFMeEM5RV9uUm16YkhyVWszVWdIZVdCSXVBRVlxd1J3Z1ZXelJvTUNORUhQRGdPSnVRMzVNSFJWeGphZFYtR1I4YlN1dHRZUEFTRHpxSXRfRnVOaVdhVDQ0WV9ObUczZm1hNGRkQ293eGc4aDgxMmotaUFBaEdIaTE?oc=5",
-      "publishedAt": "2026-08-08T05:31:19+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
-      "title": "2026世界杯足球赛 - voachinese.com",
-      "summary": "2026世界杯足球赛  voachinese.com",
-      "originalTitle": "2026世界杯足球赛 - voachinese.com",
-      "originalSummary": "2026世界杯足球赛  voachinese.com",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-08T05:12:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-kim-min-jae-speaks-out-on-world-cup-showing-preferred-traits-for-next-korea-coach-the-korea-times",
-      "title": "金珉载谈世界杯表现，他更喜欢下一任韩国主教练的特质 - 韩国时报",
-      "summary": "金珉载在世界杯上畅所欲言，展示了下一任韩国教练的首选特质 - 韩国时报",
-      "originalTitle": "Kim Min-jae speaks out on World Cup showing, preferred traits for next Korea coach - The Korea Times",
-      "originalSummary": "Kim Min-jae speaks out on World Cup showing, preferred traits for next Korea coach  The Korea Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVd2YUdxNENkSzVUTlZBOUF5V0JISmlKRk1NLVJUZmVoN2gyTVo0Tm1kenRDNm9FdEJQQWhwNTlIc180Mk0wdVM0VDUxME44OHF2UWlkQnVUT2JQZUhCeFNaWE1OaFJxbThXdktpcHlQbGxCTWI0YTNTbmtubWJYYi04VHUzRFI2cXc3bm1QS3hZYXFxZ04xaVdlMFlTVXo2UFRSOGh6eXRDdlk5eEtXQkZuaVNXbDhmbXo4Y2VuVjItMTVI0gHKAUFVX3lxTE5CeTFkODZmVDY3SU4tellIRDRHSWNRZUdJOGRCWFhxaUYtdDVrY21LRnNhUXRSdHQyQjdlRW5PTnhsSW1wZHh3WVZMbk9wLTJ3NmFWQU5odUdQOWd2aHF4TnBRWGJYenNSS0tzYkJ3Vi1VeHE5UzNMZEdDVjV0RktrSHFwVDdxaUJHaU9aVkZWR1lsT3RXSEJWR2JiTjJFWGpWMTRNTF9rMC1zOWVHaWdaWkVVSnpmUFJ5NzZoV21VYVo5Q3JQdVNYMFE?oc=5",
-      "publishedAt": "2026-08-08T04:53:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-all-48-participants-in-the-2026-fifa-world-cup-have-been-determined-turkmenportal-com",
-      "title": "2026年世界杯全部48名参赛名单已确定 - 土库曼斯坦门户",
-      "summary": "2026 年 FIFA 世界杯全部 48 名参赛名单已确定 Turkmenportal.com",
-      "originalTitle": "All 48 participants in the 2026 FIFA World Cup have been determined - Turkmenportal.com",
-      "originalSummary": "All 48 participants in the 2026 FIFA World Cup have been determined  Turkmenportal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQUTFhdW5qRmFJZTljZUJuQzRoM2tCR21wZGJTSDFCME5ZVVYtUWN5NHdiMFJLMWxlQ1ZCMDh0QWMxaGhqWERPS0JlQk1oa2FhZXN1SGlwbDdlWU9GdnNvZDRqMnFBaEtsYVl4YjRVMlJBbmZ3T01DalAwU0dEQldmMDJiNDQ3dkdJS1I0TlJmc3FGdU51R1hubVpKSXRsYURveVJZNjAtT3JXWjB0R25zX3EzSzBNUk1BTmZmVmEyQi1mc1ZhWDcyQUJSc0xRczlvcFRxNHFpcVNPR3NsRDRDeElXS3N0TkpSRWx4bjVB?oc=5",
-      "publishedAt": "2026-08-08T04:37:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-players-return-home-to-huge-welcome-2026-fifa-world-cup-brisbane-aounm21qxn-mshale-com",
-      "title": "阿根廷球员回国受到热烈欢迎！ 🙌🏆 2026 年 FIFA 布里斯班世界杯 (aounm21QXn) - mshale.com",
-      "summary": "阿根廷球员回国受到热烈欢迎！ 🙌🏆 2026 年 FIFA 世界杯布里斯班 (aounm21QXn)  mshale.com",
-      "originalTitle": "ARGENTINA PLAYERS RETURN HOME TO HUGE WELCOME! 🙌🏆 2026 FIFA World Cup Brisbane (aounm21QXn) - mshale.com",
-      "originalSummary": "ARGENTINA PLAYERS RETURN HOME TO HUGE WELCOME! 🙌🏆 2026 FIFA World Cup Brisbane (aounm21QXn)  mshale.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9PakJIT29BQWlQSWF6VXEzVk53Z0otSjh0c3pYSE52TEdxX0k0UWVicHE3WlRFd0I5MFdfcDJQbVhiWGN6ZjNnYWtSMkFzWG9YcHNwaHpxNWF0Y1U?oc=5",
-      "publishedAt": "2026-08-08T04:35:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFA3dW9VVVl3MDZVNWJNa2RzN2F3QUwycTVHeXdBNi1BaG9SRjA2WnRiX0dDZGk0Q0JaSmpqNTIwUFZxQmpYdFY5UGNEN1B1b2loSzhpU2NoODU3clpXaVF6dldxSTlaU3JD?oc=5",
+      "publishedAt": "2026-08-08T06:00:00+00:00",
       "heat": 60
     }
   ]
