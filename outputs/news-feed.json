@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T17:35:24.666838+00:00",
+  "updatedAt": "2026-08-08T18:44:30.655555+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-messi-faced-multiple-threats-during-2026-world-cup-report-vanguard-news",
+      "title": "梅西在 2026 年世界杯期间面临多重威胁 — 报道 - Vanguard News",
+      "summary": "梅西在 2026 年世界杯期间面临多重威胁 — 报道 Vanguard News",
+      "originalTitle": "Messi faced multiple threats during 2026 World Cup — Report - Vanguard News",
+      "originalSummary": "Messi faced multiple threats during 2026 World Cup — Report  Vanguard News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNEh1cGRSVVFFU0RfcFBTbU5JaWlZZ3dOTEZHRDRyTWpTRXR6M0FVMDg3bWE0VVRwSlpqWmlPVktfT2RTMGp3RUZ4TTA1RXJLdW16WUtWSmt4X09kY3Bqdmh4ck9XYzZ2SXNXODBaQlBseEhQUHV4dVFmMkx3TDQ3a1FIYy1pdnRnV0ZHem9oeHAtZmJOOVRwNFNR0gGfAUFVX3lxTE9xelRaTzBpdTh5cmJfV0hjVC0zUXB1dGtmN3dzUjR5TC0wTlJhNHlMRmFKMHJLYzFLOHdBTkpGQWF0U3Axb3E3ZVhTUlY1NVhlbF9oNWYzNW1RaDByaEl6QkxCaGROYkwyTEo1WW4wc28tWmw2YnVCOWJYd2d3ejJDZVI4cWx5TzdmMjNwYlNNcGxLb1N3WHFsVldVYkF6RQ?oc=5",
+      "publishedAt": "2026-08-08T17:35:31+00:00",
+      "heat": 52
+    },
     {
       "id": "google-新闻-中文-温哥华豪掷7亿-fifa是否给钱成谜-加西网",
       "title": "温哥华豪掷7亿 FIFA是否给钱成谜 - 加西网",
@@ -54,6 +66,18 @@
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONDhIbTZYdUZGSzZUOXhtTDM4MWFCR0JSN2o3Qko5dzQxQVZrc0NJQjJQTklkdWJwa29LUFE4a19Lb0pEalUwMnVpekpodWJncFM4dWVERkF1amg3MjBKeHh2cE5sT3ZyZkJnek9EZS13TzlPclo1VmRnSEY0X0M3WQ?oc=5",
       "publishedAt": "2026-08-08T15:57:58+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-mexico-advances-to-fifa-world-cup-2026-round-of-16-with-2-0-win-the-news-mill",
+      "title": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强 - The News Mill",
+      "summary": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强",
+      "originalTitle": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win - The News Mill",
+      "originalSummary": "Mexico Advances to FIFA World Cup 2026 Round of 16 with 2-0 Win  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMlBZWHhnZmJnTWdHQzhoWmVpNlNWaWR6VU5fenpoVUo5U2xySVktSXhYcFZWcXZKblZYYzZuUlcwY3RVVzVUMWNzcl9IWUNGb3V4TVhVSXYtZUowNDBOSDlvV2RtdHBDdnFNdEFDcS1oY1h3QmlzY0JDLTZqNjhtOGJELTg1TUNLbkhFRXRYc3dncjlwS0hYUVo2NEVmZw?oc=5",
+      "publishedAt": "2026-08-08T15:52:38+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-harry-kane-shines-as-england-beats-mexico-in-world-cup-2026-the-news-mill",
@@ -164,11 +188,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
-      "title": "2026世界杯足球赛 - voachinese.com",
-      "summary": "2026世界杯足球赛  voachinese.com",
-      "originalTitle": "2026世界杯足球赛 - voachinese.com",
-      "originalSummary": "2026世界杯足球赛  voachinese.com",
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -176,11 +200,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-journey-from-pitch-to-screen-how-ai-brings-fifa-world-cup-matches-to-homes-cafes-khaleej-times",
-      "title": "“从球场到屏幕的旅程”：人工智能如何将国际足联世界杯比赛带到家庭、咖啡馆 - Khaleej Times",
-      "summary": "“从球场到屏幕的旅程”：人工智能如何将国际足联世界杯比赛带到家庭、咖啡馆 Khaleej Times",
-      "originalTitle": "'Journey from pitch to screen': How AI brings Fifa World Cup matches to homes, cafes - Khaleej Times",
-      "originalSummary": "'Journey from pitch to screen': How AI brings Fifa World Cup matches to homes, cafes  Khaleej Times",
+      "id": "google-news-journey-from-pitch-to-screen-how-ai-brings-fifa-world-cup-matches-to-homes-cafes-khaleejtimes-com",
+      "title": "“从球场到屏幕的旅程”：人工智能如何将国际足联世界杯比赛带到家庭、咖啡馆 - khaleejtimes.com",
+      "summary": "“从球场到屏幕的旅程”：人工智能如何将国际足联世界杯比赛带到家庭、咖啡馆 khaleejtimes.com",
+      "originalTitle": "'Journey from pitch to screen': How AI brings Fifa World Cup matches to homes, cafes - khaleejtimes.com",
+      "originalSummary": "'Journey from pitch to screen': How AI brings Fifa World Cup matches to homes, cafes  khaleejtimes.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTNyM0RzbWU0M1pVc1I0ZHBtNzd1Y05FU3p3SGlEZFo0RmQzQVBMejdFX2s0Q19OR28tNUt5YjdUZXZtTG5zTTFZYnZaNGxmc05pLTJ4eC13cnZ1YmZYa3h5NUJzQkJpVmo4dDJTMnBiT3ZSZFpzc0JGS3dRS3pWNGJCQzl1amFNOUZzYk5uZ3RjVVRJSklzSXdmUG7SAaQBQVVfeXFMUHFfay02eVlrU3ZGbGswakJsaDlORzFaOUZEY3pkX0hRcDBaQVZuanVoUC1wNHpRdGtUOXJkWDR3VmdSaG5pX1NERGRDcVpidzg4d1dQdDE5NF83TUh1YWFUZnI5TnFWa1pWUUI3aFQ3RHN1eVI2OFItcVk1a05MVVBuUjZoakd5TDI5Y0hPT3dxZHU1M2lYNXFrdXpPeV9hT0o1QkI?oc=5",
@@ -189,39 +213,15 @@
     },
     {
       "id": "google-news-lionel-messi-faced-chilling-death-threats-at-2026-world-cup-disturbing-details-emerge-blowing-him-up-with-4-",
-      "title": "莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯上面临令人毛骨悚然的死亡威胁；令人不安的细节浮出水面：“用四枚炸弹炸死了他”|足球新闻 - 印度斯坦时报",
-      "summary": "莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯上面临令人毛骨悚然的死亡威胁；令人不安的细节浮出水面：“用四枚炸弹炸死了他”|足球新闻 印度斯坦时报",
-      "originalTitle": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News - Hindustan Times",
-      "originalSummary": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News  Hindustan Times",
+      "title": "莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯上面临令人毛骨悚然的死亡威胁；令人不安的细节浮出水面：“用四枚炸弹炸死了他”|足球新闻 - 印度斯坦时报.com",
+      "summary": "莱昂内尔·梅西 (Lionel Messi) 在 2026 年世界杯上面临令人毛骨悚然的死亡威胁；令人不安的细节浮出水面：“用四枚炸弹炸死了他”|足球新闻 hindustantimes.com",
+      "originalTitle": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News - hindustantimes.com",
+      "originalSummary": "Lionel Messi faced chilling death threats at 2026 World Cup; disturbing details emerge: 'Blowing him up with 4 bombs' | Football News  hindustantimes.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPZjVUQzBHZG5fcy1iWkgyMnBzQzQ5eEhwY2lGdklXT0ljdHB5OFRuQ1FXUVVEQmRHYllFUzA3eE1ybWh4RFE4ZHhlZ2Q4dV82SjVSczd0WU4xSlNucmZsMDFoOGpqbG13N1NQRWxiaFF1VUVYZW53UlNCclZEenlvNlJnWVpZdm4zSnlyR0VNRDFGRExLTjJndjE5cl9oMFdyMzN3cldTazhPc09peXR2ZElabmptZmR1YUw4TXUtY2pYelBSMXREWVA0WEdYTzQzMS1sS1M0czkzM2xyV1lQekNmX21IN3lKNlJSdDJRNDRqa1N5TlpSR2hrMkpER0tCTkpRbU9lVk0tYS1Vc2fSAZMCQVVfeXFMT3lKLUtmR3FIc1ZrWmZjVnNpTnFOWlBJUE03ZXJ6OThvcHdYMEZQcmJ4S1hwZVVfT3U4NVBMX2Z1Nk1FaUJwcW9pbjBGT1ZabWNVT19UaHktbm4zVzAzdTIzYjZnZXoyQUVJdmdPdlRhdHd0LXg2OEZyRVdNTFFoSUwtcllxMXNyaXhjcnZQclNaLVBQc1pHM0FWekVvM1BVUTFmT2xXTnlndGVtamVNcUE0cGdZenNUODZHakpjdE54VnB5NndoZFl2RTJBc0VJd2NlcVNwanhpWWgzRExseWM5a1NWM3ZYWHBaTjN6WTRXczd3TzJuUmNNSFppbUxKalRCSnpGbm1hZWNZbzhYaFpPbVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeUotS2ZHcUhzVmtaZmNWc2lOcU5aUElQTTdlcno5OG9wd1gwRlByYnhLWHBlVV9PdTg1UExfZnU2TUVpQnBxb2luMEZPVlptY1VPX1RoeS1ubjNXMDN1MjNiNmdlejJBRUl2Z092VGF0d3QteDY4RnJFV01MUWhJTC1yWXExc3JpeGNydlByU1otUFBzWkczQVZ6RW8zUFVRMWZPbFdOeWd0ZW1qZU1xQTRwZ1l6c1Q4NkdqSmN0TnhWcHk2d2hkWXZFMkFzRUl3Y2VxU3BqeGlZaDNETGx5YzlrU1YzdlhYcFpOM3pZNFdzN3dPMm5SY01IWmltTEpqVEJKekZubWFlY1lvOFhoWk9tUdIBkwJBVV95cUxPeUotS2ZHcUhzVmtaZmNWc2lOcU5aUElQTTdlcno5OG9wd1gwRlByYnhLWHBlVV9PdTg1UExfZnU2TUVpQnBxb2luMEZPVlptY1VPX1RoeS1ubjNXMDN1MjNiNmdlejJBRUl2Z092VGF0d3QteDY4RnJFV01MUWhJTC1yWXExc3JpeGNydlByU1otUFBzWkczQVZ6RW8zUFVRMWZPbFdOeWd0ZW1qZU1xQTRwZ1l6c1Q4NkdqSmN0TnhWcHk2d2hkWXZFMkFzRUl3Y2VxU3BqeGlZaDNETGx5YzlrU1YzdlhYcFpOM3pZNFdzN3dPMm5SY01IWmltTEpqVEJKekZubWFlY1lvOFhoWk9tUQ?oc=5",
       "publishedAt": "2026-08-08T12:09:14+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn",
-      "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN",
-      "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN",
-      "originalTitle": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN",
-      "originalSummary": "2026 ASEAN Championship: Fixtures, results, standings, how to watch  ESPN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPS1ZMSnBzNnpGMWZFaGpGaVNDYlE4MThqTUZma0FLSDJfTDJpaC1RRmllbDZkUVUtVm9zdGh6Um8zd25vbXktdFNYUGxWSkpHZGlpVmhWX0xrTjRYMHNENk43WWgzcjA5Q0dtOTF1TnJxbjY3UVFjWV9IVERlcTZpMTlvRlJoRkJzSWZZWC1DREhneGhSXy1YaTZHcV9HWmEwTVA4MzhBODlrZ1ByX2U4SmtfUQ?oc=5",
-      "publishedAt": "2026-08-08T12:04:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-germany-destroy-curaçao-7-1-fifa-world-cup-2026-match-recap-gunther-y9a4jj2e9h-mshale",
-      "title": "德国7-1大胜库拉索！ 😱 | FIFA 世界杯 2026 比赛回顾 Gunther (Y9A4jJ2e9h) - Mshale",
-      "summary": "德国7-1大胜库拉索！ 😱 | FIFA 世界杯 2026 比赛回顾 Gunther (Y9A4jJ2e9h)  Mshale",
-      "originalTitle": "Germany DESTROY Curaçao 7-1! 😱 | FIFA World Cup 2026 Match Recap Gunther (Y9A4jJ2e9h) - Mshale",
-      "originalSummary": "Germany DESTROY Curaçao 7-1! 😱 | FIFA World Cup 2026 Match Recap Gunther (Y9A4jJ2e9h)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92Y2t4MTRVa3ZhQ3RSaG0wR2VFNUxGbEdhcXdydnRrZlRUODlrTnd6ZmZXc2JBbWUyVmRzSmdZakxYTURmMVczMmZpTDJDcVFOajY0VkRmMTdWUWM?oc=5",
-      "publishedAt": "2026-08-08T11:24:22+00:00",
-      "heat": 60
     }
   ]
 }
