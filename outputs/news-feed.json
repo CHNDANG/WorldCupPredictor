@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T03:40:26.347448+00:00",
+  "updatedAt": "2026-08-08T05:02:51.511586+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-lionel-messi-target-of-bomb-threat-in-chilling-usa-world-cup-terror-plot-india-today",
+      "title": "美国世界杯恐怖阴谋中莱昂内尔·梅西成为炸弹威胁目标 - 今日印度",
+      "summary": "令人毛骨悚然的美国世界杯恐怖阴谋中，莱昂内尔·梅西成为炸弹威胁目标",
+      "originalTitle": "Lionel Messi target of bomb threat in chilling USA World Cup terror plot - India Today",
+      "originalSummary": "Lionel Messi target of bomb threat in chilling USA World Cup terror plot  India Today",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRGphRzBZdGJwcUhIVGxjLXRwQ3N0d29QdWJ2ZXN0aTJwT0lEdkl0ZmpaYldUYndiMGxmWmNRMkJSUjNBVmw2UXNORTZ3S29qblQzYjNldUUtdm1HVWxlem9SaUd5LWt3a0t2bmphS3E0ZzhUc2t1YkxMVXdRaTVWbVVjdy1HY1ZPOEJ5VVFzN1hzbUJtMzVweUFCRVhRRC1BcDVFXzhtV29MZG4yeHhRckFpby1Tc09XQjNuTEFpNGxoNjVtTWZtekR6RWE5VjljOEF4YVZR0gHWAUFVX3lxTE9EamFHMFl0YnBxSEhUbGMtdHBDc3R3b1B1YnZlc3RpMnBPSUR2SXRmalpiV1Rid2IwbGZaY1EyQlJSM0FWbDZRc05FNndLb2puVDNiM2V1RS12bUdVbGV6b1JpR3kta3drS3ZuamFLcTRnOFRza3ViTExVd1FpNVZtVWN3LUdjVk84QnlVUXM3WHNtQm0zNXB5QUJFWFFELUFwNUVfOG1Xb0xkbjJ4eFFyQWlvLVNzT1dCM25MQWk0bGg2NW1NZm16RHpFYTlWOWM4QXhhVlE?oc=5",
+      "publishedAt": "2026-08-08T04:25:32+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-lionel-messi-terror-plot-leaked-report-reveals-alleged-threat-during-fifa-world-cup-2026-pragativadi",
       "title": "莱昂内尔·梅西 (Lionel Messi) 恐怖阴谋：泄露的报告揭示了 2026 年 FIFA 世界杯期间涉嫌的威胁 - Pragativadi",
@@ -21,7 +33,7 @@
     },
     {
       "id": "google-news-will-blow-up-messi-with-four-bombs-dossier-reveals-chilling-fifa-world-cup-plot-targeting-argentine-star-new",
-      "title": "“将用四枚炸弹炸死梅西”：档案揭露了针对阿根廷球星的令人不寒而栗的世界杯阴谋 - News18",
+      "title": "“将用四枚炸弹炸死梅西”：档案揭露了针对阿根廷球星的令人心寒的国际足联世界杯阴谋 - News18",
       "summary": "“将用四枚炸弹炸死梅西”：档案揭露了针对阿根廷球星的令人毛骨悚然的 FIFA 世界杯阴谋 News18",
       "originalTitle": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star - News18",
       "originalSummary": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star  News18",
@@ -44,11 +56,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-blow-up-lionel-messi-with-4-bombs-report-reveals-terror-plot-during-fifa-world-cup-2026-ndtv-sports",
-      "title": "“用 4 枚炸弹炸毁莱昂内尔·梅西”：报告揭露 2026 年 FIFA 世界杯期间的恐怖阴谋 - NDTV Sports",
-      "summary": "“用 4 枚炸弹炸毁莱昂内尔·梅西”：报告揭露 2026 年 FIFA 世界杯期间的恐怖阴谋 NDTV Sports",
-      "originalTitle": "'Blow Up Lionel Messi With 4 Bombs': Report Reveals Terror Plot During FIFA World Cup 2026 - NDTV Sports",
-      "originalSummary": "'Blow Up Lionel Messi With 4 Bombs': Report Reveals Terror Plot During FIFA World Cup 2026  NDTV Sports",
+      "id": "google-news-lionel-messi-terror-plot-report-reveals-plan-to-blow-him-up-during-fifa-world-cup-2026-ndtv-sports",
+      "title": "莱昂内尔·梅西恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他” - NDTV Sports",
+      "summary": "莱昂内尔·梅西 (Lionel Messi) 恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他” NDTV Sports",
+      "originalTitle": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026 - NDTV Sports",
+      "originalSummary": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026  NDTV Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcERuQ3QtMVZkY005cjR1OVY2TFExelFvU29kSjBOcG5oczFTS1hPQUhGRE9ramotN042YlhGMjdoOUg5LWExaW56N1l0LVIyLW1iMnk3N2hVT1JRRmFwN0paVGtpb0hCY2I1WWNMTEozV2tsMGlJQmIxU2ZEdVduRmVCWHBJcmMzeHdacWNUeXc5MVZjQnhEczBkTTVvdVdQTmhMYm1vdlhXWFZRTEVaTjBubC1zS0xzZGRTOE9NNA?oc=5",
@@ -82,7 +94,7 @@
     {
       "id": "google-news-usa-sets-record-for-highest-world-cup-attendance-in-history-at-8-million-the-news-mill",
       "title": "美国队创下世界杯入场人数800万的历史最高记录 - The News Mill",
-      "summary": "美国队创下世界杯入场人数 800 万人次的历史最高记录 The News Mill",
+      "summary": "美国队创下世界杯入场人数 800 万人次的历史最高纪录 The News Mill",
       "originalTitle": "USA sets record for highest World Cup attendance in history at 8 million - The News Mill",
       "originalSummary": "USA sets record for highest World Cup attendance in history at 8 million  The News Mill",
       "translation": "online",
@@ -105,15 +117,27 @@
     },
     {
       "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
-      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗进球 Julia Letlow (aXRlw4RaXa) - Mshale",
-      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  Mshale",
-      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - Mshale",
-      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  Mshale",
+      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗级进球 Julia Letlow (aXRlw4RaXa) - mshale.com",
+      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  mshale.com",
+      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - mshale.com",
+      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
       "publishedAt": "2026-08-07T23:56:10+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-每90分钟拦截-world-cup2026的ivory-coast数据-fotmob",
+      "title": "每90分钟拦截 — World Cup2026的Ivory Coast数据 - FotMob",
+      "summary": "每90分钟拦截 — World Cup2026的Ivory Coast数据  FotMob",
+      "originalTitle": "每90分钟拦截 — World Cup2026的Ivory Coast数据 - FotMob",
+      "originalSummary": "每90分钟拦截 — World Cup2026的Ivory Coast数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHdEbVd6OS03UkUycy1VamhRVzE3TkhGd25nZ21XaVZ2Z2lBSHdIb0dqb1ZNbXcwUDhFc1YxeXFsNW5ac054VElIYXJ0czZYcW9RengxTnV2TXhrdFBjS3JUUU5Gb2hBQWJWOGNrS2JOYzI3QWZZZWlhb3h5NThGZGxMdThBV0xQcVotejJlS1BQYXo0dVVPb1BKVmlrakg2UjdEOUtTWHVjSEdLNEpaVGtmdy1fMmVXbGxB?oc=5",
+      "publishedAt": "2026-08-07T22:35:24+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-morocco-defeats-canada-3-0-to-reach-2026-world-cup-quarterfinals-the-news-mill",
@@ -197,30 +221,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-08-07T21:17:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-leagues-cup-bracket-schedule-results-for-2026-competition-between-mls-and-liga-mx-sportingnews-com",
-      "title": "2026 年 MLS 和 Liga MX 之间的联赛杯分组、赛程表和结果 - sportingnews.com",
-      "summary": "2026 年 MLS 和 Liga MX 之间的联赛杯分组、赛程表和结果 sportingnews.com",
-      "originalTitle": "Leagues Cup bracket, schedule, results for 2026 competition between MLS and Liga MX - sportingnews.com",
-      "originalSummary": "Leagues Cup bracket, schedule, results for 2026 competition between MLS and Liga MX  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNVmZmbzFyNGloYlU0TWdDWnRWNDhDRmVPdVpTX1FDaVlkLU92WXpkeUJuU3NwOFhXejg0MkdPN3Mxc0ZwWlpDV1pIVEZ6MDRWYWNMNlZ5b0tKWjlFV3ltRTZfdkpTbHE1M3RPekk2aE5jTEhvMUxvRDZMTW9oaFJKQXhoWnpHUUU4RmotZ1BDSWhkUjRja3JsWXY1TEhNa2puLUdsQzhob3RyV1JvNGJv?oc=5",
-      "publishedAt": "2026-08-07T21:09:40+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-world-cup-sensation-vozinha-joins-chilean-giant-colo-colo-the-business-standard",
-      "title": "世界杯名将沃齐尼亚加盟智利豪门科洛科洛 - 商业标准",
-      "summary": "世界杯明星沃齐尼亚 (Vozinha) 加盟智利巨人科洛科洛队 The Business Standard",
-      "originalTitle": "World Cup sensation Vozinha joins Chilean giant Colo-Colo - The Business Standard",
-      "originalSummary": "World Cup sensation Vozinha joins Chilean giant Colo-Colo  The Business Standard",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOXZBcXNmUzNaNTFETEQ1cXRpaGxWcTdzUjBLaUhHRzU4Wmk2dUJyVGhtcmxYWS1vRTNobUNuSnpEcTRJRGN4MUJaZzIyUWZ0THQ2SUl3QlRYME5hYVFDNzM0TElJZUtHdUJkT1pVVHBzYmloWlNKMk9sTnhJMFFQNGM5ZXpPWEtQTnJNZXktVl9SVUxkdUtNLTd0dlRzRjhFTGw5YnJaSGNTZ9IBrwFBVV95cUxNdGh4S0NsNzczRmY1VURiczhMTHVmSmNjVE44Mk5hakNqaDBDRDhhLUhVVERaOXlxRmpUZHEzbUNrSlV3YU5wRlNHU1FpV2hhUnpqX05VaU5Cc3RwNjBKNmJJY01xR1RzRVkxVThOTlpwNUlFUm0tTS0zSlV6cnhsbDNZcEMwaFpzMXV2M0hleFFvQnlNcUF4dHpYRTRxR3p6dFhTM1VYNGJWTjgtXzJV?oc=5",
-      "publishedAt": "2026-08-07T21:01:10+00:00",
       "heat": 52
     }
   ]
