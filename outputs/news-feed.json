@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T16:39:54.054080+00:00",
+  "updatedAt": "2026-08-08T17:35:24.666838+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-温哥华豪掷7亿-fifa是否给钱成谜-加西网",
+      "title": "温哥华豪掷7亿 FIFA是否给钱成谜 - 加西网",
+      "summary": "温哥华豪掷7亿 FIFA是否给钱成谜  加西网",
+      "originalTitle": "温哥华豪掷7亿 FIFA是否给钱成谜 - 加西网",
+      "originalSummary": "温哥华豪掷7亿 FIFA是否给钱成谜  加西网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSDlrNzlZVnV1b3NheDBDRHNhRVF2SmFaZ0EtdHcxR0VXbzFCX3k3d2pYQlZ4dkk5dEFNRHdGNVM2bUtZN0FZb2ROTnlnUmdkdVRFZUhyZjlFMnlPcnZzTHJhclNmU0FncUpWZUhNVkd4emlSelBDekIwR2c2WHBHSnM2ODlHUXJCUzF5R0VSdVlyVmRNdmdESDFiUVUya1NfXzZONHVWUGs5eWhvZzRZWGctX2JaaG9sNFc2aHUxQWlQQXZYOHpONFhVZ0VrQm9JYzNrUFdPWFdzMndEOE1uaENTb1htbG1qcnVUVHRzX1h5U1UtWWViNnA4eU5wNmJOUXZOdnU5ZFJRN29mYXc?oc=5",
+      "publishedAt": "2026-08-08T16:37:07+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-assailants-plotted-to-assassinate-messi-at-world-cup-the-whistler-newspaper",
       "title": "“袭击者密谋在世界杯上暗杀梅西” - 惠斯勒报纸",
@@ -20,23 +32,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-温哥华豪掷7亿-fifa是否给钱成谜-加西网",
-      "title": "温哥华豪掷7亿 FIFA是否给钱成谜 - 加西网",
-      "summary": "温哥华豪掷7亿 FIFA是否给钱成谜  加西网",
-      "originalTitle": "温哥华豪掷7亿 FIFA是否给钱成谜 - 加西网",
-      "originalSummary": "温哥华豪掷7亿 FIFA是否给钱成谜  加西网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOSDlrNzlZVnV1b3NheDBDRHNhRVF2SmFaZ0EtdHcxR0VXbzFCX3k3d2pYQlZ4dkk5dEFNRHdGNVM2bUtZN0FZb2ROTnlnUmdkdVRFZUhyZjlFMnlPcnZzTHJhclNmU0FncUpWZUhNVkd4emlSelBDekIwR2c2WHBHSnM2ODlHUXJCUzF5R0VSdVlyVmRNdmdESDFiUVUya1NfXzZONHVWUGs5eWhvZzRZWGctX2JaaG9sNFc2aHUxQWlQQXZYOHpONFhVZ0VrQm9JYzNrUFdPWFdzMndEOE1uaENTb1htbG1qcnVUVHRzX1h5U1UtWWViNnA4eU5wNmJOUXZOdnU5ZFJRN29mYXc?oc=5",
-      "publishedAt": "2026-08-08T16:18:04+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "title": "警方报告显示：世界杯期间男子想要以残忍的方式谋杀莱昂内尔·梅西 - goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  goal.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
@@ -56,6 +56,30 @@
       "heat": 52
     },
     {
+      "id": "google-news-harry-kane-shines-as-england-beats-mexico-in-world-cup-2026-the-news-mill",
+      "title": "哈里·凯恩闪耀 2026 年世界杯英格兰击败墨西哥 - 新闻中心",
+      "summary": "哈里·凯恩 (Harry Kane) 闪耀 2026 年世界杯英格兰击败墨西哥 - 新闻中心",
+      "originalTitle": "Harry Kane Shines as England Beats Mexico in World Cup 2026 - The News Mill",
+      "originalSummary": "Harry Kane Shines as England Beats Mexico in World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdC02SFBfckYwQ0tRTUVmNWhtUWJXQmlIRFUyRmFSN1hwTlZfMXpqdHlucGtyVzNFY21RY0J5N0dJNUkwUHJmNmdOMDhUYld4VkJSR0l6clVhZjl4cXBqXzNuYUU3R0M0Yl95SnlqZnYyNHFyeWNoZWg1R3M4T1B1WVhQbkZldkZ1YzBCdWJkWGp5Q0NDMWR6RF9WRHRzVDRuc3ROSlduTTZIa1E?oc=5",
+      "publishedAt": "2026-08-08T15:52:38+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-cristiano-ronaldo-expresses-support-for-portugal-after-world-cup-round-of-16-exit-the-news-mill",
+      "title": "世界杯16强出局后，克里斯蒂亚诺·罗纳尔多表示支持葡萄牙 - The News Mill",
+      "summary": "世界杯 16 强出局后，克里斯蒂亚诺·罗纳尔多表达了对葡萄牙的支持 The News Mill",
+      "originalTitle": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit - The News Mill",
+      "originalSummary": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjg1cG5yTDFFQ3lzZ0JGRjVpXzlmTEFId3FOSW9FOFFlX2s4UUpaUERXLVdUelpOOW9DNkpzcDNtYlM1ZjVnVlp3ajRmYXF5YW9TcnlDUUstLTM5SVVwQzJGcnpXSkVvT2lqNXVRVDMtdEFyRzdpa3A4R3V2ZlVfaFNyNXlPTXEtV1ExRlBVMWhQa0JEZVFNeFp4cjM3LThJeXktU0h1LXdVV29SQXZUeWNKaVg?oc=5",
+      "publishedAt": "2026-08-08T15:52:14+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-bremer-wants-to-play-for-brazil-at-the-2030-world-cup-yahoo-sports",
       "title": "布雷默希望代表巴西队参加 2030 年世界杯 - 雅虎体育",
       "summary": "布雷默希望代表巴西队参加 2030 年世界杯 雅虎体育",
@@ -68,16 +92,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-what-gor-mahia-earned-after-finishing-second-in-2026-cecafa-cup-daily-nation",
-      "title": "戈尔·马希亚 (Gor Mahia) 在 2026 年塞卡法杯 (Cecafa Cup) 中获得第二名后获得了什么 - Daily Nation",
-      "summary": "Gor Mahia 在 2026 年 Cecafa 杯中获得第二名后获得了什么 Daily Nation",
-      "originalTitle": "What Gor Mahia earned after finishing second in 2026 Cecafa Cup - Daily Nation",
-      "originalSummary": "What Gor Mahia earned after finishing second in 2026 Cecafa Cup  Daily Nation",
+      "id": "google-news-switzerland-advances-to-fifa-world-cup-2026-quarter-finals-the-news-mill",
+      "title": "瑞士晋级 2026 年世界杯四分之一决赛 - The News Mill",
+      "summary": "瑞士晋级 2026 年 FIFA 世界杯四分之一决赛 The News Mill",
+      "originalTitle": "Switzerland Advances to FIFA World Cup 2026 Quarter-Finals - The News Mill",
+      "originalSummary": "Switzerland Advances to FIFA World Cup 2026 Quarter-Finals  The News Mill",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ3FfYU5iTm14bFR5WmFPcmw3TE45YlBhMHE3MWxqU3ZubzRJYVZJNVVCODhwTEVXU3dVS2lmUV94TzBpc3VoUDJvcjZzaFBEYVIwdENaR2F0WXh5X3hHamhlV3JrX0VXVkhJQVh5TmE0VFVwZi1ncnRyalFiVXBaU3B5RExXUVdaaU5fTlhCZXM4UDNsSTRNdU9LeXhYbnRqSWxVWldiZFpmMjZYTnB6UnlUZGFnQkU?oc=5",
-      "publishedAt": "2026-08-08T15:13:52+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPQ0dsaE8yMlh1SGJkd0FOSTlOOEdpU2t0WEhoRjE4SnF4Q3NtTW0wUnhkdUNON21wNFpIN0w0OG5udE1VSDdadWd0dm5oUE1reFRzN1RKOXNnOVQtelRsTVoxblZrbUZnaDhOYkF1VFNmNTZRcUdTS1NBOFM1RFhTaGFpdjB0cHcwOWd4ZHRWUFZBOXQ1a3NMVkdyb1FoM3VhSWlLMzBaMVJObzNReV82dzFZSExqN0xw?oc=5",
+      "publishedAt": "2026-08-08T15:02:13+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-lionel-messi-s-father-jorge-dead-at-68-weeks-after-2026-world-cup-the-big-lead",
@@ -140,11 +164,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -161,18 +185,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUTNyM0RzbWU0M1pVc1I0ZHBtNzd1Y05FU3p3SGlEZFo0RmQzQVBMejdFX2s0Q19OR28tNUt5YjdUZXZtTG5zTTFZYnZaNGxmc05pLTJ4eC13cnZ1YmZYa3h5NUJzQkJpVmo4dDJTMnBiT3ZSZFpzc0JGS3dRS3pWNGJCQzl1amFNOUZzYk5uZ3RjVVRJSklzSXdmUG7SAaQBQVVfeXFMUHFfay02eVlrU3ZGbGswakJsaDlORzFaOUZEY3pkX0hRcDBaQVZuanVoUC1wNHpRdGtUOXJkWDR3VmdSaG5pX1NERGRDcVpidzg4d1dQdDE5NF83TUh1YWFUZnI5TnFWa1pWUUI3aFQ3RHN1eVI2OFItcVk1a05MVVBuUjZoakd5TDI5Y0hPT3dxZHU1M2lYNXFrdXpPeV9hT0o1QkI?oc=5",
       "publishedAt": "2026-08-08T12:25:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-stage-4-of-the-2026-tour-de-france-femmes-aero-advantages-fifa-world-cup-2026-ry7jgvucyl-mshale",
-      "title": "2026 年环法自行车赛第 4 赛段：空气动力优势 FIFA 世界杯 2026 (ry7jGvUCyl) - Mshale",
-      "summary": "2026 年环法自行车赛第 4 阶段女子比赛：空气动力学优势 FIFA 世界杯 2026 (ry7jGvUCyl)  Mshale",
-      "originalTitle": "Stage 4 Of The 2026 Tour De France Femmes: Aero Advantages Fifa World Cup 2026 (ry7jGvUCyl) - Mshale",
-      "originalSummary": "Stage 4 Of The 2026 Tour De France Femmes: Aero Advantages Fifa World Cup 2026 (ry7jGvUCyl)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KZ1ZRR2pKMzExUFozd3BWZzRCREw4MWZqaU5ncWoweWR3VzRXUXVaWkNGd2E3R0g5Zkl1WXd5bm1mTEdNV1h5bTUzUnJFZV8xX0JKS0NqSW9VUXM?oc=5",
-      "publishedAt": "2026-08-08T12:18:43+00:00",
       "heat": 60
     },
     {
@@ -200,27 +212,15 @@
       "heat": 44
     },
     {
-      "id": "google-news-julián-alvarez-goal-argentina-3-1-switzerland-fifa-world-cup-2026-alfano-rupswinopp-mshale",
-      "title": "朱利安·阿尔瓦雷斯进球|阿根廷3-1瑞士| FIFA 世界杯 2026™ 阿尔法诺 (RuPswINOPP) - Mshale",
-      "summary": "朱利安·阿尔瓦雷斯进球|阿根廷3-1瑞士| FIFA 世界杯 2026™ 阿尔法诺 (RuPswINOPP)  Mshale",
-      "originalTitle": "Julián Alvarez Goal | Argentina 3-1 Switzerland | FIFA World Cup 2026™ Alfano (RuPswINOPP) - Mshale",
-      "originalSummary": "Julián Alvarez Goal | Argentina 3-1 Switzerland | FIFA World Cup 2026™ Alfano (RuPswINOPP)  Mshale",
+      "id": "google-news-germany-destroy-curaçao-7-1-fifa-world-cup-2026-match-recap-gunther-y9a4jj2e9h-mshale",
+      "title": "德国7-1大胜库拉索！ 😱 | FIFA 世界杯 2026 比赛回顾 Gunther (Y9A4jJ2e9h) - Mshale",
+      "summary": "德国7-1大胜库拉索！ 😱 | FIFA 世界杯 2026 比赛回顾 Gunther (Y9A4jJ2e9h)  Mshale",
+      "originalTitle": "Germany DESTROY Curaçao 7-1! 😱 | FIFA World Cup 2026 Match Recap Gunther (Y9A4jJ2e9h) - Mshale",
+      "originalSummary": "Germany DESTROY Curaçao 7-1! 😱 | FIFA World Cup 2026 Match Recap Gunther (Y9A4jJ2e9h)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1BazNTdDlQY1IxWHNZWVJrSHo2Ql84Yi10aUFJdmVTUm5GSUdEeTdEVTNtNDdOcTRDNHZ6R2k4dnhvTkFtd2Rrc1lMNHV3WDV1akt3WVZ5OEVybzQ?oc=5",
-      "publishedAt": "2026-08-08T11:19:46+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-france-defeat-norway-4-1-to-top-group-i-in-fifa-world-cup-2026-news-on-air",
-      "title": "2026 年世界杯第一组法国队 4-1 战胜挪威 - News On AIR",
-      "summary": "2026 年 FIFA 世界杯法国队以 4-1 击败挪威队，夺得第一组冠军",
-      "originalTitle": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026 - News On AIR",
-      "originalSummary": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026  News On AIR",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmpxLTdTV3Bja0R4SENIOHA3SmlzLVBFMXFlY0RLLVM5Mk5ySThPeFBaVGstQmRucUV1V3ZzM2FreklQMWxxTVdrdVdtVV8xMkJmTUJ0QlBfbXNaaHJQZXRtdmprTTdEMXlxalJYTTV4aHo2VXZnejJBeTVzUjhwdGxCc2hVbm1Kc083OXNfUS02dw?oc=5",
-      "publishedAt": "2026-08-08T11:18:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92Y2t4MTRVa3ZhQ3RSaG0wR2VFNUxGbEdhcXdydnRrZlRUODlrTnd6ZmZXc2JBbWUyVmRzSmdZakxYTURmMVczMmZpTDJDcVFOajY0VkRmMTdWUWM?oc=5",
+      "publishedAt": "2026-08-08T11:24:22+00:00",
       "heat": 60
     }
   ]
