@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-08T06:08:47.353941+00:00",
+  "updatedAt": "2026-08-08T07:30:48.849212+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,57 @@
   ],
   "articles": [
     {
+      "id": "google-news-leaked-files-reveal-bomb-threats-targeting-messi-at-2026-world-cup-views-bangladesh",
+      "title": "泄露的文件显示 2026 年世界杯针对梅西的炸弹威胁 - 观点孟加拉国",
+      "summary": "泄露的文件显示 2026 年世界杯期间针对梅西的炸弹威胁",
+      "originalTitle": "Leaked files reveal bomb threats targeting Messi at 2026 World Cup - Views Bangladesh",
+      "originalSummary": "Leaked files reveal bomb threats targeting Messi at 2026 World Cup  Views Bangladesh",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlQ5cjl5b3VneXlRRDFLY2RYOV90Ql92MHBaQ2R0WVZBOHNYZ2JSNDItNXRCN29jc3NjN25JMmRzOVRwM1RwXy1QTFBBMDJ4M3lUWXF3TFRZUi1vQUZTZWJpeG9DdWlLem5oejMyS2c4eVg5NDU3czJ5UkZYT2JvSVpMR0xKbXpoWnBZTm9vRVRtTXR1UnZtQUVlYw?oc=5",
+      "publishedAt": "2026-08-08T07:20:33+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-messi-faced-terror-threats-during-fifa-world-cup-2026-report-the-business-standard",
+      "title": "梅西在 2026 年 FIFA 世界杯期间面临恐怖威胁：报告 - The Business Standard",
+      "summary": "梅西在 2026 年国际足联世界杯期间面临恐怖威胁：报告《商业标准》",
+      "originalTitle": "Messi faced terror threats during Fifa World Cup 2026: Report - The Business Standard",
+      "originalSummary": "Messi faced terror threats during Fifa World Cup 2026: Report  The Business Standard",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU8taE9kaXZRa2VHWmxfTlRoQTJYb2R5MnlxQ0lDY3NuLUxIOXlabkVIbVVSa1hpLTgyRWM4NXZxQzkwY09lZlR2Z0pHdWFxWnFnbTdBTVNFYmRXSXhkQlhsRXYwT2M4QVRYSnlyR2V3Qk00N01US3dkeE9lRXRBNW9IWkV6bmlZekgzcUstZlZIcUNjaUVoeVNaZ2NsaXdHOEhv0gGoAUFVX3lxTE00NjhxaFoyZDlJN0pielRQby1QZnN4WGpqUDhTQTBtd1FodzRpUWc1VXdvSk82QVlCeDlVS21CUEFIOTJlY3NVaHdoaTNhNVZ3cjBQcVl1ZVFReWZCd0JmU1FseXh0RXhwVkhuQ1g2VmIxNUp5aU1kYUpjODdiVEhPMk9rRXBuS2tLc2dTNThXM0pQM3V0TWplS01WMnluZTFGVVJoeGtPbA?oc=5",
+      "publishedAt": "2026-08-08T07:00:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-amnesty-demands-fifa-reform-ethics-guarantee-human-rights-safeguards-the-reporter-ethiopia",
+      "title": "国际特赦组织要求国际足联改革道德，保证人权保障 - 埃塞俄比亚记者",
+      "summary": "国际特赦组织要求国际足联改革道德，保证人权保障 记者埃塞俄比亚",
+      "originalTitle": "Amnesty Demands FIFA Reform Ethics, Guarantee Human Rights Safeguards - The Reporter Ethiopia",
+      "originalSummary": "Amnesty Demands FIFA Reform Ethics, Guarantee Human Rights Safeguards  The Reporter Ethiopia",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1YOUpjWHNCQmE1cER0R0hqVUlTdTFVZ0tPT0JHck1LS1pocFF0QjZBUmc2aTZVZ1pXUDVMeVR0YnIxN1IydEl6eUJYYWJiUE9PZklXMA?oc=5",
+      "publishedAt": "2026-08-08T06:45:40+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-terror-plot-messi-reportedly-targeted-deccan-chronicle",
+      "title": "国际足联世界杯恐怖阴谋：据报道梅西成为目标 - 德干纪事报",
+      "summary": "FIFA 世界杯恐怖阴谋：据报道梅西成为目标 德干纪事报",
+      "originalTitle": "FIFA World Cup Terror Plot: Messi Reportedly Targeted - Deccan Chronicle",
+      "originalSummary": "FIFA World Cup Terror Plot: Messi Reportedly Targeted  Deccan Chronicle",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYnh2VWNpelVJX0V1OUpJZUs2ZWhRNHdtVm5GcU0yWFgtWGpFR29ZaHU4NHFoMkg4TGVQdmpHSzFEdlo0Vk5lTGFEUzBuVE9UYk1zZFlldmhrN1VJekI2c0hlYmpKOFFDeUtNSFduaTFOODNrWVVKd25JNDF5WWZZbmREdWFycE94OWhzc1lrMVBJQl9IOGEtaEFtSV9OUWpmNU1fRWRHRXhOd1VCcW8teXRkR2JYeWcxYWg0OW5QY9IBxAFBVV95cUxQa1k1dnBCSmQ1ZUF1Qk9ZNEptYlJXWERCYXBXQU12amZHWDJHZ1lZekxEV1lwejY0YnVuUGk0RXBvZUpnM3V0V2Y1aWpfb3Y3VkZQUGt3TV85UE1BSktMaElSak9LSTkxVVJSVDdURFhGQUIzeGhYMFZJMm0wZEZ2ZHh2UUE5SklnVzUzbTZpYk8yY1JidTM1VXRIR3E5TWl6V05OeXVSMW1hbjlxV3B2cFRWcXVwMWRpVmxrYWVpYVU1NzE3?oc=5",
+      "publishedAt": "2026-08-08T06:25:24+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-when-does-the-premier-league-start-kickoff-times-for-opening-weekend-of-2026-27-campaign-sportingnews-com",
       "title": "英超联赛什么时候开始？ 2026/27赛季开幕周末的开球时间 - sportingnews.com",
-      "summary": "英超联赛什么时候开始？ 2026/27 赛季开幕周末的开球时间 sportingnews.com",
+      "summary": "英超联赛什么时候开始？ 2026/27 年赛季开幕周末的开球时间 sportingnews.com",
       "originalTitle": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign - sportingnews.com",
       "originalSummary": "When does the Premier League start? Kickoff times for opening weekend of 2026/27 campaign  sportingnews.com",
       "translation": "online",
@@ -32,8 +80,32 @@
       "heat": 52
     },
     {
+      "id": "google-news-the-ageless-icon-cristiano-ronaldo-defies-time-to-claim-eusebio-s-crown-and-make-world-cup-history-iol",
+      "title": "永恒的偶像：克里斯蒂亚诺·罗纳尔多不畏时间夺取尤西比奥桂冠并创造世界杯历史 - IOL",
+      "summary": "永恒的偶像：克里斯蒂亚诺·罗纳尔多不畏时间夺取尤西比奥桂冠，创造世界杯历史 IOL",
+      "originalTitle": "The ageless icon: Cristiano Ronaldo defies time to claim Eusebio’s crown and make World Cup history - IOL",
+      "originalSummary": "The ageless icon: Cristiano Ronaldo defies time to claim Eusebio’s crown and make World Cup history  IOL",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZ05VLXF0TzFMSDlicnlsZ3Q3eFpWeHlRenR6RVR1MEtIWDlZb0ZYV2NqeFVHaUxycDl1NGhqMDlpU3dlRnZPem1oc1locFBxeHVwV0g3RVVKOXkybU9LS21fdU93YS1mckFDeGFYVVE0N0F6Tzh0c0dQODJXdDJIeEd5UGQ3VDJOVGVmQjF0ZTlPb2h2d2djdHpVVFlMajhaNEJZTUljSmNWbkV4b2UyaEJLc0FIUXVaemlpOHRCeUNGSVBPbFE?oc=5",
+      "publishedAt": "2026-08-08T05:34:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-kim-min-jae-speaks-out-on-world-cup-showing-preferred-traits-for-next-korea-coach-the-korea-times",
+      "title": "金珉载谈世界杯表现，他更喜欢下一任韩国主教练的特质 - 韩国时报",
+      "summary": "金珉载在世界杯上畅所欲言，展示了下一任韩国教练的首选特质 - 韩国时报",
+      "originalTitle": "Kim Min-jae speaks out on World Cup showing, preferred traits for next Korea coach - The Korea Times",
+      "originalSummary": "Kim Min-jae speaks out on World Cup showing, preferred traits for next Korea coach  The Korea Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQbVd2YUdxNENkSzVUTlZBOUF5V0JISmlKRk1NLVJUZmVoN2gyTVo0Tm1kenRDNm9FdEJQQWhwNTlIc180Mk0wdVM0VDUxME44OHF2UWlkQnVUT2JQZUhCeFNaWE1OaFJxbThXdktpcHlQbGxCTWI0YTNTbmtubWJYYi04VHUzRFI2cXc3bm1QS3hZYXFxZ04xaVdlMFlTVXo2UFRSOGh6eXRDdlk5eEtXQkZuaVNXbDhmbXo4Y2VuVjItMTVI0gHKAUFVX3lxTE5CeTFkODZmVDY3SU4tellIRDRHSWNRZUdJOGRCWFhxaUYtdDVrY21LRnNhUXRSdHQyQjdlRW5PTnhsSW1wZHh3WVZMbk9wLTJ3NmFWQU5odUdQOWd2aHF4TnBRWGJYenNSS0tzYkJ3Vi1VeHE5UzNMZEdDVjV0RktrSHFwVDdxaUJHaU9aVkZWR1lsT3RXSEJWR2JiTjJFWGpWMTRNTF9rMC1zOWVHaWdaWkVVSnpmUFJ5NzZoV21VYVo5Q3JQdVNYMFE?oc=5",
+      "publishedAt": "2026-08-08T04:53:03+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-lionel-messi-target-of-bomb-threat-in-chilling-usa-world-cup-terror-plot-india-today",
-      "title": "美国世界杯恐怖阴谋中莱昂内尔·梅西成为炸弹威胁目标 - 今日印度",
+      "title": "美国世界杯恐怖阴谋中，莱昂内尔·梅西成为炸弹威胁目标 - 今日印度",
       "summary": "令人毛骨悚然的美国世界杯恐怖阴谋中，莱昂内尔·梅西成为炸弹威胁目标",
       "originalTitle": "Lionel Messi target of bomb threat in chilling USA World Cup terror plot - India Today",
       "originalSummary": "Lionel Messi target of bomb threat in chilling USA World Cup terror plot  India Today",
@@ -46,7 +118,7 @@
     {
       "id": "google-news-mexico-advances-to-2026-world-cup-round-of-16-with-2-0-win-thenewsmill-com",
       "title": "墨西哥2-0获胜晋级2026年世界杯16强 - thenewsmill.com",
-      "summary": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强 thenewsmill.com",
+      "summary": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强",
       "originalTitle": "Mexico Advances to 2026 World Cup Round of 16 with 2-0 Win - thenewsmill.com",
       "originalSummary": "Mexico Advances to 2026 World Cup Round of 16 with 2-0 Win  thenewsmill.com",
       "translation": "online",
@@ -93,10 +165,10 @@
     },
     {
       "id": "google-news-will-blow-up-messi-with-four-bombs-dossier-reveals-chilling-fifa-world-cup-plot-targeting-argentine-star-new",
-      "title": "“将用四枚炸弹炸毁梅西”：档案揭露了针对阿根廷球星的令人毛骨悚然的世界杯阴谋 - news18.com",
-      "summary": "“将用四枚炸弹炸毁梅西”：档案揭露了针对阿根廷球星的令人毛骨悚然的 FIFA 世界杯阴谋 news18.com",
-      "originalTitle": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star - news18.com",
-      "originalSummary": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star  news18.com",
+      "title": "“将用四枚炸弹炸死梅西”：档案揭露了针对阿根廷球星的令人不寒而栗的世界杯阴谋 - News18",
+      "summary": "“将用四枚炸弹炸死梅西”：档案揭露了针对阿根廷球星的令人毛骨悚然的 FIFA 世界杯阴谋 News18",
+      "originalTitle": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star - News18",
+      "originalSummary": "'Will Blow Up Messi With Four Bombs': Dossier Reveals Chilling FIFA World Cup Plot Targeting Argentine Star  News18",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOaUVXTjZmazhEZGxWcTNPeDBjOG1kQlVhYXhIRi1PRjNJd2FOdW9JaDl5LTVNTVp2aDFRbEVPUmd3ajA2UTdnb293MTVyOVBoTnl5WWxIenJVMzVzM1BNZy1WZE1vaERQTi03SVRXVXRjaDh0SGQxWV9oeEtXZjdJQmtqVVFQS0VwQXRaYmJDMDZKV3czM1hPME1DYnRlcGdDMEJ2MmFhNnU2T2xISGFYcndncjdFWkxpLW1PSzVDT1BzekRsQnQxTDZ0cUtmaEg0bkhqWVRJcEZ0REdZWWNrUzFNbGZHbGI5Mjh1ZW93R1ZZUW1TMFHSAfsBQVVfeXFMT0FpdWYwc0VycmlSNUx1OUZvOE1xYUFuaElybkM1VFpORzNqY2JRV0ZVYUQ3OHV0ZmpOOWZXZXVzaXlSSnVObVV1UG45Q2FXZzZpVG5LajdxWmFybklOZGNMbS04SXRqXzVLb2FVbjVUMHlvQW83ZWxuWkk1NFhrc1N5UFVVZkd2STRZMU9TRmJIZU43SjBGSzNLOXBRNWE1NTIxeVJPLXVzbm9RRzAyOXV5dzJWUWlUQURZYzg3d3VNM3ZqbG05LVZyM3c4MDNJQnVHemRTNmVVU1g0LUR0ZkRFYWpTdFdSN1RiZE9sTzBaeVlZb2FzcWFySjA?oc=5",
@@ -116,11 +188,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-lionel-messi-terror-plot-report-reveals-plan-to-blow-him-up-during-fifa-world-cup-2026-sports-ndtv-com",
-      "title": "莱昂内尔·梅西 (Lionel Messi) 恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他” - sports.ndtv.com",
-      "summary": "莱昂内尔·梅西 (Lionel Messi) 恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他”sports.ndtv.com",
-      "originalTitle": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026 - sports.ndtv.com",
-      "originalSummary": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026  sports.ndtv.com",
+      "id": "google-news-lionel-messi-terror-plot-report-reveals-plan-to-blow-him-up-during-fifa-world-cup-2026-ndtv-sports",
+      "title": "莱昂内尔·梅西恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他” - NDTV Sports",
+      "summary": "莱昂内尔·梅西 (Lionel Messi) 恐怖阴谋：报告披露计划在 2026 年 FIFA 世界杯期间“炸毁他” NDTV Sports",
+      "originalTitle": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026 - NDTV Sports",
+      "originalSummary": "Lionel Messi Terror Plot: Report Reveals Plan To 'Blow Him Up' During FIFA World Cup 2026  NDTV Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPcERuQ3QtMVZkY005cjR1OVY2TFExelFvU29kSjBOcG5oczFTS1hPQUhGRE9ramotN042YlhGMjdoOUg5LWExaW56N1l0LVIyLW1iMnk3N2hVT1JRRmFwN0paVGtpb0hCY2I1WWNMTEozV2tsMGlJQmIxU2ZEdVduRmVCWHBJcmMzeHdacWNUeXc5MVZjQnhEczBkTTVvdVdQTmhMYm1vdlhXWFZRTEVaTjBubC1zS0xzZGRTOE9NNA?oc=5",
@@ -150,78 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUTRPSkNXUUJqbXI1eEdVeUxkR0RJcUVzdng4ZFVZcEVudlJGSTJ5ZUI1QUtHUUtVa2N5ajk1WVJqeEtZV0Z4QUxxa1daMTg3TjdrYmJVVm5nb2NabmhuRC0wOXo2Nk9ybVh4dEN3bGFMbGdrU2dHdDF4WnBtN0xweHNVYmx0UQ?oc=5",
       "publishedAt": "2026-08-08T01:10:15+00:00",
       "heat": 68
-    },
-    {
-      "id": "google-news-usa-sets-record-for-highest-world-cup-attendance-in-history-at-8-million-thenewsmill-com",
-      "title": "美国队创下世界杯入场人数800万的历史最高纪录 - thenewsmill.com",
-      "summary": "美国队创下世界杯入场人数最高记录，达 800 万 thenewsmill.com",
-      "originalTitle": "USA sets record for highest World Cup attendance in history at 8 million - thenewsmill.com",
-      "originalSummary": "USA sets record for highest World Cup attendance in history at 8 million  thenewsmill.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQYnpQWTRfUUlwOXg3eUxLN04xa09kdFVFN0hzS2NtOGc0XzNQNGp0TXpWLXpTWENnU3hSRURYdVh2LUN0WjRuRW1na2E5VnFrQ2xrZHdVMW5Lc1o1eDZWOTBZWHBPamJTeml5YzRhbGRnWlVhcVE5U1F5XzdFTVhpeEVOaEZDRlE2Q0tFZlVVTDFQMFdEY2VzdENaVUxyeFpIYnczM0lIVnA?oc=5",
-      "publishedAt": "2026-08-08T00:17:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-squad-ready-for-norway-in-fifa-world-cup-2026-qf-thenewsmill-com",
-      "title": "英格兰队已为参加 2026 年 FIFA 世界杯 QF 的挪威队做好准备 - thenewsmill.com",
-      "summary": "英格兰队已做好准备征战 2026 年 FIFA 世界杯 QF 的挪威比赛 thenewsmill.com",
-      "originalTitle": "England Squad Ready for Norway in FIFA World Cup 2026 QF - thenewsmill.com",
-      "originalSummary": "England Squad Ready for Norway in FIFA World Cup 2026 QF  thenewsmill.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRnlKOE1pTWxXWTEtWmd4dTV4bHBqVFUtOHBWMnRjZ0IwdnV2UFNNQ0RWUjVqVXRMOEhKUzBMbGlZejltSkVqcmZxQzNSeXAybVI1cFVQbmJPZEZFNHExN09xVHhKMzlKaFVTLU9uZG14aUNxMlg3SXhPT1R4NHJjdWJRaWVFNnlmeFFpclJFUm9vMzZMNEZTUm9Eb1J2LWVuNUg4NGRodzJETGxEZUNKVkk0THJVdDU0SkE?oc=5",
-      "publishedAt": "2026-08-08T00:17:13+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
-      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗进球 Julia Letlow (aXRlw4RaXa) - Mshale",
-      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  Mshale",
-      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - Mshale",
-      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
-      "publishedAt": "2026-08-07T23:56:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-每90分钟拦截-world-cup2026的ivory-coast数据-fotmob",
-      "title": "每90分钟拦截 — World Cup2026的Ivory Coast数据 - FotMob",
-      "summary": "每90分钟拦截 — World Cup2026的Ivory Coast数据  FotMob",
-      "originalTitle": "每90分钟拦截 — World Cup2026的Ivory Coast数据 - FotMob",
-      "originalSummary": "每90分钟拦截 — World Cup2026的Ivory Coast数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeHdEbVd6OS03UkUycy1VamhRVzE3TkhGd25nZ21XaVZ2Z2lBSHdIb0dqb1ZNbXcwUDhFc1YxeXFsNW5ac054VElIYXJ0czZYcW9RengxTnV2TXhrdFBjS3JUUU5Gb2hBQWJWOGNrS2JOYzI3QWZZZWlhb3h5NThGZGxMdThBV0xQcVotejJlS1BQYXo0dVVPb1BKVmlrakg2UjdEOUtTWHVjSEdLNEpaVGtmdy1fMmVXbGxB?oc=5",
-      "publishedAt": "2026-08-07T22:35:24+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-morocco-defeats-canada-3-0-to-reach-2026-world-cup-quarterfinals-thenewsmill-com",
-      "title": "摩洛哥3-0击败加拿大晋级2026年世界杯四分之一决赛 - thenewsmill.com",
-      "summary": "摩洛哥 3-0 击败加拿大晋级 2026 年世界杯四分之一决赛 thenewsmill.com",
-      "originalTitle": "Morocco Defeats Canada 3-0 to Reach 2026 World Cup Quarterfinals - thenewsmill.com",
-      "originalSummary": "Morocco Defeats Canada 3-0 to Reach 2026 World Cup Quarterfinals  thenewsmill.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSkdIVzhaMVotc0hpMDg0Y0o1TVI1MzY0cHZ1SVpKTnFwWWlxZmpiQ0I1RnIydkZ1Njc5UTVVZW9JTm02eTFQMFVqekVFOFFwQ3kxM1lCR0c3V21hN1l2N2p4M3lIOHhlX2pJNTN6TUt6cmpiSS02aThKc1E2VmVZS1pLREIxdTU4YWFvUk8wb0RNeWVnOTZobE9JZ3NtLUpxakE?oc=5",
-      "publishedAt": "2026-08-07T22:27:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-steve-clarke-resigns-as-scotland-head-coach-after-2026-world-cup-exit-thenewsmill-com",
-      "title": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克辞去苏格兰主教练职务 - thenewsmill.com",
-      "summary": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克辞去苏格兰主教练职务 thenewsmill.com",
-      "originalTitle": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit - thenewsmill.com",
-      "originalSummary": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit  thenewsmill.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYl8wYlY4ai0zUzJNY0I1Z0laeDdhNlZ1d3hra004QlByUjFBX2dBa25LOGlvNE9sS1c2RVlqSk9JN1d5ZnZjYlVZMlJma2JBWjJ2T3U5LTBTOEpXS2dWZUxrajJZaXZlX2hVQ0dtdHhfWUZMOVJRb0dXRFRkV0hoelVYdVpBbDBlNEdlbWMyMUhHbkp5NER6LUtFam1WT2hQNXo0aA?oc=5",
-      "publishedAt": "2026-08-07T22:27:14+00:00",
-      "heat": 52
     }
   ]
 }
