@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T18:48:47.138240+00:00",
+  "updatedAt": "2026-08-09T19:37:52.361839+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
+      "publishedAt": "2026-08-09T19:29:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-super-falcons-world-cup-dream-shattered-as-cameroon-end-wafcon-title-defence-leadership-ng",
+      "title": "喀麦隆结束 WAFCON 卫冕，超级猎鹰队的世界杯梦想破灭 - Leadership.ng",
+      "summary": "喀麦隆结束 WAFCON 卫冕冠军，超级猎鹰队的世界杯梦想破灭",
+      "originalTitle": "Super Falcons’ World Cup Dream Shattered As Cameroon End WAFCON Title Defence - leadership.ng",
+      "originalSummary": "Super Falcons’ World Cup Dream Shattered As Cameroon End WAFCON Title Defence  leadership.ng",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjRFa21oZnlpU1EyRlFxbDUzMTFMS29tMzMzUzhUU013NDBUZFpiQTBLNUx5RE1JRlV0eHNDdTRDSEJscW9hckdobl9sM19jVndESmZRbUJPUk5WMG1aMTRlQlZ2d0hpNUtJU0stN0c3eUVuTlc4a2h6REIxTFREUTFrYVE2QzU3T0dYM3lXWDZ6RFplTzVuRkxwc3ZQVUhL?oc=5",
+      "publishedAt": "2026-08-09T19:17:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-非洲女子国家杯2026四分之一赛-禁闻网",
+      "title": "非洲女子国家杯2026四分之一赛 - 禁闻网",
+      "summary": "非洲女子国家杯2026四分之一赛  禁闻网",
+      "originalTitle": "非洲女子国家杯2026四分之一赛 - 禁闻网",
+      "originalSummary": "非洲女子国家杯2026四分之一赛  禁闻网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1qclNRTVRvazJ0TURWUjdFd3ZvVjZxLVlERnd4dlhBRjZvLXZQTzVQenlJYktaWXdMZ3EwVnBydllLaVdOaVZBcGZhMGhieGQ3RGR2dHpLak1wMnI1UnBUb0pSd296a1FXX2xxRTFzdkNyd9IBd0FVX3lxTE9pWXJHanZHNzBYM1prUXRXbGp0Z05adXpIRkM0R1V5YmNQMjJ4WHJvOGtCQ0I0aTJIWWVSWDdaWGYwdWZMYWkzdUxYNm1jTGpXYnAyNmRCUE9VaHZUNTJWdGt0a3VXY2k5Y3FCVkcwU2hxVkU1SkxZ?oc=5",
+      "publishedAt": "2026-08-09T19:01:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-非洲女子国家杯2026四分之一赛-rfi",
+      "title": "非洲女子国家杯2026四分之一赛 - RFI",
+      "summary": "非洲女子国家杯2026四分之一赛  RFI",
+      "originalTitle": "非洲女子国家杯2026四分之一赛 - RFI",
+      "originalSummary": "非洲女子国家杯2026四分之一赛  RFI",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNXJacDdqOU1ZVUNJd21kQjk2VktXdHFacGN2ZDBFZXp3V2FtZjBlNDcxZ2RvckR1UjJIWWhvVjFDMEV1d3hzRGYzUk8wNTBqVGVELWliYzh3NURlemRzV1ZYZmtJR2NLcFBxVTY5Nzl1TnJGRFBUTk5fVFd5SVhoWE1rY2dOSnd3ZlY3QzNlaWlfSTNNQnlzNE5jZng5SlVYaE84NUthSFRGS3FHQ29scUVleGE1bzh2QXVkTHg3dWNiVzVmcVo0Z2lNekZkR2NCVC1kN0h4NlNIZHY1WHJoVE9kTE1PNmdhbFBiUGIwejZnMmZqaG1hTjFMVVhEak1ubUR5bmxQVjFqa2sxVXdtMDA2dTE1T0RHTzV6OXhYMmRtMktPXzl0dV9qczhaSzRsY25YSTk2MUZvS0FHcjF0blJWS2NGQ1FYaVhvdVEwdm0?oc=5",
+      "publishedAt": "2026-08-09T18:54:53+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-the-world-cup-final-lost-by-lionel-messi-becomes-the-best-defense-for-cristiano-ronaldo-marca",
       "title": "梅西输掉的世界杯决赛成为克里斯蒂亚诺·罗纳尔多的最佳防守 - 马卡报",
@@ -20,15 +68,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "id": "google-news-fifa-world-cup-2026-canada-pats-its-back-for-the-success-of-the-historic-event-the-indian-panorama",
+      "title": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功表示支持 - 印度全景",
+      "summary": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功举办表示祝贺 印度全景",
+      "originalTitle": "FIFA World Cup 2026: Canada pats its back for the success of the historic event - The Indian Panorama",
+      "originalSummary": "FIFA World Cup 2026: Canada pats its back for the success of the historic event  The Indian Panorama",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
-      "publishedAt": "2026-08-09T16:31:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd09Ha3JfUzBJcl90THZNUTNzQmgtX0tWNkRSdHFlaUU3UDJtZ0pGYktBQzM1UzgyN3lJRjdBajFsZGk5NFd3Tkx0MVlEcGdudXlqSFVxTmhWenlvS1lGdjJhV28wOTVvMmw0Sldxc0hVaHRmNVV3b2tWNUtfS0hRQ3l0X0d3dTF2aTBFSEdEOThLTnNkZG5IeS1UYUdYQ2YtUU1hbFhiSHlSTUQxQ1dYUV94bDQ?oc=5",
+      "publishedAt": "2026-08-09T17:28:44+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-declare-july-15-national-day-to-mark-world-cup-win-over-england-the-daily-star",
+      "title": "阿根廷宣布 7 月 15 日为国庆日，纪念世界杯战胜英格兰队 - 每日星报",
+      "summary": "阿根廷宣布 7 月 15 日为国庆日，以纪念世界杯战胜英格兰队",
+      "originalTitle": "Argentina declare July 15 national day to mark World Cup win over England - The Daily Star",
+      "originalSummary": "Argentina declare July 15 national day to mark World Cup win over England  The Daily Star",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzB3RTNvMW1tM05MTnNiNU5HVllIQUMtRS1hMGxpU2h3OEdJNHpFWC14STZ4ZVgyZEFPU1FabWVnQUlaQWxHekRibXdyU21PaDRRYWw2dlZEcU9XRE5CeHhjQWVOUG5TZ1JBdDgyNnBadmRzT3FId1I1dnp5MWJFUkprakpNZDlaVEJKVFhBTGVkcmQ2VURMb0ZfZS1ma3lwU1hFaHpCQmpXVDhPaUJuc0JGV0ZydUNkajhEZVNfbUViMjlLMmJJ?oc=5",
+      "publishedAt": "2026-08-09T17:18:02+00:00",
       "heat": 52
     },
     {
@@ -68,18 +128,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-fifa-world-cup-2026-canada-pats-its-back-for-the-success-of-the-historic-event-the-indian-panorama",
-      "title": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功表示支持 - 印度全景",
-      "summary": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功举办表示祝贺 印度全景",
-      "originalTitle": "FIFA World Cup 2026: Canada pats its back for the success of the historic event - The Indian Panorama",
-      "originalSummary": "FIFA World Cup 2026: Canada pats its back for the success of the historic event  The Indian Panorama",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd09Ha3JfUzBJcl90THZNUTNzQmgtX0tWNkRSdHFlaUU3UDJtZ0pGYktBQzM1UzgyN3lJRjdBajFsZGk5NFd3Tkx0MVlEcGdudXlqSFVxTmhWenlvS1lGdjJhV28wOTVvMmw0Sldxc0hVaHRmNVV3b2tWNUtfS0hRQ3l0X0d3dTF2aTBFSEdEOThLTnNkZG5IeS1UYUdYQ2YtUU1hbFhiSHlSTUQxQ1dYUV94bDQ?oc=5",
-      "publishedAt": "2026-08-09T15:28:29+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-argentina-to-base-team-in-kansas-city-for-fifa-world-cup-2026-the-news-mill",
       "title": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯 - The News Mill",
       "summary": "阿根廷队将在堪萨斯城参加 2026 年 FIFA 世界杯",
@@ -116,6 +164,18 @@
       "heat": 44
     },
     {
+      "id": "google-新闻-中文-零失球-bundesliga2025-2026的salzburg数据-fotmob",
+      "title": "零失球 — Bundesliga2025/2026的Salzburg数据 - FotMob",
+      "summary": "零失球 — Bundesliga2025/2026的Salzburg数据  FotMob",
+      "originalTitle": "零失球 — Bundesliga2025/2026的Salzburg数据 - FotMob",
+      "originalSummary": "零失球 — Bundesliga2025/2026的Salzburg数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxQUzdwZGtEcnYwWF96UFlJandRZVhCVW9ZZVQzMmRvbjBoTW9aNzg5dmk3c09FaWpxNDdibmRXLU5VaUNOOTFBRXg1bnpfMTdwbmZRUmhTS1FNQ3ZLa2l5WC1FSTNrY3lId2QzUlM3b3luSEtxME5TNWhMR1dxUWp1WE1PakNZQ3V6UFU5UlhJOHpNM2puNmRmTkhyTTZrbGZNSmRPY3N2a2d6aHozeWJPNGVYWmhFYzJTc3NrS2dkaTVVZmtXRVM2eEVpN1dLTkd5d3Z5cE5kMHd6azI1UUt1VHRRNUU1VTNXZzd4Vnl1X3JDUzRFODBhdmRJQTVaTmFlQVN3Z0tDYWZRVDdhMHBTVHFDTjJ5VXhjTmhhY0k2TElUU29LdlNVRllkQWI?oc=5",
+      "publishedAt": "2026-08-09T13:32:44+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-cristiano-ronaldo-expresses-support-for-portugal-after-world-cup-round-of-16-exit-the-news-mill",
       "title": "世界杯16强出局后，克里斯蒂亚诺·罗纳尔多表示支持葡萄牙 - The News Mill",
       "summary": "世界杯 16 强出局后，克里斯蒂亚诺·罗纳尔多表达了对葡萄牙的支持 The News Mill",
@@ -126,6 +186,18 @@
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjg1cG5yTDFFQ3lzZ0JGRjVpXzlmTEFId3FOSW9FOFFlX2s4UUpaUERXLVdUelpOOW9DNkpzcDNtYlM1ZjVnVlp3ajRmYXF5YW9TcnlDUUstLTM5SVVwQzJGcnpXSkVvT2lqNXVRVDMtdEFyRzdpa3A4R3V2ZlVfaFNyNXlPTXEtV1ExRlBVMWhQa0JEZVFNeFp4cjM3LThJeXktU0h1LXdVV29SQXZUeWNKaVg?oc=5",
       "publishedAt": "2026-08-09T13:32:12+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-results-fixtures-standings-news-our-fifa-world-cup-hub-has-all-you-need-news24",
+      "title": "赛果、赛程、积分榜、新闻：我们的 FIFA 世界杯中心拥有您所需的一切 - News24",
+      "summary": "赛果、赛程、积分榜、新闻：我们的 FIFA 世界杯中心拥有您所需的一切 News24",
+      "originalTitle": "Results, Fixtures, Standings, News: Our FIFA World Cup Hub has all you need - News24",
+      "originalSummary": "Results, Fixtures, Standings, News: Our FIFA World Cup Hub has all you need  News24",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaS1XWkhxWHExSExES0QtSVRibUZuYUttaWN6VWNnQ2JMandpQnA4NTE1bW9yS00tV0RQZTY3UktHR0JEdDZOSFl3Uk80SzIwbkdIR2hYNHo5SXZ2OHpldDlrTUdEYXhPLVctTzlQS2QwekxGZWtfY3BobW1YSFY3aW1BcXFFMDZPQXpMdWdHaUNONzlONVl1T21tM3Qwb1B5blNIdDlJQ2JQbzJGR2VMZ19ndWdWdw?oc=5",
+      "publishedAt": "2026-08-09T13:19:33+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-la-liga-five-key-talking-points-heading-into-the-2026-2027-season-aljazeera-com",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Kdnk4aGl1cWxlOWZhTkpHdmRVdnhGQnRicklZZWs2N0tXUmdMSS1EVnVLcTlYY0tnQkZ4YjN2TzRtSmoydkJvS1VIeWtVczBoZ3dCdFBwNGFQbDg?oc=5",
       "publishedAt": "2026-08-09T12:45:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-full-match-schedule-group-stage-fixtures-revealed-giants-game-today-8vdgkvxzdc-mshale",
-      "title": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) - Mshale",
-      "summary": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) Mshale",
-      "originalTitle": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC) - Mshale",
-      "originalSummary": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTWR1dlN3UEVrZEtqaWhpd0tPUTdFWGExekVjRzVaUEpobm1vSWN6c3RibjhKaUgyRjJVVzNJQklPeDNqY1Zpa3A4S2ZIQ2M4bW1XWTRCZnp3dzA?oc=5",
-      "publishedAt": "2026-08-09T12:35:49+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-germany-at-the-2026-fifa-world-cup-full-coverage-bavarian-football-works",
-      "title": "德国队参加 2026 年 FIFA 世界杯 — 全程报道 - Bavarian Football Works",
-      "summary": "德国队参加 2026 年 FIFA 世界杯 — 全面报道巴伐利亚足球作品",
-      "originalTitle": "Germany at the 2026 FIFA World Cup — Full Coverage - Bavarian Football Works",
-      "originalSummary": "Germany at the 2026 FIFA World Cup — Full Coverage  Bavarian Football Works",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZqbVJWSmFpemlXQU5xQnlNSkEzRnNCT3I1VWZEbmhEWElvRmUtOVpTY2E4YTdBSGFTWFBiTHk3Y2s3ekhaaEd3Q05tUHFXQXNoakVWbzJPaDY3M1hQYkxIempaR1ZSRjFBZF9WWFNTZTdvR3Fkb3J3YkpSU0NUVEZFMUd2a19fTkJ5TlVVMm9MTFBaX0dQQTgzMDdYdlF4UmEzbEIyVXY4UTJfa1hEZjBIbjJpVnRNUDJyZWN0SQ?oc=5",
-      "publishedAt": "2026-08-09T12:17:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-vs-austria-fifa-world-cup-highlights-easyjet-vtli3hcucg-mshale",
-      "title": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) - Mshale",
-      "summary": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) Mshale",
-      "originalTitle": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG) - Mshale",
-      "originalSummary": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Na2xKY3RFVEdOWWt3aUNwaUJZcUVNdkpubUdRN1h5eGhDRVkyX1ktZGpJLW1rSkcySHBXMEJfdlBmTU1YOVdQV05veVNCQ09td0N4dzZmSDZFbUJTQXJkeg?oc=5",
-      "publishedAt": "2026-08-09T12:06:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-envision-fifa-world-cup-2026-dq3k98xtp7-mshale",
-      "title": "远景国际足联世界杯 2026 (dq3k98xtP7) - Mshale",
-      "summary": "远景国际足联世界杯 2026 (dq3k98xtP7)  Mshale",
-      "originalTitle": "Envision Fifa World Cup 2026 (dq3k98xtP7) - Mshale",
-      "originalSummary": "Envision Fifa World Cup 2026 (dq3k98xtP7)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSUwzVUlkQXE3cmpwT2pNQmJlemVjeS1QODhPOEVISjBDV3U5QkxRWURlQ3JrWDJVMkdXV1hHLVlzUEltdkhqZVR3RDJ2bk41cGROaG9pMUZrNTQ?oc=5",
-      "publishedAt": "2026-08-09T12:01:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-a-world-cup-an-old-wound-whitening-in-latin-america-latinoamerica21-com",
-      "title": "世界杯，旧伤：拉丁美洲的“美白” - latinoamerica21.com",
-      "summary": "世界杯，旧伤：拉丁美洲的“美白” latinoamerica21.com",
-      "originalTitle": "A World Cup, an old wound: “whitening” in Latin America - latinoamerica21.com",
-      "originalSummary": "A World Cup, an old wound: “whitening” in Latin America  latinoamerica21.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnp5Q2UxbTA2VlJWb012aUYtZGd1UFUycGpiLW9WZmtCZE1RRU81VWdsYVk3LWxtMGFySVM5bWp6RjBHUmhObzR5cWtjWVNqRkxkdU5Xcl9PLWNNSTh1YjZYVEVTTEZxVmZqOEFRNnpSSEM0aThrMGxYYUh0eThILU8tRDZMdFJOaE9B?oc=5",
-      "publishedAt": "2026-08-09T12:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-iran-to-participate-in-2026-world-cup-confirms-fifa-chief-infantino-dd-news",
-      "title": "国际足联主席因凡蒂诺确认伊朗将参加2026年世界杯 - DD News",
-      "summary": "国际足联主席因凡蒂诺确认伊朗将参加 2026 年世界杯 DD News",
-      "originalTitle": "Iran to participate in 2026 World Cup, confirms FIFA chief Infantino - DD News",
-      "originalSummary": "Iran to participate in 2026 World Cup, confirms FIFA chief Infantino  DD News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelc0clFsbTVwUzRhamYwczFzVnFlc3RaVGFHRGFQTG8wOXVMQkF6REtDeWlGU3VFT2NyM3ZCZkZ2blFLNDNWNGUtU2VrZG8zNHhYdEt3OS1TRU82ZUxmX1N6amtUTXVHdzJMMk0wLU1LOG9SWnpxazFvcGc3U1BINFc4RkZhbVJBTE5ObnV3M2lKX1FFLXBPLQ?oc=5",
-      "publishedAt": "2026-08-09T11:53:55+00:00",
       "heat": 60
     }
   ]
