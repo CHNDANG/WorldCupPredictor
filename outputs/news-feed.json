@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T20:38:46.367173+00:00",
+  "updatedAt": "2026-08-09T21:37:50.642543+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -15,7 +15,7 @@
       "originalSummary": "Vozinha's last dance? World Cup hero sparks retirement fears at Colo-Colo  MARCA",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxONXBCOWZtVGxDbnhMSmRJQzFySUdNSVFaS09wajdMZXRpVndveDBiY0ZQYUFFUDlSSVdzamVfYXpMRGJoSGMwUmFQcHFFTUlmX0xCYkV0WEZlSGlWeThsVHhlY1pmMDNTOE5SVWpYblNTd0h1VkluTkxnd3RkYTlSSDVGeGRnUHYtNnNkMjNpdDBabUt0WVk3TDRuTWxfWmMxVS11ek8wYllGMWE1Q0xLcHpwOVNpaEpGbjBVUGE2OU_SAcABQVVfeXFMTmkxbE83UWs1aWFVOTRxcjZwLUIzbHl5Yi10U2ZOWG9UbEh3VzVOV1NhUXUtSkdwZ29WVEFrYTJkcGhBXzBHMm1XRzZqYTB0UWdBOVJKX2UxMHlaN3dhQ0hYZE9RVEpNT1RaWVJBaW9WTThMeVNrY2VhVTRFMEx4RWRQVzVlVVM0MldpazE3NnhqX2lFamJPenh0SHdTbWliSVdhX0VMVlp1ZGhUeUp3QTRlLUNYeWtTWnNNV3F3T2Ez?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOaTFsTzdRazVpYVU5NHFyNnAtQjNseXliLXRTZk5Yb1RsSHdXNU5XU2FRdS1KR3Bnb1ZUQWthMmRwaEFfMEcybVdHNmphMHRRZ0E5UkpfZTEweVo3d2FDSFhkT1FUSk1PVFpZUkFpb1ZNOEx5U2tjZWFVNEUwTHhFZFBXNWVVUzQyV2lrMTc2eGpfaUVqYk96eHRId1NtaWJJV2FfRUxWWnVkaFR5SndBNGUtQ1h5a1Nac01XcXdPYTPSAcABQVVfeXFMTmkxbE83UWs1aWFVOTRxcjZwLUIzbHl5Yi10U2ZOWG9UbEh3VzVOV1NhUXUtSkdwZ29WVEFrYTJkcGhBXzBHMm1XRzZqYTB0UWdBOVJKX2UxMHlaN3dhQ0hYZE9RVEpNT1RaWVJBaW9WTThMeVNrY2VhVTRFMEx4RWRQVzVlVVM0MldpazE3NnhqX2lFamJPenh0SHdTbWliSVdhX0VMVlp1ZGhUeUp3QTRlLUNYeWtTWnNNV3F3T2Ez?oc=5",
       "publishedAt": "2026-08-09T20:00:03+00:00",
       "heat": 52
     },
@@ -68,12 +68,24 @@
       "heat": 44
     },
     {
+      "id": "google-news-2026-world-cup-winner-odds-kalshi-vs-polymarket-defi-rate",
+      "title": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket - DeFi 利率",
+      "summary": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket DeFi 利率",
+      "originalTitle": "2026 World Cup Winner Odds: Kalshi vs. Polymarket - DeFi Rate",
+      "originalSummary": "2026 World Cup Winner Odds: Kalshi vs. Polymarket  DeFi Rate",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
+      "publishedAt": "2026-08-09T18:45:40+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-the-world-cup-final-lost-by-lionel-messi-becomes-the-best-defense-for-cristiano-ronaldo-marca",
-      "title": "The 世界杯 final lost by Lionel Messi becomes the best defense for Cristiano Ronaldo - MARCA",
+      "title": "梅西输掉的世界杯决赛成为克里斯蒂亚诺·罗纳尔多的最佳防守 - 马卡报",
       "summary": "梅西输掉的世界杯决赛成为克里斯蒂亚诺·罗纳尔多的最佳防守 马卡报",
       "originalTitle": "The World Cup final lost by Lionel Messi becomes the best defense for Cristiano Ronaldo - MARCA",
       "originalSummary": "The World Cup final lost by Lionel Messi becomes the best defense for Cristiano Ronaldo  MARCA",
-      "translation": "local/online",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPT0N1UEMteWZTYThQLTYxU1RlSUhEenFjOVFtaGJPeE9hSVRqOWhiYnZTWXJsYmhPVTVCT2NnQjdZZVdQc2IzWkpINTNHa3BFbTV2QmV6TkxTaUM0OS1LYWoxdll2VUMzSmpnb2xPWGxodFRpVkFTZ2c3ZHp0UHFPUHg2d08ydzhmdmFMNTJsSkNRVHFfNHNZY29tLUxWdHBoQmV2bUxhLVhsbXFTcmgzQldBVHdKWXBUeS10NmNYZVdvN050bTRhV3h2Sm1sSDVtZWZCS3JhaVBpLWd5eVUzUEpoZkFDaExyWTlvNE930gHuAUFVX3lxTE9PQ3VQQy15ZlNhOFAtNjFTVGVJSER6cWM5UW1oYk94T2FJVGo5aGJidlNZcmxiaE9VNUJPY2dCN1llV1BzYjNaSkg1M0drcEVtNXZCZXpOTFNpQzQ5LUthajF2WXZVQzNKamdvbE9YbGh0VGlWQVNnZzdkenRQcU9QeDZ3TzJ3OGZ2YUw1MmxKQ1FUcV80c1ljb20tTFZ0cGhCZXZtTGEtWGxtcVNyaDNCV0FUd0pZcFR5LXQ2Y1hlV283TnRtNGFXeHZKbWxINW1lZkJLcmFpUGktZ3l5VTNQSmhmQUNoTHJZOW80T3c?oc=5",
       "publishedAt": "2026-08-09T18:43:44+00:00",
@@ -89,6 +101,42 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmpxLTdTV3Bja0R4SENIOHA3SmlzLVBFMXFlY0RLLVM5Mk5ySThPeFBaVGstQmRucUV1V3ZzM2FreklQMWxxTVdrdVdtVV8xMkJmTUJ0QlBfbXNaaHJQZXRtdmprTTdEMXlxalJYTTV4aHo2VXZnejJBeTVzUjhwdGxCc2hVbm1Kc083OXNfUS02dw?oc=5",
       "publishedAt": "2026-08-09T18:36:49+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-mexico-advances-to-2026-world-cup-round-of-16-with-2-0-win-the-news-mill",
+      "title": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强 - The News Mill",
+      "summary": "墨西哥以 2-0 获胜晋级 2026 年世界杯 16 强",
+      "originalTitle": "Mexico Advances to 2026 World Cup Round of 16 with 2-0 Win - The News Mill",
+      "originalSummary": "Mexico Advances to 2026 World Cup Round of 16 with 2-0 Win  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEpsTFBOMl9xVXo5d3dWWVB5cThheFdrck5WdkZMNTlTMUd5SjE1Z1IxZnVGeExVa2lWSWRJbEtkUDA0dHVodGVITFk5NzgzNFA3U1dtZFlsbGF3Sjlfc2VpazZ0a3hRTEdoR1lwVlJfMFF2RmtOMnpTUENPNEdWblpzYWpTVVhsVnBYQW5VWU9FNW5aR29aaFFodUtJNHJUcE1XUkZPeHN1UlVWZzJDdWFPT0ZHN2FpSHVZTjI5Mkh1N1owb3Nv?oc=5",
+      "publishedAt": "2026-08-09T18:27:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-saves-per-match-qatar-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "每场比赛保存 - 卡塔尔 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "summary": "每场比赛保存数据 - 卡塔尔 2026 年 FIFA 世界杯统计 FotMob",
+      "originalTitle": "Saves per match - Qatar stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Saves per match - Qatar stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOVUVtVlR6UFdCdkxDY2t2cTZhQ3ZlOWMwSWM1UFlKd0dNOXRqNnNSdk5FcnhLM0RWVjB1R2U2dFIySVhqaTdRN3p6alZDUlpmMnNNalZWNURMR2Fhb01weV8zVnZ6N1VaREgwbGRpSnIyMTFnQVBJZlp5aHpRVGN2a09paVF4X2xOenBiYnc5MUdmR1FLVzhHOTh3eFZVb1JLdnZVcTlzN3k0clJBTk5MLVJTc3ZSZ1R5NFlwUHh3UEFxLXZKNUo3bg?oc=5",
+      "publishedAt": "2026-08-09T18:26:09+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-belgium-beats-usmnt-4-1-in-fifa-world-cup-2026-round-of-16-the-news-mill",
+      "title": "2026 年世界杯 16 强赛比利时 4-1 击败美国国家队 - The News Mill",
+      "summary": "比利时在 2026 年世界杯 16 强赛中以 4-1 击败美国国家队 The News Mill",
+      "originalTitle": "Belgium Beats USMNT 4-1 in FIFA World Cup 2026 Round of 16 - The News Mill",
+      "originalSummary": "Belgium Beats USMNT 4-1 in FIFA World Cup 2026 Round of 16  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWR1c09vUGhEa285S3RIVmFEaW4tVG1UekpDS1lMRGhWVkpXSDhkRkV6RWc2Vm5LMHNLTlRQeGktcTFfVHpXRG9pSFZuT1VnNVVyaHBQS3BMNElqblJ1d0dFOFhCbGxqbTRBLWk3LUhBLTBPc1p5M1QxM0JkR19wb3ZnOW9qNmZKVS1BUkZRYzMxTmJFdDZLaGFjeGM?oc=5",
+      "publishedAt": "2026-08-09T18:22:27+00:00",
       "heat": 60
     },
     {
@@ -164,64 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
-      "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN 中国",
-      "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN 菲律宾",
-      "originalTitle": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN Philippines",
-      "originalSummary": "2026 ASEAN Championship: Fixtures, results, standings, how to watch  ESPN Philippines",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElTNkJWeHJ6d3dCaTliczd0VXJ6YnR3SkRzVmpuTlBjeFBwYzNqN0Z2eGJrM0JjdUpCdGlHbUFaRjV4WFREZHhXcmdmNXBLSGpBX2VhWXF6X2Y0NVVCbFkwRjBkQm5fYTUzdWtuZHN3dEMyWWhneHBuM3VsdXI2aVRvY296aGlFclRRZ09QWlF6QmFsakNTYmtfTlJRZDFEaUtrUEJmaVcyUG4yLXc?oc=5",
-      "publishedAt": "2026-08-09T13:50:19+00:00",
+      "id": "google-新闻-中文-红牌-mls2026的seattle-sounders-fc数据-fotmob",
+      "title": "红牌 — MLS2026的Seattle Sounders FC数据 - FotMob",
+      "summary": "红牌 — MLS2026的Seattle Sounders FC数据  FotMob",
+      "originalTitle": "红牌 — MLS2026的Seattle Sounders FC数据 - FotMob",
+      "originalSummary": "红牌 — MLS2026的Seattle Sounders FC数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWHNXWENFNFI0eXVPWFloY3NGTDlqVjBBY3FRRHdEVm5WSE1zZkhSbDlFeWZwSDRqQmE4UjhoSFlQd2pKV0x0UnlSNWxKVTNOOGw0M3k0T1Z4LVJaSEtYNDNZNm8tRlZLOGVEYXRYeXBaQWpXMENwNnA5eTUtUFZSSV9FemVocGF5elFDTTB2UkplREhLSTlfLWhnVFhlSDlKTW9UYS1CSzdOd2hkWU5Ta2VmQUYzQlFQWkVfZ0hGWjRGaFFDM1dTME5aMVUycjNp?oc=5",
+      "publishedAt": "2026-08-09T14:26:28+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-results-fixtures-standings-news-our-fifa-world-cup-hub-has-all-you-need-news24",
-      "title": "赛果、赛程、积分榜、新闻：我们的 FIFA 世界杯中心拥有您所需的一切 - News24",
-      "summary": "赛果、赛程、积分榜、新闻：我们的 FIFA 世界杯中心拥有您所需的一切 News24",
-      "originalTitle": "Results, Fixtures, Standings, News: Our FIFA World Cup Hub has all you need - News24",
-      "originalSummary": "Results, Fixtures, Standings, News: Our FIFA World Cup Hub has all you need  News24",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPaS1XWkhxWHExSExES0QtSVRibUZuYUttaWN6VWNnQ2JMandpQnA4NTE1bW9yS00tV0RQZTY3UktHR0JEdDZOSFl3Uk80SzIwbkdIR2hYNHo5SXZ2OHpldDlrTUdEYXhPLVctTzlQS2QwekxGZWtfY3BobW1YSFY3aW1BcXFFMDZPQXpMdWdHaUNONzlONVl1T21tM3Qwb1B5blNIdDlJQ2JQbzJGR2VMZ19ndWdWdw?oc=5",
-      "publishedAt": "2026-08-09T13:19:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-la-liga-five-key-talking-points-heading-into-the-2026-2027-season-al-jazeera",
-      "title": "西甲：进入 2026-2027 赛季的五个关键话题 - 半岛电视台",
-      "summary": "西甲：进入 2026-2027 赛季的五个关键话题",
-      "originalTitle": "La Liga: Five key talking points heading into the 2026-2027 season - Al Jazeera",
-      "originalSummary": "La Liga: Five key talking points heading into the 2026-2027 season  Al Jazeera",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdGFDSTBkSm1Sd2JRUmF2c1lnTFlyaTlrcWZvMHh1NHhwVm41SUU1OWszWmJsM0FHZTVweGMwTHh4U3hjUWdnalhacUlCSU5jTzd5b0k0NllVengwcTJ0Ti1IN2s0bmdrT01tUG9tMEdkOGNRWUpadTFpSzZiSVl0aTN3R0lEQVVsb1lSYWx0cGZWNTJsU3pjbTNtTFNKZ3pVazg1cFJHTmt2dmPSAbABQVVfeXFMTnNPM1BxVTg2aG94RUo1eVFaeWdRWVo5N0hOeThuTTR1Qi0tMnhVQnh0UkZyZUV4SFFKZ0RVbEZ1X2RTNHE3QXlLa2hNUDlVSDc2cHpLUDlmYlYza1R0WENmSGxXall4RTZPRklLWjdjcllGWWRjNTQ0R3h0Vjd4bHZ5M0VIRGhIOWs1MmQ1bVg5RWhWNmpxVGNKTnhRa0d2UndCR2xjUG5RTUp0Y0liU2I?oc=5",
-      "publishedAt": "2026-08-09T12:46:58+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-spain-squad-for-fifa-world-cup-2026-the-top-contender-neil-diamond-onrbmcbsom-mshale",
-      "title": "2026 年 FIFA 世界杯西班牙队阵容 |顶级竞争者 🇪🇸🔥 Neil Diamond (OnrbMcBsOm) - Mshale",
-      "summary": "2026 年 FIFA 世界杯西班牙队阵容 |顶级竞争者 🇪🇸🔥 Neil Diamond (OnrbMcBsOm)  Mshale",
-      "originalTitle": "Spain Squad For FIFA World Cup 2026 | The Top Contender 🇪🇸🔥 Neil Diamond (OnrbMcBsOm) - Mshale",
-      "originalSummary": "Spain Squad For FIFA World Cup 2026 | The Top Contender 🇪🇸🔥 Neil Diamond (OnrbMcBsOm)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1Kdnk4aGl1cWxlOWZhTkpHdmRVdnhGQnRicklZZWs2N0tXUmdMSS1EVnVLcTlYY0tnQkZ4YjN2TzRtSmoydkJvS1VIeWtVczBoZ3dCdFBwNGFQbDg?oc=5",
-      "publishedAt": "2026-08-09T12:45:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-full-match-schedule-group-stage-fixtures-revealed-giants-game-today-8vdgkvxzdc-mshale",
-      "title": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) - Mshale",
-      "summary": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) Mshale",
-      "originalTitle": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC) - Mshale",
-      "originalSummary": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTWR1dlN3UEVrZEtqaWhpd0tPUTdFWGExekVjRzVaUEpobm1vSWN6c3RibjhKaUgyRjJVVzNJQklPeDNqY1Zpa3A4S2ZIQ2M4bW1XWTRCZnp3dzA?oc=5",
-      "publishedAt": "2026-08-09T12:35:49+00:00",
-      "heat": 60
     }
   ]
 }
