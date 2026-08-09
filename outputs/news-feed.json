@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T15:02:21.865047+00:00",
+  "updatedAt": "2026-08-09T15:59:17.729684+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -10,13 +10,49 @@
     {
       "id": "google-news-in-the-video-barcelona-star-keeps-his-promise-after-the-world-cup-goal-com",
       "title": "视频中：巴萨球星在世界杯后兑现诺言 - Goal.com",
-      "summary": "视频中：巴塞罗那球星在世界杯后信守诺言 Goal.com",
+      "summary": "视频中：巴塞罗那球星在世界杯后兑现了他的诺言 Goal.com",
       "originalTitle": "In the video: Barcelona star keeps his promise after the World Cup - Goal.com",
       "originalSummary": "In the video: Barcelona star keeps his promise after the World Cup  Goal.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEpkdUcwSl9MQ19Jak5GSmFWR3h4RkZkcmhCRl9SQUFobjRyMzNJa0RzNWRkOGV2eWVDaW10UW1VUy1WUjFjQ0prTENMajlMMlNfX280RGJ2TFU1MjRITTJDcDE4TDlyMzdmSjJYQWh4OHh6ZjRHYU83bTBpcDhEajJMNXUyR2VUQ0VuVXJsWmRmdzIzU3dzV1VuM0ZkelgzNVN2OHNFZHVTdnlMMmln?oc=5",
       "publishedAt": "2026-08-09T14:52:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-my-plan-a-b-and-c-is-scaloni-tapia-backs-world-cup-winning-coach-to-stay-thedailystar-net",
+      "title": "“我的A、B和C计划是斯卡洛尼”：塔皮亚支持世界杯冠军教练留下 - thedailystar.net",
+      "summary": "“我的 A、B 和 C 计划是斯卡罗尼”：塔皮亚支持世界杯冠军教练留任",
+      "originalTitle": "‘My plan A, B and C is Scaloni’: Tapia backs World Cup-winning coach to stay - thedailystar.net",
+      "originalSummary": "‘My plan A, B and C is Scaloni’: Tapia backs World Cup-winning coach to stay  thedailystar.net",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObTZuNFhsaEx4bzZXNXVabzcwUW03aEs0UjFKWF8wQWFodld2UENVT0JEV1FlNFV5YTFIelJhNV9XVTktb0ZoMktYYWs3OHZxN3M3N3FyZDlIVUl6YzVHT0VxV2FOaExuZUQtZ1liMDJ6Z3pkclRIR0ZOOHY4RVRWNG5wOVEyblJWUVlrdUIwTEJuS2c1ZlNSMVdlcXZYcW1ZbFZIUHVsWFB4eEFfM1BPSmN0eTlQekk0cUl3QXM5SQ?oc=5",
+      "publishedAt": "2026-08-09T14:40:27+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
+      "title": "2026 年东盟锦标赛：赛程、结果、积分榜、如何观看 - ESPN 中国",
+      "summary": "2026 年东盟锦标赛：赛程、结果、排名、如何观看 ESPN 菲律宾",
+      "originalTitle": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN Philippines",
+      "originalSummary": "2026 ASEAN Championship: Fixtures, results, standings, how to watch  ESPN Philippines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUElTNkJWeHJ6d3dCaTliczd0VXJ6YnR3SkRzVmpuTlBjeFBwYzNqN0Z2eGJrM0JjdUpCdGlHbUFaRjV4WFREZHhXcmdmNXBLSGpBX2VhWXF6X2Y0NVVCbFkwRjBkQm5fYTUzdWtuZHN3dEMyWWhneHBuM3VsdXI2aVRvY296aGlFclRRZ09QWlF6QmFsakNTYmtfTlJRZDFEaUtrUEJmaVcyUG4yLXc?oc=5",
+      "publishedAt": "2026-08-09T13:50:19+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-cristiano-ronaldo-expresses-support-for-portugal-after-world-cup-round-of-16-exit-the-news-mill",
+      "title": "世界杯16强出局后，克里斯蒂亚诺·罗纳尔多表示支持葡萄牙 - The News Mill",
+      "summary": "世界杯 16 强出局后，克里斯蒂亚诺·罗纳尔多表达了对葡萄牙的支持 The News Mill",
+      "originalTitle": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit - The News Mill",
+      "originalSummary": "Cristiano Ronaldo expresses support for Portugal after World Cup round of 16 exit  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdjg1cG5yTDFFQ3lzZ0JGRjVpXzlmTEFId3FOSW9FOFFlX2s4UUpaUERXLVdUelpOOW9DNkpzcDNtYlM1ZjVnVlp3ajRmYXF5YW9TcnlDUUstLTM5SVVwQzJGcnpXSkVvT2lqNXVRVDMtdEFyRzdpa3A4R3V2ZlVfaFNyNXlPTXEtV1ExRlBVMWhQa0JEZVFNeFp4cjM3LThJeXktU0h1LXdVV29SQXZUeWNKaVg?oc=5",
+      "publishedAt": "2026-08-09T13:32:12+00:00",
       "heat": 52
     },
     {
@@ -68,6 +104,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-argentina-vs-austria-live-messi-david-alaba-fifa-world-cup-match-arg-vs-aut-live-n18g-maurizio-lupi-ullyhezl",
+      "title": "🔴阿根廷 vs 奥地利直播：梅西 |大卫·阿拉巴 | FIFA 世界杯比赛 ARG 与 AUT LIVE | N18G 毛里齐奥·卢皮 (uLLyheZlUv) - 姆沙勒",
+      "summary": "🔴阿根廷 vs 奥地利直播：梅西 |大卫·阿拉巴 | FIFA 世界杯比赛 ARG 与 AUT LIVE | N18G 毛里齐奥·卢皮 (uLlyheZlUv)  Mshale",
+      "originalTitle": "🔴Argentina Vs Austria LIVE: Messi | David Alaba | FIFA World Cup Match ARG Vs AUT LIVE | N18G Maurizio Lupi (uLLyheZlUv) - Mshale",
+      "originalSummary": "🔴Argentina Vs Austria LIVE: Messi | David Alaba | FIFA World Cup Match ARG Vs AUT LIVE | N18G Maurizio Lupi (uLLyheZlUv)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9vU09Xb1dQc0tBcFdWTS1RaXhocFBmclNWMi1scXlWV2E2a0Zic21BejZ4MmNMTHlEeThFdUhxZTU2VHg1dzY1UVB3M1l6RWxLTTNTWmhHZEdsdw?oc=5",
+      "publishedAt": "2026-08-09T12:28:38+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-germany-at-the-2026-fifa-world-cup-full-coverage-bavarian-football-works",
       "title": "德国队参加 2026 年 FIFA 世界杯 — 全程报道 - Bavarian Football Works",
       "summary": "德国队参加 2026 年 FIFA 世界杯 — 全面报道巴伐利亚足球作品",
@@ -77,18 +125,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZqbVJWSmFpemlXQU5xQnlNSkEzRnNCT3I1VWZEbmhEWElvRmUtOVpTY2E4YTdBSGFTWFBiTHk3Y2s3ekhaaEd3Q05tUHFXQXNoakVWbzJPaDY3M1hQYkxIempaR1ZSRjFBZF9WWFNTZTdvR3Fkb3J3YkpSU0NUVEZFMUd2a19fTkJ5TlVVMm9MTFBaX0dQQTgzMDdYdlF4UmEzbEIyVXY4UTJfa1hEZjBIbjJpVnRNUDJyZWN0SQ?oc=5",
       "publishedAt": "2026-08-09T12:17:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-vs-austria-fifa-world-cup-highlights-easyjet-vtli3hcucg-mshale",
-      "title": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) - Mshale",
-      "summary": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) Mshale",
-      "originalTitle": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG) - Mshale",
-      "originalSummary": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Na2xKY3RFVEdOWWt3aUNwaUJZcUVNdkpubUdRN1h5eGhDRVkyX1ktZGpJLW1rSkcySHBXMEJfdlBmTU1YOVdQV05veVNCQ09td0N4dzZmSDZFbUJTQXJkeg?oc=5",
-      "publishedAt": "2026-08-09T12:06:33+00:00",
       "heat": 60
     },
     {
@@ -102,6 +138,18 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSUwzVUlkQXE3cmpwT2pNQmJlemVjeS1QODhPOEVISjBDV3U5QkxRWURlQ3JrWDJVMkdXV1hHLVlzUEltdkhqZVR3RDJ2bk41cGROaG9pMUZrNTQ?oc=5",
       "publishedAt": "2026-08-09T12:01:27+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-a-world-cup-an-old-wound-whitening-in-latin-america-latinoamérica-21",
+      "title": "世界杯，旧伤：拉丁美洲的“美白” - Latinoamérica 21",
+      "summary": "世界杯，旧伤：拉丁美洲的“美白”Latinoamérica 21",
+      "originalTitle": "A World Cup, an old wound: “whitening” in Latin America - Latinoamérica 21",
+      "originalSummary": "A World Cup, an old wound: “whitening” in Latin America  Latinoamérica 21",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRnp5Q2UxbTA2VlJWb012aUYtZGd1UFUycGpiLW9WZmtCZE1RRU81VWdsYVk3LWxtMGFySVM5bWp6RjBHUmhObzR5cWtjWVNqRkxkdU5Xcl9PLWNNSTh1YjZYVEVTTEZxVmZqOEFRNnpSSEM0aThrMGxYYUh0eThILU8tRDZMdFJOaE9B?oc=5",
+      "publishedAt": "2026-08-09T12:00:00+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-iran-to-participate-in-2026-world-cup-confirms-fifa-chief-infantino-dd-news",
@@ -142,7 +190,7 @@
     {
       "id": "google-news-laliga-president-joins-chorus-of-criticism-for-fifa-boss-gianni-infantino-sabc-sport",
       "title": "西甲主席加入批评国际足联主帅詹尼·因凡蒂诺的行列 - SABC Sport",
-      "summary": "西甲主席加入了对国际足联主帅詹尼·因凡蒂诺的批评 SABC Sport",
+      "summary": "西甲主席加入了对国际足联主帅詹尼·因凡蒂诺的批评行列 SABC Sport",
       "originalTitle": "LaLiga president joins chorus of criticism for FIFA boss Gianni Infantino - SABC Sport",
       "originalSummary": "LaLiga president joins chorus of criticism for FIFA boss Gianni Infantino  SABC Sport",
       "translation": "online",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQQkNjbU02N0R0MzNXcVRUWjQxWDdMUWl3YnBwczlsZ05QMmRZQ2lTNERhNEN0R1VfX2F3OEtOU1RidXRMWlZ2QVRXUl9OREtnak9CN1BjUjFxdXdwQTdVUUxiRnVFLXdiUHJGbGhKQjVzV2RXTHRoX2RCRjB4a3JYVkZrVWlxemd4aU5zQ0xlUVVlLWUzNzROZllXS1NzMFJIZTZ6VDVCRkdJZF9I?oc=5",
       "publishedAt": "2026-08-09T11:12:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-uruguay-appoint-diego-forlan-as-interim-head-coach-after-world-cup-debacle-the-business-standard",
-      "title": "世界杯惨败后乌拉圭任命迭戈·弗兰为临时主教练 - 商业标准",
-      "summary": "世界杯惨败后，乌拉圭任命迭戈·弗兰为临时主教练 The Business Standard",
-      "originalTitle": "Uruguay appoint Diego Forlan as interim head coach after World Cup debacle - The Business Standard",
-      "originalSummary": "Uruguay appoint Diego Forlan as interim head coach after World Cup debacle  The Business Standard",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWx0MzJ6cC00dTU5U0VPcDdaTEFpTnRZZjctXzVmZlBJZlN0a05yaW51Z2NzdjBtTnh3SHpFbExua0xETzVlQ0NSUlhfbGpzdVBLQmJQRXk2LXMwOWNrdDVVVktZUjVCTXlhWTRsWlZjTFRKam1Mc1FjM1MyME9uRmc1ZTN4enJmNnJFdEI3RHk2VVEwLXBwbFpDcTFPVHcwbnNrQUY1aFZsbU8yTzE00gG0AUFVX3lxTE5tZm5EUVNJZ3ZVZ0lKemRpWWFWYUI3VExRVGl0MzZXX1JLMFN5d05qaWhtVk8tMkpiS2ltN0R3Qk9vRW44d1J5Ny1SS09kbF9RVEhuOExicUM3WFZPQ2hndDVxaWItNDNfMHBHOXFMTzh1UmQwUWZMNlVQLVRyOHJuMGhMUExDUUtHR1FpMExvOHJ5ZUJMbEdkODQxeHJVaWpMYy1ENUFxOFROa2JaNzNiLUFtbA?oc=5",
-      "publishedAt": "2026-08-09T11:08:54+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-will-lionel-messi-play-at-the-2026-world-cup-squawka",
-      "title": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？ - 斯夸卡",
-      "summary": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？  斯夸卡",
-      "originalTitle": "Will Lionel Messi play at the 2026 World Cup? - Squawka",
-      "originalSummary": "Will Lionel Messi play at the 2026 World Cup?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU5WQTZid0tlVWhta0RQVlZVWHpQT2s2MUN2MW9WR0ZjNnFRR215ZjdTd1JMNkd6MzFRRFdWcmNfb0VlYTA2ei15cDduX3lOc3V6NDlySlRQS3ctaXZjSHNDUWNqTFpSR0o2RnY2cUVNU1djaU5HZXgzVkhUVXU2ekJCcWNieXlfLVEtaVRQaXA?oc=5",
-      "publishedAt": "2026-08-09T11:00:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-a-cut-above-the-rest-bold-2026-world-cup-hairstyles-for-die-hard-fans-iol",
-      "title": "出类拔萃：为铁杆球迷设计的 2026 年世界杯大胆发型 - IOL",
-      "summary": "出类拔萃：为铁杆球迷设计的 2026 年世界杯大胆发型 IOL",
-      "originalTitle": "A cut above the rest: bold 2026 World Cup hairstyles for die-hard fans - IOL",
-      "originalSummary": "A cut above the rest: bold 2026 World Cup hairstyles for die-hard fans  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVHA1dklNR0RabzNpYS0wT3pmLURMMENVenZoMFR2cDlCREUzRTZMWnEzMERjREZoc1JPdV9kT0xWU0t5SUQ4bkxwS2pDUTRLRlRFemJkMG1ERUNOWk1BR1JBZVFGRFd2TjZQNDdnUXl1SUcyc0FhaEdIVzlRcmhtQjRKeFFvYmx0dm9nc0VuSmRleXBHUTVjdDNpOFQwU2d5?oc=5",
-      "publishedAt": "2026-08-09T10:23:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup-al-jazeera",
-      "title": "摩洛哥、阿尔及利亚进入WAFCON半决赛并获得世界杯参赛资格 - 半岛电视台",
-      "summary": "摩洛哥、阿尔及利亚进入 WAFCON 半决赛并获得 FIFA 世界杯参赛资格",
-      "originalTitle": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - Al Jazeera",
-      "originalSummary": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup  Al Jazeera",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB0gG3AUFVX3lxTE5reU1QRi0xRkdwRWYtVGs3c1lmNktVYXljb0JaWjNIM0E0eW1OM1Bka2NGQjVwbUZXeG4xT2NJVzlkZElpdWJYcERjaHA3enROLU1SVzI4eWJFdUlhLU9mV19HdzduZjlvWGFUekVjOFduUnhQYjBFNVVhTmp2VVBEekwxYWFUQUlPb2dDUm0xdklQTU52aVpuUEJKM05rYXUwNzRubEhvdEtuN3RwY1pVR2tORE12VQ?oc=5",
-      "publishedAt": "2026-08-09T10:16:56+00:00",
       "heat": 60
     }
   ]
