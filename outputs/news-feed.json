@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T04:00:58.064993+00:00",
+  "updatedAt": "2026-08-09T05:14:23.054029+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
+      "publishedAt": "2026-08-09T04:18:23+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-messi-targeted-by-multiple-threats-during-2026-world-cup-report-sportingtribune-com",
       "title": "梅西在 2026 年世界杯期间受到多重威胁 — 报告 - sportingtribune.com",
@@ -20,16 +32,52 @@
       "heat": 52
     },
     {
-      "id": "google-news-mexico-begin-fifa-world-cup-campaign-with-2-0-victory-over-south-africa-fijivillage",
-      "title": "墨西哥2-0战胜南非，开启世界杯征程 - Fijivillage",
-      "summary": "墨西哥以 2-0 战胜南非斐济村开启 FIFA 世界杯征程",
-      "originalTitle": "Mexico begin FIFA World Cup campaign with 2-0 victory over South Africa - Fijivillage",
-      "originalSummary": "Mexico begin FIFA World Cup campaign with 2-0 victory over South Africa  Fijivillage",
+      "id": "google-news-belgium-coach-garcia-reflects-on-setbacks-in-fifa-world-cup-2026-quarter-final-loss-to-spain-the-news-mill",
+      "title": "比利时主帅加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 - The News Mill",
+      "summary": "比利时教练加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 The News Mill",
+      "originalTitle": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain - The News Mill",
+      "originalSummary": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain  The News Mill",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQQTBtb3psT3huSGxHTTBpN0EzYy1sYUgwVTRFN2ozVXdlenlaSkQwTlpYR0pCM01sNHluZFVFNzJRN0psSk10cWQ3RG9TNnRTanFVRUwyN045eFBhWk5DVlQtVjQ5UkpVd29KMnNqblJrRVF5bnVfdjhXOFd3LU5qY1d2T1NPNXI5OWFnblpHemUxYzBDQjVlbTZ5RkR3aTNkVXdoRmNLQ1pmRWd3N0QySTdHd0ZuU0xyNGR2a29B?oc=5",
-      "publishedAt": "2026-08-09T02:04:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYk9RRlNpQ1Mtdmdqc1ltdW5vdVg5dk9JRFB5a0VsSTFhcmhaUE01WjVlbkpKRDVZeXZHSGt5NkZubk9TUFVJYy1vbi0zNEZnNDMzMEdHS1NnWTJ3MWVxS080cHZmaTJ2aXZLWGZZVjBDMk9QQUpQR0QyVGRmd0FrLU5Ibm1IZXdFLXJ0bHdUWWpxeTFzVGYtOFdxSld1MFZsaEZLLWhMcXduZDMwWmVWRkM0YUNyWDB4M2E1aVA4amItNk0?oc=5",
+      "publishedAt": "2026-08-09T03:18:37+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-steve-clarke-resigns-as-scotland-head-coach-after-2026-world-cup-exit-the-news-mill",
+      "title": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克辞去苏格兰主教练职务 - The News Mill",
+      "summary": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克 (Steve Clarke) 辞去苏格兰主教练职务",
+      "originalTitle": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit - The News Mill",
+      "originalSummary": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYl8wYlY4ai0zUzJNY0I1Z0laeDdhNlZ1d3hra004QlByUjFBX2dBa25LOGlvNE9sS1c2RVlqSk9JN1d5ZnZjYlVZMlJma2JBWjJ2T3U5LTBTOEpXS2dWZUxrajJZaXZlX2hVQ0dtdHhfWUZMOVJRb0dXRFRkV0hoelVYdVpBbDBlNEdlbWMyMUhHbkp5NER6LUtFam1WT2hQNXo0aA?oc=5",
+      "publishedAt": "2026-08-09T03:02:51+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-england-s-quarter-final-clash-against-norway-in-fifa-world-cup-2026-the-news-mill",
+      "title": "2026 年 FIFA 世界杯英格兰四分之一决赛对阵挪威 - The News Mill",
+      "summary": "2026 年 FIFA 世界杯英格兰队四分之一决赛对阵挪威队 The News Mill",
+      "originalTitle": "England's Quarter-Final Clash Against Norway in FIFA World Cup 2026 - The News Mill",
+      "originalSummary": "England's Quarter-Final Clash Against Norway in FIFA World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1lwazVIb3VLN0hfVlJINEhWWWVzaUdoOHFMaVY2cGJlallBN3ZTR3l2R1U1dXp0b3E0bndYeWkyOHgxNENjNmZmUThtRzhtYTlYT0JIWnNCX1BoODNXNEhvbU40Ui1MSWRXTHRsdElpc2RtdF91UGdsSHFteHJUR2I4cmxtU0xmUldsNUVtT0lDRnpLX2puXzBJSVNFSzQwSUtYckNoVko2ZjFwQ1ZMd0lQdTkwUQ?oc=5",
+      "publishedAt": "2026-08-09T03:02:51+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-socceroos-transfer-tracker-where-australia-s-stars-will-play-in-2026-27-espn-co-uk",
+      "title": "澳大利亚足球俱乐部转会追踪：澳大利亚球星 2026-27 赛季将在哪里踢球 - espn.co.uk",
+      "summary": "Socceroos 转会追踪：澳大利亚球星 2026-27 赛季将在哪里踢球 espn.co.uk",
+      "originalTitle": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27 - espn.co.uk",
+      "originalSummary": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27  espn.co.uk",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSDlKU2FULS14NGpKQnVpMWFKSDl3U0lvX0xIV2s5VTZEZFRzTGlCa3VYV0pBZmpONm94bEh0MHFVVEhhVzdmZXhBUjhRYVJNeDQyRGo2M0sxTHZxdmFkRWFfOEp6bEZnWlBfMktXZDhEZ0hSTXROUU9mRFNCdVF3VWZrMC1abVNMRTF5dEM3c2VVX3pMRzBQcTBrdXRRUWVlSTJMSU5YMTViT3NmdmN1ci1CM1Y?oc=5",
+      "publishedAt": "2026-08-09T02:32:32+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-a-video-clip-during-the-2026-fifa-north-american-world-cup-captivated-countless-soccer-fans-this-is-매일경제",
@@ -41,6 +89,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE4wWE05YmdLNWxvQmNkS0dKeUxMOTctbTNqeF84ckt2dWlISi01X2pCd1B1cDJsS0MxYUhPWkhPUzFpMVJPMGdMSW9fem1YbHdL?oc=5",
       "publishedAt": "2026-08-09T01:53:22+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-white-house-defends-visa-process-and-travel-arrangements-for-iran-at-fifa-world-cup-2026-the-news-mill",
+      "title": "白宫为伊朗参加 2026 年世界杯的签证程序和旅行安排辩护 - The News Mill",
+      "summary": "白宫为伊朗参加 2026 年 FIFA 世界杯的签证流程和旅行安排辩护 - 新闻中心",
+      "originalTitle": "White House defends visa process and travel arrangements for Iran at FIFA World Cup 2026 - The News Mill",
+      "originalSummary": "White House defends visa process and travel arrangements for Iran at FIFA World Cup 2026  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPel9PZGpPZWVMNlNiT0pJMzlKZXhVUDh1cTVnbElpTzQ0U0h0RHEzMWdUa3FNV3J0Z2ItUmJhNTBQZUxVSE9BS3RRZHp4a29nMlV1Ry1xV0k1ZnV1ZVE3WWdFeFVFZkZmcEZieW5PdVdHTTRYb0tJanVaSWVwYmFHb2VwdDNDSERycWhGVnhsaHdJaWJIRUs3WlV6QUNDTmNBdGVmY2UtbDUzcVFhM1RvTFhTRnpzLWVHc0V3dmdn?oc=5",
+      "publishedAt": "2026-08-09T01:52:32+00:00",
       "heat": 60
     },
     {
@@ -56,30 +116,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
-      "publishedAt": "2026-08-09T01:18:25+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ex-kfa-chief-replaced-phone-after-south-korea-s-world-cup-exit-헤럴드경제",
-      "title": "韩国世界杯出局后，韩国足协前主席更换了手机 - 헤럴드경제",
-      "summary": "韩国队退出世界杯后，韩国足协前主席更换了手机  헤럴드경제",
-      "originalTitle": "Ex-KFA chief replaced phone after South Korea's World Cup exit - 헤럴드경제",
-      "originalSummary": "Ex-KFA chief replaced phone after South Korea's World Cup exit  헤럴드경제",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15dWFKemZreVM1Z01BNDBHaDZ6Vjk4RVFsXzFaWFJ2ZXJRZm05b3N0MFFJd2d4XzJfdE01WGpoeHBzUTdTd1hEbDVrSHVVNUNaWEVtb2Fxcw?oc=5",
-      "publishedAt": "2026-08-09T00:08:24+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-morocco-s-historic-world-cup-2026-run-ends-with-quarter-final-loss-to-france-the-news-mill",
       "title": "摩洛哥历史性的 2026 年世界杯之旅以四分之一决赛负于法国而告终 - The News Mill",
       "summary": "摩洛哥历史性的 2026 年世界杯之旅以四分之一决赛负于法国而告终 The News Mill",
@@ -92,11 +128,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod-tv",
-      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - tod.tv",
-      "summary": "观看 FIFA 2026 世界杯直播和精彩片段 tod.tv",
-      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - tod.tv",
-      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  tod.tv",
+      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
+      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
+      "summary": "观看 FIFA 2026 世界杯™ 直播和精彩片段 TOD",
+      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
+      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
@@ -113,18 +149,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxQYTF4c0xpel9HdHVPSkhQVmVxYnlnZjBUWFpSUHd4YnNjZmhNUHlxc1RjcFV4VnRmS0tmXy1aOUJVNzNKRlBKRjA5SUNINWNxaTZIbXp3eURjOUR0QnB6MGhEZVFDMEZrdWVrLWpHQjNQMUJUMzdfeTluajdBOWVoVDduV1RpYUg5V1BEel9yQ2FGQ0VOSXQzZG1OTVl3enJ0dEsyVjNoUEoyek1XbDJHTm5STjBsckR4ZWVQbTFkaTNDdG1MZWNrWUhQT1lwOXE3VkpNOEZxR2drLUZsSUd3YkdWaHpqQWFSWEVkZWNfZzczZW5vSlFuUVNxVDRhV25leXhrMXB1NGk3UE83cDVja3g4UnR6OUJpdFlkcGJBZUI1SFQ4V2djSGlOOFl5a1oxT1l1YjNJUVRxY3liQUFNeEE5Y3dzeFE0OXlHS3ZLNDlPODI0WmlVMUQyZ1NNQ2JEYmpZUWZtZWRVaVN2bi1URVpKcjVJUEY0enpNQy04eEZmeUhiS1V5YVRZWkV2c1I50gGQA0FVX3lxTFBhMXhzTGl6X0d0dU9KSFBWZXFieWdmMFRYWlJQd3hic2NmaE1QeXFzVGNwVXhWdGZLS2ZfLVo5QlU3M0pGUEpGMDlJQ0g1Y3FpNkhtend5RGM5RHRCcHowaERlUUMwRmt1ZWstakdCM1AxQlQzN195OW5qN0E5ZWhUN25XVGlhSDlXUER6X3JDYUZDRU5JdDNkbU5NWXd6cnR0SzJWM2hQSjJ6TVdsMkdOblJOMGxyRHhlZVBtMWRpM0N0bUxlY2tZSFBPWXA5cTdWSk04RnFHZ2stRmxJR3diR1ZoempBYVJYRWRlY19nNzNlbm9KUW5RU3FUNGFXbmV5eGsxcHU0aTdQTzdwNWNreDhSdHo5Qml0WWRwYkFlQjVIVDhXZ2NIaU44WXlrWjFPWXViM0lRVHFjeWJBQU14QTljd3N4UTQ5eUdLdks0OU84MjRaaVUxRDJnU01DYkRiallRZm1lZFVpU3ZuLVRFWkpyNUlQRjR6ek1DLTh4RmZ5SGJLVXlhVFlaRXZzUjk?oc=5",
       "publishedAt": "2026-08-08T23:06:31+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-golden-overtime-in-the-2026-world-cup-final-spain-is-the-world-champion-logos-pres-md",
-      "title": "2026年世界杯决赛黄金加时：西班牙夺得世界冠军！ - 徽标-pres.md",
-      "summary": "2026年世界杯决赛黄金加时：西班牙夺得世界冠军！  徽标-pres.md",
-      "originalTitle": "Golden Overtime in the 2026 World Cup Final: Spain Is the World Champion! - logos-pres.md",
-      "originalSummary": "Golden Overtime in the 2026 World Cup Final: Spain Is the World Champion!  logos-pres.md",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUk9aN2E0cnp2Z1NnSlZiSmstb1VYYUxRQlN4UWozeW05Ql9ZRjZPZThoZ1dfa2EyaXNXbzB0VGkxbUVWRi16QWpSdVRQN3VYX1oxeHRqeE0xYTg1SjdIWjMzR1YzWlhpTUdKLUp2TmY2TmdDQWRiTmpKRUJ0LWNNdWxWRzh4dHVKSXJWb0Z0NXBhNndhZHc5bkREQ0lmd0x2UjdjRw?oc=5",
-      "publishedAt": "2026-08-08T22:47:43+00:00",
       "heat": 52
     },
     {
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEpsTFBOMl9xVXo5d3dWWVB5cThheFdrck5WdkZMNTlTMUd5SjE1Z1IxZnVGeExVa2lWSWRJbEtkUDA0dHVodGVITFk5NzgzNFA3U1dtZFlsbGF3Sjlfc2VpazZ0a3hRTEdoR1lwVlJfMFF2RmtOMnpTUENPNEdWblpzYWpTVVhsVnBYQW5VWU9FNW5aR29aaFFodUtJNHJUcE1XUkZPeHN1UlVWZzJDdWFPT0ZHN2FpSHVZTjI5Mkh1N1owb3Nv?oc=5",
       "publishedAt": "2026-08-08T21:22:12+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-belgium-beats-usmnt-4-1-in-fifa-world-cup-2026-round-of-16-the-news-mill",
-      "title": "2026 年世界杯 16 强赛比利时 4-1 击败美国国家队 - The News Mill",
-      "summary": "比利时在 2026 年世界杯 16 强赛中以 4-1 击败美国国家队 The News Mill",
-      "originalTitle": "Belgium Beats USMNT 4-1 in FIFA World Cup 2026 Round of 16 - The News Mill",
-      "originalSummary": "Belgium Beats USMNT 4-1 in FIFA World Cup 2026 Round of 16  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONWR1c09vUGhEa285S3RIVmFEaW4tVG1UekpDS1lMRGhWVkpXSDhkRkV6RWc2Vm5LMHNLTlRQeGktcTFfVHpXRG9pSFZuT1VnNVVyaHBQS3BMNElqblJ1d0dFOFhCbGxqbTRBLWk3LUhBLTBPc1p5M1QxM0JkR19wb3ZnOW9qNmZKVS1BUkZRYzMxTmJFdDZLaGFjeGM?oc=5",
-      "publishedAt": "2026-08-08T21:22:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-separating-tax-facts-from-social-media-fiction-thisdaylive",
-      "title": "2026 年世界杯：将税务事实与社交媒体虚构分开 - THISDAYLIVE",
-      "summary": "2026 年世界杯：将税务事实与社交媒体虚构分开",
-      "originalTitle": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction - THISDAYLIVE",
-      "originalSummary": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction  THISDAYLIVE",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenl6SWg2OEtIR0ZDNUNJX1BXR1pqR3J1WldVbnhiNHZWQzF6YWVWc1JBWGpxNGs0MkdlZkpBWG5mR1liVzVhQXItdEFZa21fUTFCcFJVbFVPXzlMMEZsdHIxVkpWYnVuWHVKbVZ1eEhUV1RCUldVUVRxNVVGQ0JKVG9NbFFOVlJFRkh4MTR4Z2c1ZTVtdnNETUhmUjc0YTRsY0tN?oc=5",
-      "publishedAt": "2026-08-08T20:49:50+00:00",
-      "heat": 60
     }
   ]
 }
