@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T22:36:05.529438+00:00",
+  "updatedAt": "2026-08-09T23:35:53.052799+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-world-cup-2026-separating-tax-facts-from-social-media-fiction-thisdaylive",
+      "title": "2026 年世界杯：将税务事实与社交媒体虚构分开 - THISDAYLIVE",
+      "summary": "2026 年世界杯：将税务事实与社交媒体虚构分开",
+      "originalTitle": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction - THISDAYLIVE",
+      "originalSummary": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction  THISDAYLIVE",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenl6SWg2OEtIR0ZDNUNJX1BXR1pqR3J1WldVbnhiNHZWQzF6YWVWc1JBWGpxNGs0MkdlZkpBWG5mR1liVzVhQXItdEFZa21fUTFCcFJVbFVPXzlMMEZsdHIxVkpWYnVuWHVKbVZ1eEhUV1RCUldVUVRxNVVGQ0JKVG9NbFFOVlJFRkh4MTR4Z2c1ZTVtdnNETUhmUjc0YTRsY0tN?oc=5",
+      "publishedAt": "2026-08-09T20:49:45+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-how-to-watch-the-mexico-vs-england-fifa-world-cup-game-live-for-free-yahoo-sports",
       "title": "如何免费观看墨西哥对阵英格兰 FIFA 世界杯比赛直播 - 雅虎体育",
@@ -18,6 +30,18 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPd2VuQVJXOFEzRnFRQWlnbjZFdkEzeV9GUmhiM2JMWEZsNk9WSlVJdDFvV0s0NlRTOTBUSmI0TWk4OGprd2lwRHJGdFBqQ1lnTlRpYVNManNsQlhQUHBiSnNfamdfakRUUGYydnZaUXVtNmtMZC1UbVI1WHprTmZDbXpYdw?oc=5",
       "publishedAt": "2026-08-09T20:17:00+00:00",
       "heat": 68
+    },
+    {
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
+      "publishedAt": "2026-08-09T20:05:59+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-vozinha-s-last-dance-world-cup-hero-sparks-retirement-fears-at-colo-colo-marca-com",
@@ -32,11 +56,23 @@
       "heat": 52
     },
     {
+      "id": "google-news-match-preview-mexico-vs-ecuador-fifa-world-cup-2026-luke-durbin-ktbusihd09-mshale",
+      "title": "比赛预览：墨西哥 vs 厄瓜多尔 | FIFA 世界杯 2026™ 卢克·德宾 (ktbuSIHd09) - Mshale",
+      "summary": "比赛预览：墨西哥 vs 厄瓜多尔 | FIFA 世界杯 2026™ 卢克·杜宾 (ktbuSIHd09)  Mshale",
+      "originalTitle": "Match Preview: Mexico Vs Ecuador | FIFA World Cup 2026™ Luke Durbin (ktbuSIHd09) - Mshale",
+      "originalSummary": "Match Preview: Mexico Vs Ecuador | FIFA World Cup 2026™ Luke Durbin (ktbuSIHd09)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00RjhmMTRPc1hKcjVnXzlnNktnMFlkbm9IaUpGb0pubG1ab2tnTDVaeEc3RnRUVUtCR2RPWksycG5TdndfVU5GN1p2LW9rNkszcGxnN1FVVGdNVnM?oc=5",
+      "publishedAt": "2026-08-09T19:31:16+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告显示：世界杯期间男子想要以残忍的方式谋杀莱昂内尔·梅西 - goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  goal.com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
@@ -80,11 +116,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-2026-world-cup-winner-odds-kalshi-vs-polymarket-defirate-com",
-      "title": "2026 年世界杯冠军赔率：卡尔希 vs. Polymarket - defirate.com",
-      "summary": "2026 年世界杯冠军赔率：卡尔希 vs. Polymarket defirate.com",
-      "originalTitle": "2026 World Cup Winner Odds: Kalshi vs. Polymarket - defirate.com",
-      "originalSummary": "2026 World Cup Winner Odds: Kalshi vs. Polymarket  defirate.com",
+      "id": "google-news-2026-world-cup-winner-odds-kalshi-vs-polymarket-defi-rate",
+      "title": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket - DeFi 利率",
+      "summary": "2026 年世界杯冠军赔率：Kalshi 与 Polymarket DeFi 利率",
+      "originalTitle": "2026 World Cup Winner Odds: Kalshi vs. Polymarket - DeFi Rate",
+      "originalSummary": "2026 World Cup Winner Odds: Kalshi vs. Polymarket  DeFi Rate",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
@@ -185,42 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNSlNJRmpHeUdDSWExZnJuSndmbVFHZUdiS0dCMHloVEN2UDhNdnlJVDZHeVRxYS1WbW1GaUUzYUlLN2FBOXNtNVFJTkRyNXlEZ2FEUDN3VW1JYjYyVXJXUnlwWV9qeXBhY1d4d1duWWh4YkF5NjA1eWcwSFppcWg5RFdIVFV0TWQ5N2VMYVRXNmNxeE5hYWVPTXJjQmlQdGY2bTlPMlVPeF9TeEF3?oc=5",
       "publishedAt": "2026-08-09T17:37:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-canada-pats-its-back-for-the-success-of-the-historic-event-the-indian-panorama",
-      "title": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功表示祝贺 - 印度全景",
-      "summary": "2026 年 FIFA 世界杯：加拿大为这一历史性赛事的成功举办表示祝贺 印度全景",
-      "originalTitle": "FIFA World Cup 2026: Canada pats its back for the success of the historic event - The Indian Panorama",
-      "originalSummary": "FIFA World Cup 2026: Canada pats its back for the success of the historic event  The Indian Panorama",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd09Ha3JfUzBJcl90THZNUTNzQmgtX0tWNkRSdHFlaUU3UDJtZ0pGYktBQzM1UzgyN3lJRjdBajFsZGk5NFd3Tkx0MVlEcGdudXlqSFVxTmhWenlvS1lGdjJhV28wOTVvMmw0Sldxc0hVaHRmNVV3b2tWNUtfS0hRQ3l0X0d3dTF2aTBFSEdEOThLTnNkZG5IeS1UYUdYQ2YtUU1hbFhiSHlSTUQxQ1dYUV94bDQ?oc=5",
-      "publishedAt": "2026-08-09T17:28:44+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-uruguay-appoint-diego-forlan-as-interim-head-coach-after-world-cup-debacle-the-business-standard",
-      "title": "世界杯惨败后乌拉圭任命迭戈·弗兰为临时主教练 - 商业标准",
-      "summary": "世界杯惨败后，乌拉圭任命迭戈·弗兰为临时主教练 The Business Standard",
-      "originalTitle": "Uruguay appoint Diego Forlan as interim head coach after World Cup debacle - The Business Standard",
-      "originalSummary": "Uruguay appoint Diego Forlan as interim head coach after World Cup debacle  The Business Standard",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUWx0MzJ6cC00dTU5U0VPcDdaTEFpTnRZZjctXzVmZlBJZlN0a05yaW51Z2NzdjBtTnh3SHpFbExua0xETzVlQ0NSUlhfbGpzdVBLQmJQRXk2LXMwOWNrdDVVVktZUjVCTXlhWTRsWlZjTFRKam1Mc1FjM1MyME9uRmc1ZTN4enJmNnJFdEI3RHk2VVEwLXBwbFpDcTFPVHcwbnNrQUY1aFZsbU8yTzE00gG0AUFVX3lxTE5tZm5EUVNJZ3ZVZ0lKemRpWWFWYUI3VExRVGl0MzZXX1JLMFN5d05qaWhtVk8tMkpiS2ltN0R3Qk9vRW44d1J5Ny1SS09kbF9RVEhuOExicUM3WFZPQ2hndDVxaWItNDNfMHBHOXFMTzh1UmQwUWZMNlVQLVRyOHJuMGhMUExDUUtHR1FpMExvOHJ5ZUJMbEdkODQxeHJVaWpMYy1ENUFxOFROa2JaNzNiLUFtbA?oc=5",
-      "publishedAt": "2026-08-09T16:28:56+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-09T15:46:01+00:00",
       "heat": 52
     }
   ]
