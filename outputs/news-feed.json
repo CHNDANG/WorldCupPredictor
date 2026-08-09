@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T08:50:22.366362+00:00",
+  "updatedAt": "2026-08-09T09:45:34.177376+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-defends-infantino-after-revelations-of-his-alleged-lover-paid-off-by-uefa-inbox-lv",
+      "title": "因凡蒂诺被欧足联收买的所谓“情人”被曝光后，国际足联为因凡蒂诺辩护 - Inbox.lv",
+      "summary": "在因凡蒂诺被欧足联收买的所谓“情人”被曝光后，国际足联为因凡蒂诺辩护 Inbox.lv",
+      "originalTitle": "FIFA defends Infantino after revelations of his alleged 'lover' paid off by UEFA - Inbox.lv",
+      "originalSummary": "FIFA defends Infantino after revelations of his alleged 'lover' paid off by UEFA  Inbox.lv",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFNkRUh3ODVOR3I3dnppVVNMWUxHd21hYkp3M1U3U0lFZ0l0aGwxQjdQZjVHSUFtNVViaDR0QjJaTzZoUGRKaEJZVlFsS2ZDT2FDaTgwb2ZfZktySjdKM1BWQmg2eVhHS0FMM1hsNlQ3UG93QzhvQjVDRWRrQWFoOHlzeERQWHFNcVl2ZlU3WWYxR0xSQ1dOTU9iOF9ZRUVIUEVBU1R1VnpNS2M0U25Ia0U5Y1FFWndUU2xlRQ?oc=5",
+      "publishedAt": "2026-08-09T08:43:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
+      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗进球 Julia Letlow (aXRlw4RaXa) - Mshale",
+      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  Mshale",
+      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - Mshale",
+      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
+      "publishedAt": "2026-08-09T07:35:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-england-squad-ready-for-norway-in-fifa-world-cup-2026-qf-the-news-mill",
       "title": "英格兰队已为参加 2026 年 FIFA 世界杯 QF 的挪威队做好准备 - The News Mill",
@@ -68,11 +92,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-diego-forlan-becomes-uruguay-coach-after-team-s-disastrous-fifa-world-cup-2026-campaign-sportstar-thehindu-c",
-      "title": "乌拉圭队在 2026 年 FIFA 世界杯上惨败后，迭戈·弗兰 (Diego Forlan) 成为乌拉圭队主教练 - sportsstar.thehindu.com",
-      "summary": "乌拉圭队在 2026 年 FIFA 世界杯上遭遇惨败后，迭戈·弗兰 (Diego Forlan) 成为乌拉圭队主教练 sportsstar.thehindu.com",
-      "originalTitle": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign - sportstar.thehindu.com",
-      "originalSummary": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign  sportstar.thehindu.com",
+      "id": "google-news-diego-forlan-becomes-uruguay-coach-after-team-s-disastrous-fifa-world-cup-2026-campaign-sportstar",
+      "title": "乌拉圭 2026 年世界杯惨败后，迭戈·弗兰出任乌拉圭主教练 - 体育明星",
+      "summary": "乌拉圭队在 2026 年 FIFA 世界杯上惨败后，迭戈·弗兰 (Diego Forlan) 成为乌拉圭队主教练",
+      "originalTitle": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign - Sportstar",
+      "originalSummary": "Diego Forlan becomes Uruguay coach after team’s disastrous FIFA World Cup 2026 campaign  Sportstar",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNUGlhRTkxSXR5SzJnY19Fa0Z0VXd4aVRabmVjT191djFrVTFYWUtnQWx4Q1JDcnhvQ1VXeGZUS0paelhXRzFxYXpfZzRCckJxZHJuTFY0Q096SUtwOUM0N3Q2N19ZaTRUUFhZX3VoeTJfRTF6TVhVVEV1TklzcF9oR1RJV2xKazg5RlFhbm0welREWWtxZmp4VjljbndjNGhHSGRBeU1aQjg4VzMtS2xpUElfd1BHVnJBQ0RsY1hlTWV5dGRIbTdLaXJtMHlJTW1kTVlTejdOSG9BOGludVZ1b1VSbzJQYzTSAe4BQVVfeXFMT0E1dTlQdG5felpBRjNZNS0ycnM5QXMzS3hMeUJjZWNwSk82bjlQNkVhQksxNUVuVFZleUtqWGtDOHB3SkJsVUU2TWpVSEVsN0FGTm1ndjFBRXowRHIwVFJZeFFZMTJSZzZqWkladkJpZjlMbWFhdUQzOGxBVVVTb0VCcXh1SkZfUjU3RnJVandvd0F2c3VhUGlrYlVNX1hfU3VDUVpTcFlic3VZNVBJQy1jTHhpYXNXTnVDbkU1dzhsQUpKcE9ZdDJxLWtQd2dOcGFXcjc5MEk0aHg2a2E0UW5HR0J0RWtuRTNvelpSZw?oc=5",
@@ -92,6 +116,30 @@
       "heat": 44
     },
     {
+      "id": "google-新闻-中文-上场时间-liga-profesional2026的boca-juniors数据-fotmob",
+      "title": "上场时间 — Liga Profesional2026的Boca Juniors数据 - FotMob",
+      "summary": "上场时间 — Liga Profesional2026的Boca Juniors数据  FotMob",
+      "originalTitle": "上场时间 — Liga Profesional2026的Boca Juniors数据 - FotMob",
+      "originalSummary": "上场时间 — Liga Profesional2026的Boca Juniors数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV240WGg4OXpxZ2NPZVBHNE50dnhNUmZpYXNacDJLVU80dGc2SXdhQVlUYW5PZU5YSTBQR1NZa196dXdFbmUxMnU2TjhTSjNHNU9temZZSXQwUGRiVFVxZ3cwOVJzOGZzd291TUNuSEdJQUM0TjNERzZIblFLLUwyU0xJRzBnUFVtSW4xekk5bGViWmd1bHVqYWYyR2drdGQ5aGZuTmVVS2NtTGpRTjJBMWItMHFjeGZ4MUZYcmtDeWh0UWZYSDI4?oc=5",
+      "publishedAt": "2026-08-09T05:27:17+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-零失球-mls2026的los-angeles-fc数据-fotmob",
+      "title": "零失球 — MLS2026的Los Angeles FC数据 - FotMob",
+      "summary": "零失球 — MLS2026的Los Angeles FC数据  FotMob",
+      "originalTitle": "零失球 — MLS2026的Los Angeles FC数据 - FotMob",
+      "originalSummary": "零失球 — MLS2026的Los Angeles FC数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkVyZnhJalpfcFdIMGdaY0RHZnF0NEdCTjB0NEg4LWgteTh2TDZJWHpzVHkyOHZ3NmFydnpITGlSdTlsejVnZS13OGE5SUMzZnllUXFRbENpTmp0azByaThiei10SXpnMGNKSkxnNGIzU2kwRkJmbU5kN2sxZWFoWTRiYU0zMi1rZFA3VW5hT3lBMUJ0cTNJVjdNQ3hQb3NLV01lMy12eDU3aHNKaFRaajllUURVeEpsLWZBX2c1bmtWWGpETTNwVHQ5VWhESFFqdXB0MXBnMmVfRWczM0lfbWNkUUtxeGhLZVhJTUxXc1RfeHhmbWczYVFpMHAtYU0?oc=5",
+      "publishedAt": "2026-08-09T05:21:15+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-messi-faced-terror-threats-during-fifa-world-cup-2026-report-the-business-standard",
       "title": "梅西在 2026 年 FIFA 世界杯期间面临恐怖威胁：报告 - The Business Standard",
       "summary": "梅西在 2026 年国际足联世界杯期间面临恐怖威胁：报告《商业标准》",
@@ -104,21 +152,33 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-每90分钟阻挡-serie-a2025-2026的inter数据-fotmob",
-      "title": "每90分钟阻挡 — Serie A2025/2026的Inter数据 - FotMob",
-      "summary": "每90分钟阻挡 — Serie A2025/2026的Inter数据  FotMob",
-      "originalTitle": "每90分钟阻挡 — Serie A2025/2026的Inter数据 - FotMob",
-      "originalSummary": "每90分钟阻挡 — Serie A2025/2026的Inter数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVUgyY3ZoT0tIZ2xHWnZHM1k3SDZUZmhCbWw3SElPQWVKamNmc0JtSUE4cVVtZ0FPT0xlZjVVaURLTFRpZUlIN0NBenJ2TEctZEtZWHNIdzc2U0lBVU1MWGNUcXdza2JMTkVwNmVUTHI1OGQ3SlhRRlN1cHk5UjdfYTN3QVJoanFqX1lVWmJIOFd5a211dTlmQ1g5YUZGVlBOY1BrNFE5OXczWG5HakFKekYwOA?oc=5",
-      "publishedAt": "2026-08-09T04:41:44+00:00",
-      "heat": 44
+      "id": "google-news-fleadh-2023-natalie-macmaster-donnell-leahy-family-fifa-world-cup-2026-6nphiezkjj-mshale",
+      "title": "弗莱德 2023 |娜塔莉·麦克马斯特、唐纳尔·莱希和家庭 FIFA 世界杯 2026 (6nphIezKjJ) - Mshale",
+      "summary": "弗莱德 2023 |娜塔莉·麦克马斯特、唐纳·莱希和家庭 2026 年国际足联世界杯 (6nphIezKjJ)  Mshale",
+      "originalTitle": "Fleadh 2023 | Natalie MacMaster, Donnell Leahy & Family Fifa World Cup 2026 (6nphIezKjJ) - Mshale",
+      "originalSummary": "Fleadh 2023 | Natalie MacMaster, Donnell Leahy & Family Fifa World Cup 2026 (6nphIezKjJ)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kRGRsN25kcXZHaXotTFo3SnhBdHVZdno3eHN5RFJ2WjRraDVxRkhiWk1PZmRJWDF0OTI0NzhmYmRIQVVPell6Tnd4ZDFVVkxPTzVhX0ZfYlBsaDQ?oc=5",
+      "publishedAt": "2026-08-09T04:55:53+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-turkmenportal-has-launched-a-special-section-dedicated-to-the-2026-world-cup-turkmenportal-com",
+      "title": "土库曼门户网站推出了专门介绍 2026 年世界杯的特别版块 - Turkmenportal.com",
+      "summary": "土库曼门户网站推出了专门介绍 2026 年世界杯的特别版块 Turkmenportal.com",
+      "originalTitle": "Turkmenportal has launched a special section dedicated to the 2026 World Cup - Turkmenportal.com",
+      "originalSummary": "Turkmenportal has launched a special section dedicated to the 2026 World Cup  Turkmenportal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHFZOHpUYU1pUXpaWld6NWdveXY3T00tUzFkQ0NJLVhCNjZwTEMyeW9tSExFU2MzSldneWp4S25aMk9ubFJXTlVKYm9NWjhRVzNmWlNxNmhXZE1JbFBzMHJ4MkR1cDc4Y0FpWDhqeVdLMEplVTFYdGVDb0JCMTVUTTI3S3FGc0Ria1FpaXBPTGdLbW51WkJfZnVSbHg0R1E5QXJaSVZKamd5YnhQeEhBTzF3WE5sQ1dfSkZOY3FqaHJWSVAwZmlSaUdxN1NaMzg4V3BlNXVtVkgxbXptT3c0?oc=5",
+      "publishedAt": "2026-08-09T04:44:38+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-folarin-balogun-apologises-to-us-fans-after-world-cup-2026-exit-the-news-mill",
       "title": "福拉林·巴洛贡 (Folarin Balogun) 在 2026 年世界杯退出后向美国球迷道歉 - The News Mill",
-      "summary": "2026 年世界杯退出后，福拉林·巴洛贡 (Folarin Balogun) 向美国球迷道歉",
+      "summary": "福拉林·巴洛贡 (Folarin Balogun) 在 2026 年世界杯退出后向美国球迷道歉",
       "originalTitle": "Folarin Balogun apologises to US fans after World Cup 2026 exit - The News Mill",
       "originalSummary": "Folarin Balogun apologises to US fans after World Cup 2026 exit  The News Mill",
       "translation": "online",
@@ -126,6 +186,18 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFowLU5KelpvbDY5cDJkTnduRkQtMmZnRGhvRXExbUNPbEZKVDl2QVdmTWQwQk1wZjBkd3gyVkZOZG9ERUpudG5kc055QVVuM2RpNWVxWGlDcWltdVBTalZKOTFoRkM1b2FjUS1KSkRQVU1RdDk4eXhNMjZOSk1Gc0JFaW81V0NRTjM0LTVtbTdtQThtaHlxS3NDbzM?oc=5",
       "publishedAt": "2026-08-09T04:37:10+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-单场在进攻三区赢得球权-mls2026的seattle-sounders-fc数据-fotmob",
+      "title": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据 - FotMob",
+      "summary": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据  FotMob",
+      "originalTitle": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据 - FotMob",
+      "originalSummary": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNVpNWHZLMEltdVpxZ0FiTkxYTWNVMXRrQ1dxNlVILU1lZU5Wc09VTTNGSmZucV96T01GRk1TVlV6QWhJanJSeHFrTjBYa05HcUMyNmQzRHlTVVloOWxtcDItdXNzeFNwbE9ZMlhvVVl0RnpTd2FwbzNEa0VRREc2VVA3TFUzWWFYQTdKMmFzMGVsN1F4U05RVzE1Sm9lOGdTYlNTUlpUdkxrRmRpTHRFZkYwV0pfcjNHYXFQSmVRdnZkODRDa2JpTjhhSl9PTFFaUTFFWmJ2Q2dLWGlzU2txVlVR?oc=5",
+      "publishedAt": "2026-08-09T04:10:24+00:00",
+      "heat": 44
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -142,85 +214,13 @@
     {
       "id": "google-news-fifa-world-cup-2026-switzerland-set-unique-record-after-4-1-win-bosnia-and-herzegovina-dd-news",
       "title": "2026年世界杯：瑞士4-1战胜波斯尼亚和黑塞哥维那创造独特纪录 - DD News",
-      "summary": "2026 年 FIFA 世界杯：瑞士 4-1 战胜波斯尼亚和黑塞哥维那后创下独特纪录 DD News",
+      "summary": "2026 年 FIFA 世界杯：瑞士 4-1 战胜波斯尼亚和黑塞哥维那，创造独特纪录 DD News",
       "originalTitle": "FIFA World Cup 2026: Switzerland set unique record after 4-1 win Bosnia and Herzegovina - DD News",
       "originalSummary": "FIFA World Cup 2026: Switzerland set unique record after 4-1 win Bosnia and Herzegovina  DD News",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckRhb2JRZXp0QnoxdVZ0TEJmR2NSZzgxQml1SV80VndQeGE3S0oxMFVsSkdQR21aM1BIWXNoWURSQldxLWtmUEE1SkRUdmEtejYzZW1CVWRnZ1BMcU9SOFRJYU5fZ1ZsSjJrRW13MXlzdjRhcFlvOGFxeFdGc1RiODV4YXhIZWhwa3l4V3ZDSTRDRVFJeDJsdDgyMndXUkdGdzRyYmoyU1pUd3h4SWs5OUxR?oc=5",
       "publishedAt": "2026-08-09T03:52:31+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-belgium-coach-garcia-reflects-on-setbacks-in-fifa-world-cup-2026-quarter-final-loss-to-spain-the-news-mill",
-      "title": "比利时主帅加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 - The News Mill",
-      "summary": "比利时教练加西亚反思 2026 年 FIFA 世界杯四分之一决赛负于西班牙的挫折 The News Mill",
-      "originalTitle": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain - The News Mill",
-      "originalSummary": "Belgium coach Garcia reflects on setbacks in FIFA World Cup 2026 quarter-final loss to Spain  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQYk9RRlNpQ1Mtdmdqc1ltdW5vdVg5dk9JRFB5a0VsSTFhcmhaUE01WjVlbkpKRDVZeXZHSGt5NkZubk9TUFVJYy1vbi0zNEZnNDMzMEdHS1NnWTJ3MWVxS080cHZmaTJ2aXZLWGZZVjBDMk9QQUpQR0QyVGRmd0FrLU5Ibm1IZXdFLXJ0bHdUWWpxeTFzVGYtOFdxSld1MFZsaEZLLWhMcXduZDMwWmVWRkM0YUNyWDB4M2E1aVA4amItNk0?oc=5",
-      "publishedAt": "2026-08-09T03:18:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-steve-clarke-resigns-as-scotland-head-coach-after-2026-world-cup-exit-the-news-mill",
-      "title": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克辞去苏格兰主教练职务 - The News Mill",
-      "summary": "苏格兰队退出 2026 年世界杯后，史蒂夫·克拉克 (Steve Clarke) 辞去苏格兰主教练职务",
-      "originalTitle": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit - The News Mill",
-      "originalSummary": "Steve Clarke resigns as Scotland head coach after 2026 World Cup exit  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQYl8wYlY4ai0zUzJNY0I1Z0laeDdhNlZ1d3hra004QlByUjFBX2dBa25LOGlvNE9sS1c2RVlqSk9JN1d5ZnZjYlVZMlJma2JBWjJ2T3U5LTBTOEpXS2dWZUxrajJZaXZlX2hVQ0dtdHhfWUZMOVJRb0dXRFRkV0hoelVYdVpBbDBlNEdlbWMyMUhHbkp5NER6LUtFam1WT2hQNXo0aA?oc=5",
-      "publishedAt": "2026-08-09T03:02:51+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-s-quarter-final-clash-against-norway-in-fifa-world-cup-2026-the-news-mill",
-      "title": "2026 年 FIFA 世界杯英格兰四分之一决赛对阵挪威 - The News Mill",
-      "summary": "2026 年 FIFA 世界杯英格兰队四分之一决赛对阵挪威队 The News Mill",
-      "originalTitle": "England's Quarter-Final Clash Against Norway in FIFA World Cup 2026 - The News Mill",
-      "originalSummary": "England's Quarter-Final Clash Against Norway in FIFA World Cup 2026  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT1lwazVIb3VLN0hfVlJINEhWWWVzaUdoOHFMaVY2cGJlallBN3ZTR3l2R1U1dXp0b3E0bndYeWkyOHgxNENjNmZmUThtRzhtYTlYT0JIWnNCX1BoODNXNEhvbU40Ui1MSWRXTHRsdElpc2RtdF91UGdsSHFteHJUR2I4cmxtU0xmUldsNUVtT0lDRnpLX2puXzBJSVNFSzQwSUtYckNoVko2ZjFwQ1ZMd0lQdTkwUQ?oc=5",
-      "publishedAt": "2026-08-09T03:02:51+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defirate-com",
-      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - defirate.com",
-      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 defirate.com",
-      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - defirate.com",
-      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  defirate.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
-      "publishedAt": "2026-08-09T02:44:19+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-greed-or-growth-infantino-s-20-billion-fifa-gamble-collapses-as-africa-backs-him-and-football-s-trust-crisis",
-      "title": "贪婪还是增长？因凡蒂诺 200 亿美元的 FIFA 赌博因非洲支持他而失败，足球界的信任危机加深",
-      "summary": "贪婪还是增长？因凡蒂诺 200 亿美元的 FIFA 赌博因非洲支持他而失败，足球信任危机加深",
-      "originalTitle": "Greed or Growth? Infantino’s $20 Billion FIFA Gamble Collapses as Africa Backs Him and Football’s Trust Crisis Deepens - THISDAYLIVE",
-      "originalSummary": "Greed or Growth? Infantino’s $20 Billion FIFA Gamble Collapses as Africa Backs Him and Football’s Trust Crisis Deepens  THISDAYLIVE",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNMGMzaFZGVDlLOWpMWlVQZjJ6RG1Dd1ZxeTg0MlRyY0t4eUloZUtqYXFjQjhFcTB1bjFzU3lNeS04Sm9YQ1cwNk45emg4LTdOR3FyQW80QW5IOC1OdDc4aGYydVF1MzZRc0xfd3B2dHgyTEUzT1kta1lvaE5OdUhobm95QjRLX3dFQWVlWTl6eld1NEt3NFhqS2ZBN0Zzbzh3QjNZX1oycEhjRWpEVi1taVBEZFg5NGFQclVuSkdkbkluV1ZlY3JxRE9rLWEwd0pkRk9iNkJEemp1U0F3ME1UZ0NWT2QydVdIcWc?oc=5",
-      "publishedAt": "2026-08-09T02:38:07+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-metlife-stadium-4k-drive-fifa-world-cup-2026-final-stadium-ken-loach-ulsqjmkrt6-mshale",
-      "title": "⚽️ 大都会人寿体育场 4K 硬盘 | 2026 年 FIFA 世界杯决赛体育场 Ken Loach (ulsQjmKRT6) - Mshale",
-      "summary": "⚽️ 大都会人寿体育场 4K 硬盘 | 2026 年 FIFA 世界杯决赛体育场 Ken Loach (ulsQjmKRT6)  Mshale",
-      "originalTitle": "⚽️ MetLife Stadium 4K Drive | FIFA World Cup 2026 Final Stadium Ken Loach (ulsQjmKRT6) - Mshale",
-      "originalSummary": "⚽️ MetLife Stadium 4K Drive | FIFA World Cup 2026 Final Stadium Ken Loach (ulsQjmKRT6)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENmlQRWpBLWNaZXFnWVFFaUFfeVFWeUpIcmlYYmpicVpqX3dweW9ubFRDUW8zRVpFZUt2UmxxNkQ0Z2tabExXNS05OUdJQUVfekVxRG5jNDdjbTg?oc=5",
-      "publishedAt": "2026-08-09T02:35:28+00:00",
       "heat": 60
     }
   ]
