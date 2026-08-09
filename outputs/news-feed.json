@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T09:45:34.177376+00:00",
+  "updatedAt": "2026-08-09T10:39:42.231823+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,40 @@
   ],
   "articles": [
     {
-      "id": "google-news-fifa-defends-infantino-after-revelations-of-his-alleged-lover-paid-off-by-uefa-inbox-lv",
-      "title": "因凡蒂诺被欧足联收买的所谓“情人”被曝光后，国际足联为因凡蒂诺辩护 - Inbox.lv",
-      "summary": "在因凡蒂诺被欧足联收买的所谓“情人”被曝光后，国际足联为因凡蒂诺辩护 Inbox.lv",
-      "originalTitle": "FIFA defends Infantino after revelations of his alleged 'lover' paid off by UEFA - Inbox.lv",
-      "originalSummary": "FIFA defends Infantino after revelations of his alleged 'lover' paid off by UEFA  Inbox.lv",
+      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
+      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
+      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
+      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
+      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSFNkRUh3ODVOR3I3dnppVVNMWUxHd21hYkp3M1U3U0lFZ0l0aGwxQjdQZjVHSUFtNVViaDR0QjJaTzZoUGRKaEJZVlFsS2ZDT2FDaTgwb2ZfZktySjdKM1BWQmg2eVhHS0FMM1hsNlQ3UG93QzhvQjVDRWRrQWFoOHlzeERQWHFNcVl2ZlU3WWYxR0xSQ1dOTU9iOF9ZRUVIUEVBU1R1VnpNS2M0U25Ia0U5Y1FFWndUU2xlRQ?oc=5",
-      "publishedAt": "2026-08-09T08:43:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
+      "publishedAt": "2026-08-09T10:25:08+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-morocco-algeria-reach-wafcon-semifinals-and-qualify-for-fifa-world-cup-al-jazeera",
+      "title": "摩洛哥、阿尔及利亚进入WAFCON半决赛并获得世界杯参赛资格 - 半岛电视台",
+      "summary": "摩洛哥、阿尔及利亚进入 WAFCON 半决赛并获得 FIFA 世界杯参赛资格",
+      "originalTitle": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup - Al Jazeera",
+      "originalSummary": "Morocco, Algeria reach WAFCON semifinals and qualify for FIFA World Cup  Al Jazeera",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB0gG3AUFVX3lxTE5reU1QRi0xRkdwRWYtVGs3c1lmNktVYXljb0JaWjNIM0E0eW1OM1Bka2NGQjVwbUZXeG4xT2NJVzlkZElpdWJYcERjaHA3enROLU1SVzI4eWJFdUlhLU9mV19HdzduZjlvWGFUekVjOFduUnhQYjBFNVVhTmp2VVBEekwxYWFUQUlPb2dDUm0xdklQTU52aVpuUEJKM05rYXUwNzRubEhvdEtuN3RwY1pVR2tORE12VQ?oc=5",
+      "publishedAt": "2026-08-09T10:16:56+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-kygo-made-erling-haaland-s-teenage-rap-song-go-viral-nilefm-egypt-s-1-for-hit-music-nilefm-com",
+      "title": "KYGO 如何让 Erling Haaland 的青少年说唱歌曲走红尼罗河FM ​​|埃及排名第一的热门音乐 - nilefm.com",
+      "summary": "KYGO 如何让 Erling Haaland 的青少年说唱歌曲走红尼罗河FM ​​|埃及热门音乐排名第一  nilefm.com",
+      "originalTitle": "How KYGO Made Erling Haaland’s Teenage Rap Song Go Viral | NileFM | EGYPT'S#1 FOR HIT MUSIC - nilefm.com",
+      "originalSummary": "How KYGO Made Erling Haaland’s Teenage Rap Song Go Viral | NileFM | EGYPT'S#1 FOR HIT MUSIC  nilefm.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmpvSUhidExqYVhka0NvWHZZQnhRQ25OMk50TkpJZGROUGhyb0xKV2ZXNTJtdWc4X2VNMVJZRUJGYkZuRktZaV9teEluRC1IdlBoTzRRT0hHVm01WElReVR4Wllya3VrNGU4T09JMnNSTzZpby1aR3YtQzBtOTgwSkhXX25hYmUxcmNpNUIyUmNkaU05cmV0ejlB?oc=5",
+      "publishedAt": "2026-08-09T09:32:47+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
@@ -29,6 +53,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
       "publishedAt": "2026-08-09T07:35:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-iran-s-fifa-world-cup-2026-exit-a-display-of-resilience-the-news-mill",
+      "title": "伊朗退出 2026 年世界杯：展现韧性 - The News Mill",
+      "summary": "伊朗队退出 2026 年世界杯：展现韧性 The News Mill",
+      "originalTitle": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience - The News Mill",
+      "originalSummary": "Iran's FIFA World Cup 2026 Exit: A Display of Resilience  The News Mill",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZENlVEt2SFdaY0lncGZPcVlwVzFBUjl3dmhPMm9IdkF2MGwwUjhDSFJaWUNaNHhlNW5GV3g2ZWdOZktCemJFWDAwVHVxNXhfblR6b1d6NEprRVJGQko2emxDTnpabGdBbGEtY2pveDNGbGV1TU1ydTVUc3pYOTdSenlkVlZNZzN4TUtLSV8yVUxjajAyUm9kZVJzNnNPTVhjWFVmeA?oc=5",
+      "publishedAt": "2026-08-09T07:33:11+00:00",
       "heat": 60
     },
     {
@@ -54,18 +90,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdkV0LXktUC13QVl1OVlQcEQxMlBKOGg2eG9qYVF2Yzlvd2JRODR5enR0bG5JWkU1dHFZeWFlRGE0dGFZWlBVdTROVG5MS1VobGp0NG1wck5GWEs2UXRvN3ZLZ1dxMDkyenh2aUxyT253S2lHUC1Yb20zZkNWelJQcVBVdDUybV9yX1VzeW51bXcwX0FWVFBTVUUtU09oSFF5VVBsLQ?oc=5",
       "publishedAt": "2026-08-09T07:32:35+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
-      "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
-      "summary": "警方报告显示：世界杯期间一名男子想要以残忍的方式谋杀莱昂内尔·梅西 Goal.com",
-      "originalTitle": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup - Goal.com",
-      "originalSummary": "Police report reveals: man wanted to murder Lionel Messi in a brutal manner during the World Cup  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYTdEdkVNc0Jpb2dhNWwzcmRJZU9odWdSei10akNDYkZocTE2TGlzWDB5SWNkaF9fMWhPMUFPMk9NN1BqdzhZbklnNFZxZ0hQMUJJTTFqMTBSTmV5azlNaDlSQUY1RlB5b242amJvck41TGNRYVpmc0t0WUNKZk9IYUVmZ1lhTzRHUkFUMnhVRkZObENEaUtOQTVRQm9SMkRpNmZqUUJTWWFPZUZSejBkd2pESmY0NnpMOW1RQnJfOFJpdG5TSm14T3RWTG5Tc0k3ZzhxZFdkM2VOT2JV?oc=5",
-      "publishedAt": "2026-08-09T07:20:44+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-i-fell-in-love-with-this-sport-cafe-owner-shares-his-world-cup-passion-the-standard-warrnambool-vic",
@@ -116,30 +140,6 @@
       "heat": 44
     },
     {
-      "id": "google-新闻-中文-上场时间-liga-profesional2026的boca-juniors数据-fotmob",
-      "title": "上场时间 — Liga Profesional2026的Boca Juniors数据 - FotMob",
-      "summary": "上场时间 — Liga Profesional2026的Boca Juniors数据  FotMob",
-      "originalTitle": "上场时间 — Liga Profesional2026的Boca Juniors数据 - FotMob",
-      "originalSummary": "上场时间 — Liga Profesional2026的Boca Juniors数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNV240WGg4OXpxZ2NPZVBHNE50dnhNUmZpYXNacDJLVU80dGc2SXdhQVlUYW5PZU5YSTBQR1NZa196dXdFbmUxMnU2TjhTSjNHNU9temZZSXQwUGRiVFVxZ3cwOVJzOGZzd291TUNuSEdJQUM0TjNERzZIblFLLUwyU0xJRzBnUFVtSW4xekk5bGViWmd1bHVqYWYyR2drdGQ5aGZuTmVVS2NtTGpRTjJBMWItMHFjeGZ4MUZYcmtDeWh0UWZYSDI4?oc=5",
-      "publishedAt": "2026-08-09T05:27:17+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-零失球-mls2026的los-angeles-fc数据-fotmob",
-      "title": "零失球 — MLS2026的Los Angeles FC数据 - FotMob",
-      "summary": "零失球 — MLS2026的Los Angeles FC数据  FotMob",
-      "originalTitle": "零失球 — MLS2026的Los Angeles FC数据 - FotMob",
-      "originalSummary": "零失球 — MLS2026的Los Angeles FC数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPWkVyZnhJalpfcFdIMGdaY0RHZnF0NEdCTjB0NEg4LWgteTh2TDZJWHpzVHkyOHZ3NmFydnpITGlSdTlsejVnZS13OGE5SUMzZnllUXFRbENpTmp0azByaThiei10SXpnMGNKSkxnNGIzU2kwRkJmbU5kN2sxZWFoWTRiYU0zMi1rZFA3VW5hT3lBMUJ0cTNJVjdNQ3hQb3NLV01lMy12eDU3aHNKaFRaajllUURVeEpsLWZBX2c1bmtWWGpETTNwVHQ5VWhESFFqdXB0MXBnMmVfRWczM0lfbWNkUUtxeGhLZVhJTUxXc1RfeHhmbWczYVFpMHAtYU0?oc=5",
-      "publishedAt": "2026-08-09T05:21:15+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-messi-faced-terror-threats-during-fifa-world-cup-2026-report-the-business-standard",
       "title": "梅西在 2026 年 FIFA 世界杯期间面临恐怖威胁：报告 - The Business Standard",
       "summary": "梅西在 2026 年国际足联世界杯期间面临恐怖威胁：报告《商业标准》",
@@ -154,7 +154,7 @@
     {
       "id": "google-news-fleadh-2023-natalie-macmaster-donnell-leahy-family-fifa-world-cup-2026-6nphiezkjj-mshale",
       "title": "弗莱德 2023 |娜塔莉·麦克马斯特、唐纳尔·莱希和家庭 FIFA 世界杯 2026 (6nphIezKjJ) - Mshale",
-      "summary": "弗莱德 2023 |娜塔莉·麦克马斯特、唐纳·莱希和家庭 2026 年国际足联世界杯 (6nphIezKjJ)  Mshale",
+      "summary": "弗莱德 2023 |娜塔莉·麦克马斯特、唐纳尔·莱希和家庭 2026 年国际足联世界杯 (6nphIezKjJ)  Mshale",
       "originalTitle": "Fleadh 2023 | Natalie MacMaster, Donnell Leahy & Family Fifa World Cup 2026 (6nphIezKjJ) - Mshale",
       "originalSummary": "Fleadh 2023 | Natalie MacMaster, Donnell Leahy & Family Fifa World Cup 2026 (6nphIezKjJ)  Mshale",
       "translation": "online",
@@ -164,21 +164,9 @@
       "heat": 60
     },
     {
-      "id": "google-news-turkmenportal-has-launched-a-special-section-dedicated-to-the-2026-world-cup-turkmenportal-com",
-      "title": "土库曼门户网站推出了专门介绍 2026 年世界杯的特别版块 - Turkmenportal.com",
-      "summary": "土库曼门户网站推出了专门介绍 2026 年世界杯的特别版块 Turkmenportal.com",
-      "originalTitle": "Turkmenportal has launched a special section dedicated to the 2026 World Cup - Turkmenportal.com",
-      "originalSummary": "Turkmenportal has launched a special section dedicated to the 2026 World Cup  Turkmenportal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQWHFZOHpUYU1pUXpaWld6NWdveXY3T00tUzFkQ0NJLVhCNjZwTEMyeW9tSExFU2MzSldneWp4S25aMk9ubFJXTlVKYm9NWjhRVzNmWlNxNmhXZE1JbFBzMHJ4MkR1cDc4Y0FpWDhqeVdLMEplVTFYdGVDb0JCMTVUTTI3S3FGc0Ria1FpaXBPTGdLbW51WkJfZnVSbHg0R1E5QXJaSVZKamd5YnhQeEhBTzF3WE5sQ1dfSkZOY3FqaHJWSVAwZmlSaUdxN1NaMzg4V3BlNXVtVkgxbXptT3c0?oc=5",
-      "publishedAt": "2026-08-09T04:44:38+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-folarin-balogun-apologises-to-us-fans-after-world-cup-2026-exit-the-news-mill",
       "title": "福拉林·巴洛贡 (Folarin Balogun) 在 2026 年世界杯退出后向美国球迷道歉 - The News Mill",
-      "summary": "福拉林·巴洛贡 (Folarin Balogun) 在 2026 年世界杯退出后向美国球迷道歉",
+      "summary": "2026 年世界杯退出后，福拉林·巴洛贡 (Folarin Balogun) 向美国球迷道歉",
       "originalTitle": "Folarin Balogun apologises to US fans after World Cup 2026 exit - The News Mill",
       "originalSummary": "Folarin Balogun apologises to US fans after World Cup 2026 exit  The News Mill",
       "translation": "online",
@@ -186,18 +174,6 @@
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZFowLU5KelpvbDY5cDJkTnduRkQtMmZnRGhvRXExbUNPbEZKVDl2QVdmTWQwQk1wZjBkd3gyVkZOZG9ERUpudG5kc055QVVuM2RpNWVxWGlDcWltdVBTalZKOTFoRkM1b2FjUS1KSkRQVU1RdDk4eXhNMjZOSk1Gc0JFaW81V0NRTjM0LTVtbTdtQThtaHlxS3NDbzM?oc=5",
       "publishedAt": "2026-08-09T04:37:10+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-单场在进攻三区赢得球权-mls2026的seattle-sounders-fc数据-fotmob",
-      "title": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据 - FotMob",
-      "summary": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据  FotMob",
-      "originalTitle": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据 - FotMob",
-      "originalSummary": "单场在进攻三区赢得球权 — MLS2026的Seattle Sounders FC数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNNVpNWHZLMEltdVpxZ0FiTkxYTWNVMXRrQ1dxNlVILU1lZU5Wc09VTTNGSmZucV96T01GRk1TVlV6QWhJanJSeHFrTjBYa05HcUMyNmQzRHlTVVloOWxtcDItdXNzeFNwbE9ZMlhvVVl0RnpTd2FwbzNEa0VRREc2VVA3TFUzWWFYQTdKMmFzMGVsN1F4U05RVzE1Sm9lOGdTYlNTUlpUdkxrRmRpTHRFZkYwV0pfcjNHYXFQSmVRdnZkODRDa2JpTjhhSl9PTFFaUTFFWmJ2Q2dLWGlzU2txVlVR?oc=5",
-      "publishedAt": "2026-08-09T04:10:24+00:00",
-      "heat": 44
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -214,7 +190,7 @@
     {
       "id": "google-news-fifa-world-cup-2026-switzerland-set-unique-record-after-4-1-win-bosnia-and-herzegovina-dd-news",
       "title": "2026年世界杯：瑞士4-1战胜波斯尼亚和黑塞哥维那创造独特纪录 - DD News",
-      "summary": "2026 年 FIFA 世界杯：瑞士 4-1 战胜波斯尼亚和黑塞哥维那，创造独特纪录 DD News",
+      "summary": "2026 年 FIFA 世界杯：瑞士 4-1 战胜波斯尼亚和黑塞哥维那后创下独特纪录 DD News",
       "originalTitle": "FIFA World Cup 2026: Switzerland set unique record after 4-1 win Bosnia and Herzegovina - DD News",
       "originalSummary": "FIFA World Cup 2026: Switzerland set unique record after 4-1 win Bosnia and Herzegovina  DD News",
       "translation": "online",
@@ -222,6 +198,30 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOckRhb2JRZXp0QnoxdVZ0TEJmR2NSZzgxQml1SV80VndQeGE3S0oxMFVsSkdQR21aM1BIWXNoWURSQldxLWtmUEE1SkRUdmEtejYzZW1CVWRnZ1BMcU9SOFRJYU5fZ1ZsSjJrRW13MXlzdjRhcFlvOGFxeFdGc1RiODV4YXhIZWhwa3l4V3ZDSTRDRVFJeDJsdDgyMndXUkdGdzRyYmoyU1pUd3h4SWs5OUxR?oc=5",
       "publishedAt": "2026-08-09T03:52:31+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-highlights-spain-2-1-belgium-fifa-world-cup-2026-benvenuti-al-nord-zxmjanuawl-mshale",
+      "title": "亮点|西班牙2-1比利时| FIFA 世界杯 2026™ Benvenuti Al Nord (ZxMjanuaWL) - Mshale",
+      "summary": "亮点|西班牙2-1比利时| FIFA 世界杯 2026™ Benvenuti Al Nord (ZxMjanuaWL)  Mshale",
+      "originalTitle": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™ Benvenuti Al Nord (ZxMjanuaWL) - Mshale",
+      "originalSummary": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™ Benvenuti Al Nord (ZxMjanuaWL)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5JWTZHSnYxR19tYlFCeGM1aVZiVVNGMFJZcUFQU3NnZGkzWW5XbjNZNkl5WkxlWVMwWGZTUGdyT0NpZkZoUGZtdUZsM2VXT2o0NFBQRlRSSHBVUTg?oc=5",
+      "publishedAt": "2026-08-09T03:49:47+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-messi-targeted-by-multiple-threats-during-2026-world-cup-report-sportingtribune-com",
+      "title": "梅西在 2026 年世界杯期间受到多重威胁 — 报告 - sportingtribune.com",
+      "summary": "梅西在 2026 年世界杯期间受到多重威胁 — Report sportingtribune.com",
+      "originalTitle": "Messi targeted by multiple threats during 2026 World Cup — Report - sportingtribune.com",
+      "originalSummary": "Messi targeted by multiple threats during 2026 World Cup — Report  sportingtribune.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOeEt5UXVCREpZM3l6OUFUU25KNmhDWklNb21udjVIQkpZWnFpOXNyVmo2NnNnNXpucW1VNms1Qk10MXlreUpYd0xlTUxXbWR3SHY2eXFoM216RTd3bGdyT3BvQmp5MXRhZUJQOWY5RjhpeS1pbVlYZjYzaXJpREdGR0hSNWNKSjQ2THQxeVVUT1V4cjV4clo4?oc=5",
+      "publishedAt": "2026-08-09T03:30:00+00:00",
+      "heat": 52
     }
   ]
 }
