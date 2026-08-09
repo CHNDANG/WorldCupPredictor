@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-09T14:08:33.663441+00:00",
+  "updatedAt": "2026-08-09T15:02:21.865047+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-in-the-video-barcelona-star-keeps-his-promise-after-the-world-cup-goal-com",
+      "title": "视频中：巴萨球星在世界杯后兑现诺言 - Goal.com",
+      "summary": "视频中：巴塞罗那球星在世界杯后信守诺言 Goal.com",
+      "originalTitle": "In the video: Barcelona star keeps his promise after the World Cup - Goal.com",
+      "originalSummary": "In the video: Barcelona star keeps his promise after the World Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOEpkdUcwSl9MQ19Jak5GSmFWR3h4RkZkcmhCRl9SQUFobjRyMzNJa0RzNWRkOGV2eWVDaW10UW1VUy1WUjFjQ0prTENMajlMMlNfX280RGJ2TFU1MjRITTJDcDE4TDlyMzdmSjJYQWh4OHh6ZjRHYU83bTBpcDhEajJMNXUyR2VUQ0VuVXJsWmRmdzIzU3dzV1VuM0ZkelgzNVN2OHNFZHVTdnlMMmln?oc=5",
+      "publishedAt": "2026-08-09T14:52:57+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-police-report-reveals-man-wanted-to-murder-lionel-messi-in-a-brutal-manner-during-the-world-cup-goal-com",
       "title": "警方报告揭露：世界杯期间男子想要以残忍的方式谋杀梅西 Goal.com",
@@ -56,6 +68,42 @@
       "heat": 60
     },
     {
+      "id": "google-news-germany-at-the-2026-fifa-world-cup-full-coverage-bavarian-football-works",
+      "title": "德国队参加 2026 年 FIFA 世界杯 — 全程报道 - Bavarian Football Works",
+      "summary": "德国队参加 2026 年 FIFA 世界杯 — 全面报道巴伐利亚足球作品",
+      "originalTitle": "Germany at the 2026 FIFA World Cup — Full Coverage - Bavarian Football Works",
+      "originalSummary": "Germany at the 2026 FIFA World Cup — Full Coverage  Bavarian Football Works",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZqbVJWSmFpemlXQU5xQnlNSkEzRnNCT3I1VWZEbmhEWElvRmUtOVpTY2E4YTdBSGFTWFBiTHk3Y2s3ekhaaEd3Q05tUHFXQXNoakVWbzJPaDY3M1hQYkxIempaR1ZSRjFBZF9WWFNTZTdvR3Fkb3J3YkpSU0NUVEZFMUd2a19fTkJ5TlVVMm9MTFBaX0dQQTgzMDdYdlF4UmEzbEIyVXY4UTJfa1hEZjBIbjJpVnRNUDJyZWN0SQ?oc=5",
+      "publishedAt": "2026-08-09T12:17:39+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-vs-austria-fifa-world-cup-highlights-easyjet-vtli3hcucg-mshale",
+      "title": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) - Mshale",
+      "summary": "阿根廷 VS 奥地利 FIFA 世界杯精彩集锦 Easyjet (vTLi3HCUCG) Mshale",
+      "originalTitle": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG) - Mshale",
+      "originalSummary": "Argentina Vs Austria Fifa World Cup Highlights Easyjet (vTLi3HCUCG)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Na2xKY3RFVEdOWWt3aUNwaUJZcUVNdkpubUdRN1h5eGhDRVkyX1ktZGpJLW1rSkcySHBXMEJfdlBmTU1YOVdQV05veVNCQ09td0N4dzZmSDZFbUJTQXJkeg?oc=5",
+      "publishedAt": "2026-08-09T12:06:33+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-envision-fifa-world-cup-2026-dq3k98xtp7-mshale",
+      "title": "远景国际足联世界杯 2026 (dq3k98xtP7) - Mshale",
+      "summary": "远景国际足联世界杯 2026 (dq3k98xtP7)  Mshale",
+      "originalTitle": "Envision Fifa World Cup 2026 (dq3k98xtP7) - Mshale",
+      "originalSummary": "Envision Fifa World Cup 2026 (dq3k98xtP7)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBuSUwzVUlkQXE3cmpwT2pNQmJlemVjeS1QODhPOEVISjBDV3U5QkxRWURlQ3JrWDJVMkdXV1hHLVlzUEltdkhqZVR3RDJ2bk41cGROaG9pMUZrNTQ?oc=5",
+      "publishedAt": "2026-08-09T12:01:27+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-iran-to-participate-in-2026-world-cup-confirms-fifa-chief-infantino-dd-news",
       "title": "国际足联主席因凡蒂诺确认伊朗将参加2026年世界杯 - DD News",
       "summary": "国际足联主席因凡蒂诺确认伊朗将参加 2026 年世界杯 DD News",
@@ -68,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-socceroos-transfer-tracker-where-australia-s-stars-will-play-in-2026-27-espn-com-au",
-      "title": "澳大利亚足球俱乐部转会追踪：澳大利亚球星将在 2026-27 赛季踢球 - espn.com.au",
-      "summary": "澳大利亚足球俱乐部转会追踪：澳大利亚球星 2026-27 赛季将在哪里踢球 espn.com.au",
-      "originalTitle": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27 - espn.com.au",
-      "originalSummary": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27  espn.com.au",
+      "id": "google-news-socceroos-transfer-tracker-where-australia-s-stars-will-play-in-2026-27-espn",
+      "title": "澳大利亚国家队转会追踪：澳大利亚球星 2026-27 赛季将在哪里踢球 - ESPN",
+      "summary": "Socceroos 转会追踪：澳大利亚球星将在 2026-27 赛季踢球 ESPN",
+      "originalTitle": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27 - ESPN",
+      "originalSummary": "Socceroos transfer tracker: Where Australia's stars will play in 2026-27  ESPN",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOLVNIaVp2TVBSZEJtWTY4OWxxZjg2dzdNMGQ0NzlWMFh4aDhaX2pzOUhNalR3Z3o3SFdnZW85XzdjY19lTjAzR0dHQkFyTW5mYm1PM1U4RUlGUGVjcHR6MXQtV3BRY0lvWUpRX29nUDlrZ0hSbnBHdEZxU1RFRURUSnZzenl4X0YzdWFoNEd1M20yQ1Fhd3pUY3lhTjZweTNnSnk2UTNoOTZnR0c4bDNmX2dOUEZKdw?oc=5",
@@ -94,7 +142,7 @@
     {
       "id": "google-news-laliga-president-joins-chorus-of-criticism-for-fifa-boss-gianni-infantino-sabc-sport",
       "title": "西甲主席加入批评国际足联主帅詹尼·因凡蒂诺的行列 - SABC Sport",
-      "summary": "西甲主席加入了对国际足联主帅詹尼·因凡蒂诺的批评行列 SABC Sport",
+      "summary": "西甲主席加入了对国际足联主帅詹尼·因凡蒂诺的批评 SABC Sport",
       "originalTitle": "LaLiga president joins chorus of criticism for FIFA boss Gianni Infantino - SABC Sport",
       "originalSummary": "LaLiga president joins chorus of criticism for FIFA boss Gianni Infantino  SABC Sport",
       "translation": "online",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPM2luNGdnTWJjZ1VNOXZYaXFUbDVIZ3NCYmdTTkZCMTY3NGZCTms3WTRzM0hqaWlxVU1pYmhnZ3lrYUhqaExCY1BkM1p5OWxXWUZ0YnJkTXJ2S0xkc2pWRWdSRmg3OEJmSnpWeEpTUUlqUFZRSmwwLVQ0a09RTW1wOG9kbE9MSjVTYTJyaDFKX2VpZDVMZmwtc3ZOVF9Db0FoaU5TakFfUms4d3FMaVpuRFJB0gG3AUFVX3lxTE5reU1QRi0xRkdwRWYtVGs3c1lmNktVYXljb0JaWjNIM0E0eW1OM1Bka2NGQjVwbUZXeG4xT2NJVzlkZElpdWJYcERjaHA3enROLU1SVzI4eWJFdUlhLU9mV19HdzduZjlvWGFUekVjOFduUnhQYjBFNVVhTmp2VVBEekwxYWFUQUlPb2dDUm0xdklQTU52aVpuUEJKM05rYXUwNzRubEhvdEtuN3RwY1pVR2tORE12VQ?oc=5",
       "publishedAt": "2026-08-09T10:16:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-kygo-made-erling-haaland-s-teenage-rap-song-go-viral-nilefm-egypt-s-1-for-hit-music-nilefm",
-      "title": "KYGO 如何让 Erling Haaland 的青少年说唱歌曲走红尼罗河FM ​​|埃及排名第一的热门音乐 - NileFM",
-      "summary": "KYGO 如何让 Erling Haaland 的青少年说唱歌曲走红尼罗河FM ​​|埃及排名第一的热门音乐 NileFM",
-      "originalTitle": "How KYGO Made Erling Haaland’s Teenage Rap Song Go Viral | NileFM | EGYPT'S#1 FOR HIT MUSIC - NileFM",
-      "originalSummary": "How KYGO Made Erling Haaland’s Teenage Rap Song Go Viral | NileFM | EGYPT'S#1 FOR HIT MUSIC  NileFM",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTmpvSUhidExqYVhka0NvWHZZQnhRQ25OMk50TkpJZGROUGhyb0xKV2ZXNTJtdWc4X2VNMVJZRUJGYkZuRktZaV9teEluRC1IdlBoTzRRT0hHVm01WElReVR4Wllya3VrNGU4T09JMnNSTzZpby1aR3YtQzBtOTgwSkhXX25hYmUxcmNpNUIyUmNkaU05cmV0ejlB?oc=5",
-      "publishedAt": "2026-08-09T09:32:47+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-world-cup-2026-separating-tax-facts-from-social-media-fiction-thisdaylive",
-      "title": "2026 年世界杯：将税务事实与社交媒体虚构分开 - THISDAYLIVE",
-      "summary": "2026 年世界杯：将税务事实与社交媒体虚构分开",
-      "originalTitle": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction - THISDAYLIVE",
-      "originalSummary": "WORLD CUP 2026: Separating Tax Facts from Social Media Fiction  THISDAYLIVE",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNenl6SWg2OEtIR0ZDNUNJX1BXR1pqR3J1WldVbnhiNHZWQzF6YWVWc1JBWGpxNGs0MkdlZkpBWG5mR1liVzVhQXItdEFZa21fUTFCcFJVbFVPXzlMMEZsdHIxVkpWYnVuWHVKbVZ1eEhUV1RCUldVUVRxNVVGQ0JKVG9NbFFOVlJFRkh4MTR4Z2c1ZTVtdnNETUhmUjc0YTRsY0tN?oc=5",
-      "publishedAt": "2026-08-09T08:48:03+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-rudi-garcia-expects-belgium-to-challenge-spain-in-fifa-world-cup-2026-quarter-final-the-news-mill",
-      "title": "鲁迪·加西亚预计比利时将在 2026 年世界杯四分之一决赛中挑战西班牙 - The News Mill",
-      "summary": "鲁迪·加西亚 (Rudi Garcia) 预计比利时将在 2026 年 FIFA 世界杯四分之一决赛中挑战西班牙 The News Mill",
-      "originalTitle": "Rudi Garcia expects Belgium to challenge Spain in FIFA World Cup 2026 quarter-final - The News Mill",
-      "originalSummary": "Rudi Garcia expects Belgium to challenge Spain in FIFA World Cup 2026 quarter-final  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOVng1YnItY3B0TmkyVkVtbVA5UnRaOERjdy1KcEVzeWxtSWFhbW1jbmJ0ZXRqc01KVm5lbUtKbjROVDk2bnJ4ZFVvdDRGQUtpM0F0V3d0eW5OLWFYZHB2U0lzNVY4cEtfbEQ2WURIT0lSTE9mc1hwenZhR3ZDeUdQRTNDaE1yX3VNYWdLV3g3cWpKZnEwMWpDTElzdk5YRDVfTllYVl8zWmxaSDQ2NGtUMGd1UlZ3Szg?oc=5",
-      "publishedAt": "2026-08-09T08:47:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
-      "publishedAt": "2026-08-09T08:19:56+00:00",
       "heat": 60
     }
   ]
