@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T22:43:15.448456+00:00",
+  "updatedAt": "2026-08-10T23:39:40.665501+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,11 +8,47 @@
   ],
   "articles": [
     {
-      "id": "google-news-messi-faced-bomb-and-shooting-threats-during-world-cup-bno-news",
-      "title": "梅西在世界杯期间面临炸弹和枪击威胁 - BNO News",
-      "summary": "梅西在世界杯期间面临炸弹和枪击威胁 BNO News",
-      "originalTitle": "Messi faced bomb and shooting threats during World Cup - BNO News",
-      "originalSummary": "Messi faced bomb and shooting threats during World Cup  BNO News",
+      "id": "google-news-how-far-will-world-cup-s-ad-impact-go-sports-business-journal",
+      "title": "世界杯的广告影响力能达到什么程度？ - 体育商业杂志",
+      "summary": "世界杯的广告影响力能达到什么程度？  体育商业杂志",
+      "originalTitle": "How far will World Cup’s ad impact go? - Sports Business Journal",
+      "originalSummary": "How far will World Cup’s ad impact go?  Sports Business Journal",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNVzhjS0lKQnpFdTZsZnVfU1g3UmFaX0ZNUlVHTnp1dHU2YktaQ3ZPWVlJR0FlRkpucC1XNktranhWWVhzUVZEdTliZFhIMEsySkZFUzlRajN0QWRla0JLMEhDbjFHbmNRc3dtRjFUX1lfVkZPMHl4cUMxSU9EbXh1ZDN1S3owcTdMLVdrNjlmdlBnUWNLdEpaQ3hpdEhtZnpjckF0WFVR?oc=5",
+      "publishedAt": "2026-08-10T23:00:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-why-is-mexico-still-supporting-gianni-infantino-as-fifa-president-yahoo-sports",
+      "title": "为什么墨西哥仍然支持詹尼·因凡蒂诺担任国际足联主席？ - 雅虎体育",
+      "summary": "为什么墨西哥仍然支持詹尼·因凡蒂诺担任国际足联主席？  雅虎体育",
+      "originalTitle": "Why is Mexico still supporting Gianni Infantino as FIFA president? - Yahoo Sports",
+      "originalSummary": "Why is Mexico still supporting Gianni Infantino as FIFA president?  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV1BBZy1PclRoZmVHeEQ4Z2g2dGpyVjJrMHNDY3djX2FsTmRSbWxMdmhJbGE0NFg2alpDOEhkRTB5UjhDN3l0V0VONkpicXJBQ3VsWGlUbDJCdVlBRXZPd1VxZU81a2lCeEFlZVNvNWhuMmwwaDMzZGZvUVkxRXFsUTYyZ2dqNWMwcWdv?oc=5",
+      "publishedAt": "2026-08-10T22:50:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-uefa-concacaf-and-afc-accuse-fifa-of-deception-breach-of-trust-over-world-cup-plans-tsn",
+      "title": "欧足联、中北美洲及加勒比海足联和亚足联指责国际足联在世界杯计划上欺骗、违反信任 - TSN",
+      "summary": "欧足联、中北美洲及加勒比海足联和亚足联指责国际足联在世界杯计划上存在欺骗行为和违反信任 TSN",
+      "originalTitle": "UEFA, CONCACAF and AFC accuse FIFA of deception, breach of trust over World Cup plans - TSN",
+      "originalSummary": "UEFA, CONCACAF and AFC accuse FIFA of deception, breach of trust over World Cup plans  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOc3ZZNV9vZW9DX0FrdDdHcms1TmxvVlBkWlZCSHdYbkF1NHVOeTg1MzUxRTZHbl9oaXpSUkJ6b1BnaVdleVgzSV9ub1FrWFBUaXgyb0E4RFZRelNzZkU4WWJSdmRwWVQ2Y3pvdmFHaElzVDZxRU9Xd01jTFU0eGN4Q0tZUklqY2g5YnRWMDgzTmNsMUN0Xzloemt6VEhXRXZUNUF1Unc3RmVOMXJSRk1PVTJhLVdyZm0yUG9RZS1oa3BBanltREduVFJiZG1vUUtReUxQRWI3MnJoQQ?oc=5",
+      "publishedAt": "2026-08-10T22:39:43+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-messi-faced-bomb-and-shooting-threats-during-world-cup-bnonews-com",
+      "title": "梅西在世界杯期间面临炸弹和枪击威胁 - bnonews.com",
+      "summary": "梅西在世界杯期间面临炸弹和枪击威胁 - bnonews.com",
+      "originalTitle": "Messi faced bomb and shooting threats during World Cup - bnonews.com",
+      "originalSummary": "Messi faced bomb and shooting threats during World Cup  bnonews.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcTBRMGxITWRnS1Q1RDdtaWpxekRLV1dXQ1pYclZOSjdqX1g4NnJpWjRoSV92YUlFVG9tSExmNUFmNG9GZFh4SEU2YzJoSGcxSmtCWHE4SVlyeV9UZ09wQ29LNVBoQTloX1plaG1CcmZBSDNtN0RCaW9mQzBNU08tN24zUDI4VHpsdWVKbU1USEtMa2tBMHU2NA?oc=5",
@@ -20,16 +56,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-barcelona-shock-psg-with-massive-ferran-torres-price-tag-as-spain-world-cup-hero-demands-summer-transfer-goa",
-      "title": "西班牙世界杯英雄要求夏季转会，巴塞罗那以巨额费兰·托雷斯标价震惊巴黎圣日耳曼 - Goal.com",
-      "summary": "西班牙世界杯英雄要求夏季转会，巴塞罗那以巨额费兰·托雷斯标价震惊巴黎圣日耳曼 Goal.com",
-      "originalTitle": "Barcelona shock PSG with MASSIVE Ferran Torres price tag as Spain World Cup hero demands summer transfer - Goal.com",
-      "originalSummary": "Barcelona shock PSG with MASSIVE Ferran Torres price tag as Spain World Cup hero demands summer transfer  Goal.com",
+      "id": "google-news-saudi-arabia-vs-uruguay-stunning-1-1-draw-fifa-world-cup-2026-highlights-chet-holmgren-tpdnccmxzz-mshale",
+      "title": "沙特阿拉伯 vs 乌拉圭 |令人惊叹的1-1平局！ | 2026 年 FIFA 世界杯精彩集锦 Chet Holmgren (TPDnCcMXZz) - Mshale",
+      "summary": "沙特阿拉伯 vs 乌拉圭 |令人惊叹的1-1平局！ | 2026 年 FIFA 世界杯精彩集锦 Chet Holmgren (TPDnCcMXZz)  Mshale",
+      "originalTitle": "Saudi Arabia Vs Uruguay | Stunning 1-1 Draw! | FIFA World Cup 2026 Highlights Chet Holmgren (TPDnCcMXZz) - Mshale",
+      "originalSummary": "Saudi Arabia Vs Uruguay | Stunning 1-1 Draw! | FIFA World Cup 2026 Highlights Chet Holmgren (TPDnCcMXZz)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNU1VmemllR2RtUi1QdW9LZFU2WEgteFM4TTZGbkl4NUFOa2V6YWlfY2RqTHNaZ2Ntcm9oNzNZZWc0Vi1CVXh6WmZRY1RlVWRpTC00cFhxUzVmdHZmN2hhYm5rc0pFWW9jWUdGenRFWEFCMm1OcXRWU0lzTDR6UmJac2hFaXlFdnNTc3F6c3V5QkpoV3VZU0RFVFMteFhvTW5ELTFjTHVhdFVPSjRpWnZUeXRrN2VtWFlBUm5pUQ?oc=5",
-      "publishedAt": "2026-08-10T21:39:02+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8za2RJZEZTZjNBUjVkODRDRERld1htMzRwLXllWWJBUEdyMUYtTnp1YUppZDdGRkpIUVNOYlZWWmJVUE8wSEZTZkJ3TU9nQzJwNGloZWpRVDJxODQ?oc=5",
+      "publishedAt": "2026-08-10T22:08:00+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-co-hosts-us-canada-oppose-infantino-free-malaysia-today",
@@ -44,6 +80,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-mexico-vs-ecuador-rd32-knockout-world-cup-2026-preview-heart-dhajbuinho-mshale",
+      "title": "墨西哥 VS 厄瓜多尔：RD32 淘汰赛！ | 2026 年世界杯预览 Heart (DhAjbuInho) - Mshale",
+      "summary": "墨西哥 VS 厄瓜多尔：RD32 淘汰赛！ | 2026 年世界杯预览 Heart (DhAjbuInho)  Mshale",
+      "originalTitle": "Mexico Vs Ecuador: RD32 KNOCKOUT ! | World Cup 2026 Preview Heart (DhAjbuInho) - Mshale",
+      "originalSummary": "Mexico Vs Ecuador: RD32 KNOCKOUT ! | World Cup 2026 Preview Heart (DhAjbuInho)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Vc3BnNXRzOGIzR3dNNWFfLU9EeExpcmpsV2ItR1RNa2RocXhTTHUzV1FteFFCS1pGZ1V6SFNKbG5RTm13OHhnTm1mNHVNVnZsVF84SjZmNW84UU0?oc=5",
+      "publishedAt": "2026-08-10T21:26:09+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-rebel-world-cup-shock-new-fifa-threat-emerges-as-brutal-letter-escalates-civil-war-fox-sports",
       "title": "叛逆世界杯？残酷的信使内战升级，国际足联出现令人震惊的新威胁 - 福克斯体育",
       "summary": "叛逆世界杯？随着残忍的信使内战升级，国际足联出现了令人震惊的新威胁 福克斯体育",
@@ -54,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMinwNBVV95cUxNU2ZjWjZoXzlmdUJhSkc3QnZsV1ltUDAycDVodFZsTHluNHJ1QUdoV0FzTUF3RVQyU2x5UUp1WmpBTEE0cGxwQ2ZfSXF2YkpzU3hEemc0aXoxcjU2ZWxJclpSX1M2SXJ1UzhOV0FsMWRhcENFNlU3NDZIODNKYkZIMmxHc0VZWHJ6UUhaamQyNDlyQk5xRDN2cGNXQTVZSkUyYVpraWlEbUJLSjF3OGQwS1BTLWxkZEVuM1RiTmFTYXZmVVNtVlRTLVdFS3FXRnQwT0l0VmNBbXhGOG4yQW94TEtiRGhHNGh1ektudm5URHNEOUl4REdGS0YyNUwyUTRLOFJFVDliSU9pUERONWNSWnVnQnR2T3QxWG9oR3RFTUpGSk8wclBJMzFnQ0NlV1JKZFVycklaTjdab1RBYURYZGEyMThmTWZjbGd2aDNIZUdfSmxTWXlBbnFjaGFuVHFVcnlfeVFFanlKTERNRmlUNUNLVWpfZldVbDNUNFpaYUp4Q25vY1dmX2dBYWNYbXluNEhPSHpCeU1vNEE2eXZB0gGfA0FVX3lxTE1TZmNaNmhfOWZ1QmFKRzdCdmxXWW1QMDJwNWh0VmxMeW40cnVBR2hXQXNNQXdFVDJTbHlRSnVaakFMQTRwbHBDZl9JcXZiSnNTeER6ZzRpejFyNTZlbElyWlJfUzZJcnVTOE5XQWwxZGFwQ0U2VTc0Nkg4M0piRkgybEdzRVlYcnpRSFpqZDI0OXJCTnFEM3ZwY1dBNVlKRTJhWmtpaURtQktKMXc4ZDBLUFMtbGRkRW4zVGJOYVNhdmZVU21WVFMtV0VLcVdGdDBPSXRWY0FteEY4bjJBb3hMS2JEaEc0aHV6S252blREc0Q5SXhER0ZLRjI1TDJRNEs4UkVUOWJJT2lQRE41Y1JadWdCdHZPdDFYb2hHdEVNSkZKTzByUEkzMWdDQ2VXUkpkVXJySVpON1pvVEFhRFhkYTIxOGZNZmNsZ3ZoM0hlR19KbFNZeUFucWNoYW5UcVVyeV95UUVqeUpMRE1GaVQ1Q0tVal9mV1VsM1Q0WlphSnhDbm9jV2ZfZ0FhY1hteW40SE9IekJ5TW80QTZ5dkE?oc=5",
       "publishedAt": "2026-08-10T21:16:49+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-joint-statement-rocks-fifa-continental-federation-presidents-level-shocking-accusation-at-infantino-goal-com",
+      "title": "联合声明震动国际足联：洲际联合会主席对因凡蒂诺提出令人震惊的指控 Goal.com",
+      "summary": "联合声明震惊国际足联：大陆足协主席对因凡蒂诺提出令人震惊的指控 Goal.com",
+      "originalTitle": "Joint statement rocks FIFA: continental federation presidents level shocking accusation at Infantino - Goal.com",
+      "originalSummary": "Joint statement rocks FIFA: continental federation presidents level shocking accusation at Infantino  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxONnhJamhjV1lwQ3pRTlQ5ZUN5SFF6N3VQMTE3aUNCVUpHV1ZGdzJkbGJYMWNFT0c0dHktZWc0cjM2eXpyZkhCTW5VQVRnTk1Oa1VaX2lTRU5QWWY3eS13Qmx5TXFmMXNGdlEzNVJVYjRwRmZFeW1UeFVRT19xUDFzQTNSQzNEN0pqRExyaWdWdnd4Nk5wWHNkMWQxbkJuSVEzekhIQjI5aHZTWkZXWDVCdFBiNElQSndJMzNmX1dtNWpYTVpsLXY2MzJEM095U0ZjWmZ1OW1ublRydWJQVHlzOFR3?oc=5",
+      "publishedAt": "2026-08-10T21:16:14+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-ronaldo-messi-neymar-goodbye-world-cup-2026-song-rodents-b2sa27ru0x-mshale",
@@ -80,18 +140,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ - 斯夸卡",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  斯夸卡",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
-      "publishedAt": "2026-08-10T20:12:09+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-新闻-中文-1542分-2026年网页版登录入口发布-非洲第二强势出击-萨拉赫领衔全攻全守-tgbus-电玩巴士",
       "title": "1542分，2026年网页版登录入口发布，非洲第二强势出击，萨拉赫领衔全攻全守！-TGBUS - 电玩巴士",
       "summary": "1542分，2026年网页版登录入口发布，非洲第二强势出击，萨拉赫领衔全攻全守！-TGBUS  电玩巴士",
@@ -102,6 +150,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBUSV84VWdBdlVVR1UyMjBZUExfWFRsOHFkOGVVM0M2cHZJdWY4ZmwwaEtWMDFOUDNRS3lyRXJsTVAtdGx2YUlndUxsalRCOXFzcElfZEZMMEN0N0NhSmZvSlBTRDlUTFpVcXd4bTQ3RjFjTlJHVy04?oc=5",
       "publishedAt": "2026-08-10T19:19:28+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-argentina-vs-switzerland-highlights-2026-fifa-world-cup-quarterfinals-alexi-lalas-omgz2lhr1k-mshale",
+      "title": "阿根廷对阵瑞士的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |四分之一决赛 Alexi Lalas (oMgz2LhR1K) - Mshale",
+      "summary": "阿根廷对阵瑞士的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |四分之一决赛 Alexi Lalas (oMgz2LhR1K)  Mshale",
+      "originalTitle": "Argentina Vs Switzerland Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals Alexi Lalas (oMgz2LhR1K) - Mshale",
+      "originalSummary": "Argentina Vs Switzerland Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals Alexi Lalas (oMgz2LhR1K)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE92LWRIb2R2MjYxNWpKcDFtY0tadlVfZVAxOTdQY1ctY1J4akJOU1VldXdDM3kxb3RuMWN4bkUzbTVTZUltMEdXVjA0SHQ1OU9uNmgtRG9hMS11RU0?oc=5",
+      "publishedAt": "2026-08-10T19:16:27+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-highlights-mexico-2-0-ecuador-fifa-world-cup-2026-villanova-3m1sckvtoq-mshale",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LOVo2ajZUUzA1a1BIWnlrY1c4d0RZU3N1U3ozNE5WbFB1d2s5djZYNHdPdG5RUWJFRmd4a2FrUEZmWkNQUXNoeldUUTFmV3FwLUwyS2xWdWVhSzA?oc=5",
       "publishedAt": "2026-08-10T18:06:05+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-it-was-a-very-tough-period-somali-referee-omar-artan-opens-up-on-world-cup-heartbreak-as-he-prepares-to-make",
-      "title": "“这是一段非常艰难的时期”——索马里裁判奥马尔·阿尔坦在准备在欧洲超级杯上创造历史时谈到了世界杯的心碎 - Goal.com",
-      "summary": "“这是一段非常艰难的时期”——索马里裁判奥马尔·阿尔坦在准备在欧洲超级杯上创造历史时谈到了世界杯的心碎 Goal.com",
-      "originalTitle": "'It was a very tough period' - Somali referee Omar Artan opens up on World Cup heartbreak as he prepares to make history in UEFA Super Cup - Goal.com",
-      "originalSummary": "'It was a very tough period' - Somali referee Omar Artan opens up on World Cup heartbreak as he prepares to make history in UEFA Super Cup  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNm5IQTdNUDdGbFVDWWp4ZktiTkJnSTJWbV9mZjJWem9SZnpFWTRicmxQMjdPNXhycWpJdGhvbXpUVWlmeEdkS0RKenFOaWVSaTFJQTNhWnVQQ045bUdNZUIwMERhZ3ZMNW5JZTZvNUtpYWoyQmtfWUpvYWllZThrVXJHeXN0Z1I1c1V0SWlGYi1wUVZWeXltbEJWMjUwV3FXUmdlWXRZVk5SM003blZYRjZGN1MxMUUwWVlUbw?oc=5",
-      "publishedAt": "2026-08-10T18:00:30+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-metlife-stadium-is-being-rebuilt-for-the-2026-world-cup-final-the-hidden-construction-plan-tim-duncan-gb",
-      "title": "大都会人寿体育场如何为 2026 年世界杯决赛重建（隐藏的建设计划） Tim Duncan (gBA2mbzCEQ) - Mshale",
-      "summary": "如何为 2026 年世界杯决赛重建大都会人寿体育场（隐藏的建设计划） Tim Duncan (gBA2mbzCEQ)  Mshale",
-      "originalTitle": "How MetLife Stadium Is Being Rebuilt For The 2026 World Cup Final (The Hidden Construction Plan) Tim Duncan (gBA2mbzCEQ) - Mshale",
-      "originalSummary": "How MetLife Stadium Is Being Rebuilt For The 2026 World Cup Final (The Hidden Construction Plan) Tim Duncan (gBA2mbzCEQ)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBLd2F3YmJSZzFRZHFYLVF2MFpwSlU2eS1WeHdlbC1hZmJWUUpGdHFOcDh5cmFMS1Nqam5sYmJSTWdrVm5LNG1UblZOemUtU1hWVHdLT0JrU0t5QnM?oc=5",
-      "publishedAt": "2026-08-10T17:47:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-2026-fifa-rankings-lowest-to-highest-updated-june-11-2026-emergency-alert-today-8gz9o3fodp-mshale",
-      "title": "2026 年世界杯 FIFA 排名（从最低到最高）|更新于 2026 年 6 月 11 日今日紧急警报 (8gz9o3foDP) - Mshale",
-      "summary": "2026 年世界杯 FIFA 排名（从最低到最高）| 2026 年 6 月 11 日更新今日紧急警报 (8gz9o3foDP)  Mshale",
-      "originalTitle": "World Cup 2026 FIFA Rankings (Lowest To Highest) | Updated June 11, 2026 Emergency Alert Today (8gz9o3foDP) - Mshale",
-      "originalSummary": "World Cup 2026 FIFA Rankings (Lowest To Highest) | Updated June 11, 2026 Emergency Alert Today (8gz9o3foDP)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1lcGw4SEVaQnA4Y0RDNzFOWnpQaGtyUzJkQ2FjVzhibUxfQkd4aktFMWMtTExQc2dxM1U1dXNlcHVlYThQZ1dhcnB6SHNkeEZwUkhWd2FpNXlzZms?oc=5",
-      "publishedAt": "2026-08-10T17:39:40+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-president-gianni-infantino-hails-ayyoub-bouaddi-morocco-world-news",
-      "title": "国际足联主席詹尼·因凡蒂诺赞扬阿尤布·布阿迪 - 摩洛哥世界新闻",
-      "summary": "国际足联主席詹尼·因凡蒂诺赞扬阿尤布·布阿迪 摩洛哥世界新闻",
-      "originalTitle": "FIFA President Gianni Infantino Hails Ayyoub Bouaddi - Morocco World News",
-      "originalSummary": "FIFA President Gianni Infantino Hails Ayyoub Bouaddi  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDlwYjlsdFRBRV81Q2EtT3pIdmYweUsySHczVTdTY20zRTE2Mm1tMTUxSVZhem9WTFN3bHM1VEFtdUhPZkZocVRMQjlqNkVlUGYzVTR3NXZLTTFJbC1kUVBLLTA2bVhKUjhTU1VMTngyM3I2RDNTV0xnMjAxU0pBclB0V09SQzhHWE9NUGtXYjZRT18wZWFjUklzYXYzNF9YU0p3?oc=5",
-      "publishedAt": "2026-08-10T17:09:57+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-somali-s-omar-artan-breaks-silence-months-after-being-denied-us-entry-for-world-cup-india-today",
-      "title": "索马里的奥马尔·阿尔坦在被美国拒绝参加世界杯几个月后打破沉默 - 今日印度",
-      "summary": "索马里的奥马尔·阿尔坦 (Omar Artan) 在被美国拒绝参加世界杯几个月后打破沉默 印度今日",
-      "originalTitle": "Somali's Omar Artan breaks silence months after being denied US entry for World Cup - India Today",
-      "originalSummary": "Somali's Omar Artan breaks silence months after being denied US entry for World Cup  India Today",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSFg5NEtUdWVGal83TC1rV1luWHFnYVljNXdjSjJzcTBCSEV4SWYtcF9kZHNBNlR1bG52Q0tzX2Y3TzBlS0V3QWhHU0FkVVNzU2dMMnBBT3FSMEF5MHRaME51ak5sdWYza1UtZGNkRHR2WnN6bXZfTnl5cDlza0lUcGp5eVJvM2puY0ctTnJZb1RITW1UMUF6SGdWVTBZUmxxcWIzMVl4MWxQcXlkQU1ELXJ2RTlkY3U4aGlKTWVHdWRjS2I4bmsyMnR2bW12VjR3ZFM00gHTAUFVX3lxTE9IWDk0S1R1ZUZqXzdMLWtXWW5YcWdhWWM1d2NKMnNxMEJIRXhJZi1wX2Rkc0E2VHVsbnZDS3NfZjdPMGVLRXdBaEdTQWRVU3NTZ0wycEFPcVIwQXkwdFowTnVqTmx1ZjNrVS1kY2REdHZac3ptdl9OeXlwOXNrSVRwanl5Um8zam5jRy1OcllvVEhNbVQxQXpIZ1ZVMFlSbHFxYjMxWXgxbFBxeWRBTUQtcnZFOWRjdThoaUpNZUd1ZGNLYjhuazIydHZtbXZWNHdkUzQ?oc=5",
-      "publishedAt": "2026-08-10T16:49:11+00:00",
-      "heat": 52
     }
   ]
 }
