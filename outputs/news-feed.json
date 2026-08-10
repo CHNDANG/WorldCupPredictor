@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T13:57:00.003525+00:00",
+  "updatedAt": "2026-08-10T15:08:01.427557+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,39 @@
   ],
   "articles": [
     {
-      "id": "google-news-barcelona-shock-psg-with-massive-ferran-torres-price-tag-as-spain-world-cup-hero-demands-summer-transfer-goa",
-      "title": "西班牙世界杯英雄要求夏季转会，巴塞罗那以巨额费兰·托雷斯标价震惊巴黎圣日耳曼 - Goal.com",
-      "summary": "西班牙世界杯英雄要求夏季转会，巴塞罗那以巨额费兰·托雷斯标价震惊巴黎圣日耳曼 Goal.com",
-      "originalTitle": "Barcelona shock PSG with MASSIVE Ferran Torres price tag as Spain World Cup hero demands summer transfer - Goal.com",
-      "originalSummary": "Barcelona shock PSG with MASSIVE Ferran Torres price tag as Spain World Cup hero demands summer transfer  Goal.com",
+      "id": "google-news-france-defeat-norway-4-1-to-top-group-i-in-fifa-world-cup-2026-news-on-air",
+      "title": "2026 年世界杯第一组法国队 4-1 战胜挪威 - News On AIR",
+      "summary": "2026 年 FIFA 世界杯法国队以 4-1 击败挪威队，夺得第一组冠军",
+      "originalTitle": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026 - News On AIR",
+      "originalSummary": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026  News On AIR",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUERHV3lnX2ZjVXlxb0tMb0gzX2hnb3FxYVRZMkRQMWk0SXZUNjBqSjdDSHlhOFVBWlh6YmQweEluTlRlS3IxT2JvWjZEeDZoOTNWVDg1aG5VTHF4cE9YMlN0bFNlSndsUFE0WmpyZnpZaEUzSy1mLWQ0YmVhX2VUZWhrU25xZ2VRSG5KcUx3am9mak5SZVpRdmhab2RuZ2lwb0xfTU91SVZqQjNXMGt5blp5a2hSSGVPLUFRZA?oc=5",
-      "publishedAt": "2026-08-10T13:28:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmpxLTdTV3Bja0R4SENIOHA3SmlzLVBFMXFlY0RLLVM5Mk5ySThPeFBaVGstQmRucUV1V3ZzM2FreklQMWxxTVdrdVdtVV8xMkJmTUJ0QlBfbXNaaHJQZXRtdmprTTdEMXlxalJYTTV4aHo2VXZnejJBeTVzUjhwdGxCc2hVbm1Kc083OXNfUS02dw?oc=5",
+      "publishedAt": "2026-08-10T13:34:29+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-uefa-afc-concacaf-slam-fifa-over-world-cup-stake-sale-plan-rg-org",
+      "title": "欧足联、亚足联、中北美及加勒比地区足联猛烈批评国际足联世界杯股份出售计划 - rg.org",
+      "summary": "欧足联、亚足联、中北美及加勒比地区足联猛烈抨击国际足联世界杯股份出售计划 rg.org",
+      "originalTitle": "UEFA, AFC, Concacaf Slam FIFA Over World Cup Stake Sale Plan - rg.org",
+      "originalSummary": "UEFA, AFC, Concacaf Slam FIFA Over World Cup Stake Sale Plan  rg.org",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOeFdTVllwOVI5ejB0d1VIUFJPaGExOFdESmFnczZfMnpEX0VMQUlIRHlSV3VOSjlXak0zdEpOUEl5RWlXS05mUm9Sal95UC16ZHBJMURvS1pWX1hadWhKZkE2U2h4cFpmLU5ibVg3TU04cWVVZ3E1SDZ1TVJBYUxXVUpiNA?oc=5",
+      "publishedAt": "2026-08-10T13:20:29+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-lecce-appeal-to-fifa-as-awol-winger-lameck-banda-refuses-to-return-for-pre-season-goal-com",
+      "title": "莱切因擅离职守边锋拉梅克·班达拒绝回归参加季前赛而向国际足联提出上诉 - Goal.com",
+      "summary": "莱切因擅离职守边锋拉梅克·班达拒绝回归参加季前赛而向国际足联提出上诉 Goal.com",
+      "originalTitle": "Lecce appeal to FIFA as AWOL winger Lameck Banda refuses to return for pre-season - Goal.com",
+      "originalSummary": "Lecce appeal to FIFA as AWOL winger Lameck Banda refuses to return for pre-season  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb2NlNU02N216ajdxeEdVWjZwTDZoZkk2bG50LTN4TF9CV2ItblZQeG0zYU9iUkpOV1lwQTAyOWg4czcxakx0U2w1RUs2UENCWjFYRnZTaHAzOHFvY3IwTTZ4LU9HVXhOaV85QTdnbF9pYW83ZDZRdllOZVg0QUJ4OFEwbW5QaHN5TEw2SDlfTVpCYlhMVllJM3BIb2pOeXBPcTFoTmZ2cG1qM19ld3o1aUlJbGI?oc=5",
+      "publishedAt": "2026-08-10T13:04:53+00:00",
       "heat": 52
     },
     {
@@ -27,8 +51,56 @@
       "originalSummary": "‘Big ask’ for Harry Kane to emulate Lionel Messi & Cristiano Ronaldo as former Bayern Munich star makes bold 2030 World Cup prediction for England captain  Goal.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOajltYV9BNkc4a3VaUDBrVEVFZ3VoOFRxUEVRNHRTRGNpRzF1QklNZWNxNDZQSGtiZDVDTnVXOU94Y3d4SWdpb2xlbVF0VEJNd09zNkhtdmJjNkoxX0ljVk9vU3lleTdacUpCa2huVzByWTJXWDBxeFh2Z1AyemRvVk5rNE1QNE5rT3FnV2N1bHNsVU10Y29ZbGdVZXBMVDlNblB1ckpSWHBJTndpNzdEenRDS1lmc19TcVdua0ZhcHRDVzhLZWxyWWlmRVVnVlJQRk1pYmNqXy1zTk45U0Fac3lKUWw?oc=5",
-      "publishedAt": "2026-08-10T12:59:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcFRWTkdZaDY1NmRBdTFfQnllOXl1aDZHM25UWi1wbk92ZDhlVFM2bzk3SXludkRxc2pzRFo2ZjluTWhRTHhtZ0pMbWs5NXgwQ1pKUnlnWnIxMmRxM2ZpX0RaVDFFSzd2ckNMUEVDSzY5RnMwWE1idjVyVVhEOE5RYXRrWWxZTlFtVE1hOXpEYUYyQml5MVhhYTU3UHd4YkdTRjZOQnl2aXB3S0JDcWI4NU5oOEpnM3VKMnRPd1NvOGFoQlU5Nmd3YzJwYXVZczd2eF8yVnJua000TkdjUG4zZU9ITEw?oc=5",
+      "publishedAt": "2026-08-10T13:01:17+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-i-was-disappointed-houssine-kharja-reacts-to-arsene-wenger-s-stance-on-fifa-row-goal-com",
+      "title": "哈尔贾回应温格在国际足联争议问题上的立场：“我很失望” Goal.com",
+      "summary": "“我很失望”——侯辛·卡贾对温格在国际足联争议中的立场做出反应 Goal.com",
+      "originalTitle": "'I was disappointed' - Houssine Kharja reacts to Arsene Wenger's stance on FIFA row - Goal.com",
+      "originalSummary": "'I was disappointed' - Houssine Kharja reacts to Arsene Wenger's stance on FIFA row  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbTk4ckh4VUxaU0hDN0pOMHB5OEZqT3oxX2dLTmxDcTNoWG5qcGdIOU1acVlhaUU0TGs2SXlXa0ZzdVFHdk42UW84THZ2RF9QN2Q2NFB5WXF3dGtoQy12dmVpRnJFTWIwMGplSWthQS1qNm44dlZCLW8xdnZJdEdJVkJqaHNLUHQwc1lwNnY4U2czY2NZVm9JMW9CQ1phcUpnaWhiYVVqeXFKcGhWb1pEbUtwOUJ1c3E5YVhab0JLQk5wa2lESEVQQl9qUQ?oc=5",
+      "publishedAt": "2026-08-10T12:52:43+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-live-fans-pack-atlanta-stadium-ahead-of-england-vs-argentina-fifa-world-cup-2026-emploi-ddy8pnwkf7-mshale-co",
+      "title": "直播：亚特兰大体育场球迷挤满英格兰队对阵阿根廷队| FIFA 世界杯 2026 就业 (ddY8pnWKF7) - mshale.com",
+      "summary": "直播：亚特兰大体育场球迷挤满英格兰队对阵阿根廷队| FIFA 世界杯 2026 Emploi (ddY8pnWKF7)  mshale.com",
+      "originalTitle": "LIVE: Fans Pack Atlanta Stadium Ahead Of England Vs Argentina | FIFA World Cup 2026 Emploi (ddY8pnWKF7) - mshale.com",
+      "originalSummary": "LIVE: Fans Pack Atlanta Stadium Ahead Of England Vs Argentina | FIFA World Cup 2026 Emploi (ddY8pnWKF7)  mshale.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0xZi1OWmlrQUw2VnZsYXgzRGJ3dFk1bUFSeTB3RWpGZWFtZU5ZelpwZTRlSm5IVE44bkVxS29OYVJjR0VWNkkzVmtkSmtUdGhWNmN6UXVjTkdqdw?oc=5",
+      "publishedAt": "2026-08-10T12:34:06+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-major-sporting-events-and-digital-payments-the-challenge-of-the-2026-fifa-world-cup-yogonet-com",
+      "title": "重大体育赛事和数字支付：2026 年 FIFA 世界杯的挑战 - yogonet.com",
+      "summary": "重大体育赛事和数字支付：2026 年 FIFA 世界杯的挑战 yogonet.com",
+      "originalTitle": "Major sporting events and digital payments: the challenge of the 2026 FIFA World Cup - yogonet.com",
+      "originalSummary": "Major sporting events and digital payments: the challenge of the 2026 FIFA World Cup  yogonet.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPUTVUZ0tqaGtIbS1MLVpLUkxfSlkwblhlYjlKSUROanRUUkoyNVFYUnBLT01PRkdNV1ItajFuSEtEQ25oOUlSaG5GUVQ0MjZjdlg3OE56SDlZMEh2SFZKRHUta2oyWlB1eUtIVEtuVDVsX3NCcEJyU01TX0s1RWJ5Rkd3aTFwODhtTUl5cnF1aUJhRHJaN1dBWVZnMmRvdEcyQUozSTBrZTFTTDl6TnZUdmRWWFY3WDUwcDVqa2ZqQm10Z0wtdmU5TXhyYmRmN1g0dmtVQWtER1F2WWdZ?oc=5",
+      "publishedAt": "2026-08-10T12:28:35+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-milan-what-lies-behind-the-extended-holidays-for-maignan-and-rabiot-between-post-world-cup-fatigue-and-the-t",
+      "title": "米兰：迈尼昂和拉比奥特长假背后的原因：世界杯后的疲劳和转会市场之间 Goal.com",
+      "summary": "米兰，迈尼昂和拉比奥延长假期背后的原因：世界杯后的疲劳与转会市场之间 Goal.com",
+      "originalTitle": "Milan, what lies behind the extended holidays for Maignan and Rabiot: between post-World Cup fatigue and the transfer market - Goal.com",
+      "originalSummary": "Milan, what lies behind the extended holidays for Maignan and Rabiot: between post-World Cup fatigue and the transfer market  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQbkhDQUdjQjlhcllITFNWWWhDSWpodDRLc2VHYU0tVmcxdWNfTHY5Zk1zM0RZRDJGRDNZVWdUVU95UjZIZkNOM250RzlIaFo1cDRWalFucFZ1bG5WTzQtN194Yy1GZVQzdHlJX2FLc0tCOWc0VkprVW91Wl9uSEFJSzk0RWZmWG05U1VJcENRVFdZSFVreW4tRVlnMXlVbmZBalc0YXdnb25jaWtrMkh4NVRJQTlXV0Z3NmhabTdwVkR2Q21vWjRlNDVqSnVzVUJPRnFVcFNrNjVfOFRNZ2Z4SWJUc1F2Nkl0UWQyY2M0SVh5bUc1eU4yV2Vla3d5cll3VUE?oc=5",
+      "publishedAt": "2026-08-10T12:22:36+00:00",
       "heat": 52
     },
     {
@@ -56,18 +128,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-uk-pubs-to-open-early-for-england-s-world-cup-round-of-16-match-against-mexico-the-news-mill",
-      "title": "英国酒吧将在英格兰对阵墨西哥的世界杯 16 强比赛中提前开门 - The News Mill",
-      "summary": "英国酒吧将在英格兰世界杯 16 强对阵墨西哥的比赛中提前开放 The News Mill",
-      "originalTitle": "UK pubs to open early for England’s World Cup round of 16 match against Mexico - The News Mill",
-      "originalSummary": "UK pubs to open early for England’s World Cup round of 16 match against Mexico  The News Mill",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOT3d6ZHZGTTh3Q3JKWVZFWkhmUTlYVHN5dlRsWURHekFuN0lHbm5YS1hsS3BJOVI2WU5BZ1k2U3BKcVhDeGxfd29WMVBvMWN4a1hVb19hbW1Sam9LUnNIQ0dYVk1uQVdheW8tVlNod1k4RGhWMmxPckNEZnhJVlFsTXZTbzhrR24zdzc0WVl2ZnlSZzZPVm1QVXF6MlBSemJqTWM0V1ExYWE3MDBfSU44?oc=5",
-      "publishedAt": "2026-08-10T11:57:09+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-fifa-world-cup-2026-live-argentina-vs-jordan-live-from-dallas-stadium-tx-messi-de-paul-n18g-moose-hide-campa",
       "title": "🔴2026 年国际足联世界杯直播：德克萨斯州达拉斯体育场直播阿根廷对阵乔丹 |梅西|德保罗 | N18G 驼鹿皮活动 (laiKRT4Xni) - mshale.com",
       "summary": "🔴2026 年国际足联世界杯直播：德克萨斯州达拉斯体育场直播阿根廷对阵乔丹 |梅西|德保罗 | N18G 驼鹿皮活动 (laiKRT4Xni)  mshale.com",
@@ -78,6 +138,30 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1ZUGN2cTd1X0lCeGlzWFYzajVIYURRSGpIRnEtUElJZ0FUTWs3RW9ITjlCMmNZSW43czdTVGpUb1lmSzJhVm1EeGk0M2VIUU5QSG5nVW0tdU1XbG8?oc=5",
       "publishedAt": "2026-08-10T11:47:21+00:00",
       "heat": 68
+    },
+    {
+      "id": "google-news-kylian-mbappe-goal-france-3-1-senegal-fifa-world-cup-2026-liberty-vs-portland-fire-axdpefb2b4-mshale-com",
+      "title": "基利安·姆巴佩进球 |法国 3-1 塞内加尔 | FIFA 世界杯 2026™ 自由队对阵波特兰火焰队 (aXDPEFB2b4) - mshale.com",
+      "summary": "基利安·姆巴佩进球 |法国 3-1 塞内加尔 | FIFA 世界杯 2026™ 自由队对阵波特兰火焰队 (aXDPEFB2b4)  mshale.com",
+      "originalTitle": "Kylian Mbappe Goal | France 3-1 Senegal | FIFA World Cup 2026™ Liberty Vs Portland Fire (aXDPEFB2b4) - mshale.com",
+      "originalSummary": "Kylian Mbappe Goal | France 3-1 Senegal | FIFA World Cup 2026™ Liberty Vs Portland Fire (aXDPEFB2b4)  mshale.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91NlFLSWVNR1RLOTY4SGgxeVU3X1RQakFPOGMwY2w2MUp2WE5qcFQtc1lwMU9TMjUxN2NZamNDVnM3UHhGM3hJMUhZMHFGR2xxdjdyVlljdHptVTQ?oc=5",
+      "publishedAt": "2026-08-10T11:42:18+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-场均解围-serie-a2026的palmeiras数据-fotmob",
+      "title": "场均解围 — Serie A2026的Palmeiras数据 - FotMob",
+      "summary": "场均解围 — Serie A2026的Palmeiras数据  FotMob",
+      "originalTitle": "场均解围 — Serie A2026的Palmeiras数据 - FotMob",
+      "originalSummary": "场均解围 — Serie A2026的Palmeiras数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPVjMzczJud3A5bXNCQmlsekJRMWdLQ3pqSnZpeEFpSUdwM05jckFVRlU2ZGtieWxxazFidHhLVkxlSmg3bTBybXBDRGhqTWEzbDJIMHdWcVJLb3VLczR4WmtZQ180VzY5d1RNSFEyb2FqeU5tNC1OTjhZYjdmVnZJUDZBY1R5OFFuNHJnVU1GZ3FFZm42anYtWVhBRnZuR3VSUWlvemhWY1pNNUVtTlBlaHFfakhJcnh2Y0UxLWlLWndQUVlLekZWZkZXZ2hIWTZK?oc=5",
+      "publishedAt": "2026-08-10T11:13:23+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-messi-faced-terror-threats-during-fifa-world-cup-2026-report-the-business-standard",
@@ -92,11 +176,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-latimes-com",
-      "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - latimes.com",
-      "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 latimes.com",
-      "originalTitle": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - latimes.com",
-      "originalSummary": "A World Cup referee shares his view of red cards, hydration breaks and soccer history  latimes.com",
+      "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-los-angeles-times",
+      "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - 洛杉矶时报",
+      "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法《洛杉矶时报》",
+      "originalTitle": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - Los Angeles Times",
+      "originalSummary": "A World Cup referee shares his view of red cards, hydration breaks and soccer history  Los Angeles Times",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORnBOSlpIaVA2MEUyb2xsbHVETGxYZ0xzbkdzdzhkamJ4REl0X3hubEFLTXV5LS04WkJpSlJRTGswOTJqMXdlZGhPZmFsYkRfZGtCdVdKSG0wWTcwVXhVNVhVT3ByaFFkck1TRFVuczN3WTBSSUt0enNycURYcUZBRGpLd21ONmVsMUNPcm1uekE4dHlDM2RSRjl6eWF5Q2dsd0lfQWt4Q1VRSURyREJFcDFjTmJEam9lUXc?oc=5",
@@ -138,90 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE02X0IyS2RJVGtxQlZ2OGNwN3Y0RzQ2R2s1X1NRYVpWdWNrU1ZyWVgxekVXblVFWC1vOUNzaDRaUk1SWlB4Z0FSN2JlQ0xtMmxiRXRXRkRLS0QyZw?oc=5",
       "publishedAt": "2026-08-10T10:29:04+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-indonesia-confirmed-as-host-of-inaugural-2026-fifa-asean-cup-jakarta-globe",
-      "title": "印度尼西亚确认为 2026 年首届国际足联东盟杯主办国 - Jakarta Globe",
-      "summary": "印度尼西亚确认为 2026 年首届 FIFA 东盟杯的主办国",
-      "originalTitle": "Indonesia Confirmed as Host of Inaugural 2026 FIFA ASEAN Cup - Jakarta Globe",
-      "originalSummary": "Indonesia Confirmed as Host of Inaugural 2026 FIFA ASEAN Cup  Jakarta Globe",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQNE8zZEw5QmV2dE1sR0JtbjJzOHZNbFpOdG8zSTM2a21xcUFBZkhIaXZKSVNxd2hmRHBDdkJLS1EwZ0s2NlFWMnY0cjhnb2ZXcTlKcHpaRHc2X0pOQ0lIZ0tEOGw2TjZrNk1ZeEVIUElhU2ZDc2U0SWYyeWRyRUhPSTFyU0dTcjFVRTNEMlVOX1h1VFk?oc=5",
-      "publishedAt": "2026-08-10T10:27:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2027-fifa-women-s-world-cup-format-who-has-qualified-espn",
-      "title": "2027 年 FIFA 女足世界杯：赛制，谁已晋级？ - ESPN",
-      "summary": "2027 年 FIFA 女足世界杯：赛制，谁已晋级？  ESPN",
-      "originalTitle": "2027 FIFA Women's World Cup: Format, who has qualified? - ESPN",
-      "originalSummary": "2027 FIFA Women's World Cup: Format, who has qualified?  ESPN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSVZLSE9IQ3M1WmZuVXU0cHBxOFg0Qjh4T0FfQ1g3V0pJa0FQSUJxVFlBOHYxaUI3QUNQWnRWRnFMUFM5ay1ocmphbThmMTJEalhaUXltMFVlOU5ubnFqVWNqZXRTVkVzeUwzcjMzZG9YLWhzV3hQVFNHVE11WHdWWmgtZjFrTVJYREpTb3BlclF3Qi1ZOXJSdnlxY0l5NWhDNDUtQmd1Zkx2ZnBZTTZXU0lQNUtvLW1L?oc=5",
-      "publishedAt": "2026-08-10T10:04:04+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2-million-world-cup-tickets-fifa-under-investigation-yellowstone-m2dye4m5vs-mshale-com",
-      "title": "200万美元世界杯门票？！ FIFA 正在接受调查黄石 (m2dyE4m5vS) - mshale.com",
-      "summary": "200万美元世界杯门票？！ FIFA 正在接受调查 黄石公园 (m2dyE4m5vS)  mshale.com",
-      "originalTitle": "$2 MILLION World Cup Tickets?! FIFA Under Investigation Yellowstone (m2dyE4m5vS) - mshale.com",
-      "originalSummary": "$2 MILLION World Cup Tickets?! FIFA Under Investigation Yellowstone (m2dyE4m5vS)  mshale.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wdnBVdzNhX3RQN0s0SURwNFJKMmJ0MmNMX3VNREZFOVl3V3BiMWl6MU10RGdjX093Z1o0ei1ZdUxRY3pxYjVBOE1HdENRcmpYaktOTG54WW1WUDQ?oc=5",
-      "publishedAt": "2026-08-10T10:00:08+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-erling-haaland-all-goals-fifa-world-cup-2026-mason-greenwood-zmqugchvwg-mshale-com",
-      "title": "埃尔林·哈兰德 |所有目标| FIFA 世界杯 2026™ 梅森·格林伍德 (zMqUgchvwG) - mshale.com",
-      "summary": "埃尔林·哈兰德 |所有目标| FIFA 世界杯 2026™ 梅森·格林伍德 (zMqUgchvwG)  mshale.com",
-      "originalTitle": "Erling Haaland | All Goals | FIFA World Cup 2026™ Mason Greenwood (zMqUgchvwG) - mshale.com",
-      "originalSummary": "Erling Haaland | All Goals | FIFA World Cup 2026™ Mason Greenwood (zMqUgchvwG)  mshale.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAwQU5lSlYzU25vdnRadlhBZF9vRm9vWV9LSlVvR3I0TVdPaDg1Y1dLWFVmay1GejI4S2hudnhQZVVuQTVCYWZnOHZNNV9ERW1vdkE3YVhtVHlrRVk?oc=5",
-      "publishedAt": "2026-08-10T09:59:38+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-黄牌-serie-a2025-2026的juventus数据-fotmob",
-      "title": "黄牌 — Serie A2025/2026的Juventus数据 - FotMob",
-      "summary": "黄牌 — Serie A2025/2026的Juventus数据  FotMob",
-      "originalTitle": "黄牌 — Serie A2025/2026的Juventus数据 - FotMob",
-      "originalSummary": "黄牌 — Serie A2025/2026的Juventus数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNS2l4aFJaQkNUYWlsX2Nsd0ozODBCMzJIOFU1RkREcWo2TllXUjdiTmZhTEdhakNLMVZVcXZHeEdPQV9MNkg4U0V2U3dnbm96UW9Ja3RDbUZ0SWN6OUFTZ1ZpNEsxZ3ZBRi1mbEt6TDJuQ1ZEbHZZRndUbXVzUGxXbTRXdFp0TXBmX2RYUHRHNnhTSDNnYndSQWtjdnFPSWJTN0tEeEFpZWxwdFNYTVFpbmI0bFBvNXptWF9ES3N4YUQ1R055aXc?oc=5",
-      "publishedAt": "2026-08-10T09:53:11+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-uefa-concacaf-and-afc-accuse-fifa-of-deception-and-breach-of-trust-over-world-cup-plans-citynews-toronto",
-      "title": "欧足联、中北美洲及加勒比海足联和亚足联指责国际足联在世界杯计划上“欺骗”和“违反信任” - CityNews Toronto",
-      "summary": "欧足联、中北美洲及加勒比地区足联和亚足联指责国际足联在世界杯计划上“欺骗”和“违反信任” CityNews Toronto",
-      "originalTitle": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans - CityNews Toronto",
-      "originalSummary": "UEFA, CONCACAF and AFC accuse FIFA of 'deception' and 'breach of trust' over World Cup plans  CityNews Toronto",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZ3JPdmpjWmlvSGctUWNGeDdacWR5SmoyQ1pFd1NiWnVkX0lHR1BiR2VuM1hrY0pGYkw5eU13RzBvOGpydk5nWmd6dV9mMzZpLTZiUlhaVEVmV1RxQlU2REdpQlFFdlRsSG9ETC1sU05sc05KYWZ6d2VkcUZrZDAtOWxrTFpUY1pyQTBCbHMybmZ0SlJhVEZMX29pTTQ4dlZqUjUtY3lPZlRTWkw2bUs5QzZXWGZHeU91dlpwakZHT1BUT1I5enc?oc=5",
-      "publishedAt": "2026-08-10T09:07:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-10T09:00:20+00:00",
-      "heat": 52
     }
   ]
 }
