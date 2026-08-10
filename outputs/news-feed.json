@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-10T17:29:17.739159+00:00",
+  "updatedAt": "2026-08-10T18:27:30.090455+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-it-was-a-very-tough-period-somali-referee-omar-artan-opens-up-on-world-cup-heartbreak-as-he-prepares-to-make",
+      "title": "“这是一段非常艰难的时期”——索马里裁判奥马尔·阿尔坦在准备在欧洲超级杯上创造历史时谈到了世界杯的心碎 - Goal.com",
+      "summary": "“这是一段非常艰难的时期”——索马里裁判奥马尔·阿尔坦在准备在欧洲超级杯上创造历史时谈到了世界杯的心碎 Goal.com",
+      "originalTitle": "'It was a very tough period' - Somali referee Omar Artan opens up on World Cup heartbreak as he prepares to make history in UEFA Super Cup - Goal.com",
+      "originalSummary": "'It was a very tough period' - Somali referee Omar Artan opens up on World Cup heartbreak as he prepares to make history in UEFA Super Cup  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNNm5IQTdNUDdGbFVDWWp4ZktiTkJnSTJWbV9mZjJWem9SZnpFWTRicmxQMjdPNXhycWpJdGhvbXpUVWlmeEdkS0RKenFOaWVSaTFJQTNhWnVQQ045bUdNZUIwMERhZ3ZMNW5JZTZvNUtpYWoyQmtfWUpvYWllZThrVXJHeXN0Z1I1c1V0SWlGYi1wUVZWeXltbEJWMjUwV3FXUmdlWXRZVk5SM003blZYRjZGN1MxMUUwWVlUbw?oc=5",
+      "publishedAt": "2026-08-10T17:48:12+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-president-gianni-infantino-hails-ayyoub-bouaddi-morocco-world-news",
+      "title": "国际足联主席詹尼·因凡蒂诺赞扬阿尤布·布阿迪 - 摩洛哥世界新闻",
+      "summary": "国际足联主席詹尼·因凡蒂诺赞扬阿尤布·布阿迪 摩洛哥世界新闻",
+      "originalTitle": "FIFA President Gianni Infantino Hails Ayyoub Bouaddi - Morocco World News",
+      "originalSummary": "FIFA President Gianni Infantino Hails Ayyoub Bouaddi  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRDlwYjlsdFRBRV81Q2EtT3pIdmYweUsySHczVTdTY20zRTE2Mm1tMTUxSVZhem9WTFN3bHM1VEFtdUhPZkZocVRMQjlqNkVlUGYzVTR3NXZLTTFJbC1kUVBLLTA2bVhKUjhTU1VMTngyM3I2RDNTV0xnMjAxU0pBclB0V09SQzhHWE9NUGtXYjZRT18wZWFjUklzYXYzNF9YU0p3?oc=5",
+      "publishedAt": "2026-08-10T17:09:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-germany-s-jonathan-tah-on-his-missed-world-cup-penalty-bavarian-football-works",
+      "title": "德国队球员乔纳森·塔谈他错失世界杯点球 - Bavarian Football Works",
+      "summary": "德国队的乔纳森·塔 (Jonathan Tah) 谈他在世界杯上错失的点球 Bavarian Football Works",
+      "originalTitle": "Germany’s Jonathan Tah on his missed World Cup penalty - Bavarian Football Works",
+      "originalSummary": "Germany’s Jonathan Tah on his missed World Cup penalty  Bavarian Football Works",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREg2OUU3dnprYmRxLWt3aDJXWC1OSnd1cXhXTjlLekZFMGZneUZPdXUzaWYxcEI2N1pmWk9KREl0V1ZGdTFoV0lhdHFLeTVwemx1SWFzaWRlT1dkWHVFVGFRZ2dnbmVscFpQcGtDUWZqYXN6M0s4NVlRcndpeDFScWt1a2NKLXNZQzUyYm82bVhxSW94U1dqaGpDLTFVMzJ6M1pLeVdHUl93M0cwMnkzaXBoRHBkdEhhdjBqSHF0X2kwSWVneV80NW5pc3lkQQ?oc=5",
+      "publishedAt": "2026-08-10T17:00:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-barcelona-shock-psg-with-massive-ferran-torres-price-tag-as-spain-world-cup-hero-demands-summer-transfer-goa",
       "title": "西班牙世界杯英雄要求夏季转会，巴塞罗那以巨额费兰·托雷斯标价震惊巴黎圣日耳曼 - Goal.com",
@@ -44,27 +80,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-world-cup-co-hosts-us-and-canada-oppose-fifa-s-gianni-infantino-the-straits-times",
-      "title": "世界杯共同主办国美国和加拿大反对国际足联主席詹尼·因凡蒂诺 - 海峡时报",
-      "summary": "世界杯共同主办国美国和加拿大反对国际足联的詹尼·因凡蒂诺 - 海峡时报",
-      "originalTitle": "World Cup co-hosts US and Canada oppose FIFA’s Gianni Infantino - The Straits Times",
-      "originalSummary": "World Cup co-hosts US and Canada oppose FIFA’s Gianni Infantino  The Straits Times",
+      "id": "google-news-world-cup-co-hosts-us-and-canada-back-statement-criticising-infantino-vanguardngr-com",
+      "title": "世界杯联合主办国美国和加拿大回应批评因凡蒂诺的声明 - vanguardngr.com",
+      "summary": "世界杯联合主办国美国和加拿大回应批评因凡蒂诺的声明 vanguardngr.com",
+      "originalTitle": "World Cup co-hosts US and Canada back statement criticising Infantino - vanguardngr.com",
+      "originalSummary": "World Cup co-hosts US and Canada back statement criticising Infantino  vanguardngr.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQWmlGYUo1WVIzZ1daWmUtdktpdzRQcERqTUdRMVZ0TVJZTWlhNGFrOUJrVFc4d3FBd1FJUXctQ0pia01McmdiM0l3VURGcEhiaGpnREI0akpQZ0ZVYXhCd0NUbXY3T0R5eGZheGxCTnNXNXZqWG5ULVlNeDFWcnN6VjFvd2tTS05tam13Q2QtNmYzMThyRk5yVHYzYVQ3OXBDVTI4T1V5eWJUdw?oc=5",
-      "publishedAt": "2026-08-10T16:33:09+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSFBDWm16Zjdaa3JFbFBHUGZSRXktN1UyZ0dQWVRTZlRVUDZGakdtbVR5cHVzSVMzTHM0VDdMc2Q0RjUwUXNLLTBnN00tSk1jdVJxTUFuMS1VX1dYODdjMmdfZzBjdmlRdjRRYjIzSFFVMVY1aFptbXpDT0ZZU1haaWNFbk1ELUZmcGxFRDhjWVJtX2h1N0tVcTNiMWJ2VThCVWl4SXJjWEx1QdIBrwFBVV95cUxQazYzUnFmM1ozdXJGOTRUdGJRTUt0ZVo0eW9sMGhScElRQUJUbjMtSGtCLTU3cXZMdmdVQ3N5WWExQW1pU1M3cFJoWVdhNjN6NEh0a3U4c0xsbEZKdE8zRHJPNUNjTF8xNEJ1OHI5VndYUjJ2UDBQRk1zR3lqTTdlQmhPbnpWeEswTlhvenRIWGtGZEpwbDZpMkFzNkw0bHYwbWJQV2VjQ0ZnRXJ6bnA4?oc=5",
+      "publishedAt": "2026-08-10T16:43:38+00:00",
+      "heat": 52
     },
     {
-      "id": "google-news-world-cup-co-hosts-us-and-canada-oppose-infantino-jamaica-observer",
-      "title": "世界杯共同主办国美国和加拿大对阵因凡蒂诺 - 牙买加观察家",
-      "summary": "世界杯联合主办国美国和加拿大对阵因凡蒂诺 牙买加观察家",
-      "originalTitle": "World Cup co-hosts US and Canada oppose Infantino - Jamaica Observer",
-      "originalSummary": "World Cup co-hosts US and Canada oppose Infantino  Jamaica Observer",
+      "id": "google-news-barcelona-reject-first-offer-psg-poker-over-spanish-world-cup-hero-enters-crucial-phase-goal-com",
+      "title": "巴萨拒绝第一份报价！巴黎圣日耳曼扑克大战西班牙世界杯英雄进入关键阶段 Goal.com",
+      "summary": "巴萨拒绝第一份报价！巴黎圣日耳曼扑克大战西班牙世界杯英雄进入关键阶段 Goal.com",
+      "originalTitle": "Barcelona reject first offer! PSG poker over Spanish World Cup hero enters crucial phase - Goal.com",
+      "originalSummary": "Barcelona reject first offer! PSG poker over Spanish World Cup hero enters crucial phase  Goal.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOTnNhVzVtYWtXOVdpT0ZXMkdhbkpaZ2tiSVdnQXJYNE9yek5tVDF2ejFfaldMOXlRZ1JETkZBd0U2a3hMTEF0a0pacjUzNDBnMkY1VnhKcmVlVDN0aHhueDBaNUtnSFZZVVg2RFZLbno1d2NRTEo3blZqR2JfZU9tQ2tVajc0UXRsa2JlTjBuWVZGU00?oc=5",
-      "publishedAt": "2026-08-10T16:28:18+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdGowNnBNblotbVZhZk9PN0VQbzZPeFl6eVBGeVlPWk9vbXhidS12LVlEeWJWRlIySmtrLXZueEVQYkpUQTNqWUpsU01JMERVSk9maU9ZWTRtbllTLU5nMGlDVlY4QVlnSVFkOGIwdE5BU0tpX0lUYWRVem1OVVFncEJ1V2tWMUpKZTRMWEw1M2VPaFpWY04yQnhOQUJGRHdHYTQ3ZHhId1JfQk1WbVVoRExTZWs5Wnk4VkZqNzFJTlpfTFIwcjlNR3ZJRDA3V1llSWtrSjE5Z1ZFQQ?oc=5",
+      "publishedAt": "2026-08-10T16:18:58+00:00",
       "heat": 52
     },
     {
@@ -92,9 +128,33 @@
       "heat": 44
     },
     {
+      "id": "google-新闻-中文-平均控球率-bundesliga2026-2027的salzburg数据-fotmob",
+      "title": "平均控球率 — Bundesliga2026/2027的Salzburg数据 - FotMob",
+      "summary": "平均控球率 — Bundesliga2026/2027的Salzburg数据  FotMob",
+      "originalTitle": "平均控球率 — Bundesliga2026/2027的Salzburg数据 - FotMob",
+      "originalSummary": "平均控球率 — Bundesliga2026/2027的Salzburg数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQTF9GYTRJVkVxUXI5MDlqdDFMQ21EUENCRXh6dXFUUmczMXlmSnMzZ3lnOHluV2N0Um5WcmYwaUx0dFJTaTBrUklkQlBTT05XSXluVHJhaFlPR3hObm1pN3pNSTZJTk11Y2JtSk03OUtsempHaHF3T19kT2JXT0RmTUM4VHlwbkNJS0JhUDM4WV84VHVFV3JwNG1ucGctU0l5aWJfTkRBbkQwMWpmd1ZpSVVUVjBIUVFVTi1SMWN2bHNxNGtSN29hVWRyejJFSXdKSWVjNmtHSUFHZmVvdzlNczhRWEVQQQ?oc=5",
+      "publishedAt": "2026-08-10T15:48:49+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-10T15:44:57+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-gianni-infantino-fifa-under-fire-amid-criticism-in-open-letter-from-3-confederations-yahoo-sports",
       "title": "贾尼·因凡蒂诺，国际足联因三个联合会的“公开信”批评而受到抨击 - 雅虎体育",
-      "summary": "贾尼·因凡蒂诺 (Gianni Infantino)，国际足联因三个联合会的“公开信”批评而受到抨击 雅虎体育",
+      "summary": "詹尼·因凡蒂诺 (Gianni Infantino)，国际足联因三个联合会的“公开信”批评而受到抨击 雅虎体育",
       "originalTitle": "Gianni Infantino, FIFA under fire amid criticism in ‘open letter’ from 3 confederations - Yahoo Sports",
       "originalSummary": "Gianni Infantino, FIFA under fire amid criticism in ‘open letter’ from 3 confederations  Yahoo Sports",
       "translation": "online",
@@ -105,8 +165,8 @@
     },
     {
       "id": "google-news-fifa-world-cup-2026-results-table-standings-fifa-world-cup-stats-group-a-l-matchday-6-arthur-fils-2wahnvyxeq",
-      "title": "FIFA 世界杯 2026 - 赛果和积分榜 |国际足联世界杯统计 | A 组 - L 比赛日 6 Arthur Fils (2wAhnvyxeQ) - Mshale",
-      "summary": "FIFA 世界杯 2026 - 赛果和积分榜 |国际足联世界杯统计 | A 组 - L 比赛日 6 Arthur Fils (2wAhnvyxeQ) Mshale",
+      "title": "2026 年 FIFA 世界杯 - 赛果和积分榜 |国际足联世界杯统计 | A 组 - L 比赛日 6 Arthur Fils (2wAhnvyxeQ) - Mshale",
+      "summary": "2026 年 FIFA 世界杯 - 赛果和积分榜 |国际足联世界杯统计 | A 组 - L 比赛日 6 Arthur Fils (2wAhnvyxeQ) Mshale",
       "originalTitle": "FIFA World Cup 2026 - Results & Table Standings | Fifa World Cup Stats | Group A - L Matchday 6 Arthur Fils (2wAhnvyxeQ) - Mshale",
       "originalSummary": "FIFA World Cup 2026 - Results & Table Standings | Fifa World Cup Stats | Group A - L Matchday 6 Arthur Fils (2wAhnvyxeQ)  Mshale",
       "translation": "online",
@@ -118,7 +178,7 @@
     {
       "id": "google-news-joint-statement-rocks-fifa-continental-federation-presidents-level-shocking-accusation-at-infantino-goal-com",
       "title": "联合声明震动国际足联：洲际联合会主席对因凡蒂诺提出令人震惊的指控 Goal.com",
-      "summary": "联合声明震动国际足联：大陆足联主席对因凡蒂诺提出令人震惊的指控 Goal.com",
+      "summary": "联合声明震惊国际足联：大陆足协主席对因凡蒂诺提出令人震惊的指控 Goal.com",
       "originalTitle": "Joint statement rocks FIFA: continental federation presidents level shocking accusation at Infantino - Goal.com",
       "originalSummary": "Joint statement rocks FIFA: continental federation presidents level shocking accusation at Infantino  Goal.com",
       "translation": "online",
@@ -140,6 +200,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-2026-fifa-world-cup-spain-dominates-france-advances-to-world-cup-final-tassi-bce-33oq6foosx-mshale",
+      "title": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX) - Mshale",
+      "summary": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX)  Mshale",
+      "originalTitle": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Tassi Bce (33oQ6foOsX) - Mshale",
+      "originalSummary": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Tassi Bce (33oQ6foOsX)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBvQUIyVlFpWjRjRS0wMHBMQUxmVmVHa1E5QUc0ZmdKdFZ6YkRrelQ0dUpPV3QyVDczZnI1TVdWWkpxSUltd21Jbm1tMEdyeXRNNWktRFBTdF81RTg?oc=5",
+      "publishedAt": "2026-08-10T14:48:27+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-every-jude-bellingham-goal-for-england-fifa-world-cup-2026-mixtape-game-nintendo-switch-lttco5napj-mshale",
       "title": "裘德·贝林厄姆为英格兰队打进的每一个进球FIFA 世界杯 2026™ Mixtape 游戏 Nintendo Switch (LtTco5napj) - Mshale",
       "summary": "裘德·贝林厄姆为英格兰队打进的每一个进球FIFA 世界杯 2026™ Mixtape 游戏 Nintendo Switch (LtTco5napj)  Mshale",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE90cFBVSUptX1BVcGZxM1RUWGx1UmV1dGxSTGwtQkxQTHk5NjRBMVhMdm5VSS1oaWhZakJ5MHNkc29scy1NOFFDaHFmUHM5LWhXWThBM0tqV2JiQ0E?oc=5",
       "publishedAt": "2026-08-10T14:48:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ishowspeed-mexico-vs-south-korea-2026-highlights-2026-fifa-world-cup-cadenasso-dwv64mceye-mshale",
-      "title": "IShowSpeed 墨西哥 vs 韩国 2026 年精彩集锦 | 2026 年 FIFA 世界杯™ 卡德纳索 (dWV64mCeye) - Mshale",
-      "summary": "IShowSpeed 墨西哥 vs 韩国 2026 年精彩集锦 | 2026 年 FIFA 世界杯™ 卡德纳索 (dWV64mCeye)  Mshale",
-      "originalTitle": "IShowSpeed Mexico Vs South Korea 2026 Highlights | 2026 FIFA World Cup™ Cadenasso (dWV64mCeye) - Mshale",
-      "originalSummary": "IShowSpeed Mexico Vs South Korea 2026 Highlights | 2026 FIFA World Cup™ Cadenasso (dWV64mCeye)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1jbWl0N2dWaUFpRkZzQi1oTGV1RmdxZURqeTJ6UVFaOGV5bU1ublg4cHRFVG5UdEFOSW1Pdkg1Zzc2OXhUR0hjSkFxZFRxQzhucDVDV1VETlpNOW8?oc=5",
-      "publishedAt": "2026-08-10T14:48:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-france-vs-morocco-live-fifa-world-cup-2026-full-match-streaming-fc-26-gameplay-simulation-jalen-williams-rea",
-      "title": "法国对阵摩洛哥直播| 2026 年国际足联世界杯 |完整比赛直播 | FC 26 游戏模拟 Jalen Williams (ReA39i55TD) - Mshale",
-      "summary": "法国对阵摩洛哥直播| 2026 年国际足联世界杯 |完整比赛直播 | FC 26 游戏模拟 Jalen Williams (ReA39i55TD)  Mshale",
-      "originalTitle": "France Vs Morocco LIVE | FIFA World Cup 2026 | Full Match Streaming | FC 26 Gameplay Simulation Jalen Williams (ReA39i55TD) - Mshale",
-      "originalSummary": "France Vs Morocco LIVE | FIFA World Cup 2026 | Full Match Streaming | FC 26 Gameplay Simulation Jalen Williams (ReA39i55TD)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5tUFJmR2RpeVhONzlvbFJpekVFT0JqR08yYlpmNXBOTlR4ZnVLTmhtbG5aNzllREtla1VMZlN1Q19Pc0RwMkc3TWpIOGRYM0hZWFdNT3BNZEZVVzg?oc=5",
-      "publishedAt": "2026-08-10T14:48:27+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
-      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
-      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
-      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
-      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
-      "publishedAt": "2026-08-10T14:44:43+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-germany-s-jonathan-tah-on-his-missed-world-cup-penalty-bavarian-football-works",
-      "title": "德国队球员乔纳森·塔谈他错失世界杯点球 - Bavarian Football Works",
-      "summary": "德国队的乔纳森·塔 (Jonathan Tah) 谈他错失世界杯点球巴伐利亚足球作品",
-      "originalTitle": "Germany’s Jonathan Tah on his missed World Cup penalty - Bavarian Football Works",
-      "originalSummary": "Germany’s Jonathan Tah on his missed World Cup penalty  Bavarian Football Works",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOREg2OUU3dnprYmRxLWt3aDJXWC1OSnd1cXhXTjlLekZFMGZneUZPdXUzaWYxcEI2N1pmWk9KREl0V1ZGdTFoV0lhdHFLeTVwemx1SWFzaWRlT1dkWHVFVGFRZ2dnbmVscFpQcGtDUWZqYXN6M0s4NVlRcndpeDFScWt1a2NKLXNZQzUyYm82bVhxSW94U1dqaGpDLTFVMzJ6M1pLeVdHUl93M0cwMnkzaXBoRHBkdEhhdjBqSHF0X2kwSWVneV80NW5pc3lkQQ?oc=5",
-      "publishedAt": "2026-08-10T14:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-president-gianni-infantino-accused-of-deception-as-uefa-concacaf-and-afc-launch-sensational-joint-attac",
-      "title": "欧足联、中北美及加勒比地区足联和亚足联发起耸人听闻的联合攻击，国际足联主席因凡蒂诺被指“欺骗” - Goal.com",
-      "summary": "欧足联、中北美及加勒比地区足联和亚足联发起耸人听闻的联合攻击，国际足联主席因凡蒂诺被指控“欺骗” Goal.com",
-      "originalTitle": "FIFA president Gianni Infantino accused of 'deception' as UEFA, CONCACAF, and AFC launch sensational joint attack - Goal.com",
-      "originalSummary": "FIFA president Gianni Infantino accused of 'deception' as UEFA, CONCACAF, and AFC launch sensational joint attack  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdWt3TnZNRG5EenNiOFdVWnFESnVRWDRXU1BOWEZiNklLX1RuaFdmTTBUM3JNRXlYNFgtUFBabkYtU2E5YUZmMFlrYVRneU10MTFGZlNMOGgtZExTRV9DZ0M5dzg4VElYVVB0dlVTVkFQeWNNYmlIWi1hdmpSRkVGd3duemNUWWlLZnZWUndiU0czV0J3Z0E2eHIxbHdkOUxzSnFfemVMN1NQUm9lTUw2TUtR?oc=5",
-      "publishedAt": "2026-08-10T13:43:02+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-france-defeat-norway-4-1-to-top-group-i-in-fifa-world-cup-2026-news-on-air",
-      "title": "2026 年世界杯第一组法国队 4-1 战胜挪威 - News On AIR",
-      "summary": "2026 年 FIFA 世界杯法国队以 4-1 击败挪威队，夺得第一组冠军",
-      "originalTitle": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026 - News On AIR",
-      "originalSummary": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026  News On AIR",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmpxLTdTV3Bja0R4SENIOHA3SmlzLVBFMXFlY0RLLVM5Mk5ySThPeFBaVGstQmRucUV1V3ZzM2FreklQMWxxTVdrdVdtVV8xMkJmTUJ0QlBfbXNaaHJQZXRtdmprTTdEMXlxalJYTTV4aHo2VXZnejJBeTVzUjhwdGxCc2hVbm1Kc083OXNfUS02dw?oc=5",
-      "publishedAt": "2026-08-10T13:34:29+00:00",
       "heat": 60
     }
   ]
