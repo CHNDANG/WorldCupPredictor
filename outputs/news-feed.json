@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-11T18:29:38.846099+00:00",
+  "updatedAt": "2026-08-11T19:40:58.618080+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,76 @@
   ],
   "articles": [
     {
-      "id": "google-news-trump-voices-support-for-fifa-president-infantino-fox-sports-radio",
-      "title": "特朗普表示支持国际足联主席因凡蒂诺 - 福克斯体育电台",
-      "summary": "特朗普表示支持国际足联主席因凡蒂诺 福克斯体育电台",
-      "originalTitle": "Trump Voices Support For FIFA President Infantino - FOX Sports Radio",
-      "originalSummary": "Trump Voices Support For FIFA President Infantino  FOX Sports Radio",
+      "id": "google-news-lionel-messi-was-subjected-to-multiple-assassination-threats-during-the-world-cup-according-to-fbi-report-br",
+      "title": "FBI 报告称梅西在世界杯期间多次遭受暗杀威胁 - BroBible",
+      "summary": "据美国联邦调查局 (FBI) 报告，莱昂内尔·梅西 (Lionel Messi) 在世界杯期间多次遭受暗杀威胁",
+      "originalTitle": "Lionel Messi Was Subjected To Multiple Assassination Threats During The World Cup, According To FBI Report - BroBible",
+      "originalSummary": "Lionel Messi Was Subjected To Multiple Assassination Threats During The World Cup, According To FBI Report  BroBible",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTERkX2VYbUJHRjJHR2NYVl9iZU9ubVk3anZ4X0pfZFlJX0t1dFBqY19ORklSSV9qRWJyR1ZRb3dnRW8xMGpKWmhUcXNVMEh5WEVQX1hoQUxBcGx5RXUyTUc3OXJWS1o5SUhESkNqR3plUGZ5ZDRNRjNnaGJDRkd4ZjV2WE10blloRXJnbTBCeUo3cU1MSzlZVloxMnRCYzJybjBOZHB3?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR29HSGpCRlBFRXFQS1EybTFQdk1YNllJdnZKOFhhaGxucWpzNmlvcG53Mm5FaGFKMThyUmRXdWpodVZIbENCVkxMbHA0RTBmem5KSm96YjFwOVQxNUlJVkxuaU14UHdHSzJSb3FQc3EtUVpYY3U4UUlFdDgydmpoRkcwWkRkVUVtTjlwMzd3?oc=5",
+      "publishedAt": "2026-08-11T18:54:02+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-omar-artan-set-to-referee-uefa-super-cup-after-fifa-world-cup-setback-sportscape-magazine",
+      "title": "世界杯受挫后，奥马尔·阿尔坦将担任欧洲超级杯裁判 - Sportscape 杂志",
+      "summary": "奥马尔·阿尔坦 (Omar Artan) 在 FIFA 世界杯受挫后将担任欧洲超级杯裁判 Sportscape 杂志",
+      "originalTitle": "Omar Artan Set To Referee UEFA Super Cup After FIFA World Cup Setback - Sportscape Magazine",
+      "originalSummary": "Omar Artan Set To Referee UEFA Super Cup After FIFA World Cup Setback  Sportscape Magazine",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZC1BWjR4ZGhQMzFXNURJWloxQmF5VFFwNWxjNUk5eU15czdxdE5raUc1Q3F0dkc4UFZDdFN6V0NaSlR3WHF4RDUxUVJOeGg3eFRJRllfYWtQMkdRazJqVUZyVWVCQXRVbWxhYS14TnR1MDRZOS1jbDdKTFBaeDc0WUFRbmM4cUI3Z2xlOVdB?oc=5",
+      "publishedAt": "2026-08-11T18:42:58+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-the-u-s-u-19-mnt-secured-a-fifa-world-cup-berth-us-soccer",
+      "title": "美国 U-19 MNT 如何获得 FIFA 世界杯席位 - 美国足球",
+      "summary": "美国 U-19 MNT 如何获得 FIFA 世界杯席位 US Soccer",
+      "originalTitle": "How the U.S. U-19 MNT Secured a FIFA World Cup Berth - US Soccer",
+      "originalSummary": "How the U.S. U-19 MNT Secured a FIFA World Cup Berth  US Soccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSzVYS2pMS09Fd2FadGtCYkxUbGhTR0I2V25SeEFweU13Rk9YV05yTWF3UjBLb3F3S0tUaHFPWGdrN1JmamVPZkxUOTZwU2dWT0tKdXBxdDBWeEJnOHRMd1F1WlFHUE02b1FiWi1SRWhTXzVXQmdVWWlUYjlkaDRHZTBSOU5HNV9ZTFd2RWdpaWpEMWtkaWxfYWtmazZsaXNTZlJQb1dXNmN2MzZocnl3WTJXR091bUtCVkJHZ290bDdrY2E2?oc=5",
+      "publishedAt": "2026-08-11T18:30:32+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-messi-faced-terror-threats-during-fifa-world-cup-2026-report-the-business-standard",
+      "title": "梅西在 2026 年 FIFA 世界杯期间面临恐怖威胁：报告 - The Business Standard",
+      "summary": "梅西在 2026 年国际足联世界杯期间面临恐怖威胁：报告《商业标准》",
+      "originalTitle": "Messi faced terror threats during Fifa World Cup 2026: Report - The Business Standard",
+      "originalSummary": "Messi faced terror threats during Fifa World Cup 2026: Report  The Business Standard",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPZU8taE9kaXZRa2VHWmxfTlRoQTJYb2R5MnlxQ0lDY3NuLUxIOXlabkVIbVVSa1hpLTgyRWM4NXZxQzkwY09lZlR2Z0pHdWFxWnFnbTdBTVNFYmRXSXhkQlhsRXYwT2M4QVRYSnlyR2V3Qk00N01US3dkeE9lRXRBNW9IWkV6bmlZekgzcUstZlZIcUNjaUVoeVNaZ2NsaXdHOEhv0gGoAUFVX3lxTE00NjhxaFoyZDlJN0pielRQby1QZnN4WGpqUDhTQTBtd1FodzRpUWc1VXdvSk82QVlCeDlVS21CUEFIOTJlY3NVaHdoaTNhNVZ3cjBQcVl1ZVFReWZCd0JmU1FseXh0RXhwVkhuQ1g2VmIxNUp5aU1kYUpjODdiVEhPMk9rRXBuS2tLc2dTNThXM0pQM3V0TWplS01WMnluZTFGVVJoeGtPbA?oc=5",
+      "publishedAt": "2026-08-11T17:57:17+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-trump-voices-support-for-fifa-president-infantino-wbz-newsradio-1030",
+      "title": "特朗普表示支持国际足联主席因凡蒂诺 - WBZ NewsRadio 1030",
+      "summary": "特朗普表示支持国际足联主席因凡蒂诺 WBZ NewsRadio 1030",
+      "originalTitle": "Trump Voices Support For FIFA President Infantino - WBZ NewsRadio 1030",
+      "originalSummary": "Trump Voices Support For FIFA President Infantino  WBZ NewsRadio 1030",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNeWQ4cUtVcnV5RjluRklJQUVONVI3VndONzFuY0tGbURfWDNOQi1ENmRZRU5lVklGdExwM3hnUzNPVXR5NkNCdjNzMUdqaTRMNjhTR0t4a1RESTRsU0FTeWFzeGptRV95U3BoOUYwdnh3NDEzdG9HXzRnOWpKb29qOTltZFY2WUh1TDQtMGJaaVRXVFQwNHI1QTZNMVhaSnRxSVdn?oc=5",
       "publishedAt": "2026-08-11T17:52:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-brendan-aaronson-reacts-to-his-2026-fifa-world-cup-roster-selection-courier-post",
+      "title": "布伦丹·阿伦森对 2026 年 FIFA 世界杯名单选择的反应 - Courier-Post",
+      "summary": "布伦丹·阿伦森 (Brendan Aaronson) 对 2026 年 FIFA 世界杯名单选择的反应",
+      "originalTitle": "Brendan Aaronson reacts to his 2026 FIFA World Cup roster selection - Courier-Post",
+      "originalSummary": "Brendan Aaronson reacts to his 2026 FIFA World Cup roster selection  Courier-Post",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE14ZmFPSjR3ZWx1WWZiakJOUmhDeWUxa0NBd04zaHI0OV83OU4tVVExc2VOVmRhcWFHYXhkYktNS0FGMndtR0t3bXBFMmF5WlhyaVQwUXRIbDFPRUR1Ym5sZTF3Sk04X04xYUE?oc=5",
+      "publishedAt": "2026-08-11T17:41:13+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-somali-ref-denied-us-entry-for-world-cup-in-charge-of-uefa-super-cup-usa-today",
@@ -44,6 +104,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-portugal-vs-spain-live-watchalong-round-of-16-2026-fifa-world-cup-strait-of-hormuz-negotiations-n559vufidh-m",
+      "title": "葡萄牙 vs 西班牙 |现场观看| 16 强 | 2026 年 FIFA 世界杯霍尔木兹海峡谈判 (n559VUFIdH) - Mshale",
+      "summary": "葡萄牙 vs 西班牙 |现场观看| 16 强 | 2026 年 FIFA 世界杯霍尔木兹海峡谈判 (n559VUFIdH)  Mshale",
+      "originalTitle": "Portugal Vs Spain | Live Watchalong | Round Of 16 | 2026 FIFA World Cup Strait Of Hormuz Negotiations (n559VUFIdH) - Mshale",
+      "originalSummary": "Portugal Vs Spain | Live Watchalong | Round Of 16 | 2026 FIFA World Cup Strait Of Hormuz Negotiations (n559VUFIdH)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rRTh3OEFqdkotUXAzaFJyV3g5ZGxJT2JUTFBfUHgtbVlPNmk4NmotU21yUHJUN25LXzBsQ0lVVUhwSVpZVXJWTUZaLVpSMFczWU9QMklLSUxza2NHR1ZPag?oc=5",
+      "publishedAt": "2026-08-11T16:14:32+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-what-goalkeeper-gloves-did-unai-simón-wear-during-spain-s-2026-fifa-world-cup-victory-nfl-draft-diamonds",
       "title": "乌奈·西蒙 (Unai Simón) 在西班牙夺得 2026 年 FIFA 世界杯胜利期间佩戴的是什么守门员手套？ - NFL 钻石选秀",
       "summary": "乌奈·西蒙 (Unai Simón) 在西班牙夺得 2026 年 FIFA 世界杯胜利期间佩戴的是什么守门员手套？  NFL 钻石选秀",
@@ -57,10 +129,10 @@
     },
     {
       "id": "google-news-time-is-running-out-and-nerves-are-frayed-a-video-that-sums-up-the-state-of-spain-s-players-in-the-final-min",
-      "title": "时间紧迫，神经紧张：一段视频总结了西班牙球员在世界杯最后几分钟的状态 - Goal.com",
-      "summary": "时间紧迫，神经紧张：总结西班牙球员在世界杯最后几分钟状态的视频 Goal.com",
-      "originalTitle": "Time is running out and nerves are frayed: a video that sums up the state of Spain's players in the final minutes at the World Cup - Goal.com",
-      "originalSummary": "Time is running out and nerves are frayed: a video that sums up the state of Spain's players in the final minutes at the World Cup  Goal.com",
+      "title": "时间紧迫，神经紧张：一段视频总结了西班牙球员在世界杯最后几分钟的状态 - goal.com",
+      "summary": "时间不多了，神经也紧张：这段视频总结了西班牙球员在世界杯最后几分钟的状态 goal.com",
+      "originalTitle": "Time is running out and nerves are frayed: a video that sums up the state of Spain's players in the final minutes at the World Cup - goal.com",
+      "originalSummary": "Time is running out and nerves are frayed: a video that sums up the state of Spain's players in the final minutes at the World Cup  goal.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxQR0t4Y0xYSVR6MGI2QW8zU3JTSGZjVUJNZHhNS3RnNTZFa00xUXVLRDVKYkdIMnIwQ2ZCMUlHNnJhTTd6aU40dXNvdlp1Z2VIMU1USER2Y2JsMjNpNHpkd0lHUGtIRERVOWhrcWViZkJoLWI1a3A2bE5yWHpaVVUwclZ2c2tUSWNsSW5PODZhS0RGVnlhNDc1LVRLazFHM1phUzBnWUVJSkRBclo5a3NHSkxHWXl2anpTd09jQjlSTkhISG1hZHZmcmVZQUx6U0NoYW5Lblg5bm9RZ0lTWXhDcmF5WHlrU1dLRUxONFJpTjB1dFdzb044T3JvLUlBdXdxeTNrTVh0Q2c4QQ?oc=5",
@@ -68,11 +140,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-somali-referee-gets-uefa-super-cup-assignment-after-world-cup-exclusion-garowe-online",
-      "title": "索马里裁判在世界杯被排除在外后获得了欧洲超级杯的任命 - Garowe Online",
-      "summary": "索马里裁判在世界杯被排除在外后获得了欧洲超级杯的任命 Garowe Online",
-      "originalTitle": "Somali referee gets UEFA Super Cup assignment after World Cup exclusion - Garowe Online",
-      "originalSummary": "Somali referee gets UEFA Super Cup assignment after World Cup exclusion  Garowe Online",
+      "id": "google-news-somali-referee-gets-uefa-super-cup-assignment-after-world-cup-exclusion-garoweonline-com",
+      "title": "索马里裁判在世界杯被排除在外后获得欧洲超级杯的任命 - garoweonline.com",
+      "summary": "索马里裁判在世界杯被排除在外后获得了欧洲超级杯的任命 garoweonline.com",
+      "originalTitle": "Somali referee gets UEFA Super Cup assignment after World Cup exclusion - garoweonline.com",
+      "originalSummary": "Somali referee gets UEFA Super Cup assignment after World Cup exclusion  garoweonline.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQWUMwSEtDckxSWW9lc3p4a3pHOXRQQkR3RW4taTdWVGRlNENxV0hFX2ZpOEdjaFVrX0JoRmI4Z1E3aGdhUVp1WGV2aW4zMlY1Sm9rTElKTzlVQUFfSlpMU0N6ZkZDU1l4NnRoWTl0dmNpQ3dqRFFiLXFydUtRTUw0U21fT3lRUWZzeWNMUmVLYldJZ0NVc0VFT0RLVzZsOFo0bVdaSGFsQ2VpdUVKTVdoSXNjalVEb2s?oc=5",
@@ -104,30 +176,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-canada-vs-bosnia-herzegovina-2026-fifa-world-cup-group-b-matchday-1-match-prediction-southampton-middlesbrou",
-      "title": "加拿大 vs 波斯尼亚和黑塞哥维那 | 加拿大2026 年 FIFA 世界杯 - B 组 - 第 1 轮 |比赛预测 南安普顿 - 米德尔斯堡 (AEjgVP9hot) - Mshale",
-      "summary": "加拿大 vs 波斯尼亚和黑塞哥维那 | 加拿大2026 年 FIFA 世界杯 - B 组 - 第 1 轮 |比赛预测 南安普顿 - 米德尔斯堡 (AEjgVP9hot)  Mshale",
-      "originalTitle": "Canada Vs Bosnia & Herzegovina | 2026 FIFA World Cup - Group B - Matchday 1 | Match Prediction Southampton - Middlesbrough (AEjgVP9hot) - Mshale",
-      "originalSummary": "Canada Vs Bosnia & Herzegovina | 2026 FIFA World Cup - Group B - Matchday 1 | Match Prediction Southampton - Middlesbrough (AEjgVP9hot)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TOUVqMjY5N1V3TUx0VU02RkRuYTRvRmNhaEJuXzFoTWIxWUtzSWZCSU1kbUdCNjM3MmliOExTNjR6endYZmNKajJEcjBmY3U3QWRvRjl2ZFhybW8?oc=5",
-      "publishedAt": "2026-08-11T14:37:41+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-morocco-crush-canada-3-0-to-reach-fifa-world-cup-2026-quarter-finals-hakimi-n18g-rod-stewart-nuvyxj2or4-msha",
-      "title": "摩洛哥3-0加拿大晋级2026年世界杯四分之一决赛 |哈基米| N18G 罗德·斯图尔特 (nUvyXJ2OR4) - Mshale",
-      "summary": "摩洛哥3-0加拿大晋级2026年世界杯四分之一决赛 |哈基米| N18G 罗德·斯图尔特 (nUvyXJ2OR4)  Mshale",
-      "originalTitle": "Morocco Crush Canada 3-0 To Reach FIFA World Cup 2026 Quarter-Finals | Hakimi | N18G Rod Stewart (nUvyXJ2OR4) - Mshale",
-      "originalSummary": "Morocco Crush Canada 3-0 To Reach FIFA World Cup 2026 Quarter-Finals | Hakimi | N18G Rod Stewart (nUvyXJ2OR4)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBMNC1WbEwwTWpQNWhqaWNNV19JZHUxV25HbDFrZmxHcXlsWU9Md2JQZzBXVlJNM1pzSGNOanJaX1ZoeWd4OFVqcFFBTVVWdFJMWm1qZW9jaDEzbkphUUN0Vg?oc=5",
-      "publishedAt": "2026-08-11T14:25:50+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-switzerland-advances-to-fifa-world-cup-2026-quarter-finals-the-news-mill",
       "title": "瑞士晋级 2026 年世界杯四分之一决赛 - The News Mill",
       "summary": "瑞士晋级 2026 年 FIFA 世界杯四分之一决赛 The News Mill",
@@ -153,27 +201,15 @@
     },
     {
       "id": "google-news-after-the-events-of-the-argentina-match-at-the-world-cup-fifa-punishes-egypt-s-coach-goal-com",
-      "title": "世界杯阿根廷队事件后：国际足联惩罚埃及教练 - Goal.com",
-      "summary": "世界杯阿根廷队比赛事件后：国际足联处罚埃及教练 Goal.com",
-      "originalTitle": "After the events of the Argentina match at the World Cup: FIFA punishes Egypt's coach - Goal.com",
-      "originalSummary": "After the events of the Argentina match at the World Cup: FIFA punishes Egypt's coach  Goal.com",
+      "title": "世界杯阿根廷队比赛事件后：国际足联惩罚埃及教练 - goal.com",
+      "summary": "世界杯阿根廷队比赛事件后：国际足联处罚埃及教练 goal.com",
+      "originalTitle": "After the events of the Argentina match at the World Cup: FIFA punishes Egypt's coach - goal.com",
+      "originalSummary": "After the events of the Argentina match at the World Cup: FIFA punishes Egypt's coach  goal.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOWVh3SnpaTWVYWk1CSHFYMFlmTngzMjVfSlN5NjBYd0EtU3BIbi05VlpZdjVFQTJBMmRoSHlFMy02WE92TU9xMkxzcm1BeVZwQ1UzZ01TbTFvSGFJUVJNbFhPQnAwY0I2NzdNNUszNWxCQkhvQWZWX29yTjhKb3hkcmpvSFF3Nno4M0dDYVJGQWJGWmFud0kzNlZoNldnOUpPdW4wSUt3SjBtc3EyZjFJU2NPWFFsN2ZjYlVPMUdvUFFBM0hJekpObg?oc=5",
       "publishedAt": "2026-08-11T14:05:38+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-why-turkey-will-shock-the-2026-fifa-world-cup-nobody-is-talking-about-this-clive-owen-hjdpvmwlfk-mshale",
-      "title": "为什么土耳其将震撼 2026 年 FIFA 世界杯（没人谈论这个）Clive Owen (HjDPvMWlFk) - Mshale",
-      "summary": "为什么土耳其将震惊 2026 年 FIFA 世界杯（没人谈论此事）Clive Owen (HjDPvMWlFk)  Mshale",
-      "originalTitle": "Why Turkey Will SHOCK The 2026 FIFA World Cup (Nobody Is Talking About This) Clive Owen (HjDPvMWlFk) - Mshale",
-      "originalSummary": "Why Turkey Will SHOCK The 2026 FIFA World Cup (Nobody Is Talking About This) Clive Owen (HjDPvMWlFk)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBGWU1iQjRKUVgyQ2NDaEVEM0NnYzdsNjA0RXRjWVRhNndwbzdzRjJZaDJSSnBsTC04cFJJbHlway1ic2wtNWo4cWpmT1ZySTZ3QkdJUndqUjJkNjA?oc=5",
-      "publishedAt": "2026-08-11T13:48:46+00:00",
-      "heat": 68
     },
     {
       "id": "google-news-iran-to-win-world-cup-2026-odds-find-outright-odds-top-goalscorer-odds-to-win-group-g-squawka",
@@ -184,44 +220,8 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkh6RHQ4YnVUVTZNMFZKU1dBR3c4UzFfT0dyb0NySmQtTXRISkFaQ3U1Q0Q0eV90eTBFbjBzNlVuUk15SjBPSjRySkx3c1UzdTBEM2VJWWhQcXNWYVlZQk0yVWwtMWtlQnhlY1ZWclYzOUo0STZVaTYwcUhpbnBqLW5VM21fcEVNZU9tdVln?oc=5",
-      "publishedAt": "2026-08-11T13:38:25+00:00",
+      "publishedAt": "2026-08-11T13:35:07+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-somalian-referee-sent-back-from-fifa-world-cup-in-us-set-to-officiate-uefa-super-cup-ndtv-sports",
-      "title": "从美国世界杯归来的索马里裁判将执法欧洲超级杯 - NDTV Sports",
-      "summary": "从美国 FIFA 世界杯归来的索马里裁判将执法欧洲超级杯 NDTV Sports",
-      "originalTitle": "Somalian Referee, Sent Back From FIFA World Cup In US, Set To Officiate UEFA Super Cup - NDTV Sports",
-      "originalSummary": "Somalian Referee, Sent Back From FIFA World Cup In US, Set To Officiate UEFA Super Cup  NDTV Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZFdCeW5zcjZSbEtfMVNsbnEzcExWNjIySWtqXy1IWTI2aEljaExsSHEwYWZxR2I0RXRDbHFEblBRSjJRSkhwQ053bm1KZUxuM3FUTDZxb05xNkNoSmRuS0VuM3lEQ0M5ZmdKYk9iX1llVDBJeF9fX3JzUGFOQ25zSWNjSHp4bUkzY3p0NEpaLVNfV2J3UU80SEw4QlFrWTlwaUhlT1ZGOVhya1l5Y2NIaGlqRFBMV3hOOUxNcDhQU3E2MC1tYzVz?oc=5",
-      "publishedAt": "2026-08-11T13:16:59+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-somali-denied-world-cup-proud-to-referee-psg-vs-villa-in-uefa-super-cup-al-jazeera",
-      "title": "索马里否认世界杯“自豪”地在欧洲超级杯中裁判巴黎圣日耳曼对阵维拉",
-      "summary": "索马里否认世界杯“自豪”地在欧洲超级杯中裁判巴黎圣日尔曼对阵维拉",
-      "originalTitle": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup - Al Jazeera",
-      "originalSummary": "Somali denied World Cup ‘proud’ to referee PSG vs Villa in UEFA Super Cup  Al Jazeera",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNbk91MUpvQWNIdGNleDBGQVNJRTZLSTVFSlcwYUMzSWx4Rnc5d2YxMGlHYi1TSmViR1Iwa21JZ3hTMVRDYXJNa0JLWnpWVy1ZUG9ENXJxN2ZqWnBRaDR5QVRTY1YwMmNyYkplXzZzSGV5VEp5ZWZQVkRMV2JnMTM5dlo5dWNJUk9tYnJPTHRZRlNqQURMVmFnVWlHMElnREI4OXpBdXpfWGZ1Z9IBrwFBVV95cUxQVk4tbTc4VE9JdmtmR1RpWUg4QlpGMTU0M3NuNlJyaUNoRFpkR0JYcVlxa3pzMlFTU21OcHBGdVJabkVsWlFLcFRKdHVWeEY0clIyRHBxYnc4ZGRmVmItLTZPbUhKRlV3R2RETnJIUWdsSHQzOHVLdWF5dGRIYVdIYUJVanZWMURXeFM0RWltMjA5bFpCZ3RhcXlzMU8zazhiSGhxVkphUFZLY2Y2cDFr?oc=5",
-      "publishedAt": "2026-08-11T13:16:04+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-viral-photos-claiming-president-bio-family-attended-2026-world-cup-final-ai-generated-dubawa",
-      "title": "人工智能生成的总统比奥及其家人参加 2026 年世界杯决赛的照片在网上疯传 - 杜巴瓦",
-      "summary": "AI 生成的杜巴瓦总统比奥及其家人参加 2026 年世界杯决赛的照片在网上疯传",
-      "originalTitle": "Viral photos claiming President Bio, family attended 2026 World Cup final, AI-generated - Dubawa",
-      "originalSummary": "Viral photos claiming President Bio, family attended 2026 World Cup final, AI-generated  Dubawa",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjdLeFpNUjhvSXoyRmZ0UDVHRXVpaGVNWmFwX1FNYzB4T3k4SUFPckt3ZG42M1k0OF9JV2VuR1lpYktmUUtSQlNObWROMXQwajhBa3JkLUs0T0FQUUJTQU81VzY3SDltZXRqWFJvR2VCcUIwams5ODFVX3N3Q2ltUzBkNW5IZnlVS2RMZkN6TGYyeWcyRFNlb2JKZzcxV0ZZZ1B4UXFONkN0SnpTblp6RtIBsAFBVV95cUxNRjdLeFpNUjhvSXoyRmZ0UDVHRXVpaGVNWmFwX1FNYzB4T3k4SUFPckt3ZG42M1k0OF9JV2VuR1lpYktmUUtSQlNObWROMXQwajhBa3JkLUs0T0FQUUJTQU81VzY3SDltZXRqWFJvR2VCcUIwams5ODFVX3N3Q2ltUzBkNW5IZnlVS2RMZkN6TGYyeWcyRFNlb2JKZzcxV0ZZZ1B4UXFONkN0SnpTblp6Rg?oc=5",
-      "publishedAt": "2026-08-11T13:13:00+00:00",
-      "heat": 52
     }
   ]
 }
