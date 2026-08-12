@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T16:02:31.484545+00:00",
+  "updatedAt": "2026-08-12T17:31:21.004943+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -16,7 +16,19 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0Qzb2x4MTRKZDByTVRHWi1UenF0bWJjYlg1aUttb2VBSFY4MzRXSWVqSWplTDJldldUWU9PaFUzdFRoT2gxNFhheEZ1eHFmTkdydllEVjloNDFCQVotTVAyS1U3eTloVjhTc2g1UWtuczFtTUF4bnBuZFFTSTY3TVUzMUVJRjRJTDY3U0VR?oc=5",
-      "publishedAt": "2026-08-12T15:58:06+00:00",
+      "publishedAt": "2026-08-12T17:26:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-shows-brands-can-break-through-without-official-sponsorships-sports-business-journal",
+      "title": "世界杯表明品牌无需官方赞助也能取得突破 - Sports Business Journal",
+      "summary": "世界杯表明品牌无需官方赞助也能取得突破 《体育商业杂志》",
+      "originalTitle": "World Cup shows brands can break through without official sponsorships - Sports Business Journal",
+      "originalSummary": "World Cup shows brands can break through without official sponsorships  Sports Business Journal",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdksxd0ZMTm5POER1ZTNqSWdUSjAtb3djdlprNGRQQk1SLVhUYUU3NFNTWFB5b2I1YkFVNFlzX3hWZmUwU2xmVVpLMTI0Z1gxX2dOYjcwRVNiTy1FRzhKRDl2TVZzclEzbVJzMkpTWW5VeFp1OWUwWkthZXYtU1U5Sk51VWt0T2lxekE0YTdScGF0MVFVcl9YZUJRRVBCU3Q4WV9JVkNNY21oTUxJT0NTMFVUX1RBb3lSMFBVVm9qYVdYcWttLXo2NQ?oc=5",
+      "publishedAt": "2026-08-12T17:15:00+00:00",
       "heat": 52
     },
     {
@@ -28,8 +40,32 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1CMHMweUVuSFJSeVRuaU8xSjBVN2FNY21rRWwxaldvYmxaQjRodXM3VE90cVg2eVM3cmxEb1otN2UtZTEzLURMaVFmYXdJZHQ3ZndaU1BuamR4NkZGWmJVQ2hLN2ZfT1BRT0Z2ODVyTk5pZldGbWtnLThiODVkUQ?oc=5",
-      "publishedAt": "2026-08-12T15:29:49+00:00",
+      "publishedAt": "2026-08-12T16:16:20+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-12T15:32:28+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
+      "publishedAt": "2026-08-12T15:23:22+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-kc-streetcar-hits-20-million-rider-milestone-after-2026-fifa-world-cup-fox4kc-com",
@@ -80,6 +116,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-xg-xa-per-90-morocco-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "xG + xA 每 ​​90 - 摩洛哥 FIFA 世界杯 2026 统计数据 - FotMob",
+      "summary": "每 90 场 xG + xA - 2026 年 FIFA 世界杯摩洛哥统计数据 FotMob",
+      "originalTitle": "xG + xA per 90 - Morocco stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "xG + xA per 90 - Morocco stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigRBVV95cUxOdUR6b0dOcFRJdk1JeUlqWlNlT3JYVmlkRG5mMG8zVkc0Yjh2LVEzTDZsQ2JJREF4bkpfV1dBZHpyMVR6Z3ZSd0xVZmZEMFE4VjB3dXJJV3hteXROLXRqZXEwQkhhZFZoRkppb0JXOTVaUW45OFFmbmRnM2dHTmRvT2t3TElfblM2Zy1HeWN3VElRdklRQWhBc3Q1Y2MzMzZfaHRWRGFvS3pMZU5HbE1IVXZidU9RYURKVEx4YnJCVVYxVFI0dTE4MjhKMXlOU1V4STN4enI1Z2xDS25uTW1hOWJRc05rTFVTVThCREMwUGxFNno0MGRpVHIteEhqeml3UGZPbUpaeXV0MmJ6YnNTWHBocFFBSklhME5tWjB0Ni1xSGl3N2Jhck5UNV92dnktQ0FwWDRxeVlFNEg4ajhzMTVVZGU0M09zNE5aNUFiSGg4aXlXWGpMcHU0UnNRd0FEcVJwZGo2OElRcDlXdmdOb01JVjFrUUhNT2xJVndKWHU2c0VCRWswRUJyTGtsbXBkSFJQdDFtLUtBZlI0YWxmZGdNUFNGcnc5OVczRUE5SW9kTzlXUlJnNno1WDNvR3NmYW1INUhhR0ZlVkhwMHhHMHRCc3NQMzZPZG5lZEJKR2ZQZFBNSXNpdE9pNHpCd2dPTXJkSlAzSFhzNmphMkkyOEV4aFlpSkM1cVE?oc=5",
+      "publishedAt": "2026-08-12T14:37:31+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-vivaro-delivers-record-world-cup-coverage-uk-broadcast-news-12-08-2026-4rfv",
       "title": "Vivaro 创下世界杯报道记录 - 英国广播新闻 | 12/08/2026 - 4RFV",
       "summary": "Vivaro 创下世界杯报道记录 - 英国广播新闻 | 2026 年 12 月 8 日  4RFV",
@@ -116,16 +164,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-new-zealand-world-cup-2026-results-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年新西兰世界杯：结果、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年新西兰世界杯：结果、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "New Zealand World Cup 2026: Results, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "New Zealand World Cup 2026: Results, manager, squad depth and tactical analysis  Squawka",
+      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
+      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
+      "summary": "观看 FIFA 2026 世界杯直播和精彩片段 TOD",
+      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
+      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQS00Y3h6b2pDSkhmelRxendpZDF3ZGd0ZG53cTdLYy1iRjFHbkVXMU01bDFzcXZWUkkwZ1R0cnVhTWZHSEdQRzdsWVFYNDNqS0JFZXVlTWZMVTNsbklfVTBfNXN5N2JoN2VpY0ZSRlZ4MDk0SUhrN0dKZHhQQjFRT2FocEFZTXVXb0Z0YklLazRMakxIbV9JSQ?oc=5",
-      "publishedAt": "2026-08-12T13:32:03+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
+      "publishedAt": "2026-08-12T13:26:02+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-lionel-messi-reveals-he-struggled-physically-during-2026-world-cup-in-farewell-letter-to-his-late-father-bol",
@@ -140,6 +188,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-2026-fifa-world-cup-round-two-recap-arsenal-vs-everton-tchaip84i7-mshale",
+      "title": "2026 年 FIFA 世界杯第二轮回顾 阿森纳 vs 埃弗顿 (tchAip84I7) - Mshale",
+      "summary": "2026 年 FIFA 世界杯第二轮回顾 阿森纳 vs 埃弗顿 (tchAip84I7)  Mshale",
+      "originalTitle": "2026 FIFA WORLD CUP ROUND TWO RECAP Arsenal Vs Everton (tchAip84I7) - Mshale",
+      "originalSummary": "2026 FIFA WORLD CUP ROUND TWO RECAP Arsenal Vs Everton (tchAip84I7)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1TS0kwTDBnSFc5Tzlfc0UxMFV3ZURfZkYzVnExNWxkVkpDemVPbW5adG12RzVMaUs2NS0taHM5c1lpbWRNWjBDRWJjaW9PTEZEamg4RkdwVWxXeFM3ZWo2SA?oc=5",
+      "publishedAt": "2026-08-12T12:44:46+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-gianni-infantino-considers-another-radical-world-cup-change-to-save-fifa-presidency-after-failed-sell-off-pl",
       "title": "抛售计划失败后因凡蒂诺考虑再次彻底改变世界杯以挽救国际足联主席职位 Goal.com",
       "summary": "抛售计划失败后，詹尼·因凡蒂诺考虑再次进行彻底的世界杯变革以挽救国际足联主席职位 Goal.com",
@@ -148,7 +208,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOcXk1N3pFTkE2cXRNMjdVN2ZCU0dXTE5IUGVWUFQ5RTFIMFhjUlhqeUppR1IxelJiMGsycWpJSDhqVzZ6dFBLeERUSlhxZ0Z4bGtPWjM4clRsLV9ZalhGWGdMRkwwc282MjE0YllHZXM2ZGpNdFVmZnNGZ2M2a0dLazZsYnM1aDh2Q1FEMU1EQVlRVzBaTnMxRjZseW1EelZU?oc=5",
-      "publishedAt": "2026-08-12T12:39:18+00:00",
+      "publishedAt": "2026-08-12T12:41:03+00:00",
       "heat": 60
     },
     {
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1lajFQZHdLa2JlcUxBTFJ5TzFsV3JrYzZfbDVjM0syQlN5WjdUWlJuUG1sLTI5VEdEQ21ERlJfVVc4bzhwcDByTWRqT1lTNU5hUld4TDRxb2VKRkhxam1Td2k2cGc0TzFQRGZEazczZ0M4QUM2ZnpteHFHRXQ?oc=5",
       "publishedAt": "2026-08-12T12:34:41+00:00",
       "heat": 68
-    },
-    {
-      "id": "google-新闻-中文-起亚开启-燃情世界杯-嗨购618-促销活动-全国-一口价-汽车之家",
-      "title": "起亚开启“燃情世界杯 嗨购618”促销活动：全国“一口价 - 汽车之家",
-      "summary": "起亚开启“燃情世界杯 嗨购618”促销活动：全国“一口价  汽车之家",
-      "originalTitle": "起亚开启“燃情世界杯 嗨购618”促销活动：全国“一口价 - 汽车之家",
-      "originalSummary": "起亚开启“燃情世界杯 嗨购618”促销活动：全国“一口价  汽车之家",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybUdseV9PUS0zV25iamZ5c0pZX2lhakNJQjhidWtjVVBKRUhVRUhhTldaUHdQSGhPeDZvaUwyODkzVy1acVdkdDh1aUQ4ZnBxSTE5ZGxCY2lEeUU?oc=5",
-      "publishedAt": "2026-08-12T12:16:27+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-highest-scoring-fifa-world-cup-wins-ever-1930-2026-fifaworldcup-fifa-football-cf-montreal-pxsmc1eixh-mshale",
-      "title": "有史以来得分最高的 FIFA 世界杯胜利😱（1930-2026）#fifaworldcup #fifa #football Cf 蒙特利尔 (PxsMC1Eixh) - Mshale",
-      "summary": "FIFA 世界杯得分最高的胜利😱（1930-2026）#fifaworldcup #fifa #football Cf 蒙特利尔 (PxsMC1Eixh)  Mshale",
-      "originalTitle": "Highest Scoring FIFA World Cup Wins Ever😱(1930-2026) #fifaworldcup #fifa #football Cf Montreal (PxsMC1Eixh) - Mshale",
-      "originalSummary": "Highest Scoring FIFA World Cup Wins Ever😱(1930-2026) #fifaworldcup #fifa #football Cf Montreal (PxsMC1Eixh)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5LbkVYNWN4dVY5SmtweHk4dmdjbXZSQWpORmdHM1JQSzVmbFY2SjJGMXNQZUpwYzdZYjNIajVoQXJ4b2pYNWY5YmtNdmhEck5ORU9Ca0xXazF3M2c?oc=5",
-      "publishedAt": "2026-08-12T12:08:16+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-xg-xa-per-90-morocco-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "xG + xA 每 ​​90 - 摩洛哥 FIFA 世界杯 2026 统计数据 - FotMob",
-      "summary": "每 90 场 xG + xA - 2026 年 FIFA 世界杯摩洛哥统计数据 FotMob",
-      "originalTitle": "xG + xA per 90 - Morocco stats for FIFA World Cup 2026 - FotMob",
-      "originalSummary": "xG + xA per 90 - Morocco stats for FIFA World Cup 2026  FotMob",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioARBVV95cUxOQnpYOWlsQmw5c2ljUlV6UGxvOFY5UGU2cnkzU2Q1RmxxMXlBMmtyUHhudWhlbXg4NXZXcHBkWTBaUUtyU2hOcjlnaUZhcHY2aC1LbFNVMkl2T3ZrZjdKd3RPeGtqN3V5M0U3eEZxNGt0S29CdGJWdHJ3dTVHVGxxNTF0UW5nWndrT2hjekVmY28tZUpUalFHT29ESVRWeW8zX0xyeEJnSmNtUTBPR0VqX3N4eHdwT1l2cTJaZ3BUSkxkLXNLUXBQSW1KVlAxRkNoMi1nQ1JjNDV1ZUtJd0Rpb21Ea2FZTG5vdXoyOFlRSDgteXltZ2poTUpFUjA1U0FUcU5Xd3lJLXBqNHZhSnpGUTJQT3g2NmJIYXlZMGg2QTF6NV9mQTJscUxHdUJuZDBYMnY1YzY4dDZhQi1vdUFqNERjR251VEdUT1FacFlDSHJTdUctdDNvazkxTkhMUjJwZmlWVl9OanBndFMzRXlmdWs3VDN0QTA4VE01U1dVOTItRzBEZ1ZXR3hIbGZLMmlWcjI1SEpzaHBPUTJkbXNNdWVZbFgxbkllV0wxTnE5VkZEVjRwZDF1NEREMkFsWHBzQjkwb0NtOHNYQ2lnTDFmMUhuMkQ0bFVNdl90R1dPYzhEWG5JMVFobWd4NldNamtsTkpnRnpvNGtnOW9GbmhPTlhPRzdvamJ3Q0hpdkdtT0NlS1ZWUHFsS3phU2Njbmla?oc=5",
-      "publishedAt": "2026-08-12T12:03:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-lessons-we-could-all-learn-from-the-2026-fifa-world-cup-options-the-edge",
-      "title": "我们都可以从 2026 年国际足联世界杯中学到的教训 - Options, The Edge",
-      "summary": "我们都可以从 2026 年国际足联世界杯选项中学到的经验教训，The Edge",
-      "originalTitle": "Lessons we could all learn from the 2026 Fifa World Cup - Options, The Edge",
-      "originalSummary": "Lessons we could all learn from the 2026 Fifa World Cup  Options, The Edge",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNOGNCYkQweXJ5VFBreTVaNkxSWTRSOVdCUGIxRzY2TjMxckNqbzFuN2NMRzlyY3BkQl9hN2Y1LWlsR2s2eGpoUnEwMW5tN2FTTndxUmpBV2ctNERmdklaT3ZoODlUZ0YyQVVsRlhGdG5uU2VQT0lWa282QTJUaE1TMjZ5cGpadDNXUVY2djRKQURZd2ZBNVE?oc=5",
-      "publishedAt": "2026-08-12T12:00:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-youri-tielemans-explains-how-fifa-s-folarin-balogun-red-card-u-turn-inspired-belgium-s-world-cup-victory-ove",
-      "title": "尤里·蒂勒曼斯解释了国际足联的福拉林·巴洛贡红牌掉头是如何在唐纳德·特朗普的干预适得其反的情况下激发比利时队在世界杯上战胜美国国家队的 - Goal.com",
-      "summary": "尤里·蒂勒曼斯 (Youri Tielemans) 解释了国际足联 (FIFA) 的福拉林·巴洛贡 (Folarin Balogun) 红牌掉头如何帮助比利时在世界杯上战胜美国国家队 (USMNT)，而唐纳德·特朗普 (Donald Trump) 的干预却适得其反 Goal.com",
-      "originalTitle": "Youri Tielemans explains how FIFA's Folarin Balogun red card U-turn inspired Belgium's World Cup victory over USMNT as Donald Trump's intervention backfire - Goal.com",
-      "originalSummary": "Youri Tielemans explains how FIFA's Folarin Balogun red card U-turn inspired Belgium's World Cup victory over USMNT as Donald Trump's intervention backfire  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdnlRazJkRE5oWGhBRGVISUVYWnI0MXZ5a3VudEc2a3ZidDNHbHp4clp0SGFfOGE4dGU3NlRHUEVOYzE2NXFVZUJiZnFBTVlwMWxMZDBHaHZJVlJLcDJfYndwZHpJTU9CdHlhMmk0bnVYM09NZzNmeDNfU3lSYkg2SVctSEp6S1kwVk9iQkV1ZmxGY1ZiUzZzemE0eGplLUU1NUFfR0JKNmMwYjF3cUhFTzRwZlJKUlZLZHU5cEVlUjdoa0daNHlkZzBSQXc?oc=5",
-      "publishedAt": "2026-08-12T11:56:46+00:00",
-      "heat": 60
     }
   ]
 }
