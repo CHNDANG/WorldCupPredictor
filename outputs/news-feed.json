@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T12:12:36.083018+00:00",
+  "updatedAt": "2026-08-13T13:59:08.133976+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-canadian-tire-reports-0-7-comparable-sales-growth-in-q2-2026-hardware-retailing",
+      "title": "Canadian Tire 报告 2026 年第二季度可比销售额增长 0.7% - 硬件零售",
+      "summary": "Canadian Tire 报告 2026 年第二季度可比销售额增长 0.7% 硬件零售",
+      "originalTitle": "Canadian Tire Reports 0.7% Comparable Sales Growth in Q2 2026 - Hardware Retailing",
+      "originalSummary": "Canadian Tire Reports 0.7% Comparable Sales Growth in Q2 2026  Hardware Retailing",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQU53cHVZWnAtMTQ0dk9mS2FCU1JjOFpucXNCU05OM2huWnVNdHN3TFRrQWVlRzdmRkx0eVMtWDdXRm00RVc2VVU4d1FEZG9Fd2MyREZMS0JXVHowVU4wUHBEc0JCU1BBS0dGRkh6WkhzNS1Jbl9pT0l1VVM2RVNXUVJvUDEtdTFpaG1NVmlxYWxsaHRvTmc?oc=5",
+      "publishedAt": "2026-08-13T13:45:50+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-the-biggest-winners-of-the-2026-world-cup-stadium-rant",
+      "title": "2026 年世界杯的最大赢家 - Stadium Rant",
+      "summary": "2026 年世界杯体育场咆哮的最大赢家",
+      "originalTitle": "The Biggest Winners Of The 2026 World Cup - Stadium Rant",
+      "originalSummary": "The Biggest Winners Of The 2026 World Cup  Stadium Rant",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OdUtGdWE4VEtPdF9RamJONXRkX0JHVlFnemQ2dEp5SXplaHlZaDRRVnJzTUN3VndTNXY3akVocGJWdjhUbEVRWnUxNUlZU0trZGVVS0pONHZ5SWh4R0JZTm5aRHozMUhxTE93QXctejF3clFtS09vUDVR?oc=5",
+      "publishedAt": "2026-08-13T13:42:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-vivaro-deploys-appear-x20-platform-for-fifa-world-cup-coverage-sports-video-group",
+      "title": "Vivaro 部署 Appear X20 平台进行 FIFA 世界杯报道 - Sports Video Group",
+      "summary": "Vivaro 部署 Appear X20 平台用于 FIFA 世界杯报道 体育视频组",
+      "originalTitle": "Vivaro Deploys Appear X20 Platform for FIFA World Cup Coverage - Sports Video Group",
+      "originalSummary": "Vivaro Deploys Appear X20 Platform for FIFA World Cup Coverage  Sports Video Group",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQUlKZE1WUVNqamJXcGlENmw3dUhaTnZUeFpGeGxiejU5LVI2enl4a01lX201NmRiSXpZUUNqMWdLLXRkLUdONk44dlZtbmlQckRVNUdTWGtlczdBT21PbndCV2dEQWhtYkxnSTI3Z3k1VkxXR3BCSHF2X1VjY095a1RGdVpKcl8wcTEwYVlqLVBORWxDQVZacE5ENU9VbjF5UHdnQQ?oc=5",
+      "publishedAt": "2026-08-13T13:25:59+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-this-was-my-world-cup-how-referee-barred-from-u-s-made-it-to-uefa-super-cup-espn",
+      "title": "“这是我的世界杯”：被美国禁赛的裁判如何闯入欧洲超级杯 - ESPN",
+      "summary": "“这是我的世界杯”：被美国禁赛的裁判如何闯入欧洲超级杯 ESPN",
+      "originalTitle": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup - ESPN",
+      "originalSummary": "'This was my World Cup': How referee barred from U.S. made it to UEFA Super Cup  ESPN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNM000dm5zbzBuVFBra3YyM0pqM2l3S3pmcjJEVTY4WV9rSkZaZzBnb2xINGJiM3E5bjJZWU5FYUU3eC04VGFieHFoeUJIeG1nbEhLNkIxTzg2VFVpX2lIZFhTSmhaME5PN2VKNGV0QzBYMldfQS1DUnFiYjhoNUZEeUFIZjBNZnlDeElld09lcEZqcjE2Rzc0U1Z1UEdNTzdDaE5sQVB2OGxuZWR3U2h5N1VhUXRKUDFCVlFYdA?oc=5",
+      "publishedAt": "2026-08-13T13:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-infantino-s-fifa-fate-must-go-to-an-election-says-african-football-chief-al-jazeera",
+      "title": "非洲足协主席表示，因凡蒂诺的国际足联命运必须由选举决定",
+      "summary": "非洲足协主席半岛电视台表示，因凡蒂诺的国际足联命运必须通过选举",
+      "originalTitle": "Infantino’s FIFA fate must go to an election, says African football chief - Al Jazeera",
+      "originalSummary": "Infantino’s FIFA fate must go to an election, says African football chief  Al Jazeera",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDFxV3FWQzVhcGRJQ2gtaS1Ra1VLeG1oZmUyeWdJM25KNEMzYzhpUFpkbGlKaEx2UFlPS2h6ZHRUZVdvWmdZYzZWTHduZEdOUWNIdG5nT1hDTVdwOFN3QzJiLUdKT3UwVDJrSXJfa25nYVFkX25nY3hhcW9pSTMtc0JLSi13T2lQWS1FeXl1bk94dGNtOTF0Z0dVa2lMQkVhcE9HSVZVT1diYjQ2RF8yQXVJbG4?oc=5",
+      "publishedAt": "2026-08-13T12:22:30+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-2026-fifa-world-cup-mexico-consolidates-its-position-as-a-key-igaming-hub-after-doubling-its-bettor-base-yog",
       "title": "2026 年 FIFA 世界杯：墨西哥在投注人数翻倍后巩固了其作为重要 iGaming 中心的地位 - Yogonet",
@@ -22,7 +82,7 @@
     {
       "id": "google-news-between-the-heartbreak-of-elimination-and-the-magic-of-facing-messi-luca-zidane-speaks-about-his-world-cup-j",
       "title": "在被淘汰的心碎和面对梅西的神奇之间：卢卡·齐达内谈论他与阿尔及利亚的世界杯之旅 - Goal.com",
-      "summary": "在被淘汰的心碎和面对梅西的神奇之间：卢卡·齐达内讲述他与阿尔及利亚队的世界杯之旅 Goal.com",
+      "summary": "在被淘汰的心碎和面对梅西的魔力之间：卢卡·齐达内讲述他随阿尔及利亚队的世界杯之旅 Goal.com",
       "originalTitle": "Between the heartbreak of elimination and the magic of facing Messi: Luca Zidane speaks about his World Cup journey with Algeria - Goal.com",
       "originalSummary": "Between the heartbreak of elimination and the magic of facing Messi: Luca Zidane speaks about his World Cup journey with Algeria  Goal.com",
       "translation": "online",
@@ -92,6 +152,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-world-cup-2026-full-match-schedule-group-stage-fixtures-revealed-giants-game-today-8vdgkvxzdc-mshale",
+      "title": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) - Mshale",
+      "summary": "2026 年 FIFA 世界杯完整比赛日程 🏆 |小组赛赛程揭晓！巨人队今日比赛 (8VDgKVxZdC) Mshale",
+      "originalTitle": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 Full Match Schedule 🏆 | Group Stage Fixtures Revealed! Giants Game Today (8VDgKVxZdC)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiTWR1dlN3UEVrZEtqaWhpd0tPUTdFWGExekVjRzVaUEpobm1vSWN6c3RibjhKaUgyRjJVVzNJQklPeDNqY1Zpa3A4S2ZIQ2M4bW1XWTRCZnp3dzA?oc=5",
+      "publishedAt": "2026-08-13T10:45:29+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-meet-fried-chicken-mogul-todd-graves-who-spent-us-100-million-on-a-world-cup-party-south-china-morning-post",
       "title": "来认识一下炸鸡大亨托德·格雷夫斯 (Todd Graves)，他在世界杯派对上花费了 1 亿美元 - 南华早报",
       "summary": "来认识一下炸鸡大亨托德·格雷夫斯 (Todd Graves)，他在世界杯派对上花费了 1 亿美元  《南华早报》",
@@ -140,88 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "id": "google-news-curacao-world-cup-2026-squad-26-man-squad-named-by-the-blue-wave-ahead-of-debut-appearance-squawka",
+      "title": "2026 年库拉索世界杯阵容：首秀亮相前由 Blue Wave 命名的 26 人阵容 - Squawka",
+      "summary": "2026 年库拉索世界杯阵容：在首次亮相之前由 Blue Wave 命名的 26 人阵容",
+      "originalTitle": "Curacao World Cup 2026 squad: 26-man squad named by The Blue Wave ahead of debut appearance - Squawka",
+      "originalSummary": "Curacao World Cup 2026 squad: 26-man squad named by The Blue Wave ahead of debut appearance  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-13T09:09:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaUpFZ3FDT2FPb3dtNzdET2NDVkxBejZGc1h0UWJmV2FEUXJNcmg2S2JLVF9JaUt3akJHdG95S3AyT295dEV0UElYMmVoS0JRMl9sMUF5SnVvVHdmMWlmSzItWWo2cEJia1N5ZWJ3Ni1jSDJhNkZxbkpBVlJZWUZ6SDNJemotQm8?oc=5",
+      "publishedAt": "2026-08-13T09:10:17+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-印度退出首届fifa亚细安杯-专注备战同巴西友谊赛-8world",
-      "title": "印度退出首届FIFA亚细安杯 专注备战同巴西友谊赛 - 8world",
-      "summary": "印度退出首届FIFA亚细安杯 专注备战同巴西友谊赛  8world",
-      "originalTitle": "印度退出首届FIFA亚细安杯 专注备战同巴西友谊赛 - 8world",
-      "originalSummary": "印度退出首届FIFA亚细安杯 专注备战同巴西友谊赛  8world",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSzhWdjR0RFhUdnRwUnJOOXlNN0ZkWTEtQzdMZXh3Z0R4a0x1ajB3Ml9XNW1mSEcyNFNqTEdJNDE0TTJoZXJRVnB6T3JSQ3o1VnJrak1pR3dlZ0ZiNEdFclBxYWNfNVI2bnBIa21SX0szVldiMnFEcTA4YlVZcmY4ZVBKWUdpNzBwUEhQNWdmMDNWc0dYb0RwdEZB?oc=5",
-      "publishedAt": "2026-08-13T08:43:33+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-soccer-fifa-world-cup-2026-international-broadcast-center-grand-opening-the-lufkin-daily-news",
-      "title": "足球：2026 年 FIFA 世界杯 - 国际广播中心盛大开幕 - 勒夫金日报",
-      "summary": "足球：2026 年 FIFA 世界杯 - 国际广播中心盛大开幕 勒夫金日报",
-      "originalTitle": "Soccer: FIFA World Cup 2026-International Broadcast Center Grand Opening - The Lufkin Daily News",
-      "originalSummary": "Soccer: FIFA World Cup 2026-International Broadcast Center Grand Opening  The Lufkin Daily News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQblExcHo0eTdJY3N1dVplWW82VXYwMW5mb3RWRmstTXl3d0tJN1lXaHlQc21ZXzdWN1MyUmJGZ3dhbTNiY2k4b1hTUTNCSnFFUVAzbTdjamxRZ0tsazRkajNXc0l0dFFvZlpZeTUtemszXzlGdFFNak1OMEoza2JtWnJRRnlTUHAwajN3UnNjZTdiQlRpNmRjUmpLTkU5V0ZleTF3Y3RVQzVGUGtWdW5QX0I4eVVXR3BUd004S1h3NlotZnl1N05zckE2UU1MaTd3Y2hmOUZrMmZRNnE4VzdtZjk2Zmo0dmhveUdBdkJtbTlnR2dIM3NxemhXNnF3UQ?oc=5",
-      "publishedAt": "2026-08-13T08:31:02+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-13T07:48:32+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-vs-england-live-fifa-world-cup-semi-final-arg-vs-eng-live-lionel-messi-julián-álvarez-usa-network-",
-      "title": "阿根廷 vs 英格兰直播：FIFA 世界杯半决赛 | ARG VS ENG 直播 |莱昂内尔·梅西 |朱利安·阿尔瓦雷斯 美国网络 (TNjyndKnq8) - Mshale",
-      "summary": "阿根廷 vs 英格兰直播：FIFA 世界杯半决赛 | ARG VS ENG 直播 |莱昂内尔·梅西 |朱利安·阿尔瓦雷斯 美国网络 (TNjyndKnq8)  Mshale",
-      "originalTitle": "Argentina Vs England LIVE:FIFA World Cup Semi Final | ARG Vs ENG LIVE | Lionel Messi |Julián Álvarez Usa Network (TNjyndKnq8) - Mshale",
-      "originalSummary": "Argentina Vs England LIVE:FIFA World Cup Semi Final | ARG Vs ENG LIVE | Lionel Messi |Julián Álvarez Usa Network (TNjyndKnq8)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE04M1UycjZxUFB1U3VTSGdRWkRaSzBVZFdaSGM3Rmp0Z2MtQm03MlNtQnU0LTdaTzdqb3hyb1VhMnE5cElxQ2VTTk41dS1iYXZEVi04QS1IYzNBUmRPSkdnRw?oc=5",
-      "publishedAt": "2026-08-13T07:43:54+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-新闻-中文-印度退出9月fifa亚细安杯-专注友谊赛战巴西-联合早报",
-      "title": "印度退出9月FIFA亚细安杯 专注友谊赛战巴西 - 联合早报",
-      "summary": "印度退出9月FIFA亚细安杯 专注友谊赛战巴西  联合早报",
-      "originalTitle": "印度退出9月FIFA亚细安杯 专注友谊赛战巴西 - 联合早报",
-      "originalSummary": "印度退出9月FIFA亚细安杯 专注友谊赛战巴西  联合早报",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5UYkdGNmhqaWFNSFZiNm1zSW9WRk1sN2k2QzJJejdsc3N2MUgyLUVlbkZ0QnM3V0tmZ3VoaF9CbkpvN28wSUN1U0Z2eXhvX0tROHNTV0tyUkpmaVBlRWMyTWE3R24wZm5fLWRB?oc=5",
-      "publishedAt": "2026-08-13T07:05:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-vs-algeria-live-2026-fifa-world-cup-group-j-match-lionel-messi-argentina-fans-n18g-raye-jadnjrdgrf",
-      "title": "🔴阿根廷 vs 阿尔及利亚直播：2026 FIFA 世界杯 J 组比赛 |莱昂内尔·梅西 |阿根廷球迷| N18G 雷伊 (jaDNJRdGrF) - 姆沙勒",
-      "summary": "🔴阿根廷 vs 阿尔及利亚直播：2026 FIFA 世界杯 J 组比赛 |莱昂内尔·梅西 |阿根廷球迷| N18G Raye (jaDNJRdGrF)  Mshale",
-      "originalTitle": "🔴Argentina Vs Algeria LIVE: 2026 FIFA World Cup Group J Match | Lionel Messi | Argentina Fans | N18G Raye (jaDNJRdGrF) - Mshale",
-      "originalSummary": "🔴Argentina Vs Algeria LIVE: 2026 FIFA World Cup Group J Match | Lionel Messi | Argentina Fans | N18G Raye (jaDNJRdGrF)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1fb0F0Sjc4RFItTXItZ2pKSVdMalBIOUd4S0RTVnVOMHZMTTZXVDRpbWN2cTltNFlCMV9QQlRjSm9xVk1IXzdmY1Q0MUJrODBHWGpzMjZaWk5TME0?oc=5",
-      "publishedAt": "2026-08-13T06:59:41+00:00",
-      "heat": 68
     }
   ]
 }
