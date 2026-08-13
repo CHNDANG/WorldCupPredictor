@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-12T23:11:46.718597+00:00",
+  "updatedAt": "2026-08-13T00:08:50.111939+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-fan-fest-heart-gateway-origins-meaning-what-comes-next-for-kc-s-world-cup-icon-kshb-41-kansas-city",
+      "title": "FIFA 球迷节 Heart Gateway：KC 世界杯偶像的起源、意义和下一步 - KSHB 41 堪萨斯城",
+      "summary": "FIFA 球迷节 Heart Gateway：堪萨斯城世界杯标志的起源、意义和下一步发展 KSHB 41 堪萨斯城",
+      "originalTitle": "FIFA Fan Fest Heart Gateway: Origins, meaning, what comes next for KC's World Cup icon - KSHB 41 Kansas City",
+      "originalSummary": "FIFA Fan Fest Heart Gateway: Origins, meaning, what comes next for KC's World Cup icon  KSHB 41 Kansas City",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOMnY3YUp0Z3k0NDhLdXJSSUVfX0xQNmN3dklmY0t1c3BxRklLT1pPU2lkUHZCZnVVWEJhU3R1b2NBc3Ffc0dIZWJwNVVFZkgwX3hGZFN6YzZZa2VvU1I1Q0JxYVVPbW42bDlrY2lwTGVLRm5TWktTRHZrVndObmZ5LUdobVdxakVybEs5eTEtQ1BmOUR5dUctMWNZR0JfdTFhZkMyMmxBcTk0YkZFRmJ2YzVwQnEyUkRTR3lsbg?oc=5",
+      "publishedAt": "2026-08-12T23:05:22+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-a-childhood-dream-borja-iglesias-reflects-on-spain-s-surreal-world-cup-triumph-goal-com",
       "title": "儿时的梦想！博尔哈·伊格莱西亚斯回顾西班牙超现实的世界杯胜利 Goal.com",
@@ -20,11 +32,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-houston-on-short-list-to-host-2031-fifa-women-s-world-cup-matches-mayor-says-khou",
-      "title": "市长称休斯顿已进入主办 2031 年 FIFA 女足世界杯比赛的候选名单 - KHOU",
-      "summary": "休斯顿市长表示，休斯顿已列入 2031 年 FIFA 女足世界杯主办权候选名单",
-      "originalTitle": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says - KHOU",
-      "originalSummary": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says  KHOU",
+      "id": "google-news-houston-on-short-list-to-host-2031-fifa-women-s-world-cup-matches-mayor-says-khou-com",
+      "title": "市长称休斯顿已进入主办 2031 年 FIFA 女足世界杯比赛的候选名单 - khou.com",
+      "summary": "市长表示，休斯顿已列入 2031 年 FIFA 女足世界杯主办权候选名单 khou.com",
+      "originalTitle": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says - khou.com",
+      "originalSummary": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says  khou.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEZBYmI2ZS1TTlNFcEl0MG5oZEMtLVpJOVZjX2tDYnAwUF91WGE2eFc1UWpEMEdyRm5kXzc3YVZpT3U2bEtQblltdERha3hWcVpad0NtZFYxempSbUNaQURidXZEellrU1BqelhuLUxUVTRCNFZIdkpxR0I5bmVGaE1FRWRfMGpCbGZOYnRwNTFudllpNlpvNWZ1U2dsd3MzNjZSd3JSMVFUSmxUZzVUQWczeTNGZV9HenJHbzBManA2MU1oMHVr?oc=5",
@@ -80,6 +92,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-czech-republic-announces-its-squad-for-the-2026-fifa-world-cup-sabres-vs-canadiens-ls8lk7ypvm-mshale",
+      "title": "捷克共和国公布 2026 年 FIFA 世界杯佩剑队对阵加拿大人队 (Ls8lK7YPVm) 的阵容 - Mshale",
+      "summary": "捷克共和国公布 2026 年 FIFA 世界杯佩剑队对阵加拿大人队 (Ls8lK7YPVm) 的阵容",
+      "originalTitle": "CZECH REPUBLIC Announces Its Squad For The 2026 FIFA WORLD CUP Sabres Vs Canadiens (Ls8lK7YPVm) - Mshale",
+      "originalSummary": "CZECH REPUBLIC Announces Its Squad For The 2026 FIFA WORLD CUP Sabres Vs Canadiens (Ls8lK7YPVm)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyQkNadWJ5dE5GQXJLMU52Sng4SHVIVWgtZzJnNHpjNWFhWTh0UUlFbFdfZS1UV0JjRTFoQUI1azA2NTdOZkI3OE54ckNveDZ4VGdpNmxId3p1SWFZRXhsSw?oc=5",
+      "publishedAt": "2026-08-12T19:58:46+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-10-most-expensive-soccer-transfers-of-summer-2026-including-morgan-rogers-to-chelsea-for-158-million-sportsn",
       "title": "2026 年夏季 10 笔最昂贵的足球转会，其中包括摩根·罗杰斯以 1.58 亿美元转会切尔西 - Sportsnaut",
       "summary": "2026 年夏季 10 笔最昂贵的足球转会，包括摩根·罗杰斯以 1.58 亿美元转会切尔西",
@@ -104,15 +128,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-world-cup-shows-brands-can-break-through-without-official-sponsorships-sportsbusinessjournal-com",
-      "title": "世界杯表明品牌无需官方赞助也能取得突破 - sportsbusinessjournal.com",
-      "summary": "世界杯表明品牌无需官方赞助即可取得突破 sportsbusinessjournal.com",
-      "originalTitle": "World Cup shows brands can break through without official sponsorships - sportsbusinessjournal.com",
-      "originalSummary": "World Cup shows brands can break through without official sponsorships  sportsbusinessjournal.com",
+      "id": "google-news-world-cup-shows-brands-can-break-through-without-official-sponsorships-sports-business-journal",
+      "title": "世界杯表明品牌无需官方赞助也能取得突破 - Sports Business Journal",
+      "summary": "世界杯表明品牌无需官方赞助也能取得突破 《体育商业杂志》",
+      "originalTitle": "World Cup shows brands can break through without official sponsorships - Sports Business Journal",
+      "originalSummary": "World Cup shows brands can break through without official sponsorships  Sports Business Journal",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdksxd0ZMTm5POER1ZTNqSWdUSjAtb3djdlprNGRQQk1SLVhUYUU3NFNTWFB5b2I1YkFVNFlzX3hWZmUwU2xmVVpLMTI0Z1gxX2dOYjcwRVNiTy1FRzhKRDl2TVZzclEzbVJzMkpTWW5VeFp1OWUwWkthZXYtU1U5Sk51VWt0T2lxekE0YTdScGF0MVFVcl9YZUJRRVBCU3Q4WV9JVkNNY21oTUxJT0NTMFVUX1RBb3lSMFBVVm9qYVdYcWttLXo2NQ?oc=5",
-      "publishedAt": "2026-08-12T17:15:00+00:00",
+      "publishedAt": "2026-08-12T17:22:05+00:00",
       "heat": 52
     },
     {
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBCS3lsbFAwR1BuTl8zQXpvUmZQY3hzZVQyeUZ6MWVSMHBoT19BMDNZZ1dWTjU1Q3hncTVmQnF2VlU5emRzU1BQVlBLNi00cHNtT0V2TVp0UFhmdGNNWUgyX3RqWm9PUQ?oc=5",
       "publishedAt": "2026-08-12T15:54:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-12T15:32:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-bank-of-america-partner-with-vet-tix-to-offer-free-world-cup-tickets-to-veterans-and-first-responders-t",
-      "title": "国际足联、美国银行与 Vet Tix 合作，向退伍军人和急救人员提供免费世界杯门票 - TicketNews",
-      "summary": "国际足联、美国银行与 Vet Tix 合作，向退伍军人和急救人员提供免费世界杯门票 TicketNews",
-      "originalTitle": "FIFA, Bank of America Partner With Vet Tix to Offer Free World Cup Tickets to Veterans and First Responders - TicketNews",
-      "originalSummary": "FIFA, Bank of America Partner With Vet Tix to Offer Free World Cup Tickets to Veterans and First Responders  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWRSNUNBczRaMGZUMy14ZDFGbWJIZzQ2Z3VHN3h4UXgzNUp3MG5QWEY0UXV5NTNiTFNnWHFiRTQ3ZnQ3N00xNzBZeVRvY3RlNVdtZXBQVEc3UDRWZTdLQ0xKTElHT1lrTWE3VDItckpBWFhOak5NQWN2TzZYZlF0VUdjZkt2U3QwcktFTnRBS2lYN2lobnNOOHFOYU1oR0JEdkN5cGpmaXlSZHBkVmpWamRYT1JMclFZQTJoYzRIZThnN3BsVmJ6dExkM1c3MkUxMjZ0N3hwQkRVUQ?oc=5",
-      "publishedAt": "2026-08-12T15:24:28+00:00",
       "heat": 60
     }
   ]
