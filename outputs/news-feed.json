@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T21:23:36.432234+00:00",
+  "updatedAt": "2026-08-13T22:20:16.672091+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-local-referee-michael-barwegen-reflects-on-world-cup-journey-the-lethbridge-herald",
+      "title": "当地裁判迈克尔·巴韦根回顾世界杯之旅 - 莱斯布里奇先驱报",
+      "summary": "当地裁判迈克尔·巴韦根 (Michael Barwegen) 回顾世界杯之旅 莱斯布里奇先驱报",
+      "originalTitle": "Local referee Michael Barwegen reflects on World Cup journey - The Lethbridge Herald",
+      "originalSummary": "Local referee Michael Barwegen reflects on World Cup journey  The Lethbridge Herald",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQazkybUh0ZFlzOFJkRHl3Y0NtY242cExZMEN3aEdZVmxPcFdUZk80RkZsTUlWVG5kZmFhSXBVMFl2UzE0Zk1fU0xTM3ZaaFNlNlZDaVBkYlZ0MnFOY19DOWtyZlh4Y3BnaWdJZU1yTUZKYWVUbFNHQ3NqXzJmdndVT0ZrVUtpaXYtR1RObVh1WV9fejRwTUtXRDIyUmE4dkdfWEhweEZtRTFHNWRFNDU4VGZTUlJtZExXdks4S0d6OTU0eVVF?oc=5",
+      "publishedAt": "2026-08-13T22:00:15+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-havasu-news",
+      "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - 哈瓦苏新闻",
+      "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 哈瓦苏新闻",
+      "originalTitle": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - Havasu News",
+      "originalSummary": "A World Cup referee shares his view of red cards, hydration breaks and soccer history  Havasu News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPa2xWdk5TdTZNekpOb3NXdjlBLXdQdFhUUE9FaVdPUHNLWUpEU2pwMjRuLUxDeXdHQlZKVkhnUGNEbi1rdzg3Y3FlVXpMa2xhOEpZcENkWFRWOFQyXzIxZFpTXzJ2LTVSMVg5VGgtR2JzS1NvaDAxRExXWjFGb0ZnUFotdlAtLWQwMk1TNEZvSFp6UjhRdTgzOFhzb1dlbzBsNVZBWXNVM1dHM1dSSnY5TUJla09VbnFnUmhUMnBuWVFCVm5DVEhnY29wUGRnRTBEQzREMEZfSGVsS05LU3B6dlF3WDNoQ0Jna2dIa1ozQ1E2bl8wU1p4MmpfOW9UcXBNSlIwT0gyUWhJd21oendmZVNB?oc=5",
+      "publishedAt": "2026-08-13T22:00:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-own-goal-stubhub-tanks-10-as-world-cup-ticket-fiasco-wipes-out-profit-boom-new-york-post",
       "title": "乌龙球：世界杯门票惨败抹去了利润繁荣，StubHub 下跌 10% - 纽约邮报",
@@ -20,16 +44,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-lawrence-shankland-press-conference-2026-fifa-world-cup-betty-broderick-cnxzrucjfy-mshale",
-      "title": "劳伦斯·尚克兰新闻发布会| 2026 年 FIFA 世界杯 贝蒂·布罗德里克 (cNXzrUCJFY) - Mshale",
-      "summary": "劳伦斯·尚克兰新闻发布会| 2026 年 FIFA 世界杯 贝蒂·布罗德里克 (cNXzrUCJFY)  Mshale",
-      "originalTitle": "Lawrence Shankland Press Conference | 2026 FIFA World Cup Betty Broderick (cNXzrUCJFY) - Mshale",
-      "originalSummary": "Lawrence Shankland Press Conference | 2026 FIFA World Cup Betty Broderick (cNXzrUCJFY)  Mshale",
+      "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-dailyrecordnews-com",
+      "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - dailyrecordnews.com",
+      "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 dailyrecordnews.com",
+      "originalTitle": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - dailyrecordnews.com",
+      "originalSummary": "A World Cup referee shares his view of red cards, hydration breaks and soccer history  dailyrecordnews.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wS2RZaTZMdG54ZmZLWmtSQmJpd0hLcERDWG9rTmZacTY2bVJ5NDBWM0EzT2lkUEQtbjdsRWVTNUlKN2IxeDNfbjltR1hJYjV6dkdmMmMwTkN6WTg?oc=5",
-      "publishedAt": "2026-08-13T19:02:37+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMW1zZmZic2kzdVZJYzRkYUtWTHJTTnhPSjF5MjUxc28wTlZtVHE0THVxOU5HOE42Znhwem9xemlSNWtHZjY5c1VwcXp0SzVIZjA5RTlRdnpKZC01NDFzSzFrTDhLUXNYZnk4S2lzTV9rZXpJTlN3SkpPSHdVYk1QS1BWa04yQklXa3BzLXhYMG1qWmd0aDdFc2Y1cFExNE1OS3otTk1VWWtUNTVkUmFQSjllelZOSE51QnRHOE5KcTZFeG1sU2dvRnpGT3JEUzRFR3pobW1uQkpqSG94Yks5U193RFpRWjBkMFVUQ0RuOXRYTnJWVnlhSGRDNzEyMVc2VVM1WGhvLVM?oc=5",
+      "publishedAt": "2026-08-13T19:00:00+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-expected-goals-on-target-xgot-morocco-stats-for-fifa-world-cup-2026-fotmob",
@@ -46,10 +70,10 @@
     {
       "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
       "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
-      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
+      "summary": "2026 世界杯 Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
       "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
       "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
-      "translation": "online",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
       "publishedAt": "2026-08-13T18:45:16+00:00",
@@ -92,15 +116,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-iraq-vs-norway-extended-highlights-2026-fifa-world-cup-chris-packham-zxk48r8pqb-mshale",
-      "title": "伊拉克 vs 挪威 加长集锦 🌎🏆2026 FIFA 世界杯™ Chris Packham (zXk48R8pqB) - Mshale",
-      "summary": "伊拉克 vs 挪威 加长集锦 🌎🏆2026 FIFA 世界杯™ Chris Packham (zXk48R8pqB)  Mshale",
-      "originalTitle": "Iraq Vs Norway Extended Highlights 🌎🏆2026 FIFA World Cup™ Chris Packham (zXk48R8pqB) - Mshale",
-      "originalSummary": "Iraq Vs Norway Extended Highlights 🌎🏆2026 FIFA World Cup™ Chris Packham (zXk48R8pqB)  Mshale",
+      "id": "google-news-highlights-germany-3-1-1-4-paraguay-fifa-world-cup-2026-thuram-agtvhuja4v-mshale",
+      "title": "亮点|德国 (3)1-1(4) 巴拉圭 | FIFA 世界杯 2026™ 图拉姆 (AGTVhuJA4V) - Mshale",
+      "summary": "亮点|德国 (3)1-1(4) 巴拉圭 | FIFA 世界杯 2026™ 图拉姆 (AGTVhuJA4V)  Mshale",
+      "originalTitle": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™ Thuram (AGTVhuJA4V) - Mshale",
+      "originalSummary": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™ Thuram (AGTVhuJA4V)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE12VkNfTGpUY1ZRMU9FX2J5eGhQX1FFTWx6UG1kYVZwcVVNM2p2X05NaFgyX3JIWnJLOFJTSjBqQ3VqT1pVemRRdTVuUFhQZW9xaU9WZFltODZJM0U?oc=5",
-      "publishedAt": "2026-08-13T18:05:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUEEzRHVDZnpfYjc2YTZfUUVzNVlMVzlZMGdBUkx1SlhkSkF4bER2cnBMR3VnMHZrOTAxYU1JVHdfeTdGeEluLUZ0b0cycDJabEprTUE4M1hacnVmMFJMNw?oc=5",
+      "publishedAt": "2026-08-13T17:41:19+00:00",
       "heat": 60
     },
     {
@@ -140,6 +164,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-france-vs-spain-fifa-world-cup-2026-semi-final-watchalong-live-beth-rigby-s3ce2iej8x-mshale",
+      "title": "法国🇫🇷 vs 西班牙🇪🇸 | 2026 年 FIFA 世界杯半决赛现场直播！ 🏆⚽ 贝丝·里格比 (s3ce2IEJ8x) - Mshale",
+      "summary": "法国🇫🇷 vs 西班牙🇪🇸 | 2026 年 FIFA 世界杯半决赛现场直播！ 🏆⚽ 贝丝·里格比 (s3ce2IEJ8x)  Mshale",
+      "originalTitle": "FRANCE 🇫🇷 Vs SPAIN 🇪🇸 | FIFA WORLD CUP 2026 SEMI-FINAL WATCHALONG LIVE! 🏆⚽ Beth Rigby (s3ce2IEJ8x) - Mshale",
+      "originalSummary": "FRANCE 🇫🇷 Vs SPAIN 🇪🇸 | FIFA WORLD CUP 2026 SEMI-FINAL WATCHALONG LIVE! 🏆⚽ Beth Rigby (s3ce2IEJ8x)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80OHRRbDVyckFiZGtUaktxay1ObGxWUlAxRGdHUzQ2TzFBQk1td2NzeW11Nnk5Zm1TR19NRmFyekRJU3lwVkRqcWx2dXByWURpUWFkTHNEZy1NVGxhTFVFQw?oc=5",
+      "publishedAt": "2026-08-13T16:29:01+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-who-is-india-s-captain-for-women-s-hockey-world-cup-2026-sportingnews-com",
       "title": "2026 年女子曲棍球世界杯印度队队长是谁？ - 体育新闻网",
       "summary": "2026 年女子曲棍球世界杯印度队队长是谁？  体育新闻网",
@@ -176,51 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-6-arab-football-federation-chiefs-back-fifa-president-infantino-amid-calls-to-resign-middle-east-monitor",
-      "title": "六名阿拉伯足协主席支持国际足联主席因凡蒂诺辞职 - Middle East Monitor",
-      "summary": "六位阿拉伯足协主席支持国际足联主席因凡蒂诺辞职 中东监察员",
-      "originalTitle": "6 Arab football federation chiefs back FIFA President Infantino amid calls to resign - Middle East Monitor",
-      "originalSummary": "6 Arab football federation chiefs back FIFA President Infantino amid calls to resign  Middle East Monitor",
+      "id": "google-news-the-2026-world-cup-slowed-hotel-bookings-in-mexican-beach-destinations-but-demand-picked-up-after-the-tourna",
+      "title": "2026 年世界杯导致墨西哥海滩目的地的酒店预订放缓，但赛事结束后需求有所回升 - Travel2Latam",
+      "summary": "2026 年世界杯导致墨西哥海滩目的地的酒店预订放缓，但赛事结束后需求有所回升 Travel2Latam",
+      "originalTitle": "The 2026 World Cup slowed hotel bookings in Mexican beach destinations, but demand picked up after the tournament - Travel2Latam",
+      "originalSummary": "The 2026 World Cup slowed hotel bookings in Mexican beach destinations, but demand picked up after the tournament  Travel2Latam",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOER2VzNPQkkweHRLT0cycEF3TnAwV1owWnMwWFc0dDZoUHFtLXVGRVZkN3p1NkxGQTFnZUtHdWFXR1Y3M1RPVUlFd0NMUVV4clBPTFJsNjJ2QjNrQ1RCbHBhRWYzOU9zb1h4d0pRSDFqanpJLWQ1dzZNTkVGaE5oWDdhX3JpclJ0WnlBaTFXVndad2U5NlQ4QWVrVEVUS0JSU0VpLTV6X2JJTkY5TkhYa3VPZkRDSVVIcFhadXRCLVYyZWVHU0ZV0gHMAUFVX3lxTE83VjR5V1oxQi1UTFZhWWloV21VN3NCWmJCUC1ZSjhiZUJHTmFObmQ5T3pNQTJpdldZUU5OM1B3Y09TSkc1T2JoN0pKS1RxdVV4Q0VzaTVNUVNUODhPRUN6aEJvMnFnckNOdVdqZkpzaGh3aXFWU0R3LUxLUTZ1aF9iZ2xHMHJuOWU0RnZDQ2VPWFVGbW5FclJFTzFWNVNjTVJVZWl4N3B2OTJxb2FHdmVkSzFOMlhMX3lZNWNsZEsxd0lNY05pTXUxLWRmRA?oc=5",
-      "publishedAt": "2026-08-13T15:40:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-when-does-the-2026-27-premier-league-season-start-bein-sports",
-      "title": "2026-27 赛季英超联赛何时开始？ - 贝因体育",
-      "summary": "2026-27 赛季英超联赛何时开始？  贝因体育",
-      "originalTitle": "When Does the 2026–27 Premier League Season Start? - beIN SPORTS",
-      "originalSummary": "When Does the 2026–27 Premier League Season Start?  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeERyQUdGSWMwRmZvMGo3MU83aG80SDdiMEZqYlFEQzlueHFwZHdJbXctY1ZBaDdKb2lVbGh5cXVmRnN1SGtReS1HaThLQWZhMkk0X01KRTdYRGplUzltRjlpeDhlRklHRF85eVFLVnlCaFJWS1BBZU5VeG1oZFgtNEZDUm1OWW0yRlRqUTkteko2REJUTi1HdXV0Nk5mMlp6U0hFV0hjZUlodkl6X3NRRmc5dDNTczRPTXZtUUFnNGJhQQ?oc=5",
-      "publishedAt": "2026-08-13T15:38:56+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-13T15:36:40+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-spain-world-cup-2026-la-roja-crowned-champions-squawka",
-      "title": "2026 年西班牙世界杯：La Roja 加冕冠军 - Squawka",
-      "summary": "2026 年西班牙世界杯：La Roja 加冕冠军 Squawka",
-      "originalTitle": "Spain World Cup 2026: La Roja crowned champions - Squawka",
-      "originalSummary": "Spain World Cup 2026: La Roja crowned champions  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0RUN3VsMVI4VFFiMFJlMWpGSDFrUkw0aS02YVJOdGY2OEV3SWlPX1RxY1psb0RSaC1CdjhRdS1MdnIzYXZmUWs4bjJCUm56YlhsVmNJUkozLTZEWHhKVDUteE13NzljamFyTVpHWVl5elcyUlRrSnVVaEs5dFJ1ME41WEFGdzdCUGw0WHNhckxvdw?oc=5",
-      "publishedAt": "2026-08-13T15:27:02+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeTlmd3Q2eEJYUFZJRkVPdEdwV2lpQ3lqUVc3MnhxaTFBVFF3RG9Va2ZYMTVKdmMwNWNUcFRCXzJPeloxUzVVVnJpczFpU2o0YlFoV1N0ak9adzE5bm05UUtLZGI2R1hDbWdNekNZYlh6b294RFdSU1RmM1lBNllqcTJtZEJsYjBVekJDRHlMeTRNMFR3emFlaHNTeElmWFNDMFFlN0REZklfeE50VTNkUjRVN1ZiUHZmTEFUVnlqS2xDTEtSUWlFSGNMamR0cmY5bEUtUmxadlV6Q0lKaWttUkVDQ0N6dnN5eFYzcFRB?oc=5",
+      "publishedAt": "2026-08-13T15:51:58+00:00",
       "heat": 52
     }
   ]
