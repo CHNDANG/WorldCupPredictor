@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T16:26:55.183592+00:00",
+  "updatedAt": "2026-08-13T17:32:35.996045+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-the-fifa-world-cup-should-belong-to-fans-not-super-rich-investors-the-conversation",
+      "title": "国际足联世界杯应该属于球迷，而不是超级富有的投资者 - 对话",
+      "summary": "FIFA 世界杯应该属于球迷，而不是超级富有的投资者",
+      "originalTitle": "The FIFA World Cup should belong to fans, not super-rich investors - The Conversation",
+      "originalSummary": "The FIFA World Cup should belong to fans, not super-rich investors  The Conversation",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5",
+      "publishedAt": "2026-08-13T17:15:19+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-why-india-are-not-playing-asean-cup-2026-olympics-com",
+      "title": "为什么印度不参加 2026 年东盟杯 - olympics.com",
+      "summary": "为什么印度不参加 2026 年东盟杯 olympics.com",
+      "originalTitle": "Why India are not playing ASEAN Cup 2026 - olympics.com",
+      "originalSummary": "Why India are not playing ASEAN Cup 2026  olympics.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9lcWE2cDJVeU9JRGJOMWFzdU5DZ3lWakRtY19VbkczdGpJZnJfMlJiNEwyNDFTcXktbW93aksyd0Y2aW13cmNmUVA2cl9XbEpNUWFCU2p6eEd2c0RpUHF2WnNlcjVLaWlUQTlGUjU0SjJ2eDQ3Wm0yeFdJQ1NueVpRN3VHZw?oc=5",
+      "publishedAt": "2026-08-13T16:37:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-who-is-india-s-captain-for-women-s-hockey-world-cup-2026-sportingnews-com",
+      "title": "2026 年女子曲棍球世界杯印度队队长是谁？ - 体育新闻网",
+      "summary": "2026 年女子曲棍球世界杯印度队队长是谁？  体育新闻网",
+      "originalTitle": "Who is India's captain for women's hockey World Cup 2026? - sportingnews.com",
+      "originalSummary": "Who is India's captain for women's hockey World Cup 2026?  sportingnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWp1dXRQbnR0TEZSSEozTkpxTnFVNER3RVFWU2o4cUs3RVhHUlZzSFFwYkFKMENnQV9qenVDSXZvZjhpWUcxQUxXY2dSZF91T2VQSjFxMGJWa3FKTnI2b0FIS1NTRHBPWlRfM3dDVGJ6R09NSWg0MlZQd3IzSWd2d2YxaXc1VGN6MjFCbk9oaExGaVJ2QURfYUZPUUR1UVFraGpVVnJuLVVMM3VuSDZvelh3dThtbm1HTk9zdw?oc=5",
+      "publishedAt": "2026-08-13T16:28:37+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-6-arab-football-federation-chiefs-back-fifa-president-infantino-amid-calls-to-resign-middle-east-monitor",
       "title": "六名阿拉伯足协主席支持国际足联主席因凡蒂诺辞职 - Middle East Monitor",
@@ -18,18 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOOER2VzNPQkkweHRLT0cycEF3TnAwV1owWnMwWFc0dDZoUHFtLXVGRVZkN3p1NkxGQTFnZUtHdWFXR1Y3M1RPVUlFd0NMUVV4clBPTFJsNjJ2QjNrQ1RCbHBhRWYzOU9zb1h4d0pRSDFqanpJLWQ1dzZNTkVGaE5oWDdhX3JpclJ0WnlBaTFXVndad2U5NlQ4QWVrVEVUS0JSU0VpLTV6X2JJTkY5TkhYa3VPZkRDSVVIcFhadXRCLVYyZWVHU0ZV0gHMAUFVX3lxTE83VjR5V1oxQi1UTFZhWWloV21VN3NCWmJCUC1ZSjhiZUJHTmFObmQ5T3pNQTJpdldZUU5OM1B3Y09TSkc1T2JoN0pKS1RxdVV4Q0VzaTVNUVNUODhPRUN6aEJvMnFnckNOdVdqZkpzaGh3aXFWU0R3LUxLUTZ1aF9iZ2xHMHJuOWU0RnZDQ2VPWFVGbW5FclJFTzFWNVNjTVJVZWl4N3B2OTJxb2FHdmVkSzFOMlhMX3lZNWNsZEsxd0lNY05pTXUxLWRmRA?oc=5",
       "publishedAt": "2026-08-13T15:40:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-tackles-per-90-algeria-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "每 90 次铲球 - 阿尔及利亚 2026 年 FIFA 世界杯统计数据 - FotMob",
-      "summary": "每 90 次铲球 - 阿尔及利亚 2026 年 FIFA 世界杯统计 FotMob",
-      "originalTitle": "Tackles per 90 - Algeria stats for FIFA World Cup 2026 - FotMob",
-      "originalSummary": "Tackles per 90 - Algeria stats for FIFA World Cup 2026  FotMob",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNM19JS0ZBVVctYm9OMUhiV0Y1ZXlXWFBFZ1lQY1ktRkJCbjhSNTZvYmNFZjBBUW9RQXJEdkpHMUtxSGpuZ0R3SHJLMGlCekRkbkJVSXVEMm1XR1phendkSWswaXZJT3Z3LWNQRVFvVk5wX09WSzJ6bFRuWEtsR0ZJSWVuZU9FcjAtQnpybENENkJTM3BQOUo2b3NXWjhjdHNlTjM2ek1BMWVjalZhcmkxeUhTSnBDX2hWTGc?oc=5",
-      "publishedAt": "2026-08-13T15:24:58+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-legends-and-debutants-alike-made-fifa-world-cup-2026-unforgettable-panini-america",
@@ -128,11 +152,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-the-biggest-winners-of-the-2026-world-cup-stadiumrant-com",
-      "title": "2026 年世界杯的最大赢家 - Stadiumrant.com",
-      "summary": "2026 年世界杯的最大赢家 stadiumrant.com",
-      "originalTitle": "The Biggest Winners Of The 2026 World Cup - stadiumrant.com",
-      "originalSummary": "The Biggest Winners Of The 2026 World Cup  stadiumrant.com",
+      "id": "google-news-the-biggest-winners-of-the-2026-world-cup-stadium-rant",
+      "title": "2026 年世界杯的最大赢家 - Stadium Rant",
+      "summary": "2026 年世界杯体育场咆哮的最大赢家",
+      "originalTitle": "The Biggest Winners Of The 2026 World Cup - Stadium Rant",
+      "originalSummary": "The Biggest Winners Of The 2026 World Cup  Stadium Rant",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9OdUtGdWE4VEtPdF9RamJONXRkX0JHVlFnemQ2dEp5SXplaHlZaDRRVnJzTUN3VndTNXY3akVocGJWdjhUbEVRWnUxNUlZU0trZGVVS0pONHZ5SWh4R0JZTm5aRHozMUhxTE93QXctejF3clFtS09vUDVR?oc=5",
@@ -152,15 +176,39 @@
       "heat": 52
     },
     {
-      "id": "google-news-infantino-s-fifa-fate-must-go-to-an-election-says-african-football-chief-al-jazeera",
-      "title": "非洲足协主席表示，因凡蒂诺的国际足联命运必须由选举决定",
-      "summary": "非洲足协主席半岛电视台表示，因凡蒂诺的国际足联命运必须由选举决定",
-      "originalTitle": "Infantino’s FIFA fate must go to an election, says African football chief - Al Jazeera",
-      "originalSummary": "Infantino’s FIFA fate must go to an election, says African football chief  Al Jazeera",
+      "id": "google-news-canada-s-full-squad-fifa-world-cup-2026-alphonso-davies-leads-canada-at-home-novak-djokovic-ylud76ksyx-mshal",
+      "title": "加拿大队 2026 年 FIFA 世界杯 🇨🇦 | 完整阵容阿方索·戴维斯在主场带领加拿大队！ 🔥 诺瓦克·德约科维奇 (ylUd76KsYX) - Mshale",
+      "summary": "加拿大队 2026 年 FIFA 世界杯 🇨🇦 | 完整阵容阿方索·戴维斯在主场带领加拿大队！ 🔥 诺瓦克·德约科维奇 (ylUd76KsYX)  Mshale",
+      "originalTitle": "Canada's FULL Squad FIFA World Cup 2026 🇨🇦 | Alphonso Davies Leads Canada At HOME! 🔥 Novak Djokovic (ylUd76KsYX) - Mshale",
+      "originalSummary": "Canada's FULL Squad FIFA World Cup 2026 🇨🇦 | Alphonso Davies Leads Canada At HOME! 🔥 Novak Djokovic (ylUd76KsYX)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRDFxV3FWQzVhcGRJQ2gtaS1Ra1VLeG1oZmUyeWdJM25KNEMzYzhpUFpkbGlKaEx2UFlPS2h6ZHRUZVdvWmdZYzZWTHduZEdOUWNIdG5nT1hDTVdwOFN3QzJiLUdKT3UwVDJrSXJfa25nYVFkX25nY3hhcW9pSTMtc0JLSi13T2lQWS1FeXl1bk94dGNtOTF0Z0dVa2lMQkVhcE9HSVZVT1diYjQ2RF8yQXVJbG4?oc=5",
-      "publishedAt": "2026-08-13T12:33:31+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpdlM4bWs5cE0tbFhTOVY2TG5YMVpRV21lTTNpengxUXNvdjF0aFE4R3I2QW1CX3pGN2tBSkZMWDZSSU1TbkozVDIzLU9TajYwM3dXamliRFdFWGRrSEhuaA?oc=5",
+      "publishedAt": "2026-08-13T13:01:56+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-when-are-the-world-cup-quarter-finals-manchester-united-website",
+      "title": "世界杯四分之一决赛什么时候举行？ - 曼联网站",
+      "summary": "世界杯四分之一决赛什么时候举行？  曼联网站",
+      "originalTitle": "When are the World Cup quarter-finals? - Manchester United Website",
+      "originalSummary": "When are the World Cup quarter-finals?  Manchester United Website",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOTHRpUXl1MEROVGxZRm91R3Rpb1dVS3hMWG5uY05XOURMUTZ4dlQxbmwtVl8xUlp5RFNMTW9acS1uNE1WZHZKcEs0UWZfLUtyRVUyTU9OblJkNExZamQxazQ1b0xCRmcyeWpXSE1xa3dpRkwwWXhib3cxVFl1RWFMS203QUtIeENubndiQXRnelItVUE0RjllallWRWFkNXFh?oc=5",
+      "publishedAt": "2026-08-13T12:27:58+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-infantino-s-fifa-fate-must-go-to-an-election-says-africa-football-chief-yahoo",
+      "title": "非洲足协主席表示因凡蒂诺的国际足联命运必须通过选举 - 雅虎",
+      "summary": "非洲足球主席雅虎表示，因凡蒂诺的国际足联命运必须走向选举",
+      "originalTitle": "Infantino’s FIFA fate must go to an election, says Africa football chief - Yahoo",
+      "originalSummary": "Infantino’s FIFA fate must go to an election, says Africa football chief  Yahoo",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWGJYS2tPcDJtbVFlekNISTY1N3hXZlVGdkVDTHYyZS1meGd2WkE4ajViSGlWSGJPdjd5aWQ3a2Q4SkVsUWs0bkxQVWZQbGtXNkozX3JBbl9LSzVtckhRamVQNk5ZRURfODZNSWlaVGR1dDBIdlN0R1VEUW81N2JGQ1hER09pN0E?oc=5",
+      "publishedAt": "2026-08-13T12:19:02+00:00",
       "heat": 52
     },
     {
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8ybUdseV9PUS0zV25iamZ5c0pZX2lhakNJQjhidWtjVVBKRUhVRUhhTldaUHdQSGhPeDZvaUwyODkzVy1acVdkdDh1aUQ4ZnBxSTE5ZGxCY2lEeUU?oc=5",
       "publishedAt": "2026-08-13T11:54:47+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-between-the-heartbreak-of-elimination-and-the-magic-of-facing-messi-luca-zidane-speaks-about-his-world-cup-j",
-      "title": "在被淘汰的心碎和面对梅西的神奇之间：卢卡·齐达内谈论他与阿尔及利亚的世界杯之旅 - Goal.com",
-      "summary": "在被淘汰的心碎和面对梅西的魔力之间：卢卡·齐达内讲述他随阿尔及利亚队的世界杯之旅 Goal.com",
-      "originalTitle": "Between the heartbreak of elimination and the magic of facing Messi: Luca Zidane speaks about his World Cup journey with Algeria - Goal.com",
-      "originalSummary": "Between the heartbreak of elimination and the magic of facing Messi: Luca Zidane speaks about his World Cup journey with Algeria  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxOZDU4NzZjRThUM1NjWEZoM3lxbUtuckU2R19qcUJKN1dkMkQ5dnI4d2g0eER5NmJmNkI1U2k5ZjVOcVFDRnh2ZW83WllXaUhJeHpoWGZtYjdBWlhTbzE3VFRIN25wT0E1OGdPd3lUNDdUMGN6anJvMXI1LXIzV0FWRUtWZHN4NHQxUVM2OUw3LXJBcUJJUmNwM2tnd2NGanh4c0c5RWlpX1lWMXBwaDRLbTNXZk44ajNiVV90WVFySGxURXJzbjBHcmFod29BVTF6R1BFQXpsaVpRaFgzbFJTanVWdC15c2RVYmFkNndPQUN1UVpvZFp5ZmpsUlMxTUp4TnZydERn?oc=5",
-      "publishedAt": "2026-08-13T11:50:55+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-mexico-consolidates-its-position-as-a-key-igaming-hub-after-doubling-its-bettor-base-yog",
-      "title": "2026 年 FIFA 世界杯：墨西哥在投注人数翻倍后巩固了其作为重要 iGaming 中心的地位 - Yogonet",
-      "summary": "2026 年 FIFA 世界杯：墨西哥在投注人数翻倍后巩固了其作为重要 iGaming 中心的地位 Yogonet",
-      "originalTitle": "2026 FIFA World Cup: Mexico consolidates its position as a key iGaming hub after doubling its bettor base - Yogonet",
-      "originalSummary": "2026 FIFA World Cup: Mexico consolidates its position as a key iGaming hub after doubling its bettor base  Yogonet",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNaEt2U1pWQWJLS3l4SkQ3Y2llTnZ3eXA3QWYyeUZjbGVNQlN3X3RQS0ZGNFVWbkUtS09CbzVneGFLMjZSejdCZ3hHOGJyQzU0LVFIOXdVWTYxbFQwS2ppalV3TW1yYURjN09KRnRyVFVFR1REdmU3SWwzalBpaDBoNWNNRFYzRnp2MmtlMXhOZ2pMZzJDaDlGVnlybEszTE43RUdnSTVDOU1KbzJMQkl6Rm8tc1FsYnhrU0hWbzg5Smp5TFJKMS1VcEZUM3E0eUpqcDN4cGJtcEc1WDgyNTAtYXZUVzJXUjlhNEw3SjMtdGxUX0ZVOWlrbA?oc=5",
-      "publishedAt": "2026-08-13T11:49:34+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-iran-war-risks-bringing-the-g7-s-fastest-growing-economy-to-a-halt-cnbc",
-      "title": "伊朗战争可能导致七国集团增长最快的经济陷入停滞 - CNBC",
-      "summary": "伊朗战争可能导致七国集团增长最快的经济陷入停滞 CNBC",
-      "originalTitle": "The Iran war risks bringing the G7's fastest-growing economy to a halt - CNBC",
-      "originalSummary": "The Iran war risks bringing the G7's fastest-growing economy to a halt  CNBC",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9ZdWlsQkRocEJpQlhYZ01UNEdsRm00dUQzZlJSSXNDVUxUMEtiOFJJMUI2SFVuYldzTy1jUFBIWU85UENPMGFWb3JiWXdLdVVUcE9Ba3h2WlJ3UnNZcmJSb3FFWTFrT2VpWWNjTVhXNEstdEJHT2FKdFJpemdKZw?oc=5",
-      "publishedAt": "2026-08-13T11:40:22+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-robertson-and-mctominay-train-scotland-prepare-for-morocco-2026-fifa-world-cup-psg-vs-stade-brestois-standin",
-      "title": "罗伯逊和麦克托米奈训练！ 💪 苏格兰为摩洛哥做准备 🏆 2026 年 FIFA 世界杯巴黎圣日耳曼 vs 布雷斯托瓦体育场 积分榜 (49WYDzAqFF) - Mshale",
-      "summary": "罗伯逊和麦克托米奈训练！ 💪 苏格兰为摩洛哥做准备 🏆 2026 年 FIFA 世界杯巴黎圣日耳曼 vs 布雷斯托瓦体育场 积分榜 (49WYDzAqFF)  Mshale",
-      "originalTitle": "ROBERTSON AND MCTOMINAY TRAIN! 💪 Scotland Prepare For Morocco 🏆 2026 FIFA World Cup Psg Vs Stade Brestois Standings (49WYDzAqFF) - Mshale",
-      "originalSummary": "ROBERTSON AND MCTOMINAY TRAIN! 💪 Scotland Prepare For Morocco 🏆 2026 FIFA World Cup Psg Vs Stade Brestois Standings (49WYDzAqFF)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1oREVSOWNNcXFvNXNyNHNjcm5Ec2RFakk1VV9UdVE4eHNGQ3Y2Wm1rNW5tUHp2TFBnS2JCTnkxM2tiTXU1TFlHZXQ2TEVYUmQwWGNvZGdFVFV6YVIyR2lVdg?oc=5",
-      "publishedAt": "2026-08-13T11:33:13+00:00",
-      "heat": 60
     }
   ]
 }
