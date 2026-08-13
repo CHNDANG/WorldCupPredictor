@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T22:20:16.672091+00:00",
+  "updatedAt": "2026-08-13T23:13:13.850904+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,20 @@
   ],
   "articles": [
     {
+      "id": "google-news-kansas-city-approves-2031-fifa-women-s-world-cup-2031-men-s-rugby-world-cup-bids-kmbc",
+      "title": "堪萨斯城批准 2031 年国际足联女子世界杯和 2031 年男子橄榄球世界杯申办 - KMBC",
+      "summary": "堪萨斯城批准 2031 年 FIFA 女子世界杯和 2031 年男子橄榄球世界杯申办 KMBC",
+      "originalTitle": "Kansas City approves 2031 FIFA Women's World Cup, 2031 Men's Rugby World Cup bids - KMBC",
+      "originalSummary": "Kansas City approves 2031 FIFA Women's World Cup, 2031 Men's Rugby World Cup bids  KMBC",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNajVHek5HY1YyQXVNZExPUGExNk1LampBYVU0dkE0bFNGTHpNM3F5RWtLaTRBV2RiYk5kNXNuTlk5bXRMai1tNHBaQ0EyaWlWdmVSd3JDZGttVEs2Y18xanlpc0xLMWNmbFNBX3R4X21pVzM3SUNMcTJrRlBOczEwZ2hnZy1haUR0ZzNrYm85SzBldW1YX1Q0?oc=5",
+      "publishedAt": "2026-08-13T22:26:17+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-local-referee-michael-barwegen-reflects-on-world-cup-journey-the-lethbridge-herald",
-      "title": "当地裁判迈克尔·巴韦根回顾世界杯之旅 - 莱斯布里奇先驱报",
+      "title": "当地裁判迈克尔·巴维根回顾世界杯之旅 - 莱斯布里奇先驱报",
       "summary": "当地裁判迈克尔·巴韦根 (Michael Barwegen) 回顾世界杯之旅 莱斯布里奇先驱报",
       "originalTitle": "Local referee Michael Barwegen reflects on World Cup journey - The Lethbridge Herald",
       "originalSummary": "Local referee Michael Barwegen reflects on World Cup journey  The Lethbridge Herald",
@@ -20,15 +32,39 @@
       "heat": 52
     },
     {
-      "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-havasu-news",
-      "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - 哈瓦苏新闻",
-      "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 哈瓦苏新闻",
-      "originalTitle": "A World Cup referee shares his view of red cards, hydration breaks and soccer history - Havasu News",
-      "originalSummary": "A World Cup referee shares his view of red cards, hydration breaks and soccer history  Havasu News",
+      "id": "google-news-the-26-most-unforgettable-fan-photos-from-the-2026-world-cup-yahoo-sports",
+      "title": "2026 年世界杯 26 张最难忘的球迷照片 - 雅虎体育",
+      "summary": "2026 年世界杯 26 张最令人难忘的球迷照片 雅虎体育",
+      "originalTitle": "The 26 most unforgettable fan photos from the 2026 World Cup - Yahoo Sports",
+      "originalSummary": "The 26 most unforgettable fan photos from the 2026 World Cup  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPa2xWdk5TdTZNekpOb3NXdjlBLXdQdFhUUE9FaVdPUHNLWUpEU2pwMjRuLUxDeXdHQlZKVkhnUGNEbi1rdzg3Y3FlVXpMa2xhOEpZcENkWFRWOFQyXzIxZFpTXzJ2LTVSMVg5VGgtR2JzS1NvaDAxRExXWjFGb0ZnUFotdlAtLWQwMk1TNEZvSFp6UjhRdTgzOFhzb1dlbzBsNVZBWXNVM1dHM1dSSnY5TUJla09VbnFnUmhUMnBuWVFCVm5DVEhnY29wUGRnRTBEQzREMEZfSGVsS05LU3B6dlF3WDNoQ0Jna2dIa1ozQ1E2bl8wU1p4MmpfOW9UcXBNSlIwT0gyUWhJd21oendmZVNB?oc=5",
-      "publishedAt": "2026-08-13T22:00:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjJ4MzlJcG1rY080TnczSFhqQThyaGJTNEdxS3kzU0N3Y09wTGFwUkk0eno4bE5ZVkladjNFaDR4UVVCSUczRmxvUFl6WE9vRlZuelRCbXk1Z1FXVnRIRzI1Vno5RVVvaU5fUzFZMFd6Y2hSQWZXUjNDaThINldOMkp0TThXVzBV?oc=5",
+      "publishedAt": "2026-08-13T21:06:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-accurate-long-balls-per-90-morocco-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "每 90 秒的准确长传 - 2026 年 FIFA 世界杯摩洛哥统计数据 - FotMob",
+      "summary": "每 90 秒的准确长传 - 2026 年 FIFA 世界杯摩洛哥统计数据 FotMob",
+      "originalTitle": "Accurate long balls per 90 - Morocco stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Accurate long balls per 90 - Morocco stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQQWttaDY5TklEUWtPVWwtTTJ4ZUJ2aFB5YXM0WkE3amgwYVduZnRTbEF1cnQ2NG1nYklFRUtGaHpSYUo4U2hpRE9pSEliM3pvMDhOZ1ZLMnNlU3NUbjVjZUlCT2hUclRoaDlQSFBnX1VSU3lqZUtXaVNsaDJRSnVITUJrWFIwYkoyVjRzV1hYR2FUR05ZdXI2ZXU1SUxoSDM5WDhPRThpczJIeTh6azFycjlMRWVad3BZWHUtM0lBaW1MOXdqTVpFQlF2Y084ZFFHUVpEdGVaR3dONE52SXFYUVVsWUdZdzhqQ0Jsc1FSd3kycVZtMk8wXzdTNnJNQUdvWmttOEtOcUtPdGQ3QWtILUhNZm1leXU1UU41WklTcXBMUWF6Z0VZ?oc=5",
+      "publishedAt": "2026-08-13T20:29:57+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
+      "publishedAt": "2026-08-13T20:15:09+00:00",
       "heat": 52
     },
     {
@@ -44,6 +80,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-2026-fifa-world-cup-group-h-preview-ufc-white-house-card-oc9ctgsznm-mshale",
+      "title": "2026 FIFA 世界杯 H 组预览 Ufc 白宫卡 (Oc9CtGSznM) - Mshale",
+      "summary": "2026 年 FIFA 世界杯 H 组预览 Ufc 白宫卡 (Oc9CtGSznM)  Mshale",
+      "originalTitle": "2026 FIFA World Cup Group H Preview Ufc White House Card (Oc9CtGSznM) - Mshale",
+      "originalSummary": "2026 FIFA World Cup Group H Preview Ufc White House Card (Oc9CtGSznM)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pZGUzd2FtRkNhWXNFcjV6a0tNNHJ6SFk2MWo2QzRKNHVBOEVtOGtrZ05yVGVYSWpuaXNCN1dSaEZGVTdUMl8teW1HcnJUa0dBMjRVU0x1OE1SWlk?oc=5",
+      "publishedAt": "2026-08-13T19:15:32+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-a-world-cup-referee-shares-his-view-of-red-cards-hydration-breaks-and-soccer-history-dailyrecordnews-com",
       "title": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 - dailyrecordnews.com",
       "summary": "世界杯裁判分享他对红牌、补水休息和足球历史的看法 dailyrecordnews.com",
@@ -54,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOMW1zZmZic2kzdVZJYzRkYUtWTHJTTnhPSjF5MjUxc28wTlZtVHE0THVxOU5HOE42Znhwem9xemlSNWtHZjY5c1VwcXp0SzVIZjA5RTlRdnpKZC01NDFzSzFrTDhLUXNYZnk4S2lzTV9rZXpJTlN3SkpPSHdVYk1QS1BWa04yQklXa3BzLXhYMG1qWmd0aDdFc2Y1cFExNE1OS3otTk1VWWtUNTVkUmFQSjllelZOSE51QnRHOE5KcTZFeG1sU2dvRnpGT3JEUzRFR3pobW1uQkpqSG94Yks5U193RFpRWjBkMFVUQ0RuOXRYTnJWVnlhSGRDNzEyMVc2VVM1WGhvLVM?oc=5",
       "publishedAt": "2026-08-13T19:00:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-mexico-vs-england-round-of-16-preview-huile-gjw48vhtbd-mshale",
+      "title": "2026 年 FIFA 世界杯墨西哥对阵英格兰 - 16 强 - 预览 Huile (gjw48VhtBD) - Mshale",
+      "summary": "2026 年 FIFA 世界杯墨西哥 vs 英格兰 - 16 强 - 预览 Huile (gjw48VhtBD)  Mshale",
+      "originalTitle": "2026 FIFA World Cup Mexico Vs England - Round Of 16 - Preview Huile (gjw48VhtBD) - Mshale",
+      "originalSummary": "2026 FIFA World Cup Mexico Vs England - Round Of 16 - Preview Huile (gjw48VhtBD)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92U2M3R2k4RzRiSlJKVUI0SnZHbXYwS3BFQnQzSzg4b2N4Q01DZzVCVWhMQk5tMDNYS0IyZ0RPZDZ6bjF3T05LbXRyd3ZMLTliZXlvV0lZbUM4aXFFWnVoWQ?oc=5",
+      "publishedAt": "2026-08-13T18:57:26+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-expected-goals-on-target-xgot-morocco-stats-for-fifa-world-cup-2026-fotmob",
@@ -70,10 +130,10 @@
     {
       "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
       "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
-      "summary": "2026 世界杯 Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
+      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
       "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
       "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
-      "translation": "online/local",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
       "publishedAt": "2026-08-13T18:45:16+00:00",
@@ -116,15 +176,27 @@
       "heat": 60
     },
     {
-      "id": "google-news-highlights-germany-3-1-1-4-paraguay-fifa-world-cup-2026-thuram-agtvhuja4v-mshale",
-      "title": "亮点|德国 (3)1-1(4) 巴拉圭 | FIFA 世界杯 2026™ 图拉姆 (AGTVhuJA4V) - Mshale",
-      "summary": "亮点|德国 (3)1-1(4) 巴拉圭 | FIFA 世界杯 2026™ 图拉姆 (AGTVhuJA4V)  Mshale",
-      "originalTitle": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™ Thuram (AGTVhuJA4V) - Mshale",
-      "originalSummary": "Highlights | Germany (3)1-1(4) Paraguay | FIFA World Cup 2026™ Thuram (AGTVhuJA4V)  Mshale",
+      "id": "google-news-sweden-vs-tunisia-fifa-world-cup-2026-group-f-death-match-opener-fc-26-simulation-yuji-ohno-4ccinyp6fe-mshal",
+      "title": "瑞典VS突尼斯！ 2026 年国际足联世界杯 | F组死亡赛揭幕战| FC 26 模拟 Yuji Ohno (4ccInyp6fE) - Mshale",
+      "summary": "瑞典VS突尼斯！ 2026 年国际足联世界杯 | F组死亡赛揭幕战| FC 26 模拟 Yuji Ohno (4ccInyp6fE)  Mshale",
+      "originalTitle": "SWEDEN VS TUNISIA! FIFA WORLD CUP 2026 | Group F Death Match Opener | FC 26 Simulation Yuji Ohno (4ccInyp6fE) - Mshale",
+      "originalSummary": "SWEDEN VS TUNISIA! FIFA WORLD CUP 2026 | Group F Death Match Opener | FC 26 Simulation Yuji Ohno (4ccInyp6fE)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9CUEEzRHVDZnpfYjc2YTZfUUVzNVlMVzlZMGdBUkx1SlhkSkF4bER2cnBMR3VnMHZrOTAxYU1JVHdfeTdGeEluLUZ0b0cycDJabEprTUE4M1hacnVmMFJMNw?oc=5",
-      "publishedAt": "2026-08-13T17:41:19+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9WM3FuZE5hLV9xV09yeXpHckJ5V2hDRng0R3hDNGg5eGc5Q2JtVFB4RTVqVDJDcHBVZzRVRXl1M0dCenFSejVYcG1WV1lpZkhTdm94UFFncjV2blU?oc=5",
+      "publishedAt": "2026-08-13T17:35:27+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-vs-egypt-2026-fifa-world-cup-round-of-16-match-prediction-andy-burnham-k88tqpiecv-mshale",
+      "title": "阿根廷VS埃及| 2026 年世界杯 | 16 强 |比赛预测 Andy Burnham (k88tqpIecv) - Mshale",
+      "summary": "阿根廷VS埃及| 2026 年世界杯 | 16 强 |比赛预测 Andy Burnham (k88tqpIecv)  Mshale",
+      "originalTitle": "Argentina Vs Egypt | 2026 FIFA World Cup | Round Of 16 | Match Prediction Andy Burnham (k88tqpIecv) - Mshale",
+      "originalSummary": "Argentina Vs Egypt | 2026 FIFA World Cup | Round Of 16 | Match Prediction Andy Burnham (k88tqpIecv)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9SR2RacUozdlBtWElkc1B3bU03UEpjRDhNV096aFMzMUR0RkpXSnhfM1ZBTXBYeVJScWwtRWpsb04zaGF6VmhNZ25IZ2U3RUNKTF9mWHA3akdFaFhEUGotOQ?oc=5",
+      "publishedAt": "2026-08-13T17:31:17+00:00",
       "heat": 60
     },
     {
@@ -150,78 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1Q1VUVhOWVXbmpRaWFDOWg0U1dtNkozcjJ5WkJObUIwSDgzMDFWSTdrMk5oZHlwVkJ2Z0NHdzJFOTQwbUNvNWVGVGRrUTE3SkpoMTktSDZzXzA0MVVMZFlrZHBSOG43MlRyMmpjYzFFMy1IcjdnMFNESTAtbWhBTkFTOUNzVFRpUGdXNHB6V1lBdFk1R3VnVVlwdWlEbEF1clcxNjRoTQ?oc=5",
       "publishedAt": "2026-08-13T16:48:28+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-why-india-are-not-playing-asean-cup-2026-olympics-com",
-      "title": "为什么印度不参加 2026 年东盟杯 - olympics.com",
-      "summary": "为什么印度不参加 2026 年东盟杯 olympics.com",
-      "originalTitle": "Why India are not playing ASEAN Cup 2026 - olympics.com",
-      "originalSummary": "Why India are not playing ASEAN Cup 2026  olympics.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUG9lcWE2cDJVeU9JRGJOMWFzdU5DZ3lWakRtY19VbkczdGpJZnJfMlJiNEwyNDFTcXktbW93aksyd0Y2aW13cmNmUVA2cl9XbEpNUWFCU2p6eEd2c0RpUHF2WnNlcjVLaWlUQTlGUjU0SjJ2eDQ3Wm0yeFdJQ1NueVpRN3VHZw?oc=5",
-      "publishedAt": "2026-08-13T16:37:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-france-vs-spain-fifa-world-cup-2026-semi-final-watchalong-live-beth-rigby-s3ce2iej8x-mshale",
-      "title": "法国🇫🇷 vs 西班牙🇪🇸 | 2026 年 FIFA 世界杯半决赛现场直播！ 🏆⚽ 贝丝·里格比 (s3ce2IEJ8x) - Mshale",
-      "summary": "法国🇫🇷 vs 西班牙🇪🇸 | 2026 年 FIFA 世界杯半决赛现场直播！ 🏆⚽ 贝丝·里格比 (s3ce2IEJ8x)  Mshale",
-      "originalTitle": "FRANCE 🇫🇷 Vs SPAIN 🇪🇸 | FIFA WORLD CUP 2026 SEMI-FINAL WATCHALONG LIVE! 🏆⚽ Beth Rigby (s3ce2IEJ8x) - Mshale",
-      "originalSummary": "FRANCE 🇫🇷 Vs SPAIN 🇪🇸 | FIFA WORLD CUP 2026 SEMI-FINAL WATCHALONG LIVE! 🏆⚽ Beth Rigby (s3ce2IEJ8x)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80OHRRbDVyckFiZGtUaktxay1ObGxWUlAxRGdHUzQ2TzFBQk1td2NzeW11Nnk5Zm1TR19NRmFyekRJU3lwVkRqcWx2dXByWURpUWFkTHNEZy1NVGxhTFVFQw?oc=5",
-      "publishedAt": "2026-08-13T16:29:01+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-who-is-india-s-captain-for-women-s-hockey-world-cup-2026-sportingnews-com",
-      "title": "2026 年女子曲棍球世界杯印度队队长是谁？ - 体育新闻网",
-      "summary": "2026 年女子曲棍球世界杯印度队队长是谁？  体育新闻网",
-      "originalTitle": "Who is India's captain for women's hockey World Cup 2026? - sportingnews.com",
-      "originalSummary": "Who is India's captain for women's hockey World Cup 2026?  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNQWp1dXRQbnR0TEZSSEozTkpxTnFVNER3RVFWU2o4cUs3RVhHUlZzSFFwYkFKMENnQV9qenVDSXZvZjhpWUcxQUxXY2dSZF91T2VQSjFxMGJWa3FKTnI2b0FIS1NTRHBPWlRfM3dDVGJ6R09NSWg0MlZQd3IzSWd2d2YxaXc1VGN6MjFCbk9oaExGaVJ2QURfYUZPUUR1UVFraGpVVnJuLVVMM3VuSDZvelh3dThtbm1HTk9zdw?oc=5",
-      "publishedAt": "2026-08-13T16:28:37+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bayern-munich-s-manuel-neuer-on-very-bitter-world-cup-exit-bavarian-football-works",
-      "title": "拜仁慕尼黑队的曼努埃尔·诺伊尔对世界杯出局感到“非常痛苦” - Bavarian Football Works",
-      "summary": "拜仁慕尼黑队的曼努埃尔·诺伊尔谈世界杯出局“非常痛苦” Bavarian Football Works",
-      "originalTitle": "Bayern Munich’s Manuel Neuer on ‘very bitter’ World Cup exit - Bavarian Football Works",
-      "originalSummary": "Bayern Munich’s Manuel Neuer on ‘very bitter’ World Cup exit  Bavarian Football Works",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaHQtRWhQZV9zc1RRNmpUYnVWNmZaOXcyaERaNm05aUJZV3pvdWdNdjBHejB5aHRTUGZfUDFmT2hXa25RU1J4ZXNUSU9EYWliZjluRmpuRkVIQWVOMDI0NzRqbkg3T2ZYSmNoajM4c2VSLUlZblRwVnoxMC1xalJKdk1wRW1sU1o1UERBbjNsLTN0YlBzSlRtR3dLQWh3UE9CYXNjTlNWRnNFcHhEMEZOLW0tTElsV1hCU1JhQlNrMHY?oc=5",
-      "publishedAt": "2026-08-13T16:15:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
-      "publishedAt": "2026-08-13T16:04:37+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-2026-world-cup-slowed-hotel-bookings-in-mexican-beach-destinations-but-demand-picked-up-after-the-tourna",
-      "title": "2026 年世界杯导致墨西哥海滩目的地的酒店预订放缓，但赛事结束后需求有所回升 - Travel2Latam",
-      "summary": "2026 年世界杯导致墨西哥海滩目的地的酒店预订放缓，但赛事结束后需求有所回升 Travel2Latam",
-      "originalTitle": "The 2026 World Cup slowed hotel bookings in Mexican beach destinations, but demand picked up after the tournament - Travel2Latam",
-      "originalSummary": "The 2026 World Cup slowed hotel bookings in Mexican beach destinations, but demand picked up after the tournament  Travel2Latam",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPeTlmd3Q2eEJYUFZJRkVPdEdwV2lpQ3lqUVc3MnhxaTFBVFF3RG9Va2ZYMTVKdmMwNWNUcFRCXzJPeloxUzVVVnJpczFpU2o0YlFoV1N0ak9adzE5bm05UUtLZGI2R1hDbWdNekNZYlh6b294RFdSU1RmM1lBNllqcTJtZEJsYjBVekJDRHlMeTRNMFR3emFlaHNTeElmWFNDMFFlN0REZklfeE50VTNkUjRVN1ZiUHZmTEFUVnlqS2xDTEtSUWlFSGNMamR0cmY5bEUtUmxadlV6Q0lKaWttUkVDQ0N6dnN5eFYzcFRB?oc=5",
-      "publishedAt": "2026-08-13T15:51:58+00:00",
-      "heat": 52
     }
   ]
 }
