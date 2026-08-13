@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T06:58:13.035177+00:00",
+  "updatedAt": "2026-08-13T08:38:57.943123+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-heat-wave-and-world-cup-hand-uk-economy-a-surprise-boost-bloomberg",
+      "title": "热浪和世界杯给英国经济带来意外提振 - 彭博社",
+      "summary": "热浪和世界杯给英国经济带来意外提振 彭博社",
+      "originalTitle": "Heat Wave and World Cup Hand UK Economy a Surprise Boost - Bloomberg",
+      "originalSummary": "Heat Wave and World Cup Hand UK Economy a Surprise Boost  Bloomberg",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOanZfZU81X0FmUHEtU013V1pOR1N2UV9oT25Ba01WNVZraUZFTEVpQzFrWjlaT0Y2UDlZaTNRc3FaRmJWU1pwTk15Yk1ncG9OZ053ZXhKbkN1QjVEREM4eFdub0IxY0ozUDFPNXZuUHpZanNDUEZpc2pGdTJFcUVFR0dwY0ZocFJlQ3F3WDlfalF3Mk9EeEtSdG5qNFFyclZQQV9vZzRWY0dna1JsWS1nNQ?oc=5",
+      "publishedAt": "2026-08-13T07:25:36+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-13T07:12:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-india-withdraws-from-2026-fifa-asean-cup-to-play-brazil-at-home-vnexpress-international",
+      "title": "印度退出2026年东盟杯，主场对阵巴西 - VnExpress International",
+      "summary": "印度退出 2026 年 FIFA 东盟杯，主场迎战巴西 VnExpress International",
+      "originalTitle": "India withdraws from 2026 FIFA ASEAN Cup to play Brazil at home - VnExpress International",
+      "originalSummary": "India withdraws from 2026 FIFA ASEAN Cup to play Brazil at home  VnExpress International",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQRXVEQ2R3M08yRVRRN3lPck1iYl9zUVQ1aGhmV0hzVjl5SjFzcGZVN2VwZ1Z3UEpYX0hicUVackJ6bkdaVTdKbDk1bVQ3MEtOQ0oyZGZwV0MxRHNjdW83eDJrVDA3b1NqbzU3c0dMTzJqODBlWE9JMkJfNEdFV2pFZWpndll3VjAtRDVPeFFtNVJhekljZWM5ajNsQkx4VFVlTFR5Mmd0TzJSQUhNeXpjeVpaZEV6d2p3c2FTYlNn?oc=5",
+      "publishedAt": "2026-08-13T06:52:18+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-d-fend-solutions-secures-2026-fifa-world-cup-with-counter-drone-takeover-technology-unmannedsystemstechnolog",
       "title": "D-Fend 解决方案利用反无人机接管技术确保 2026 年 FIFA 世界杯的安全 - unmannedsystemstechnology.com",
@@ -17,6 +53,30 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQZzBKeWdFTDRFbmRXeHh4ZFdzMGQ2MG5aMXNoX2I0Qm1JR0JqN2UwZGpnZEkybk1QeHBKUUxYVVNUSWN3ZXVFb2RVbGZERkNONjFVbHdHbWo4eVhIbVFSMDdyXzlUUjlPZGlpN1hnSHdTQjhFVmpreDdOcUVNajE5YkNMUUlsdU9QaFg0MEtkMmFGX1djN1ZETEFNS1R3ZFd4RzZhRmVsVUJUTDJNcWJ5OURYVE5CUjVoeHp0djZHSTJxeWdOR3ZmMjRMa1V2ODg?oc=5",
       "publishedAt": "2026-08-13T06:05:44+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fotmob-rating-paraguay-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "FotMob 评级 - 巴拉圭 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "summary": "FotMob 评级 - 2026 年 FIFA 世界杯巴拉圭统计数据 FotMob",
+      "originalTitle": "FotMob rating - Paraguay stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "FotMob rating - Paraguay stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZF81djh3YmFQT0FlWUF3MzVpWmdkWnF4ejF0ck9ySTRmR0lEZy1BbENYekFTWEQ2N21OeDd6VVNyd3F1elhwQl9OQzBxZHNhUThVdUM1aVJmQmhvbFBuSHhRYndvZHdoMzVnUHFwX0k5TWVqb2tQYmZXRmRhbTJ4SEkySS15Ry1xdGhaTUl3X0RVeDRVNnVaM0k2VUpaVG1sXy1hUEZlTUxwR2ItRElNNFlJN1I2T0N0cUU2RDNB?oc=5",
+      "publishedAt": "2026-08-13T05:33:33+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-expected-assists-xa-south-africa-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "预期助攻 (xA) - 2026 年 FIFA 世界杯南非统计数据 - FotMob",
+      "summary": "预期助攻数 (xA) - 2026 年 FIFA 世界杯南非统计数据 FotMob",
+      "originalTitle": "Expected assists (xA) - South Africa stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Expected assists (xA) - South Africa stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQeDZfaTFzend1d1BaamFveXMwdU9qTnozRWtnWG51TkxFV0V3bmlTTXk0Y2NpQ2x0T1RIUkdBLXZxamtnY2ZxUXpIQ3FUclQ2c3NDVTdWZlZFOGlYaVhORkxCSVg5bGozdVBDb1ZvQnFWXzZBR1F1bHNFMmd1R3lEdGJ4dk0tc3hpWUNPVHhtdmNzTElhMzR1ZDJwN2RsX19BZ2dfaVV3SDJibkpDQkVzU0NqV0dYMzVLS01jWDM3YmU2UlhIR05KQ1hnMWRTWmlJUVJEV3c2U3E1eHgwSDBqcDBiQmlHcEJKc2NnVGRrcXpMRV9aempsV0I5dVQ?oc=5",
+      "publishedAt": "2026-08-13T05:23:16+00:00",
       "heat": 60
     },
     {
@@ -44,11 +104,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-my-say-the-world-cup-and-the-world-2026-edition-the-edge-malaysia",
-      "title": "我的看法：世界杯和世界：2026 年版 - The Edge Malaysia",
-      "summary": "我的观点：世界杯和世界：2026 年版 The Edge Malaysia",
-      "originalTitle": "My Say: The World Cup and the world: 2026 edition - The Edge Malaysia",
-      "originalSummary": "My Say: The World Cup and the world: 2026 edition  The Edge Malaysia",
+      "id": "google-news-my-say-the-world-cup-and-the-world-2026-edition-theedgemalaysia-com",
+      "title": "我的观点：世界杯和世界：2026 年版 - theedgemalaysia.com",
+      "summary": "我的观点：世界杯和世界：2026 年版 theedgemalaysia.com",
+      "originalTitle": "My Say: The World Cup and the world: 2026 edition - theedgemalaysia.com",
+      "originalSummary": "My Say: The World Cup and the world: 2026 edition  theedgemalaysia.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE91NXVpQ0piallWMUxJaDZSWEtYdm1Ub3pMY1dCUXROekU4VHdhbllhRk5XR2RIZHN0ekxNb3dOdWFJOTVzem4wOUVRX25fZnZi?oc=5",
@@ -116,18 +176,6 @@
       "heat": 68
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-13T00:09:48+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-fifa-fan-fest-heart-gateway-origins-meaning-what-comes-next-for-kc-s-world-cup-icon-kshb-41-kansas-city",
       "title": "FIFA 球迷节 Heart Gateway：KC 世界杯偶像的起源、意义和下一步 - KSHB 41 堪萨斯城",
       "summary": "FIFA 球迷节 Heart Gateway：堪萨斯城世界杯标志的起源、意义和下一步发展 KSHB 41 堪萨斯城",
@@ -164,63 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-watch-fifa-world-cup-2026-switzerland-vs-bosnia-herzegovina-crucial-group-b-showdown-live-fenerbahçe-fbxnl4k",
-      "title": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|现场费内巴切 (fBXNL4k172) - 姆沙勒",
-      "summary": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切 (fBXNL4k172) 直播",
-      "originalTitle": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172) - Mshale",
-      "originalSummary": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172)  Mshale",
+      "id": "google-news-2026-fifa-world-cup-team-guide-algeria-metro-b-roma-idtfqszlar-mshale",
+      "title": "2026 年 FIFA 世界杯球队指南：阿尔及利亚 Metro B Roma (IdtfqszLar) - Mshale",
+      "summary": "2026 年 FIFA 世界杯球队指南：阿尔及利亚 Metro B Roma (IdtfqszLar)  Mshale",
+      "originalTitle": "2026 FIFA WORLD CUP TEAM GUIDE: ALGERIA Metro B Roma (IdtfqszLar) - Mshale",
+      "originalSummary": "2026 FIFA WORLD CUP TEAM GUIDE: ALGERIA Metro B Roma (IdtfqszLar)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1T1lISnFRRmhjdjlZOU9icDZXczNpcG1jRUFhZUR6dnNmUHZFUmlPdXJ2SVVtSGFCQS1jcnktRzZhSExRay1DMWFUdjR3QmEwOF81ZU9yamxuM3NhZkN5WA?oc=5",
-      "publishedAt": "2026-08-12T21:59:10+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-houston-on-short-list-to-host-2031-fifa-women-s-world-cup-matches-mayor-says-khou",
-      "title": "市长称休斯顿已进入主办 2031 年 FIFA 女足世界杯比赛的候选名单 - KHOU",
-      "summary": "休斯顿市长表示，休斯顿已列入 2031 年 FIFA 女足世界杯主办权候选名单",
-      "originalTitle": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says - KHOU",
-      "originalSummary": "Houston on short list to host 2031 FIFA Women’s World Cup matches, mayor says  KHOU",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWEZBYmI2ZS1TTlNFcEl0MG5oZEMtLVpJOVZjX2tDYnAwUF91WGE2eFc1UWpEMEdyRm5kXzc3YVZpT3U2bEtQblltdERha3hWcVpad0NtZFYxempSbUNaQURidXZEellrU1BqelhuLUxUVTRCNFZIdkpxR0I5bmVGaE1FRWRfMGpCbGZOYnRwNTFudllpNlpvNWZ1U2dsd3MzNjZSd3JSMVFUSmxUZzVUQWczeTNGZV9HenJHbzBManA2MU1oMHVr?oc=5",
-      "publishedAt": "2026-08-12T21:51:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-national-medal-of-honor-museum-welcomes-2026-fifa-world-cup-fans-national-medal-of-honor-museum",
-      "title": "国家荣誉勋章博物馆欢迎 2026 年 FIFA 世界杯球迷 - 国家荣誉勋章博物馆",
-      "summary": "国家荣誉勋章博物馆欢迎 2026 年 FIFA 世界杯球迷 国家荣誉勋章博物馆",
-      "originalTitle": "National Medal of Honor Museum Welcomes 2026 FIFA World Cup Fans - National Medal of Honor Museum",
-      "originalSummary": "National Medal of Honor Museum Welcomes 2026 FIFA World Cup Fans  National Medal of Honor Museum",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSUpka05UNm5aOVpIY2ZadV9tNXlvUXg0TmJOdEhqUGhKb2s0c2Z4UWVMR01mZTdyYzJ1emc5bFdUdXRRT3U4cnBBRkxpZHctOVpGTlBhREFyQi1UNW9OOFhzNUF3dEQxNHpHbDJhYUNpVHJwVFkwQ2tBSDVXNXYwMjk5QmcxZUtHZko3dTloUmNnM2JSS1pZcUtoNG8?oc=5",
-      "publishedAt": "2026-08-12T21:45:43+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-united-states-vs-paraguay-extended-highlights-2026-fifa-world-cup-mike-matheson-pmxa3ywe7r-mshale",
-      "title": "美国 vs 巴拉圭 加长集锦 🌎🏆 2026 FIFA 世界杯™ Mike Matheson (PMxa3YwE7r) - Mshale",
-      "summary": "美国 vs 巴拉圭 加长集锦 🌎🏆 2026 FIFA 世界杯™ Mike Matheson (PMxa3YwE7r)  Mshale",
-      "originalTitle": "United States Vs Paraguay Extended Highlights 🌎🏆 2026 FIFA World Cup™ Mike Matheson (PMxa3YwE7r) - Mshale",
-      "originalSummary": "United States Vs Paraguay Extended Highlights 🌎🏆 2026 FIFA World Cup™ Mike Matheson (PMxa3YwE7r)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BU0NiRmRXOVRVWUxpT3RzOHVWOU8xa09DR0ZXaXlwd3VXakI4UUhWSXVQb0tpS0hQb2l0Ukpua0ZMb0RwUUFhRTZoRTh2NDZaem1QYkE4aGZCRWpvLUF1UQ?oc=5",
-      "publishedAt": "2026-08-12T21:29:17+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-canada-vs-bosnia-and-herzegovina-2026-fifa-world-cup-ea-sports-fc-26-simulation-braxton-ashcraft-svc5czv8bk-",
-      "title": "加拿大 vs 波斯尼亚和黑塞哥维那 | 加拿大2026 年世界杯 | EA SPORTS FC 26 模拟 Braxton Ashcraft (SVc5czV8BK) - Mshale",
-      "summary": "加拿大 vs 波斯尼亚和黑塞哥维那 | 加拿大2026 年世界杯 | EA SPORTS FC 26 模拟 Braxton Ashcraft (SVc5czV8BK)  Mshale",
-      "originalTitle": "Canada Vs Bosnia And Herzegovina | 2026 FIFA World Cup | EA SPORTS FC 26 Simulation Braxton Ashcraft (SVc5czV8BK) - Mshale",
-      "originalSummary": "Canada Vs Bosnia And Herzegovina | 2026 FIFA World Cup | EA SPORTS FC 26 Simulation Braxton Ashcraft (SVc5czV8BK)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PM3JSZEhfZldhT1NuN2NYdFFaamhBMjM0Y3lRekRyX2poSUZYNWVhWkVmY3NBbE9mb0NvRnRpNmJQOEZNUG5yU1dKQVJhLXF1SlNOYzRNazR0Qm8?oc=5",
-      "publishedAt": "2026-08-12T21:17:58+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wSEtfYXFnZEZaelNVRElZVVlYYW9ZMVd4WWRFNm1MVnBJRTNvNm51Sk5fRVZQTVVsZ2ZkaDMwMEpTNndaU21IZHh6aElCVnZFbVpWczdpMkUtSno0eWRDSg?oc=5",
+      "publishedAt": "2026-08-12T22:14:28+00:00",
       "heat": 60
     }
   ]
