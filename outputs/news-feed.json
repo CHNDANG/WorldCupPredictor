@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-13T19:09:43.941752+00:00",
+  "updatedAt": "2026-08-13T20:07:06.092264+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -20,6 +20,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-set-piece-goals-new-zealand-stats-for-fifa-world-cup-2026-fotmob",
+      "title": "定位球进球 - 新西兰 2026 年 FIFA 世界杯统计数据 - FotMob",
+      "summary": "定位球 - 2026 年 FIFA 世界杯新西兰统计数据 FotMob",
+      "originalTitle": "Set piece goals - New Zealand stats for FIFA World Cup 2026 - FotMob",
+      "originalSummary": "Set piece goals - New Zealand stats for FIFA World Cup 2026  FotMob",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdWMtY2JCSnl2Tk14T2F6WHp4RmNrbHJiOTB0WTVHNzRrOWRZZlpTbGJhQUZyMmtlQnpIRk43T080R2tlbHZIeWlVZC1CeTMtUHB1bjRhQjRLa1ROUk01YmtQQ1k3V25GRTFwTjRwUm5TY2ZOZXJNaDBjT29ydFR0NnRGeElkSEFZZ1M4VHZpaE9ONDFrOTJOOTdtRzNfV00waWo5U0R6OGo0Q2F4U1RB?oc=5",
+      "publishedAt": "2026-08-13T18:13:48+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-the-fifa-world-cup-should-belong-to-fans-not-super-rich-investors-the-conversation",
       "title": "国际足联世界杯应该属于球迷，而不是超级富有的投资者 - 对话",
       "summary": "FIFA 世界杯应该属于球迷，而不是超级富有的投资者",
@@ -29,6 +41,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLW1LbU9MLXpOdEplY0tQaG11TGVNNjB6TUk4Q2w4anMyX3l0WGg5Wmtyck1ERlYtc3VwcDNPZnFmbnZmYW5laENzb2JVcWRlV1plZFFXSUpTYzhvSmRyZWhOVTN2d0pvX2FJb0ptSjZucWpZSmZHSndHNUFvbVI4eDhMLVhiZHlWaWFxYnlicGRGSUZsUVozMy16djFxZTN1S3c?oc=5",
       "publishedAt": "2026-08-13T17:15:19+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-news-paramount-wbd-fifa-world-cup-nfl-and-more-sports-media-watch",
+      "title": "新闻：派拉蒙-WBD、FIFA 世界杯、NFL 等 - 体育媒体观察",
+      "summary": "新闻：派拉蒙-WBD、FIFA 世界杯、NFL 等体育媒体观看",
+      "originalTitle": "News: Paramount-WBD, FIFA World Cup, NFL and more - Sports Media Watch",
+      "originalSummary": "News: Paramount-WBD, FIFA World Cup, NFL and more  Sports Media Watch",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS1Q1VUVhOWVXbmpRaWFDOWg0U1dtNkozcjJ5WkJObUIwSDgzMDFWSTdrMk5oZHlwVkJ2Z0NHdzJFOTQwbUNvNWVGVGRrUTE3SkpoMTktSDZzXzA0MVVMZFlrZHBSOG43MlRyMmpjYzFFMy1IcjdnMFNESTAtbWhBTkFTOUNzVFRpUGdXNHB6V1lBdFk1R3VnVVlwdWlEbEF1clcxNjRoTQ?oc=5",
+      "publishedAt": "2026-08-13T16:48:28+00:00",
       "heat": 60
     },
     {
@@ -92,11 +116,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-when-does-the-2026-27-premier-league-season-start-beinsports-com",
-      "title": "2026-27 赛季英超联赛何时开始？ - beinsports.com",
-      "summary": "2026-27 赛季英超联赛何时开始？  beinsports.com",
-      "originalTitle": "When Does the 2026–27 Premier League Season Start? - beinsports.com",
-      "originalSummary": "When Does the 2026–27 Premier League Season Start?  beinsports.com",
+      "id": "google-news-when-does-the-2026-27-premier-league-season-start-bein-sports",
+      "title": "2026-27 赛季英超联赛何时开始？ - 贝因体育",
+      "summary": "2026-27 赛季英超联赛何时开始？  贝因体育",
+      "originalTitle": "When Does the 2026–27 Premier League Season Start? - beIN SPORTS",
+      "originalSummary": "When Does the 2026–27 Premier League Season Start?  beIN SPORTS",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeERyQUdGSWMwRmZvMGo3MU83aG80SDdiMEZqYlFEQzlueHFwZHdJbXctY1ZBaDdKb2lVbGh5cXVmRnN1SGtReS1HaThLQWZhMkk0X01KRTdYRGplUzltRjlpeDhlRklHRF85eVFLVnlCaFJWS1BBZU5VeG1oZFgtNEZDUm1OWW0yRlRqUTkteko2REJUTi1HdXV0Nk5mMlp6U0hFV0hjZUlodkl6X3NRRmc5dDNTczRPTXZtUUFnNGJhQQ?oc=5",
@@ -104,11 +128,11 @@
       "heat": 44
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
-      "title": "2026世界杯足球赛 - voachinese.com",
-      "summary": "2026世界杯足球赛  voachinese.com",
-      "originalTitle": "2026世界杯足球赛 - voachinese.com",
-      "originalSummary": "2026世界杯足球赛  voachinese.com",
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -176,52 +200,28 @@
       "heat": 60
     },
     {
-      "id": "google-news-france-vs-morocco-highlights-2026-fifa-world-cup-quarterfinals-beckett-sennecke-uhthelorad-mshale-com",
-      "title": "法国对阵摩洛哥的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |四分之一决赛 Beckett Sennecke (UhTHeLOraD) - mshale.com",
-      "summary": "法国对阵摩洛哥的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |四分之一决赛 Beckett Sennecke (UhTHeLOraD)  mshale.com",
-      "originalTitle": "France Vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals Beckett Sennecke (UhTHeLOraD) - mshale.com",
-      "originalSummary": "France Vs Morocco Highlights 🌎🏆 2026 FIFA World Cup™ | Quarterfinals Beckett Sennecke (UhTHeLOraD)  mshale.com",
+      "id": "google-news-canada-vs-qatar-canada-fifa-world-cup-2026-canada-6-0-qatar-canada-first-world-cup-win-moroccan-military-us-",
+      "title": "加拿大 Vs 卡塔尔，加拿大 FIFA 2026 世界杯，加拿大 6-0 卡塔尔，加拿大首次世界杯获胜 摩洛哥军人美国士兵康复 (okVkucFPON) - Mshale",
+      "summary": "加拿大 vs 卡塔尔，加拿大 FIFA 2026 世界杯，加拿大 6-0 卡塔尔，加拿大首次世界杯获胜 摩洛哥军人美国士兵康复 (okVkucFPON)  Mshale",
+      "originalTitle": "Canada Vs Qatar, Canada FIFA World Cup 2026, Canada 6-0 Qatar, Canada First World Cup Win Moroccan Military Us Soldier Recovery (okVkucFPON) - Mshale",
+      "originalSummary": "Canada Vs Qatar, Canada FIFA World Cup 2026, Canada 6-0 Qatar, Canada First World Cup Win Moroccan Military Us Soldier Recovery (okVkucFPON)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ITHNjTFN3Q2NVZjZXTWQ5bHl5MzBKcWxDQTR6M0pGYUxDM0NtUm1iQnBSLVZ2YVVXZW5BdkMzaU53amNXYWVPTmpZNkZoVXpKSTdSWmhLM2hLSHc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54RXZXdjY3WlNaVDhZV0dNZHJ0al9iZnFKd0tHMExiSzFMelRnXzJLUzJJTXl6QmczWnc1dmhpczF5YXBVS1FpSXNvbzBvQXZFNVBWczdmREYxelk?oc=5",
       "publishedAt": "2026-08-13T14:48:27+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-can-spain-win-the-2026-world-cup-yamal-s-spain-are-scary-susan-boyle-whrjidycyw-mshale-com",
-      "title": "西班牙能否夺得2026年世界杯冠军？ 🇪🇸🏆 |亚马尔的西班牙很可怕 Susan Boyle (wHRjIdycyW) - mshale.com",
-      "summary": "西班牙能否夺得2026年世界杯冠军？ 🇪🇸🏆 |亚马尔的西班牙很可怕 Susan Boyle (wHRjIdycyW) mshale.com",
-      "originalTitle": "Can Spain Win The 2026 World Cup? 🇪🇸🏆 | Yamal's Spain Are SCARY Susan Boyle (wHRjIdycyW) - mshale.com",
-      "originalSummary": "Can Spain Win The 2026 World Cup? 🇪🇸🏆 | Yamal's Spain Are SCARY Susan Boyle (wHRjIdycyW)  mshale.com",
+      "id": "google-news-anheuser-busch-was-the-1-fastest-growing-alcohol-supplier-throughout-fifa-world-cup-2026-webwire",
+      "title": "Anheuser-Busch 是 2026 年 FIFA 世界杯期间增长最快的酒精供应商第一名 - WebWire",
+      "summary": "安海斯-布希是 2026 年 FIFA 世界杯期间增长最快的酒精供应商第一名 WebWire",
+      "originalTitle": "Anheuser-Busch was the #1 Fastest Growing Alcohol Supplier Throughout FIFA World Cup 2026 - WebWire",
+      "originalSummary": "Anheuser-Busch was the #1 Fastest Growing Alcohol Supplier Throughout FIFA World Cup 2026  WebWire",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EeGxZWUhyaDNrcXRqeUFidjBrcWZwSm5ZUGMxbGRhYnFwZlpYYTNaTjlQRVBkUkZqdmhZbEs0aXJET0c2bjRpekVSVzFaTV9nVTkzVlNWTzY4YVE?oc=5",
-      "publishedAt": "2026-08-13T14:48:27+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-what-the-world-cup-revealed-about-the-future-of-stadium-design-hok-com",
-      "title": "世界杯揭示了体育场设计的未来 - hok.com",
-      "summary": "世界杯揭示了体育场设计的未来 hok.com",
-      "originalTitle": "What the World Cup Revealed About the Future of Stadium Design - hok.com",
-      "originalSummary": "What the World Cup Revealed About the Future of Stadium Design  hok.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZkpnd2xSZzk0TUtCTjJ2bk5pRFFZLWlta19UZlI3NXdWVzFxU0sxaUwzOFZoWlVTWXRfVWFiSHhYZ3g4LW5tMUE2SFpWc1Q1UzFMQW12VFJwYlV0ckhZbzM1Yjl0XzVIV0dZd0FObDR3R3E4TVVXWjZtdHRBZlVDVnpNckEwa2YwUzJBZTRKa19PSWxhdWZ6T1BrNGE?oc=5",
-      "publishedAt": "2026-08-13T14:29:57+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-iran-war-risks-bringing-the-g7-s-fastest-growing-economy-to-a-halt-cnbc-africa",
-      "title": "伊朗战争可能导致七国集团增长最快的经济陷入停滞 - CNBC Africa",
-      "summary": "伊朗战争可能导致七国集团增长最快的经济陷入停滞 CNBC Africa",
-      "originalTitle": "The Iran war risks bringing the G7′s fastest-growing economy to a halt - CNBC Africa",
-      "originalSummary": "The Iran war risks bringing the G7′s fastest-growing economy to a halt  CNBC Africa",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0QwUldocU5yWnF5WENPaFpBcl9Ucy0xMTF4SV9RMDhFNWVPUGN3cDJfYXFHOWxrdVJTQ1NVbElWbFZlV214QkM0Z192cDg4cWtpRFpJOEo0dlBhcXdXTEllMFd4aG5sMTJDMVJ5UmlFX0VQM0cxXzJvdzBFNVVPWWE4MmVWajNQNGFtcXVMcjN0UzUtQzBCd1YybFFwT2ZKVFFBMjZoOEFOdkdocXUw?oc=5",
-      "publishedAt": "2026-08-13T14:20:57+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83Mi1fWU5HTFJtZmVJSHV4b0lNSTB6Qm5MNER1WkpoX3ByUEJGQTNDYWNjNUVrQXEyRFZfWmlUM3ByQUx0NWhjcTJMVjFramRlM1pDWEp4bVZ1LWtmc2R1bg?oc=5",
+      "publishedAt": "2026-08-13T14:38:58+00:00",
+      "heat": 60
     }
   ]
 }
