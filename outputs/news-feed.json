@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T17:01:42.234141+00:00",
+  "updatedAt": "2026-08-14T18:27:26.520645+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-south-africa-and-ghana-keep-world-cup-dreams-alive-following-crucial-wafcon-2026-playoff-wins-sportscape-mag",
+      "title": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后保持世界杯梦想 - Sportscape 杂志",
+      "summary": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后继续实现世界杯梦想 《Sportscape》杂志",
+      "originalTitle": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins - Sportscape Magazine",
+      "originalSummary": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins  Sportscape Magazine",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0pBc1ZJNGxyaGp0dUhGaWNwazZXUUFqMHpSbDBQM1V1MTVhV2lIeDUtOUJBRTRfSWwtUUJoeDBWd2s2SmZ1Vl91VVZzdndvVVFqcTNaRUx4T2tzSnhkVWdHODZ5OGN0MnNhM08xS0RhbGFyVEhEejdZVVFvXzBZRWZFUWNUZkFMWEVmaHVINGU2OE9DWU1pWUIxc2tnRE5LdGpvR0hsd3M?oc=5",
+      "publishedAt": "2026-08-14T18:10:29+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-mexico-s-world-cup-shortfall-reflects-flawed-mega-event-model-mexico-business-news",
+      "title": "墨西哥世界杯的缺席反映出大型赛事模式的缺陷 - 墨西哥商业新闻",
+      "summary": "墨西哥世界杯的缺席反映出大型赛事模式的缺陷 墨西哥商业新闻",
+      "originalTitle": "Mexico's World Cup Shortfall Reflects Flawed Mega-Event Model - Mexico Business News",
+      "originalSummary": "Mexico's World Cup Shortfall Reflects Flawed Mega-Event Model  Mexico Business News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGFNSG5NNGFreVNLUEVBMU0wWmhsVWxnZHhTdTdZMXdoSlg4d2Y0Nlo0a1JNVWh0SGlBcHlOYjNiQlV1akZMbElYeGZucUlUS2VYTzV0OHo2WHlqZ3JGaEpBaEI1M0tKVTZNakpEeGh6azBfOTZmbkp4SDA0b085akg4dEdBbHNpN0Vtc2lnTHB0dnRrMC1YU18zaTUxRXNWTnR1dzF3?oc=5",
+      "publishedAt": "2026-08-14T17:35:15+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-my-world-cup-somali-referee-s-uefa-super-cup-role-조선일보",
       "title": "我的世界杯：索马里裁判在欧洲超级杯中的角色 - 조선일보",
@@ -32,6 +56,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-2026-fifa-world-cup-stadiums-ath-bilbao-valence-2e6h3mj2ka-mshale",
+      "title": "2026 年 FIFA 世界杯体育场 雅典娜。毕尔巴鄂 – 瓦朗斯 (2e6h3mj2ka) - 姆沙勒",
+      "summary": "2026 年 FIFA 世界杯体育场 雅典娜。毕尔巴鄂 – 瓦朗斯 (2e6h3mj2ka)  Mshale",
+      "originalTitle": "2026 FIFA World Cup Stadiums Ath. Bilbao – Valence (2e6h3mj2ka) - Mshale",
+      "originalSummary": "2026 FIFA World Cup Stadiums Ath. Bilbao – Valence (2e6h3mj2ka)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpQlNSaG5BeG5IR0EzRElKN010TTZlVTNmVnRQVzdxN3B2Yk4teElfbU4zYlA5SDk2aEptSG93RXdqSm5sV3QxZV9QaGVUR2xqVnBEYTBVMHU0QQ?oc=5",
+      "publishedAt": "2026-08-14T14:48:27+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-la-liga-returns-what-to-expect-from-2026-27-season-anadolu-ajansı",
       "title": "西甲回归：2026-27 赛季有何期待 - Anadolu Ajansı",
       "summary": "西甲回归：2026-27 赛季有何期待阿纳多卢阿扬西",
@@ -42,6 +78,18 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHN0ODZwanZtSmNOTGFzaEhVUl9uOWlMQzF5dXY4aEZPeXJmOXdPd3FLX3EwUmtBSkZKWVVIcTJoSTZid29Jd3d5VUFPaFBiZEFJRWl6THBJeVE1NkNPSnJDY3EzUUZyLXRjTUZZSExfdF8zM3NOT3NMQVFscllWWnhEc3ZZUUd5VFM0VzhEb3lWbmlq?oc=5",
       "publishedAt": "2026-08-14T14:47:25+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-students-at-the-fifa-world-cup-carmical-sports-media-institute-stories-uga-edu",
+      "title": "FIFA 世界杯的学生 - 卡米卡尔体育媒体学院 - Stories.uga.edu",
+      "summary": "FIFA 世界杯的学生 - Carmical Sports Media Institute  stories.uga.edu",
+      "originalTitle": "Students at the FIFA World Cup - Carmical Sports Media Institute - stories.uga.edu",
+      "originalSummary": "Students at the FIFA World Cup - Carmical Sports Media Institute  stories.uga.edu",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9laG1ROUMyNDZldDRsZGJzUTZBSmdjeW9JTlV2dTBIcWZ0VEMtbjJtY3h5NFdIaVRpczZpaFI1YW9mOUtpV1VoanVUMXNLcEhG?oc=5",
+      "publishedAt": "2026-08-14T14:35:21+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-former-white-house-world-cup-task-force-director-defends-infantino-anadolu-ajansı",
@@ -69,11 +117,11 @@
     },
     {
       "id": "google-news-the-3-weeks-that-brought-gianni-infantino-and-fifa-to-the-brink-front-office-sports",
-      "title": "将詹尼·因凡蒂诺和国际足联推向崩溃边缘的三周 - Front Office Sports",
+      "title": "The 3 Weeks That Brought Gianni Infantino and 国际足联 to the Brink - Front Office Sports",
       "summary": "这三周将詹尼·因凡蒂诺和国际足联带到了崩溃的边缘",
       "originalTitle": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink - Front Office Sports",
       "originalSummary": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink  Front Office Sports",
-      "translation": "online",
+      "translation": "local/online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1RGN3NiSDJfQnRVcy1KS0tiLVUxZzVGVDNWZWJ6bVFiQi02dW1QUTR2SEFTbGtWUWJ2cEoyNEtHWUozdzJ0dFAwb3Ezb2ZGWWNxamJzMUFiNkNhNFk4d25MZ0dYdk95UkZXaWljbW0wV2lqMktSZDFMSDVDX1lfckd5bkUteW1NNF85em5oMGk1YVpJQUg5MUxR?oc=5",
       "publishedAt": "2026-08-14T13:29:42+00:00",
@@ -92,6 +140,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-messi-ready-for-algeria-argentina-train-ahead-of-world-cup-opener-2026-fifa-world-cup-lane-hutson-ehhovqxctk",
+      "title": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 FIFA 世界杯 Lane Hutson (EHhovQXcTK) - Mshale",
+      "summary": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 年 FIFA 世界杯 Lane Hutson (EHhovQXcTK)  Mshale",
+      "originalTitle": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK) - Mshale",
+      "originalSummary": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GYkZfeFpSRkFhc2EtdDFYOVlHTTJ2SWVVNFB2RjRQazNJX05IcXc0OUdCVUJuel9xcGhuYm1rVEtJT3pVc1JEaENueEIyQ0tMc2o5aWUtQy1Lbm8?oc=5",
+      "publishedAt": "2026-08-14T12:05:36+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-stella-artois-david-beckham-team-up-to-elevate-fifa-world-cup-experience-04-16-2026-mediapost",
       "title": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 - MediaPost",
       "summary": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 MediaPost",
@@ -105,7 +165,7 @@
     },
     {
       "id": "google-news-world-cup-afcon-blord-verydarkman-feud-top-nigerians-google-searches-in-2026-premium-times-nigeria",
-      "title": "世界杯、非洲杯、Blord-VeryDarkMan 之争位列 2026 年尼日利亚人 Google 搜索榜首 - Premium Times尼日利亚",
+      "title": "世界杯、非洲杯、Blord-VeryDarkMan 之争位列 2026 年尼日利亚人 Google 搜索量榜首",
       "summary": "世界杯、非洲杯、Blord-VeryDarkMan 之争位居 2026 年尼日利亚人 Google 搜索量榜首",
       "originalTitle": "World Cup, AFCON, Blord-VeryDarkMan feud top Nigerians’ Google searches in 2026 - Premium Times Nigeria",
       "originalSummary": "World Cup, AFCON, Blord-VeryDarkMan feud top Nigerians’ Google searches in 2026  Premium Times Nigeria",
@@ -125,42 +185,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXpDdGkteGhrVmZvY0VEd1FpSENIcm1jaG9iWmVobkRWaDJKbGprT2M2T1VqNGUxaTI1WG9IdDlNU08tWklwdWZyWGh1SllyZTZtRVJ4OTVDb2dJRFBSbTQ5aUpPc3BwXzJaYl9vN2luakpKa2QxaVJad2xLUnQ1RDdwQXk1bVZOYWNZNDhTbzl2LUk5RFBnSlN5dmZyTUlPS1ZvaTh3WDAwRjM1TEJIZTA4NA?oc=5",
       "publishedAt": "2026-08-14T11:08:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-switzerland-vs-argentina-fifa-world-cup-2026-round-of-16-highlights-josh-manson-jg8artg1tk-mshale",
-      "title": "瑞士 vs 阿根廷 | FIFA 世界杯 2026 – 16 强赛精彩集锦 Josh Manson (jG8ARtg1tK) - Mshale",
-      "summary": "瑞士 vs 阿根廷 | FIFA 世界杯 2026 – 16 强赛精彩集锦 Josh Manson (jG8ARtg1tK)  Mshale",
-      "originalTitle": "Switzerland Vs Argentina | FIFA World Cup 2026 – Round Of 16 Highlights Josh Manson (jG8ARtg1tK) - Mshale",
-      "originalSummary": "Switzerland Vs Argentina | FIFA World Cup 2026 – Round Of 16 Highlights Josh Manson (jG8ARtg1tK)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bXNSZnV2MEtrOU5LT2ItaHVlWUZQamNRMkJOT1BIZE5wbGlQS2VmVWxMTnAyYzhrbDQwZEF2ZTgxX19zZjhnWnNrd1pvUW1qX1dkZVVjSEdOZzA?oc=5",
-      "publishedAt": "2026-08-14T10:49:43+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-group-j-argentina-vs-algeria-ea-sports-fc-26-lake-erie-r4pt6bn3ek-mshale",
-      "title": "2026 年国际足联世界杯 | J组：阿根廷VS阿尔及利亚| EA SPORTS FC 26 伊利湖 (r4pT6bN3EK) - Mshale",
-      "summary": "2026 年国际足联世界杯 | J组：阿根廷VS阿尔及利亚| EA SPORTS FC 26 伊利湖 (r4pT6bN3EK)  Mshale",
-      "originalTitle": "FIFA World Cup 2026 | Group J: Argentina Vs Algeria | EA SPORTS FC 26 Lake Erie (r4pT6bN3EK) - Mshale",
-      "originalSummary": "FIFA World Cup 2026 | Group J: Argentina Vs Algeria | EA SPORTS FC 26 Lake Erie (r4pT6bN3EK)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJaWt3ZlZuZlR2VnlzNXdRRUtIVkpEcWFWUnl5TDB5M1dTcjZycFlVRFF0ZHdJSTdEY2VLcVpfcDdtdVlKVzlNakk0RVA5NGFfMTVWR2JrU055MEh4aENsRQ?oc=5",
-      "publishedAt": "2026-08-14T10:41:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-a-childhood-dream-borja-iglesias-reflects-on-spain-s-surreal-world-cup-triumph-goal-com",
-      "title": "儿时的梦想！博尔哈·伊格莱西亚斯回顾西班牙超现实的世界杯胜利 Goal.com",
-      "summary": "儿时的梦想！博尔哈·伊格莱西亚斯反思西班牙超现实的世界杯胜利 Goal.com",
-      "originalTitle": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph - Goal.com",
-      "originalSummary": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVkWTdJajBveFU4MWlMWGQxWGMzSzBRTnJXb2tNeFpORFpqOWZBaGF4RjNiZjR2UUZSTjAzcWdjYTFZV1N3UW1Fc1Y1UW0za19lTi03MGljcFFPSVlzX2FraVoxNWN3aWNHZ2FMaU1Oa1VyaldocXl3UW9TVUNrRy1ackh4WUtpS2NRMzhnRURxdw?oc=5",
-      "publishedAt": "2026-08-14T10:25:54+00:00",
       "heat": 52
     },
     {
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb0ZrMEJ1cmhySTJUVmhfV0JnSW5nVnEwd1pmZUJTMW5FOUFxLXF4Z3ZxQ3BPOE9VUXZMSU00UWhBNEd4b0lLUVVnT3dhLVhYcklWc19ZSDM1bXNiZ21TLVNmZnFJWGZBd01lWld5UndoNy1qcW51M1RBV2lCSlE3MHFKa1AzbW9POEZaUHRjVDBmWllqcmhDQ3Q1cHpjcldMREV6MHVKcXJ2Q1FpNmthTNIBsAFBVV95cUxNb0ZrMEJ1cmhySTJUVmhfV0JnSW5nVnEwd1pmZUJTMW5FOUFxLXF4Z3ZxQ3BPOE9VUXZMSU00UWhBNEd4b0lLUVVnT3dhLVhYcklWc19ZSDM1bXNiZ21TLVNmZnFJWGZBd01lWld5UndoNy1qcW51M1RBV2lCSlE3MHFKa1AzbW9POEZaUHRjVDBmWllqcmhDQ3Q1cHpjcldMREV6MHVKcXJ2Q1FpNmthTA?oc=5",
       "publishedAt": "2026-08-14T09:46:25+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider",
-      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - VegasInsider",
-      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 VegasInsider",
-      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - VegasInsider",
-      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  VegasInsider",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHprbm94WFhmOXNZZHotTGkxSHdoZm1rRGlFcWRHTGNoZHM4SzJWOWFXdWVXX2V3MTQtLW5qOEYzaUdJZF81XzQzSjZkRXJlTzR6UFJxRmd0RnNIS2F6S0x0ajBQSGNQczdDemQ4MndGN2J3WldoTEgxaWFTdkNXb2UxcEhoX2JyWTlhTkxQdE9ZN2FF?oc=5",
-      "publishedAt": "2026-08-14T09:38:08+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-norway-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Norway World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Norway World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
-      "publishedAt": "2026-08-14T09:14:29+00:00",
       "heat": 52
     }
   ]
