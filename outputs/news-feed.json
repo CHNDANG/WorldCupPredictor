@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T08:20:26.907087+00:00",
+  "updatedAt": "2026-08-14T09:37:14.953680+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-the-world-cup-that-changed-europe-s-view-of-the-u-s-the-european-magazine",
+      "title": "世界杯改变了欧洲对美国的看法 - 欧洲杂志",
+      "summary": "世界杯改变了欧洲对美国的看法 欧洲杂志",
+      "originalTitle": "The World Cup That Changed Europe’s View of the U.S. - The European Magazine",
+      "originalSummary": "The World Cup That Changed Europe’s View of the U.S.  The European Magazine",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcHZvNGJaUEh6QTQyVkVkOTdWNFdyeWNPRkJXZnZjS2VKSDdpalE4NWxwVmRxM1pkZUdtdVVIclJZZ2RUMGZNWFBsREw4TWhCd2pNSmFyNnQ4aWxraXVMd2FfRDlMTW92YlpaNnRtYnEySHRrS2xPdGRGWkFESkFPNkNuTmJncGFlbi1RRkZQRloxbElXS3c?oc=5",
+      "publishedAt": "2026-08-14T08:47:05+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-nj-needs-answers-before-chasing-another-world-cup-editorial-bergen-record",
+      "title": "新泽西州在追逐另一届世界杯之前需要答案|社论-卑尔根记录",
+      "summary": "新泽西州在追逐另一届世界杯之前需要答案|社论卑尔根记录",
+      "originalTitle": "NJ needs answers before chasing another World Cup | Editorial - Bergen Record",
+      "originalSummary": "NJ needs answers before chasing another World Cup | Editorial  Bergen Record",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzJoNVFVeFpxM3dYYnFYTVZ6ZHR3LUg3V1RWX1JzRmptUk1vT2RvTFFTLXpsRGtQNF9lT3RtSXZHcTZVMFd4TWpYN3JHaDRXNHp4ejI3dWNyVDlwN1RlNkZaaDZZNThaRnFCUzdSSC13b3k1S3lra2o2cjFEemhoOWhPSThYbG5qOWJzSmtyVU5zb2ppZzBpY1BrZWVoM1hwY0hRbXUzcG9fRFBkZktGUTRTNVF5UHRmaWNkWjdCMFMzUk0teU1XOUtWOWRDTEV0dkt6akM2aTg?oc=5",
+      "publishedAt": "2026-08-14T08:18:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-svg-europe-summit-itv-sport-and-hbs-to-discuss-fifa-world-cup-2026-svg-europe",
       "title": "SVG 欧洲峰会：ITV Sport 和 HBS 讨论 FIFA 世界杯 2026 年 - SVG Europe",
@@ -18,6 +42,30 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWtJckxITl9kR2N2RTJXbXhRaUUwTUFJd1Rab2xoVkxoeW92NUZUTHU3TmFvTmxBSlhVZHBYLUJKTmNXd1dLd0pfSHhhRkRxX0tkS01keU9rOEpCQzJoa2xVeFF0Vmc0Mk5YeXl0emRGQXV1Sk9aVzM5cDhVR25jdUt5X0VQU3lhV2pZZkNJUmppM0FJbFh3b3g3cm5fWjlMS0ZSa1c2bjUxcURU?oc=5",
       "publishedAt": "2026-08-14T07:04:40+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-md5-recap-cape-verde-holding-spain-headline-day-of-draws-espn",
+      "title": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 - ESPN",
+      "summary": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 ESPN",
+      "originalTitle": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws - ESPN",
+      "originalSummary": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws  ESPN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHlxMGl1R0UxVGxJbGhlOGRUT2NPLWxTSU8xRU1hMWVveXBQbFhRb1o1UTVfWHJfRTkxeWdLVU9HOTctc0d5WFEtM3ZQYTFxQWRpbVZMdDJYNlBURldqRHhJV1RJZ0dhYUV2M015YjdERzN4M05KZElMNFd1QkY2YkhsX2tXRERmUml5YUZ4M0poNXNrYm0zR3puZXpiX0NZWmgwODhhckVzX1Nvb2x0VmFCTQ?oc=5",
+      "publishedAt": "2026-08-14T06:41:46+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-la-liga-2026-27-a-close-look-at-the-new-rules-schedule-and-where-to-watch-the-league-augustman-singapore",
+      "title": "西甲 2026-27：仔细研究新规则、赛程以及在哪里观看联赛 - AugustMan Singapore",
+      "summary": "西甲 2026-27：仔细研究新规则、赛程以及在哪里观看联赛 AugustMan Singapore",
+      "originalTitle": "La Liga 2026-27: A Close Look At The New Rules, Schedule, And Where To Watch The League - AugustMan Singapore",
+      "originalSummary": "La Liga 2026-27: A Close Look At The New Rules, Schedule, And Where To Watch The League  AugustMan Singapore",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQRXZ4QXluZHQwaGlMc3NNVkFaeWtSeGdnZzBrX3dBZ2R1MExEQ1U0dzZkeURfMXpHM1JtaDg0ZzlvU1FSMS14NGRFdXRfVlZEMnJ1amVjN3c2VkNtcTZoUDhhMHJLQ3ZjQXRZZFJLbFAydlU3T29KNWVYbEwzeThuaDduVVZCdkNuZURV0gGQAUFVX3lxTE9nNmxzbEhkelEwZ3JJd0s0cHd3WFFqdDJVbmJXSk5mNk1oYnJDVFFrdHFTemR5YVpoSXJOOWZrVUlmclJ1V25TV1Y1NXN4UkxfQ0NDTE1paFZqdnp2aVJORF9lWE4wN1FIVXFKSkpCX2tJcGhQaU42VXo0WDJndUR0c2k0VlJKQnFZVWZvZ3hKcA?oc=5",
+      "publishedAt": "2026-08-14T06:19:43+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-new-zealand-break-with-ofc-to-withdraw-infantino-support-bbc",
@@ -32,16 +80,28 @@
       "heat": 44
     },
     {
-      "id": "google-news-the-26-most-unforgettable-fan-photos-from-the-2026-world-cup-sports-yahoo-com",
-      "title": "2026 年世界杯 26 张最令人难忘的球迷照片 - sports.yahoo.com",
-      "summary": "2026 年世界杯 26 张最令人难忘的球迷照片 sports.yahoo.com",
-      "originalTitle": "The 26 most unforgettable fan photos from the 2026 World Cup - sports.yahoo.com",
-      "originalSummary": "The 26 most unforgettable fan photos from the 2026 World Cup  sports.yahoo.com",
+      "id": "google-news-the-26-most-unforgettable-fan-photos-from-the-2026-world-cup-yahoo-sports",
+      "title": "2026 年世界杯 26 张最难忘的球迷照片 - 雅虎体育",
+      "summary": "2026 年世界杯 26 张最令人难忘的球迷照片 雅虎体育",
+      "originalTitle": "The 26 most unforgettable fan photos from the 2026 World Cup - Yahoo Sports",
+      "originalSummary": "The 26 most unforgettable fan photos from the 2026 World Cup  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjJ4MzlJcG1rY080TnczSFhqQThyaGJTNEdxS3kzU0N3Y09wTGFwUkk0eno4bE5ZVkladjNFaDR4UVVCSUczRmxvUFl6WE9vRlZuelRCbXk1Z1FXVnRIRzI1Vno5RVVvaU5fUzFZMFd6Y2hSQWZXUjNDaThINldOMkp0TThXVzBV?oc=5",
       "publishedAt": "2026-08-14T06:06:51+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-south-africa-vs-canada-highlights-2026-fifa-world-cup-round-of-32-nexi-s-p-a-k1neio78em-mshale-com",
+      "title": "南非对阵加拿大的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |第 32 轮 Nexi S.p.a. (k1Neio78EM) - mshale.com",
+      "summary": "南非对阵加拿大的精彩集锦 🌎🏆 2026 FIFA 世界杯™ |第 32 轮 Nexi S.p.a. (k1Neio78EM)  mshale.com",
+      "originalTitle": "South Africa Vs Canada Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Nexi S.p.a. (k1Neio78EM) - mshale.com",
+      "originalSummary": "South Africa Vs Canada Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Nexi S.p.a. (k1Neio78EM)  mshale.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA1Sm1pd0c3YzQyVGhpRWhkWFM3ZWprMFJzcUdaWkt1U05zZDB5UC1ETkVLUzhaV0UzNzZOYy04M1pfVWU5Mk5pWWVNc2R5S2RwVFhGa0p5UDVxNDZ3UjBLNg?oc=5",
+      "publishedAt": "2026-08-14T05:45:02+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-oceania-confederation-welcomes-fifa-review-nz-withdraws-support-for-infantino-the-standard-hk",
@@ -53,6 +113,30 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmhzeFJKVEowQmJ2OERaaDN1QkYxa1B0c01EbHRndTcybExsc3ZYZEdnU21SU1N1U0tRazVpNTdIX3cxTlFEOXhEV1BieE5UQTVDMVFrVDl0dWJtbzlBTENOUm4zbXgzdUZ0SmtlcTU4NHVETkVLajNlVUUwNTg0YWxQV2lEZ3ZTWWc4eEFyRW1rSEk5Ym04OHhGRExlSl81Tno4cEFLSV9sMVJ5aGhDcVBFSXo5bGk1RmVjVUJoZkNMSmdCcUFMYw?oc=5",
       "publishedAt": "2026-08-14T05:35:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-world-cup-odds-kalshi-polymarket-predictions-live-defi-rate",
+      "title": "2026 年世界杯赔率：Kalshi 和 Polymarket 实时预测 - DeFi 汇率",
+      "summary": "2026 年世界杯赔率：Kalshi 和 Polymarket 预测实时 DeFi 汇率",
+      "originalTitle": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live - DeFi Rate",
+      "originalSummary": "2026 World Cup Odds: Kalshi & Polymarket Predictions Live  DeFi Rate",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE81MVpCNGN0TlY2LXZjTi1SNE82SjdSVWtoVEpPcWFXTWZmSjdYdkxQbDF4NXZSUDN0eHhZNXdpTlNvbU9tRXRFajFxa2ZXOEFfTVVnaGp0Z2FBSGI5M3U5TFhsQVlDQQ?oc=5",
+      "publishedAt": "2026-08-14T05:29:00+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-bundesliga-stars-at-the-2026-world-cup-dw-com",
+      "title": "德甲巨星征战 2026 年世界杯 - dw.com",
+      "summary": "德甲巨星亮相 2026 年世界杯 dw.com",
+      "originalTitle": "Bundesliga stars at the 2026 World Cup - dw.com",
+      "originalSummary": "Bundesliga stars at the 2026 World Cup  dw.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE55SmlCdkNBZjYxR3RUaVJ5SjZ4T285UVI2QURSd2pFN09qbEo3STRfdXRKVkFQSUdndkJ5TmJkUnVaUmhnYW5PLXBoSkVTR0M3TWpjVEpTMFd0ZEtBdk1Bcm43a2tUenBoNU51aUdIcXEtSnU1VnAzd19QOA?oc=5",
+      "publishedAt": "2026-08-14T04:40:27+00:00",
       "heat": 52
     },
     {
@@ -68,11 +152,23 @@
       "heat": 44
     },
     {
-      "id": "google-news-france-official-squad-for-fifa-world-cup-2026-france-fifa-world-cup-2026-rottamazione-nr2cdxviqv-mshale",
-      "title": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV) - Mshale",
-      "summary": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV)  Mshale",
-      "originalTitle": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV) - Mshale",
-      "originalSummary": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV)  Mshale",
+      "id": "google-news-belgium-official-squad-for-fifa-world-cup-2026-belgium-squad-fifa-world-cup-2026-bon-cop-bad-cop-pwpvcdos14-",
+      "title": "2026 年 FIFA 世界杯比利时官方阵容 |比利时队 FIFA 世界杯 2026 年 Bon Cop Bad Cop (pWPVCdOs14) - mshale.com",
+      "summary": "2026 年 FIFA 世界杯比利时官方阵容 |比利时队 2026 年 FIFA 世界杯 好警察坏警察 (pWPVCdOs14)  mshale.com",
+      "originalTitle": "Belgium Official Squad For FIFA World Cup 2026 | Belgium Squad FIFA World Cup 2026 Bon Cop Bad Cop (pWPVCdOs14) - mshale.com",
+      "originalSummary": "Belgium Official Squad For FIFA World Cup 2026 | Belgium Squad FIFA World Cup 2026 Bon Cop Bad Cop (pWPVCdOs14)  mshale.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBaOGlLa0UwMDZNcnJlWVVFSmRZaHU3LUd3U2k1QTRiMTJMcU9TRjdmb3VLU1FpaVUxR3NKUjNhbG5QX3dhYTRobFBhRXNxZW9XZDJoS3Z5eUVSR0N6ckFiMw?oc=5",
+      "publishedAt": "2026-08-14T03:43:14+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-france-official-squad-for-fifa-world-cup-2026-france-fifa-world-cup-2026-rottamazione-nr2cdxviqv-mshale-com",
+      "title": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV) - mshale.com",
+      "summary": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV)  mshale.com",
+      "originalTitle": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV) - mshale.com",
+      "originalSummary": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80UHJhZE5oOFA4NE9nNldCNDNjak9zVnZtaUwwb1lkc29OamFnMXhLaGtkYThXRFJMZXpFWXpvMHlPTG1RRTc2Z0dPdGt6aVhDYUg4Sy04UFFmaFg2Nzdtcg?oc=5",
@@ -81,10 +177,10 @@
     },
     {
       "id": "google-news-portugal-vs-croatia-x-pitbull-fifa-world-cup-2026-full-match-highlights-tartan-parade-edinburgh-xos58veqje-m",
-      "title": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE) - Mshale",
-      "summary": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE)  Mshale",
-      "originalTitle": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE) - Mshale",
-      "originalSummary": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE)  Mshale",
+      "title": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE) - mshale.com",
+      "summary": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE)  mshale.com",
+      "originalTitle": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE) - mshale.com",
+      "originalSummary": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYV3ZMQUE0ZmhhZ2RLSm10YXl0NXEtdmkySWg2ZW5Tdk1raV8wU1BLbnA1enJsMHc2MWZFVW9TcFIyX1FVS0pPU3NMck1NUC1FMGo3dFlGZ2pzNlk?oc=5",
@@ -92,23 +188,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-referee-yiembe-from-dusty-fields-of-nakuru-to-fifa-club-world-cup-and-uefa-super-cup-nation-africa",
-      "title": "裁判伊恩贝：从纳库鲁尘土飞扬的球场，到国际足联俱乐部世界杯和欧洲超级杯 - nation.africa",
-      "summary": "裁判 Yiembe：从纳库鲁尘土飞扬的田野，到国际足联俱乐部世界杯和欧洲超级杯 nation.africa",
-      "originalTitle": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup - nation.africa",
-      "originalSummary": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup  nation.africa",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNW5EM1RmMlJTLWZIZWVQZjVITk9QMWFpejZZMmtZUlNoWTFrTVJFdi1TSWlFNVhNeVk1TXJxS2RHMkxlMTBld2ZxZGpYOGhBam5ObnhkcG8tWFNDTFd3NkNHUkd6SlQ1RWV2QXNraUhpTHI1ZXhhalNGSkZ2LXl4dEZYM3RIZno5ZnduOFVPUHhCTUpxN1Y1LXRVeUNXSmJKTE92SThQRG1sNzJ4LXFJTEFwM2RpVlMxbW5KZlRtNnRiVXdhbmtZcFFfZ1M2cW1qS0E?oc=5",
-      "publishedAt": "2026-08-14T03:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-quarterfinals-matchday-review-show-2-knicks-vs-76ers-2wboypcjcg-mshale",
-      "title": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG) - Mshale",
-      "summary": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG)  Mshale",
-      "originalTitle": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG) - Mshale",
-      "originalSummary": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG)  Mshale",
+      "id": "google-news-2026-fifa-world-cup-quarterfinals-matchday-review-show-2-knicks-vs-76ers-2wboypcjcg-mshale-com",
+      "title": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG) - mshale.com",
+      "summary": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG)  mshale.com",
+      "originalTitle": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG) - mshale.com",
+      "originalSummary": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kMlV2U0dmZGIzVFN6YzhmOW1NUW4xdTVvY0JFbWN6MXBnQVJaam1hdUZ0UFhlS1RyZXMzenJ5TkVNcmNIZ05xVTA3TnN1ZWR2ZHhPbGJOOWxJVlZ1U3pMbA?oc=5",
@@ -138,90 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQc2ZqbVJWSmFpemlXQU5xQnlNSkEzRnNCT3I1VWZEbmhEWElvRmUtOVpTY2E4YTdBSGFTWFBiTHk3Y2s3ekhaaEd3Q05tUHFXQXNoakVWbzJPaDY3M1hQYkxIempaR1ZSRjFBZF9WWFNTZTdvR3Fkb3J3YkpSU0NUVEZFMUd2a19fTkJ5TlVVMm9MTFBaX0dQQTgzMDdYdlF4UmEzbEIyVXY4UTJfa1hEZjBIbjJpVnRNUDJyZWN0SQ?oc=5",
       "publishedAt": "2026-08-14T01:43:39+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-south-africa-s-match-against-mexico-would-be-the-opening-match-for-the-2026-fifa-world-cup-drogheda-united-v",
-      "title": "南非对阵墨西哥的比赛将是 2026 年国际足联世界杯的揭幕战 德罗赫达联队对阵德里城 (3SEuLtXRSe) - Mshale",
-      "summary": "南非队对阵墨西哥队的比赛将是 2026 年国际足联世界杯的揭幕战 德罗赫达联队 vs 德里城队 (3SEuLtXRSe)  Mshale",
-      "originalTitle": "South Africa's Match Against Mexico Would Be The Opening Match For The 2026 Fifa World Cup Drogheda United Vs Derry City (3SEuLtXRSe) - Mshale",
-      "originalSummary": "South Africa's Match Against Mexico Would Be The Opening Match For The 2026 Fifa World Cup Drogheda United Vs Derry City (3SEuLtXRSe)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSaVNjb2Z4Sno1dWlRekJZQmpaWGdKeVNBQWVxOVUyZ2RyQm5hay1mY3NZYnBfb2tGa19EdTNuRmZpREVaN01OTk5vVndwSVlTcFcwRnQ4V0hfMUU?oc=5",
-      "publishedAt": "2026-08-14T01:29:44+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
-      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
-      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
-      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - Yahoo Creators",
-      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  Yahoo Creators",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0xcmp3T3MxTHJGMjBVXzJlNGc1Ump2dHRYNjdKS2o5RlItNmRldUNPTTZ0VHZhckJMaXlDejUwUGpNc1hQaFVtU2toeVdENkxuR05kZy00QkNISEViS19GY0EzVERBUGpkNDhHRjNiSEx5MjJ4Vi1YUk5SOGpsSzlKN0Zkb21mMjFVZHE2eW1lUjdpUG5GMTBQQWstZVEtOXVIZURmR0FRTDZMZG1fUDFoY21yMHVkbkdqejZJZlZkUWN4ZUptNGktamNPc1kxVENBRDl0UTQxSkk?oc=5",
-      "publishedAt": "2026-08-14T01:22:20+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-14T01:16:21+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-this-was-the-world-cup-of-influencers-creative-salon",
-      "title": "这就是影响力世界杯——创意沙龙",
-      "summary": "这就是影响力世界杯创意沙龙",
-      "originalTitle": "This Was the World Cup of Influencers - Creative Salon",
-      "originalSummary": "This Was the World Cup of Influencers  Creative Salon",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTDFBR0Fjem1ZNWN3NWlQbzZMQXRGM19tZ1NMNld0Vy1nUHpXZXRzTHNXQmxQYTB3aGFRbHF2Q3MtODFjTDJGZFM1Z1dmbFFfd2U1eG1HY0dLdHF1VC14dFl6VmxfZTBTdy1jMWhPN2pOSGNFUU1zbTJFVkZ3Vkw3NGxINHJiTGg3V0E?oc=5",
-      "publishedAt": "2026-08-14T00:36:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-a-childhood-dream-borja-iglesias-reflects-on-spain-s-surreal-world-cup-triumph-goal-com",
-      "title": "儿时的梦想！博尔哈·伊格莱西亚斯回顾西班牙超现实的世界杯胜利 Goal.com",
-      "summary": "儿时的梦想！博尔哈·伊格莱西亚斯反思西班牙超现实的世界杯胜利 Goal.com",
-      "originalTitle": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph - Goal.com",
-      "originalSummary": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQV0Qzb2x4MTRKZDByTVRHWi1UenF0bWJjYlg1aUttb2VBSFY4MzRXSWVqSWplTDJldldUWU9PaFUzdFRoT2gxNFhheEZ1eHFmTkdydllEVjloNDFCQVotTVAyS1U3eTloVjhTc2g1UWtuczFtTUF4bnBuZFFTSTY3TVUzMUVJRjRJTDY3U0VR?oc=5",
-      "publishedAt": "2026-08-14T00:33:39+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
-      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
-      "summary": "观看 FIFA 2026 世界杯直播和精彩片段 TOD",
-      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
-      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
-      "publishedAt": "2026-08-14T00:20:38+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-bayern-munich-president-herbert-hainer-relieved-fifa-s-privatization-plan-is-dead-bavarian-football-works",
-      "title": "拜仁慕尼黑主席赫伯特·海纳松了一口气，国际足联的私有化计划已经终止 - Bavarian Football Works",
-      "summary": "拜仁慕尼黑主席赫伯特·海纳松了口气，国际足联的私有化计划已经失败，巴伐利亚足球工厂",
-      "originalTitle": "Bayern Munich president Herbert Hainer relieved FIFA’s privatization plan is dead - Bavarian Football Works",
-      "originalSummary": "Bayern Munich president Herbert Hainer relieved FIFA’s privatization plan is dead  Bavarian Football Works",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2VoOW9lVlc5N2JqUkVXZmRkVUk0cjZXelBCT0Q2aEg2amdIZzhSZTFUMTR4Qk1lbFpsUTlVSGFPNTlTQkJXWVFTSmlPYUd0RHJ4MWpURnB3cjZlcnhqd09XQURCZlJoU01hdlZXRm9nWm1xem1ZeGN2YldQcnRKcTF2TjM1aWFUcFhaWWpaX29RRWx4WTNObFk4MEE3azcxWVFTa1BrUG43QjhRRGItcGdSaDRUM2l6MGhGbG5MdkxvQUd5Z1RJY3pjYkNsTmcxR24tY2xLV0pxam8?oc=5",
-      "publishedAt": "2026-08-13T23:30:00+00:00",
-      "heat": 52
     }
   ]
 }
