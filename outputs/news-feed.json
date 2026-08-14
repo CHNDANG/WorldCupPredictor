@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T15:58:17.664835+00:00",
+  "updatedAt": "2026-08-14T17:01:42.234141+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,15 @@
   ],
   "articles": [
     {
-      "id": "google-news-my-world-cup-somali-referee-s-uefa-super-cup-role-chosun-com",
-      "title": "我的世界杯：索马里裁判在欧洲超级杯中的角色 - chosun.com",
-      "summary": "我的世界杯：索马里裁判在欧洲超级杯中的角色 chosun.com",
-      "originalTitle": "My World Cup: Somali Referee's UEFA Super Cup Role - chosun.com",
-      "originalSummary": "My World Cup: Somali Referee's UEFA Super Cup Role  chosun.com",
+      "id": "google-news-my-world-cup-somali-referee-s-uefa-super-cup-role-조선일보",
+      "title": "我的世界杯：索马里裁判在欧洲超级杯中的角色 - 조선일보",
+      "summary": "我的世界杯：索马里裁判在欧洲超级杯中的角色  조선일보",
+      "originalTitle": "My World Cup: Somali Referee's UEFA Super Cup Role - 조선일보",
+      "originalSummary": "My World Cup: Somali Referee's UEFA Super Cup Role  조선일보",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2JzQTJSVFFlam90UldhNEdKcGswNGVYczdpZjZFUzhoZTlTN1FmdnRTZE1CcDlwN2RKWnpoanA0Z2dpQ2dwWk5WMjJIS0ZMRTZjUWtRd2VUSUJCSlFsV18xUEJaVG1sUGpOelAzMndESk5ZTmlMWnNWWlRQMWtYM3V1VE0?oc=5",
-      "publishedAt": "2026-08-14T15:42:28+00:00",
+      "publishedAt": "2026-08-14T15:41:08+00:00",
       "heat": 52
     },
     {
@@ -28,8 +28,20 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQ3IwQ1MyT1JFbDZuVnJRakxYZHJxWEdmSVU5bHhmNkZDejMxejkwNmEwZFl1MmJNZlIzd2xmSllYcUxaVnVnM1hiVVBHTDdFME5pa3dyTElOSFhiTnlpQVB4NEd2Y3AwdDlqYUZIdC1vTDJWMk1sSGR3M2oxUFktZ3o3NjBzc09NemwtU01RTno1dGdqMUpzM0k1ZkhSRkhoTFl0dWpjamxKNHlQMElGaU9wWkozVWN2T3U2Ung0VFI5ZGpDT1ZQZVdSd0JmQWlmNUxFT1BqcktCT0RCcWVYeWxwdnFhN3NucjVsbWhyN2Y1MlRIQmFCMVhSNE5wTFI4dFhrR3JVeExVMU1xWG5YT3Y2bUdTYTM4QmZfTW9NNVliV29mWVRIRko5SHNQVVEweUFoSzdfdGpvU3JETWxSeEI4MnF1a05CT1cxWkNfNXhLM0Q4d2c?oc=5",
-      "publishedAt": "2026-08-14T15:25:33+00:00",
+      "publishedAt": "2026-08-14T15:25:56+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-la-liga-returns-what-to-expect-from-2026-27-season-anadolu-ajansı",
+      "title": "西甲回归：2026-27 赛季有何期待 - Anadolu Ajansı",
+      "summary": "西甲回归：2026-27 赛季有何期待阿纳多卢阿扬西",
+      "originalTitle": "La Liga returns: What to expect from 2026-27 season - Anadolu Ajansı",
+      "originalSummary": "La Liga returns: What to expect from 2026-27 season  Anadolu Ajansı",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHN0ODZwanZtSmNOTGFzaEhVUl9uOWlMQzF5dXY4aEZPeXJmOXdPd3FLX3EwUmtBSkZKWVVIcTJoSTZid29Jd3d5VUFPaFBiZEFJRWl6THBJeVE1NkNPSnJDY3EzUUZyLXRjTUZZSExfdF8zM3NOT3NMQVFscllWWnhEc3ZZUUd5VFM0VzhEb3lWbmlq?oc=5",
+      "publishedAt": "2026-08-14T14:47:25+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-former-white-house-world-cup-task-force-director-defends-infantino-anadolu-ajansı",
@@ -41,6 +53,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPU3J5U1BCcjU0V2p5R21YSDdTNlk5MVRjZXh2ZF92RkZzM09yYkVPdzlfOEN6OHJfclpDanRYaU0yR2NwaHZFaHJoWV9jSGpNOWdEZGtZSExrSkhMVDZLQWRmbHZFVEtYUUM4RlY3WW5OT1ROT1BZcXdNbkR5aDZsLVlBTlRIVlJLMGx6SU5PUHB6NXEwQ21CZlBKcFlIR2VFc3djLXR5cmdrZw?oc=5",
       "publishedAt": "2026-08-14T13:45:42+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-why-is-fifa-s-boss-still-in-power-first-sports-with-rupha-ramani-firstpost",
+      "title": "詹尼·因凡蒂诺：为什么国际足联的老板仍然掌权？ |鲁法·拉玛尼 (Rupha Ramani) 的第一次运动 - Firstpost",
+      "summary": "詹尼·因凡蒂诺：为什么国际足联的老板仍然掌权？ |鲁法·拉玛尼 (Rupha Ramani) 的第一场运动",
+      "originalTitle": "Gianni Infantino: Why Is FIFA's Boss Still In Power? | First Sports With Rupha Ramani - Firstpost",
+      "originalSummary": "Gianni Infantino: Why Is FIFA's Boss Still In Power? | First Sports With Rupha Ramani  Firstpost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQVUwwU2twTVMyb2VLalIxVF8zcFB6WHdSZlREQkpGRWdubEsycm9CZ0RaZjFkSzVmTUNKemJ2Y1lQRWxCem9xRHE3blRCalRKSDV3cWw5OGI4STZ6U3oyQ084NlQzbkRZOXd5ZC13LXdoSDhyZXlNV3ZBTDdMSVRVMmJlbWNqTDUxaXpMenNaTVJ2MmNXajBBOFFxc0tyM3pRN2dQUGhQRm8wV0htSjYxd25vZG5CZ2JTTFZ3dzJzQkJoc0ZKWnRHTGVQNDlaMnV4TGVodFh0UHhKbmvSAdsBQVVfeXFMUFVMMFNrcE1TMm9lS2pSMVRfM3BQelh3UmZUREJKRkVnbmxLMnJvQmdEWmYxZEs1Zk1DSnpidmNZUEVsQnpvcURxN25UQmpUSkg1d3FsOThiOEk2elN6MkNPODZUM25EWTl3eWQtdy13aEg4cmV5TVd2QUw3TElUVTJiZW1jakw1MWl6THpzWk1SdjJjV2owQThRcXNLcjN6UTdnUFBoUEZvMFdIbUo2MXdub2RuQmdiU0xWd3cyc0JCaHNGSlp0R0xlUDQ5WjJ1eExlaHRYdFB4Sm5r?oc=5",
+      "publishedAt": "2026-08-14T13:32:47+00:00",
       "heat": 52
     },
     {
@@ -68,16 +92,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-andrew-giuliani-backs-gianni-infantino-takes-aim-at-fifa-president-s-critics-the-new-york-times",
-      "title": "安德鲁·朱利安尼支持詹尼·因凡蒂诺，瞄准国际足联主席的批评者 - 纽约时报",
-      "summary": "安德鲁·朱利安尼支持詹尼·因凡蒂诺，针对国际足联主席的批评者 《纽约时报》",
-      "originalTitle": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics - The New York Times",
-      "originalSummary": "Andrew Giuliani backs Gianni Infantino, takes aim at FIFA president’s critics  The New York Times",
+      "id": "google-news-stella-artois-david-beckham-team-up-to-elevate-fifa-world-cup-experience-04-16-2026-mediapost",
+      "title": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 - MediaPost",
+      "summary": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 MediaPost",
+      "originalTitle": "Stella Artois, David Beckham Team Up To Elevate FIFA World Cup Experience 04/16/2026 - MediaPost",
+      "originalSummary": "Stella Artois, David Beckham Team Up To Elevate FIFA World Cup Experience 04/16/2026  MediaPost",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUXQyNExFeGtKM3diUGF0enNEcWt5dmExMmdYajBIcFNiZWU4QjREMm9VcXg2QUs3eS1yVHd6NUdhSnQxQXFyc2VZNFNfeGFLTjZpWmh0OXFpTHhzT2JqVmdPcjk4QkcwSEZCR2tmTDlwYm1yeEF6d2paYVhyeFpSaGhTdFBpYVlJMnNyeXFtNlltQ3p3?oc=5",
-      "publishedAt": "2026-08-14T11:52:11+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFNWWpkQllLSkpERmxjUzFGanQ3RThiQktGRUxOOFl3QWVPb0w0NmpvN3FOSmhGX2Q4Vk9uc2lzMHdHd3VHcWtPZC02YUd6c2NFNkxkSk9RN0dqOHgtLTU2OUVkZW82Q2F3Qkd0b3N5eDhIOVR2TEpZX0hNaWY2SWp4VU1PY3ctWWVBZDdmMkxHc0J4eHE0RkdxYWFWVHNVdkQtbXdLMFp0Q3ds?oc=5",
+      "publishedAt": "2026-08-14T11:58:23+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-afcon-blord-verydarkman-feud-top-nigerians-google-searches-in-2026-premium-times-nigeria",
@@ -176,11 +200,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider-com",
-      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - vegasinsider.com",
-      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 vegasinsider.com",
-      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - vegasinsider.com",
-      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  vegasinsider.com",
+      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider",
+      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - VegasInsider",
+      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 VegasInsider",
+      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - VegasInsider",
+      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  VegasInsider",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHprbm94WFhmOXNZZHotTGkxSHdoZm1rRGlFcWRHTGNoZHM4SzJWOWFXdWVXX2V3MTQtLW5qOEYzaUdJZF81XzQzSjZkRXJlTzR6UFJxRmd0RnNIS2F6S0x0ajBQSGNQczdDemQ4MndGN2J3WldoTEgxaWFTdkNXb2UxcEhoX2JyWTlhTkxQdE9ZN2FF?oc=5",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
       "publishedAt": "2026-08-14T09:14:29+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-14T09:09:12+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-u-s-streaming-guide-which-streaming-service-do-you-need-mashable",
-      "title": "2026 年 FIFA 世界杯美国流媒体指南：您需要哪种流媒体服务？ - 可混搭",
-      "summary": "2026 年 FIFA 世界杯美国流媒体指南：您需要哪种流媒体服务？  可混搭",
-      "originalTitle": "2026 FIFA World Cup U.S. streaming guide: Which streaming service do you need? - Mashable",
-      "originalSummary": "2026 FIFA World Cup U.S. streaming guide: Which streaming service do you need?  Mashable",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3g4NDAtOWtETk1ySWRDcGpKQ25uWlRUblZ5clRWV0hiY0pWc1d5SFNEQWgtWHVWTG1wcmkzTFF3VG9WTV9rSEpuQVVDaDlqdkJXZHRBb1F2ZW9XZk54MXc2bjAtdUt2d05FaExmT3pVWFhObVFmTWdmbFhQZHktYmN3?oc=5",
-      "publishedAt": "2026-08-14T09:00:00+00:00",
-      "heat": 60
     }
   ]
 }
