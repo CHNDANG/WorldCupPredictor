@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T06:55:52.751980+00:00",
+  "updatedAt": "2026-08-14T08:20:26.907087+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,21 @@
   ],
   "articles": [
     {
+      "id": "google-news-svg-europe-summit-itv-sport-and-hbs-to-discuss-fifa-world-cup-2026-svg-europe",
+      "title": "SVG 欧洲峰会：ITV Sport 和 HBS 讨论 FIFA 世界杯 2026 年 - SVG Europe",
+      "summary": "SVG 欧洲峰会：ITV Sport 和 HBS 讨论 FIFA 世界杯 2026 SVG Europe",
+      "originalTitle": "SVG Europe Summit: ITV Sport and HBS to discuss FIFA World Cup 2026 - SVG Europe",
+      "originalSummary": "SVG Europe Summit: ITV Sport and HBS to discuss FIFA World Cup 2026  SVG Europe",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPbWtJckxITl9kR2N2RTJXbXhRaUUwTUFJd1Rab2xoVkxoeW92NUZUTHU3TmFvTmxBSlhVZHBYLUJKTmNXd1dLd0pfSHhhRkRxX0tkS01keU9rOEpCQzJoa2xVeFF0Vmc0Mk5YeXl0emRGQXV1Sk9aVzM5cDhVR25jdUt5X0VQU3lhV2pZZkNJUmppM0FJbFh3b3g3cm5fWjlMS0ZSa1c2bjUxcURU?oc=5",
+      "publishedAt": "2026-08-14T07:04:40+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-new-zealand-break-with-ofc-to-withdraw-infantino-support-bbc",
       "title": "新西兰与大洋洲足球俱乐部决裂，撤回对因凡蒂诺的支持 - BBC",
-      "summary": "新西兰与 OFC 决裂，撤回对因凡蒂诺的支持 BBC",
+      "summary": "新西兰与 OFC 决裂并撤回对因凡蒂诺的支持 BBC",
       "originalTitle": "New Zealand break with OFC to withdraw Infantino support - BBC",
       "originalSummary": "New Zealand break with OFC to withdraw Infantino support  BBC",
       "translation": "online",
@@ -20,23 +32,35 @@
       "heat": 44
     },
     {
-      "id": "google-news-the-26-most-unforgettable-fan-photos-from-the-2026-world-cup-yahoo-sports",
-      "title": "2026 年世界杯 26 张最难忘的球迷照片 - 雅虎体育",
-      "summary": "2026 年世界杯 26 张最令人难忘的球迷照片 雅虎体育",
-      "originalTitle": "The 26 most unforgettable fan photos from the 2026 World Cup - Yahoo Sports",
-      "originalSummary": "The 26 most unforgettable fan photos from the 2026 World Cup  Yahoo Sports",
+      "id": "google-news-the-26-most-unforgettable-fan-photos-from-the-2026-world-cup-sports-yahoo-com",
+      "title": "2026 年世界杯 26 张最令人难忘的球迷照片 - sports.yahoo.com",
+      "summary": "2026 年世界杯 26 张最令人难忘的球迷照片 sports.yahoo.com",
+      "originalTitle": "The 26 most unforgettable fan photos from the 2026 World Cup - sports.yahoo.com",
+      "originalSummary": "The 26 most unforgettable fan photos from the 2026 World Cup  sports.yahoo.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxORjJ4MzlJcG1rY080TnczSFhqQThyaGJTNEdxS3kzU0N3Y09wTGFwUkk0eno4bE5ZVkladjNFaDR4UVVCSUczRmxvUFl6WE9vRlZuelRCbXk1Z1FXVnRIRzI1Vno5RVVvaU5fUzFZMFd6Y2hSQWZXUjNDaThINldOMkp0TThXVzBV?oc=5",
-      "publishedAt": "2026-08-14T04:36:51+00:00",
+      "publishedAt": "2026-08-14T06:06:51+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-when-is-lionel-messi-s-next-game-inter-miami-returns-to-mls-following-2026-leagues-cup-exit-worldsoccertalk-",
-      "title": "莱昂内尔·梅西的下一场比赛是什么时候？迈阿密国际队在 2026 年联赛杯退出后重返美国职业足球大联盟 - worldsoccertalk.com",
-      "summary": "莱昂内尔·梅西的下一场比赛是什么时候？迈阿密国际队在 2026 年联赛杯退出后重返美国职业足球大联盟 worldsoccertalk.com",
-      "originalTitle": "When is Lionel Messi’s next game? Inter Miami returns to MLS following 2026 Leagues Cup exit - worldsoccertalk.com",
-      "originalSummary": "When is Lionel Messi’s next game? Inter Miami returns to MLS following 2026 Leagues Cup exit  worldsoccertalk.com",
+      "id": "google-news-oceania-confederation-welcomes-fifa-review-nz-withdraws-support-for-infantino-the-standard-hk",
+      "title": "大洋洲足联欢迎国际足联审查，新西兰撤回对因凡蒂诺的支持 - The Standard (HK)",
+      "summary": "大洋洲联合会欢迎国际足联审查，新西兰撤回对因凡蒂诺的支持 The Standard (HK)",
+      "originalTitle": "Oceania confederation welcomes FIFA review, NZ withdraws support for Infantino - The Standard (HK)",
+      "originalSummary": "Oceania confederation welcomes FIFA review, NZ withdraws support for Infantino  The Standard (HK)",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTmhzeFJKVEowQmJ2OERaaDN1QkYxa1B0c01EbHRndTcybExsc3ZYZEdnU21SU1N1U0tRazVpNTdIX3cxTlFEOXhEV1BieE5UQTVDMVFrVDl0dWJtbzlBTENOUm4zbXgzdUZ0SmtlcTU4NHVETkVLajNlVUUwNTg0YWxQV2lEZ3ZTWWc4eEFyRW1rSEk5Ym04OHhGRExlSl81Tno4cEFLSV9sMVJ5aGhDcVBFSXo5bGk1RmVjVUJoZkNMSmdCcUFMYw?oc=5",
+      "publishedAt": "2026-08-14T05:35:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-when-is-lionel-messi-s-next-game-inter-miami-returns-to-mls-following-2026-leagues-cup-exit-world-soccer-tal",
+      "title": "莱昂内尔·梅西的下一场比赛是什么时候？迈阿密国际队在 2026 年联赛杯退出后重返美国职业足球大联盟 - 世界足球谈话",
+      "summary": "莱昂内尔·梅西的下一场比赛是什么时候？迈阿密国际队在 2026 年联赛杯退出后重返美国职业足球大联盟 World Soccer Talk",
+      "originalTitle": "When is Lionel Messi’s next game? Inter Miami returns to MLS following 2026 Leagues Cup exit - World Soccer Talk",
+      "originalSummary": "When is Lionel Messi’s next game? Inter Miami returns to MLS following 2026 Leagues Cup exit  World Soccer Talk",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5SQ2VHeXh6YXlwR1JKLVBhaDZCQXc2cnQwaUR0YlJyZjhteHdmUnJWOVJPaXh6ZW9wU25aTzQxak5yUlhVWGoyaDRxSkdQR2t3NFpWMHVhZzMzVXVPZjJfN2c0M01aOVFSOW1PejBsMU5fZ9IBdkFVX3lxTE5DamVwQWNGNlhyRW4wcEpNM2hFSzhoMk1rV3pWNkk4OWd5RWp5dTZKMnZrd0ZndDdMaHJpNGdaZXM2b2tUMEVVTmNnNmRmQW4teVBpOTFiZFdQV1pCd1VVY1ludVo1TUphazRnMFZDQk9UejhlSHc?oc=5",
@@ -44,15 +68,51 @@
       "heat": 44
     },
     {
-      "id": "google-news-referee-yiembe-from-dusty-fields-of-nakuru-to-fifa-club-world-cup-and-uefa-super-cup-daily-nation",
-      "title": "裁判伊恩贝：从纳库鲁尘土飞扬的球场，到国际足联俱乐部世界杯和欧洲超级杯 - Daily Nation",
-      "summary": "裁判 Yiembe：从纳库鲁尘土飞扬的球场，到国际足联俱乐部世界杯和欧洲超级杯 Daily Nation",
-      "originalTitle": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup - Daily Nation",
-      "originalSummary": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup  Daily Nation",
+      "id": "google-news-france-official-squad-for-fifa-world-cup-2026-france-fifa-world-cup-2026-rottamazione-nr2cdxviqv-mshale",
+      "title": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV) - Mshale",
+      "summary": "法国 2026 年世界杯官方阵容 |法国 | FIFA 世界杯 2026 Rottamazione (nR2cdxViQV)  Mshale",
+      "originalTitle": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV) - Mshale",
+      "originalSummary": "France Official Squad For FIFA World Cup 2026 | France | FIFA World Cup 2026 Rottamazione (nR2cdxViQV)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE80UHJhZE5oOFA4NE9nNldCNDNjak9zVnZtaUwwb1lkc29OamFnMXhLaGtkYThXRFJMZXpFWXpvMHlPTG1RRTc2Z0dPdGt6aVhDYUg4Sy04UFFmaFg2Nzdtcg?oc=5",
+      "publishedAt": "2026-08-14T03:21:19+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-portugal-vs-croatia-x-pitbull-fifa-world-cup-2026-full-match-highlights-tartan-parade-edinburgh-xos58veqje-m",
+      "title": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE) - Mshale",
+      "summary": "葡萄牙 vs 克罗地亚 X Pitbull | 葡萄牙2026 年国际足联世界杯 |完整比赛集锦 爱丁堡格子呢游行 (Xos58vEqJE)  Mshale",
+      "originalTitle": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE) - Mshale",
+      "originalSummary": "Portugal Vs Croatia X Pitbull | FIFA World Cup 2026 | Full Match Highlights Tartan Parade Edinburgh (Xos58vEqJE)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYV3ZMQUE0ZmhhZ2RLSm10YXl0NXEtdmkySWg2ZW5Tdk1raV8wU1BLbnA1enJsMHc2MWZFVW9TcFIyX1FVS0pPU3NMck1NUC1FMGo3dFlGZ2pzNlk?oc=5",
+      "publishedAt": "2026-08-14T03:04:24+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-referee-yiembe-from-dusty-fields-of-nakuru-to-fifa-club-world-cup-and-uefa-super-cup-nation-africa",
+      "title": "裁判伊恩贝：从纳库鲁尘土飞扬的球场，到国际足联俱乐部世界杯和欧洲超级杯 - nation.africa",
+      "summary": "裁判 Yiembe：从纳库鲁尘土飞扬的田野，到国际足联俱乐部世界杯和欧洲超级杯 nation.africa",
+      "originalTitle": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup - nation.africa",
+      "originalSummary": "Referee Yiembe: From dusty fields of Nakuru, to Fifa Club World Cup and Uefa Super Cup  nation.africa",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPNW5EM1RmMlJTLWZIZWVQZjVITk9QMWFpejZZMmtZUlNoWTFrTVJFdi1TSWlFNVhNeVk1TXJxS2RHMkxlMTBld2ZxZGpYOGhBam5ObnhkcG8tWFNDTFd3NkNHUkd6SlQ1RWV2QXNraUhpTHI1ZXhhalNGSkZ2LXl4dEZYM3RIZno5ZnduOFVPUHhCTUpxN1Y1LXRVeUNXSmJKTE92SThQRG1sNzJ4LXFJTEFwM2RpVlMxbW5KZlRtNnRiVXdhbmtZcFFfZ1M2cW1qS0E?oc=5",
       "publishedAt": "2026-08-14T03:00:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-quarterfinals-matchday-review-show-2-knicks-vs-76ers-2wboypcjcg-mshale",
+      "title": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG) - Mshale",
+      "summary": "2026 年 FIFA 世界杯四分之一决赛比赛日回顾秀 #2 尼克斯队对阵 76 人队 (2WBOYpcJCG)  Mshale",
+      "originalTitle": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG) - Mshale",
+      "originalSummary": "2026 FIFA World Cup Quarterfinals Matchday Review Show #2 Knicks Vs 76ers (2WBOYpcJCG)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1kMlV2U0dmZGIzVFN6YzhmOW1NUW4xdTVvY0JFbWN6MXBnQVJaam1hdUZ0UFhlS1RyZXMzenJ5TkVNcmNIZ05xVTA3TnN1ZWR2ZHhPbGJOOWxJVlZ1U3pMbA?oc=5",
+      "publishedAt": "2026-08-14T02:00:31+00:00",
       "heat": 60
     },
     {
@@ -80,6 +140,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-south-africa-s-match-against-mexico-would-be-the-opening-match-for-the-2026-fifa-world-cup-drogheda-united-v",
+      "title": "南非对阵墨西哥的比赛将是 2026 年国际足联世界杯的揭幕战 德罗赫达联队对阵德里城 (3SEuLtXRSe) - Mshale",
+      "summary": "南非队对阵墨西哥队的比赛将是 2026 年国际足联世界杯的揭幕战 德罗赫达联队 vs 德里城队 (3SEuLtXRSe)  Mshale",
+      "originalTitle": "South Africa's Match Against Mexico Would Be The Opening Match For The 2026 Fifa World Cup Drogheda United Vs Derry City (3SEuLtXRSe) - Mshale",
+      "originalSummary": "South Africa's Match Against Mexico Would Be The Opening Match For The 2026 Fifa World Cup Drogheda United Vs Derry City (3SEuLtXRSe)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBSaVNjb2Z4Sno1dWlRekJZQmpaWGdKeVNBQWVxOVUyZ2RyQm5hay1mY3NZYnBfb2tGa19EdTNuRmZpREVaN01OTk5vVndwSVlTcFcwRnQ4V0hfMUU?oc=5",
+      "publishedAt": "2026-08-14T01:29:44+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
       "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
       "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
@@ -102,18 +174,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-08-14T01:16:21+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-alanis-morissette-s-powerful-o-canada-performance-stuns-fifa-world-cup-2026-fans-iga-swiatek-i993oumhr1-msha",
-      "title": "🎤🇨🇦 Alanis Morissette 震撼的“O Canada”表演惊艳了 2026 年世界杯球迷！ ⚽🔥 伊加·斯瓦泰克 (i993OUMhR1) - Mshale",
-      "summary": "🎤🇨🇦 Alanis Morissette 震撼的“O Canada”表演惊艳了 2026 年世界杯球迷！ ⚽🔥 伊加·斯瓦泰克 (i993OUMhR1)  Mshale",
-      "originalTitle": "🎤🇨🇦 Alanis Morissette’s Powerful “O Canada” Performance Stuns FIFA World Cup 2026 Fans! ⚽🔥 Iga Swiatek (i993OUMhR1) - Mshale",
-      "originalSummary": "🎤🇨🇦 Alanis Morissette’s Powerful “O Canada” Performance Stuns FIFA World Cup 2026 Fans! ⚽🔥 Iga Swiatek (i993OUMhR1)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9DcFEzMTU3XzMtdlpsYm1UWWpXYkJkMU8wSkp2ejJTblZ2MkFyVXZkNk1CSmxCQ016R291NDVFS0dxNFRTaUNmMHgtZkNlWnQyazJZc1RXVUxCUXhaTkJtdw?oc=5",
-      "publishedAt": "2026-08-14T00:51:58+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-this-was-the-world-cup-of-influencers-creative-salon",
@@ -142,7 +202,7 @@
     {
       "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
       "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
-      "summary": "观看 FIFA 2026 世界杯™ 直播和精彩片段 TOD",
+      "summary": "观看 FIFA 2026 世界杯直播和精彩片段 TOD",
       "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
       "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
       "translation": "online",
@@ -154,7 +214,7 @@
     {
       "id": "google-news-bayern-munich-president-herbert-hainer-relieved-fifa-s-privatization-plan-is-dead-bavarian-football-works",
       "title": "拜仁慕尼黑主席赫伯特·海纳松了一口气，国际足联的私有化计划已经终止 - Bavarian Football Works",
-      "summary": "拜仁慕尼黑主席赫伯特·海纳松了口气，国际足联的私有化计划已宣告失败 Bavarian Football Works",
+      "summary": "拜仁慕尼黑主席赫伯特·海纳松了口气，国际足联的私有化计划已经失败，巴伐利亚足球工厂",
       "originalTitle": "Bayern Munich president Herbert Hainer relieved FIFA’s privatization plan is dead - Bavarian Football Works",
       "originalSummary": "Bayern Munich president Herbert Hainer relieved FIFA’s privatization plan is dead  Bavarian Football Works",
       "translation": "online",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOR2VoOW9lVlc5N2JqUkVXZmRkVUk0cjZXelBCT0Q2aEg2amdIZzhSZTFUMTR4Qk1lbFpsUTlVSGFPNTlTQkJXWVFTSmlPYUd0RHJ4MWpURnB3cjZlcnhqd09XQURCZlJoU01hdlZXRm9nWm1xem1ZeGN2YldQcnRKcTF2TjM1aWFUcFhaWWpaX29RRWx4WTNObFk4MEE3azcxWVFTa1BrUG43QjhRRGItcGdSaDRUM2l6MGhGbG5MdkxvQUd5Z1RJY3pjYkNsTmcxR24tY2xLV0pxam8?oc=5",
       "publishedAt": "2026-08-13T23:30:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-australia-squad-fifa-world-cup-2026-qualifiers-september-matches-indonesia-vs-australia-western-hockey-leagu",
-      "title": "澳大利亚队 2026 年 FIFA 世界杯预选赛 9 月比赛 - 印度尼西亚 vs 澳大利亚西部冰球联赛 (EqwjEFCY9i) - Mshale",
-      "summary": "澳大利亚队 2026 年 FIFA 世界杯预选赛 9 月比赛 - 印度尼西亚 vs 澳大利亚西部冰球联赛 (EqwjEFCY9i)  Mshale",
-      "originalTitle": "AUSTRALIA Squad FIFA World Cup 2026 Qualifiers September Matches - Indonesia Vs Australia Western Hockey League (EqwjEFCY9i) - Mshale",
-      "originalSummary": "AUSTRALIA Squad FIFA World Cup 2026 Qualifiers September Matches - Indonesia Vs Australia Western Hockey League (EqwjEFCY9i)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE83bDVXejFOZUQ5WllTdGR5UnRXNGhjYmtDOXdYUWV4YTNvYThFaW1xVDRFeUhXWEd2VnVqeVo2S2YtX0Z5b2lHQ2tiWGRtYmNfWC01cXQ2VkhmMnpQM1k3Yw?oc=5",
-      "publishedAt": "2026-08-13T23:12:20+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-understanding-the-high-stakes-marketplace-taking-shape-around-the-2026-fifa-world-cup-ticketnews",
-      "title": "了解 2026 年 FIFA 世界杯期间形成的高风险市场 - TicketNews",
-      "summary": "了解 2026 年 FIFA 世界杯期间形成的高风险市场 TicketNews",
-      "originalTitle": "Understanding the High-Stakes Marketplace Taking Shape Around the 2026 FIFA World Cup - TicketNews",
-      "originalSummary": "Understanding the High-Stakes Marketplace Taking Shape Around the 2026 FIFA World Cup  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQNkVobFVRVk55c3VST0NpcFo1OWNNZmRfaHN1U2tPeFA1S25Wdm1KRnBuUmFfWU54WGotS3V1SEh1b25wY254Q2VLb2JjcVJZZngybEVWUFRKUEVGZTJzQjBQVU9OZ1d3TGJHSUg5WnUteEdCZmJkS1VydVNuYjZMNDZnZFkxNWZIZ3hrdWZQbTZJZ0J2NWVSb2NseF9OTnhRYXNEV3BWbkV3Q0FXbWhjeDg5MUlQTmZCajUwRjJn?oc=5",
-      "publishedAt": "2026-08-13T23:05:49+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-推-64队世界杯-因凡蒂诺寻求支持-新浪财经",
-      "title": "推“64队世界杯”，因凡蒂诺寻求支持 - 新浪财经",
-      "summary": "推“64队世界杯”，因凡蒂诺寻求支持  新浪财经",
-      "originalTitle": "推“64队世界杯”，因凡蒂诺寻求支持 - 新浪财经",
-      "originalSummary": "推“64队世界杯”，因凡蒂诺寻求支持  新浪财经",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5IX2U2bm4yaHQzdm5oenNRVS1oY1gzREI4N19udDdrX2dGZW15N1h2V1NQUzVzVUZxdzY2Tk1DZTgxdTFZdzBVVXZUU3FwZ3gwMmhlcl9zbUJDTTNQb3FCekJHdVE3QVdMd1hZTlI2Tm1XN29NdHVuOA?oc=5",
-      "publishedAt": "2026-08-13T22:53:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-to-get-last-minute-uefa-super-cup-2026-tickets-psg-vs-aston-villa-tickets-salzburg-prices-and-more-goal-",
-      "title": "如何获取 2026 年欧洲超级杯最后一刻门票：巴黎圣日尔曼 vs 阿斯顿维拉门票、萨尔茨堡价格等 - Goal.com",
-      "summary": "如何获取 2026 年欧洲超级杯最后一刻门票：巴黎圣日尔曼 vs 阿斯顿维拉门票、萨尔茨堡价格等 Goal.com",
-      "originalTitle": "How to get last-minute UEFA Super Cup 2026 tickets: PSG vs Aston Villa tickets, Salzburg prices and more - Goal.com",
-      "originalSummary": "How to get last-minute UEFA Super Cup 2026 tickets: PSG vs Aston Villa tickets, Salzburg prices and more  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5hbGxtYnk5aFA0YmwtdE9NYkFwdUdVM0xIcVdsQ0N6OG5JR19yOGN1eTJ3UnhnVXFobWQ5cFM5QmFtcUhSZ1JGRldOVHE3bzI0bmEzeHQwYVZQY0VQQ3pualR3OFhTaktWMHk4VXgyYjB0dXhwdkRRQ1E5LTk1RU0?oc=5",
-      "publishedAt": "2026-08-13T22:28:19+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-highlights-norway-3-2-senegal-fifa-world-cup-2026-seatgeek-irnyugiins-mshale",
-      "title": "亮点|挪威 3-2 塞内加尔 | FIFA 世界杯 2026™ Seatgeek (IrnyUgIIns) - Mshale",
-      "summary": "亮点|挪威 3-2 塞内加尔 | FIFA 世界杯 2026™ Seatgeek (IrnyUgIIns)  Mshale",
-      "originalTitle": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™ Seatgeek (IrnyUgIIns) - Mshale",
-      "originalSummary": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™ Seatgeek (IrnyUgIIns)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5xQ05HVGhMT2NRTnVEcHdRUkNLUGo3SlRYby03eEZIMlNiSzRlelRnaTdzb0ItRXpyQWFPTFRNYVBmZDVJUDVoRGZidVFJQlVWSmN3Y2g3N0RjZGMySU1PRw?oc=5",
-      "publishedAt": "2026-08-13T22:27:11+00:00",
-      "heat": 60
     }
   ]
 }
