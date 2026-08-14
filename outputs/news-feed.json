@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T22:54:04.910397+00:00",
+  "updatedAt": "2026-08-14T23:26:19.929642+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -32,16 +32,40 @@
       "heat": 52
     },
     {
-      "id": "google-news-south-africa-and-ghana-keep-world-cup-dreams-alive-following-crucial-wafcon-2026-playoff-wins-sportscapemaga",
-      "title": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后保持世界杯梦想 - sportscapemagazine.com",
-      "summary": "在关键的 WAFCON 2026 季后赛获胜后，南非和加纳继续实现世界杯梦想 sportscapemagazine.com",
-      "originalTitle": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins - sportscapemagazine.com",
-      "originalSummary": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins  sportscapemagazine.com",
+      "id": "google-news-south-africa-and-ghana-keep-world-cup-dreams-alive-following-crucial-wafcon-2026-playoff-wins-sportscape-mag",
+      "title": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后保持世界杯梦想 - Sportscape 杂志",
+      "summary": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后继续实现世界杯梦想 《Sportscape》杂志",
+      "originalTitle": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins - Sportscape Magazine",
+      "originalSummary": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins  Sportscape Magazine",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0pBc1ZJNGxyaGp0dUhGaWNwazZXUUFqMHpSbDBQM1V1MTVhV2lIeDUtOUJBRTRfSWwtUUJoeDBWd2s2SmZ1Vl91VVZzdndvVVFqcTNaRUx4T2tzSnhkVWdHODZ5OGN0MnNhM08xS0RhbGFyVEhEejdZVVFvXzBZRWZFUWNUZkFMWEVmaHVINGU2OE9DWU1pWUIxc2tnRE5LdGpvR0hsd3M?oc=5",
       "publishedAt": "2026-08-14T18:10:29+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-highlights-spain-1-0-argentina-fifa-world-cup-2026-final-mike-schmitz-6r7mj73bis-mshale",
+      "title": "亮点|西班牙 1-0 阿根廷 | FIFA 世界杯 2026™ 决赛 Mike Schmitz (6R7mJ73bis) - Mshale",
+      "summary": "亮点|西班牙 1-0 阿根廷 | FIFA 世界杯 2026™ 决赛 Mike Schmitz (6R7mJ73bis)  Mshale",
+      "originalTitle": "Highlights | Spain 1-0 Argentina | FIFA World Cup 2026™ FINAL Mike Schmitz (6R7mJ73bis) - Mshale",
+      "originalSummary": "Highlights | Spain 1-0 Argentina | FIFA World Cup 2026™ FINAL Mike Schmitz (6R7mJ73bis)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAzbWItTUhhcFBuT19QZTU3MmVYUUxfN1VmcHQ2cUx6ZVBoZXJBdGZVNzZkZXZ2WWVrT2lVMHVIcGgwcWhJaXFIODk2RExEVmxQVFprTGE4T0MzWlk?oc=5",
+      "publishedAt": "2026-08-14T17:20:26+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-aifa-reaches-profitability-as-cargo-and-world-cup-traffic-surge-mexico-business-news",
+      "title": "随着货运和世界杯交通量的激增，AIFA 实现盈利 - 墨西哥商业新闻",
+      "summary": "随着货运和世界杯交通量的激增，AIFA 实现盈利 墨西哥商业新闻",
+      "originalTitle": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge - Mexico Business News",
+      "originalSummary": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge  Mexico Business News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEFUajQtdUgtY090Ukt5RDBRSkc5M1Nrdm1oU3F6bHFBV3h4ZW9obkduWmJteldzMU1SaS01VG5PRVN5aVVXbldjSUNTSUZNTFFlZFI5MDRpRkJVay1NeldpdkVUVWI5VW40d0NGRExxeVFEYTYtV0U0V2UtNVNpZnpvWnpCMEdyN0VseHJqWWNMTlEzZ3Z0YVdmLXlIY3JvUDhhOHNn?oc=5",
+      "publishedAt": "2026-08-14T17:14:56+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-nj-needs-answers-before-chasing-another-world-cup-editorial-bergen-record",
@@ -68,6 +92,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-argentina-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka-com",
+      "title": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 - sqawka.com",
+      "summary": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 squawka.com",
+      "originalTitle": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis - squawka.com",
+      "originalSummary": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis  squawka.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
+      "publishedAt": "2026-08-14T15:28:34+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-intense-preparation-and-collection-of-diverse-experiences-help-commanders-pa-announcer-mark-fratto-rise-to-2",
       "title": "紧张的准备工作和丰富的经验积累帮助 Commanders PA 播音员 Mark Fratto 应对 2026 年 FIFA 世界杯 - Washington Commanders",
       "summary": "紧张的准备工作和丰富的经验积累帮助指挥官 PA 播音员马克·弗拉托 (Mark Fratto) 应对 2026 年 FIFA 世界杯 华盛顿指挥官",
@@ -80,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-world-cup-2026-most-assists-analysis-crunching-the-numbers-on-messi-olise-yamal-fernandes-squawka",
-      "title": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据 - Squawka",
-      "summary": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据分析",
-      "originalTitle": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes - Squawka",
-      "originalSummary": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes  Squawka",
+      "id": "google-news-world-cup-2026-most-assists-analysis-crunching-the-numbers-on-messi-olise-yamal-fernandes-squawka-com",
+      "title": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据 - sqawka.com",
+      "summary": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据分析 squawka.com",
+      "originalTitle": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes - squawka.com",
+      "originalSummary": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes  squawka.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak9UaHNpbjB2Y3FkN3VLa2F5VjNDTTcxdVhXSjdaV1VFV2QxVkdUR2FhWEpWb3pQZlFnU0ZDQzQ4SnlFLUpuZXphVGtCaWdtUVlheFFmbnkyeUl0RjR1c21vQmM1ODBRc0s4WWQyTk9UV1kyOXVkTTdneGtiSFhWcTk2OFJuanhCTEpEV0tUclVjTkZxaFFIdkR1ZVVRdjU0YWRLeS0wWlBpbnVtSlFyeHdjREpjY2tPMUE?oc=5",
@@ -116,21 +152,21 @@
       "heat": 60
     },
     {
-      "id": "google-news-2026-fifa-world-cup-new-zealand-vs-belgium-preview-les-enfants-de-la-télé-6j8ibhggzx-mshale",
-      "title": "2026 年 FIFA 世界杯新西兰对阵比利时前瞻 Les Enfants De La Télé (6j8IBhGGZx) - Mshale",
-      "summary": "2026 年 FIFA 世界杯新西兰 vs 比利时预览 Les Enfants De La Télé (6j8IBhGGZx)  Mshale",
-      "originalTitle": "2026 FIFA World Cup New Zealand Vs Belgium Preview Les Enfants De La Télé (6j8IBhGGZx) - Mshale",
-      "originalSummary": "2026 FIFA World Cup New Zealand Vs Belgium Preview Les Enfants De La Télé (6j8IBhGGZx)  Mshale",
+      "id": "google-news-live-spain-vs-cape-verde-madrid-and-atlanta-come-alive-for-spain-match-zo1j-daniel-craig-49yy2fvs4h-mshale",
+      "title": "直播：西班牙 vs 佛得角 |马德里和亚特兰大在西班牙比赛中活跃起来ZO1J 丹尼尔·克雷格 (49YY2FVS4h) - 姆沙勒",
+      "summary": "直播：西班牙 vs 佛得角 |马德里和亚特兰大在西班牙比赛中活跃起来ZO1J 丹尼尔·克雷格 (49YY2FVS4h)  Mshale",
+      "originalTitle": "LIVE: Spain Vs Cape Verde | Madrid And Atlanta Come Alive For Spain Match | ZO1J Daniel Craig (49YY2FVS4h) - Mshale",
+      "originalSummary": "LIVE: Spain Vs Cape Verde | Madrid And Atlanta Come Alive For Spain Match | ZO1J Daniel Craig (49YY2FVS4h)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HRm9GUjRsNWR1Z245TFBTMGNUYTZuX2dVT0lyT256YTU2a2ZSTGdxQTJQM3cyVmM5Z0REOTJoVVdWcGJpVmRCZFNwUnlBNkd4V3hoYms1MjlWQzA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55RjdBWThnajFGQk13b3JQczVpVlhURFpTNFBnVGdUbEVUXzh5VU5CR0N5cWs2N29vT1JCU202NlhKV3pVWDNjQVJyMWpZaFd0S2NaREF4SUR4d28?oc=5",
       "publishedAt": "2026-08-14T14:48:27+00:00",
-      "heat": 60
+      "heat": 52
     },
     {
       "id": "google-news-la-liga-returns-what-to-expect-from-2026-27-season-anadolu-ajansı",
       "title": "西甲回归：2026-27 赛季有何期待 - Anadolu Ajansı",
-      "summary": "西甲回归：2026-27 赛季有何期待阿纳多卢阿扬西",
+      "summary": "西甲回归：2026-27 赛季的期待",
       "originalTitle": "La Liga returns: What to expect from 2026-27 season - Anadolu Ajansı",
       "originalSummary": "La Liga returns: What to expect from 2026-27 season  Anadolu Ajansı",
       "translation": "online",
@@ -138,6 +174,18 @@
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZHN0ODZwanZtSmNOTGFzaEhVUl9uOWlMQzF5dXY4aEZPeXJmOXdPd3FLX3EwUmtBSkZKWVVIcTJoSTZid29Jd3d5VUFPaFBiZEFJRWl6THBJeVE1NkNPSnJDY3EzUUZyLXRjTUZZSExfdF8zM3NOT3NMQVFscllWWnhEc3ZZUUd5VFM0VzhEb3lWbmlq?oc=5",
       "publishedAt": "2026-08-14T14:47:25+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-live-argentina-s-world-cup-campaign-begins-with-messi-training-ronda-rousey-dbx7pzsqzc-m",
+      "title": "FIFA 世界杯 2026 直播：阿根廷世界杯征程从梅西训练隆达·鲁西 (DBx7PZsQzc) - 姆沙勒开始",
+      "summary": "FIFA 世界杯 2026 直播：阿根廷世界杯征程从梅西训练 Ronda Rousey (DBx7PZsQzc) 开始",
+      "originalTitle": "FIFA WORLD CUP 2026 LIVE: Argentina's World Cup Campaign Begins With Messi Training Ronda Rousey (DBx7PZsQzc) - Mshale",
+      "originalSummary": "FIFA WORLD CUP 2026 LIVE: Argentina's World Cup Campaign Begins With Messi Training Ronda Rousey (DBx7PZsQzc)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wSG1fcDR1U1FGU0V6YlV0eVNBcVdOWUl6N3N1MjkzT1UwUjNiMV9WYkpvWllRNEtQMjlPSGt0S294UmdDYzhUcW1PSkdNeTZpaHZrc2xfQTVXVzlHY2V2MA?oc=5",
+      "publishedAt": "2026-08-14T14:03:07+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-former-white-house-world-cup-task-force-director-defends-infantino-anadolu-ajansı",
@@ -152,11 +200,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-the-3-weeks-that-brought-gianni-infantino-and-fifa-to-the-brink-frontofficesports-com",
-      "title": "将詹尼·因凡蒂诺和国际足联推向崩溃边缘的三周 - frontofficesports.com",
-      "summary": "将詹尼·因凡蒂诺和 FIFA 推向崩溃边缘的三周 frontofficesports.com",
-      "originalTitle": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink - frontofficesports.com",
-      "originalSummary": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink  frontofficesports.com",
+      "id": "google-news-the-3-weeks-that-brought-gianni-infantino-and-fifa-to-the-brink-front-office-sports",
+      "title": "将詹尼·因凡蒂诺和国际足联推向崩溃边缘的三周 - Front Office Sports",
+      "summary": "这三周将詹尼·因凡蒂诺和国际足联带到了崩溃的边缘",
+      "originalTitle": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink - Front Office Sports",
+      "originalSummary": "The 3 Weeks That Brought Gianni Infantino and FIFA to the Brink  Front Office Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOX1RGN3NiSDJfQnRVcy1KS0tiLVUxZzVGVDNWZWJ6bVFiQi02dW1QUTR2SEFTbGtWUWJ2cEoyNEtHWUozdzJ0dFAwb3Ezb2ZGWWNxamJzMUFiNkNhNFk4d25MZ0dYdk95UkZXaWljbW0wV2lqMktSZDFMSDVDX1lfckd5bkUteW1NNF85em5oMGk1YVpJQUg5MUxR?oc=5",
@@ -164,64 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-expected-assists-xa-morocco-stats-for-fifa-world-cup-2026-fotmob",
-      "title": "预期助攻 (xA) - 摩洛哥 2026 年 FIFA 世界杯统计数据 - FotMob",
-      "summary": "预期助攻数 (xA) - 2026 年 FIFA 世界杯摩洛哥统计数据 FotMob",
-      "originalTitle": "Expected assists (xA) - Morocco stats for FIFA World Cup 2026 - FotMob",
-      "originalSummary": "Expected assists (xA) - Morocco stats for FIFA World Cup 2026  FotMob",
+      "id": "google-news-fifa-world-cup-2026-czechia-vs-south-africa-live-must-win-match-group-stage-clash-n18g-salario-psrhzkwyrl-ms",
+      "title": "🔴FIFA 2026 年世界杯：捷克队对阵南非队直播 |必胜比赛小组赛对决 | N18G 萨拉里奥 (psrHZkwYrl) - 姆沙勒",
+      "summary": "🔴FIFA 2026 年世界杯：捷克队对阵南非队直播 |必胜比赛小组赛对决 | N18G Salario (psrHZkwYrl) Mshale",
+      "originalTitle": "🔴FIFA World Cup 2026: Czechia Vs South Africa LIVE | Must-Win Match Group Stage Clash | N18G Salario (psrHZkwYrl) - Mshale",
+      "originalSummary": "🔴FIFA World Cup 2026: Czechia Vs South Africa LIVE | Must-Win Match Group Stage Clash | N18G Salario (psrHZkwYrl)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOTFU1UXRCbFh6VTNkQ3lOSUZ4NHB1RWtyVU45clJfZm1ScTM2bVo3TkFmWmwzTGt4dUxsaG54bzBtQ011T2MwMGl6MFZ2Y1QyTUtseU5zazYwVWZzbHVmTEIzVUNXanAtdWoydGp5VHY2U0NLZUtGS3JXZTBPRDBjdjVvVk9JaEowMy1RXy1mQmotQ2JvYndtOGNLdDFlbF9sdWxIcjdTSzJ3WFJJOE9haXY0ZkFsV3JwZVlmRE9GTkpCSkJYbmdGajBVanR4dXBHeF9CNjBoRnliamxXTGZ6WElNRkNjdm8yTDdqU1ZLeUlELTljY2NJNkRxSWdueU13c2JScXhPVnBIYlVlSTFyTkRUV0h3Qm9Zbzd6YlNtNUZYVFhqY1pEbk5aZ196TGxueEpadktLWmdZVy1MWVFmMlBzSkFMRGdWX1dwY0FMM1F2OXJXVzUyOXlFUFFLeVZWUDZCTlR3bXQ1S2JxYnFKOUlqbWhlMEt3NG45cTVqTThZcnNvcnVMdUdXUmZ5T3hvSkV0R2NpVzd4SldsR3JUVmlhWDhadlplMHR1S1drSFJIcWpldXJZaTY1NUVTZWFEbVdVSENPSzI4OVA0SzljZWNpc0tFSTFRRVBxOVFyd3M3SmhjWDRXejlOYnduaXNQSWtEMXY2VVQwbHVlOWF3RzYtcXNQUXl6MWltT2tn?oc=5",
-      "publishedAt": "2026-08-14T12:51:22+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-messi-ready-for-algeria-argentina-train-ahead-of-world-cup-opener-2026-fifa-world-cup-lane-hutson-ehhovqxctk",
-      "title": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 FIFA 世界杯 Lane Hutson (EHhovQXcTK) - Mshale",
-      "summary": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 年 FIFA 世界杯 Lane Hutson (EHhovQXcTK)  Mshale",
-      "originalTitle": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK) - Mshale",
-      "originalSummary": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GYkZfeFpSRkFhc2EtdDFYOVlHTTJ2SWVVNFB2RjRQazNJX05IcXc0OUdCVUJuel9xcGhuYm1rVEtJT3pVc1JEaENueEIyQ0tMc2o5aWUtQy1Lbm8?oc=5",
-      "publishedAt": "2026-08-14T12:05:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-sknfa-confirms-participation-in-2026-fifa-u-15-boys-world-cup-and-festival-the-labour-spokesman",
-      "title": "SKNFA 确认参加 2026 年 FIFA U-15 男子世界杯和节日 - 工党发言人",
-      "summary": "SKNFA 确认参加 2026 年 FIFA U-15 男子世界杯和节日 工党发言人",
-      "originalTitle": "SKNFA Confirms Participation In 2026 FIFA U-15 Boys’ World Cup And Festival - The Labour Spokesman",
-      "originalSummary": "SKNFA Confirms Participation In 2026 FIFA U-15 Boys’ World Cup And Festival  The Labour Spokesman",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNTGdIVnQ0S0owZElVRDBibTQ0MjNUTUtXakpVLU5CbTA3a1dCQjQwYjlmaWFmXzJ0MzZDQ0NDUmJCLXVtOFpTbzc3MFNHdlFVOHZTdEEzTEZ0SkdhSzNIYS1WWE83M2s4ajdzOW1zZFpHckVndjAyV0FyTkJ6bFVlMGFZTWVLUF9NTXVzeEU1RlVyTjhfQXdEUHg5UWlCTUpNQ3NOMlMwQkQwZw?oc=5",
-      "publishedAt": "2026-08-14T12:00:07+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-stella-artois-david-beckham-team-up-to-elevate-fifa-world-cup-experience-04-16-2026-mediapost",
-      "title": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 - MediaPost",
-      "summary": "时代啤酒 (Stella Artois) 与大卫·贝克汉姆 (David Beckham) 联手提升 FIFA 世界杯体验 2026 年 4 月 16 日 MediaPost",
-      "originalTitle": "Stella Artois, David Beckham Team Up To Elevate FIFA World Cup Experience 04/16/2026 - MediaPost",
-      "originalSummary": "Stella Artois, David Beckham Team Up To Elevate FIFA World Cup Experience 04/16/2026  MediaPost",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZjFNWWpkQllLSkpERmxjUzFGanQ3RThiQktGRUxOOFl3QWVPb0w0NmpvN3FOSmhGX2Q4Vk9uc2lzMHdHd3VHcWtPZC02YUd6c2NFNkxkSk9RN0dqOHgtLTU2OUVkZW82Q2F3Qkd0b3N5eDhIOVR2TEpZX0hNaWY2SWp4VU1PY3ctWWVBZDdmMkxHc0J4eHE0RkdxYWFWVHNVdkQtbXdLMFp0Q3ds?oc=5",
-      "publishedAt": "2026-08-14T11:58:23+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-new-zealand-football-withdraws-support-for-infantino-s-fifa-reelection-bid-a-news",
-      "title": "新西兰足球协会撤回对因凡蒂诺竞选国际足联连任的支持 - 新闻",
-      "summary": "新西兰足球协会撤回对因凡蒂诺竞选国际足联连任的支持新闻",
-      "originalTitle": "New Zealand Football withdraws support for Infantino's FIFA reelection bid - A News",
-      "originalSummary": "New Zealand Football withdraws support for Infantino's FIFA reelection bid  A News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGFFU1BZWnc0eXlqVjlMZ1BaNktwTlh4U2oyRkhfZHRKYm1wNVp3XzVaWGR5MWNDTWRIUFQtVVBqNGZnMjF5aDhhTmdtNXRCLTNGTlFsR0V3T29YeVBvNWlWVVNsd1c3N1NUdFlpRmFaZ0NuSTU2S08zd0lOaFd3QklKWEVubVVPT01BdzZUdFhocVFjUWx3REQxZXBoNkxvampPNVF0VW5yUlh2SFgzUzVLZzl1UdIBuwFBVV95cUxNTDYycHVlUEpXVlVJTFNOYmpuMW9xWWVzQzFqMmVCZWQyc28xSHdwZTEyOVd2ci1ZNXdzVmlwWmxZUGFCSUNYNk5pYno0WndGclMtR2l4UXVCV0Z0c0JNX0t1M3czZEZOWTlGLXlEWi0yQnJhTG5KbzZVcXBQVGJRcDgzVllZQzQwdXJQdnRwQTdJRFRrS3JUb0g4dV9vYWJhdHFULW1oeURKdHByTmRvSDZ2Z3ZmTXhwRkhn?oc=5",
-      "publishedAt": "2026-08-14T11:42:07+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1fSWdxS1FFNkh6VF9ULTlDdXZkcTFFLVAtWE1YWkh2YlEwemp3bEVJd2F0bUtma3k4VXNHMVBpaDdIbWY1SThTNTl2SjRUUng2blEtV0NfLVZKTnpsVUFYVg?oc=5",
+      "publishedAt": "2026-08-14T13:13:47+00:00",
+      "heat": 68
     }
   ]
 }
