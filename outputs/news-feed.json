@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-14T14:56:16.055642+00:00",
+  "updatedAt": "2026-08-14T15:58:17.664835+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-my-world-cup-somali-referee-s-uefa-super-cup-role-chosun-com",
+      "title": "我的世界杯：索马里裁判在欧洲超级杯中的角色 - chosun.com",
+      "summary": "我的世界杯：索马里裁判在欧洲超级杯中的角色 chosun.com",
+      "originalTitle": "My World Cup: Somali Referee's UEFA Super Cup Role - chosun.com",
+      "originalSummary": "My World Cup: Somali Referee's UEFA Super Cup Role  chosun.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2JzQTJSVFFlam90UldhNEdKcGswNGVYczdpZjZFUzhoZTlTN1FmdnRTZE1CcDlwN2RKWnpoanA0Z2dpQ2dwWk5WMjJIS0ZMRTZjUWtRd2VUSUJCSlFsV18xUEJaVG1sUGpOelAzMndESk5ZTmlMWnNWWlRQMWtYM3V1VE0?oc=5",
+      "publishedAt": "2026-08-14T15:42:28+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-intense-preparation-and-collection-of-diverse-experiences-help-commanders-pa-announcer-mark-fratto-rise-to-2",
+      "title": "紧张的准备工作和丰富的经验积累帮助 Commanders PA 播音员 Mark Fratto 应对 2026 年 FIFA 世界杯 - Washington Commanders",
+      "summary": "紧张的准备工作和丰富的经验积累帮助指挥官 PA 播音员马克·弗拉托 (Mark Fratto) 应对 2026 年 FIFA 世界杯 华盛顿指挥官",
+      "originalTitle": "Intense preparation and collection of diverse experiences help Commanders PA announcer Mark Fratto rise to 2026 FIFA World Cup occasion - Washington Commanders",
+      "originalSummary": "Intense preparation and collection of diverse experiences help Commanders PA announcer Mark Fratto rise to 2026 FIFA World Cup occasion  Washington Commanders",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQ3IwQ1MyT1JFbDZuVnJRakxYZHJxWEdmSVU5bHhmNkZDejMxejkwNmEwZFl1MmJNZlIzd2xmSllYcUxaVnVnM1hiVVBHTDdFME5pa3dyTElOSFhiTnlpQVB4NEd2Y3AwdDlqYUZIdC1vTDJWMk1sSGR3M2oxUFktZ3o3NjBzc09NemwtU01RTno1dGdqMUpzM0k1ZkhSRkhoTFl0dWpjamxKNHlQMElGaU9wWkozVWN2T3U2Ung0VFI5ZGpDT1ZQZVdSd0JmQWlmNUxFT1BqcktCT0RCcWVYeWxwdnFhN3NucjVsbWhyN2Y1MlRIQmFCMVhSNE5wTFI4dFhrR3JVeExVMU1xWG5YT3Y2bUdTYTM4QmZfTW9NNVliV29mWVRIRko5SHNQVVEweUFoSzdfdGpvU3JETWxSeEI4MnF1a05CT1cxWkNfNXhLM0Q4d2c?oc=5",
+      "publishedAt": "2026-08-14T15:25:33+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-former-white-house-world-cup-task-force-director-defends-infantino-anadolu-ajansı",
       "title": "前白宫世界杯工作组主任为因凡蒂诺辩护 - Anadolu Ajansı",
@@ -44,18 +68,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-messi-ready-for-algeria-argentina-train-ahead-of-world-cup-opener-2026-fifa-world-cup-lane-hutson-ehhovqxctk",
-      "title": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 FIFA 世界杯 Lane Hutson (EHhovQXcTK) - Mshale",
-      "summary": "梅西为阿尔及利亚做好准备！ 🔥 阿根廷在世界杯揭幕战前训练 🏆 2026 年 FIFA 世界杯 Lane Hutson (EHhovQXcTK)  Mshale",
-      "originalTitle": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK) - Mshale",
-      "originalSummary": "MESSI READY FOR ALGERIA! 🔥 Argentina Train Ahead Of World Cup Opener 🏆 2026 FIFA World Cup Lane Hutson (EHhovQXcTK)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GYkZfeFpSRkFhc2EtdDFYOVlHTTJ2SWVVNFB2RjRQazNJX05IcXc0OUdCVUJuel9xcGhuYm1rVEtJT3pVc1JEaENueEIyQ0tMc2o5aWUtQy1Lbm8?oc=5",
-      "publishedAt": "2026-08-14T12:05:36+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-andrew-giuliani-backs-gianni-infantino-takes-aim-at-fifa-president-s-critics-the-new-york-times",
       "title": "安德鲁·朱利安尼支持詹尼·因凡蒂诺，瞄准国际足联主席的批评者 - 纽约时报",
       "summary": "安德鲁·朱利安尼支持詹尼·因凡蒂诺，针对国际足联主席的批评者 《纽约时报》",
@@ -89,6 +101,42 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPUXpDdGkteGhrVmZvY0VEd1FpSENIcm1jaG9iWmVobkRWaDJKbGprT2M2T1VqNGUxaTI1WG9IdDlNU08tWklwdWZyWGh1SllyZTZtRVJ4OTVDb2dJRFBSbTQ5aUpPc3BwXzJaYl9vN2luakpKa2QxaVJad2xLUnQ1RDdwQXk1bVZOYWNZNDhTbzl2LUk5RFBnSlN5dmZyTUlPS1ZvaTh3WDAwRjM1TEJIZTA4NA?oc=5",
       "publishedAt": "2026-08-14T11:08:13+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-switzerland-vs-argentina-fifa-world-cup-2026-round-of-16-highlights-josh-manson-jg8artg1tk-mshale",
+      "title": "瑞士 vs 阿根廷 | FIFA 世界杯 2026 – 16 强赛精彩集锦 Josh Manson (jG8ARtg1tK) - Mshale",
+      "summary": "瑞士 vs 阿根廷 | FIFA 世界杯 2026 – 16 强赛精彩集锦 Josh Manson (jG8ARtg1tK)  Mshale",
+      "originalTitle": "Switzerland Vs Argentina | FIFA World Cup 2026 – Round Of 16 Highlights Josh Manson (jG8ARtg1tK) - Mshale",
+      "originalSummary": "Switzerland Vs Argentina | FIFA World Cup 2026 – Round Of 16 Highlights Josh Manson (jG8ARtg1tK)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA0bXNSZnV2MEtrOU5LT2ItaHVlWUZQamNRMkJOT1BIZE5wbGlQS2VmVWxMTnAyYzhrbDQwZEF2ZTgxX19zZjhnWnNrd1pvUW1qX1dkZVVjSEdOZzA?oc=5",
+      "publishedAt": "2026-08-14T10:49:43+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-group-j-argentina-vs-algeria-ea-sports-fc-26-lake-erie-r4pt6bn3ek-mshale",
+      "title": "2026 年国际足联世界杯 | J组：阿根廷VS阿尔及利亚| EA SPORTS FC 26 伊利湖 (r4pT6bN3EK) - Mshale",
+      "summary": "2026 年国际足联世界杯 | J组：阿根廷VS阿尔及利亚| EA SPORTS FC 26 伊利湖 (r4pT6bN3EK)  Mshale",
+      "originalTitle": "FIFA World Cup 2026 | Group J: Argentina Vs Algeria | EA SPORTS FC 26 Lake Erie (r4pT6bN3EK) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 | Group J: Argentina Vs Algeria | EA SPORTS FC 26 Lake Erie (r4pT6bN3EK)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBJaWt3ZlZuZlR2VnlzNXdRRUtIVkpEcWFWUnl5TDB5M1dTcjZycFlVRFF0ZHdJSTdEY2VLcVpfcDdtdVlKVzlNakk0RVA5NGFfMTVWR2JrU055MEh4aENsRQ?oc=5",
+      "publishedAt": "2026-08-14T10:41:10+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-a-childhood-dream-borja-iglesias-reflects-on-spain-s-surreal-world-cup-triumph-goal-com",
+      "title": "儿时的梦想！博尔哈·伊格莱西亚斯回顾西班牙超现实的世界杯胜利 Goal.com",
+      "summary": "儿时的梦想！博尔哈·伊格莱西亚斯反思西班牙超现实的世界杯胜利 Goal.com",
+      "originalTitle": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph - Goal.com",
+      "originalSummary": "A childhood dream! Borja Iglesias reflects on Spain's surreal World Cup triumph  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPblVkWTdJajBveFU4MWlMWGQxWGMzSzBRTnJXb2tNeFpORFpqOWZBaGF4RjNiZjR2UUZSTjAzcWdjYTFZV1N3UW1Fc1Y1UW0za19lTi03MGljcFFPSVlzX2FraVoxNWN3aWNHZ2FMaU1Oa1VyaldocXl3UW9TVUNrRy1ackh4WUtpS2NRMzhnRURxdw?oc=5",
+      "publishedAt": "2026-08-14T10:25:54+00:00",
       "heat": 52
     },
     {
@@ -128,11 +176,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider",
-      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - VegasInsider",
-      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 VegasInsider",
-      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - VegasInsider",
-      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  VegasInsider",
+      "id": "google-news-underdog-world-cup-2026-best-ball-guide-strategy-scoring-prizes-vegasinsider-com",
+      "title": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 - vegasinsider.com",
+      "summary": "2026 年失败者世界杯最佳用球指南：策略、得分和奖项 vegasinsider.com",
+      "originalTitle": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes - vegasinsider.com",
+      "originalSummary": "Underdog World Cup 2026 Best Ball Guide: Strategy, Scoring & Prizes  vegasinsider.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQcHprbm94WFhmOXNZZHotTGkxSHdoZm1rRGlFcWRHTGNoZHM4SzJWOWFXdWVXX2V3MTQtLW5qOEYzaUdJZF81XzQzSjZkRXJlTzR6UFJxRmd0RnNIS2F6S0x0ajBQSGNQczdDemQ4MndGN2J3WldoTEgxaWFTdkNXb2UxcEhoX2JyWTlhTkxQdE9ZN2FF?oc=5",
@@ -150,18 +198,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
       "publishedAt": "2026-08-14T09:14:29+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-sweden-vs-tunisia-highlights-2026-fifa-world-cup-burnley-vs-aston-villa-md0czfthta-mshale",
-      "title": "瑞典 VS 突尼斯2026 年 FIFA 世界杯™ 伯恩利 vs 阿斯顿维拉 (Md0CZFTHta) - Mshale",
-      "summary": "瑞典 VS 突尼斯2026 年 FIFA 世界杯™ 伯恩利 vs 阿斯顿维拉 (Md0CZFTHta)  Mshale",
-      "originalTitle": "Sweden Vs Tunisia Highlights | 2026 FIFA World Cup™ Burnley Vs Aston Villa (Md0CZFTHta) - Mshale",
-      "originalSummary": "Sweden Vs Tunisia Highlights | 2026 FIFA World Cup™ Burnley Vs Aston Villa (Md0CZFTHta)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zcTJsLTRLVXhRR25mQlVGYk1NV0RCSkZUN1hHMG5xRmsyUEdBSFVFdHFydFpfXzcyM055Z2VlcVRSZ3otYWd4cm8taDVwRlNuUEVPMzEtNVhXMFU?oc=5",
-      "publishedAt": "2026-08-14T09:13:45+00:00",
-      "heat": 60
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -184,42 +220,6 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOc3g4NDAtOWtETk1ySWRDcGpKQ25uWlRUblZ5clRWV0hiY0pWc1d5SFNEQWgtWHVWTG1wcmkzTFF3VG9WTV9rSEpuQVVDaDlqdkJXZHRBb1F2ZW9XZk54MXc2bjAtdUt2d05FaExmT3pVWFhObVFmTWdmbFhQZHktYmN3?oc=5",
-      "publishedAt": "2026-08-14T09:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-world-cup-schedule-today-games-kickoff-times-livestream-info-for-july-19-mashable",
-      "title": "FIFA 世界杯今日赛程：7 月 19 日的比赛、开球时间、直播信息 - Mashable",
-      "summary": "FIFA 世界杯今日赛程：7 月 19 日的比赛、开球时间、直播信息 Mashable",
-      "originalTitle": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19 - Mashable",
-      "originalSummary": "FIFA World Cup schedule today: Games, kickoff times, livestream info for July 19  Mashable",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWlhQYzVrYXFwSXVOVVlhV0x1TDdRc1BqakNPWUcxLTJVcWRlSndlaDZaOTdHNFBTX180cFlZRVJlV19QTUI4ZmJiTTk5V0JIV2VsR1hqQzBwdXE4bXdra0FzWXcwalV1UlZKVDRmZzRXWHhUeVF6THZmdWlfS3VVNktuVS1ZRlF1YkJzQmZiVks5bkpzSFE?oc=5",
-      "publishedAt": "2026-08-14T09:00:00+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-livestream-how-to-watch-world-cup-for-free-mashable",
-      "title": "2026 年 FIFA 世界杯直播：如何免费观看世界杯 - Mashable",
-      "summary": "FIFA 世界杯 2026 直播：如何免费观看世界杯 Mashable",
-      "originalTitle": "FIFA World Cup 2026 livestream: How to watch World Cup for free - Mashable",
-      "originalSummary": "FIFA World Cup 2026 livestream: How to watch World Cup for free  Mashable",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5DVnUxS0ZIYVJuVXdfaXZvd3hXOVB3ZllzM0VmNkYzX0hncC1LTDZzOHZ3cHdtaGtDV0NUZk92UG5KeDc3TndoOUJfamJiYUpYV0RSc1h6Rm1SRjJKcVdrcmlfNFFQbzZBTjZ6QzhwUXpvdl85YnAwNw?oc=5",
-      "publishedAt": "2026-08-14T09:00:00+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-spain-vs-saudi-arabia-2026-livestream-how-to-watch-world-cup-for-free-mashable",
-      "title": "2026 年西班牙对阵沙特阿拉伯直播：如何免费观看世界杯 - Mashable",
-      "summary": "2026 年西班牙对阵沙特阿拉伯直播：如何免费观看世界杯 Mashable",
-      "originalTitle": "Spain vs. Saudi Arabia 2026 livestream: How to watch World Cup for free - Mashable",
-      "originalSummary": "Spain vs. Saudi Arabia 2026 livestream: How to watch World Cup for free  Mashable",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQm5ia1padFI1YTRGaGwxRU1xSWp2cVNlbmpNUWdXR2FFR0pQZzd3MEs1Vkd4dXhYMVFzVmNidFBRYVRPdjhPeWd1cVQxTWl3bTQ3QVBVREhEZ2ZKVmxRVWNFbGtBTEVpajhPQ0N0V0VtV1dXNU1tbDNSaHljemJ6Z25QZWJ3N2k2SjlmMEpwc240blh4V0xLeml3?oc=5",
       "publishedAt": "2026-08-14T09:00:00+00:00",
       "heat": 60
     }
