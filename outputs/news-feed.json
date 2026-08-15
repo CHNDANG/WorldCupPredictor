@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:29:32.640534+00:00",
+  "updatedAt": "2026-08-15T05:56:10.051884+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,28 @@
   ],
   "articles": [
     {
-      "id": "google-新闻-中文-watch-fifa-world-cup-2026-live-free-win-big-prizes-with-ecwon-north-sea-8xmtoctp4y-mshale",
-      "title": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) - 姆沙勒",
-      "summary": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) Mshale",
-      "originalTitle": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y) - Mshale",
-      "originalSummary": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y)  Mshale",
+      "id": "google-news-india-vs-pakistan-at-hockey-world-cup-2026-date-start-time-tv-channel-and-live-stream-details-for-pool-d-cla",
+      "title": "2026 年曲棍球世界杯印度 vs 巴基斯坦：D 组比赛的日期、开始时间、电视频道和直播详细信息 - sportingnews.com",
+      "summary": "2026 年曲棍球世界杯印度 vs 巴基斯坦：D 组冲突的日期、开始时间、电视频道和直播详细信息 sportingnews.com",
+      "originalTitle": "India vs Pakistan at hockey World Cup 2026: Date, start time, TV channel and live stream details for Pool D clash - sportingnews.com",
+      "originalSummary": "India vs Pakistan at hockey World Cup 2026: Date, start time, TV channel and live stream details for Pool D clash  sportingnews.com",
       "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcE1LWWRYdnpMTF9vekNzdld1VExNNjE3UWJCbnp6ck5ERVNlOTF3ZjFNSGxNNTJuM3l3MDVLVmI3YVFkZ0xIeHZyeUI1SGNnaUZvaFYwUUQtX1JUQVFoX0FNOEFEd2FTSXkzQ3I1OHpGRkJzY29id2pTMHh4LTVaNThxUy1OaFdVTFhsalViZi1FWnNIZlY2T0hJOWpuNTlNWTR0RHRzX2RYX1lQeFN1UzFjTWpnS2pCRG1oR0s5aW5sSmo2QmZuZ0JYcW5ROVFBZlpWeW02cG0?oc=5",
+      "publishedAt": "2026-08-15T05:30:01+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-fifa最新排名出炉-德国男足跌出世界前十-新浪网",
+      "title": "FIFA最新排名出炉，德国男足跌出世界前十 - 新浪网",
+      "summary": "FIFA最新排名出炉，德国男足跌出世界前十  新浪网",
+      "originalTitle": "FIFA最新排名出炉，德国男足跌出世界前十 - 新浪网",
+      "originalSummary": "FIFA最新排名出炉，德国男足跌出世界前十  新浪网",
+      "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTWFVaTFUbmdJUFlVczBYRmk3RVNqaHBrY1BfNUc2QlRlTFkyM2NxS0ZzTjN1aVZxcHBLS09IdmhPT3RNQmkxZGxKdjlYbXQtV2VqWHcydklTdkk?oc=5",
-      "publishedAt": "2026-08-15T04:01:56+00:00",
-      "heat": 68
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjlJcHBoYy00cWUzaTF3c0VqQzA1bk83WVVqLWlsU2ppWTk0WUhGa0NNeUM0R1JjcWFMZEhNQURwcDRLejRmVThHMEtKX05MeVgwdWdHc0U1WFJhN2xrUUxpWnlCTHJXU1lQNVJDdV9iU0w5VnJFc3FDUTZZeDRhWDNwWTViLUpEU0dCczk5a09JTEk?oc=5",
+      "publishedAt": "2026-08-15T04:31:36+00:00",
+      "heat": 52
     },
     {
       "id": "google-新闻-中文-c-罗追平多项足球世界纪录-c罗-2026年世界杯-乌兹别克斯坦-梅开二度-头球破门-2-93米-25球-世界杯-欧洲杯_新浪新闻-新浪网",
@@ -44,11 +56,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-world-cup-kicks-off-a-pivotal-decade-of-world-championships-in-u-s-forbes-com",
-      "title": "世界杯在美国拉开了世锦赛关键十年的序幕 - forbes.com",
-      "summary": "世界杯在美国拉开了世锦赛关键十年的序幕 forbes.com",
-      "originalTitle": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - forbes.com",
-      "originalSummary": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S.  forbes.com",
+      "id": "google-news-world-cup-kicks-off-a-pivotal-decade-of-world-championships-in-u-s-forbes",
+      "title": "世界杯在美国拉开了世锦赛关键十年的序幕 - 福布斯",
+      "summary": "世界杯在美国拉开了世锦赛关键十年的序幕 福布斯",
+      "originalTitle": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S. - Forbes",
+      "originalSummary": "World Cup Kicks Off A Pivotal Decade Of World Championships In U.S.  Forbes",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ0NwTTVpaGdvTkZreVZCOHZ3QjNxQ01kdmdpQTVtMngxRVFnZDk0dEZXcjBENDdlSVVQTmliOXRmenJ4aEduYkllQUpveVpabjRHcE5hdnBJenBnaC1NczlabHhBRlJqSi1JTnE0QUJ6X1lNNUpzX3N5NTdid0tkR2JNUDc1UjVsazJVUjR6aU1GVzgyVnc2R29lblUydFZBRFhNY2dZa0RQOTZEX1ZDV21QYV9nZWpWejJn?oc=5",
@@ -70,7 +82,7 @@
     {
       "id": "google-news-fifa-world-cup-2026-switzerland-training-the-lufkin-daily-news",
       "title": "2026 年 FIFA 世界杯 - 瑞士训练 - 勒夫金日报",
-      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金日报",
+      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金每日新闻",
       "originalTitle": "FIFA World Cup 2026 - Switzerland Training - The Lufkin Daily News",
       "originalSummary": "FIFA World Cup 2026 - Switzerland Training  The Lufkin Daily News",
       "translation": "online",
@@ -80,23 +92,23 @@
       "heat": 60
     },
     {
-      "id": "google-news-brazil-vs-scotland-live-watch-party-of-2026-world-cup-danhausen-dtl1uyllli-mshale-com",
-      "title": "巴西对阵苏格兰：2026 年世界杯直播观看派对 Danhausen (dtL1uYLlli) - mshale.com",
-      "summary": "巴西对阵苏格兰：2026 年世界杯直播观看派对 Danhausen (dtL1uYLlli)  mshale.com",
-      "originalTitle": "Brazil Vs Scotland: LIVE Watch Party Of 2026 World Cup Danhausen (dtL1uYLlli) - mshale.com",
-      "originalSummary": "Brazil Vs Scotland: LIVE Watch Party Of 2026 World Cup Danhausen (dtL1uYLlli)  mshale.com",
+      "id": "google-news-portugal-vs-dr-congo-extended-highlights-2026-fifa-world-cup-estate-of-michael-jackson-c2m0bhgtpo-mshale-com",
+      "title": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊遗产 (C2m0BHgtpo) - mshale.com",
+      "summary": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊庄园 (C2m0BHgtpo)  mshale.com",
+      "originalTitle": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo) - mshale.com",
+      "originalSummary": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo)  mshale.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBYNE1RakZndmhqLUY3RzNMa0tBQTZ2Z2lUbUY0cTRKakZHRzJqbTNHY3VxTGNHNVJqR0xHaW9INlEwdXlTc3hiY1hyeVZtblRkUzVNc3VXQkRpLXM?oc=5",
-      "publishedAt": "2026-08-14T20:27:01+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SZnVHcTFyRWpGZVM5aWh4WjdCQ2RELXFRWVRvU1cwUlRvTUE4WWlhcU5BYlJMWExLbFhUYVB5MVZxLW00MWdTVHhvQUlZaWtUbUhlT3BfOHlCTm8?oc=5",
+      "publishedAt": "2026-08-14T20:20:11+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-chccs-student-s-world-cup-display-connects-chapel-hill-through-universal-language-of-soccer-the-daily-tar-he",
-      "title": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 - The Daily Tar Heel",
-      "summary": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 The Daily Tar Heel",
-      "originalTitle": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer - The Daily Tar Heel",
-      "originalSummary": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer  The Daily Tar Heel",
+      "id": "google-news-chccs-student-s-world-cup-display-connects-chapel-hill-through-universal-language-of-soccer-daily-tar-heel",
+      "title": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 - Daily Tar Heel",
+      "summary": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 Daily Tar Heel",
+      "originalTitle": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer - Daily Tar Heel",
+      "originalSummary": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer  Daily Tar Heel",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2dFM0R5VkRuZU1yT0t3TW8tQmtUT3FQeGNnMmZVQXV0aTNUNnZ2elZjaWdpTVNSMXlsMHVsQjlpX0FHc3hvc200cTQ4MlJORm1EenRKYi1YUjEyVGh4QXUtMFdNOUZGajdfWHpqU0gtU3RjSWI3c0RUaUNUbUR5VWFPZy0wcFBX?oc=5",
@@ -128,15 +140,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-argentina-vs-egypt-live-fifa-world-cup-2026-round-of-16-knockout-match-messi-vs-salah-n18g-nba-youngboy-szzo",
-      "title": "🔴阿根廷 vs 埃及直播：2026 年世界杯 16 强淘汰赛 |梅西 VS 萨拉赫 | N18G Nba Youngboy (sZzOGzQUcv) - mshale.com",
-      "summary": "🔴阿根廷 vs 埃及直播：2026 年世界杯 16 强淘汰赛 |梅西 VS 萨拉赫 | N18G Nba Youngboy (sZzOGzQUcv)  mshale.com",
-      "originalTitle": "🔴Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round Of 16 Knockout Match | Messi Vs Salah | N18G Nba Youngboy (sZzOGzQUcv) - mshale.com",
-      "originalSummary": "🔴Argentina Vs Egypt LIVE: FIFA World Cup 2026 Round Of 16 Knockout Match | Messi Vs Salah | N18G Nba Youngboy (sZzOGzQUcv)  mshale.com",
+      "id": "google-news-watch-fifa-world-cup-2026-switzerland-vs-bosnia-herzegovina-crucial-group-b-showdown-live-fenerbahçe-fbxnl4k",
+      "title": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切现场直播 (fBXNL4k172) - mshale.com",
+      "summary": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切现场直播 (fBXNL4k172)  mshale.com",
+      "originalTitle": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172) - mshale.com",
+      "originalSummary": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172)  mshale.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1SLU5OdkVoWG5lSlc3YUhhWTBwbEwxOUhCVFRBSTV5bExJOUFlR211WXZ1blJGSHBpcWVRWlZISHgwOGxnYVBxUG1qZ0syRnd3dGRrZUkwSl9rd2x5ZGNnVQ?oc=5",
-      "publishedAt": "2026-08-14T19:11:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jaDVkdnA3c0lJcktYcWtPYkNtbkdBSmNHYVRBMk9RSWZNMmhXNjQtdVdPVHI1VWZObDRWVEhidlN4TmhBb3dzdFNHUFRyZFhidlRhOHByejZIUkk?oc=5",
+      "publishedAt": "2026-08-14T19:30:27+00:00",
       "heat": 68
     },
     {
@@ -164,11 +176,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-what-s-next-for-christian-pulisic-after-the-fifa-world-cup-fox-sports",
-      "title": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？ - 福克斯体育",
-      "summary": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？  福克斯体育",
-      "originalTitle": "What's next for Christian Pulisic after the FIFA World Cup? - FOX Sports",
-      "originalSummary": "What's next for Christian Pulisic after the FIFA World Cup?  FOX Sports",
+      "id": "google-news-what-s-next-for-christian-pulisic-after-the-fifa-world-cup-foxsports-com",
+      "title": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？ - 福克斯体育网",
+      "summary": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？  福克斯体育网",
+      "originalTitle": "What's next for Christian Pulisic after the FIFA World Cup? - foxsports.com",
+      "originalSummary": "What's next for Christian Pulisic after the FIFA World Cup?  foxsports.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5",
@@ -200,27 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-scotland-fifa-world-cup-2026-squad-tartan-army-ready-for-glory-kirk-cousins-5ocsoziqfe-mshale-com",
-      "title": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe) - mshale.com",
-      "summary": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追问追问柯克考辛斯 (5oCsoZiqFe)  mshale.com",
-      "originalTitle": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe) - mshale.com",
-      "originalSummary": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe)  mshale.com",
+      "id": "google-news-aifa-reaches-profitability-as-cargo-and-world-cup-traffic-surge-mexico-business-news",
+      "title": "随着货运和世界杯交通量的激增，AIFA 实现盈利 - 墨西哥商业新闻",
+      "summary": "随着货运和世界杯交通量的激增，AIFA 实现盈利 墨西哥商业新闻",
+      "originalTitle": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge - Mexico Business News",
+      "originalSummary": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge  Mexico Business News",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iRDhUVlFkTlQ5ajZ2enpvYmZybHp6Y0J2WTdMNGpXc2pibzNQbFVrZmF1SEMtZk5mcFJJUzRVbEVvS2haSXR3UjVjZDRuaENMZkEyUkkydnM1MldWOEp4VQ?oc=5",
-      "publishedAt": "2026-08-14T17:42:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-spain-saved-football-talksport-reacts-to-spain-beating-argentina-1-0-to-win-the-world-cup-playstation-5-lu9y",
-      "title": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ) - mshale.com",
-      "summary": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ)  mshale.com",
-      "originalTitle": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ) - mshale.com",
-      "originalSummary": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ)  mshale.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ejZHcVlRUEpRQUdXajlra0hwZjA0aUtaNjN0aFcyT0ozbjB1M1ZfcmVMc294M1c3OGZ0NllSZ3JydFZjZVVOamktNWYwdE9OenFTY2RBZXJWTDJhdnVTZA?oc=5",
-      "publishedAt": "2026-08-14T17:37:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEFUajQtdUgtY090Ukt5RDBRSkc5M1Nrdm1oU3F6bHFBV3h4ZW9obkduWmJteldzMU1SaS01VG5PRVN5aVVXbldjSUNTSUZNTFFlZFI5MDRpRkJVay1NeldpdkVUVWI5VW40d0NGRExxeVFEYTYtV0U0V2UtNVNpZnpvWnpCMEdyN0VseHJqWWNMTlEzZ3Z0YVdmLXlIY3JvUDhhOHNn?oc=5",
+      "publishedAt": "2026-08-14T17:14:56+00:00",
       "heat": 52
     }
   ]
