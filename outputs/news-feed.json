@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:48:32.632725+00:00",
+  "updatedAt": "2026-08-15T16:30:08.257287+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-ballon-d-or-rankings-after-psg-won-uefa-super-cup-vanguard-news",
+      "title": "巴黎圣日耳曼夺得欧洲超级杯后2026年金球奖排名 - Vanguard News",
+      "summary": "巴黎圣日耳曼赢得欧洲超级杯后的 2026 年金球奖排名 Vanguard News",
+      "originalTitle": "2026 Ballon d’Or rankings after PSG won UEFA Super Cup - Vanguard News",
+      "originalSummary": "2026 Ballon d’Or rankings after PSG won UEFA Super Cup  Vanguard News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPckZKUlpqdHRFcGNQOGs2RTJLaFZ6d19kZEVMZURRNHZYVnZyMkZjMDE1TVdib2pJNG55c2xYdDJZZmpmWHBneE0zaVhsLWlEb01QNlJDN1dRc0dhTWVmbm1ReV9JS1B2RThwU2R5UndhUGVGN0tKU3Mwb29jbXVDNURGcDhqeE1ySXVQMXRadVpvd1960gGaAUFVX3lxTE8tMlkyUFg3WXRydmp5MC1Nam5UWk50Q181bzVKSTMzNFYtSW1jN2U2Y1F2TFFnOWhUcjcwVndRQnBSOFltWjdFUFVfNHVreDNhcTl2ZHZvTnZqVXRXalRqVDJUVkVKZVprWWY3dzJTNG5fYkFQWGVqZGI5THZvV0hhMWtrQW1XRXZTdTNfblZQVGszb3FPT19xd3c?oc=5",
+      "publishedAt": "2026-08-15T15:57:18+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-psg-sign-world-cup-winner-ferran-torres-from-barcelona-anadolu-ajansı",
+      "title": "巴黎圣日耳曼从巴塞罗那签下世界杯冠军费兰·托雷斯 - Anadolu Ajansı",
+      "summary": "巴黎圣日尔曼从巴塞罗那签下世界杯冠军费兰·托雷斯阿纳多卢·阿扬西",
+      "originalTitle": "PSG sign World Cup winner Ferran Torres from Barcelona - Anadolu Ajansı",
+      "originalSummary": "PSG sign World Cup winner Ferran Torres from Barcelona  Anadolu Ajansı",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWxIM2hMOG5QbU5LMjRkUEtjUGtDZ2RnZ1BoaWpNSnk1UWR2UXpCakpIenNZYTN1aEkyNWZncnlaWVc1UW5IbmdDWm05NUhyTGpSQ1pvWTFHbzlqU2dWejhVS0VGb3BHaEFhTUJZZldQaVZYeWJtNWd2YXhtTm1KWFRtNDU4b3ZtUWFTMThmSkdrdmF4OUlVZWtn?oc=5",
+      "publishedAt": "2026-08-15T15:50:28+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-all-switzerland-goals-at-the-2026-fifa-world-cup-ghanasoccernet",
       "title": "瑞士在 2026 年 FIFA 世界杯上的所有进球 🇨🇭 - 加纳足球网",
@@ -20,6 +44,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-世界杯开赛在即-国际足联新规-任何水瓶都不能带进球场-财联社",
+      "title": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场 - 财联社",
+      "summary": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场  财联社",
+      "originalTitle": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场 - 财联社",
+      "originalSummary": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场  财联社",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hWUgzRHdPWVhTWkRpelNLMUN4SUE0YjdUeEJaQ0VxVmtNWXNLRGNBbFhsa3paem1SOUdMMURyS2FVeXZFZGNZYQ?oc=5",
+      "publishedAt": "2026-08-15T14:03:19+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-inside-the-business-of-the-world-cup-q-a-with-ross-mccall-executive-director-of-commercial-operations-fifa-w",
       "title": "世界杯业务内部：与 2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答 - C-Suite Quarterly",
       "summary": "世界杯业务内部：2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答",
@@ -30,18 +66,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa21oVG1HVmx5ZzF5cHozMDBUOW5lMzlNSERQV0J2UnRIQ0RqbGhQME1CcTBpYUF0b2ppd19jZjlLYWQ1M19BS1pYbU9qeGp3Vng5NXp5b0FNSUpyMF9mU0lXS1c5cXpGcnZ2SmNKVTBDTERzbVZrNjRKNmpJOTdFQUd4RVhhLV9WbUpQNzZIY25pa3NXZzJDTTFKLUxXSGlHb25tVEZzb0ZvUjZDWWwxSUVjeUNMMWlHUFBnZGszZE9aSHA5NHR2djc5dEdNX24xZmYtRGIwSXM1UDdaZkE?oc=5",
       "publishedAt": "2026-08-15T13:57:55+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-final-hero-ferran-torres-joins-psg-from-fc-barcelona-adaderana-lk",
-      "title": "世界杯决赛英雄费兰·托雷斯从巴塞罗那足球俱乐部加盟巴黎圣日尔曼 -adaderana.lk",
-      "summary": "世界杯决赛英雄费兰·托雷斯从巴塞罗那足球俱乐部加盟巴黎圣日耳曼adaderana.lk",
-      "originalTitle": "World Cup final hero Ferran Torres joins PSG from FC Barcelona - adaderana.lk",
-      "originalSummary": "World Cup final hero Ferran Torres joins PSG from FC Barcelona  adaderana.lk",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuN1dydk9QNEtiYlNWTmFld3FnRjJuTk5WdkRoTmtMa01vOWtoNUdBXzZVcUZ5ZTR2Z2NUTWtIQXkxRUg3Yzk4UTdFNklBMVF1NDFPSm0yczFzWFkwSU9scA?oc=5",
-      "publishedAt": "2026-08-15T13:31:46+00:00",
-      "heat": 52
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -128,6 +152,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-official-psg-sign-a-2026-world-cup-winner-onefootball",
+      "title": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！ - 一个足球",
+      "summary": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！  一个足球",
+      "originalTitle": "🚨 Official: PSG sign a 2026 World Cup winner! - OneFootball",
+      "originalSummary": "🚨 Official: PSG sign a 2026 World Cup winner!  OneFootball",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNREV4bnU3cTlnMEVNYmhwZjhVQWFnbTdvWW5XM0xMQXhjZGRBeG1DUVNDdERZNlJTX2hnbkFtRVBMREFWVFdNeHBQRUZINXQwamtfSWJIQXFlYnRTWXNlNldtSTRYd0dzT3d1MGs3ZVVUN3ppaFRRTUdSNF92cF82UUJIREJnOEtieGc?oc=5",
+      "publishedAt": "2026-08-15T10:18:16+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-modot-highlights-fifa-world-cup-success-as-travelers-flood-state-warren-county-record",
       "title": "旅游部在游客涌入州时强调国际足联世界杯的成功 - 沃伦县记录",
       "summary": "MoDOT 强调 FIFA 世界杯的成功，游客涌入沃伦县创纪录",
@@ -140,11 +176,23 @@
       "heat": 60
     },
     {
+      "id": "google-news-chezh-republic-vs-south-africa-fifa-world-cup-2026-match-stream-pes-game-simulation-pumas-unam-vs-club-améri",
+      "title": "🔴切赫共和国 vs 南非 | 2026 年国际足联世界杯 |比赛直播 | PES 游戏模拟 Pumas Unam Vs Club América (5jW1H9Qaxe) - Mshale",
+      "summary": "🔴切赫共和国 vs 南非 | 2026 年国际足联世界杯 |比赛直播 | PES 游戏模拟 Pumas Unam Vs Club América (5jW1H9Qaxe)  Mshale",
+      "originalTitle": "🔴CHEZH REPUBLIC Vs SOUTH AFRICA | FIFA World Cup 2026 | Match Stream | PES Game Simulation Pumas Unam Vs Club América (5jW1H9Qaxe) - Mshale",
+      "originalSummary": "🔴CHEZH REPUBLIC Vs SOUTH AFRICA | FIFA World Cup 2026 | Match Stream | PES Game Simulation Pumas Unam Vs Club América (5jW1H9Qaxe)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9yODA0dDFDR18yTTVqYTR1bzdWRGEzZzhXaURRWGZsTjZYZ2dDeWRmSjB0VXNfMFE3UGxSZ09tUm1CWWZfU2J1ZlFRNUx1VF9MRkE2TTNUNmdNaTg?oc=5",
+      "publishedAt": "2026-08-15T09:59:46+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-官方-费兰-托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰-托雷斯-这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间-共代表球队出战207场比赛-打进65球并贡献23次助攻费兰-托雷",
-      "title": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 手机新浪网",
-      "summary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  手机新浪网",
-      "originalTitle": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 手机新浪网",
-      "originalSummary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  手机新浪网",
+      "title": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 新浪网",
+      "summary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  新浪网",
+      "originalTitle": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 新浪网",
+      "originalSummary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  新浪网",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wOTRYSnJwTlpfM0M0MUQ5U2pRRU1ORXhKMHN1WVJmanV3bmVWOFhiOGJiR19UcVdnMW9IQ1kyXzU4dFY5clZYV1dqVVV4OV95cklhQ29JZHhnR0FZWS1fR2xoUQ?oc=5",
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZ0dl9xMUxkOG9sb18zc1RWZnExdUMwc1BNQXZuOGtWdkJsd3F2NXJUd3k0RlZ3czIzV1JqNDctdlllNjNkcEtfV3AyeEFtMGVZcUZ5TnY3Z0NkbTBscmxfLTFzel8wTlZwTmdNNVBmSlZLRVVFYjRlSGV5NUsyZ0I1dG5VdmZOemxaMzRXM3dxblZGT3RyN3lReURfazdyV2ViTnl3NEtEZk9IZ1VSOFh2aFNmUWEyOTRPNV80OA?oc=5",
       "publishedAt": "2026-08-15T09:00:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-highlights-congo-dr-3-1-uzbekistan-fifa-world-cup-2026-fever-vs-sparks-kd41o4blmm-mshale",
-      "title": "亮点|刚果民主共和国 3-1 乌兹别克斯坦 | FIFA 世界杯 2026™ Fever VS Sparks (kD41o4blMM) - Mshale",
-      "summary": "亮点|刚果民主共和国 3-1 乌兹别克斯坦 | FIFA 世界杯 2026™ Fever 对阵 Sparks (kD41o4blMM)  Mshale",
-      "originalTitle": "Highlights | Congo DR 3-1 Uzbekistan | FIFA World Cup 2026™ Fever Vs Sparks (kD41o4blMM) - Mshale",
-      "originalSummary": "Highlights | Congo DR 3-1 Uzbekistan | FIFA World Cup 2026™ Fever Vs Sparks (kD41o4blMM)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5leC1ZZ3dFTUJTQTZYS2tPWFFKQXhrMThCaGZybEJFOXRLcFg0akZmeUpzTzR6V3puanllTzgwODh5cVcxSGpoMmdIOXNvZlFKMWlOWElkT0FTMlE?oc=5",
-      "publishedAt": "2026-08-15T08:59:31+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
-      "publishedAt": "2026-08-15T08:21:12+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-15T08:16:56+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
-      "publishedAt": "2026-08-15T07:54:49+00:00",
-      "heat": 60
     }
   ]
 }
