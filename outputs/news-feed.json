@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T15:26:22.278751+00:00",
+  "updatedAt": "2026-08-15T15:48:32.632725+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-all-switzerland-goals-at-the-2026-fifa-world-cup-ghanasoccernet",
+      "title": "瑞士在 2026 年 FIFA 世界杯上的所有进球 🇨🇭 - 加纳足球网",
+      "summary": "瑞士在 2026 年 FIFA 世界杯上的所有进球 🇨🇭  加纳Soccernet",
+      "originalTitle": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭 - GhanaSoccernet",
+      "originalSummary": "ALL Switzerland goals at the 2026 FIFA World Cup 🇨🇭  GhanaSoccernet",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUEZfSExwS0R6dHIySld0TW5IeEZndEFWQ1AzMDJROFBKR1FDejVla19UY3A2X2RnVHFvYWRoMHlQTGFCaEpRNG5nUjhWamQzdmc0Tm80TmM5azFlUWlQeGJMOVFZQ09ULU1wbXNHd2tiTVhVQ1BISmR3aFdFVHRDNA?oc=5",
+      "publishedAt": "2026-08-15T14:05:34+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-inside-the-business-of-the-world-cup-q-a-with-ross-mccall-executive-director-of-commercial-operations-fifa-w",
       "title": "世界杯业务内部：与 2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答 - C-Suite Quarterly",
@@ -209,18 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
       "publishedAt": "2026-08-15T07:54:49+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-s-infantino-gets-backing-of-white-house-chief-giuliani-over-world-cup-aljazeera-com",
-      "title": "国际足联主席因凡蒂诺在世界杯上得到白宫首席朱利安尼的支持 - aljazeera.com",
-      "summary": "国际足联主席因凡蒂诺在世界杯上得到了白宫首席朱利安尼的支持 aljazeera.com",
-      "originalTitle": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup - aljazeera.com",
-      "originalSummary": "FIFA’s Infantino gets backing of White House chief Giuliani over World Cup  aljazeera.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOTU1xMXNuMW0yeFFYYjJObDh3T3BtOGExQ2ZnZ3RGY3FJTW1ydm5zMkIwamdsTTJyaE5qX2NhMk5Rb1JuUS14ci1iRl9WMEhUV29IcTM1UFNZWVNwcDBJMllJU3pMdi1hdEpCdVduemRKSDFyZHFMcVJGU1JGQUl0YkZ6MVJrZ1Q3dzhYLXl6SkZDQ2RydnQ1bXlSemU0U2FYOFVJSkxvdi1JOFhLZ2fSAbMBQVVfeXFMTkdleWozOUV2QmJlODBmaHFRZUFFOF9oTHZoTDhzbXk1MVRLdEFpeW1NNkxobURXSC1CN2NMakVLOWlWcnRtOEhteGRHRzc4ODJ6U2NzaEI1ZDVOMFBBWVJCNHNwTm5JX0lGY1U0WU5PTlpNYXJaRnQ4Z1dEd1F1V3lyaDFkdFRYeGdScUFHbFY5aW10NEJYTTJVZ0I2c0JUZUgxNUYwRlhIdFEzS2lzRDFXdk0?oc=5",
-      "publishedAt": "2026-08-15T07:33:25+00:00",
       "heat": 60
     }
   ]
