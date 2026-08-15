@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T14:27:56.373404+00:00",
+  "updatedAt": "2026-08-15T14:51:54.736138+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -18,6 +18,54 @@
       "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa21oVG1HVmx5ZzF5cHozMDBUOW5lMzlNSERQV0J2UnRIQ0RqbGhQME1CcTBpYUF0b2ppd19jZjlLYWQ1M19BS1pYbU9qeGp3Vng5NXp5b0FNSUpyMF9mU0lXS1c5cXpGcnZ2SmNKVTBDTERzbVZrNjRKNmpJOTdFQUd4RVhhLV9WbUpQNzZIY25pa3NXZzJDTTFKLUxXSGlHb25tVEZzb0ZvUjZDWWwxSUVjeUNMMWlHUFBnZGszZE9aSHA5NHR2djc5dEdNX24xZmYtRGIwSXM1UDdaZkE?oc=5",
       "publishedAt": "2026-08-15T13:57:55+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-final-hero-ferran-torres-joins-psg-from-fc-barcelona-ada-derana",
+      "title": "世界杯决赛英雄费兰·托雷斯从巴塞罗那足球俱乐部加盟巴黎圣日耳曼 - 阿达·德拉纳",
+      "summary": "世界杯决赛英雄费兰·托雷斯从巴塞罗那足球俱乐部阿达·德拉纳加盟巴黎圣日耳曼",
+      "originalTitle": "World Cup final hero Ferran Torres joins PSG from FC Barcelona - Ada Derana",
+      "originalSummary": "World Cup final hero Ferran Torres joins PSG from FC Barcelona  Ada Derana",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuN1dydk9QNEtiYlNWTmFld3FnRjJuTk5WdkRoTmtMa01vOWtoNUdBXzZVcUZ5ZTR2Z2NUTWtIQXkxRUg3Yzk4UTdFNklBMVF1NDFPSm0yczFzWFkwSU9scA?oc=5",
+      "publishedAt": "2026-08-15T13:31:46+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-15T13:15:43+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-hockey-world-cup-2026-points-table-updated-standings-schedule-results-for-men-s-women-s-tournament-sportingn",
+      "title": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 - sportingnews.com",
+      "summary": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 sportingnews.com",
+      "originalTitle": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament - sportingnews.com",
+      "originalSummary": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament  sportingnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1Y5VkF6SkhuaW1jNndzeHpxUkVPZlVGYk54TVBSVDFlX09nc1hUbndKTlNXNXZDVTNZU0hXamVYVlJjYTZuajY4QUR5ME5uRGtWQXh2THl5U0UyQTZlUUFydHdVa0ZrWlhlWVhfUEJWQ1ZWbDlCZ2tVNHN5RjFDM1lvMTV6Z3FwSXdrLWYxZGtMN1pkallYOXNIdURvZXBVZ1lHejZDTDlGM3d3SWRiNVkxMmZIUER6SEVzSUxUTkx2S1J4eWhMMg?oc=5",
+      "publishedAt": "2026-08-15T13:13:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-s-world-cup-final-hero-ferran-torres-joins-psg-from-barcelona-indulgexpress-com",
+      "title": "西班牙世界杯决赛英雄费兰·托雷斯从巴塞罗那加盟巴黎圣日耳曼",
+      "summary": "西班牙世界杯决赛英雄费兰·托雷斯从巴塞罗那加盟巴黎圣日尔曼 indulgexpress.com",
+      "originalTitle": "Spain’s World Cup final hero Ferran Torres joins PSG from Barcelona - indulgexpress.com",
+      "originalSummary": "Spain’s World Cup final hero Ferran Torres joins PSG from Barcelona  indulgexpress.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUHVuRVEwcHItbjlXNWZNaDd3cVd6MTdsTzRXSjlpNEJFUmhmZU9KazdIb25oMVl2UGdYYkFZYmV0VjdwYkRpRm0xRVIxYnVsLS1KS2FEYTJxWVhaWm1zY2ZKeS1VWGlua3dXREdZQkd4YTF3dkoyZ2dHaHNWNnoyVXI4YlNWcDNjZ01oMGtJNUw3ajlBYWlTZWVCQTBFMDZPTGFKYV8wRFdyN29nS3FjNDNWcGJuQdIBwwFBVV95cUxOd3pBN2VCMGs1Tno5aUJSNmhnVlRtX205by1mWDJJbDZnRk8wNXJncmhMYkZaT19RRHlJcGNuTDVzMTVjMXhpUWdtZzZydENjTFZXRlR2dDdIdVRVTGdPYlRYbXFBWFBubkVhTHE4d1pmYVdCUlE5V050MUFzdzdUXzhIelYtMFVUVzRtTUJ4NGtBTi1yN2dndHl1Wl9Zd3RaYlI3SjFtRU1fLUpNeHBTVkNzaDl1dlFYOWpiQnEyV1pYRUU?oc=5",
+      "publishedAt": "2026-08-15T12:51:38+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-world-cup-afcon-blord-saga-top-nigeria-s-google-searches-in-2026-nigeria-communications-week",
@@ -56,18 +104,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-hockey-world-cup-2026-points-table-updated-standings-schedule-results-for-men-s-women-s-tournament-sportingn",
-      "title": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 - sportingnews.com",
-      "summary": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 sportingnews.com",
-      "originalTitle": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament - sportingnews.com",
-      "originalSummary": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1Y5VkF6SkhuaW1jNndzeHpxUkVPZlVGYk54TVBSVDFlX09nc1hUbndKTlNXNXZDVTNZU0hXamVYVlJjYTZuajY4QUR5ME5uRGtWQXh2THl5U0UyQTZlUUFydHdVa0ZrWlhlWVhfUEJWQ1ZWbDlCZ2tVNHN5RjFDM1lvMTV6Z3FwSXdrLWYxZGtMN1pkallYOXNIdURvZXBVZ1lHejZDTDlGM3d3SWRiNVkxMmZIUER6SEVzSUxUTkx2S1J4eWhMMg?oc=5",
-      "publishedAt": "2026-08-15T10:30:02+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-fifa-world-cup-2026-final-hero-ferran-torres-joins-paris-saint-germain-ndtv-sports",
       "title": "2026 年 FIFA 世界杯决赛英雄费兰·托雷斯加盟巴黎圣日耳曼 - NDTV Sports",
       "summary": "2026 年 FIFA 世界杯决赛英雄费兰·托雷斯加盟巴黎圣日耳曼 NDTV Sports",
@@ -78,18 +114,6 @@
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3FPTHF5OUlXVDlOYlhpOGtiX3dTeEdHYjlmUTYwakdkTWgyTGZFUERpX1lWV2RoUWZNc1pPYWtVbnRFMlNka3FnSERsYXBKa1Z4QTk5ZkNZZ0lGT3dTYXhNTURYelV4RnpkdFg1RlpYOUVxZ1lfd1E3UWRCUFFua193bEx0MXNsbTU2akFZNDN0MUYzdGw5c1N1RjlmMTVEZ2lvRFBmTzdDb25xazRPTw?oc=5",
       "publishedAt": "2026-08-15T10:29:49+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-wc-hero-ferran-torres-joins-psg-on-contract-until-2031-telangana-today",
-      "title": "2026 年 FIFA 世界杯英雄费兰·托雷斯与巴黎圣日耳曼签约，合同期至 2031 年 - Telangana Today",
-      "summary": "2026 年 FIFA 世界杯英雄费兰·托雷斯与巴黎圣日耳曼签约，合同期至 2031 年",
-      "originalTitle": "2026 FIFA WC hero Ferran Torres joins PSG on contract until 2031 - Telangana Today",
-      "originalSummary": "2026 FIFA WC hero Ferran Torres joins PSG on contract until 2031  Telangana Today",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQk1RTHF5cXVZSDJvX3k1TkxYdE1FbjhGZjc2NnIxQTNKc1FqSlNvY3g5ZUNfZXJZQjNmZm1yYnRCSkYtR01YbFVRM0MxVDljR3NWa1h6Zjl0ZkwtT21UWmU4NExaWE13RmdvTG8wY3R0MWU3Um9vTlpvVU9heHpOY2szakNDc3NXRHVWMXkzR3JQc0dMZUE?oc=5",
-      "publishedAt": "2026-08-15T10:28:42+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-modot-highlights-fifa-world-cup-success-as-travelers-flood-state-warren-county-record",
@@ -105,10 +129,10 @@
     },
     {
       "id": "google-新闻-中文-官方-费兰-托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰-托雷斯-这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间-共代表球队出战207场比赛-打进65球并贡献23次助攻费兰-托雷",
-      "title": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 新浪网",
-      "summary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  新浪网",
-      "originalTitle": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 新浪网",
-      "originalSummary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  新浪网",
+      "title": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 手机新浪网",
+      "summary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  手机新浪网",
+      "originalTitle": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球 - 手机新浪网",
+      "originalSummary": "【官方】费兰·托雷斯转会加盟巴黎圣日耳曼巴黎圣日耳曼足球俱乐部宣布签下费兰·托雷斯，这位西班牙世界杯冠军前锋将与俱乐部签约至2031年球员效力巴萨期间，共代表球队出战207场比赛，打进65球并贡献23次助攻费兰·托雷斯在美加墨世界杯决赛中打进致胜一球  手机新浪网",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5wOTRYSnJwTlpfM0M0MUQ5U2pRRU1ORXhKMHN1WVJmanV3bmVWOFhiOGJiR19UcVdnMW9IQ1kyXzU4dFY5clZYV1dqVVV4OV95cklhQ29JZHhnR0FZWS1fR2xoUQ?oc=5",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQcE1LWWRYdnpMTF9vekNzdld1VExNNjE3UWJCbnp6ck5ERVNlOTF3ZjFNSGxNNTJuM3l3MDVLVmI3YVFkZ0xIeHZyeUI1SGNnaUZvaFYwUUQtX1JUQVFoX0FNOEFEd2FTSXkzQ3I1OHpGRkJzY29id2pTMHh4LTVaNThxUy1OaFdVTFhsalViZi1FWnNIZlY2T0hJOWpuNTlNWTR0RHRzX2RYX1lQeFN1UzFjTWpnS2pCRG1oR0s5aW5sSmo2QmZuZ0JYcW5ROVFBZlpWeW02cG0?oc=5",
       "publishedAt": "2026-08-15T05:30:01+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-15T05:29:07+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-21-0-spain-break-australia-s-incredible-cricket-world-record-with-unbeaten-run-the-indian-express",
-      "title": "21-0：西班牙以不败战绩打破澳大利亚令人难以置信的板球世界纪录 - 印度快报",
-      "summary": "21-0：西班牙以不败战绩打破澳大利亚令人难以置信的板球世界纪录 印度快报",
-      "originalTitle": "21-0: Spain break Australia’s incredible cricket world record with unbeaten run - The Indian Express",
-      "originalSummary": "21-0: Spain break Australia’s incredible cricket world record with unbeaten run  The Indian Express",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnBaSlhLcXlyQlA3alNFbFBrOUdJVEhHN243SkJlQW1yejF6aHZHNDdUTkRoYWo3aTRDQlY3MFBNNFhqc2R1RjNlaGdpaFZxVjgxdG1leXVPd2x2WUl6Y3BDSVpUUDhHQTJqMWthNnJaOTdZeEhZNlhGa2dSSkl6OGlLRmVMWU04X21sWUFpQVBvVzlJRnBnMHZlV3MzY2VjcW1iZC1UeHJqMC1k0gGzAUFVX3lxTE14SXRCaVBvNkVjX3hxWXZmRzYxVGRSQnN3YkVoZWh3ZlkwOGZKenB0VVRtanZxdm01S0FXMEI1eEJtNlJXcDY4bVlzbG00Z211bDFxclZZNzB6YU9VckZKZVRFMGgwdkEySzVZM0d5a01tSTlISE9nV0Q3YlNfMThCNzc4SmxSM2NMRmV6bGNhQ0dSZXE0VjNTZ1NjazZrcVh2di1GNW5QZElUaUQ4dHNIdndN?oc=5",
-      "publishedAt": "2026-08-15T05:11:24+00:00",
-      "heat": 44
     }
   ]
 }
