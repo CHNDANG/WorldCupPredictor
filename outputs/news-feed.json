@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T01:34:32.054577+00:00",
+  "updatedAt": "2026-08-15T02:55:52.540719+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-c-罗追平多项足球世界纪录-c罗-2026年世界杯-乌兹别克斯坦-梅开二度-头球破门-2-93米-25球-世界杯-欧洲杯_新浪新闻-新浪网",
+      "title": "C 罗追平多项足球世界纪录|c罗|2026年世界杯|乌兹别克斯坦|梅开二度|头球破门|2.93米|25球|世界杯|欧洲杯_新浪新闻 - 新浪网",
+      "summary": "C 罗追平多项足球世界纪录|c罗|2026年世界杯|乌兹别克斯坦|梅开二度|头球破门|2.93米|25球|世界杯|欧洲杯_新浪新闻  新浪网",
+      "originalTitle": "C 罗追平多项足球世界纪录|c罗|2026年世界杯|乌兹别克斯坦|梅开二度|头球破门|2.93米|25球|世界杯|欧洲杯_新浪新闻 - 新浪网",
+      "originalSummary": "C 罗追平多项足球世界纪录|c罗|2026年世界杯|乌兹别克斯坦|梅开二度|头球破门|2.93米|25球|世界杯|欧洲杯_新浪新闻  新浪网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcVZJMG1XYTNNVjdWQV9zU0locGdWWEszNXdJQ2d0N0lSXzZqUHo1My1ROEJvZEQ4b254V0dPQndBNm5JWWthYUV2ekhfZU9yTVc2X0FVT1RKWXBaOG9uVTk2SQ?oc=5",
+      "publishedAt": "2026-08-15T02:01:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-world-cup-kicks-off-a-pivotal-decade-of-world-championships-in-u-s-forbes",
       "title": "世界杯在美国拉开了世锦赛关键十年的序幕 - 福布斯",
@@ -34,7 +46,7 @@
     {
       "id": "google-news-fifa-world-cup-2026-switzerland-training-the-lufkin-daily-news",
       "title": "2026 年 FIFA 世界杯 - 瑞士训练 - 勒夫金日报",
-      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金每日新闻",
+      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金日报",
       "originalTitle": "FIFA World Cup 2026 - Switzerland Training - The Lufkin Daily News",
       "originalSummary": "FIFA World Cup 2026 - Switzerland Training  The Lufkin Daily News",
       "translation": "online",
@@ -42,6 +54,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPUEZhS1plYkRwZkVSRjFWUXgzNW1zYktiZVk4bEwyM250Vmx6TVVKem9ZMTI4aEphanAzNlRuVlNQTGY0aVpMYkZBcXVPajQ1dWQyTTNEekZTZktGT1BqWXZaQTVwdDQ2a3pkX3JmeFVacTJMdy1JUVNfMkZUNk1uN081MXY5dFBEZWVxeUtyeGVWdnFiRnNOTEJpVVJJdU9LRUxpckktbFhOVFYwdUotWXRhX2drWV9KRjVPN3AxLVBuemVoVUdaOFVCSUJGZ1g5YlJreQ?oc=5",
       "publishedAt": "2026-08-14T23:14:48+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-chccs-student-s-world-cup-display-connects-chapel-hill-through-universal-language-of-soccer-daily-tar-heel",
+      "title": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 - Daily Tar Heel",
+      "summary": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 Daily Tar Heel",
+      "originalTitle": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer - Daily Tar Heel",
+      "originalSummary": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer  Daily Tar Heel",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2dFM0R5VkRuZU1yT0t3TW8tQmtUT3FQeGNnMmZVQXV0aTNUNnZ2elZjaWdpTVNSMXlsMHVsQjlpX0FHc3hvc200cTQ4MlJORm1EenRKYi1YUjEyVGh4QXUtMFdNOUZGajdfWHpqU0gtU3RjSWI3c0RUaUNUbUR5VWFPZy0wcFBX?oc=5",
+      "publishedAt": "2026-08-14T20:18:45+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
@@ -56,16 +80,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-watch-fifa-world-cup-2026-switzerland-vs-bosnia-herzegovina-crucial-group-b-showdown-live-fenerbahçe-fbxnl4k",
-      "title": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|现场费内巴切 (fBXNL4k172) - 姆沙勒",
-      "summary": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切 (fBXNL4k172) 直播",
-      "originalTitle": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172) - Mshale",
-      "originalSummary": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172)  Mshale",
+      "id": "google-news-world-cup-quarterfinal-ticket-prices-plummet-as-host-nations-exit-ticketnews",
+      "title": "世界杯四分之一决赛门票价格因东道国退出而暴跌 - TicketNews",
+      "summary": "世界杯四分之一决赛门票价格因东道国退出而暴跌",
+      "originalTitle": "World Cup Quarterfinal Ticket Prices Plummet as Host Nations Exit - TicketNews",
+      "originalSummary": "World Cup Quarterfinal Ticket Prices Plummet as Host Nations Exit  TicketNews",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jaDVkdnA3c0lJcktYcWtPYkNtbkdBSmNHYVRBMk9RSWZNMmhXNjQtdVdPVHI1VWZObDRWVEhidlN4TmhBb3dzdFNHUFRyZFhidlRhOHByejZIUkk?oc=5",
-      "publishedAt": "2026-08-14T19:30:27+00:00",
-      "heat": 68
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzJESDdINVBMTDY3NW5INzlITWJ3dHpwbnFkNmRLNVJaSGFZNjZMTWMzbWJvVVNzMWxCZkh2Y2hBNnJfdXFMRUNzRzZfYVUySjJwa1NOYk56WEFQY250QnM0THkyckxYeS1ZZUZoNjU5Q2pVZzgzZEFhdDJUTFZNRmZ6SWlmVE1oSVhDbV9jREF2UTkzYmM4a05IaW1RY2JoMHQ0?oc=5",
+      "publishedAt": "2026-08-14T20:11:06+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-spain-s-world-cup-hero-leaving-barcelona-for-psg-in-58-million-deal-the-news-pakistan",
@@ -78,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb05IdkRyd0llMGM1b09qWGdvQnRBTFh1TGNFeUwwUjhOMXI3R2xZSkFMeTNDUlRZVnhmTG5WMFVfNEF6TlZabENkcUNxbzllWUlpaW9JNFlCeWppRXFlcW1WTFp2TzZJTjBaLVJVdEJFV0hORGRXR2lwOUItNGJSMW4tWVpwUUhTZ1UzclRmcmFVSG9EY3JNVlFGVjg2VFFkX1BRSTRJOA?oc=5",
       "publishedAt": "2026-08-14T19:00:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-what-s-next-for-christian-pulisic-after-the-fifa-world-cup-fox-sports",
+      "title": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？ - 福克斯体育",
+      "summary": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？  福克斯体育",
+      "originalTitle": "What's next for Christian Pulisic after the FIFA World Cup? - FOX Sports",
+      "originalSummary": "What's next for Christian Pulisic after the FIFA World Cup?  FOX Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5",
+      "publishedAt": "2026-08-14T18:39:25+00:00",
+      "heat": 60
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -104,11 +140,47 @@
       "heat": 60
     },
     {
-      "id": "google-news-aifa-reaches-profitability-as-cargo-and-world-cup-traffic-surge-mexicobusiness-news",
-      "title": "随着货运和世界杯交通量的激增，AIFA 实现盈利 - mexicobusiness.news",
-      "summary": "随着货运和世界杯交通量的激增，AIFA 实现盈利 mexicobusiness.news",
-      "originalTitle": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge - mexicobusiness.news",
-      "originalSummary": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge  mexicobusiness.news",
+      "id": "google-news-scotland-fifa-world-cup-2026-squad-tartan-army-ready-for-glory-kirk-cousins-5ocsoziqfe-mshale",
+      "title": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe) - Mshale",
+      "summary": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe)  Mshale",
+      "originalTitle": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe) - Mshale",
+      "originalSummary": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iRDhUVlFkTlQ5ajZ2enpvYmZybHp6Y0J2WTdMNGpXc2pibzNQbFVrZmF1SEMtZk5mcFJJUzRVbEVvS2haSXR3UjVjZDRuaENMZkEyUkkydnM1MldWOEp4VQ?oc=5",
+      "publishedAt": "2026-08-14T17:42:14+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-spain-saved-football-talksport-reacts-to-spain-beating-argentina-1-0-to-win-the-world-cup-playstation-5-lu9y",
+      "title": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ) - Mshale",
+      "summary": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ)  Mshale",
+      "originalTitle": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ) - Mshale",
+      "originalSummary": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ejZHcVlRUEpRQUdXajlra0hwZjA0aUtaNjN0aFcyT0ozbjB1M1ZfcmVMc294M1c3OGZ0NllSZ3JydFZjZVVOamktNWYwdE9OenFTY2RBZXJWTDJhdnVTZA?oc=5",
+      "publishedAt": "2026-08-14T17:37:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-vs-cape-verde-extended-highlights-2026-fifa-world-cup-prince-albert-raiders-chdpalquux-mshale",
+      "title": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特王子突袭者队 (CHdpALqUUx) - Mshale",
+      "summary": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特王子突袭者队 (CHdpALqUUx)  Mshale",
+      "originalTitle": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx) - Mshale",
+      "originalSummary": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSVZMNm5MTTQtWEFqWVRQMUdmYjA3M2RCYThoRG1QSHBTbEtmUF9qeDNuLWRmMmFFNUgta3BDZERJWEN2X3NGM2V2bjNXWFQwNU9uN0ZZV0s4VFk?oc=5",
+      "publishedAt": "2026-08-14T17:35:22+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-aifa-reaches-profitability-as-cargo-and-world-cup-traffic-surge-mexico-business-news",
+      "title": "随着货运和世界杯交通量的激增，AIFA 实现盈利 - 墨西哥商业新闻",
+      "summary": "随着货运和世界杯交通量的激增，AIFA 实现盈利 墨西哥商业新闻",
+      "originalTitle": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge - Mexico Business News",
+      "originalSummary": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge  Mexico Business News",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEFUajQtdUgtY090Ukt5RDBRSkc5M1Nrdm1oU3F6bHFBV3h4ZW9obkduWmJteldzMU1SaS01VG5PRVN5aVVXbldjSUNTSUZNTFFlZFI5MDRpRkJVay1NeldpdkVUVWI5VW40d0NGRExxeVFEYTYtV0U0V2UtNVNpZnpvWnpCMEdyN0VseHJqWWNMTlEzZ3Z0YVdmLXlIY3JvUDhhOHNn?oc=5",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
       "publishedAt": "2026-08-14T15:28:34+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-intense-preparation-and-collection-of-diverse-experiences-help-commanders-pa-announcer-mark-fratto-rise-to-2",
-      "title": "紧张的准备工作和丰富的经验积累帮助 Commanders PA 播音员 Mark Fratto 应对 2026 年 FIFA 世界杯 - Washington Commanders",
-      "summary": "紧张的准备工作和丰富的经验积累帮助指挥官 PA 播音员马克·弗拉托 (Mark Fratto) 应对 2026 年 FIFA 世界杯 华盛顿指挥官",
-      "originalTitle": "Intense preparation and collection of diverse experiences help Commanders PA announcer Mark Fratto rise to 2026 FIFA World Cup occasion - Washington Commanders",
-      "originalSummary": "Intense preparation and collection of diverse experiences help Commanders PA announcer Mark Fratto rise to 2026 FIFA World Cup occasion  Washington Commanders",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQQ3IwQ1MyT1JFbDZuVnJRakxYZHJxWEdmSVU5bHhmNkZDejMxejkwNmEwZFl1MmJNZlIzd2xmSllYcUxaVnVnM1hiVVBHTDdFME5pa3dyTElOSFhiTnlpQVB4NEd2Y3AwdDlqYUZIdC1vTDJWMk1sSGR3M2oxUFktZ3o3NjBzc09NemwtU01RTno1dGdqMUpzM0k1ZkhSRkhoTFl0dWpjamxKNHlQMElGaU9wWkozVWN2T3U2Ung0VFI5ZGpDT1ZQZVdSd0JmQWlmNUxFT1BqcktCT0RCcWVYeWxwdnFhN3NucjVsbWhyN2Y1MlRIQmFCMVhSNE5wTFI4dFhrR3JVeExVMU1xWG5YT3Y2bUdTYTM4QmZfTW9NNVliV29mWVRIRko5SHNQVVEweUFoSzdfdGpvU3JETWxSeEI4MnF1a05CT1cxWkNfNXhLM0Q4d2c?oc=5",
-      "publishedAt": "2026-08-14T15:25:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-most-assists-analysis-crunching-the-numbers-on-messi-olise-yamal-fernandes-squawka",
-      "title": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据 - Squawka",
-      "summary": "2026 年世界杯助攻数分析：梅西、奥利塞、亚马尔和费尔南德斯的数据分析",
-      "originalTitle": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes - Squawka",
-      "originalSummary": "World Cup 2026 most assists analysis: Crunching the numbers on Messi, Olise, Yamal & Fernandes  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPak9UaHNpbjB2Y3FkN3VLa2F5VjNDTTcxdVhXSjdaV1VFV2QxVkdUR2FhWEpWb3pQZlFnU0ZDQzQ4SnlFLUpuZXphVGtCaWdtUVlheFFmbnkyeUl0RjR1c21vQmM1ODBRc0s4WWQyTk9UV1kyOXVkTTdneGtiSFhWcTk2OFJuanhCTEpEV0tUclVjTkZxaFFIdkR1ZVVRdjU0YWRLeS0wWlBpbnVtSlFyeHdjREpjY2tPMUE?oc=5",
-      "publishedAt": "2026-08-14T14:52:55+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-stubhub-launches-world-cup-cuts-barbershop-pop-up-campaign-ticketnews",
-      "title": "StubHub 推出“世界杯剪裁”理发店快闪活动 - TicketNews",
-      "summary": "StubHub 推出“世界杯削减”理发店快闪活动 TicketNews",
-      "originalTitle": "StubHub Launches ‘World Cup Cuts’ Barbershop Pop-Up Campaign - TicketNews",
-      "originalSummary": "StubHub Launches ‘World Cup Cuts’ Barbershop Pop-Up Campaign  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dxMlZTcjEzeGprQnphaWIyd3RXVV9HTjY4a1dYYVFsbHViOFh0UkFRRUlPd2lRQmgtM0tzSnpVdElhVHNkZVlFUVI1YThzWEE5YXVzQlhqNjBTQklob0xvLTRwbG9FUVN4dHNCa0duWGhqcnZVT0ZQOFlMb29iemFGTWlRVDZvb2p3Nmsxcno?oc=5",
-      "publishedAt": "2026-08-14T14:51:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-stadiums-ath-bilbao-valence-2e6h3mj2ka-mshale",
-      "title": "2026 年 FIFA 世界杯体育场 雅典娜。毕尔巴鄂 – 瓦朗斯 (2e6h3mj2ka) - 姆沙勒",
-      "summary": "2026 年 FIFA 世界杯体育场 雅典娜。毕尔巴鄂 – 瓦朗斯 (2e6h3mj2ka)  Mshale",
-      "originalTitle": "2026 FIFA World Cup Stadiums Ath. Bilbao – Valence (2e6h3mj2ka) - Mshale",
-      "originalSummary": "2026 FIFA World Cup Stadiums Ath. Bilbao – Valence (2e6h3mj2ka)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpQlNSaG5BeG5IR0EzRElKN010TTZlVTNmVnRQVzdxN3B2Yk4teElfbU4zYlA5SDk2aEptSG93RXdqSm5sV3QxZV9QaGVUR2xqVnBEYTBVMHU0QQ?oc=5",
-      "publishedAt": "2026-08-14T14:48:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-new-zealand-vs-belgium-preview-les-enfants-de-la-télé-6j8ibhggzx-mshale",
-      "title": "2026 年 FIFA 世界杯新西兰对阵比利时前瞻 Les Enfants De La Télé (6j8IBhGGZx) - Mshale",
-      "summary": "2026 年 FIFA 世界杯新西兰 vs 比利时预览 Les Enfants De La Télé (6j8IBhGGZx)  Mshale",
-      "originalTitle": "2026 FIFA World Cup New Zealand Vs Belgium Preview Les Enfants De La Télé (6j8IBhGGZx) - Mshale",
-      "originalSummary": "2026 FIFA World Cup New Zealand Vs Belgium Preview Les Enfants De La Télé (6j8IBhGGZx)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5HRm9GUjRsNWR1Z245TFBTMGNUYTZuX2dVT0lyT256YTU2a2ZSTGdxQTJQM3cyVmM5Z0REOTJoVVdWcGJpVmRCZFNwUnlBNkd4V3hoYms1MjlWQzA?oc=5",
-      "publishedAt": "2026-08-14T14:48:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-live-spain-vs-cape-verde-madrid-and-atlanta-come-alive-for-spain-match-zo1j-daniel-craig-49yy2fvs4h-mshale",
-      "title": "直播：西班牙 vs 佛得角 |马德里和亚特兰大在西班牙比赛中活跃起来ZO1J 丹尼尔·克雷格 (49YY2FVS4h) - 姆沙勒",
-      "summary": "直播：西班牙 vs 佛得角 |马德里和亚特兰大在西班牙比赛中活跃起来ZO1J 丹尼尔·克雷格 (49YY2FVS4h)  Mshale",
-      "originalTitle": "LIVE: Spain Vs Cape Verde | Madrid And Atlanta Come Alive For Spain Match | ZO1J Daniel Craig (49YY2FVS4h) - Mshale",
-      "originalSummary": "LIVE: Spain Vs Cape Verde | Madrid And Atlanta Come Alive For Spain Match | ZO1J Daniel Craig (49YY2FVS4h)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55RjdBWThnajFGQk13b3JQczVpVlhURFpTNFBnVGdUbEVUXzh5VU5CR0N5cWs2N29vT1JCU202NlhKV3pVWDNjQVJyMWpZaFd0S2NaREF4SUR4d28?oc=5",
-      "publishedAt": "2026-08-14T14:48:27+00:00",
       "heat": 52
     }
   ]
