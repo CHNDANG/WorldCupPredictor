@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T13:34:14.422097+00:00",
+  "updatedAt": "2026-08-15T14:27:56.373404+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-inside-the-business-of-the-world-cup-q-a-with-ross-mccall-executive-director-of-commercial-operations-fifa-w",
+      "title": "世界杯业务内部：与 2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答 - C-Suite Quarterly",
+      "summary": "世界杯业务内部：2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答",
+      "originalTitle": "Inside the Business of the World Cup: Q&A with Ross McCall, Executive Director of Commercial Operations, FIFA World Cup 2026 - C-Suite Quarterly",
+      "originalSummary": "Inside the Business of the World Cup: Q&A with Ross McCall, Executive Director of Commercial Operations, FIFA World Cup 2026  C-Suite Quarterly",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa21oVG1HVmx5ZzF5cHozMDBUOW5lMzlNSERQV0J2UnRIQ0RqbGhQME1CcTBpYUF0b2ppd19jZjlLYWQ1M19BS1pYbU9qeGp3Vng5NXp5b0FNSUpyMF9mU0lXS1c5cXpGcnZ2SmNKVTBDTERzbVZrNjRKNmpJOTdFQUd4RVhhLV9WbUpQNzZIY25pa3NXZzJDTTFKLUxXSGlHb25tVEZzb0ZvUjZDWWwxSUVjeUNMMWlHUFBnZGszZE9aSHA5NHR2djc5dEdNX24xZmYtRGIwSXM1UDdaZkE?oc=5",
+      "publishedAt": "2026-08-15T13:57:55+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-world-cup-afcon-blord-saga-top-nigeria-s-google-searches-in-2026-nigeria-communications-week",
       "title": "2026 年尼日利亚 Google 搜索结果中，世界杯、非洲杯、Blord 传奇均名列前茅 - 尼日利亚通讯周刊",
@@ -39,7 +51,7 @@
       "originalSummary": "FIFA World Cup Is Over. Now These Stars Are Coming For The Premier League  NDTV Sports",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPbjh0QmV6dl9aQS1MOXRZYjdiZFJsS2NZc2N2Y2czTnRWX2lkRUtFQVJPZlgtbmlSaW5raUJmd0JBalJxN19pTm9PQzZuRl9ZZjdHZDJwLVcxZVdSQjliMjNFMnZZRW03cEhSRzdoQkJmLU82dGNRWnZGX0pqTmdPaE5FcFAtalpZcjYxOGRNeXhfSDB6UGlnRHByOTZHTDlkck5FMDV1bW1GeTR4alRXR2hzTlZYS1A1TVJxU3BYNHlsNnd6azRV?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVDd3VTZ5YkluZkZvNWNmVGZKU3FkS3h2UUxvclhmZFBIV1YtSkRJYllucXV0dlVNRFlyczBTMDgtaDcxZmMyMlYtU21LZ1hSOVJtWUoxZTBhamxtVW9aZ3VwZzlqY3dUalhuN2xIOGxPS1RaeUZkem9nMEl5N19ZckdTNV9aa0xNbWR1SHJud2FSSC1LWlNfdXFMa1NYRXVLbjFUTFhPYU9kTTQ0Y3VkckJPN00?oc=5",
       "publishedAt": "2026-08-15T11:27:22+00:00",
       "heat": 60
     },
@@ -104,11 +116,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-official-psg-sign-a-2026-world-cup-winner-sports-yahoo-com",
-      "title": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！ - sports.yahoo.com",
-      "summary": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！  雅虎体育网",
-      "originalTitle": "🚨 Official: PSG sign a 2026 World Cup winner! - sports.yahoo.com",
-      "originalSummary": "🚨 Official: PSG sign a 2026 World Cup winner!  sports.yahoo.com",
+      "id": "google-news-official-psg-sign-a-2026-world-cup-winner-yahoo-sports",
+      "title": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！ - 雅虎体育",
+      "summary": "🚨 官方：巴黎圣日耳曼签下2026年世界杯冠军！  雅虎体育",
+      "originalTitle": "🚨 Official: PSG sign a 2026 World Cup winner! - Yahoo Sports",
+      "originalSummary": "🚨 Official: PSG sign a 2026 World Cup winner!  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNRHcybDVhNjBFWUpPVTBDQ1o0bEgxa01BcHBPdlREQzBxTEVoMGl1UEVvXzhHaTJsYU1mRFpwaWtnV0pzdFl1bzBQbmVISlc4U0ptMVhMd2ZTMk9xdGdKT1Fib3BPS3N2T05vQm5BWVllMzBSSjBwNmRvbUJTVVhFMS1ENA?oc=5",
@@ -125,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOUEZ0dl9xMUxkOG9sb18zc1RWZnExdUMwc1BNQXZuOGtWdkJsd3F2NXJUd3k0RlZ3czIzV1JqNDctdlllNjNkcEtfV3AyeEFtMGVZcUZ5TnY3Z0NkbTBscmxfLTFzel8wTlZwTmdNNVBmSlZLRVVFYjRlSGV5NUsyZ0I1dG5VdmZOemxaMzRXM3dxblZGT3RyN3lReURfazdyV2ViTnl3NEtEZk9IZ1VSOFh2aFNmUWEyOTRPNV80OA?oc=5",
       "publishedAt": "2026-08-15T09:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
+      "publishedAt": "2026-08-15T08:16:56+00:00",
       "heat": 52
     },
     {
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQYnBaSlhLcXlyQlA3alNFbFBrOUdJVEhHN243SkJlQW1yejF6aHZHNDdUTkRoYWo3aTRDQlY3MFBNNFhqc2R1RjNlaGdpaFZxVjgxdG1leXVPd2x2WUl6Y3BDSVpUUDhHQTJqMWthNnJaOTdZeEhZNlhGa2dSSkl6OGlLRmVMWU04X21sWUFpQVBvVzlJRnBnMHZlV3MzY2VjcW1iZC1UeHJqMC1k0gGzAUFVX3lxTE14SXRCaVBvNkVjX3hxWXZmRzYxVGRSQnN3YkVoZWh3ZlkwOGZKenB0VVRtanZxdm01S0FXMEI1eEJtNlJXcDY4bVlzbG00Z211bDFxclZZNzB6YU9VckZKZVRFMGgwdkEySzVZM0d5a01tSTlISE9nV0Q3YlNfMThCNzc4SmxSM2NMRmV6bGNhQ0dSZXE0VjNTZ1NjazZrcVh2di1GNW5QZElUaUQ4dHNIdndN?oc=5",
       "publishedAt": "2026-08-15T05:11:24+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-fifa最新排名出炉-德国男足跌出世界前十-新浪网",
-      "title": "FIFA最新排名出炉，德国男足跌出世界前十 - 新浪网",
-      "summary": "FIFA最新排名出炉，德国男足跌出世界前十  新浪网",
-      "originalTitle": "FIFA最新排名出炉，德国男足跌出世界前十 - 新浪网",
-      "originalSummary": "FIFA最新排名出炉，德国男足跌出世界前十  新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjlJcHBoYy00cWUzaTF3c0VqQzA1bk83WVVqLWlsU2ppWTk0WUhGa0NNeUM0R1JjcWFMZEhNQURwcDRLejRmVThHMEtKX05MeVgwdWdHc0U1WFJhN2xrUUxpWnlCTHJXU1lQNVJDdV9iU0w5VnJFc3FDUTZZeDRhWDNwWTViLUpEU0dCczk5a09JTEk?oc=5",
-      "publishedAt": "2026-08-15T04:31:36+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-watch-fifa-world-cup-2026-live-free-win-big-prizes-with-ecwon-north-sea-8xmtoctp4y-mshale",
-      "title": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) - 姆沙勒",
-      "summary": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) Mshale",
-      "originalTitle": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y) - Mshale",
-      "originalSummary": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y)  Mshale",
-      "translation": "online",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTWFVaTFUbmdJUFlVczBYRmk3RVNqaHBrY1BfNUc2QlRlTFkyM2NxS0ZzTjN1aVZxcHBLS09IdmhPT3RNQmkxZGxKdjlYbXQtV2VqWHcydklTdkk?oc=5",
-      "publishedAt": "2026-08-15T04:01:56+00:00",
-      "heat": 68
     }
   ]
 }
