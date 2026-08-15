@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T20:28:14.216565+00:00",
+  "updatedAt": "2026-08-15T20:52:03.280493+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-mia-hamm-talks-christian-pulisic-uswnt-ahead-of-2027-world-cup-rg-org",
+      "title": "米娅·哈姆 (Mia Hamm) 在 2027 年世界杯前谈论克里斯蒂安·普利西奇 (Christian Pulisic)、美国女足 (USWNT) - rg.org",
+      "summary": "米娅·哈姆 (Mia Hamm) 在 2027 年世界杯之前谈论克里斯蒂安·普利西奇 (Christian Pulisic)、美国女足国家队 (USWNT) rg.org",
+      "originalTitle": "Mia Hamm Talks Christian Pulisic, USWNT Ahead of 2027 World Cup - rg.org",
+      "originalSummary": "Mia Hamm Talks Christian Pulisic, USWNT Ahead of 2027 World Cup  rg.org",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aU0RJcG9DTTJWR0FjeGltcFlWOEFmaGR4dDU0R291d2dITUdHZGg5ZlF4UTlMMzFrTVBsUDhhTi1uT2tUY2stcXZfdldFRENxNFEzRVcyWUxEd3NKWHgtUkhjZWM0WVJCLVdlZjJocWxidw?oc=5",
+      "publishedAt": "2026-08-15T20:32:39+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-england-world-cup-star-djed-spence-signs-for-inter-bein-sports",
       "title": "英格兰世界杯球星杰德·斯宾塞签约国际米兰 - beIN SPORTS",
@@ -32,15 +44,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-nz-football-pulls-support-for-infantino-as-fifa-president-1news-co-nz",
-      "title": "新西兰足球取消对因凡蒂诺担任国际足联主席的支持 - 1news.co.nz",
-      "summary": "新西兰足球取消对因凡蒂诺担任国际足联主席的支持 1news.co.nz",
-      "originalTitle": "NZ Football pulls support for Infantino as FIFA President - 1news.co.nz",
-      "originalSummary": "NZ Football pulls support for Infantino as FIFA President  1news.co.nz",
+      "id": "google-news-nz-football-pulls-support-for-infantino-as-fifa-president-1news",
+      "title": "新西兰足球取消对因凡蒂诺担任国际足联主席的支持 - 1News",
+      "summary": "新西兰足球取消对因凡蒂诺担任国际足联主席的支持 1News",
+      "originalTitle": "NZ Football pulls support for Infantino as FIFA President - 1News",
+      "originalSummary": "NZ Football pulls support for Infantino as FIFA President  1News",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVFdoVUcxcWZOUkVHVEEtR1JuQ2Y4azhFUHpMUWNKZ28wZWdLck1OQXBvaVJUXzJNM1E0cXBoajYzV2dpMG1zV1ROMWJ6NmdiRzVQS3dQR2ZCS0dxalF3aGx4OXQ3NUI0TXo4RG9UVUhuM3hMUzF0WTM5OE1qUGZTTm1KZjZ1aGNuWFpOVnNHOVAxRmZaMVNPRQ?oc=5",
       "publishedAt": "2026-08-15T18:50:04+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-hockey-world-cup-2026-points-table-updated-standings-schedule-results-for-men-s-women-s-tournament-sportingn",
+      "title": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 - sportingnews.com",
+      "summary": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 sportingnews.com",
+      "originalTitle": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament - sportingnews.com",
+      "originalSummary": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament  sportingnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1Y5VkF6SkhuaW1jNndzeHpxUkVPZlVGYk54TVBSVDFlX09nc1hUbndKTlNXNXZDVTNZU0hXamVYVlJjYTZuajY4QUR5ME5uRGtWQXh2THl5U0UyQTZlUUFydHdVa0ZrWlhlWVhfUEJWQ1ZWbDlCZ2tVNHN5RjFDM1lvMTV6Z3FwSXdrLWYxZGtMN1pkallYOXNIdURvZXBVZ1lHejZDTDlGM3d3SWRiNVkxMmZIUER6SEVzSUxUTkx2S1J4eWhMMg?oc=5",
+      "publishedAt": "2026-08-15T18:41:00+00:00",
       "heat": 52
     },
     {
@@ -68,6 +92,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-ismael-saibari-goal-brazil-1-1-morocco-fifa-world-cup-2026-talsport-ozempic-0jjeupqmdy-mshale",
+      "title": "伊斯梅尔·赛巴里进球 |巴西1-1摩洛哥| FIFA 世界杯 2026™ #talsport Ozempic (0jjEupqMdy) - Mshale",
+      "summary": "伊斯梅尔·赛巴里进球 |巴西1-1摩洛哥| FIFA 世界杯 2026™ #talsport Ozempic (0jjEupqMdy)  Mshale",
+      "originalTitle": "Ismael Saibari Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™ #talsport Ozempic (0jjEupqMdy) - Mshale",
+      "originalSummary": "Ismael Saibari Goal | Brazil 1-1 Morocco | FIFA World Cup 2026™ #talsport Ozempic (0jjEupqMdy)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9KMkhVckgzbEtIVVdRV3BKUkZKbm9PVEJsZF94UnFPT2JmRnU1VzIzbEdUdTRhZUpRbU1nT29sRm9jbWQ0QV9XdlIwZFR3cGY4ZUFwQzZFSWFLOWc?oc=5",
+      "publishedAt": "2026-08-15T17:44:19+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
       "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
       "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
@@ -80,23 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-hockey-world-cup-2026-points-table-updated-standings-schedule-results-for-men-s-women-s-tournament-sportingn",
-      "title": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 - sportingnews.com",
-      "summary": "2026 年曲棍球世界杯积分表：男子和女子锦标赛的最新积分榜、赛程表和结果 sportingnews.com",
-      "originalTitle": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament - sportingnews.com",
-      "originalSummary": "Hockey World Cup 2026 points table: Updated standings, schedule, results for men's & women's tournament  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPU1Y5VkF6SkhuaW1jNndzeHpxUkVPZlVGYk54TVBSVDFlX09nc1hUbndKTlNXNXZDVTNZU0hXamVYVlJjYTZuajY4QUR5ME5uRGtWQXh2THl5U0UyQTZlUUFydHdVa0ZrWlhlWVhfUEJWQ1ZWbDlCZ2tVNHN5RjFDM1lvMTV6Z3FwSXdrLWYxZGtMN1pkallYOXNIdURvZXBVZ1lHejZDTDlGM3d3SWRiNVkxMmZIUER6SEVzSUxUTkx2S1J4eWhMMg?oc=5",
-      "publishedAt": "2026-08-15T17:18:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-md5-recap-cape-verde-holding-spain-headline-day-of-draws-espn",
-      "title": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 - ESPN",
-      "summary": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 ESPN",
-      "originalTitle": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws - ESPN",
-      "originalSummary": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws  ESPN",
+      "id": "google-news-fifa-world-cup-2026-md5-recap-cape-verde-holding-spain-headline-day-of-draws-espn-com",
+      "title": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 - espn.com",
+      "summary": "2026 年 FIFA 世界杯 MD5 回顾：佛得角举行西班牙头条抽签日 espn.com",
+      "originalTitle": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws - espn.com",
+      "originalSummary": "FIFA World Cup 2026 MD5 recap: Cape Verde holding Spain headline day of draws  espn.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbHlxMGl1R0UxVGxJbGhlOGRUT2NPLWxTSU8xRU1hMWVveXBQbFhRb1o1UTVfWHJfRTkxeWdLVU9HOTctc0d5WFEtM3ZQYTFxQWRpbVZMdDJYNlBURldqRHhJV1RJZ0dhYUV2M015YjdERzN4M05KZElMNFd1QkY2YkhsX2tXRERmUml5YUZ4M0poNXNrYm0zR3puZXpiX0NZWmgwODhhckVzX1Nvb2x0VmFCTQ?oc=5",
@@ -116,8 +140,20 @@
       "heat": 60
     },
     {
+      "id": "google-news-rema-lisa-anitta-goals-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Rema、LISA 和 Anitta – 进球（FIFA 2026 世界杯歌曲） - Tooxclusive",
+      "summary": "Rema、LISA 和 Anitta – 进球（FIFA 2026 世界杯歌曲）Tooxclusive",
+      "originalTitle": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUU4ck5scjFfSTJOclZPQVlkSGVYYU9KLWdSZ19MWDVhX2FIalFfbGhVeU52Rm1IZTR3LXFFQWhDaWRHVEZ4MDJFd2VJRHdTRjc1VEhkcXJnV0NXaXRvWDdSVmt1RmwxRjRpX1NjN3BsSEliWU84VzFKOGVGQVJ6dFl2b0dhdHp6aUl2dGZn?oc=5",
+      "publishedAt": "2026-08-15T16:45:42+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-2026-ballon-d-or-rankings-after-psg-won-uefa-super-cup-head-topics",
-      "title": "巴黎圣日耳曼夺得欧洲超级杯后的 2026 年金球奖排名 - Head Topics",
+      "title": "巴黎圣日耳曼夺得欧洲超级杯后2026年金球奖排名 - Head Topics",
       "summary": "巴黎圣日耳曼赢得欧洲超级杯后的 2026 年金球奖排名",
       "originalTitle": "2026 Ballon d’Or rankings after PSG won UEFA Super Cup - Head Topics",
       "originalSummary": "2026 Ballon d’Or rankings after PSG won UEFA Super Cup  Head Topics",
@@ -164,11 +200,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-psg-sign-world-cup-winner-ferran-torres-from-barcelona-anadolu-ajansı",
-      "title": "巴黎圣日耳曼从巴塞罗那签下世界杯冠军费兰·托雷斯 - Anadolu Ajansı",
-      "summary": "巴黎圣日尔曼从巴塞罗那签下世界杯冠军费兰·托雷斯阿纳多卢·阿扬西",
-      "originalTitle": "PSG sign World Cup winner Ferran Torres from Barcelona - Anadolu Ajansı",
-      "originalSummary": "PSG sign World Cup winner Ferran Torres from Barcelona  Anadolu Ajansı",
+      "id": "google-news-psg-sign-world-cup-winner-ferran-torres-from-barcelona-aa-com-tr",
+      "title": "巴黎圣日尔曼从巴塞罗那签下世界杯冠军费兰·托雷斯 - aa.com.tr",
+      "summary": "巴黎圣日尔曼从巴塞罗那签下世界杯冠军费兰·托雷斯 aa.com.tr",
+      "originalTitle": "PSG sign World Cup winner Ferran Torres from Barcelona - aa.com.tr",
+      "originalSummary": "PSG sign World Cup winner Ferran Torres from Barcelona  aa.com.tr",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNVWxIM2hMOG5QbU5LMjRkUEtjUGtDZ2RnZ1BoaWpNSnk1UWR2UXpCakpIenNZYTN1aEkyNWZncnlaWVc1UW5IbmdDWm05NUhyTGpSQ1pvWTFHbzlqU2dWejhVS0VGb3BHaEFhTUJZZldQaVZYeWJtNWd2YXhtTm1KWFRtNDU4b3ZtUWFTMThmSkdrdmF4OUlVZWtn?oc=5",
@@ -186,42 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPS2UyVlZTRFdlWUVKNWs3Si1ZRGVFY2YtMzIyS21oZUdXeWxkdUMwcnphLVFaNE5MWWVjeWVFZTlrYzdiUG5aT0REbjhFTExjQkhXZldvTUVHOUhObnQ5TjRQMWlPZTVyT3ZaVV9JT2VrdHNtN3NHVjJhRU9GbEo0dVBMXzg2dGxnUXpkdmp6aFJydnNrRk54UFZ6MA?oc=5",
       "publishedAt": "2026-08-15T15:46:38+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-dundee-united-vs-celtic-prediction-and-betting-tips-august-15th-2026-sportskeeda",
-      "title": "邓迪联队 vs 凯尔特人队预测和投注技巧| 投注技巧2026 年 8 月 15 日 - Sportskeeda",
-      "summary": "邓迪联队 vs 凯尔特人队预测和投注技巧| 投注技巧2026 年 8 月 15 日  Sportskeeda",
-      "originalTitle": "Dundee United vs Celtic Prediction and Betting Tips | August 15th 2026 - Sportskeeda",
-      "originalSummary": "Dundee United vs Celtic Prediction and Betting Tips | August 15th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNejZIdzlVdkl5OXJ0ZUY4eFJYVjNnNUxTVzZlOC1jR0JINVp2eVpBMy1qcjZONWEtSFRfNHRyb2R6b1ctSkZ6clpUaktXLXRMWnFTaWt3OGNveU1sdjBwd1RmQ1EyN3JuaXNlMlBVZHN1UmZBb0pjWklZallMUUFrX05mSnZ4dGhwdXg3b3hlWTZsU2Q1b2Z5bmlfa3QweVJOeEk4?oc=5",
-      "publishedAt": "2026-08-15T15:46:38+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-singapore-vs-thailand-prediction-and-betting-tips-15th-august-2026-sportskeeda",
-      "title": "新加坡 vs 泰国预测和投注技巧| 新加坡 vs 泰国2026 年 8 月 15 日 - Sportskeeda",
-      "summary": "新加坡 vs 泰国预测和投注技巧| 新加坡 vs 泰国2026 年 8 月 15 日  Sportskeeda",
-      "originalTitle": "Singapore vs Thailand Prediction and Betting Tips | 15th August 2026 - Sportskeeda",
-      "originalSummary": "Singapore vs Thailand Prediction and Betting Tips | 15th August 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZUVlT3dnNjh0cHZCV21teHM3YjV2TjdpazdMNUZQcTc0VFpfOGZUbHE1SkpyeFZMeVdKa1pnMUJrekxDUUNma19BMXo5LUwyTVZtQklmVUNRYzJuSUMtMndBWjJCM3RmUkIwMjcyM0s4MmNYd2FMWFNBTWFSbWI3VFVVWW1VUDlPZm9ISHhjZExhd3VhYnpSOUtoREhOUG5Y?oc=5",
-      "publishedAt": "2026-08-15T15:42:30+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-inside-the-business-of-the-world-cup-q-a-with-ross-mccall-executive-director-of-commercial-operations-fifa-w",
-      "title": "世界杯业务内部：与 2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答 - C-Suite Quarterly",
-      "summary": "世界杯业务内部：2026 年 FIFA 世界杯商业运营执行总监 Ross McCall 的问答",
-      "originalTitle": "Inside the Business of the World Cup: Q&A with Ross McCall, Executive Director of Commercial Operations, FIFA World Cup 2026 - C-Suite Quarterly",
-      "originalSummary": "Inside the Business of the World Cup: Q&A with Ross McCall, Executive Director of Commercial Operations, FIFA World Cup 2026  C-Suite Quarterly",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNa21oVG1HVmx5ZzF5cHozMDBUOW5lMzlNSERQV0J2UnRIQ0RqbGhQME1CcTBpYUF0b2ppd19jZjlLYWQ1M19BS1pYbU9qeGp3Vng5NXp5b0FNSUpyMF9mU0lXS1c5cXpGcnZ2SmNKVTBDTERzbVZrNjRKNmpJOTdFQUd4RVhhLV9WbUpQNzZIY25pa3NXZzJDTTFKLUxXSGlHb25tVEZzb0ZvUjZDWWwxSUVjeUNMMWlHUFBnZGszZE9aSHA5NHR2djc5dEdNX24xZmYtRGIwSXM1UDdaZkE?oc=5",
-      "publishedAt": "2026-08-15T14:52:19+00:00",
-      "heat": 60
     }
   ]
 }
