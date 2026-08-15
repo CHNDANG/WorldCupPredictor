@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T02:55:52.540719+00:00",
+  "updatedAt": "2026-08-15T03:44:59.106239+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -17,6 +17,18 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFAtcVZJMG1XYTNNVjdWQV9zU0locGdWWEszNXdJQ2d0N0lSXzZqUHo1My1ROEJvZEQ4b254V0dPQndBNm5JWWthYUV2ekhfZU9yTVc2X0FVT1RKWXBaOG9uVTk2SQ?oc=5",
       "publishedAt": "2026-08-15T02:01:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-photos-congo-faces-uzbekistan-in-world-cup-game-at-atlanta-stadium-ajc-com",
+      "title": "照片：刚果队在亚特兰大体育场举行的世界杯比赛中对阵乌兹别克斯坦 - AJC.com",
+      "summary": "照片：刚果队在亚特兰大体育场举行的世界杯比赛中对阵乌兹别克斯坦队 AJC.com",
+      "originalTitle": "PHOTOS: Congo faces Uzbekistan in World Cup game at Atlanta Stadium - AJC.com",
+      "originalSummary": "PHOTOS: Congo faces Uzbekistan in World Cup game at Atlanta Stadium  AJC.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMlV0UVJKeGViQkYwSUswaTEzemV2V1hJNmxyQzBFTWF4Z1IxQk9kRXpkaTN3TVFxbFdhdkNYX2l5ckpURHZwNVJPQ1lqNFoxVFlYYWlWdTRmcXNDTl96OUIyUXdtZ3ZmVy0tVVF5Ti16SzhiZWc4V2R4SDk0Z1VaQ1BQVzUzMmNEY2tKTV90N2l6TkhKeUVEbmdwb3g1R0d0cmp2QUhfdXNlZm1pNTZB?oc=5",
+      "publishedAt": "2026-08-15T00:35:01+00:00",
       "heat": 52
     },
     {
@@ -69,10 +81,10 @@
     },
     {
       "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
-      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗进球 Julia Letlow (aXRlw4RaXa) - Mshale",
-      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  Mshale",
-      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - Mshale",
-      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  Mshale",
+      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗级进球 Julia Letlow (aXRlw4RaXa) - mshale.com",
+      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  mshale.com",
+      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - mshale.com",
+      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
@@ -102,6 +114,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb05IdkRyd0llMGM1b09qWGdvQnRBTFh1TGNFeUwwUjhOMXI3R2xZSkFMeTNDUlRZVnhmTG5WMFVfNEF6TlZabENkcUNxbzllWUlpaW9JNFlCeWppRXFlcW1WTFp2TzZJTjBaLVJVdEJFV0hORGRXR2lwOUItNGJSMW4tWVpwUUhTZ1UzclRmcmFVSG9EY3JNVlFGVjg2VFFkX1BRSTRJOA?oc=5",
       "publishedAt": "2026-08-14T19:00:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-new-zealand-withdraws-support-for-infantino-bein-sports",
+      "title": "新西兰撤回对因凡蒂诺的支持 - beIN SPORTS",
+      "summary": "新西兰撤回对因凡蒂诺 beIN SPORTS 的支持",
+      "originalTitle": "New Zealand withdraws support for Infantino - beIN SPORTS",
+      "originalSummary": "New Zealand withdraws support for Infantino  beIN SPORTS",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2xTMjlLemRWZXEzakNsTlM2ZTRfX3hwa3ZHdWhzbkhBRk05TVRlS0tycTNoSjJDT0plbUFmTjFZVW1aZ1lqQUhvY3lmMzQzQzNzTkdJa2gyWDBNYi1tODVra2dmLTJqc3VWU0l2eVhWLS1pOThNZFRsc0VFY0NidzZiUl9WajlBV3ZNZVpQTlRPWEZOaDZwSjd3c3RJdVh0YVROZ2JYbGt2NE1Lb3ZWZ3VpUUw3dG80TzBxeV9LNFlhS28?oc=5",
+      "publishedAt": "2026-08-14T18:45:12+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-what-s-next-for-christian-pulisic-after-the-fifa-world-cup-fox-sports",
@@ -140,11 +164,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-scotland-fifa-world-cup-2026-squad-tartan-army-ready-for-glory-kirk-cousins-5ocsoziqfe-mshale",
-      "title": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe) - Mshale",
-      "summary": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe)  Mshale",
-      "originalTitle": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe) - Mshale",
-      "originalSummary": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe)  Mshale",
+      "id": "google-news-scotland-fifa-world-cup-2026-squad-tartan-army-ready-for-glory-kirk-cousins-5ocsoziqfe-mshale-com",
+      "title": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追寻追寻柯克·考辛斯 (5oCsoZiqFe) - mshale.com",
+      "summary": "苏格兰 2026 年世界杯阵容🇸🇨 |格子军团准备迎接荣耀！ ⚽🔥 🏴追问追问柯克考辛斯 (5oCsoZiqFe)  mshale.com",
+      "originalTitle": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe) - mshale.com",
+      "originalSummary": "Scotland FIFA World Cup 2026 Squad 🇸🇨 | Tartan Army Ready For Glory! ⚽🔥 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Kirk Cousins (5oCsoZiqFe)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9iRDhUVlFkTlQ5ajZ2enpvYmZybHp6Y0J2WTdMNGpXc2pibzNQbFVrZmF1SEMtZk5mcFJJUzRVbEVvS2haSXR3UjVjZDRuaENMZkEyUkkydnM1MldWOEp4VQ?oc=5",
@@ -153,10 +177,10 @@
     },
     {
       "id": "google-news-spain-saved-football-talksport-reacts-to-spain-beating-argentina-1-0-to-win-the-world-cup-playstation-5-lu9y",
-      "title": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ) - Mshale",
-      "summary": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ)  Mshale",
-      "originalTitle": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ) - Mshale",
-      "originalSummary": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ)  Mshale",
+      "title": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ) - mshale.com",
+      "summary": "“西班牙拯救了足球！” TalkSPORT 回应西班牙 1-0 击败阿根廷夺得世界杯！ Playstation 5 (Lu9yhtsZhQ)  mshale.com",
+      "originalTitle": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ) - mshale.com",
+      "originalSummary": "\"SPAIN SAVED FOOTBALL!\" TalkSPORT REACTS To Spain BEATING Argentina 1-0 To WIN The World Cup! Playstation 5 (Lu9yhtsZhQ)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA3ejZHcVlRUEpRQUdXajlra0hwZjA0aUtaNjN0aFcyT0ozbjB1M1ZfcmVMc294M1c3OGZ0NllSZ3JydFZjZVVOamktNWYwdE9OenFTY2RBZXJWTDJhdnVTZA?oc=5",
@@ -164,11 +188,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-spain-vs-cape-verde-extended-highlights-2026-fifa-world-cup-prince-albert-raiders-chdpalquux-mshale",
-      "title": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特王子突袭者队 (CHdpALqUUx) - Mshale",
-      "summary": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特王子突袭者队 (CHdpALqUUx)  Mshale",
-      "originalTitle": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx) - Mshale",
-      "originalSummary": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx)  Mshale",
+      "id": "google-news-spain-vs-cape-verde-extended-highlights-2026-fifa-world-cup-prince-albert-raiders-chdpalquux-mshale-com",
+      "title": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特亲王攻略 (CHdpALqUUx) - mshale.com",
+      "summary": "西班牙 vs 佛得角 加长集锦 🌎🏆 2026 FIFA 世界杯™阿尔伯特王子突袭者队 (CHdpALqUUx)  mshale.com",
+      "originalTitle": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx) - mshale.com",
+      "originalSummary": "Spain Vs Cape Verde Extended Highlights 🌎🏆 2026 FIFA World Cup™ Prince Albert Raiders (CHdpALqUUx)  mshale.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NSVZMNm5MTTQtWEFqWVRQMUdmYjA3M2RCYThoRG1QSHBTbEtmUF9qeDNuLWRmMmFFNUgta3BDZERJWEN2X3NGM2V2bjNXWFQwNU9uN0ZZV0s4VFk?oc=5",
@@ -188,39 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-nj-needs-answers-before-chasing-another-world-cup-editorial-bergen-record",
-      "title": "新泽西州在追逐另一届世界杯之前需要答案|社论-卑尔根记录",
-      "summary": "新泽西州在追逐另一届世界杯之前需要答案|社论卑尔根记录",
-      "originalTitle": "NJ needs answers before chasing another World Cup | Editorial - Bergen Record",
-      "originalSummary": "NJ needs answers before chasing another World Cup | Editorial  Bergen Record",
+      "id": "google-news-nj-needs-answers-before-chasing-another-world-cup-editorial-northjersey-com",
+      "title": "新泽西州在追逐另一届世界杯之前需要答案|社论-northjersey.com",
+      "summary": "新泽西州在追逐另一届世界杯之前需要答案|社论northjersey.com",
+      "originalTitle": "NJ needs answers before chasing another World Cup | Editorial - northjersey.com",
+      "originalSummary": "NJ needs answers before chasing another World Cup | Editorial  northjersey.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOdzJoNVFVeFpxM3dYYnFYTVZ6ZHR3LUg3V1RWX1JzRmptUk1vT2RvTFFTLXpsRGtQNF9lT3RtSXZHcTZVMFd4TWpYN3JHaDRXNHp4ejI3dWNyVDlwN1RlNkZaaDZZNThaRnFCUzdSSC13b3k1S3lra2o2cjFEemhoOWhPSThYbG5qOWJzSmtyVU5zb2ppZzBpY1BrZWVoM1hwY0hRbXUzcG9fRFBkZktGUTRTNVF5UHRmaWNkWjdCMFMzUk0teU1XOUtWOWRDTEV0dkt6akM2aTg?oc=5",
       "publishedAt": "2026-08-14T16:33:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-my-world-cup-somali-referee-s-uefa-super-cup-role-조선일보",
-      "title": "我的世界杯：索马里裁判在欧洲超级杯中的角色 - 조선일보",
-      "summary": "我的世界杯：索马里裁判在欧洲超级杯中的角色  조선일보",
-      "originalTitle": "My World Cup: Somali Referee's UEFA Super Cup Role - 조선일보",
-      "originalSummary": "My World Cup: Somali Referee's UEFA Super Cup Role  조선일보",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNR2JzQTJSVFFlam90UldhNEdKcGswNGVYczdpZjZFUzhoZTlTN1FmdnRTZE1CcDlwN2RKWnpoanA0Z2dpQ2dwWk5WMjJIS0ZMRTZjUWtRd2VUSUJCSlFsV18xUEJaVG1sUGpOelAzMndESk5ZTmlMWnNWWlRQMWtYM3V1VE0?oc=5",
-      "publishedAt": "2026-08-14T15:41:08+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis - Squawka",
-      "originalSummary": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
-      "publishedAt": "2026-08-14T15:28:34+00:00",
       "heat": 52
     }
   ]
