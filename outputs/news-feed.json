@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T11:46:55.186566+00:00",
+  "updatedAt": "2026-08-15T12:47:00.633645+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-world-cup-afcon-blord-saga-top-nigeria-s-google-searches-in-2026-nigeria-communications-week",
+      "title": "2026 年尼日利亚 Google 搜索结果中，世界杯、非洲杯、Blord 传奇均名列前茅 - 尼日利亚通讯周刊",
+      "summary": "2026 年尼日利亚 Google 搜索结果中，世界杯、非洲杯、Blord 传奇均名列前茅",
+      "originalTitle": "World Cup, AFCON, Blord saga top Nigeria’s Google searches in 2026 - Nigeria Communications Week",
+      "originalSummary": "World Cup, AFCON, Blord saga top Nigeria’s Google searches in 2026  Nigeria Communications Week",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbDBWWnYzamp1bS1PUWc5YlpRamRqWXNMNGdPRXVrX21oZEszOTNMNVpSWFNVQkNoYjcydUFrNl82MG9uWldNeGR4LUY0UTRZRHZhOGpwejhxb1E3RWdGY0t4dVc5REVVY3hLc09KcjJNaGdnVkIzYVBKZDBEWHZzZXltZXdWZEFpcmJLRTNyYThxOGp6ZXhaWWs5eXVzQmZiclFaQ0lVcld6c3pFRHc?oc=5",
+      "publishedAt": "2026-08-15T12:33:45+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-star-ferran-torres-leaves-barcelona-for-psg-tempo-co-english",
+      "title": "世界杯球星费兰·托雷斯离开巴塞罗那加盟巴黎圣日耳曼 - Tempo.co",
+      "summary": "世界杯明星费兰·托雷斯离开巴塞罗那加盟巴黎圣日耳曼 Tempo.co",
+      "originalTitle": "World Cup Star Ferran Torres Leaves Barcelona for PSG - Tempo.co English",
+      "originalSummary": "World Cup Star Ferran Torres Leaves Barcelona for PSG  Tempo.co English",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa1ZTek5HU3F6dktPZW1PenJEcjlPTTF3YUlkbzNRVDdKRnNsLTJUbFZZemhlVXlTTTJ2RVRnYjV1WFhTMXVkOWstWGFPcDFsNGNWRGc1aVNfZHdWOWFVS1lwRmZYS0ZVVVZCSkprcVl4WGNEUktBajFibVhoZkYwcVBBVWVrdEVyaW4xcXBOcw?oc=5",
+      "publishedAt": "2026-08-15T12:00:14+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-world-cup-is-over-now-these-stars-are-coming-for-the-premier-league-ndtv-sports",
       "title": "国际足联世界杯结束了。现在这些球星即将加盟英超 - NDTV Sports",
@@ -41,6 +65,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNb3FPTHF5OUlXVDlOYlhpOGtiX3dTeEdHYjlmUTYwakdkTWgyTGZFUERpX1lWV2RoUWZNc1pPYWtVbnRFMlNka3FnSERsYXBKa1Z4QTk5ZkNZZ0lGT3dTYXhNTURYelV4RnpkdFg1RlpYOUVxZ1lfd1E3UWRCUFFua193bEx0MXNsbTU2akFZNDN0MUYzdGw5c1N1RjlmMTVEZ2lvRFBmTzdDb25xazRPTw?oc=5",
       "publishedAt": "2026-08-15T10:29:49+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-modot-highlights-fifa-world-cup-success-as-travelers-flood-state-warren-county-record",
+      "title": "旅游部在游客涌入州时强调国际足联世界杯的成功 - 沃伦县记录",
+      "summary": "MoDOT 强调 FIFA 世界杯的成功，游客涌入沃伦县创纪录",
+      "originalTitle": "MoDOT highlights FIFA World Cup success as travelers flood state - Warren County Record",
+      "originalSummary": "MoDOT highlights FIFA World Cup success as travelers flood state  Warren County Record",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWTlXb2tvZ1ZZNTRWVFpjeWxHR3lINkxwa1FmYllULU5wUzlxdDRKRG1YSmQzS3NYVHlBeG9MRGtic3NSNmdhaUZ4d1dJRmdjRnRfaGp1XzNuSGpEOTlmbFBFZHA3MDlyM2JYWHJ6Z3dCQ0Z5WFhjNDR1NExPNWRvb3FEdEZFT0R1UlNvU1k1RmR2Z1N3bzRsNlNrazQ1QXNyVWdoREx2b1p2WFFxaFNMZlVXdnk?oc=5",
+      "publishedAt": "2026-08-15T10:00:00+00:00",
       "heat": 60
     },
     {
@@ -186,42 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPdHRwaDdLdWFQem5sZG5nNG5KV2xObTUwNlFMMHZsa3JaSHdKV1hUN0Q0Ym00M1BRUlFyVGVHWElUeUpZVlNpSGlxWHo4TFpOSXpBd2pSODB1bFZkc2xFVUc2TDhXY21GNEtqOHltRm9Odm5RZ2o2YkRhR0pqT19ZT0k3Y1ZIeDU4SXlPM2VsODNiSHVHU1A2Mg?oc=5",
       "publishedAt": "2026-08-15T03:44:09+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-belgium-s-official-squad-fifa-world-cup-2026-group-stage-g-belgium-squad-2026-man-united-2uzqjzodbr-mshale",
-      "title": "🇧🇪 2026 年 FIFA 世界杯比利时官方阵容 | G 组 |比利时队 2026 年曼联 (2UZQJzodbR) - Mshale",
-      "summary": "🇧🇪 2026 年 FIFA 世界杯比利时官方阵容 | G 组 |比利时队 2026 年曼联 (2UZQJzodbR)  Mshale",
-      "originalTitle": "🇧🇪 BELGIUM'S Official Squad FIFA World Cup 2026 | Group Stage G | Belgium Squad 2026 Man United (2UZQJzodbR) - Mshale",
-      "originalSummary": "🇧🇪 BELGIUM'S Official Squad FIFA World Cup 2026 | Group Stage G | Belgium Squad 2026 Man United (2UZQJzodbR)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41OF90eEZBQ3hYam1UTjY1ZHpZZ2V4NktYRU1qekdudUVmVkluNGNtOThmNUhKZExVcnlRMkN0M0taVGN2MThzQVBiMjZ2SVVlVzVHeFVfWUdiY1E?oc=5",
-      "publishedAt": "2026-08-15T03:29:20+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-brazil-vs-morocco-fifa-world-cup-2026-full-match-stats-results-pc-fl26-simulation-4k60-travel-warning-gfk0tm",
-      "title": "巴西队对阵。摩洛哥 - FIFA 2026 世界杯完整比赛 |统计|结果| PC™ FL26 模拟 [4K60] 行驶警告 (gfk0tMjOUN) - Mshale",
-      "summary": "巴西队对阵。摩洛哥 - FIFA 2026 世界杯完整比赛 |统计|结果| PC™ FL26 模拟 [4K60] 旅行警告 (gfk0tMjOUN)  Mshale",
-      "originalTitle": "Brazil Vs. Morocco - FIFA World Cup 2026 Full Match | Stats |Results | PC™ FL26 Simulation [4K60] Travel Warning (gfk0tMjOUN) - Mshale",
-      "originalSummary": "Brazil Vs. Morocco - FIFA World Cup 2026 Full Match | Stats |Results | PC™ FL26 Simulation [4K60] Travel Warning (gfk0tMjOUN)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE51TjltY0dvUGItMkVFT3VjWlA3eEpBYWlYMTZLVXhTeEQybTRHa1JPclNFNlVYMmpLU1FPVHRMRHcxUDNhLVQ0U3R6SVR3MGZwUzNyRFprUldoU2NiWFptbg?oc=5",
-      "publishedAt": "2026-08-15T03:13:24+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-to-watch-fih-hockey-world-cup-2026-online-from-anywhere-free-live-streams-tv-channels-schedule-what-hi-f",
-      "title": "如何从任何地方在线观看 2026 年国际曲棍球世界杯：免费直播、电视频道、赛程表 - 什么 Hi-Fi？",
-      "summary": "如何从任何地方在线观看 2026 年国际曲棍球世界杯：免费直播、电视频道、时间表 什么 Hi-Fi？",
-      "originalTitle": "How to watch FIH Hockey World Cup 2026 online from anywhere: FREE live streams, TV channels, schedule - What Hi-Fi?",
-      "originalSummary": "How to watch FIH Hockey World Cup 2026 online from anywhere: FREE live streams, TV channels, schedule  What Hi-Fi?",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWNMUFpadHdRVnZXQ1BneGtVbkt3XzhzZWYxVks4dHZHd21YcUZhaDl0T1c2S0tqeHpJekRld1ZoTVRKNC1zYVpoV0I1MXp1a1NicHI0b2VTa090cDkteFBXVVIwYzJTZTRGaDlyeWd2encwS0NHQ0lIa3ZJY2J2cXdrZ0M3MWxkcnQ3c3ZoajFpMkV1aVRj?oc=5",
-      "publishedAt": "2026-08-15T03:11:42+00:00",
-      "heat": 60
     }
   ]
 }
