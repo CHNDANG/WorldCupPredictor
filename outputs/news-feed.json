@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-15T05:56:10.051884+00:00",
+  "updatedAt": "2026-08-15T06:46:28.218731+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -20,6 +20,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-15T05:29:07+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-新闻-中文-fifa最新排名出炉-德国男足跌出世界前十-新浪网",
       "title": "FIFA最新排名出炉，德国男足跌出世界前十 - 新浪网",
       "summary": "FIFA最新排名出炉，德国男足跌出世界前十  新浪网",
@@ -30,6 +42,42 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVjlJcHBoYy00cWUzaTF3c0VqQzA1bk83WVVqLWlsU2ppWTk0WUhGa0NNeUM0R1JjcWFMZEhNQURwcDRLejRmVThHMEtKX05MeVgwdWdHc0U1WFJhN2xrUUxpWnlCTHJXU1lQNVJDdV9iU0w5VnJFc3FDUTZZeDRhWDNwWTViLUpEU0dCczk5a09JTEk?oc=5",
       "publishedAt": "2026-08-15T04:31:36+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-watch-fifa-world-cup-2026-live-free-win-big-prizes-with-ecwon-north-sea-8xmtoctp4y-mshale",
+      "title": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) - 姆沙勒",
+      "summary": "与 ECWON 一起免费观看 FIFA 世界杯 2026 直播并赢取大奖！北海 (8xMtoCtP4y) Mshale",
+      "originalTitle": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y) - Mshale",
+      "originalSummary": "Watch FIFA World Cup 2026 Live Free & Win Big Prizes With ECWON! North Sea (8xMtoCtP4y)  Mshale",
+      "translation": "online",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tTWFVaTFUbmdJUFlVczBYRmk3RVNqaHBrY1BfNUc2QlRlTFkyM2NxS0ZzTjN1aVZxcHBLS09IdmhPT3RNQmkxZGxKdjlYbXQtV2VqWHcydklTdkk?oc=5",
+      "publishedAt": "2026-08-15T04:01:56+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-england-v-croatia-live-watch-along-world-cup-group-l-2026-fifa-world-cup-crwv-stock-jebqbyihky-mshale",
+      "title": "英格兰 VS 克罗地亚 直播观看 |世界杯L组| 2026 年世界杯 || CRWV 股票 (JeBqBYiHkY) - Mshale",
+      "summary": "英格兰 VS 克罗地亚 直播观看 |世界杯L组| 2026 年世界杯 || Crwv 股票 (JeBqBYiHkY)  Mshale",
+      "originalTitle": "England V Croatia Live Watch Along | World Cup Group L | 2026 FIFA World Cup || Crwv Stock (JeBqBYiHkY) - Mshale",
+      "originalSummary": "England V Croatia Live Watch Along | World Cup Group L | 2026 FIFA World Cup || Crwv Stock (JeBqBYiHkY)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE91bUktUzB1UVNZei1KRnZaMVRabURqektoVzZkVFVwZEF3ZFFORUJRV0FncTl1X2Z1Q25peVVxdXNRdklRN0hkbThjYTVxYkQxbDRwNDNnaXl0Y2M?oc=5",
+      "publishedAt": "2026-08-15T02:53:33+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-houston-on-list-of-potential-host-cities-for-2031-fifa-women-s-world-cup-heights-river-oaks-montrose-communi",
+      "title": "休斯顿列入 2031 年 FIFA 女足世界杯潜在主办城市名单高地 - 橡树河 - 蒙特罗斯 - 社区影响",
+      "summary": "休斯顿列入 2031 年 FIFA 女足世界杯潜在主办城市名单高地 - 橡树河 - 蒙特罗斯 社区影响",
+      "originalTitle": "Houston on list of potential host cities for 2031 FIFA Women’s World Cup | Heights - River Oaks - Montrose - Community Impact",
+      "originalSummary": "Houston on list of potential host cities for 2031 FIFA Women’s World Cup | Heights - River Oaks - Montrose  Community Impact",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZU95VHl5elh2VzRZd01Zb0ZJOXFNQWpfSDVKOUZGS25rYjB5SGVLUHRrM2p5cDAtODI0bnZ3ODNiak9FenZkekJXY05tU1RNV0J6dFozQmtoTHB0R1NQSm1oc3N4WU5QZFByUDNkTUtlNkRMSHJ4NE0zZlF1T1ZoaEl6eG5LZFlsTUlVY1dGRGFiLUpkQXd3X0dIa2lXOUhlVXduVkY3bGVfem04UTA3TzIzM0t3MHpFZWkxNGNnd0VNZDV5U1NuMXpIeVFWMG4tSTlQeWN3?oc=5",
+      "publishedAt": "2026-08-15T02:08:53+00:00",
+      "heat": 60
     },
     {
       "id": "google-新闻-中文-c-罗追平多项足球世界纪录-c罗-2026年世界杯-乌兹别克斯坦-梅开二度-头球破门-2-93米-25球-世界杯-欧洲杯_新浪新闻-新浪网",
@@ -68,6 +116,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-fifa-world-cup-final-closing-ceremony-live-fifa-2026-trophy-presentation-celebration-jeff-ross-cancer-h4sw2q",
+      "title": "FIFA 世界杯决赛闭幕式直播 | FIFA 2026 奖杯颁奖及庆祝活动 Jeff Ross Cancer (H4sw2qg5oR) - Mshale",
+      "summary": "FIFA 世界杯决赛闭幕式直播 | FIFA 2026 奖杯颁奖及庆祝活动 Jeff Ross Cancer (H4sw2qg5oR)  Mshale",
+      "originalTitle": "FIFA World Cup Final Closing Ceremony LIVE | FIFA 2026 Trophy Presentation & Celebration Jeff Ross Cancer (H4sw2qg5oR) - Mshale",
+      "originalSummary": "FIFA World Cup Final Closing Ceremony LIVE | FIFA 2026 Trophy Presentation & Celebration Jeff Ross Cancer (H4sw2qg5oR)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBVaHBGNWE2cElDNTV4cHZSQ3NZemFMN3V6Q0RDZHd4QnhPU1E5enNPNDdIQUhkUEMwR0R3REtvdG01a1RHMkVCX0Nic3YyR3J0SXVXbkRQanE3bEt6cTFreQ?oc=5",
+      "publishedAt": "2026-08-15T00:10:29+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-india-hockey-world-cup-schedule-2026-dates-results-points-table-and-squad-for-fih-men-s-tournament-sportingn",
       "title": "2026 年印度曲棍球世界杯赛程：国际曲棍球联合会男子锦标赛的日期、结果、积分表和阵容 - sportingnews.com",
       "summary": "2026 年印度曲棍球世界杯赛程：国际曲棍球联合会男子锦标赛的日期、结果、积分表和阵容 sportingnews.com",
@@ -82,7 +142,7 @@
     {
       "id": "google-news-fifa-world-cup-2026-switzerland-training-the-lufkin-daily-news",
       "title": "2026 年 FIFA 世界杯 - 瑞士训练 - 勒夫金日报",
-      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金每日新闻",
+      "summary": "2026 年 FIFA 世界杯 - 瑞士训练 勒夫金日报",
       "originalTitle": "FIFA World Cup 2026 - Switzerland Training - The Lufkin Daily News",
       "originalSummary": "FIFA World Cup 2026 - Switzerland Training  The Lufkin Daily News",
       "translation": "online",
@@ -92,11 +152,47 @@
       "heat": 60
     },
     {
-      "id": "google-news-portugal-vs-dr-congo-extended-highlights-2026-fifa-world-cup-estate-of-michael-jackson-c2m0bhgtpo-mshale-com",
-      "title": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊遗产 (C2m0BHgtpo) - mshale.com",
-      "summary": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊庄园 (C2m0BHgtpo)  mshale.com",
-      "originalTitle": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo) - mshale.com",
-      "originalSummary": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo)  mshale.com",
+      "id": "google-news-morocco-vs-canada-round-off-16-score-predictions-2026-fifa-world-cup-louis-varland-tastririgg-mshale",
+      "title": "摩洛哥 VS 加拿大 ||四舍五入 16 分预测 || 2026 年 FIFA 世界杯 Louis Varland (tasTRIrIgG) - Mshale",
+      "summary": "摩洛哥 VS 加拿大 ||四舍五入 16 分预测 || 2026 年 FIFA 世界杯 Louis Varland (tasTRIrIgG)  Mshale",
+      "originalTitle": "MOROCCO VS CANADA || ROUND OFF 16 SCORE PREDICTIONS || 2026 FIFA WORLD CUP Louis Varland (tasTRIrIgG) - Mshale",
+      "originalSummary": "MOROCCO VS CANADA || ROUND OFF 16 SCORE PREDICTIONS || 2026 FIFA WORLD CUP Louis Varland (tasTRIrIgG)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mdDJndTZGQndhb2ZCa19HSmZlZGR0TERqM3lsS3o5R29LM3c0eEFBRU02Zm5qX21EQW9sMkwtQjdBVVRxLWZFWEVkT3FzSHdvY3p1RGhOQU43R1EtRC04Mg?oc=5",
+      "publishedAt": "2026-08-14T22:20:43+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-spain-vs-austria-3-0-full-match-highlights-fifa-world-cup-2026-biden-gop-epiphany-prediction-vd9pqgooy7-msha",
+      "title": "西班牙 3-0 奥地利完整比赛集锦 | FIFA 2026 世界杯拜登共和党顿悟预测 (VD9PQgooY7) - Mshale",
+      "summary": "西班牙 3-0 奥地利完整比赛集锦 | FIFA 2026 世界杯拜登共和党顿悟预测 (VD9PQgooY7)  Mshale",
+      "originalTitle": "Spain Vs Austria 3-0 | Full Match Highlights | FIFA World Cup 2026 Biden Gop Epiphany Prediction (VD9PQgooY7) - Mshale",
+      "originalSummary": "Spain Vs Austria 3-0 | Full Match Highlights | FIFA World Cup 2026 Biden Gop Epiphany Prediction (VD9PQgooY7)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mZ25WNllTTklJYkZoMkNwcVlvYnVXYTlKZW1aNWU5TzNjTW1KaUVoUFpiOXpveWZ3ZnJpSnNrVUkwTGxhNzJwMVlRWGxTc0ZKcjkxQ1VWSTN4WTZubmZwMA?oc=5",
+      "publishedAt": "2026-08-14T20:31:08+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-jordan-vs-argentina-extended-highlights-2026-fifa-world-cup-ridley-scott-mcjsakcltu-mshale",
+      "title": "约旦 vs 阿根廷 加长集锦 🌎🏆 2026 FIFA 世界杯™ Ridley Scott (McJsakcLtu) - Mshale",
+      "summary": "约旦 vs 阿根廷 加长精彩集锦 🌎🏆 2026 FIFA 世界杯™ Ridley Scott (McJsakcLtu)  Mshale",
+      "originalTitle": "Jordan Vs Argentina Extended Highlights 🌎🏆 2026 FIFA World Cup™ Ridley Scott (McJsakcLtu) - Mshale",
+      "originalSummary": "Jordan Vs Argentina Extended Highlights 🌎🏆 2026 FIFA World Cup™ Ridley Scott (McJsakcLtu)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBkbmtCUVdJTGdTd0pqdU16c1p2b1gwa3Y1bzJ5NzVBZjBldUF5SmVWRDhaQmEyTkhJZlBhYUZYYTFId2NWZ1dmOU9xb1RRVUN4YmoxSzhNM1NmWmM?oc=5",
+      "publishedAt": "2026-08-14T20:28:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-portugal-vs-dr-congo-extended-highlights-2026-fifa-world-cup-estate-of-michael-jackson-c2m0bhgtpo-mshale",
+      "title": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊庄园 (C2m0BHgtpo) - Mshale",
+      "summary": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊遗产 (C2m0BHgtpo)  Mshale",
+      "originalTitle": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo) - Mshale",
+      "originalSummary": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo)  Mshale",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5SZnVHcTFyRWpGZVM5aWh4WjdCQ2RELXFRWVRvU1cwUlRvTUE4WWlhcU5BYlJMWExLbFhUYVB5MVZxLW00MWdTVHhvQUlZaWtUbUhlT3BfOHlCTm8?oc=5",
@@ -104,11 +200,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-chccs-student-s-world-cup-display-connects-chapel-hill-through-universal-language-of-soccer-daily-tar-heel",
-      "title": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 - Daily Tar Heel",
-      "summary": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 Daily Tar Heel",
-      "originalTitle": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer - Daily Tar Heel",
-      "originalSummary": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer  Daily Tar Heel",
+      "id": "google-news-chccs-student-s-world-cup-display-connects-chapel-hill-through-universal-language-of-soccer-the-daily-tar-he",
+      "title": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 - The Daily Tar Heel",
+      "summary": "CHCCS 学生的世界杯展示通过足球的“通用语言”连接教堂山 The Daily Tar Heel",
+      "originalTitle": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer - The Daily Tar Heel",
+      "originalSummary": "CHCCS student’s world cup display connects Chapel Hill through ‘universal language’ of soccer  The Daily Tar Heel",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2dFM0R5VkRuZU1yT0t3TW8tQmtUT3FQeGNnMmZVQXV0aTNUNnZ2elZjaWdpTVNSMXlsMHVsQjlpX0FHc3hvc200cTQ4MlJORm1EenRKYi1YUjEyVGh4QXUtMFdNOUZGajdfWHpqU0gtU3RjSWI3c0RUaUNUbUR5VWFPZy0wcFBX?oc=5",
@@ -117,111 +213,15 @@
     },
     {
       "id": "google-news-canada-vs-south-africa-1-0-fifa-world-cup-goals-full-highlights-all-epic-goals-julia-letlow-axrlw4raxa-mshal",
-      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗级进球 Julia Letlow (aXRlw4RaXa) - mshale.com",
-      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  mshale.com",
-      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - mshale.com",
-      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  mshale.com",
+      "title": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗进球 Julia Letlow (aXRlw4RaXa) - Mshale",
+      "summary": "加拿大 1-0 南非 世界杯进球全集锦 |所有史诗目标 Julia Letlow (aXRlw4RaXa)  Mshale",
+      "originalTitle": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa) - Mshale",
+      "originalSummary": "Canada Vs South Africa 1-0 FIFA World Cup Goals Full Highlights | All Epic Goals Julia Letlow (aXRlw4RaXa)  Mshale",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE45MmNReFhLTURmQUdLWXBrZC1LLUkzQmtYRzhUTi1xXy03Y3pkSDNMeFF6Zi0wU0FFSzlwaGgyeVlBU1YxMm1PdWU4NGoyeTR5dlllRDJGSGk3RUk?oc=5",
       "publishedAt": "2026-08-14T20:18:01+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-quarterfinal-ticket-prices-plummet-as-host-nations-exit-ticketnews",
-      "title": "世界杯四分之一决赛门票价格因东道国退出而暴跌 - TicketNews",
-      "summary": "世界杯四分之一决赛门票价格因东道国退出而暴跌",
-      "originalTitle": "World Cup Quarterfinal Ticket Prices Plummet as Host Nations Exit - TicketNews",
-      "originalSummary": "World Cup Quarterfinal Ticket Prices Plummet as Host Nations Exit  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSzJESDdINVBMTDY3NW5INzlITWJ3dHpwbnFkNmRLNVJaSGFZNjZMTWMzbWJvVVNzMWxCZkh2Y2hBNnJfdXFMRUNzRzZfYVUySjJwa1NOYk56WEFQY250QnM0THkyckxYeS1ZZUZoNjU5Q2pVZzgzZEFhdDJUTFZNRmZ6SWlmVE1oSVhDbV9jREF2UTkzYmM4a05IaW1RY2JoMHQ0?oc=5",
-      "publishedAt": "2026-08-14T20:11:06+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-watch-fifa-world-cup-2026-switzerland-vs-bosnia-herzegovina-crucial-group-b-showdown-live-fenerbahçe-fbxnl4k",
-      "title": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切现场直播 (fBXNL4k172) - mshale.com",
-      "summary": "观看 2026 年 FIFA 世界杯 |瑞士 vs 波斯尼亚和黑塞哥维那 | 瑞士B组关键对决|费内巴切现场直播 (fBXNL4k172)  mshale.com",
-      "originalTitle": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172) - mshale.com",
-      "originalSummary": "WATCH FIFA World Cup 2026 | Switzerland Vs Bosnia & Herzegovina | Crucial Group B Showdown | LIVE Fenerbahçe (fBXNL4k172)  mshale.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jaDVkdnA3c0lJcktYcWtPYkNtbkdBSmNHYVRBMk9RSWZNMmhXNjQtdVdPVHI1VWZObDRWVEhidlN4TmhBb3dzdFNHUFRyZFhidlRhOHByejZIUkk?oc=5",
-      "publishedAt": "2026-08-14T19:30:27+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-spain-s-world-cup-hero-leaving-barcelona-for-psg-in-58-million-deal-the-news-pakistan",
-      "title": "西班牙世界杯英雄以 5800 万美元的价格离开巴塞罗那加盟巴黎圣日尔曼 - 巴基斯坦新闻",
-      "summary": "西班牙世界杯英雄以 5800 万美元的价格离开巴塞罗那加盟巴黎圣日耳曼 - 巴基斯坦新闻",
-      "originalTitle": "Spain’s World Cup hero leaving Barcelona for PSG in $58 million deal - The News Pakistan",
-      "originalSummary": "Spain’s World Cup hero leaving Barcelona for PSG in $58 million deal  The News Pakistan",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNb05IdkRyd0llMGM1b09qWGdvQnRBTFh1TGNFeUwwUjhOMXI3R2xZSkFMeTNDUlRZVnhmTG5WMFVfNEF6TlZabENkcUNxbzllWUlpaW9JNFlCeWppRXFlcW1WTFp2TzZJTjBaLVJVdEJFV0hORGRXR2lwOUItNGJSMW4tWVpwUUhTZ1UzclRmcmFVSG9EY3JNVlFGVjg2VFFkX1BRSTRJOA?oc=5",
-      "publishedAt": "2026-08-14T19:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-new-zealand-withdraws-support-for-infantino-bein-sports",
-      "title": "新西兰撤回对因凡蒂诺的支持 - beIN SPORTS",
-      "summary": "新西兰撤回对因凡蒂诺 beIN SPORTS 的支持",
-      "originalTitle": "New Zealand withdraws support for Infantino - beIN SPORTS",
-      "originalSummary": "New Zealand withdraws support for Infantino  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQV2xTMjlLemRWZXEzakNsTlM2ZTRfX3hwa3ZHdWhzbkhBRk05TVRlS0tycTNoSjJDT0plbUFmTjFZVW1aZ1lqQUhvY3lmMzQzQzNzTkdJa2gyWDBNYi1tODVra2dmLTJqc3VWU0l2eVhWLS1pOThNZFRsc0VFY0NidzZiUl9WajlBV3ZNZVpQTlRPWEZOaDZwSjd3c3RJdVh0YVROZ2JYbGt2NE1Lb3ZWZ3VpUUw3dG80TzBxeV9LNFlhS28?oc=5",
-      "publishedAt": "2026-08-14T18:45:12+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-what-s-next-for-christian-pulisic-after-the-fifa-world-cup-foxsports-com",
-      "title": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？ - 福克斯体育网",
-      "summary": "世界杯之后克里斯蒂安·普利西奇的下一步是什么？  福克斯体育网",
-      "originalTitle": "What's next for Christian Pulisic after the FIFA World Cup? - foxsports.com",
-      "originalSummary": "What's next for Christian Pulisic after the FIFA World Cup?  foxsports.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5lbVF2Y0xsWTVzakFvUXVEMmZiVWpyZ1F1c094WEN6eThuc1gtYnZQZGFWeUFEQ1J1NktPSHBQMzdsTnBaU2R6NzFNZE9OYUIzLURyVWFwYUdxV25KanA2Uk9aUUh5eGFxbVpiY1Jn?oc=5",
-      "publishedAt": "2026-08-14T18:39:25+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-14T18:22:55+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-south-africa-and-ghana-keep-world-cup-dreams-alive-following-crucial-wafcon-2026-playoff-wins-sportscape-mag",
-      "title": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后保持世界杯梦想 - Sportscape 杂志",
-      "summary": "南非和加纳在关键的 WAFCON 2026 季后赛获胜后继续实现世界杯梦想 《Sportscape》杂志",
-      "originalTitle": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins - Sportscape Magazine",
-      "originalSummary": "South Africa and Ghana Keep World Cup Dreams Alive Following Crucial WAFCON 2026 Playoff Wins  Sportscape Magazine",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNU0pBc1ZJNGxyaGp0dUhGaWNwazZXUUFqMHpSbDBQM1V1MTVhV2lIeDUtOUJBRTRfSWwtUUJoeDBWd2s2SmZ1Vl91VVZzdndvVVFqcTNaRUx4T2tzSnhkVWdHODZ5OGN0MnNhM08xS0RhbGFyVEhEejdZVVFvXzBZRWZFUWNUZkFMWEVmaHVINGU2OE9DWU1pWUIxc2tnRE5LdGpvR0hsd3M?oc=5",
-      "publishedAt": "2026-08-14T18:10:29+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-aifa-reaches-profitability-as-cargo-and-world-cup-traffic-surge-mexico-business-news",
-      "title": "随着货运和世界杯交通量的激增，AIFA 实现盈利 - 墨西哥商业新闻",
-      "summary": "随着货运和世界杯交通量的激增，AIFA 实现盈利 墨西哥商业新闻",
-      "originalTitle": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge - Mexico Business News",
-      "originalSummary": "AIFA Reaches Profitability as Cargo and World Cup Traffic Surge  Mexico Business News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVEFUajQtdUgtY090Ukt5RDBRSkc5M1Nrdm1oU3F6bHFBV3h4ZW9obkduWmJteldzMU1SaS01VG5PRVN5aVVXbldjSUNTSUZNTFFlZFI5MDRpRkJVay1NeldpdkVUVWI5VW40d0NGRExxeVFEYTYtV0U0V2UtNVNpZnpvWnpCMEdyN0VseHJqWWNMTlEzZ3Z0YVdmLXlIY3JvUDhhOHNn?oc=5",
-      "publishedAt": "2026-08-14T17:14:56+00:00",
-      "heat": 52
     }
   ]
 }
