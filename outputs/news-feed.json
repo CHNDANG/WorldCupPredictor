@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T21:47:36.729952+00:00",
+  "updatedAt": "2026-08-16T22:27:02.377122+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,40 @@
   ],
   "articles": [
     {
-      "id": "google-news-argentina-vs-egypt-round-of-16-2026-fifa-world-cup-prediction-match-highlight-ps-5-pro-balenciaga-hhp3ko6ikk",
-      "title": "阿根廷对阵。埃及 - 16 强 | 2026 年世界杯 |预测比赛集锦 - PS 5 Pro Balenciaga (HHp3ko6IkK) - Mshale",
-      "summary": "阿根廷对阵。埃及 - 16 强 | 2026 年世界杯 |预测比赛集锦 - PS 5 Pro Balenciaga (HHp3ko6IkK)  Mshale",
-      "originalTitle": "Argentina Vs. Egypt - Round Of 16 | 2026 FIFA World Cup | Prediction Match Highlight - PS 5 Pro Balenciaga (HHp3ko6IkK) - Mshale",
-      "originalSummary": "Argentina Vs. Egypt - Round Of 16 | 2026 FIFA World Cup | Prediction Match Highlight - PS 5 Pro Balenciaga (HHp3ko6IkK)  Mshale",
+      "id": "google-news-fifa-world-cup-toronto-stadium-upgrades-questioned-rod-stewart-mbitth5hp6-mshale",
+      "title": "FIFA 世界杯：多伦多体育场升级质疑罗德·斯图尔特 (mbItTH5hP6) - Mshale",
+      "summary": "FIFA 世界杯：多伦多体育场升级受到质疑 Rod Stewart (mbItTH5hP6)  Mshale",
+      "originalTitle": "FIFA World Cup: Toronto Stadium Upgrades Questioned Rod Stewart (mbItTH5hP6) - Mshale",
+      "originalSummary": "FIFA World Cup: Toronto Stadium Upgrades Questioned Rod Stewart (mbItTH5hP6)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1teWVSRDdKcDNES05fVXpFcFNpdzdCS0NRckNNUzZ2NkM3U2l4UTBKX2FJR2NQU2hOQU1ZMHBLRGNNUUNDMFFGWmhrS1BHMklUdkFIUjN4SGFOREpjLWsxNQ?oc=5",
-      "publishedAt": "2026-08-16T20:54:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBiRFQ5UGRSNHIxLWRmdnZQMFBnZ2d1dXBaWDdPd0M1dERJTU5pa2F4WlVSTTR6WGtJdklsazNRb0RqYkpldTRBU1ZWQ2h4Q25XMTZIM2ZwQ2I3Umc?oc=5",
+      "publishedAt": "2026-08-16T21:29:17+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-australia-vs-egypt-prediction-best-bets-fifa-world-cup-2026-betting-picks-bread-dress-ou2d0iop9v-mshale",
+      "title": "澳大利亚 VS 埃及￼ 预测和最佳投注 | FIFA 世界杯 2026 投注精选 ⚽ 面包裙 (oU2D0IOP9V) - Mshale",
+      "summary": "澳大利亚 VS 埃及￼ 预测和最佳投注 | FIFA 世界杯 2026 投注精选 ⚽ 面包裙 (oU2D0IOP9V)  Mshale",
+      "originalTitle": "Australia VS Egypt￼ Prediction & Best Bets | FIFA World Cup 2026 Betting Picks ⚽ Bread Dress (oU2D0IOP9V) - Mshale",
+      "originalSummary": "Australia VS Egypt￼ Prediction & Best Bets | FIFA World Cup 2026 Betting Picks ⚽ Bread Dress (oU2D0IOP9V)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5DTUpjN0txb3ZGRE1tTTZSeXpwSENEMWtPTk9KSTJldkZYeVIteGtOOXBsOEZObGhQRnhSc3MyY1ZhLW9OX3NXQzFwSmlDalV3bHZqWVJsdGhOakU?oc=5",
+      "publishedAt": "2026-08-16T21:11:51+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-世界杯开赛在即-国际足联新规-任何水瓶都不能带进球场-财联社",
+      "title": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场 - 财联社",
+      "summary": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场  财联社",
+      "originalTitle": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场 - 财联社",
+      "originalSummary": "世界杯开赛在即，国际足联新规：任何水瓶都不能带进球场  财联社",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5hWUgzRHdPWVhTWkRpelNLMUN4SUE0YjdUeEJaQ0VxVmtNWXNLRGNBbFhsa3paem1SOUdMMURyS2FVeXZFZGNZYQ?oc=5",
+      "publishedAt": "2026-08-16T21:00:27+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-portugal-vs-croatia-highlights-fifa-worldcup-2026-all-goals-bra-torres-ivz216f5x9-mshale",
@@ -32,6 +56,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-dynamo-s-grass-guru-shares-what-it-was-like-to-prepare-world-cup-2026-field-click2houston",
+      "title": "迪纳摩的草地大师分享了准备 2026 年世界杯场地的感受 - Click2Houston",
+      "summary": "迪纳摩的草地大师分享了准备 2026 年世界杯球场的感受 Click2Houston",
+      "originalTitle": "Dynamo's grass guru shares what it was like to prepare World Cup 2026 field - Click2Houston",
+      "originalSummary": "Dynamo's grass guru shares what it was like to prepare World Cup 2026 field  Click2Houston",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPeU1xTU9Zczg1d0gyTm9Mb01Gd2F5UUlGVXpWazFpbmVqRURBaXl0X0RXQ05lbmkzcGpmek11SkpHZ1pUWjh6T05uLVNKYTJNSkxydUFYYTFaSUNMNW1BWUR3Z2tYZzlMTXR5LThEWUVMdlBrSVNySF9acEV2SUpWcXhQbVU4V2U5QXJsYVJQSDBhNXM4U1NUZDBscTZOaE1uZzQzNk1HOF95SnBTa0RDNzAwV3VCSEtJRi1mWng3dXROTGVSQVFiRGNvVW90NVRnQUxV?oc=5",
+      "publishedAt": "2026-08-16T20:38:01+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-argentina-vs-egypt-preview-fifa-world-cup-2026-eric-haase-rqnn1ygbuf-mshale",
       "title": "阿根廷 VS 埃及 前瞻 | FIFA 世界杯 2026 埃里克·哈斯 (RqNn1YgbUf) - Mshale",
       "summary": "阿根廷 VS 埃及 前瞻 | FIFA 世界杯 2026 埃里克·哈斯 (RqNn1YgbUf)  Mshale",
@@ -41,6 +77,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4UE1RTlJmUm5MXy11MnBidUJwci10MmdSY0duVTFHdDl6LWsyaDFGZTFia1ZIVElLNGt0eW4tVDNCblVEeHRrLXcxNFJXRTYwV3BqS3pYd2Y4Xzg?oc=5",
       "publishedAt": "2026-08-16T20:36:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-ticket-presales-for-2026-fifa-world-cup-begin-wednesday-elton-john-assyoenojl-mshale",
+      "title": "2026 年 FIFA 世界杯门票预售周三开始 Elton John (ASSYoeNOJl) - Mshale",
+      "summary": "2026 年 FIFA 世界杯门票预售将于周三开始 Elton John (ASSYoeNOJl)  Mshale",
+      "originalTitle": "Ticket Presales For 2026 FIFA World Cup Begin Wednesday Elton John (ASSYoeNOJl) - Mshale",
+      "originalSummary": "Ticket Presales For 2026 FIFA World Cup Begin Wednesday Elton John (ASSYoeNOJl)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9UNy03OG9xSk9rak9tNXZwNDNDNDJLMDhfUFM0Y3pydTZJSFNERHJfT3J1bFlTSzUzUXBkckhIdmNYUlBVWENKTTlNalhOeUZCSFJrV1ZXdEpSZzA?oc=5",
+      "publishedAt": "2026-08-16T20:32:54+00:00",
       "heat": 60
     },
     {
@@ -68,15 +116,27 @@
       "heat": 60
     },
     {
-      "id": "google-news-el-jalapeño-fifa-allowed-mexico-to-host-2026-world-cup-matches-in-exchange-for-estadio-azteca-s-entire-reven",
-      "title": "El Jalapeno：国际足联允许墨西哥主办 2026 年世界杯比赛，以换取阿兹特克体育场的全部收入 - 墨西哥新闻日报",
-      "summary": "El Jalapeno：国际足联允许墨西哥主办 2026 年世界杯比赛，以换取阿兹特克体育场的全部收入来源 墨西哥新闻日报",
-      "originalTitle": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream - Mexico News Daily",
-      "originalSummary": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream  Mexico News Daily",
+      "id": "google-news-morocco-v-haiti-june-24-2026-fifa-world-cup-2026-6pm-atlanta-stadium-entering-venue-national-anthem-michel-b",
+      "title": "摩洛哥 V 海地 2026 年 6 月 24 日 FIFA 2026 世界杯 下午 6 点 亚特兰大体育场入场 国歌 米歇尔·伯杰龙 (A8MKUxuY52) - Mshale",
+      "summary": "摩洛哥 V 海地 2026 年 6 月 24 日 FIFA 2026 世界杯 下午 6 点 亚特兰大体育场入场 国歌 米歇尔·伯杰龙 (A8MKUxuY52)  Mshale",
+      "originalTitle": "Morocco V Haiti June 24 2026 FIFA World Cup 2026 6PM Atlanta Stadium Entering Venue National Anthem Michel Bergeron (A8MKUxuY52) - Mshale",
+      "originalSummary": "Morocco V Haiti June 24 2026 FIFA World Cup 2026 6PM Atlanta Stadium Entering Venue National Anthem Michel Bergeron (A8MKUxuY52)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZzR3VpbGtuRUMteXg1ZUZNOHlEdkcyY2ZkSUpHYzVtcFJESnprSDRGWGhJRnhpYjlQc0oycjcxTmtxQ09lYzZSRUV0X2Ria2VYOGk5VkF3bUlxN3E?oc=5",
-      "publishedAt": "2026-08-16T20:00:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9YWTQ2RDIxMHRwalQ3N0pCSlFVS296MXltQlg1YmVUOEI0Vklybm1NQnR6R2lROG9GZmp6MmQ3dTBEb3BXa3R1NnczRDZWR0ZreHYwQ0JuMVZPQ1lPQTI5Tg?oc=5",
+      "publishedAt": "2026-08-16T20:18:44+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-goncalo-ramos-goal-portugal-2-1-croatia-fifa-world-cup-2026-società-sportiva-calcio-napoli-stfy6vabos-mshale",
+      "title": "贡卡洛·拉莫斯进球|葡萄牙2-1克罗地亚| FIFA 世界杯 2026™ 那不勒斯足球俱乐部 (STFY6vabos) - Mshale",
+      "summary": "贡卡洛·拉莫斯进球|葡萄牙2-1克罗地亚| FIFA 世界杯 2026™ 那不勒斯足球俱乐部 (STFY6vabos)  Mshale",
+      "originalTitle": "Goncalo Ramos Goal | Portugal 2-1 Croatia | FIFA World Cup 2026™ Società Sportiva Calcio Napoli (STFY6vabos) - Mshale",
+      "originalSummary": "Goncalo Ramos Goal | Portugal 2-1 Croatia | FIFA World Cup 2026™ Società Sportiva Calcio Napoli (STFY6vabos)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE05eUNpWkh4MEV4UXdSc3VRd2NmblBuVGhjdGxfQ2JhbEpHZmFEMUt0cXJ1eWVIZC1VQnZ3N21mYTNCZkROOEJEYm12Z0VTNkdIenptSm5kS3R4ZXM?oc=5",
+      "publishedAt": "2026-08-16T20:17:49+00:00",
       "heat": 60
     },
     {
@@ -101,6 +161,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE03aXRzTXUxZF92Y1ZQUDllS3Q2c01Oa1ZCRGNUY1k0cTRHLS0yRjA5VG1qZUdUMVBON2Flb1d1bkpZUWJvTEFJUlo5Z2poMmFGcjhpZ1I0blFKaVE?oc=5",
       "publishedAt": "2026-08-16T19:36:04+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-rogers-has-anyone-ever-stopped-erling-haaland-norway-v-england-2026-fifa-world-cup-0-day-e8cth7dxl5-mshale",
+      "title": "罗杰斯：“有人阻止过埃尔林·哈兰德吗？” 😳 挪威 V 英格兰 🏆 2026 年 FIFA 世界杯 0 天 (E8ctH7dXL5) - Mshale",
+      "summary": "罗杰斯：“有人阻止过埃尔林·哈兰德吗？” 😳 挪威 V 英格兰 🏆 2026 年 FIFA 世界杯 0 天 (E8ctH7dXL5)  Mshale",
+      "originalTitle": "ROGERS: “HAS ANYONE EVER STOPPED ERLING HAALAND?” 😳 Norway V England 🏆 2026 FIFA World Cup 0-day (E8ctH7dXL5) - Mshale",
+      "originalSummary": "ROGERS: “HAS ANYONE EVER STOPPED ERLING HAALAND?” 😳 Norway V England 🏆 2026 FIFA World Cup 0-day (E8ctH7dXL5)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBfZ2NmNjBuU2ZXNHpkQW5RZENnMWtwSkpqTGF5VUtOblg5UVFtOE1FRnMwcVJqTmlfaVk0Vjh1cEJCZWhTTzRkSzdBWGhzbnVVajVERi0wTW10cUktT01jTQ?oc=5",
+      "publishedAt": "2026-08-16T19:35:23+00:00",
       "heat": 60
     },
     {
@@ -140,18 +212,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-black-princesses-depart-for-poland-ahead-of-fifa-u-20-women-s-world-cup-graphic-online",
-      "title": "黑色公主在 FIFA U-20 女子世界杯之前启程前往波兰 - Graphic Online",
-      "summary": "黑色公主在 FIFA U-20 女子世界杯之前启程前往波兰 Graphic Online",
-      "originalTitle": "Black Princesses depart for Poland ahead of FIFA U-20 Women’s World Cup - Graphic Online",
-      "originalSummary": "Black Princesses depart for Poland ahead of FIFA U-20 Women’s World Cup  Graphic Online",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOT3Mxd2hsWFlBMHF4N0pZYUw3X1JJLXdLOExmeEh0UjB0LVdacWpsNEJma0NreTBYQi02dXloTmVVdHU2SVd6U1VlWm9mS2Zza3E1S2JBYU5EZUR0MHV5MWpMSTdpdmNJMllTSjc2cmpqRE9OZWQ5WDJkeFRxcTBHWndQcnIxT3dyelE3OE1fN2NGby1fZ1BPVWROVUpjRXo2S2Y2QXc4V0k2aW5ORFBmcjlpYjJBcjhUaG5GQ1N3?oc=5",
-      "publishedAt": "2026-08-16T19:06:00+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-canada-vs-morocco-round-off-16-fifa-world-cup-2026-score-predictions-scott-wedgewood-euc891jl4h-mshale",
       "title": "加拿大 VS 摩洛哥 || 2026 年 FIFA 世界杯第 16 轮比赛 ||得分预测 Scott Wedgewood (eUc891Jl4h) - Mshale",
       "summary": "加拿大 VS 摩洛哥 || 2026 年 FIFA 世界杯第 16 轮比赛 ||分数预测 Scott Wedgewood (eUc891Jl4h)  Mshale",
@@ -161,66 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dUUzZ0hreHlpem9nX19WRGg3b3VKdUVlSUZlaEdUYUNjbWltcS1mVV9tYzVoVlkya1AyOXNmZmRuSElVeEsxTlJEWlVKQXp3WEJLNHZZYV9RZkE?oc=5",
       "publishedAt": "2026-08-16T19:04:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-2026-fifa-world-cup-match-schedule-explained-toulouse-lyon-ybkhrmxxy4-mshale",
-      "title": "2026年世界杯比赛赛程详解！图卢兹 - 里昂 (YBKHRMxXY4) - 姆沙勒",
-      "summary": "2026年世界杯比赛赛程详解！图卢兹 - 里昂 (YBKHRMxXY4) Mshale",
-      "originalTitle": "The 2026 FIFA World Cup Match Schedule Explained! Toulouse - Lyon (YBKHRMxXY4) - Mshale",
-      "originalSummary": "The 2026 FIFA World Cup Match Schedule Explained! Toulouse - Lyon (YBKHRMxXY4)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KSjdpY2IzZDZ4blVIeHRLT2Y5ZkxRYUxCN2NDSHA4TzRIdU5IRU5vUHJGNUFSa0RiZDB1STFhQkNydWZ4dFcxNmRlTVM5Y3dZcmVkMXFWVjd2MWI5Mkc0QQ?oc=5",
-      "publishedAt": "2026-08-16T19:01:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-when-is-the-next-international-break-how-september-october-dates-have-changed-for-2026-ca-sports-yahoo-com",
-      "title": "下一次国际比赛日是什么时候？ 2026 年 9 月、10 月日期有何变化 - ca.sports.yahoo.com",
-      "summary": "下一次国际比赛日是什么时候？ 2026 年 9 月、10 月日期有何变化 ca.sports.yahoo.com",
-      "originalTitle": "When is the next international break? How September, October dates have changed for 2026 - ca.sports.yahoo.com",
-      "originalSummary": "When is the next international break? How September, October dates have changed for 2026  ca.sports.yahoo.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWC1MdTVPQW5rN0lKbEdybXNUSnhvQ3otZlhpQXZaMkhsS1I1UTNISTBsYWxPb3JyMmxXS2dNWmVHRzQ2LTFvSG1hejVITS1yN2lzay0yZkFwSFlYUUliU29BZGd0czFFa2JXdDFNQklQSXZMS1NUNGxsaFc0UE51bkVlcWl5cVVXWXA3aVY4YlpaOFk5?oc=5",
-      "publishedAt": "2026-08-16T18:54:16+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-australia-vs-egypt-fifa-world-cup-2026-score-predictions-mark-webster-illness-21llarggcn-mshale",
-      "title": "澳大利亚 VS 埃及 || 2026 年国际足联世界杯 ||分数预测 马克·韦伯斯特疾病 (21lLargGcN) - Mshale",
-      "summary": "澳大利亚 VS 埃及 || 2026 年国际足联世界杯 ||分数预测 马克·韦伯斯特疾病 (21lLargGcN)  Mshale",
-      "originalTitle": "AUSTRALIA VS EGYPT || FIFA WORLD CUP 2026 || SCORE PREDICTIONS Mark Webster Illness (21lLargGcN) - Mshale",
-      "originalSummary": "AUSTRALIA VS EGYPT || FIFA WORLD CUP 2026 || SCORE PREDICTIONS Mark Webster Illness (21lLargGcN)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9OY3BmSlQwX3JZLS12REpUR3dGUDBBb2pzN1JkNTI4MHJfcUxXZExBSUd5cmpJdjYxaFM1TlFqU1hITVlBMFRqMGZSak1zMEMyX0NNOUNYMEJQX0M4cnlaRw?oc=5",
-      "publishedAt": "2026-08-16T18:25:23+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-3-1-switzerland-aet-world-cup-2026-quarter-final-highlights-mark-pathy-joairv8f4s-mshale",
-      "title": "🇦🇷 阿根廷 3-1 瑞士 (AET) | 2026 年世界杯四分之一决赛集锦 ⚽🔥 Mark Pathy (JoAiRV8f4s) - Mshale",
-      "summary": "🇦🇷 阿根廷 3-1 瑞士 (AET) | 2026 年世界杯四分之一决赛集锦 ⚽🔥 Mark Pathy (JoAiRV8f4s)  Mshale",
-      "originalTitle": "🇦🇷 Argentina 3-1 Switzerland (AET) | World Cup 2026 Quarter-Final Highlights ⚽🔥 Mark Pathy (JoAiRV8f4s) - Mshale",
-      "originalSummary": "🇦🇷 Argentina 3-1 Switzerland (AET) | World Cup 2026 Quarter-Final Highlights ⚽🔥 Mark Pathy (JoAiRV8f4s)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5ZdW1VNnZhX2NBdjJEN2pObHh2NldvRHRCaDNMMEJidHYzcGdCbDhnMnMtQy1YTHY1alRmTmtpQXRTT3hTOFpNSmR1ZVFELUQ0bmt1S1RidmN3U3c?oc=5",
-      "publishedAt": "2026-08-16T18:23:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-spain-team-arrives-in-dallas-to-massive-fan-welcome-fifa-world-cup-2026-zo1h-val-d-or-oaca6cbjny-mshale",
-      "title": "西班牙队抵达达拉斯，受到广大球迷的欢迎| 2026 年国际足联世界杯 | ZO1H 瓦尔多尔 (oACA6CBjNY) - 姆沙勒",
-      "summary": "西班牙队抵达达拉斯，受到广大球迷的欢迎| 2026 年国际足联世界杯 | ZO1H Val-d'or (oACA6CBjNY)  Mshale",
-      "originalTitle": "Spain Team Arrives In Dallas To Massive Fan Welcome | FIFA World Cup 2026 | ZO1H Val-d'or (oACA6CBjNY) - Mshale",
-      "originalSummary": "Spain Team Arrives In Dallas To Massive Fan Welcome | FIFA World Cup 2026 | ZO1H Val-d'or (oACA6CBjNY)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOWhIY1FtNmR0OEx4YlhDNGVuMDBfbTRvT25LcWh4XzZfNE8yRXlTQ0ZWbjc3ZUk4NnhLTzFGbnVmWWRpOHRGRkk3amltY21TckF0emNLUEczbnM?oc=5",
-      "publishedAt": "2026-08-16T17:52:04+00:00",
       "heat": 60
     }
   ]
