@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T11:24:12.491752+00:00",
+  "updatedAt": "2026-08-16T11:48:35.562272+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-falconets-prepares-hot-friendlies-with-poland-korea-ahead-2026-world-cup-gistmania",
+      "title": "Falconets 为 2026 年世界杯准备与波兰、韩国的热辣友谊赛 - Gistmania",
+      "summary": "Falconets 为 2026 年世界杯准备与波兰、韩国的热辣友谊赛 Gistmania",
+      "originalTitle": "Falconets Prepares Hot Friendlies With Poland, Korea Ahead 2026 World Cup - Gistmania",
+      "originalSummary": "Falconets Prepares Hot Friendlies With Poland, Korea Ahead 2026 World Cup  Gistmania",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4xZ3VpTDNQSTBDa0U3VDRZRDAyVXJPdzByRW8xVW1PRjI1aDlhMDBvNUtGQWFoMzVuUTkwMlVvM3BXWHlTYlFYOWRhd196WkRDcGQ4LXFsaTZjcDlNWWNv?oc=5",
+      "publishedAt": "2026-08-16T11:17:40+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-a-keepsake-coin-connects-the-pembina-valley-to-spain-pembinavalleyonline",
       "title": "一枚纪念币将彭比纳山谷与西班牙连接起来 - PembinaValleyOnline",
@@ -18,18 +30,6 @@
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPY3gyLUVVM2dDN3J1MDJRTEpkRjVHdkM2dWc0aFFGcS1QOHVyTS1JU0E0UE5yS0VMN25OQmxMUFVkUXRsR2c1RXFwbVJaY2haUGVwTEZHYU5vd2RnWkZaS0Nyb1JVN2pINlhFcXJvWnl3YjVHbzJsQ2pscC1BWEhiZXJtWFZ6bmJlNmFfXzBaM2xtYy1mY1RqTg?oc=5",
       "publishedAt": "2026-08-16T10:05:07+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-usa-advances-zlatan-says-united-states-can-win-2026-fifa-world-cup-kevin-hart-sh2iekkde7-mshale",
-      "title": "美国队取得进步 🇺🇸 兹拉坦表示美国可以赢得 2026 年 FIFA 世界杯™ 凯文·哈特 (sh2iekkdE7) - Mshale",
-      "summary": "美国队取得进步 🇺🇸 兹拉坦表示美国可以赢得 2026 年 FIFA 世界杯™ 凯文·哈特 (sh2iekkdE7)  Mshale",
-      "originalTitle": "USA ADVANCES 🇺🇸 Zlatan Says United States CAN Win 2026 FIFA World Cup™ Kevin Hart (sh2iekkdE7) - Mshale",
-      "originalSummary": "USA ADVANCES 🇺🇸 Zlatan Says United States CAN Win 2026 FIFA World Cup™ Kevin Hart (sh2iekkdE7)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5uRnRiRVktSHhsUWc4b0RaekdERHc1VVBFZHl5OHNEa2gyVUN4TnhZTjg1RW11dGlXOU8xdXFkYWFaWG5WMDVHNW1ZcUpRNFd2V2dhLU5SUGRBdEU?oc=5",
-      "publishedAt": "2026-08-16T10:04:39+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-referee-s-comments-to-lionel-messi-in-2026-fifa-world-cup-final-draw-wrath-of-spain-supporters-sportskeeda",
@@ -116,6 +116,42 @@
       "heat": 52
     },
     {
+      "id": "google-news-fifa-world-cup-2026-all-48-teams-kits-brands-nike-vs-adidas-vs-puma-brandt-snedeker-4alfvd27fs-mshale",
+      "title": "2026 年 FIFA 世界杯 🌎⚽ |所有 48 支球队的球衣和品牌 |耐克 Vs 阿迪达斯 Vs PUMA Brandt Snedeker (4AlFVD27FS) - Mshale",
+      "summary": "2026 年 FIFA 世界杯 🌎⚽ |所有 48 支球队的球衣和品牌 |耐克 Vs 阿迪达斯 Vs PUMA Brandt Snedeker (4AlFVD27FS)  Mshale",
+      "originalTitle": "FIFA World Cup 2026 🌎⚽ | All 48 Teams Kits & Brands | Nike Vs Adidas Vs PUMA Brandt Snedeker (4AlFVD27FS) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 🌎⚽ | All 48 Teams Kits & Brands | Nike Vs Adidas Vs PUMA Brandt Snedeker (4AlFVD27FS)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcnIwc01uTHduQ1BrUFJra0l3cjVvZXlMTUhUdGI1MmhEd21YYTJ4d2Q2VjhDTW1FUVNkX0pqc2xXRXNqUG0tQzZhNEJPOWN3dnFxVEVsNUhEWU0?oc=5",
+      "publishedAt": "2026-08-16T07:39:51+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fc-26-cote-d-ivoire-vs-norway-fifa-world-cup-2026-ft-kessie-haaland-odegaard-ps5-pro-4k60-pedro-pascal-5perz",
+      "title": "FC 26- 科特迪瓦 VS 挪威 | 2026 年国际足联世界杯 |凯西、哈兰德、奥德加德 | FT KESSIE PS5 PRO [4K60] 佩德罗·帕斯卡 (5PErzCK3WE) - Mshale",
+      "summary": "FC 26- 科特迪瓦 VS 挪威 | 2026 年国际足联世界杯 |凯西、哈兰德、奥德加德 | FT KESSIE PS5 PRO [4K60] 佩德罗·帕斯卡 (5PErzCK3WE)  Mshale",
+      "originalTitle": "FC 26- COTE D'IVOIRE VS NORWAY | FIFA WORLD CUP 2026 | FT KESSIE, HAALAND, ODEGAARD | PS5 PRO [4K60] Pedro Pascal (5PErzCK3WE) - Mshale",
+      "originalSummary": "FC 26- COTE D'IVOIRE VS NORWAY | FIFA WORLD CUP 2026 | FT KESSIE, HAALAND, ODEGAARD | PS5 PRO [4K60] Pedro Pascal (5PErzCK3WE)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHdUlWOENrTnBWY2tnTjUyMTVVNzVFaUNtMWdSdjFWb09mamtlaWdMb0VvbmpONThzTU05RUxZTlk2MDI4RlVlWHN1SmR4S2VmZXpNU2YtNFVJSlE?oc=5",
+      "publishedAt": "2026-08-16T07:32:27+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-ismael-saibari-goal-scotland-0-1-morocco-fifa-world-cup-2026-antoinette-webb-fort-knox-story-al7wf7k3rr-msha",
+      "title": "伊斯梅尔·赛巴里进球 |苏格兰0-1摩洛哥| FIFA 世界杯 2026™ 安托瓦内特·韦伯诺克斯堡故事 (Al7Wf7k3rr) - Mshale",
+      "summary": "伊斯梅尔·赛巴里进球 |苏格兰0-1摩洛哥| FIFA 世界杯 2026™ 安托瓦内特·韦伯诺克斯堡故事 (Al7Wf7k3rr)  Mshale",
+      "originalTitle": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™ Antoinette Webb Fort Knox Story (Al7Wf7k3rr) - Mshale",
+      "originalSummary": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™ Antoinette Webb Fort Knox Story (Al7Wf7k3rr)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYVZBMkJnUWthNTlid19JdkxPTjhqS0t2M1VWQjNaYkZ1alJkQmFKaHVOQm5WODhybDRSQTZlZC1acTg3QmNSRktBcXNnZ3VFbmZpalBMMVVnZDg?oc=5",
+      "publishedAt": "2026-08-16T07:31:18+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-rafael-leão-portugal-s-electric-winger-shines-at-world-cup-2026-nebraska-baseball-eq4yzxrmpa-mshale",
       "title": "拉斐尔·莱奥：葡萄牙电动边锋在 2026 年内布拉斯加州棒球世界杯上大放异彩 (eQ4yzxrMPa) - Mshale",
       "summary": "拉斐尔·莱奥：葡萄牙电动边锋在 2026 年内布拉斯加州棒球世界杯上大放异彩 (eQ4yzxrMPa) Mshale",
@@ -126,18 +162,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRDBzcEpkN2hUekJTdGlsUVlqb2wxTEM1TldCSXplRU5fZElqNXdqTjN4bWhZOEZ4ZWNYTERHVDhuNWpDZy03Vmk3LWJLQjE1QldVLUt5YzA1XzFUSm9qYw?oc=5",
       "publishedAt": "2026-08-16T06:49:23+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-all-48-participants-in-the-2026-fifa-world-cup-have-been-determined-turkmenportal-com",
-      "title": "2026年世界杯全部48名参赛名单已确定 - 土库曼斯坦门户",
-      "summary": "2026 年 FIFA 世界杯全部 48 名参赛名单已确定 Turkmenportal.com",
-      "originalTitle": "All 48 participants in the 2026 FIFA World Cup have been determined - Turkmenportal.com",
-      "originalSummary": "All 48 participants in the 2026 FIFA World Cup have been determined  Turkmenportal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxPcnZtVDVMbng3SkJfMzZsb3FNNUpmelhJZGZhWFI5WVVZb3VLdlBuTm0ySmhDdnVRRGhxU1MtTnk4U2lxVmh2NXBMX2tuVFRWa2JQbjJRVWZKQldZal9TSzk0RXRyOVIwYkZDay1RWDkwZnc5OVgtSTBxNEhUSF9fdHk3Q2xVWHB5d014N0phVHB4NTZiNTc3STY5ZVJnZzRqS0FqQTB3NkhFRF9ycnNZOGg2NXhod2FSb1VqYWVXLWp4N2k0MHJoWUNISUNRZ18zeFBhQWpzSHlyVEZSSTBDaldXRGFiQ2U4YmRJdG45UjcwSXJJSnYwRmxsWWxVSGpaQWZ4N3FYVGtheGxXUi1SWXl0RmxKbk9yeDBVRmRIY2t0YkhSUkRjTVJVQk8wNERxWlBrQVlYNzRoRkdKTWN4dXR2QVItOEV5eW1GeGM1OVI1Sjg?oc=5",
-      "publishedAt": "2026-08-16T06:32:38+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-fifa-world-cup-2026-semi-finals-confirmed-full-knockout-schedule-match-time-3rd-place-fixtures-kiana-james-r",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0tEdnVyRVhMbmJDTVRMVTg2Q1o0dFRxeFJISk9UQ0MzbzB2UVpjeWpoU0ZsYVpVSWs2U2NvNlVlMTRta2FRZVgza1d5U1JyQ1JzMUZpOVVNT0lXSjBjakFGbVVCZW1VWXZoT1VfWjZkVWx2RncycnA4S2NvNWJseHBB?oc=5",
       "publishedAt": "2026-08-16T05:29:30+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-france-defeated-morocco-2-0-in-their-fifa-world-cup-2026-quarter-final-match-on-july-9-2026-emma-navarro-unl",
-      "title": "2026 年 7 月 9 日，法国在 2026 年 FIFA 世界杯四分之一决赛中以 2-0 击败摩洛哥 艾玛·纳瓦罗 (uNLpBcebRM) - Mshale",
-      "summary": "2026 年 7 月 9 日，法国在 2026 年 FIFA 世界杯四分之一决赛中以 2-0 击败摩洛哥 艾玛·纳瓦罗 (uNLpBcebRM)  Mshale",
-      "originalTitle": "France Defeated Morocco 2–0 In Their FIFA World Cup 2026 Quarter-final Match On July 9, 2026 Emma Navarro (uNLpBcebRM) - Mshale",
-      "originalSummary": "France Defeated Morocco 2–0 In Their FIFA World Cup 2026 Quarter-final Match On July 9, 2026 Emma Navarro (uNLpBcebRM)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1QWDN2QnNUMjBKMUJLb3RpVllPUEpZTXlZbGtTcDJmbFV6X2pibkNWeW5EVXVnb3NSM2VLRFN2clVEaWQ0dkFoWnlxNEhYU0pORGM4Y1RydGJibHM?oc=5",
-      "publishedAt": "2026-08-16T05:17:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-16T05:11:30+00:00",
-      "heat": 52
     }
   ]
 }
