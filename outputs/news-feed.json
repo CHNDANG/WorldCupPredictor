@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T12:49:10.232998+00:00",
+  "updatedAt": "2026-08-16T13:35:34.581139+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-metlife-stadium-made-more-than-double-the-revenue-of-any-other-ground-at-2026-world-cup-sports-talk-florida",
+      "title": "2026 年世界杯大都会人寿体育场的收入是其他任何场地的两倍多 - Sports Talk Florida",
+      "summary": "2026 年世界杯大都会人寿体育场的收入是其他任何场地的两倍以上",
+      "originalTitle": "MetLife Stadium made more than double the revenue of any other ground at 2026 World Cup - Sports Talk Florida",
+      "originalSummary": "MetLife Stadium made more than double the revenue of any other ground at 2026 World Cup  Sports Talk Florida",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNT2t2YTNZWGtpOHVvcUU0UVJCcUhOeXFpbkpOWkU3MjZIOTF6Nnd1SGdXeU1ra2EwQWdJZFFVYkZ5M3lKS29KaXJCY2hGLVc0U1dFdnlkQ1hTbGZXVFFpYkluc0lwV0Q0UnRSbEh0bzJCRUJLUEpCdG5ub193ZU43N3pya0ZEZDBoT1lCSDZmWkF1ajVhbHJPQm1oZ2VjOWtzVUJhel96Q1kzc21BdDBWWktVOXI5YXlxSXBBZ2xnS1h6TjY0RFhN?oc=5",
+      "publishedAt": "2026-08-16T12:58:26+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-portugal-vs-dr-congo-extended-highlights-2026-fifa-world-cup-estate-of-michael-jackson-c2m0bhgtpo-mshale",
+      "title": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊庄园 (C2m0BHgtpo) - Mshale",
+      "summary": "葡萄牙 vs 刚果民主共和国 加长集锦 🌎🏆2026 FIFA 世界杯™ 迈克尔·杰克逊遗产 (C2m0BHgtpo)  Mshale",
+      "originalTitle": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo) - Mshale",
+      "originalSummary": "Portugal Vs DR Congo Extended Highlights 🌎🏆2026 FIFA World Cup™ Estate Of Michael Jackson (C2m0BHgtpo)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0xREQyemlWZkpacnZJQ1Q2Q3N3RGlQZUtISU5Fck5Qa0tMMmJfcXEwVzNnc2ZyUm5iNWkxRWhDOUthQW0xalVqWG1MR1ZVUTk0TkY5M2VmbzJGdmlMd3lfUQ?oc=5",
+      "publishedAt": "2026-08-16T12:29:47+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-india-vs-china-women-s-hockey-world-cup-score-result-and-highlights-for-pool-d-clash-sportingnews-com",
       "title": "印度队与中国队女子曲棍球世界杯得分、结果和 D 组比赛亮点 - sportingnews.com",
@@ -18,6 +42,42 @@
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYzkwYjlmYV9CbXBJa05aZnM2ZjYxWFRYV2ZWN3ZQRTJjV01FZFVGYV9UZEhZU3gzMklzUDhGeXo5S0dlSEI2S0hSMTJMLWdtc1RfWUhiV2ZEcV8zZ3A5YnB3ZDd3UGhvbWR0SExyV2V5QS1jemxPdXFUQXJvamR6VG93d2t6RWtheTBqVE5icnpCVFdhbWIySUlIdVdJZEF2V2FnbHA4MzBERU51Y0hVUnlJMTBWeE5PbjFLZGRidlZYMm8?oc=5",
       "publishedAt": "2026-08-16T12:21:00+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-when-will-isl-2026-27-start-dates-confirmed-teams-for-new-season-of-indian-super-league-sportingnews-com",
+      "title": "ISL 2026/27 何时开始？印度超级联赛新赛季的日期和球队确认 - sportingnews.com",
+      "summary": "ISL 2026/27 何时开始？印度超级联赛新赛季的日期、确认球队 sportingnews.com",
+      "originalTitle": "When will ISL 2026/27 start? Dates, confirmed teams for new season of Indian Super League - sportingnews.com",
+      "originalSummary": "When will ISL 2026/27 start? Dates, confirmed teams for new season of Indian Super League  sportingnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxORTB2dlpqbTdHMEdvRFVWeEIzYWgzMkgzdmxHY0Rqb0xfdF9vR240WG5xbWtrcDFBSmNDaF9zdFBZcGxoVWF6QjRwNTA4RDA3cHJCQndpcEFZdVlpekNfUlFjbHdzQmVaYlNHeEg2c3g3SWVRMHhQaGFRbGh4dW00RVU3Rm83WXpiX1RLeFFaSEZ3ZDhnWl9ZVmJ4bTI0NzFwMHNjeHR1Uk1DUkx0ZjVEb2NsYThNWUtPN0hNTHVZeUEyc21OMGlINTNWSzAxZzIyTzJfREhFSXhjam5UNmVj?oc=5",
+      "publishedAt": "2026-08-16T11:30:01+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-racing-santander-vs-villarreal-prediction-and-betting-tips-august-16th-2026-sportskeeda-com",
+      "title": "桑坦德竞技队 vs 比利亚雷亚尔队预测和投注技巧| 体育2026 年 8 月 16 日 - sportskeeda.com",
+      "summary": "桑坦德竞技队 vs 比利亚雷亚尔队预测和投注技巧| 体育2026 年 8 月 16 日  sportskeeda.com",
+      "originalTitle": "Racing Santander vs Villarreal Prediction and Betting Tips | August 16th 2026 - sportskeeda.com",
+      "originalSummary": "Racing Santander vs Villarreal Prediction and Betting Tips | August 16th 2026  sportskeeda.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3l6c1NLLWJhbXVUVkhEZFpYVVNTMExPNGNMMUdWMzdiTFkzNFhmbXpFYlo0d3NFakJoTVY0SEpoU05WQ2VLVXdFcFF2QkdPY1VxZG9uaTF3S1B6dUozdUV2OF9GWm5rUUplZUhlYzZ6amQ1X001MzVsUllHYUhPZlpJTko3Q0I1ZHZQcFlRMGh4QV93QXp3ZWhfME85UWpPbkJBcUdTRmsxUmM0?oc=5",
+      "publishedAt": "2026-08-16T11:21:47+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-malaysia-vs-vietnam-prediction-and-betting-tips-16th-august-2026-sportskeeda-com",
+      "title": "马来西亚 vs 越南 预测和投注技巧 | 马来西亚 vs 越南2026 年 8 月 16 日 - sportskeeda.com",
+      "summary": "马来西亚 vs 越南 预测和投注技巧 | 马来西亚 vs 越南2026 年 8 月 16 日  sportskeeda.com",
+      "originalTitle": "Malaysia vs Vietnam Prediction and Betting Tips | 16th August 2026 - sportskeeda.com",
+      "originalSummary": "Malaysia vs Vietnam Prediction and Betting Tips | 16th August 2026  sportskeeda.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOUU1NGVHX2s0WkdKaUdEajQybnliSEt5aGRlWWVUeUhBUlBEeDdaX2pRTTRzNUJjMWMteVRzYnFKNTktTGlkMVUwZ2xhRGltb0Z2OG4ydl9OOVRhWDFTcUoxMHA0R0FnWExDX0NRRVpuQXlhejN5V1Jwd3U5eUxaN1FjRGJUUVNNSWFUazgyZGpoV1BXOVJnbDNqWm55dw?oc=5",
+      "publishedAt": "2026-08-16T11:21:46+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-falconets-prepares-hot-friendlies-with-poland-korea-ahead-2026-world-cup-gistmania",
@@ -68,11 +128,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-referee-s-comments-to-lionel-messi-in-2026-fifa-world-cup-final-draw-wrath-of-spain-supporters-sportskeeda",
-      "title": "2026年世界杯决赛裁判对梅西的评论引起了西班牙支持者的愤怒 - Sportskeeda",
-      "summary": "2026 年 FIFA 世界杯决赛中裁判对梅西的评论引起了西班牙球迷的愤怒 Sportskeeda",
-      "originalTitle": "Referee's comments to Lionel Messi in 2026 FIFA World Cup final draw wrath of Spain supporters - Sportskeeda",
-      "originalSummary": "Referee's comments to Lionel Messi in 2026 FIFA World Cup final draw wrath of Spain supporters  Sportskeeda",
+      "id": "google-news-referee-s-comments-to-lionel-messi-in-2026-fifa-world-cup-final-draw-wrath-of-spain-supporters-sportskeeda-c",
+      "title": "2026年世界杯决赛裁判对梅西的评论引起了西班牙球迷的愤怒 - sportskeeda.com",
+      "summary": "2026 年 FIFA 世界杯决赛中裁判对梅西的评论引起了西班牙球迷的愤怒 sportskeeda.com",
+      "originalTitle": "Referee's comments to Lionel Messi in 2026 FIFA World Cup final draw wrath of Spain supporters - sportskeeda.com",
+      "originalSummary": "Referee's comments to Lionel Messi in 2026 FIFA World Cup final draw wrath of Spain supporters  sportskeeda.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUtPbTdVMnh5cHJFY19BOVF0WGZYVlBSMFlUMjhHcklNcHFicmloTWt2TXBoUXpLWjRNQi03Nm1wNUg3ZHJ4dVJWdkx0d2wwQjg3bnpxd1Y4WXpNV1VYamcwNWFDSWdpS2ZWOEdVNnR6Z2VvWWJVSkgtbUcydk9jeS1uS0syNmhFSnZ3X3prclh1XzYyTHNvQVhmQTg2dllieWJtUUdSMTV2eGY5WTFqMlRibHB5TDZvRFg1VGxPb3BibFhIQkE?oc=5",
@@ -116,18 +176,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-racing-santander-vs-villarreal-prediction-and-betting-tips-august-16th-2026-sportskeeda",
-      "title": "桑坦德竞技队 vs 比利亚雷亚尔队预测和投注技巧| 体育2026 年 8 月 16 日 - Sportskeeda",
-      "summary": "桑坦德竞技队 vs 比利亚雷亚尔队预测和投注技巧| 体育2026 年 8 月 16 日  Sportskeeda",
-      "originalTitle": "Racing Santander vs Villarreal Prediction and Betting Tips | August 16th 2026 - Sportskeeda",
-      "originalSummary": "Racing Santander vs Villarreal Prediction and Betting Tips | August 16th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZ3l6c1NLLWJhbXVUVkhEZFpYVVNTMExPNGNMMUdWMzdiTFkzNFhmbXpFYlo0d3NFakJoTVY0SEpoU05WQ2VLVXdFcFF2QkdPY1VxZG9uaTF3S1B6dUozdUV2OF9GWm5rUUplZUhlYzZ6amQ1X001MzVsUllHYUhPZlpJTko3Q0I1ZHZQcFlRMGh4QV93QXp3ZWhfME85UWpPbkJBcUdTRmsxUmM0?oc=5",
-      "publishedAt": "2026-08-16T08:22:38+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-新闻-中文-意媒-因凡蒂诺的反对者计划改革制度-将fifa主席改为轮值制-zhibo8-cc",
       "title": "意媒：因凡蒂诺的反对者计划改革制度，将FIFA主席改为轮值制 - zhibo8.cc",
       "summary": "意媒：因凡蒂诺的反对者计划改革制度，将FIFA主席改为轮值制  zhibo8.cc",
@@ -140,87 +188,39 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-world-cup-2026-argentina-final-official-squad-with-their-religion-alex-eala-sdyfcppkfp-mshale",
-      "title": "国际足联世界杯 2026 ~ 🇦🇷 阿根廷决赛官方阵容与他们的宗教 Alex Eala (sDYFCpPKfp) - Mshale",
-      "summary": "国际足联世界杯 2026 ~ 🇦🇷 阿根廷决赛官方阵容与他们的宗教 Alex Eala (sDYFCpPKfp)  Mshale",
-      "originalTitle": "Fifa World Cup 2026 ~ 🇦🇷 Argentina Final Official Squad With Their Religion Alex Eala (sDYFCpPKfp) - Mshale",
-      "originalSummary": "Fifa World Cup 2026 ~ 🇦🇷 Argentina Final Official Squad With Their Religion Alex Eala (sDYFCpPKfp)  Mshale",
+      "id": "google-news-fifa-world-cup-2026-all-48-teams-kits-brands-nike-vs-adidas-vs-puma-brandt-snedeker-4alfvd27fs-mshale",
+      "title": "2026 年 FIFA 世界杯 🌎⚽ |所有 48 支球队的球衣和品牌 |耐克 Vs 阿迪达斯 Vs PUMA Brandt Snedeker (4AlFVD27FS) - Mshale",
+      "summary": "2026 年 FIFA 世界杯 🌎⚽ |所有 48 支球队的球衣和品牌 |耐克 Vs 阿迪达斯 Vs PUMA Brandt Snedeker (4AlFVD27FS)  Mshale",
+      "originalTitle": "FIFA World Cup 2026 🌎⚽ | All 48 Teams Kits & Brands | Nike Vs Adidas Vs PUMA Brandt Snedeker (4AlFVD27FS) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 🌎⚽ | All 48 Teams Kits & Brands | Nike Vs Adidas Vs PUMA Brandt Snedeker (4AlFVD27FS)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4ydjVKV1F5Mm9RcWV0WVlSUEt5c1RGU2V2Ui1EZ3A1UmJ1WTlpdFBPMVNWdWJIYURTanJLQUZsOHUwVWltWV83aHNMZFZzWmpYeGtoX295dU9Pdw?oc=5",
-      "publishedAt": "2026-08-16T07:51:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VcnIwc01uTHduQ1BrUFJra0l3cjVvZXlMTUhUdGI1MmhEd21YYTJ4d2Q2VjhDTW1FUVNkX0pqc2xXRXNqUG0tQzZhNEJPOWN3dnFxVEVsNUhEWU0?oc=5",
+      "publishedAt": "2026-08-16T07:39:51+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-rafael-leão-portugal-s-electric-winger-shines-at-world-cup-2026-nebraska-baseball-eq4yzxrmpa-mshale",
-      "title": "拉斐尔·莱奥：葡萄牙电动边锋在 2026 年内布拉斯加州棒球世界杯上大放异彩 (eQ4yzxrMPa) - Mshale",
-      "summary": "拉斐尔·莱奥：葡萄牙电动边锋在 2026 年内布拉斯加州棒球世界杯上大放异彩 (eQ4yzxrMPa) Mshale",
-      "originalTitle": "Rafael Leão: Portugal's Electric Winger Shines At World Cup 2026 Nebraska Baseball (eQ4yzxrMPa) - Mshale",
-      "originalSummary": "Rafael Leão: Portugal's Electric Winger Shines At World Cup 2026 Nebraska Baseball (eQ4yzxrMPa)  Mshale",
+      "id": "google-news-fc-26-cote-d-ivoire-vs-norway-fifa-world-cup-2026-ft-kessie-haaland-odegaard-ps5-pro-4k60-pedro-pascal-5perz",
+      "title": "FC 26- 科特迪瓦 VS 挪威 | 2026 年国际足联世界杯 |凯西、哈兰德、奥德加德 | FT KESSIE PS5 PRO [4K60] 佩德罗·帕斯卡 (5PErzCK3WE) - Mshale",
+      "summary": "FC 26- 科特迪瓦 VS 挪威 | 2026 年国际足联世界杯 |凯西、哈兰德、奥德加德 | FT KESSIE PS5 PRO [4K60] 佩德罗·帕斯卡 (5PErzCK3WE)  Mshale",
+      "originalTitle": "FC 26- COTE D'IVOIRE VS NORWAY | FIFA WORLD CUP 2026 | FT KESSIE, HAALAND, ODEGAARD | PS5 PRO [4K60] Pedro Pascal (5PErzCK3WE) - Mshale",
+      "originalSummary": "FC 26- COTE D'IVOIRE VS NORWAY | FIFA WORLD CUP 2026 | FT KESSIE, HAALAND, ODEGAARD | PS5 PRO [4K60] Pedro Pascal (5PErzCK3WE)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9RRDBzcEpkN2hUekJTdGlsUVlqb2wxTEM1TldCSXplRU5fZElqNXdqTjN4bWhZOEZ4ZWNYTERHVDhuNWpDZy03Vmk3LWJLQjE1QldVLUt5YzA1XzFUSm9qYw?oc=5",
-      "publishedAt": "2026-08-16T06:49:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-semi-finals-confirmed-full-knockout-schedule-match-time-3rd-place-fixtures-kiana-james-r",
-      "title": "2026年世界杯半决赛已确定！完整淘汰赛赛程和比赛时间 第三名赛程 Kiana James (Rp84Igb3WI) - Mshale",
-      "summary": "2026年世界杯半决赛已确定！完整淘汰赛赛程和比赛时间 第三名赛程 Kiana James (Rp84Igb3WI) Mshale",
-      "originalTitle": "FIFA World Cup 2026 Semi Finals Confirmed! Full Knockout Schedule & Match Time 3rd Place Fixtures Kiana James (Rp84Igb3WI) - Mshale",
-      "originalSummary": "FIFA World Cup 2026 Semi Finals Confirmed! Full Knockout Schedule & Match Time 3rd Place Fixtures Kiana James (Rp84Igb3WI)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE82MVVSc3IyMXlmOEpDZjFZTG1CRGZsUmlra0I5ZXpyeEFpRC1DbWM0aEpNUC1GOFZ1M3NKZGZoU3NZUnNtU1NVdXhlZWxpdzhycEEyQkNGVE5EUQ?oc=5",
-      "publishedAt": "2026-08-16T06:30:44+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBHdUlWOENrTnBWY2tnTjUyMTVVNzVFaUNtMWdSdjFWb09mamtlaWdMb0VvbmpONThzTU05RUxZTlk2MDI4RlVlWHN1SmR4S2VmZXpNU2YtNFVJSlE?oc=5",
+      "publishedAt": "2026-08-16T07:32:27+00:00",
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-2026海信空调大力神杯中国行邯郸收官站启幕-全品类矩阵赋能冀南全场景-好空气-搜狐网",
-      "title": "2026海信空调大力神杯中国行邯郸收官站启幕，全品类矩阵赋能冀南全场景“好空气”！ - 搜狐网",
-      "summary": "2026海信空调大力神杯中国行邯郸收官站启幕，全品类矩阵赋能冀南全场景“好空气”！  搜狐网",
-      "originalTitle": "2026海信空调大力神杯中国行邯郸收官站启幕，全品类矩阵赋能冀南全场景“好空气”！ - 搜狐网",
-      "originalSummary": "2026海信空调大力神杯中国行邯郸收官站启幕，全品类矩阵赋能冀南全场景“好空气”！  搜狐网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNalhrRHEzRGQtQjBWRzZUVjlkcVRLZ2l6dU1LQnYwbHhuTGdTOXVUalludVJBMGZxZkdQV3d1Tm9yd0gzblJWMENkWG1GWFRwb3dtMWhEbTJmUmtXcWFUX0xvR3NfaTVubDN1aFVRRDlldTRoVHY2OTBJVUhMNWZWanVlMDVhZFlX?oc=5",
-      "publishedAt": "2026-08-16T05:58:24+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-messi-vs-ronaldo-fifa-world-cup-2026-iran-response-to-us-proposal-31onrvbrx5-mshale",
-      "title": "♫ 梅西 VS 罗纳尔多 | FIFA 世界杯 2026 伊朗对我们提案的回应 (31ONrVBRx5) - Mshale",
-      "summary": "♫ 梅西 VS 罗纳尔多 | 2026 年 FIFA 世界杯伊朗对我们提案的回应 (31ONrVBRx5)  Mshale",
-      "originalTitle": "♫ MESSI VS RONALDO | FIFA WORLD CUP 2026 Iran Response To Us Proposal (31ONrVBRx5) - Mshale",
-      "originalSummary": "♫ MESSI VS RONALDO | FIFA WORLD CUP 2026 Iran Response To Us Proposal (31ONrVBRx5)  Mshale",
+      "id": "google-news-ismael-saibari-goal-scotland-0-1-morocco-fifa-world-cup-2026-antoinette-webb-fort-knox-story-al7wf7k3rr-msha",
+      "title": "伊斯梅尔·赛巴里进球 |苏格兰0-1摩洛哥| FIFA 世界杯 2026™ 安托瓦内特·韦伯诺克斯堡故事 (Al7Wf7k3rr) - Mshale",
+      "summary": "伊斯梅尔·赛巴里进球 |苏格兰0-1摩洛哥| FIFA 世界杯 2026™ 安托瓦内特·韦伯诺克斯堡故事 (Al7Wf7k3rr)  Mshale",
+      "originalTitle": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™ Antoinette Webb Fort Knox Story (Al7Wf7k3rr) - Mshale",
+      "originalSummary": "Ismael Saibari Goal | Scotland 0-1 Morocco | FIFA World Cup 2026™ Antoinette Webb Fort Knox Story (Al7Wf7k3rr)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9CRUJTX2tqSnFaZDRXdDRVMGNPRWZmVk8xMktfSkV4Q0w1OWs3TlRneGhETDFqNTRkYk1zTS1XbmcteXJ1czktaVV5NXhZYlN4LWtVYlVlSDRlWWM?oc=5",
-      "publishedAt": "2026-08-16T05:38:17+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ex-super-eagles-star-offers-fixes-following-super-falcons-world-cup-failure-this-can-t-continue-soccernet-ng",
-      "title": "前超级老鹰队球星在超级猎鹰队世界杯失败后提供修复方案 - “这不能继续下去” - Soccernet.ng",
-      "summary": "前超级老鹰队球星在超级猎鹰队世界杯失败后提供修复方案 - “这不能继续下去” Soccernet.ng",
-      "originalTitle": "Ex-Super Eagles star offers fixes following Super Falcons World Cup failure - \"This can't continue\" - Soccernet.ng",
-      "originalSummary": "Ex-Super Eagles star offers fixes following Super Falcons World Cup failure - \"This can't continue\"  Soccernet.ng",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wc0dwVEZBRmxaSUhRc21wdHJhNHJuUUxrWjBVeFdHOE1YcnFmWEpaQ1B6QVp3d3FwUW4zcUFXYlpnV0lTbU5HeTBxdWdHblJpU2FkVGN3WnoyNXpVRmhfd0xkdllGQ2s3eTJXaUswbGdxc1h2VWpJZDdvMmpUUQ?oc=5",
-      "publishedAt": "2026-08-16T05:30:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-sound-official-fifa-world-cup-2026-album-six9ja",
-      "title": "FIFA 声音 – FIFA 世界杯 2026™ 官方专辑 - Six9ja",
-      "summary": "FIFA 声音 – FIFA 世界杯 2026™ 官方专辑 Six9ja",
-      "originalTitle": "FIFA Sound – Official FIFA World Cup 2026™ Album - Six9ja",
-      "originalSummary": "FIFA Sound – Official FIFA World Cup 2026™ Album  Six9ja",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0tEdnVyRVhMbmJDTVRMVTg2Q1o0dFRxeFJISk9UQ0MzbzB2UVpjeWpoU0ZsYVpVSWs2U2NvNlVlMTRta2FRZVgza1d5U1JyQ1JzMUZpOVVNT0lXSjBjakFGbVVCZW1VWXZoT1VfWjZkVWx2RncycnA4S2NvNWJseHBB?oc=5",
-      "publishedAt": "2026-08-16T05:29:30+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9nYVZBMkJnUWthNTlid19JdkxPTjhqS0t2M1VWQjNaYkZ1alJkQmFKaHVOQm5WODhybDRSQTZlZC1acTg3QmNSRktBcXNnZ3VFbmZpalBMMVVnZDg?oc=5",
+      "publishedAt": "2026-08-16T07:31:18+00:00",
       "heat": 60
     }
   ]
