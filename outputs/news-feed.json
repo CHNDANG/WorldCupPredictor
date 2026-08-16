@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-16T20:51:49.250528+00:00",
+  "updatedAt": "2026-08-16T21:25:29.213073+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-el-jalapeño-fifa-allowed-mexico-to-host-2026-world-cup-matches-in-exchange-for-estadio-azteca-s-entire-reven",
+      "title": "El Jalapeno：国际足联允许墨西哥主办 2026 年世界杯比赛，以换取阿兹特克体育场的全部收入 - 墨西哥新闻日报",
+      "summary": "El Jalapeno：国际足联允许墨西哥主办 2026 年世界杯比赛，以换取阿兹特克体育场的全部收入来源 墨西哥新闻日报",
+      "originalTitle": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream - Mexico News Daily",
+      "originalSummary": "El Jalapeño: FIFA allowed Mexico to host 2026 World Cup matches in exchange for Estadio Azteca's entire revenue stream  Mexico News Daily",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOQ1ZSeTdrd25VcWtaclR2dklJTDIxZ20yWE9sWFZGZ1JqbEViTXR5LW9vV0txcDBISVoyVk40V20zMGJNMWN0eVFZbElrRWpHWlJoUzBDemxEV0N6TGQtMU9Zd2lFZGdrU1A4TDFxWWZxZFl2REVqOFVWUEpqbGluNTNYMGZiTUMyOFp6VDZaRGNEUkp0djFRNjZ5Zmdxb0FiZW9JeXlrLWZzR3VpbGtuRUMteXg1ZUZNOHlEdkcyY2ZkSUpHYzVtcFJESnprSDRGWGhJRnhpYjlQc0oycjcxTmtxQ09lYzZSRUV0X2Ria2VYOGk5VkF3bUlxN3E?oc=5",
+      "publishedAt": "2026-08-16T20:00:33+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-target-england-vs-norway-round-6-team-reveals-fifa-world-cup-2026-fantasy-tips-dylan-o-brien-1z5fjtbzay-msha",
       "title": "目标英格兰VS挪威？ 🎯 |第 6 轮球队揭晓！ | FIFA 世界杯 2026 梦幻提示 Dylan O'brien (1Z5FJtBzAy) - Mshale",
@@ -44,15 +56,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-the-2026-fifa-world-cup-match-schedule-explained-toulouse-lyon-ybkhrmxxy4-mshale",
-      "title": "2026年世界杯比赛赛程详解！图卢兹 - 里昂 (YBKHRMxXY4) - 姆沙勒",
-      "summary": "2026年世界杯比赛赛程详解！图卢兹 - 里昂 (YBKHRMxXY4) Mshale",
-      "originalTitle": "The 2026 FIFA World Cup Match Schedule Explained! Toulouse - Lyon (YBKHRMxXY4) - Mshale",
-      "originalSummary": "The 2026 FIFA World Cup Match Schedule Explained! Toulouse - Lyon (YBKHRMxXY4)  Mshale",
+      "id": "google-news-canada-vs-morocco-round-off-16-fifa-world-cup-2026-score-predictions-scott-wedgewood-euc891jl4h-mshale",
+      "title": "加拿大 VS 摩洛哥 || 2026 年 FIFA 世界杯第 16 轮比赛 ||得分预测 Scott Wedgewood (eUc891Jl4h) - Mshale",
+      "summary": "加拿大 VS 摩洛哥 || 2026 年 FIFA 世界杯第 16 轮比赛 ||分数预测 Scott Wedgewood (eUc891Jl4h)  Mshale",
+      "originalTitle": "CANADA VS MOROCCO || ROUND OFF 16 FIFA WORLD CUP 2026 || SCORE PREDICTIONS Scott Wedgewood (eUc891Jl4h) - Mshale",
+      "originalSummary": "CANADA VS MOROCCO || ROUND OFF 16 FIFA WORLD CUP 2026 || SCORE PREDICTIONS Scott Wedgewood (eUc891Jl4h)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5KSjdpY2IzZDZ4blVIeHRLT2Y5ZkxRYUxCN2NDSHA4TzRIdU5IRU5vUHJGNUFSa0RiZDB1STFhQkNydWZ4dFcxNmRlTVM5Y3dZcmVkMXFWVjd2MWI5Mkc0QQ?oc=5",
-      "publishedAt": "2026-08-16T19:01:48+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA5dUUzZ0hreHlpem9nX19WRGg3b3VKdUVlSUZlaEdUYUNjbWltcS1mVV9tYzVoVlkya1AyOXNmZmRuSElVeEsxTlJEWlVKQXp3WEJLNHZZYV9RZkE?oc=5",
+      "publishedAt": "2026-08-16T19:04:36+00:00",
       "heat": 60
     },
     {
@@ -69,8 +81,8 @@
     },
     {
       "id": "google-news-live-argentina-vs-egypt-live-the-game-round-of-16-fifa-world-cup-2026-t-sports-strait-of-hormuz-oil-tankers-",
-      "title": "直播|阿根廷 vs 埃及 |直播游戏 | 16 强 | 2026 年国际足联世界杯 | T Sports 霍尔木兹海峡油轮 (OXu8UJnmgH) - Mshale",
-      "summary": "直播|阿根廷 vs 埃及 |直播游戏 | 16 强 | 2026 年国际足联世界杯 | T Sports 霍尔木兹海峡油轮 (OXu8UJnmgH) Mshale",
+      "title": "直播|阿根廷VS埃及|直播游戏 | 16 强 | 2026 年国际足联世界杯 | T Sports 霍尔木兹海峡油轮 (OXu8UJnmgH) - Mshale",
+      "summary": "直播|阿根廷VS埃及|直播游戏 | 16 强 | 2026 年国际足联世界杯 | T Sports 霍尔木兹海峡油轮 (OXu8UJnmgH) Mshale",
       "originalTitle": "LIVE | Argentina Vs Egypt | Live The Game | Round Of 16 | FIFA World Cup 2026 | T Sports Strait Of Hormuz Oil Tankers (OXu8UJnmgH) - Mshale",
       "originalSummary": "LIVE | Argentina Vs Egypt | Live The Game | Round Of 16 | FIFA World Cup 2026 | T Sports Strait Of Hormuz Oil Tankers (OXu8UJnmgH)  Mshale",
       "translation": "online",
@@ -188,16 +200,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-no-team-can-stop-spain-at-fifa-world-cup-2026-nyt-crossword-answers-djyvgfg03x-mshale",
-      "title": "🇪🇸 没有球队可以在 2026 年 FIFA 世界杯上阻止西班牙！ Nyt 填字游戏答案 (djYvGFg03X) - Mshale",
-      "summary": "🇪🇸 没有球队可以在 2026 年 FIFA 世界杯上阻止西班牙！ 《纽约时报》填字游戏答案 (djYvGFg03X)  Mshale",
-      "originalTitle": "🇪🇸 No Team Can Stop Spain At FIFA World Cup 2026! Nyt Crossword Answers (djYvGFg03X) - Mshale",
-      "originalSummary": "🇪🇸 No Team Can Stop Spain At FIFA World Cup 2026! Nyt Crossword Answers (djYvGFg03X)  Mshale",
+      "id": "google-news-la-liga-predictions-2026-27-title-winners-golden-boot-clasico-games-and-more-sportingnews-com",
+      "title": "2026-27 赛季西甲预测：冠军、金靴、国家德比等 - sportingnews.com",
+      "summary": "2026-27 赛季西甲预测：冠军得主、金靴奖、国家德比等等 sportingnews.com",
+      "originalTitle": "La Liga predictions 2026-27: Title winners, Golden Boot, Clasico games and more - sportingnews.com",
+      "originalSummary": "La Liga predictions 2026-27: Title winners, Golden Boot, Clasico games and more  sportingnews.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFB4U0trUFN2YkYxS2VYdU5FRFVyUFlIRF9leTNteVhpaF8tcE91QWI3Y2hORlA1dUh0NDlWeVRsR1FNUkhoY3c0VVo0RDF5NWRsYzZKanRyTGxIbW8?oc=5",
-      "publishedAt": "2026-08-16T17:09:19+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPSHFpck5FNGdUeTNYOGNBVUs5Uk5ONXVnWE5uZ3JnS1E3a1lqS3hBZTl1YkViSUJ0SFBheXU5cjNtMjV6cmJFakN0cUJRNWF0WGdSVEVHMm1jZWJwTHNlWTRMa29kS3B5M0dpcHBxQmpxNmVNRi1yc1BfZXlxamJib3NnYU15N1ZISXdMZVVvdnBvWjlpeURzTDl2dXpraFlMM2l5OG45Vjc0b1duNEsyVGlwVllSdmg3cGlJQTY1c0tXR3NvRlo0aE1TM1I?oc=5",
+      "publishedAt": "2026-08-16T17:06:52+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-argentina-vs-france-in-2026-fifa-world-cup-final-espn-fc-s-prediction-kim-petras-lq5xdqqpiy-mshale",
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9ObE1HZmdvdTgxSHhycG1MTlJMcWFMU0JIZzZ2eG1vU3ZSMTExa0NzQUJTU1AwaGdMMnpzdEx2WWtHTnFReDJaQWc0Zm04cTRUcFhTZGl0Sm1MOVYwTWE4Zw?oc=5",
       "publishedAt": "2026-08-16T17:03:37+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-非洲女足2026第14届国家杯决赛-禁闻网",
-      "title": "非洲女足2026第14届国家杯决赛 - 禁闻网",
-      "summary": "非洲女足2026第14届国家杯决赛  禁闻网",
-      "originalTitle": "非洲女足2026第14届国家杯决赛 - 禁闻网",
-      "originalSummary": "非洲女足2026第14届国家杯决赛  禁闻网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5iMDVDTXRQMEVXTGp0Q3NLeXJzMEpNdy1aUXNyWTBFc1lYakFNbm1haW5IQUthODg3VEFINUw1dWlQTTRLYl9CMV94eXNxOGtVSDY5N3gtTzRYa3FfRzVqTUJsbEVNbVhSU0w5YUJEamVKMWvSAXhBVV95cUxPZzZEaW92bEVVSWdRNS1MSEFYWEpEb0lIV2pBS1lvd2pVbVFsRm55NVVtM3dWR2w3UnZrTWY5LUJrUUFvUldOQlNxZmlPRGp6dzVraG5zZVNQVVhxc1J6cG56ZkhIbU9WY2lfZVpyY3ZiREZpM2syQks?oc=5",
-      "publishedAt": "2026-08-16T17:00:00+00:00",
-      "heat": 44
     }
   ]
 }
