@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T22:29:56.137015+00:00",
+  "updatedAt": "2026-08-17T22:54:33.891991+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,52 @@
   ],
   "articles": [
     {
-      "id": "google-news-miami-named-america-s-soccer-capital-in-the-wake-of-world-cup-fever-says-new-study-timeout-com",
-      "title": "新研究称迈阿密因世界杯热潮而被评为美国足球之都 - timeout.com",
-      "summary": "新研究称迈阿密因世界杯热潮而被评为美国足球之都 timeout.com",
-      "originalTitle": "Miami named America's soccer capital in the wake of World Cup fever, says new study - timeout.com",
-      "originalSummary": "Miami named America's soccer capital in the wake of World Cup fever, says new study  timeout.com",
+      "id": "google-news-miami-named-america-s-soccer-capital-in-the-wake-of-world-cup-fever-says-new-study-time-out-worldwide",
+      "title": "新研究称迈阿密因世界杯热潮而被评为美国足球之都 - Time Out Worldwide",
+      "summary": "最新研究称迈阿密在世界杯热潮之后被评为美国足球之都 Time Out Worldwide",
+      "originalTitle": "Miami named America's soccer capital in the wake of World Cup fever, says new study - Time Out Worldwide",
+      "originalSummary": "Miami named America's soccer capital in the wake of World Cup fever, says new study  Time Out Worldwide",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSG12dDUtZmlhQnB4R2VPcFdxSl9MNDBmVFNYUkU5VXBYRnhBd3lPZTNSMDJUcEdkTDdBMXp0bG1XR3hNVDJodWJsYTVfNUxhRVh1SUFOeFI1Ympkd2VwODc1cVlLNWEyXzFMN0dlNjd4VnZoM1dVbWpHeE9BNjllamZNT2x5WEpxMExRdXAxVmFOMTNyRHhyNVVlWjBYS0ZMcktBbFlQMWQ4clJHRGdlSkJIbjRUSTJDTndCaE1uU2o?oc=5",
-      "publishedAt": "2026-08-17T22:24:14+00:00",
+      "publishedAt": "2026-08-17T22:33:59+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-fort-worth-trafficking-operation-nets-56-arrests-during-world-cup-dallas-news",
+      "title": "世界杯期间沃斯堡贩卖人口行动逮捕 56 人 - 达拉斯新闻",
+      "summary": "沃斯堡贩运人口行动在世界杯期间逮捕了 56 人 达拉斯新闻",
+      "originalTitle": "Fort Worth trafficking operation nets 56 arrests during World Cup - Dallas News",
+      "originalSummary": "Fort Worth trafficking operation nets 56 arrests during World Cup  Dallas News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNSG0wQ2daWjVXTFV2ei1PbHRiWW9WZHRrQTRHb1FlRDMydVByVnZ5Vy05M24wdmE0ZDhMYjNZMGZENWQ4WnBBX3UwR0R1UHlvdlJ1ZVJxaUNsVnZaTGNaa1RXcGJtc2t0UXA4RWM0RS11U0VHd2ZveldudTJsZm14aUxjTmZoYVFUWjdBdVZ1aElMcFlsa3luVlV1WXIwNlNyUzlkRVIzUHFJR00?oc=5",
+      "publishedAt": "2026-08-17T22:32:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-new-zealand-squad-named-for-fifa-u-20-women-s-world-cup-in-poland-friends-of-football",
+      "title": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯 - 足球之友",
+      "summary": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯足球之友",
+      "originalTitle": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland - Friends of Football",
+      "originalSummary": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland  Friends of Football",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkdYTFE0ZmNPOGEtV2JPbTBBSHNOMWdSRjZ3VEVsZEQxUWw2R1hNeEdqUHY1dTVvbXhkOXpSVDJLZk1mc0hwNWJVbFdzSHEzZDJ0N0J4UlpiUVV3ZW43LTFrdUZ6V2FzSXhWeUJxQ2pmTjBYaUJhQk5nT19hT3YzTXpCOThzdDI0dndtSTU2R0staG5abHFEU2lOUVBrYWU4QUZYWlR1cDMxLVFTY2FqS0tn?oc=5",
+      "publishedAt": "2026-08-17T22:29:09+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-new-caledonia-ready-to-join-new-zealand-at-fifa-u-20-women-s-world-cup-friends-of-football",
+      "title": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯 - 足球之友",
+      "summary": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯足球之友",
+      "originalTitle": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup - Friends of Football",
+      "originalSummary": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup  Friends of Football",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlZXd1JURWdVUW1ZVUpGMXZGR2tLaEM0ZzFKclcxS0FrSXRHOE91UHIxZTh5WnlXTUw0aGhXMDg3TWs2NTJwVHducUJMeGVHb00waVFWU241UWN5SUdEbVhScElma1d0dXFsQk9TSjNlT1d0VVlEaGNQN20yR1BJVzVmOHNfX2w1R09ucnI3OUkxbWtMYTFxY0d5ZTFRaXpNR29PQ0ItbV9rN001TmFHdHJVMnZSVjhR?oc=5",
+      "publishedAt": "2026-08-17T22:29:09+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-fifa-sack-chief-operating-officer-kevin-lamour-after-he-criticised-gianni-infantino-s-plans-to-sell-part-of-",
@@ -32,15 +68,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-new-caledonia-ready-to-join-new-zealand-at-fifa-u-20-women-s-world-cup-friends-of-football",
-      "title": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯 - 足球之友",
-      "summary": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯足球之友",
-      "originalTitle": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup - Friends of Football",
-      "originalSummary": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup  Friends of Football",
+      "id": "google-news-portugal-vs-croatia-highlights-2026-fifa-world-cup-round-of-32-hardik-pandya-6xdfx1ahoh-mshale",
+      "title": "葡萄牙对阵克罗地亚的精彩集锦 🌎🏆 2026 FIFA 世界杯™ | 32 轮 Hardik Pandya (6xDFX1aHoH) - Mshale",
+      "summary": "葡萄牙对阵克罗地亚的精彩集锦 🌎🏆 2026 FIFA 世界杯™ | 32 轮 Hardik Pandya (6xDFX1aHoH)  Mshale",
+      "originalTitle": "Portugal Vs Croatia Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Hardik Pandya (6xDFX1aHoH) - Mshale",
+      "originalSummary": "Portugal Vs Croatia Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Hardik Pandya (6xDFX1aHoH)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlZXd1JURWdVUW1ZVUpGMXZGR2tLaEM0ZzFKclcxS0FrSXRHOE91UHIxZTh5WnlXTUw0aGhXMDg3TWs2NTJwVHducUJMeGVHb00waVFWU241UWN5SUdEbVhScElma1d0dXFsQk9TSjNlT1d0VVlEaGNQN20yR1BJVzVmOHNfX2w1R09ucnI3OUkxbWtMYTFxY0d5ZTFRaXpNR29PQ0ItbV9rN001TmFHdHJVMnZSVjhR?oc=5",
-      "publishedAt": "2026-08-17T21:20:22+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9SMklRaEl1MkFob3U5ZW5BVjlqSDJRbWFjYmFDWHdSa3ZJZFdYRUF6Q1dONnhTUXBwNUxaZGtVUzVxNVJzaGFxN2F4WTFjbUNtV2g3eGlxM3pRcjg?oc=5",
+      "publishedAt": "2026-08-17T21:14:20+00:00",
       "heat": 60
     },
     {
@@ -53,6 +89,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOTzllUXNxNHFCM05BVDlyMjJsX2xOU0V4eWFJcEs4S1FLcnJ3b3hxRXNsYWNjZzdDUTVEaXJhOHlKa1RZcW82Y0NWSmFqQ2FheHFNY21JZGNocU5PZ3dEenZTbFRjOG9mWUZxeUdkRFNVemh1WWpCZlc3SzBHN2tjOVp6RmFzRTJsTUZ6cmktREZUckRNdjNITWZCVkkyWTA5UDFGUl9JVQ?oc=5",
       "publishedAt": "2026-08-17T21:12:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-critic-sacked-by-fifa-after-deception-comments-the-telegraph",
+      "title": "詹尼·因凡蒂诺评论家因发表“欺骗”言论被国际足联“解雇” - 每日电讯报",
+      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 评论家因发表“欺骗”言论被国际足联“解雇”",
+      "originalTitle": "Gianni Infantino critic ‘sacked’ by Fifa after ‘deception’ comments - The Telegraph",
+      "originalSummary": "Gianni Infantino critic ‘sacked’ by Fifa after ‘deception’ comments  The Telegraph",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMHhXYzREaWZmMTQwdktMdXZ2RERYQUFfTmF6VnY4Rno3MU9yZ1VrS25XTUdJeGpObEhJZ0k4YUpiT05MeF9BT1ZhNThVZV9pUk5IYUo3ZW9SZXkwYWZmemlrUVpjVmpobmhXQW9jVVRUYjNILXJsU05MU3NvUV9ua2JJWHVjU3Q1bGhfQ1RNVWNFaURQYUM4RzlVTzV4QzkwempWblNyQWxTaDU5?oc=5",
+      "publishedAt": "2026-08-17T21:08:00+00:00",
       "heat": 52
     },
     {
@@ -80,8 +128,20 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-world-cup-2026-hospitality-program-scores-record-breaking-demand-ticketnews",
+      "title": "2026 年 FIFA 世界杯接待计划需求量破纪录 - TicketNews",
+      "summary": "2026 年 FIFA 世界杯接待计划需求量破纪录 TicketNews",
+      "originalTitle": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand - TicketNews",
+      "originalSummary": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHdUZmo4WnFHbFVXV19fSy0yTWFuOTl2QUFvTmRJZERUV253LVBmZFp1RnZfUkZpSldETW5pNmxxQWhrNG5ZMGxzOXRzc1JFVlM1V3FFdGljazhpNExUdUNyenlNSG8zeUlPTFRORkRrZERJdTl6NjJ5QkRXZUh3ZUJVbmVSLXNrNkpRZkNZWkk3dw?oc=5",
+      "publishedAt": "2026-08-17T20:45:18+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-fifa-confirms-departure-of-senior-executive-kevin-lamour-after-infantino-criticism-gv-wire",
-      "title": "国际足联确认高级执行官凯文·拉莫尔在因凡蒂诺批评后离职 - GV Wire",
+      "title": "国际足联确认高级管理人员凯文·拉莫尔在因凡蒂诺批评后离职 - GV Wire",
       "summary": "国际足联确认高级管理人员凯文·拉莫尔在因凡蒂诺批评后离职 GV Wire",
       "originalTitle": "FIFA Confirms Departure of Senior Executive Kevin Lamour After Infantino Criticism - GV Wire",
       "originalSummary": "FIFA Confirms Departure of Senior Executive Kevin Lamour After Infantino Criticism  GV Wire",
@@ -90,18 +150,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMHhmVDVIa20yRUFRdEdYYVRfNWYzV1oyZnRFTE41eXlrdFhna1hSb1BxR2pmSVZ3Uk5mdkFjVnV6R3BQZ1QxdlNxZ0JuTXlWLVhpckNkQWUzZnVacWRTRTg1US1USndPZURFekpLVF9URDFPRTFESUIxajg4bXFCdWd1NlBlMWN1cjM0OVNyYzBmU3JrVmZIdU1ENDhfSEpBemdaRWg2al84VzJHYmNJcjBJcw?oc=5",
       "publishedAt": "2026-08-17T20:31:08+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-new-zealand-squad-named-for-fifa-u-20-women-s-world-cup-in-poland-friends-of-football",
-      "title": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯 - 足球之友",
-      "summary": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯足球之友",
-      "originalTitle": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland - Friends of Football",
-      "originalSummary": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland  Friends of Football",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkdYTFE0ZmNPOGEtV2JPbTBBSHNOMWdSRjZ3VEVsZEQxUWw2R1hNeEdqUHY1dTVvbXhkOXpSVDJLZk1mc0hwNWJVbFdzSHEzZDJ0N0J4UlpiUVV3ZW43LTFrdUZ6V2FzSXhWeUJxQ2pmTjBYaUJhQk5nT19hT3YzTXpCOThzdDI0dndtSTU2R0staG5abHFEU2lOUVBrYWU4QUZYWlR1cDMxLVFTY2FqS0tn?oc=5",
-      "publishedAt": "2026-08-17T20:30:38+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-france-vs-spain-14-7-2026-fifa-world-cup-2026-maxxine-dupri-41svxry4g0-mshale",
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNc0RwYS1QV01uZlU0ZmxtWlhmUmlHYUR2WjlZa0dzeTZrYlBERUhnZ1NtZjVYR280bFF4SkRQc2o1bnUyOUdBZ3NvZVVJdzJ6S3lJSGhGT0toWUdmaGY2ejBCUlVfaXREWUJFV1NsQmhfNHgzQUM4MWlyaC1wMzkxaG9zMHkyZw?oc=5",
       "publishedAt": "2026-08-17T19:42:16+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-abdulelah-al-amri-goal-saudi-arabia-1-1-uruguay-fifa-world-cup-2026-liga-mx-3ftn1hkvhn-mshale",
-      "title": "阿卜杜拉·阿姆里进球 |沙特阿拉伯 1-1 乌拉圭 | FIFA 世界杯 2026™ Liga Mx (3Ftn1hKVHN) - Mshale",
-      "summary": "阿卜杜拉·阿姆里进球 |沙特阿拉伯 1-1 乌拉圭 | FIFA 世界杯 2026™ Liga Mx (3Ftn1hKVHN)  Mshale",
-      "originalTitle": "Abdulelah Al-Amri Goal | Saudi Arabia 1-1 Uruguay | FIFA World Cup 2026™ Liga Mx (3Ftn1hKVHN) - Mshale",
-      "originalSummary": "Abdulelah Al-Amri Goal | Saudi Arabia 1-1 Uruguay | FIFA World Cup 2026™ Liga Mx (3Ftn1hKVHN)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5ORG9BV3A4R2ItMHpEb0VQMDFMT0pCZWQyMWhEcUlDaV9MWms4eGZTbXpod0YySENmQjhhMFpIWGxYN0VEU0VUdlJyUW55cnVtelp6ZWRGTUZfLUlfSFo2eQ?oc=5",
-      "publishedAt": "2026-08-17T19:40:29+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-森保一2026世界杯后卸任-亚洲杯成最后一舞-手机新浪网",
-      "title": "森保一2026世界杯后卸任，亚洲杯成最后一舞 - 手机新浪网",
-      "summary": "森保一2026世界杯后卸任，亚洲杯成最后一舞  手机新浪网",
-      "originalTitle": "森保一2026世界杯后卸任，亚洲杯成最后一舞 - 手机新浪网",
-      "originalSummary": "森保一2026世界杯后卸任，亚洲杯成最后一舞  手机新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JY2xwLV9TMWg5MlJrMzNMRkxjazZfOEJVdVo2dkREd3gyY2ROVThvQ01Wc3h0Ymg4UUtJS0g0MmJhdGZ2YkhlYU93QUhVSnlLZ3pmY3drZ1NHUEVqQkFvZFBNUzZiOGlJd054SXdjbVhfdw?oc=5",
-      "publishedAt": "2026-08-17T19:25:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-vs-egypt-atlanta-stadium-2026-fifa-world-cup-pes-2021-lee-clark-ovuaff0nky-mshale",
-      "title": "阿根廷 vs 埃及 |亚特兰大体育场| 2026 年世界杯 | PES 2021 李·克拉克 (OVUAFf0nkY) - 姆沙勒",
-      "summary": "阿根廷 vs 埃及 |亚特兰大体育场| 2026 年世界杯 | PES 2021 李·克拉克 (OVUAFf0nkY)  Mshale",
-      "originalTitle": "Argentina Vs Egypt | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Lee Clark (OVUAFf0nkY) - Mshale",
-      "originalSummary": "Argentina Vs Egypt | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Lee Clark (OVUAFf0nkY)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5rWnFVbmR4N3FFc1BNZklYc0FOSVdRS3VJVFdMUFNLUlp1U0w4TUJKWDd6bno4TmM0TGNlWExBQnF3ZlppVHN6b1RYUGo0MWdwcE54Tk1JVldkZkMtZ0dvdw?oc=5",
-      "publishedAt": "2026-08-17T18:40:26+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-highlights-spain-2-1-belgium-fifa-world-cup-2026-benvenuti-al-nord-zxmjanuawl-mshale",
-      "title": "亮点|西班牙2-1比利时| FIFA 世界杯 2026™ Benvenuti Al Nord (ZxMjanuaWL) - Mshale",
-      "summary": "亮点|西班牙2-1比利时| FIFA 世界杯 2026™ Benvenuti Al Nord (ZxMjanuaWL)  Mshale",
-      "originalTitle": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™ Benvenuti Al Nord (ZxMjanuaWL) - Mshale",
-      "originalSummary": "Highlights | Spain 2-1 Belgium | FIFA World Cup 2026™ Benvenuti Al Nord (ZxMjanuaWL)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9mcjVxZGRRNlZsVW9Gc0F0ZFhTWGN2R0wxaVM5bjR2VFlxWlpTZ2tUcVh1dHFCNGdtZFA2eEdpMEkyRmFaYUZwdUVVM0xLV0hQRFJYaGxtaE5FSzF6ekZ3OQ?oc=5",
-      "publishedAt": "2026-08-17T18:13:48+00:00",
-      "heat": 60
     }
   ]
 }
