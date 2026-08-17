@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T21:30:36.506675+00:00",
+  "updatedAt": "2026-08-17T21:54:29.214868+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,11 +8,23 @@
   ],
   "articles": [
     {
-      "id": "google-news-new-caledonia-ready-to-join-new-zealand-at-fifa-u-20-women-s-world-cup-friendsoffootballnz-com",
-      "title": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯 - Friendsoffootballnz.com",
-      "summary": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯 Friendsoffootballnz.com",
-      "originalTitle": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup - friendsoffootballnz.com",
-      "originalSummary": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup  friendsoffootballnz.com",
+      "id": "google-news-fifa-sack-chief-operating-officer-kevin-lamour-after-he-criticised-gianni-infantino-s-plans-to-sell-part-of-",
+      "title": "国际足联解雇了首席运营官凯文·拉莫尔，原因是他批评詹尼·因凡蒂诺向投资者出售部分世界杯赛事的计划 - goal.com",
+      "summary": "国际足联解雇首席运营官凯文·拉莫尔，原因是他批评詹尼·因凡蒂诺向投资者出售部分世界杯赛事的计划 goal.com",
+      "originalTitle": "FIFA sack chief operating officer Kevin Lamour after he criticised Gianni Infantino’s plans to sell part of World Cup to investors - goal.com",
+      "originalSummary": "FIFA sack chief operating officer Kevin Lamour after he criticised Gianni Infantino’s plans to sell part of World Cup to investors  goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOd2RMa0x1ZkpWX0FjMVJiTFEwcnZoNmVXODlfRHh0YlR1WGVmRHNWdjAzTFZmNHZpcE1UQ0huRUdiRlJCNVVJek5WREN6aFkyalkyRlV3OWxOY0dlbC1DY2FRWklwa0VkN21xdlNHYjdMai1sZVVLdTdvTW1vSVNmcXNCc0dkNE1oN1RRQ3VqYlVXM2dHanUtUjdGZW54Sk14cU1GZnNrWXFpVFp4SlVfR1hiMWVpRTZZTTU5cXVaS0UyamNFRnlPby1zQXB2dnRiYXoya3JOeVIwZw?oc=5",
+      "publishedAt": "2026-08-17T21:26:29+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-new-caledonia-ready-to-join-new-zealand-at-fifa-u-20-women-s-world-cup-friends-of-football",
+      "title": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯 - 足球之友",
+      "summary": "新喀里多尼亚准备与新西兰一起参加 FIFA U-20 女子世界杯足球之友",
+      "originalTitle": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup - Friends of Football",
+      "originalSummary": "New Caledonia ready to join New Zealand at FIFA U-20 Women’s World Cup  Friends of Football",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQSlZXd1JURWdVUW1ZVUpGMXZGR2tLaEM0ZzFKclcxS0FrSXRHOE91UHIxZTh5WnlXTUw0aGhXMDg3TWs2NTJwVHducUJMeGVHb00waVFWU241UWN5SUdEbVhScElma1d0dXFsQk9TSjNlT1d0VVlEaGNQN20yR1BJVzVmOHNfX2w1R09ucnI3OUkxbWtMYTFxY0d5ZTFRaXpNR29PQ0ItbV9rN001TmFHdHJVMnZSVjhR?oc=5",
@@ -32,23 +44,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-sack-chief-operating-officer-kevin-lamour-after-he-criticised-gianni-infantino-s-plans-to-sell-part-of-",
-      "title": "国际足联解雇首席运营官凯文·拉莫尔，原因是他批评詹尼·因凡蒂诺向投资者出售部分世界杯赛事的计划 - Goal.com",
-      "summary": "国际足联解雇首席运营官凯文·拉莫尔，原因是他批评詹尼·因凡蒂诺向投资者出售部分世界杯赛事的计划 Goal.com",
-      "originalTitle": "FIFA sack chief operating officer Kevin Lamour after he criticised Gianni Infantino’s plans to sell part of World Cup to investors - Goal.com",
-      "originalSummary": "FIFA sack chief operating officer Kevin Lamour after he criticised Gianni Infantino’s plans to sell part of World Cup to investors  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVFZVelBaVmlzeGVhc1dpMjZQZFIybjIwR2x3a2pIbml4c1hiSzgxZGk2UGhDOGwwTjNuVXYzX1JYdGN2UVItWkJaZ3FUVmhXYWgtSmFyakxHVExhX1BfMlEyVWVSaGNTc0s0ZktGR2w4TjA0ZGctWURkSWdJNXJSbjBXT0V5MWtLU0pmZmJyMXpSdU40WVdlZldjRkF1ZW1aTWZySlBPdEFkNFFQOXNRbnBHay1TSWtqRmc2OUpUT3lhSW1PN2VvVGRTQ200YW12akh1bjZDTzViZw?oc=5",
-      "publishedAt": "2026-08-17T21:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-chief-sacked-after-criticism-of-infantino-s-world-cup-sell-off-plan-the-guardian",
-      "title": "国际足联主席因因凡蒂诺出售世界杯计划受到批评后被解雇 - 英国《卫报》",
-      "summary": "国际足联主席因因凡蒂诺出售世界杯计划受到批评后被解雇",
-      "originalTitle": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan - The Guardian",
-      "originalSummary": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan  The Guardian",
+      "id": "google-news-fifa-chief-sacked-after-criticism-of-infantino-s-world-cup-sell-off-plan-theguardian-com",
+      "title": "国际足联主席因因凡蒂诺出售世界杯计划受到批评后被解雇 - theguardian.com",
+      "summary": "国际足联主席因因凡蒂诺世界杯抛售计划受到批评后被解雇 theguardian.com",
+      "originalTitle": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan - theguardian.com",
+      "originalSummary": "Fifa chief sacked after criticism of Infantino’s World Cup sell-off plan  theguardian.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQaXFnV1NLQ1Q5dHRNNEZ1eVJhRVJpMkl4N3JxeGg2Rko1WEFsR0p4NE15V0oyeUhnN1laRmkzeFNLdE5iRklka3BHSmp5WFdZTkdFVlZyY0NJMUUzdEF0SC1wLU1EcGpuSk41blItS2EwZUVfbzRWTVM1NUdKQUd1SjByY0FabldkeVB4c2cweTZZMHFycWVFRVFTV3UyTE9ETVRzaGJaa1RPZzZGSWZCdFg2dnlrNUhENHZxZi1qYWE?oc=5",
@@ -57,7 +57,7 @@
     },
     {
       "id": "google-news-fifa-confirms-departure-of-senior-executive-kevin-lamour-after-infantino-criticism-gv-wire",
-      "title": "国际足联确认高级管理人员凯文·拉莫尔在因凡蒂诺批评后离职 - GV Wire",
+      "title": "国际足联确认高级执行官凯文·拉莫尔在因凡蒂诺批评后离职 - GV Wire",
       "summary": "国际足联确认高级管理人员凯文·拉莫尔在因凡蒂诺批评后离职 GV Wire",
       "originalTitle": "FIFA Confirms Departure of Senior Executive Kevin Lamour After Infantino Criticism - GV Wire",
       "originalSummary": "FIFA Confirms Departure of Senior Executive Kevin Lamour After Infantino Criticism  GV Wire",
@@ -68,11 +68,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-new-zealand-squad-named-for-fifa-u-20-women-s-world-cup-in-poland-friendsoffootballnz-com",
-      "title": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯 - Friendsoffootballnz.com",
-      "summary": "新西兰队入选 FIFA U-20 波兰女足世界杯 Friendsoffootballnz.com",
-      "originalTitle": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland - friendsoffootballnz.com",
-      "originalSummary": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland  friendsoffootballnz.com",
+      "id": "google-news-new-zealand-squad-named-for-fifa-u-20-women-s-world-cup-in-poland-friends-of-football",
+      "title": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯 - 足球之友",
+      "summary": "新西兰队入选在波兰举行的 FIFA U-20 女子世界杯足球之友",
+      "originalTitle": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland - Friends of Football",
+      "originalSummary": "New Zealand squad named for FIFA U-20 Women’s World Cup in Poland  Friends of Football",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbkdYTFE0ZmNPOGEtV2JPbTBBSHNOMWdSRjZ3VEVsZEQxUWw2R1hNeEdqUHY1dTVvbXhkOXpSVDJLZk1mc0hwNWJVbFdzSHEzZDJ0N0J4UlpiUVV3ZW43LTFrdUZ6V2FzSXhWeUJxQ2pmTjBYaUJhQk5nT19hT3YzTXpCOThzdDI0dndtSTU2R0staG5abHFEU2lOUVBrYWU4QUZYWlR1cDMxLVFTY2FqS0tn?oc=5",
@@ -92,6 +92,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-the-biggest-world-cup-ever-everything-you-need-to-know-about-2026-fifa-world-cup-greg-davies-5ocab5dvfh-msha",
+      "title": "有史以来规模最大的世界杯 — 关于 2026 年 FIFA 世界杯您需要了解的一切 Greg Davies (5OCAB5DvfH) - Mshale",
+      "summary": "有史以来规模最大的世界杯 — 关于 2026 年 FIFA 世界杯您需要了解的一切 Greg Davies (5OCAB5DvfH)  Mshale",
+      "originalTitle": "The BIGGEST World Cup Ever — Everything You Need To Know About 2026 FIFA World Cup Greg Davies (5OCAB5DvfH) - Mshale",
+      "originalSummary": "The BIGGEST World Cup Ever — Everything You Need To Know About 2026 FIFA World Cup Greg Davies (5OCAB5DvfH)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE11WHNBUF9LVlE1UVlrMEZBS2xxelQtX1cwMnhyVEZlcGhhTV9xTXUwVVRPTXlGY3BGanlXSDRDb0FqQWJCQjRlc0toQllQQi1DZVlvVkV5OFRBQ00?oc=5",
+      "publishedAt": "2026-08-17T19:43:31+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-seol-young-woo-s-transfer-hopes-dim-after-world-cup-조선일보",
       "title": "世界杯后雪英宇转会希望渺茫 - 조선일보",
       "summary": "世界杯后雪英宇的转会希望渺茫  조선일보",
@@ -104,15 +116,15 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-森保一确认2026世界杯后离任-亚洲杯成谢幕战-新浪网",
-      "title": "森保一确认2026世界杯后离任，亚洲杯成谢幕战 - 新浪网",
-      "summary": "森保一确认2026世界杯后离任，亚洲杯成谢幕战  新浪网",
-      "originalTitle": "森保一确认2026世界杯后离任，亚洲杯成谢幕战 - 新浪网",
-      "originalSummary": "森保一确认2026世界杯后离任，亚洲杯成谢幕战  新浪网",
+      "id": "google-新闻-中文-森保一2026世界杯后卸任-亚洲杯成最后一舞-手机新浪网",
+      "title": "森保一2026世界杯后卸任，亚洲杯成最后一舞 - 手机新浪网",
+      "summary": "森保一2026世界杯后卸任，亚洲杯成最后一舞  手机新浪网",
+      "originalTitle": "森保一2026世界杯后卸任，亚洲杯成最后一舞 - 手机新浪网",
+      "originalSummary": "森保一2026世界杯后卸任，亚洲杯成最后一舞  手机新浪网",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE43MkZfeG1xWjJ5Z3RneVdMVGVBZU1JWjVsVTBFTTdqdnlmZ0xMMy1mdGxBWFVraEIzMDZORThGNnFCTjdPcTFQN0N3Xy0tRThMaVhXakdvLVBicWMwZW16akhvM1lXS0plNlk2RkFKM3NDUQ?oc=5",
-      "publishedAt": "2026-08-17T19:20:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1JY2xwLV9TMWg5MlJrMzNMRkxjazZfOEJVdVo2dkREd3gyY2ROVThvQ01Wc3h0Ymg4UUtJS0g0MmJhdGZ2YkhlYU93QUhVSnlLZ3pmY3drZ1NHUEVqQkFvZFBNUzZiOGlJd054SXdjbVhfdw?oc=5",
+      "publishedAt": "2026-08-17T19:25:00+00:00",
       "heat": 52
     },
     {
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmZmYzRFN0FVRFNLeVNUY3RrbTRyNnFzSkZYMjk5UGFCZFVWM3NDdUxwNjVZZGQ0YVRCMGVXRDZYcU9uMlljNm1pS0ZCTVluWlJCcV9iOURQcUdKcGtpbm5EMzFjbGZhMnQ0WGs3eE04ODFFd0puRHlaa1Z5R3FXRWtycFhCQkplRFBOOHo4RUVFZU5pN0ZTSXEzVmJBbF8wX3A3dWtvdUM1QW0weUw4VWlOQjlzVDZzdVozQdIBwgFBVV95cUxOMmdZalRsYTNsWnQxWUxMWm5FNnJzSU5OWjYxZml4WDhHelRxS1BXOXdEZVdHeTl0MXlmNTBKc1Jpbi0xWVlROVdkVEtrbE42ekNuX05UeFhQZmZwVi1kY0hXTnNNRUljSTZqanBPUFhsS216dmlEUUZQa0c5UExPdTJfczhBZUlBTHEwbzJUR0xKNUR6aXpicHdRengzVmRFclNjVE5nUFM1dlNPZGZnbnM3Vm13MWU3Z3FCQnlqQzI3dw?oc=5",
       "publishedAt": "2026-08-17T17:07:18+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-mo-the-",
-      "title": "英超联赛将采用 2026 年 FIFA 世界杯的主要规则：倒计时 5 秒、伤病禁赛 1 分钟等 - 印度时报",
-      "summary": "英超联赛将采用 2026 年 FIFA 世界杯的主要规则：倒计时 5 秒、伤病禁赛 1 分钟等",
-      "originalTitle": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and mo - The Times of India",
-      "originalSummary": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and mo  The Times of India",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOEI0M0puZ0JCVXNDdThPXzR4REMwUVJsUjdlOWw0ODhKQkdoSFpmQ0pINjVsY3FpQTJwd21wYmU2V2VKWTFXaDdkYjE5Vk1xWG9nREtKaFpsbmJBWnZMZm4ydFdEcGExdWJ4Qk5hUEtpTHE0aXhDcnpWODRZUjhOQkNHdmJpZHV4MlVYU3c3RExkNXpuWEkyZDRkazRfNmxZWlRGbGY3bUtSbmwyV1RLZ3p4cGRFMzR6MDBFZEV4MGNaVGZtZThvZUE4T3BiYUF6amp3TGc4NkxsVXlCa3ZXaUl2bXE4NzdjY242NjhDZFNjWUIwSEJNNlVxaHBUVEx5OHZOYTA2dkxZQjBWdzVYa9IBlgJBVV95cUxOTmZFRzhhX3pmeGdWODRpaURiRXpRS1ozd0tPX2pmZHdrZ0VhSk9KRGhJQ0l0aEs1VkdmQjQ2R0dubkNTcHZUS19vMnRBSFhLZzVMR1dkNXkwRUNaRmZpTkpRbFg3YnJzZGNkMW52RnpEdjZYMVNqQmg5eEFoR1Y1ZGhic21RYVpHRld1N0pXSjdhamI0U1BvT1RfbHJaWW5QUG5CNXprOUJaaDF1XzY4OGdXbDdKelRiaWRiSmQwYVdwTGVyaC0yeEI4RmhqVWpnSHkxcVZTNEJ3MzdlbjVtSjBQVTBabjJuN0poendsWjlqTE5BRzU4V1lDc2xxODBpM19qeUhZVEVLTjB3VzZzSE5DVVZwQQ?oc=5",
-      "publishedAt": "2026-08-17T16:37:00+00:00",
-      "heat": 68
     }
   ]
 }
