@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T16:33:21.734924+00:00",
+  "updatedAt": "2026-08-17T17:32:01.377287+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,75 @@
   ],
   "articles": [
     {
-      "id": "google-news-world-cup-mvp-rodri-joins-barcelona-조선일보",
-      "title": "世界杯 MVP 罗德里加盟巴塞罗那 - 조선일보",
-      "summary": "世界杯 MVP 罗德里加盟巴塞罗那",
-      "originalTitle": "World Cup MVP Rodri Joins Barcelona - 조선일보",
-      "originalSummary": "World Cup MVP Rodri Joins Barcelona  조선일보",
+      "id": "google-news-premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-mo-the-",
+      "title": "英超联赛将采用 2026 年 FIFA 世界杯的主要规则：倒计时 5 秒、伤病禁赛 1 分钟等 - 印度时报",
+      "summary": "英超联赛将采用 2026 年 FIFA 世界杯的主要规则：倒计时 5 秒、伤病禁赛 1 分钟等",
+      "originalTitle": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and mo - The Times of India",
+      "originalSummary": "Premier League to adopt major rules seen at 2026 FIFA World Cup: 5-sec countdown, 1-min injury ban and mo  The Times of India",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOOEI0M0puZ0JCVXNDdThPXzR4REMwUVJsUjdlOWw0ODhKQkdoSFpmQ0pINjVsY3FpQTJwd21wYmU2V2VKWTFXaDdkYjE5Vk1xWG9nREtKaFpsbmJBWnZMZm4ydFdEcGExdWJ4Qk5hUEtpTHE0aXhDcnpWODRZUjhOQkNHdmJpZHV4MlVYU3c3RExkNXpuWEkyZDRkazRfNmxZWlRGbGY3bUtSbmwyV1RLZ3p4cGRFMzR6MDBFZEV4MGNaVGZtZThvZUE4T3BiYUF6amp3TGc4NkxsVXlCa3ZXaUl2bXE4NzdjY242NjhDZFNjWUIwSEJNNlVxaHBUVEx5OHZOYTA2dkxZQjBWdzVYa9IBlgJBVV95cUxOTmZFRzhhX3pmeGdWODRpaURiRXpRS1ozd0tPX2pmZHdrZ0VhSk9KRGhJQ0l0aEs1VkdmQjQ2R0dubkNTcHZUS19vMnRBSFhLZzVMR1dkNXkwRUNaRmZpTkpRbFg3YnJzZGNkMW52RnpEdjZYMVNqQmg5eEFoR1Y1ZGhic21RYVpHRld1N0pXSjdhamI0U1BvT1RfbHJaWW5QUG5CNXprOUJaaDF1XzY4OGdXbDdKelRiaWRiSmQwYVdwTGVyaC0yeEI4RmhqVWpnSHkxcVZTNEJ3MzdlbjVtSjBQVTBabjJuN0poendsWjlqTE5BRzU4V1lDc2xxODBpM19qeUhZVEVLTjB3VzZzSE5DVVZwQQ?oc=5",
+      "publishedAt": "2026-08-17T16:37:00+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-who-are-the-indian-origin-players-at-the-2026-fifa-world-cup-wion-sports-gdf-owpdklt6ww-mshale",
+      "title": "2026 年 FIFA 世界杯的印度裔球员有哪些？ | WION Sports Gdf (owpdklt6Ww) - Mshale",
+      "summary": "2026 年 FIFA 世界杯的印度裔球员有哪些？ | WION Sports Gdf (owpdklt6Ww) Mshale",
+      "originalTitle": "Who Are The Indian-Origin Players At The 2026 FIFA World Cup? | WION Sports Gdf (owpdklt6Ww) - Mshale",
+      "originalSummary": "Who Are The Indian-Origin Players At The 2026 FIFA World Cup? | WION Sports Gdf (owpdklt6Ww)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE81cGNIblFUazVzOEw1SXZoaGdkT0pyNXdkLTdycUd3OE1FTDFfTk5VZU9nVm9HRUtTWnRINmg3NlhIQ1c3TjRhRU9NR293N3ZXR010QzYwRnp0cWM?oc=5",
+      "publishedAt": "2026-08-17T16:28:03+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-mvp-rodri-joins-barcelona-chosun-com",
+      "title": "世界杯MVP罗德里加盟巴塞罗那 - chosun.com",
+      "summary": "世界杯 MVP 罗德里加盟巴塞罗那 chosun.com",
+      "originalTitle": "World Cup MVP Rodri Joins Barcelona - chosun.com",
+      "originalSummary": "World Cup MVP Rodri Joins Barcelona  chosun.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FlRlZ0d01XLWx6cFd5NTBHYWJwODBYcFhWTTUwMEl1dll3OFFOXzRaMTJHLWxEVWZSTEU2Vm9nUVpnVkFCUU9sQWVGVWJQTDBJTVBKa2ktSjAxelAyZmNObE9FakRPeGtFMGw3dnZlSkJkbVZzRW51aWdCNzdEYWktd1BkQQ?oc=5",
       "publishedAt": "2026-08-17T15:56:21+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
+      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
+      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
+      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
+      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "publishedAt": "2026-08-17T15:27:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-argentina-vs-algeria-wc26-preparation-match-efootball-4k-gameplay-trey-yesavage-c1fjxcri",
+      "title": "2026 年国际足联世界杯 |阿根廷 vs 阿尔及利亚 | WC26备战赛 | EFFootball 4K 游戏 Trey Yesavage (C1fJxcriw2) - Mshale",
+      "summary": "2026 年国际足联世界杯 |阿根廷 vs 阿尔及利亚 | WC26备战赛 | EFootball 4K 游戏 Trey Yesavage (C1fJxcriw2)  Mshale",
+      "originalTitle": "FIFA World Cup 2026 | ARGENTINA Vs ALGERIA | WC26 Preparation Match | EFootball 4K Gameplay Trey Yesavage (C1fJxcriw2) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 | ARGENTINA Vs ALGERIA | WC26 Preparation Match | EFootball 4K Gameplay Trey Yesavage (C1fJxcriw2)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10alJaMmFSck1JY2pYWmJXYlpXRld2YXd4VlZpNVNKN2sxSFEtMTJ4X1VjT3RpSU0xMzBuamVwUDFvUW1ERnhJNXhFNGJUcVMxT1dUb3BkWGR2dnByM2VVNQ?oc=5",
+      "publishedAt": "2026-08-17T14:48:27+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-most-world-cup-goals-by-country-1930-2026-who-s-the-all-time-king-tulsi-gabbard-ykbe6hckyi-mshale",
+      "title": "世界杯进球最多的国家（1930-2026） ⚽ 谁是历史之王？图尔西·加巴德 (ykbe6hCkYI) - Mshale",
+      "summary": "世界杯进球最多的国家（1930-2026） ⚽ 谁是历史之王？图尔西加巴德 (ykbe6hCkYI)  Mshale",
+      "originalTitle": "Most World Cup Goals By Country (1930–2026) ⚽ Who's The All-Time King? Tulsi Gabbard (ykbe6hCkYI) - Mshale",
+      "originalSummary": "Most World Cup Goals By Country (1930–2026) ⚽ Who's The All-Time King? Tulsi Gabbard (ykbe6hCkYI)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4wYkRiVGZHTVBBX2pvMWt6YmFCOHhlSUhMbUFzVTcwTW1GVS04UVVCRW16WDY5Xy1xZ25jSWNsSEl0dWFfVmxCdHhKQWRpSDVaai0xS3BnQVFlTzg?oc=5",
+      "publishedAt": "2026-08-17T14:43:23+00:00",
       "heat": 52
     },
     {
@@ -42,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qN2NBaXFYS1lOMGpCSnQzcnpHUFBHLS0xLTd5alQ4R2lPclhKSFlmQkhFSFZXaFVfczdybFU0Y05KTWNxVmRVOUVjS2FqR01nMnRxMXRlaDN1SHlWWU5jcA?oc=5",
       "publishedAt": "2026-08-17T14:28:14+00:00",
       "heat": 68
+    },
+    {
+      "id": "google-news-fc-26-portugal-vs-croatia-fifa-world-cup-2026-round-of-32-full-match-pc-4k60-buc-ee-s-2fxzqax2gd-mshale",
+      "title": "FC 26 - 葡萄牙 VS 葡萄牙克罗地亚 - FIFA 2026 年世界杯 32 强完整比赛 | PC™ [4K60] Buc-ee (2fxZQaX2Gd) - Mshale",
+      "summary": "FC 26 - 葡萄牙 VS 葡萄牙克罗地亚 - FIFA 2026 年世界杯 32 强完整比赛 | PC™ [4K60] Buc-ee (2fxZQaX2Gd)  Mshale",
+      "originalTitle": "FC 26 - Portugal Vs. Croatia - FIFA World Cup 2026 Round Of 32 Full Match | PC™ [4K60] Buc-ee's (2fxZQaX2Gd) - Mshale",
+      "originalSummary": "FC 26 - Portugal Vs. Croatia - FIFA World Cup 2026 Round Of 32 Full Match | PC™ [4K60] Buc-ee's (2fxZQaX2Gd)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE11ZEdudUliSzllSWdZUTl6U1FUQXRBRkpxY3c3b3ZSWDZIWEZYd1Bmb1o0WWU1OFJCXzdsV2RQSElCV3BVYXVEbTNKbzlhalR1T0ZVRGhYOGk1TWVhVmlSRA?oc=5",
+      "publishedAt": "2026-08-17T14:27:01+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-portugal-vs-croatia-2026-fifa-world-cup-round-of-32-cass-the-cat-prediction-poet-stock-riyxibdbbk-mshale",
@@ -81,10 +153,10 @@
     },
     {
       "id": "google-news-skydio-drones-surpass-10-000-flights-at-fifa-world-cup-2026-startuphub-ai",
-      "title": "Skydio 无人机在 2026 年 FIFA 世界杯上飞行次数突破 10,000 次 -startuphub.ai",
-      "summary": "Skydio 无人机在 2026 年 FIFA 世界杯上飞行次数突破 10,000 次startuphub.ai",
-      "originalTitle": "Skydio Drones Surpass 10,000 Flights at FIFA World Cup 2026 - startuphub.ai",
-      "originalSummary": "Skydio Drones Surpass 10,000 Flights at FIFA World Cup 2026  startuphub.ai",
+      "title": "Skydio 无人机在 2026 年 FIFA 世界杯上飞行次数突破 10,000 次 - StartupHub.ai",
+      "summary": "Skydio 无人机在 2026 年 FIFA 世界杯上飞行次数突破 10,000 次 StartupHub.ai",
+      "originalTitle": "Skydio Drones Surpass 10,000 Flights at FIFA World Cup 2026 - StartupHub.ai",
+      "originalSummary": "Skydio Drones Surpass 10,000 Flights at FIFA World Cup 2026  StartupHub.ai",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUzNHSFE0VXNKc2NZaGNEa1lDZGVxNTU4bnVfR2h5YVJ4djZUbmU3V3YwN0JvM1p5bmRHZUhHbGkyYVloNk9FdjQxM1ZTTnFjNlU4SW1jUjBrX3FlcHV5R1l3dC1FU0tyVE52WEx4Yk0zSkw5aHVBbTJmUlRGckJzLWdGOV9rNUNMdUVQb2pDdkMyTUJ5M3JWVVZiTmF0LVhwdFI4SHdzMTN0Zw?oc=5",
@@ -102,6 +174,18 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQUpZVE9DM19ONk90Rng5MHYyVllHLTBIREJheWdGU05iWFRJWGp3cnVZeXZOR3NfWm5kemZraTYwOElQcWJPdXlnanF4andrcGFsSHRsUE5hNzQ5ODFnZg?oc=5",
       "publishedAt": "2026-08-17T14:17:10+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-why-england-could-beat-argentina-and-reach-the-2026-world-cup-final-kris-knoblauch-xxnkgrmk1r-mshale",
+      "title": "为什么英格兰能够击败阿根廷并进入 2026 年世界杯决赛 Kris Knoblauch (XXNKgRmk1r) - Mshale",
+      "summary": "为什么英格兰能够击败阿根廷并进入 2026 年世界杯决赛 Kris Knoblauch (XXNKgRmk1r)  Mshale",
+      "originalTitle": "Why England Could Beat Argentina And Reach The 2026 World Cup Final Kris Knoblauch (XXNKgRmk1r) - Mshale",
+      "originalSummary": "Why England Could Beat Argentina And Reach The 2026 World Cup Final Kris Knoblauch (XXNKgRmk1r)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HU2N5SWdwd052Ylo0Zk1YZzQ2a0RfWTIxX2I2QkZXX211UDhqcDBMUEVYS2ZiWjdMU0lJLWhoYXBxbklZenhMdWdLRE5CY3BvdDlCNEZEWTk0TlJTajRSRA?oc=5",
+      "publishedAt": "2026-08-17T14:07:03+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-spain-france-argentina-and-england-eyeing-2026-fifa-world-cup-trophy-joe-gomez-mei74nvr8o-mshale",
@@ -128,99 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-germany-official-squad-for-fifa-world-cup-2026-germany-fifa-world-cup-2026-emma-marrone-egaf5kt9u3-mshale",
-      "title": "德国 2026 年世界杯官方阵容 |德国 | FIFA 世界杯 2026 艾玛·马罗内 (egaF5kt9U3) - Mshale",
-      "summary": "德国 2026 年世界杯官方阵容 |德国 | FIFA 世界杯 2026 艾玛·马龙 (egaF5kt9U3)  Mshale",
-      "originalTitle": "Germany Official Squad For FIFA World Cup 2026 | Germany | FIFA World Cup 2026 Emma Marrone (egaF5kt9U3) - Mshale",
-      "originalSummary": "Germany Official Squad For FIFA World Cup 2026 | Germany | FIFA World Cup 2026 Emma Marrone (egaF5kt9U3)  Mshale",
+      "id": "google-news-álex-baena-goal-uruguay-0-1-spain-fifa-world-cup-2026-eurovision-2026-wrmpcar0x9-mshale",
+      "title": "阿莱克斯·巴埃纳 进球 |乌拉圭0-1西班牙| FIFA 世界杯 2026™ 欧洲歌唱大赛 2026 (wRMPCAr0x9) - Mshale",
+      "summary": "阿莱克斯·巴埃纳 进球 |乌拉圭0-1西班牙| FIFA 世界杯 2026™ 欧洲歌唱大赛 2026 (wRMPCAr0x9)  Mshale",
+      "originalTitle": "Álex Baena Goal | Uruguay 0-1 Spain | FIFA World Cup 2026™ Eurovision 2026 (wRMPCAr0x9) - Mshale",
+      "originalSummary": "Álex Baena Goal | Uruguay 0-1 Spain | FIFA World Cup 2026™ Eurovision 2026 (wRMPCAr0x9)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9xS0otS2YtRFJOQWFDb3QwdExSR044WGFpSVEtLU1GaWtjNmxnaDdxYXV4QlRORV9QM2VyTS02R0o0TkZhUU85MkZQN0xPdkI4MVpEMmtKSFJMT29QdDBIeQ?oc=5",
-      "publishedAt": "2026-08-17T13:51:21+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-rodri-set-to-arrive-as-barcelona-finalize-transfer-of-spain-captain-from-man-city-fox-sports",
-      "title": "罗德里将抵达巴塞罗那完成西班牙队长从曼城的转会 - 福克斯体育",
-      "summary": "罗德里将在巴塞罗那完成从曼城转会西班牙队长之际抵达 福克斯体育",
-      "originalTitle": "Rodri set to arrive as Barcelona finalize transfer of Spain captain from Man City - FOX Sports",
-      "originalSummary": "Rodri set to arrive as Barcelona finalize transfer of Spain captain from Man City  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObGt0Yi1ES0F6dEwwbXcwamVOamt3ZF8yejlITnVDLVBfR0pfRHhzdXNjQ3hiUTNiR1cyQ0NMSlBESlJLaVNLOVF0T0E0STdzZm1vOEo0bXZxaWdNSXB2NTAwQ2ptcTVmY3RDeGlUUm1UVUktbWVmX2cteUJ0VzBXOEl4eTE1MlBMOUo3MlVST3JSV0hTcGdnV09aVjRyTGhfVFAzNjg3Y3JidDYzWDVNVnBXdmpKYjFNbnZ4Vk9tcDc?oc=5",
-      "publishedAt": "2026-08-17T13:45:02+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-houston-on-list-of-potential-host-cities-for-2031-fifa-women-s-world-cup-abc13-houston",
-      "title": "休斯顿列入 2031 年 FIFA 女足世界杯潜在主办城市名单 - ABC13 Houston",
-      "summary": "休斯顿列入 2031 年 FIFA 女足世界杯潜在主办城市名单 ABC13 休斯顿",
-      "originalTitle": "Houston on list of potential host cities for 2031 FIFA Women's World Cup - ABC13 Houston",
-      "originalSummary": "Houston on list of potential host cities for 2031 FIFA Women's World Cup  ABC13 Houston",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT1JPWlcxMlZqWTd0TVBDSnVqZGRMb01QcjMzZl8xRFVONEdWdlFCQTBsOVdJTFRIb2tuRGF5R3RxckRjcGNGeFZpNXJhTl85VVl5RkFDd3BBTlI3VWJXN1MxQlZxV3hyVWRQTkpqQXVTSUFHd0pKR0ZndmZCUmU3V2VBczBZTFVPYXpJN2gwSU44Y2VaZFBVb3BR0gGfAUFVX3lxTE5hWDNxbTVHTUlYd0M3WXRqU3RQMUlJQjNpeWE1bFE3c2xGM2hrbmtwdmJ6akNhY2cxejU1WHE1cU9DaXJsbnZNSUNDZ0JVMzEwY2NUanZabjlxeEFnYTVGY1lDWlY3eGRzRVNyWkRFSXd3X2dablVla0ZwSEMxdUJaQXNVanhDY1ZRZjdCNnFKdEx0Z3ZEUl9BZGZFMW5MWQ?oc=5",
-      "publishedAt": "2026-08-17T13:30:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-egypt-goal-disallowed-by-var-argentina-vs-egypt-fifa-world-cup-2026-هدف-مصري-ملغي-francis-scott-key-bridge-t",
-      "title": "埃及进球被VAR判定无效！阿根廷VS埃及| FIFA 世界杯 2026，弗朗西斯·斯科特基桥 (tKHFAwefGf) - Mshale",
-      "summary": "埃及进球被VAR判定无效！阿根廷VS埃及| 2026 年 FIFA 世界杯，Francis Scott Key Bridge (tKHFAwefGf) Mshale",
-      "originalTitle": "Egypt Goal DISALLOWED By VAR! Argentina Vs Egypt | FIFA World Cup 2026, هدف مصري ملغي Francis Scott Key Bridge (tKHFAwefGf) - Mshale",
-      "originalSummary": "Egypt Goal DISALLOWED By VAR! Argentina Vs Egypt | FIFA World Cup 2026, هدف مصري ملغي Francis Scott Key Bridge (tKHFAwefGf)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1OMndybHhEeDdIejVGWGtwc194SWJvR0pCYkdHc1p1cFNFUXVBVnU4ckRoVUNfaGZvN2tlSHFGdVpETUlzZDZoSU5uX0VJYWFYYTI2Wk9rODZ4NEhsSHcxRg?oc=5",
-      "publishedAt": "2026-08-17T13:26:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-mexico-vs-england-live-watch-party-of-2026-world-cup-matteo-arnaldi-jyddxhof0q-mshale",
-      "title": "墨西哥对阵英格兰：2026 年世界杯直播观看派对 Matteo Arnaldi (jYDdXhoF0Q) - Mshale",
-      "summary": "墨西哥对阵英格兰：2026 年世界杯直播观看派对 Matteo Arnaldi (jYDdXhoF0Q)  Mshale",
-      "originalTitle": "Mexico Vs England: LIVE Watch Party Of 2026 World Cup Matteo Arnaldi (jYDdXhoF0Q) - Mshale",
-      "originalSummary": "Mexico Vs England: LIVE Watch Party Of 2026 World Cup Matteo Arnaldi (jYDdXhoF0Q)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE41bGstNDFFamFsWXFKem12RjM1ZXVFUkpvMUR4WjhVekQ2YUV0Z1MxT0FGbktIZVRNUTA3ZENkX09oT1NZNlVFdjlxTVNlLU5NWXV0ZUh6cGJVSzQ?oc=5",
-      "publishedAt": "2026-08-17T13:26:26+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-vs-england-live-semifinals-july-12-2026-fifa-world-cup-2026-full-match-simulation-14-may-jucilmyrg",
-      "title": "🇦🇷 阿根廷对阵英格兰直播 |半决赛 | 2026 年 7 月 12 日 FIFA 世界杯 2026 全场比赛模拟 5 月 14 日 (jucilMyrGS) - Mshale",
-      "summary": "🇦🇷 阿根廷对阵英格兰直播 |半决赛 | 2026 年 7 月 12 日 FIFA 2026 年世界杯全场比赛模拟 5 月 14 日 (jucilMyrGS)  Mshale",
-      "originalTitle": "🇦🇷 Argentina Vs England LIVE | Semifinals | July 12, 2026 FIFA World Cup 2026 Full Match Simulation 14-May (jucilMyrGS) - Mshale",
-      "originalSummary": "🇦🇷 Argentina Vs England LIVE | Semifinals | July 12, 2026 FIFA World Cup 2026 Full Match Simulation 14-May (jucilMyrGS)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rcDFVRy1SRXNzbjdzcVBoaEExakMtTWxFVHRxOWtUNl9VelRSeTNUZ25Ec1dxLW1WLTJTbGdDbHpuOHNCQmk0TTJCa1dKamFwaEhzblRiMl9FTUtVd1psMg?oc=5",
-      "publishedAt": "2026-08-17T13:23:47+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-côte-d-ivoire-vs-norway-highlight-fifa-world-cup-2026-fifa-world-cup-2026-trump-iran-ceasefire-eujz1r9z1r-ms",
-      "title": "科特迪瓦 vs 挪威 2026 年 FIFA 世界杯亮点#FIFA 世界杯 2026 特朗普伊朗停火 (eujz1R9z1R) - Mshale",
-      "summary": "科特迪瓦 vs 挪威 2026 年 FIFA 世界杯亮点#FIFA 2026 年世界杯 特朗普伊朗停火 (eujz1R9z1R)  Mshale",
-      "originalTitle": "Côte D'Ivoire Vs Norway Highlight FIFA World Cup 2026 #FIFA World Cup 2026 Trump Iran Ceasefire (eujz1R9z1R) - Mshale",
-      "originalSummary": "Côte D'Ivoire Vs Norway Highlight FIFA World Cup 2026 #FIFA World Cup 2026 Trump Iran Ceasefire (eujz1R9z1R)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9WYW1BWWo5cWdvTzlWeXVKd3hmMkR6MUJEX3pzVTVwbUczZmtGX0lrc0d6aDBFU1lUSmdGNXlVZUZvOFc5NFUyYlVlSWhROWVxMUJ4dndLbm1uZ3lHeC1hcg?oc=5",
-      "publishedAt": "2026-08-17T13:23:26+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-england-vs-dr-congo-round-of-32-preview-alaskaair-5xz9eotmu8-mshale",
-      "title": "2026 年 FIFA 世界杯英格兰对阵刚果民主共和国 - 32 强 - 预览阿拉斯加航空 (5xZ9eOTmu8) - Mshale",
-      "summary": "2026 年 FIFA 世界杯英格兰对阵刚果民主共和国 - 32 强 - 预览阿拉斯加航空 (5xZ9eOTmu8)  Mshale",
-      "originalTitle": "2026 FIFA World Cup England Vs DR Congo - Round Of 32 - Preview Alaskaair (5xZ9eOTmu8) - Mshale",
-      "originalSummary": "2026 FIFA World Cup England Vs DR Congo - Round Of 32 - Preview Alaskaair (5xZ9eOTmu8)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA2cVFDMzJBalFYakJDeWdEWUF2TnYzaGl3UmQwRGxhbVFHNkxxZVZoNVh1cTZUSi1BSDNzS3JOUnJGRUlseTFRSUxnRTZ0cVQxaVBNMl9ESzlrTE5LMXdEaw?oc=5",
-      "publishedAt": "2026-08-17T13:22:03+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTUdKcnI2azduc0pIVWlZQXh4cThiNjlkblZzQUZuMG9NRUNxRlIwb0RJcUNCYXFJYWJrZUhVaGNfcmFiVHRjZTBpU3JfWDBfeW1CMWYzY0psQQ?oc=5",
+      "publishedAt": "2026-08-17T13:56:38+00:00",
       "heat": 60
     }
   ]
