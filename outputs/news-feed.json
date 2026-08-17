@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-17T17:32:01.377287+00:00",
+  "updatedAt": "2026-08-17T18:46:25.544419+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-lionel-messi-gets-huge-eafc-27-ratings-boost-after-2026-world-cup-as-cristiano-ronaldo-misses-out-on-top-27-",
+      "title": "2026 年世界杯后，莱昂内尔·梅西 (Lionel Messi) 的 EAFC 27 收视率大幅提升，克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 无缘前 27 名 - World Soccer Talk",
+      "summary": "2026 年世界杯后，莱昂内尔·梅西 (Lionel Messi) 的 EAFC 27 收视率大幅提升，因为克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 错过了世界足球谈话 27 强",
+      "originalTitle": "Lionel Messi gets huge EAFC 27 ratings boost after 2026 World Cup as Cristiano Ronaldo misses out on Top 27 - World Soccer Talk",
+      "originalSummary": "Lionel Messi gets huge EAFC 27 ratings boost after 2026 World Cup as Cristiano Ronaldo misses out on Top 27  World Soccer Talk",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPeHlNRWNFcVFFUmdKNzFQQUgzalMyQkVqcE51cWgtTXJDYlBVN1lDZHFMYjMxSDJNaGdiUE1seU41aGhJYUxLTGFzTGQzR1ZIX2Jmd3NIczBNcWNDTUkzTVpmYzRvaWF2SXBPdVhTdEdsVjY2VGY2NE1ENjZ5aXE0ZHFuUmZSUGVrUnFFc3BueUI1UTNEWWk4Z1hORUdJVkt3UlZuWnlyUWdPaUNYeHc3N0pQTTJtbzBfRkc2T2g1ZlR0R2JtNGEzbjJSQzM1Q2Nvci1wakxhNU3SAdwBQVVfeXFMTnRpekNfd3A2bDVsUHloNHA5UHFQSWZoVGVMY0M0X2NPS25xSTI2ejVPXzhXT2Y5bVlhalJkcEdJaGJ2UENKTUcwQ0VFblBadzZqMUFMWEpKMklMR2R4RmR2SWowa2pfTlhaeV9vdlhOT3NqcEoyMEx2cU9fNGJUX1VTalhmZzBNamJKc2cxcGlZaHF4amtUZmxKSTBsMWxSRVBLNV9WX2RJb09OdlBBdlBlTGFXMnlQTFVlVnN6NWctc2g4WHRUWEoyS3NmM1BvOGhyNktMUS1pT1lmYw?oc=5",
+      "publishedAt": "2026-08-17T17:50:24+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-india-u15-football-camp-how-aiff-scouted-12-000-players-for-fifa-u-15-world-cup-2026-openthemagazine-com",
+      "title": "印度 U15 足球训练营：AIFF 如何为 2026 年 FIFA U-15 世界杯物色 12,000 名球员 - openthemagazine.com",
+      "summary": "印度 U15 足球训练营：AIFF 如何为 2026 年 FIFA U-15 世界杯物色 12,000 名球员 openthemagazine.com",
+      "originalTitle": "India U15 Football Camp: How AIFF Scouted 12,000 Players for FIFA U-15 World Cup 2026 - openthemagazine.com",
+      "originalSummary": "India U15 Football Camp: How AIFF Scouted 12,000 Players for FIFA U-15 World Cup 2026  openthemagazine.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcGFsQkR5c0xNSnBKbDE5Y2t3ZGhmWjZkSVI4UlJhdUV2R21fUVVXVmdkcDZCdGdYYkQyQUNjcXJaMEZBTTM1clZ5dHp2VENRX05OWXRIWG43MHVyNHpLeWcydXR5aDNYQkNlTTZITFVQMUNHUTRmcUNqdUFBb2VndERibDNDWXlyRG1IZE5WdHJFX0p2Q1RlbFA4YXJHOVhWZkxGSnU2cWtaYXhacWNhZldxRkExUXZjdmc?oc=5",
+      "publishedAt": "2026-08-17T17:28:55+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-india-s-u15-football-team-begins-journey-to-fifa-world-cup-2026-devdiscourse",
+      "title": "印度 U15 足球队开始征战 2026 年 FIFA 世界杯 - Devdiscourse",
+      "summary": "印度 U15 足球队开始征战 2026 年 FIFA 世界杯",
+      "originalTitle": "India's U15 Football Team Begins Journey to FIFA World Cup 2026 - Devdiscourse",
+      "originalSummary": "India's U15 Football Team Begins Journey to FIFA World Cup 2026  Devdiscourse",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMmZmYzRFN0FVRFNLeVNUY3RrbTRyNnFzSkZYMjk5UGFCZFVWM3NDdUxwNjVZZGQ0YVRCMGVXRDZYcU9uMlljNm1pS0ZCTVluWlJCcV9iOURQcUdKcGtpbm5EMzFjbGZhMnQ0WGs3eE04ODFFd0puRHlaa1Z5R3FXRWtycFhCQkplRFBOOHo4RUVFZU5pN0ZTSXEzVmJBbF8wX3A3dWtvdUM1QW0weUw4VWlOQjlzVDZzdVozQdIBwgFBVV95cUxOMmdZalRsYTNsWnQxWUxMWm5FNnJzSU5OWjYxZml4WDhHelRxS1BXOXdEZVdHeTl0MXlmNTBKc1Jpbi0xWVlROVdkVEtrbE42ekNuX05UeFhQZmZwVi1kY0hXTnNNRUljSTZqanBPUFhsS216dmlEUUZQa0c5UExPdTJfczhBZUlBTHEwbzJUR0xKNUR6aXpicHdRengzVmRFclNjVE5nUFM1dlNPZGZnbnM3Vm13MWU3Z3FCQnlqQzI3dw?oc=5",
+      "publishedAt": "2026-08-17T17:07:18+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-premier-league-to-adopt-major-rules-seen-at-2026-fifa-world-cup-5-sec-countdown-1-min-injury-ban-and-mo-the-",
       "title": "英超联赛将采用 2026 年 FIFA 世界杯的主要规则：倒计时 5 秒、伤病禁赛 1 分钟等 - 印度时报",
@@ -32,11 +68,23 @@
       "heat": 60
     },
     {
-      "id": "google-news-world-cup-mvp-rodri-joins-barcelona-chosun-com",
-      "title": "世界杯MVP罗德里加盟巴塞罗那 - chosun.com",
-      "summary": "世界杯 MVP 罗德里加盟巴塞罗那 chosun.com",
-      "originalTitle": "World Cup MVP Rodri Joins Barcelona - chosun.com",
-      "originalSummary": "World Cup MVP Rodri Joins Barcelona  chosun.com",
+      "id": "google-news-scotland-s-road-to-the-usa-every-scotland-2026-world-cup-qualification-match-2026-fifa-world-cup-posh-spice-",
+      "title": "苏格兰通往美国之路|每场苏格兰 2026 年世界杯预选赛 | 2026 年 FIFA 世界杯豪华香料 (6ApSUixX2U) - Mshale",
+      "summary": "苏格兰通往美国之路|每场苏格兰 2026 年世界杯预选赛 | 2026 年 FIFA 世界杯豪华香料 (6ApSUixX2U)  Mshale",
+      "originalTitle": "Scotland's Road To The USA | EVERY Scotland 2026 World Cup Qualification Match | 2026 FIFA World Cup Posh Spice (6ApSUixX2U) - Mshale",
+      "originalSummary": "Scotland's Road To The USA | EVERY Scotland 2026 World Cup Qualification Match | 2026 FIFA World Cup Posh Spice (6ApSUixX2U)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE15RXNVbnhKRjQzU1M3c1VkT0xhd0JYT3dzYVRSY1hSb3hzZWZWMW9iTWRyWmtOODNxM0dpQ3ZvY1g4d1ZhX0pDSWJKcXF2N1lyUVdYMTEzVkJVTC1sOEEzMA?oc=5",
+      "publishedAt": "2026-08-17T16:10:38+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-mvp-rodri-joins-barcelona-조선일보",
+      "title": "世界杯 MVP 罗德里加盟巴塞罗那 - 조선일보",
+      "summary": "世界杯 MVP 罗德里加盟巴塞罗那",
+      "originalTitle": "World Cup MVP Rodri Joins Barcelona - 조선일보",
+      "originalSummary": "World Cup MVP Rodri Joins Barcelona  조선일보",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQX0FlRlZ0d01XLWx6cFd5NTBHYWJwODBYcFhWTTUwMEl1dll3OFFOXzRaMTJHLWxEVWZSTEU2Vm9nUVpnVkFCUU9sQWVGVWJQTDBJTVBKa2ktSjAxelAyZmNObE9FakRPeGtFMGw3dnZlSkJkbVZzRW51aWdCNzdEYWktd1BkQQ?oc=5",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pQUpZVE9DM19ONk90Rng5MHYyVllHLTBIREJheWdGU05iWFRJWGp3cnVZeXZOR3NfWm5kemZraTYwOElQcWJPdXlnanF4andrcGFsSHRsUE5hNzQ5ODFnZg?oc=5",
       "publishedAt": "2026-08-17T14:17:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-why-england-could-beat-argentina-and-reach-the-2026-world-cup-final-kris-knoblauch-xxnkgrmk1r-mshale",
-      "title": "为什么英格兰能够击败阿根廷并进入 2026 年世界杯决赛 Kris Knoblauch (XXNKgRmk1r) - Mshale",
-      "summary": "为什么英格兰能够击败阿根廷并进入 2026 年世界杯决赛 Kris Knoblauch (XXNKgRmk1r)  Mshale",
-      "originalTitle": "Why England Could Beat Argentina And Reach The 2026 World Cup Final Kris Knoblauch (XXNKgRmk1r) - Mshale",
-      "originalSummary": "Why England Could Beat Argentina And Reach The 2026 World Cup Final Kris Knoblauch (XXNKgRmk1r)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HU2N5SWdwd052Ylo0Zk1YZzQ2a0RfWTIxX2I2QkZXX211UDhqcDBMUEVYS2ZiWjdMU0lJLWhoYXBxbklZenhMdWdLRE5CY3BvdDlCNEZEWTk0TlJTajRSRA?oc=5",
-      "publishedAt": "2026-08-17T14:07:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-spain-france-argentina-and-england-eyeing-2026-fifa-world-cup-trophy-joe-gomez-mei74nvr8o-mshale",
-      "title": "西班牙、法国、阿根廷和英格兰瞄准 2026 年 FIFA 世界杯奖杯 乔·戈麦斯 (MEI74nVr8o) - Mshale",
-      "summary": "西班牙、法国、阿根廷和英格兰瞄准 2026 年 FIFA 世界杯奖杯 乔·戈麦斯 (MEI74nVr8o)  Mshale",
-      "originalTitle": "Spain, France, Argentina And England Eyeing 2026 FIFA World Cup Trophy Joe Gomez (MEI74nVr8o) - Mshale",
-      "originalSummary": "Spain, France, Argentina And England Eyeing 2026 FIFA World Cup Trophy Joe Gomez (MEI74nVr8o)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE80NDhHcURuR1Y0N2p4bVlud01VQ0lOekxuaWNfeVhfUXpaUXBPaGY2TGtDM1NMeTZsT2Jlb0NTOWwzeDNPT1ZvT0VNSUNsZTRnUzdBc0IzM2txOTQ?oc=5",
-      "publishedAt": "2026-08-17T14:03:05+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-attacks-on-sports-betting-platforms-during-the-2026-fifa-world-cup-small-wars-journal",
-      "title": "2026 年 FIFA 世界杯期间体育博彩平台遭受的攻击 - Small Wars Journal",
-      "summary": "2026 年 FIFA 世界杯期间对体育博彩平台的攻击 Small Wars Journal",
-      "originalTitle": "Attacks on Sports-Betting Platforms During the 2026 FIFA World Cup - Small Wars Journal",
-      "originalSummary": "Attacks on Sports-Betting Platforms During the 2026 FIFA World Cup  Small Wars Journal",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOT0VSUGJRbjJMc1pQNnVhRHBrT1Z6Qmx2WG9rdmJmbUsxRHJIY213V3RKU2JCX3VTWFZfT18wWFU5cjk3emtNQVUwTzhZR0I3UllzMWtQRjlHQnNpREg0RjJEa1FXY2pMVnRxbHNHRUQ2SWVVWjY0T1JPLXJJWHktU1Vn?oc=5",
-      "publishedAt": "2026-08-17T14:02:24+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-álex-baena-goal-uruguay-0-1-spain-fifa-world-cup-2026-eurovision-2026-wrmpcar0x9-mshale",
-      "title": "阿莱克斯·巴埃纳 进球 |乌拉圭0-1西班牙| FIFA 世界杯 2026™ 欧洲歌唱大赛 2026 (wRMPCAr0x9) - Mshale",
-      "summary": "阿莱克斯·巴埃纳 进球 |乌拉圭0-1西班牙| FIFA 世界杯 2026™ 欧洲歌唱大赛 2026 (wRMPCAr0x9)  Mshale",
-      "originalTitle": "Álex Baena Goal | Uruguay 0-1 Spain | FIFA World Cup 2026™ Eurovision 2026 (wRMPCAr0x9) - Mshale",
-      "originalSummary": "Álex Baena Goal | Uruguay 0-1 Spain | FIFA World Cup 2026™ Eurovision 2026 (wRMPCAr0x9)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xTUdKcnI2azduc0pIVWlZQXh4cThiNjlkblZzQUZuMG9NRUNxRlIwb0RJcUNCYXFJYWJrZUhVaGNfcmFiVHRjZTBpU3JfWDBfeW1CMWYzY0psQQ?oc=5",
-      "publishedAt": "2026-08-17T13:56:38+00:00",
       "heat": 60
     }
   ]
