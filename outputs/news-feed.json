@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T02:59:52.914502+00:00",
+  "updatedAt": "2026-08-18T03:52:39.819247+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-凯文-拉穆尔-因凡蒂诺-世界杯股权出售_新浪新闻-新浪网",
+      "title": "凯文·拉穆尔|因凡蒂诺|世界杯股权出售_新浪新闻 - 新浪网",
+      "summary": "凯文·拉穆尔|因凡蒂诺|世界杯股权出售_新浪新闻  新浪网",
+      "originalTitle": "凯文·拉穆尔|因凡蒂诺|世界杯股权出售_新浪新闻 - 新浪网",
+      "originalSummary": "凯文·拉穆尔|因凡蒂诺|世界杯股权出售_新浪新闻  新浪网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1KRFdaYWZNbjk3X3FLRkhqU2FfMi1pQkt4U181U2xVWE8tYmxBbm51RUZCVXRnLW9DSU5GSkkzUW1PNWxKbnJsbGR3bXVFelJ5bG51MUk5QV9Na3libTMwQWpMWQ?oc=5",
+      "publishedAt": "2026-08-18T02:55:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-garcia-blames-medical-staff-for-belgium-s-uninspiring-fifa-world-cup-2026-campaign-sportstar",
       "title": "加西亚将比利时2026年世界杯的平淡表现归咎于医务人员 - 体育明星",
@@ -20,15 +32,27 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-办完一届世界杯-谁赚钱谁亏钱-卡塔尔-沙特阿拉伯-俄罗斯-加拿大-墨西哥-美国-南非-巴西-世界杯-懂球帝",
-      "title": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯 - 懂球帝",
-      "summary": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯  懂球帝",
-      "originalTitle": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯 - 懂球帝",
-      "originalSummary": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯  懂球帝",
+      "id": "google-新闻-中文-办完一届世界杯-谁赚钱谁亏钱-卡塔尔-沙特阿拉伯-俄罗斯-加拿大-墨西哥-美国-南非-巴西-世界杯-dongqiudi-com",
+      "title": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯 - dongqiudi.com",
+      "summary": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯  dongqiudi.com",
+      "originalTitle": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯 - dongqiudi.com",
+      "originalSummary": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯  dongqiudi.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52MlYwMV9wQXpfREViZ0hGTW9ERGlHd2t1YmRCMzctbTFscE04Skg2VjlaMGRJWUU2RXRiVjRpUWM5NVdoVm5EcTd1QlJxQlJXUVJDVG9mbw?oc=5",
       "publishedAt": "2026-08-18T02:03:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-swiss-world-cup-star-breel-embolo-reportedly-turns-down-atlanta-united-for-premier-league-move-to-ipswich-wa",
+      "title": "据报道，瑞士世界杯球星布雷尔·恩博洛拒绝了亚特兰大联队转会至伊普斯维奇的英超联赛 - Waking The Red",
+      "summary": "据报道，瑞士世界杯球星布雷尔·恩博洛拒绝了亚特兰大联队转会至伊普斯维奇的英超联赛",
+      "originalTitle": "Swiss World Cup star Breel Embolo reportedly turns down Atlanta United for Premier League move to Ipswich - Waking The Red",
+      "originalSummary": "Swiss World Cup star Breel Embolo reportedly turns down Atlanta United for Premier League move to Ipswich  Waking The Red",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3VEdUdzQ2JxdGhoUjZTVTd5aWRqM1gxNXROendLRnVFcVBOMl84NmhlSE9ibThxdzRGeXZBSVBDdWlHSzV2SzF5X1p2Z3VQXy13M1Fnanc3M2lScVhsUU0tY0owYzh5YnNoeFd4RTFTZENJNXlydWRXSjk2UDBUSVlxOTlzS1ZpckVkRXBxa2ZsU0dIYzJnTnNzTFlLMDh6UGtfcUdiZzZlR2xFYVhHWElXbmd1cGpOblJWczUzQmU2MzBYTXc?oc=5",
+      "publishedAt": "2026-08-18T01:01:13+00:00",
       "heat": 52
     },
     {
@@ -68,23 +92,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-carlsberg-to-ride-on-strong-operational-controlssecond-half-drivers-include-fifa-world-cup-tailwinds-thestar",
-      "title": "嘉士伯将依靠强大的运营控制下半场的推动因素包括国际足联世界杯的顺风车 - thestar.com.my",
-      "summary": "嘉士伯将依靠强大的运营控制下半场的推动因素包括 FIFA 世界杯的顺风 thestar.com.my",
-      "originalTitle": "Carlsberg to ride on strong operational controlsSecond-half drivers include FIFA World Cup tailwinds - thestar.com.my",
-      "originalSummary": "Carlsberg to ride on strong operational controlsSecond-half drivers include FIFA World Cup tailwinds  thestar.com.my",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQVFY1NnJLUzhvdVFTWjIzLTdOa2NDbmN0aUFBdFNiM3l0ZnRyS2ZtczdKTzF4aWRSYkl2WWJNeEYzbXNxU3lIVGdaOVhhbGxJdEJJSGV2RC1ZU3NJUkRYU3pNY3dIWkxRQVpZejNNaTJxQkhhSXA5TGlJQm5jTEo0TjhVcHBEbFFMaFl1ZmhoOW5HTk1DQkRzb3lyWEg5NHlSd3JoV1pMYlhzNGhYdHpUZU1jN1hMbldjWFhCWEdoVmozU3NIRURWRjNMTEJaZVpaZlJRSzFjaFFsdWZqNW5KbDlXSkYxM2tPb0Z2OEoxNVpDeDA?oc=5",
-      "publishedAt": "2026-08-18T00:04:13+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-why-global-audiences-were-the-winners-during-the-2026-fifa-world-cup-tvbeurope",
-      "title": "为什么全球观众是 2026 年 FIFA 世界杯的赢家 - TVBEurope",
-      "summary": "为什么全球观众成为 2026 年 FIFA 世界杯期间的赢家 TVBEurope",
-      "originalTitle": "Why global audiences were the winners during the 2026 FIFA World Cup - TVBEurope",
-      "originalSummary": "Why global audiences were the winners during the 2026 FIFA World Cup  TVBEurope",
+      "id": "google-news-why-global-audiences-were-the-winners-during-the-2026-fifa-world-cup-tvbeurope-com",
+      "title": "为什么全球观众成为 2026 年 FIFA 世界杯的赢家 - tvbeurope.com",
+      "summary": "为什么全球观众成为 2026 年 FIFA 世界杯期间的赢家 tvbeurope.com",
+      "originalTitle": "Why global audiences were the winners during the 2026 FIFA World Cup - tvbeurope.com",
+      "originalSummary": "Why global audiences were the winners during the 2026 FIFA World Cup  tvbeurope.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcXV6elk0VTg2allVellTckk1UzZHbEZRcmRCYnZleldXajJlVkFCUFRiZE1UNmhEaTRyU2pRTmxnSndNbVFXSEZ3MUhvVVQtTGhKMnl3azQxTnMwTjh5V1NmcG9od0s5am42NDhqb1BBTG9sNFpBRlhoT0hWdHVZbnlieVFTYUpmeXN0Vno0NUlvNGQ3TWZaajdud3BWd2RwbDRpSUZWaU9OSjV5NmwyQVpR?oc=5",
@@ -176,11 +188,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
-      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
-      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
-      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
+      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica-com",
+      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - britannica.com",
+      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 Britannica.com",
+      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - britannica.com",
+      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  britannica.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNc1JHX2h5dlhhRXVSNEU4Tm9ZSDV5V0hsOVlrNURpRVF5dVhQQnVVMXgzSWJDb1F2US1uRExKUUIxMndjcFpRa0VTNVZRZEJ0Nkk5NlBRYXVoWk5jN0NrdmdfdGdZc1A3R01nTnFmMXR5cC1hXzFkZFJwa0dNTHp3Y3NEeXZaWHpiZGs4MWo5MEVRQjI5aGVIeTlndXFRLW5nYWJHVzFrb25VTk5fN2xsdDNqVkRFY24zWGZPYXdn0gG-AUFVX3lxTFBkSFF4UEJPbXRpa1lmOHdzUy1qdGpoZ3JwT20xNFBfUXhIaTRqZ0VIeHRtaEpYR2xHZ2tJeGh5bk9yRnpFOHpaU1dnNUs4WWN3VVdPV2xnencwZDlGVVlvODhPX1hnLVYyRG5ZY194b1RKcE9hanlhakNMaUlnS1k2ejNWcVhrcjExWHNnX3BFSFc3RnV1dDNjMGctUW9vVVVWWno2bERQdG5JekxkOVdFQ0FHcUd0dFB3OEU1VHc?oc=5",
       "publishedAt": "2026-08-17T23:07:29+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-who-will-win-the-2026-fifa-world-cup-ai-predictions-explained-google-fitbit-air-moutvx5a2t-mshale",
-      "title": "谁将赢得 2026 年 FIFA 世界杯？ （人工智能预测解释）Google Fitbit Air (moUTvx5A2T) - Mshale",
-      "summary": "谁将赢得 2026 年 FIFA 世界杯？ （AI 预测解释）Google Fitbit Air (moUTvx5A2T)  Mshale",
-      "originalTitle": "WHO WILL WIN THE 2026 FIFA WORLD CUP? (AI Predictions Explained) Google Fitbit Air (moUTvx5A2T) - Mshale",
-      "originalSummary": "WHO WILL WIN THE 2026 FIFA WORLD CUP? (AI Predictions Explained) Google Fitbit Air (moUTvx5A2T)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE93MXIyZ2pGa0QyUkVoclNqTzlqcWpUZk8ycHhYdExabDFKelM5TjQtVlQ1bHYtQVhBVURKSjBFVGlHcW5kM0dLYXdreXZrbjdidTdudUFvSlM1ek55ZUNjSg?oc=5",
-      "publishedAt": "2026-08-17T23:06:32+00:00",
-      "heat": 60
     }
   ]
 }
