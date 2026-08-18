@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:54:34.887773+00:00",
+  "updatedAt": "2026-08-18T21:28:56.421706+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-new-york-city-soccer-initiative-celebrates-opening-of-new-mini-soccer-pitch-at-jhs-62-ditmas-as-part-of-26-f",
+      "title": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 - 纽约城足球俱乐部",
+      "summary": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 纽约市足球俱乐部",
+      "originalTitle": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative - New York City FC",
+      "originalSummary": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative  New York City FC",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3lGNVNEcHlkdnJwazBic3pTSWVFYUU5WWJMam5YeGtkSms0YjdCVnNlYjVOT25PWDF5aktuSUE1QTQ3dF9HUEROUXdiY1FVM1AzMmVPR1N1R3Z2SGY2MWM4LXVrY0dZTmVZVnkxd3p1UEdRWm9TZzhBNHdvdVRka1RnVm0xWDEtNkw2bVpPS3ZBNGdBSjVVTVkxaFljampKZHlEQ1pIV1pJSUZnaWt4dmJSZlJKU3BpNFNFMWR3SENLQ1Utal93UjgtWURIdko2dklmZUxLRnR0VG43dTM2NE16bXZWWFlzRUZ1T2ZxaGxjNjlSaU9rWEhISmRjWEs5cy1XN2VYQQ?oc=5",
+      "publishedAt": "2026-08-18T21:09:11+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-canadian-fifa-world-cup-star-joins-premier-league-team-in-england-dailyhive-com",
+      "title": "加拿大世界杯球星加盟英格兰英超球队 - dailyhive.com",
+      "summary": "加拿大世界杯球星加盟英格兰英超球队 dailyhive.com",
+      "originalTitle": "Canadian FIFA World Cup star joins Premier League team in England - dailyhive.com",
+      "originalSummary": "Canadian FIFA World Cup star joins Premier League team in England  dailyhive.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5",
+      "publishedAt": "2026-08-18T20:47:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-ranking-the-contenders-to-win-2026-27-premier-league-will-arsenal-repeat-nbc-los-angeles",
       "title": "2026-27赛季英超冠军争夺者排名：阿森纳会重蹈覆辙吗？ - NBC 洛杉矶",
@@ -32,16 +56,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-gianni-infantino-remains-fifa-president-for-now-an-update-on-fifa-situation-the-boca-raton-tribune",
-      "title": "詹尼·因凡蒂诺暂时留任国际足联主席——国际足联最新情况 - 博卡拉顿论坛报",
-      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 暂时留任国际足联主席 - 国际足联最新情况 - 博卡拉顿论坛报",
-      "originalTitle": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation - The Boca Raton Tribune",
-      "originalSummary": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation  The Boca Raton Tribune",
+      "id": "google-news-the-fifa-world-cup-shows-why-cpg-growth-is-ecosystem-vs-ecosystem-consumer-goods-technology",
+      "title": "FIFA 世界杯揭示了为什么 CPG 的增长是生态系统与生态系统之间的较量 - Consumer Goods Technology",
+      "summary": "FIFA 世界杯展示了为什么 CPG 的增长是生态系统与消费品技术的关系",
+      "originalTitle": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem - Consumer Goods Technology",
+      "originalSummary": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem  Consumer Goods Technology",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYllrTmlpNktkUWE5aE5JaERob3VwcXFSTmVic0NYcUk3VGpXWW5JQnREZ3hReHl6UHRoXy1xSklMdS02OEhnZzdfRGVSRWd2eWkxS3VMQndiNDlFcTlVZFZ5SkwyNkJON0NuWlc3WVRwS0ttbE1ZdVUzOVBQSTBjRmExOTRxZG1sZ3o2a1g4UzlieU1xckphZTZsVUd1RmFLUG1fZjBINzdobTJxVkdLSTBkLUtnOTFSZVRCT282dTdUcXFqQWkySHBWYw?oc=5",
-      "publishedAt": "2026-08-18T18:45:16+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW12c2hLQmw2ejY0QVNRMVRmMndYSGxsamJPRTlrZG9yZVNYRWw5T3Q4bVdHWEt3YjFJTlZYN3FKekZKN3FtSF9NVXo1MHhoZWZSWERQNzZZb3VzN3JmSTFhNXZvakFhRGprRDZEd0FRcDJWR1RWMmI4emp1NDRPc19MT2NJamlMUXpyMA?oc=5",
+      "publishedAt": "2026-08-18T18:39:57+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-footy-for-fido-adidas-drops-dog-kits-for-2026-27-espn",
@@ -56,6 +80,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-fifa-world-cup-2026-begins-today-group-stage-quarter-finals-to-semi-finals-check-full-schedule-goodreturns",
+      "title": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表 - Goodreturns",
+      "summary": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表  Goodreturns",
+      "originalTitle": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule - Goodreturns",
+      "originalSummary": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule  Goodreturns",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakhZOUs2TmczSFcwYWQ1M0lVdHNHdExoUktMOTF1NUFSai1mUUd3OVlBRjlralJnekZVbTBqY2JKa3N2R0pHREoycUZXTXNIaXVYYzNlT1dUMG9KZVhNZ0tVYllhY1NVbV9ZUUoxbmVYYk44ZHdkOXYwc1FqSG9xZTZuS05iT1NCTjBpdTFONnFwUFQ0NFFnUjhYeGxLVktycVhNVWx4TW5jVm14ZUVpNHZlaUtWNUFDU1gyMC05MXUyaU5tQmRIS0M0WjNnMTc3Q05leTdn?oc=5",
+      "publishedAt": "2026-08-18T18:26:50+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-2026-fifa-world-cup-golden-ball-winner-rodri-leaves-manchester-city-to-join-barcelona-news18",
       "title": "2026年世界杯金球奖得主罗德里离开曼城加盟巴塞罗那 - News18",
       "summary": "2026 年 FIFA 世界杯金球奖得主罗德里离开曼城加盟巴塞罗那 News18",
@@ -68,16 +104,28 @@
       "heat": 60
     },
     {
-      "id": "google-news-nielsen-fox-and-nbcuniversal-score-with-fifa-world-cup-2026-tvtechnology",
-      "title": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 - TVTechnology",
-      "summary": "尼尔森：福克斯和 NBCUniversal 对 2026 年 FIFA 世界杯电视技术进行评分",
-      "originalTitle": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026 - TVTechnology",
-      "originalSummary": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026  TVTechnology",
+      "id": "google-news-nielsen-fox-and-nbcuniversal-score-with-fifa-world-cup-2026-tvtechnology-com",
+      "title": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 - tvtechnology.com",
+      "summary": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 tvtechnology.com",
+      "originalTitle": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026 - tvtechnology.com",
+      "originalSummary": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026  tvtechnology.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazZKTDVVMzFLUG1FUkVxdm9lN2tsaEJmTXBoNmNwRDJlN281Zk9wQ0FZUlAxTW5panFNeTFnS0hpM0hQMldzcjJRaThzWUM2eW5PQm93T0lFRVBLc0d2MjhydHc4cnlYYmZVSkpCZmViRnRfdllteERvcWN4dWhqNUd3c2w1M3dFSmM5SlN3TlR4X3NZVHNmVnEtTTd2M2pmeUVYSmFHLThGQQ?oc=5",
       "publishedAt": "2026-08-18T16:43:19+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
+      "publishedAt": "2026-08-18T16:34:46+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-israel-withdraws-support-for-embattled-fifa-president-gianni-infantino-the-jerusalem-post",
@@ -92,12 +140,24 @@
       "heat": 52
     },
     {
+      "id": "google-news-egypt-world-cup-2026-route-to-the-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年埃及世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年埃及世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Egypt World Cup 2026: Route to the final, next match and tactical analysis - Squawka",
+      "originalSummary": "Egypt World Cup 2026: Route to the final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZjM3NjVMS29uTDV3SVg5RWlEa0FCWWtfU2ZqUFBYZ3ZockVFSzNWM0ZqX1FsaUdUUWM4TldMRmVRM3kyLWNFdW1sZTV0dmdmVTBwZU9ialIxdm5BUjhsQ2x6b3NBcHltWHdTOHlDWVljUkJyQmZTVndUeFJaUFd1ZGJaZTZLQ3dVaFE?oc=5",
+      "publishedAt": "2026-08-18T16:12:05+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn",
-      "title": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
+      "title": "英超 2026-27 赛季球衣：每件发布的球衣排名 - ESPN",
       "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN",
       "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
       "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN",
-      "translation": "local/online",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTk1NQjJReU1admstZDZqS1d0dXRhaURsYW5WcjB5M0RrS0t3dGNZZmpKWG44TnJPMnY5Skx0TEItellteUZwMUdQNnpzaFhlVzU1U2N3ZFJkVHFtNWF5TEZ0OS1aYllOUmdFZDhPZzZCandvY0NiN1VnSWhmVTFoejRMQlRuYVU4eGJPb3p6LWhvUlZRUEw0MTR6TzctQjJCeHRkQVVTUXJXRjN3eEFUSU91ckN5b3Z5TlZPN3dVZUoyeWV4ZzNZbDMzWWQ4SXlTRnozRV8tLURRQWtEQVlqWTU1X256d0ZYZ192a3YwS3VrZw?oc=5",
       "publishedAt": "2026-08-18T16:07:00+00:00",
@@ -128,11 +188,23 @@
       "heat": 60
     },
     {
-      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-cape-verde-after-brazil-report-makes-big-claim-ndtv-sports",
-      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 - NDTV Sports",
-      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 NDTV Sports",
-      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - NDTV Sports",
-      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim  NDTV Sports",
+      "id": "google-news-jump-debuts-as-coca-cola-s-official-anthem-for-fifa-world-cup-2026-ticketnews",
+      "title": "《JUMP》首次作为可口可乐 2026 年 FIFA 世界杯官方歌曲 - TicketNews",
+      "summary": "《JUMP》首次作为可口可乐 2026 年 FIFA 世界杯官方歌曲 TicketNews",
+      "originalTitle": "‘JUMP’ Debuts as Coca-Cola’s Official Anthem for FIFA World Cup 2026 - TicketNews",
+      "originalSummary": "‘JUMP’ Debuts as Coca-Cola’s Official Anthem for FIFA World Cup 2026  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTI2cEd3dU1ncjFZSUhyWmtRRy1UaEdWaW1fZ0RjMzVuZHMxUWE3WnBtMkxuRlJkb05FWHkwcUZWTkJiZTY3NWZWSlB2MFVmZ0RmRkYwczdtXy1Ob3RRM0pxSnlPVGV0emFtbTM1S0pJRUlQbTJGOHRJd2cwOWp4bDJKWHlHTVdFYlc0Um81b2lJN2M?oc=5",
+      "publishedAt": "2026-08-18T15:50:01+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-cape-verde-after-brazil-report-makes-big-claim-sports-ndtv-com",
+      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 - sports.ndtv.com",
+      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 sports.ndtv.com",
+      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - sports.ndtv.com",
+      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim  sports.ndtv.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0hSYmthVHNweS1BSktaY2NEN053TEtwaFMwXzg?oc=5",
@@ -150,78 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-08-18T15:32:36+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-the-fifa-world-cup-shows-why-cpg-growth-is-ecosystem-vs-ecosystem-consumer-goods-technology",
-      "title": "FIFA 世界杯揭示了为什么 CPG 的增长是生态系统与生态系统之间的较量 - Consumer Goods Technology",
-      "summary": "FIFA 世界杯展示了为什么 CPG 的增长是生态系统与消费品技术的关系",
-      "originalTitle": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem - Consumer Goods Technology",
-      "originalSummary": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem  Consumer Goods Technology",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW12c2hLQmw2ejY0QVNRMVRmMndYSGxsamJPRTlrZG9yZVNYRWw5T3Q4bVdHWEt3YjFJTlZYN3FKekZKN3FtSF9NVXo1MHhoZWZSWERQNzZZb3VzN3JmSTFhNXZvakFhRGprRDZEd0FRcDJWR1RWMmI4emp1NDRPc19MT2NJamlMUXpyMA?oc=5",
-      "publishedAt": "2026-08-18T15:02:29+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
-      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
-      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
-      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "publishedAt": "2026-08-18T14:42:58+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-hero-maseko-signs-with-fc-copenhagen-조선일보",
-      "title": "世界杯英雄马塞科与哥本哈根足球俱乐部签约 - 조선일보",
-      "summary": "世界杯英雄马塞科与哥本哈根足球俱乐部签约",
-      "originalTitle": "World Cup Hero Maseko Signs With FC Copenhagen - 조선일보",
-      "originalSummary": "World Cup Hero Maseko Signs With FC Copenhagen  조선일보",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVlIQjd3R1N0TVNDeFVneU5lYjlvVkxTTTU4UUdzaklfX1ZSLURVMUpobzh0MkRoaVp1SlV6VUwxaS1IdFZnbjI3VnlkemxIX3oybGFRalA5LUxhS0pDeDFLcHFoMHNXQ1h3RTYwN1ptaWlHSk1uc2FxNFRYSjVoMWFsbFFoQQ?oc=5",
-      "publishedAt": "2026-08-18T14:39:11+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-infantino-s-red-card-fifa-sacks-lamour-as-crisis-rises-inside-the-games",
-      "title": "因凡蒂诺的红牌：国际足联因危机升级而解雇拉莫尔 - Inside The Games",
-      "summary": "因凡蒂诺的红牌：随着奥运会内部危机的加剧，国际足联解雇了拉莫尔",
-      "originalTitle": "Infantino's red card: FIFA sacks Lamour as crisis rises - Inside The Games",
-      "originalSummary": "Infantino's red card: FIFA sacks Lamour as crisis rises  Inside The Games",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNE5RU1NrTnlib3dpOUY5aFR2ZWk1eEpzUklIRXRlS1BLcWJsaU9LM1NXRVQ2cHNQWE95a1Q5V3NvNG02SGlBSmczQW9UVE5acUlEZzRsRTZZWjhzSGE2UTRTVTF0cmY0WENLcGxvTkw3SmxfN2Fja1FjQ3lYZnk3R2FLRTAwcjQ4azhfR3FaTl9qZWNV?oc=5",
-      "publishedAt": "2026-08-18T14:32:07+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bizarre-egypt-coach-collapses-while-trying-to-stop-fight-between-his-two-wives-the-indian-express",
-      "title": "奇怪！埃及教练在试图阻止两个妻子之间的争吵时倒下 - 印度快报",
-      "summary": "奇怪！埃及教练在试图阻止两个妻子之间的争斗时倒下 - 印度快报",
-      "originalTitle": "Bizarre! Egypt coach collapses while trying to stop fight between his two wives - The Indian Express",
-      "originalSummary": "Bizarre! Egypt coach collapses while trying to stop fight between his two wives  The Indian Express",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVFUV2hSUTJwQlkxakdPZWFXYlFEYVp2Tlh5ZWlOQnhIbzZRZlNMWmtKU2FncEFLUGV0Nl94X0t2d09GNncyNV9LVWZqYm1uc2FZSURQYkJLazBkTXM1N3RpazRaT3U2QWwtckNiUGk4TW9FR0NDQU5PLWJCdFgwcDJEYVlleDE4R2xlT19tZHhtcEhiR0NPRm9ONWNvQ05aQkxOemcyOEN2NVpUN2Vj0gG2AUFVX3lxTFBrbFFVeGtLVUpPWlQ4Ry1rY055Rl9XVWg4UlNBX1U0SUo1dWpOYjRpZnp0MjdhWmZ1M2d4WnFoOHFPekpWbVBYRmdEdlFNOU1xY2lkNGRFT3pyci1JeWJNR0EzYi03NW51S1puOFlLVUVyb2taZ3lyTTFJQXZyT1pKSzZ4ZzM5YnVzeGQ3bHcxdklIekZmSE9GbWhJM1FTUmV3b3NJcFIxUGhTWDlMSXN0MHNoYmp3?oc=5",
-      "publishedAt": "2026-08-18T14:01:52+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ - 斯夸卡",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  斯夸卡",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
-      "publishedAt": "2026-08-18T13:27:32+00:00",
-      "heat": 60
     }
   ]
 }
