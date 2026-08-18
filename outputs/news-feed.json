@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T09:38:18.365190+00:00",
+  "updatedAt": "2026-08-18T10:33:27.937287+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-d-fend-enforceair-secures-world-cup-airspace-across-multiple-u-s-host-cities-uasweekly-com",
+      "title": "D-Fend EnforceAir 确保美国多个主办城市的世界杯空域安全 - uasweekly.com",
+      "summary": "D-Fend EnforceAir 确保美国多个主办城市的世界杯空域安全 uasweekly.com",
+      "originalTitle": "D-Fend EnforceAir Secures World Cup Airspace Across Multiple U.S. Host Cities - uasweekly.com",
+      "originalSummary": "D-Fend EnforceAir Secures World Cup Airspace Across Multiple U.S. Host Cities  uasweekly.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNRlY4WndWalEwdUYxTHp2TmlDSEZ2d3BWa3Y1ejdsOGJ5RVQyUXRXNjVoYTk5Q2NETmJHN1U5bzV6S0JIdS0tU2U4LVBvaDFKci1SYXkwQkZnNW1Wamk2cG9oVlFNc3E3RUR2RmJsbm4xLU5xQVYwdEVZcEo5YzA4b0RRYWxmQmVPb1piVXhaekxGWndqUGh2VmVFdnlpdHA1ckxaMGVpM2NGUkJqS0hB?oc=5",
+      "publishedAt": "2026-08-18T10:23:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-infantino-s-fifa-world-cup-fallout-lamour-exits-after-criticism-of-plan-al-jazeera",
+      "title": "因凡蒂诺世界杯的影响：拉穆尔在批评计划后退出 - 半岛电视台",
+      "summary": "因凡蒂诺的 FIFA 世界杯影响：拉莫尔在批评计划后退出",
+      "originalTitle": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan - Al Jazeera",
+      "originalSummary": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan  Al Jazeera",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQX090RDlUV2FxYVh5dzhjLWtKWXRBVW9hOENDTzBJTnh6akQ4ZW5SRFQ2Vmk2M0twMjR5Z0JPa2dHSUlWbXhTakdaYndFRi13eERHM1FCTXRBa1FhZExnNDJTZ3V1QXROcUkyNEdFaUZkaDE2N0RuWExRTFVrOXNVUjdhamt2bEp3NTVlZ19LUlNhU3VjeHU5aWtZay00a2J1cW5iY2l6QmVqY3NvT0VabVBNONIBuAFBVV95cUxPS0lYS1dKV1c3X2R5V2dfQXphQ2ppU29QaFZtbnkyajdQcFhRZmtnTUxNckx4d21Xc2lTVFlWNGg0REtVam9BMHpKVTVGa1dQemlrRFAybF9ScFVyd0IwazhpdTNjRnhRNDV6SnktaUNad2dQZzlwU0t1NDZ6eGp6MGh0c2RraXpKcU85TklqcndEaERpNW9rMkVoaUdMMWZxYjVycU15MVVPbm0zeGpreVhIcFpyMmdC?oc=5",
+      "publishedAt": "2026-08-18T09:43:57+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-2026年琼斯杯篮球赛-末节崩盘遭约旦复仇-马男篮吞3连败-体育-篮球-大马篮球-sin-chew-daily",
       "title": "2026年琼斯杯篮球赛| 末节崩盘遭约旦复仇 马男篮吞3连败 - 体育 - 篮球 - 大马篮球 - Sin Chew Daily",
@@ -44,11 +68,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-the-camera-never-left-how-a-pre-law-student-s-childhood-passion-led-to-photographing-the-fifa-world-cup-the-",
-      "title": "相机从未离开：法学预科生的童年热情如何促成拍摄 FIFA 世界杯 - The Montclarion",
-      "summary": "相机从未离开过：法学预科生的童年热情如何激发了拍摄 FIFA 世界杯的兴趣 The Montclarion",
-      "originalTitle": "The Camera Never Left: How a Pre-Law Student’s Childhood Passion Led to Photographing the FIFA World Cup - The Montclarion",
-      "originalSummary": "The Camera Never Left: How a Pre-Law Student’s Childhood Passion Led to Photographing the FIFA World Cup  The Montclarion",
+      "id": "google-news-the-camera-never-left-how-a-pre-law-student-s-childhood-passion-led-to-photographing-the-fifa-world-cup-them",
+      "title": "相机从未离开：法学预科生的童年热情如何导致拍摄 FIFA 世界杯 - themontclarion.org",
+      "summary": "相机从未离开过：法学预科生的童年热情如何激发了拍摄 FIFA 世界杯的热情 themontclarion.org",
+      "originalTitle": "The Camera Never Left: How a Pre-Law Student’s Childhood Passion Led to Photographing the FIFA World Cup - themontclarion.org",
+      "originalSummary": "The Camera Never Left: How a Pre-Law Student’s Childhood Passion Led to Photographing the FIFA World Cup  themontclarion.org",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQm1TejJuaG9JcldPOHByWnJnUWtuSWVNRmVuX1F4WGt0SC16ZHdfOEQ4d1RUOWVSMXBDVHhiZ1dXWHlNUDhzWGJ0UVFES1hFVjJEbFRTTVFBSHpvSC1rU29qd0Z5NFZUMlY1SWQ2MGlxV1RHeGZmT2IteDh2RzRsR1dpUmZmcWtQTm8yM3A5S3MwaktWSkJPQlM1LXF3U3l3MXNFRXNWcjVXTlI0dXNwbndBOS05NHlaZi1hUndVclJ6dzRwdmN1RVg4aC1vTWJ3WmxGRlk0WVlSX3Jq?oc=5",
@@ -68,11 +92,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -164,11 +188,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-garcia-blames-medical-staff-for-belgium-s-uninspiring-fifa-world-cup-2026-campaign-sportstar-thehindu-com",
-      "title": "加西亚将比利时2026年世界杯的平淡表现归咎于医务人员 - sportsstar.thehindu.com",
-      "summary": "加西亚将比利时 2026 年 FIFA 世界杯宣传活动的平庸归咎于医务人员 sportsstar.thehindu.com",
-      "originalTitle": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign - sportstar.thehindu.com",
-      "originalSummary": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign  sportstar.thehindu.com",
+      "id": "google-news-garcia-blames-medical-staff-for-belgium-s-uninspiring-fifa-world-cup-2026-campaign-sportstar",
+      "title": "加西亚将比利时2026年世界杯的平淡表现归咎于医务人员 - 体育明星",
+      "summary": "加西亚将比利时 2026 年 FIFA 世界杯宣传活动的平庸归咎于医务人员",
+      "originalTitle": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign - Sportstar",
+      "originalSummary": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign  Sportstar",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTlBabmxuYTNCSmNzMDM5Y3Z2QnpqcGZ6WVRBVEpjYVU3Sms2V3YyRURKYVRSNFRhMGFNUl91SGhaZEJrSHVsRHh2d3MzMnhKWEMwUWFvUkttOXQxT0hCeUV3cmZ6YzVxWUZNeUNoVWo4UVBZWmNFZWJWNWFwU2FlYzJvRVdyb24zSTJCSDlXRThVTkJhNkJPR0x2bk51d3hLbGkwbTVkMVk1c0EzajFST214WDZLQVVkS19WRzRiLVhNeVdpTlNqOWl1a1I3RkY4LVJYTlF4N2w1al8wclF2QzZpOFdMU3pIV0RKatIB8wFBVV95cUxNNHhpQmVIeUcybU9WRnJvcnFRYlppRm1UdnhGYURuTWotVlRHcTkteDdUMEJkQXZ6ZFB1R0ZhNEtxbFM1dng1LW1BVkltVTJORExtV0J0U1N3VEdKQXFfRDZWTmpWUFFzOWktZzVKbDVRcXdvb2kzMXZ4eDlRYmJpZVE3ZXo4U3J5YTQ4d05TUXkycndMcWZjcXpweGdNUkdzOXZzcHY3eWpnd01HSHlfUno0T0h4UmhvYWFORUx0dWtBWFk3ZW95TVlFc1V3U0t0SzFKNzVJN2tlb0M4VlVFUFc2Q1lBYTRsQ1JIX3BsSUd0Qm8?oc=5",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3VEdUdzQ2JxdGhoUjZTVTd5aWRqM1gxNXROendLRnVFcVBOMl84NmhlSE9ibThxdzRGeXZBSVBDdWlHSzV2SzF5X1p2Z3VQXy13M1Fnanc3M2lScVhsUU0tY0owYzh5YnNoeFd4RTFTZENJNXlydWRXSjk2UDBUSVlxOTlzS1ZpckVkRXBxa2ZsU0dIYzJnTnNzTFlLMDh6UGtfcUdiZzZlR2xFYVhHWElXbmd1cGpOblJWczUzQmU2MzBYTXc?oc=5",
       "publishedAt": "2026-08-18T01:01:13+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-brutal-fifa-act-as-infantino-s-3ic-pays-ultimate-price-for-slamming-wc-sell-off-plan-fox-sports",
-      "title": "国际足联残酷行动，因凡蒂诺的3IC为猛烈抨击WC出售计划付出最终代价 - 福克斯体育",
-      "summary": "残酷的 FIFA 充当因凡蒂诺的 3IC 为猛烈抨击 WC 抛售计划付出最终代价 福克斯体育",
-      "originalTitle": "Brutal FIFA act as Infantino’s 3IC pays ultimate price for slamming WC sell-off plan - Fox Sports",
-      "originalSummary": "Brutal FIFA act as Infantino’s 3IC pays ultimate price for slamming WC sell-off plan  Fox Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxOUzJPVVB2alFmOUY5d0Q3ZmtGUzJXcnhmc3F5eVZDNXV3TTNEMWlranIzTEVTUEpWbG4tZFBzU0V1MEllSW5LajZEcXdDeFdOcWYxZjhpeXdyWXpsZDd5cFhCMzBiNjk3SGl3TzlmMFhHcWwtX2UwSF90azhJVHJSU0g4VjM5eUhCQkxDaUZsSFVXMXNTVEt1MGJOTG9KY2tpNEwzeE5XMkZjb0FwMmhiQmJ3NjFEVzJyM0xSTWlGZzNsbFRqVDBUY0pid2k1eEdsWU9YVWdzMDlneFRqRUI3LVplbm92VTJnNlNqT19UbklDNGw5X3M1MmY4U1k2ZUswdFI4T1QyQzUtQUZsVnU3eDhSZVZpQVBMbDdvTGpVVUlBcmUwRW1hLXZDWmgxYnJ3UTVKb1I0VUlENEFEWHVENzlkeFfSAcQCQVVfeXFMTlMyT1VQdmpRZjlGOXdEN2ZrRlMyV3J4ZnNxeXlWQzV1d00zRDFpa2pyM0xFU1BKVmxuLWRQc1NFdTBJZUluS2o2RHF3Q3hXTnFmMWY4aXl3cll6bGQ3eXBYQjMwYjY5N0hpd085ZjBYR3FsLV9lMEhfdGs4SVRyUlNIOFYzOXlIQkJMQ2lGbEhVVzFzU1RLdTBiTkxvSmNraTRMM3hOVzJGY29BcDJoYkJidzYxRFcycjNMUk1pRmczbGxUalQwVGNKYndpNXhHbFlPWFVnczA5Z3hUakVCNy1aZW5vdlUyZzZTak9fVG5JQzRsOV9zNTJmOFNZNmVLMHRSOE9UMkM1LUFGbFZ1N3g4UmVWaUFQTGw3b0xqVVVJQXJlMEVtYS12Q1poMWJyd1E1Sm9SNFVJRDRBRFh1RDc5ZHhX?oc=5",
-      "publishedAt": "2026-08-18T00:44:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-algeria-squad-for-march-2026-ahead-of-fifa-world-cup-2026-algeria-squad-for-friendlies-march-meg-ryan-4duj6j",
-      "title": "2026 年 FIFA 世界杯之前阿尔及利亚 2026 年 3 月阵容阿尔及利亚友谊赛阵容 梅格·瑞安 (4DuJ6j8h2i) - Mshale",
-      "summary": "2026 年 FIFA 世界杯之前阿尔及利亚 2026 年 3 月阵容阿尔及利亚友谊赛阵容 March Meg Ryan (4DuJ6j8h2i)  Mshale",
-      "originalTitle": "Algeria Squad For March 2026 Ahead Of FIFA World Cup 2026 | Algeria Squad For Friendlies March Meg Ryan (4DuJ6j8h2i) - Mshale",
-      "originalSummary": "Algeria Squad For March 2026 Ahead Of FIFA World Cup 2026 | Algeria Squad For Friendlies March Meg Ryan (4DuJ6j8h2i)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXdzhzbThvbHFJWEV1UTVHOWV5Qm1CQjVMeURQS2NQc1hTdTg0NWswMU1tSnl5cEZlYnhEV1BSSzRnQmdOc3RyV0cyZmpyaThfOW84dDFWRjdHeDA?oc=5",
-      "publishedAt": "2026-08-18T00:26:47+00:00",
-      "heat": 60
     }
   ]
 }
