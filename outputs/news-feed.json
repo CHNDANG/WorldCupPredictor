@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T21:28:56.421706+00:00",
+  "updatedAt": "2026-08-18T21:51:59.795454+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -20,11 +20,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-canadian-fifa-world-cup-star-joins-premier-league-team-in-england-dailyhive-com",
-      "title": "加拿大世界杯球星加盟英格兰英超球队 - dailyhive.com",
-      "summary": "加拿大世界杯球星加盟英格兰英超球队 dailyhive.com",
-      "originalTitle": "Canadian FIFA World Cup star joins Premier League team in England - dailyhive.com",
-      "originalSummary": "Canadian FIFA World Cup star joins Premier League team in England  dailyhive.com",
+      "id": "google-news-canadian-fifa-world-cup-star-joins-premier-league-team-in-england-daily-hive",
+      "title": "加拿大世界杯球星加盟英格兰英超球队 - Daily Hive",
+      "summary": "加拿大世界杯球星加盟英格兰英超球队 Daily Hive",
+      "originalTitle": "Canadian FIFA World Cup star joins Premier League team in England - Daily Hive",
+      "originalSummary": "Canadian FIFA World Cup star joins Premier League team in England  Daily Hive",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5",
@@ -53,6 +53,18 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOcnpxUDFoQmExMWtBZ1Q1cmZ5NVozWHhodGtnZlA2c1BaQUJRUTJBbmNYSmdKZWczWFlqeTR2eGtiaE9sX2xkaFk0Y1piTjRzbmlTdjBTLWlsS3VReXhaT0JWeV9TeHUzems3ZDhEdTFKV1JZWGtYSWV1OUx6bmZwNUIyNFVxRngzd3BwVlpsS1czNWk2YjVpV0xlSk5KQzhPaU9PZElRdVN0S1V4M3VLdjFyYkN6NjBQNVN2VHR1dFZwNl9CRnRscjRzcFpuZTNyNUIwMUtyTjJLSjdROVhwZGF0RTFmZEU3c19XQ096S0V1dVNoeXB6MnV2cEdrOFYwbkRxN2JmbDQ0RDNzRkJxRGZBQWtJUHJxTXY1UG1KTHVPZXktcmItWnZ3?oc=5",
       "publishedAt": "2026-08-18T19:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-gianni-infantino-remains-fifa-president-for-now-an-update-on-fifa-situation-the-boca-raton-tribune",
+      "title": "詹尼·因凡蒂诺暂时留任国际足联主席——国际足联最新情况 - 博卡拉顿论坛报",
+      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 暂时留任国际足联主席 - 国际足联最新情况 - 博卡拉顿论坛报",
+      "originalTitle": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation - The Boca Raton Tribune",
+      "originalSummary": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation  The Boca Raton Tribune",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYllrTmlpNktkUWE5aE5JaERob3VwcXFSTmVic0NYcUk3VGpXWW5JQnREZ3hReHl6UHRoXy1xSklMdS02OEhnZzdfRGVSRWd2eWkxS3VMQndiNDlFcTlVZFZ5SkwyNkJON0NuWlc3WVRwS0ttbE1ZdVUzOVBQSTBjRmExOTRxZG1sZ3o2a1g4UzlieU1xckphZTZsVUd1RmFLUG1fZjBINzdobTJxVkdLSTBkLUtnOTFSZVRCT282dTdUcXFqQWkySHBWYw?oc=5",
+      "publishedAt": "2026-08-18T18:45:16+00:00",
       "heat": 52
     },
     {
@@ -104,28 +116,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-nielsen-fox-and-nbcuniversal-score-with-fifa-world-cup-2026-tvtechnology-com",
-      "title": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 - tvtechnology.com",
-      "summary": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 tvtechnology.com",
-      "originalTitle": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026 - tvtechnology.com",
-      "originalSummary": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026  tvtechnology.com",
+      "id": "google-news-nielsen-fox-and-nbcuniversal-score-with-fifa-world-cup-2026-tvtechnology",
+      "title": "尼尔森：福克斯和 NBCUniversal 为 2026 年 FIFA 世界杯评分 - TVTechnology",
+      "summary": "尼尔森：福克斯和 NBCUniversal 对 2026 年 FIFA 世界杯电视技术进行评分",
+      "originalTitle": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026 - TVTechnology",
+      "originalSummary": "Nielsen: Fox and NBCUniversal Score with FIFA World Cup 2026  TVTechnology",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQazZKTDVVMzFLUG1FUkVxdm9lN2tsaEJmTXBoNmNwRDJlN281Zk9wQ0FZUlAxTW5panFNeTFnS0hpM0hQMldzcjJRaThzWUM2eW5PQm93T0lFRVBLc0d2MjhydHc4cnlYYmZVSkpCZmViRnRfdllteERvcWN4dWhqNUd3c2w1M3dFSmM5SlN3TlR4X3NZVHNmVnEtTTd2M2pmeUVYSmFHLThGQQ?oc=5",
       "publishedAt": "2026-08-18T16:43:19+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
-      "publishedAt": "2026-08-18T16:34:46+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-israel-withdraws-support-for-embattled-fifa-president-gianni-infantino-the-jerusalem-post",
@@ -153,7 +153,7 @@
     },
     {
       "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn",
-      "title": "英超 2026-27 赛季球衣：每件发布的球衣排名 - ESPN",
+      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN",
       "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN",
       "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
       "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN",
@@ -200,11 +200,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-cape-verde-after-brazil-report-makes-big-claim-sports-ndtv-com",
-      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 - sports.ndtv.com",
-      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 sports.ndtv.com",
-      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - sports.ndtv.com",
-      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim  sports.ndtv.com",
+      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-cape-verde-after-brazil-report-makes-big-claim-ndtv-sports",
+      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 - NDTV Sports",
+      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 NDTV Sports",
+      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - NDTV Sports",
+      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim  NDTV Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0hSYmthVHNweS1BSktaY2NEN053TEtwaFMwXzg?oc=5",
