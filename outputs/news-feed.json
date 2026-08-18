@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T05:34:17.595147+00:00",
+  "updatedAt": "2026-08-18T06:51:40.643094+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-how-chapman-prepared-students-to-help-produce-fifa-world-cup-coverage-chapman-newsroom",
+      "title": "查普曼如何帮助学生做好准备，帮助制作 FIFA 世界杯™ 报道 - Chapman Newsroom",
+      "summary": "查普曼如何帮助学生做好准备，帮助制作 FIFA 世界杯™ 报道 查普曼新闻室",
+      "originalTitle": "How Chapman Prepared Students to Help Produce FIFA World Cup™ Coverage - Chapman Newsroom",
+      "originalSummary": "How Chapman Prepared Students to Help Produce FIFA World Cup™ Coverage  Chapman Newsroom",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNRVpIZWo1bnFPakl6R25JWV9lRU84NksyS09neWlEbEhFUUNBVkxiV2FjRmdPRWJSMDFLWHNXdzJ2S0wyamJrTkFoYzMtckhvbTlxdTVldjBtQm1ZOWExUzJZTkctcTk3ZHhNdGJQLXFWdHR2aktaNmE3U05xekJlaGs0dnoyWjFiNjhndDBRZWdOWk5QbXppdVNGLS1yVGpYUi0ySnBhOHhXZw?oc=5",
+      "publishedAt": "2026-08-18T04:52:02+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-国际足协营运总监离职-曾公开批评恩芬天奴出售世界杯股权计划-香港01",
       "title": "国际足协营运总监离职 曾公开批评恩芬天奴出售世界杯股权计划 - 香港01",
@@ -80,6 +92,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-garcia-blames-medical-staff-for-belgium-s-uninspiring-fifa-world-cup-2026-campaign-sportstar",
+      "title": "加西亚将比利时2026年世界杯的平淡表现归咎于医务人员 - 体育明星",
+      "summary": "加西亚将比利时 2026 年 FIFA 世界杯宣传活动的平庸归咎于医务人员",
+      "originalTitle": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign - Sportstar",
+      "originalSummary": "Garcia blames medical staff for Belgium’s uninspiring FIFA World Cup 2026 campaign  Sportstar",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTlBabmxuYTNCSmNzMDM5Y3Z2QnpqcGZ6WVRBVEpjYVU3Sms2V3YyRURKYVRSNFRhMGFNUl91SGhaZEJrSHVsRHh2d3MzMnhKWEMwUWFvUkttOXQxT0hCeUV3cmZ6YzVxWUZNeUNoVWo4UVBZWmNFZWJWNWFwU2FlYzJvRVdyb24zSTJCSDlXRThVTkJhNkJPR0x2bk51d3hLbGkwbTVkMVk1c0EzajFST214WDZLQVVkS19WRzRiLVhNeVdpTlNqOWl1a1I3RkY4LVJYTlF4N2w1al8wclF2QzZpOFdMU3pIV0RKatIB8wFBVV95cUxNNHhpQmVIeUcybU9WRnJvcnFRYlppRm1UdnhGYURuTWotVlRHcTkteDdUMEJkQXZ6ZFB1R0ZhNEtxbFM1dng1LW1BVkltVTJORExtV0J0U1N3VEdKQXFfRDZWTmpWUFFzOWktZzVKbDVRcXdvb2kzMXZ4eDlRYmJpZVE3ZXo4U3J5YTQ4d05TUXkycndMcWZjcXpweGdNUkdzOXZzcHY3eWpnd01HSHlfUno0T0h4UmhvYWFORUx0dWtBWFk3ZW95TVlFc1V3U0t0SzFKNzVJN2tlb0M4VlVFUFc2Q1lBYTRsQ1JIX3BsSUd0Qm8?oc=5",
+      "publishedAt": "2026-08-18T02:40:46+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-办完一届世界杯-谁赚钱谁亏钱-卡塔尔-沙特阿拉伯-俄罗斯-加拿大-墨西哥-美国-南非-巴西-世界杯-懂球帝",
       "title": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯 - 懂球帝",
       "summary": "办完一届世界杯，谁赚钱谁亏钱|卡塔尔|沙特阿拉伯|俄罗斯|加拿大|墨西哥|美国|南非|巴西|世界杯  懂球帝",
@@ -89,6 +113,18 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE52MlYwMV9wQXpfREViZ0hGTW9ERGlHd2t1YmRCMzctbTFscE04Skg2VjlaMGRJWUU2RXRiVjRpUWM5NVdoVm5EcTd1QlJxQlJXUVJDVG9mbw?oc=5",
       "publishedAt": "2026-08-18T02:03:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-swiss-world-cup-star-breel-embolo-reportedly-turns-down-atlanta-united-for-premier-league-move-to-ipswich-wa",
+      "title": "据报道，瑞士世界杯球星布雷尔·恩博洛拒绝了亚特兰大联队转会至伊普斯维奇的英超联赛 - wakingthered.com",
+      "summary": "据报道，瑞士世界杯球星布雷尔·恩博洛拒绝了亚特兰大联队转会至伊普斯维奇的英超联赛 wakingthered.com",
+      "originalTitle": "Swiss World Cup star Breel Embolo reportedly turns down Atlanta United for Premier League move to Ipswich - wakingthered.com",
+      "originalSummary": "Swiss World Cup star Breel Embolo reportedly turns down Atlanta United for Premier League move to Ipswich  wakingthered.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQ3VEdUdzQ2JxdGhoUjZTVTd5aWRqM1gxNXROendLRnVFcVBOMl84NmhlSE9ibThxdzRGeXZBSVBDdWlHSzV2SzF5X1p2Z3VQXy13M1Fnanc3M2lScVhsUU0tY0owYzh5YnNoeFd4RTFTZENJNXlydWRXSjk2UDBUSVlxOTlzS1ZpckVkRXBxa2ZsU0dIYzJnTnNzTFlLMDh6UGtfcUdiZzZlR2xFYVhHWElXbmd1cGpOblJWczUzQmU2MzBYTXc?oc=5",
+      "publishedAt": "2026-08-18T01:01:13+00:00",
       "heat": 52
     },
     {
@@ -112,7 +148,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOLWdhQ0RhOWc4NW1SMFJlRThjeXRSZ01YMENhUHRkWnRTNHp3dllfUWozVmNGME00eE5JSWtLenlOZ19fZTlYdzNiN3o0RGtmVEp6S1NWdEIzbl9MQktGRC1lR2hLSWdWNVpsb2pQdkVJQVhGS0xYTXVlZEg1dWhYcklZemwwQWdNbk1wcmQyeG9QQzJoaTBWWTJkdw?oc=5",
-      "publishedAt": "2026-08-18T00:28:54+00:00",
+      "publishedAt": "2026-08-18T00:30:34+00:00",
       "heat": 60
     },
     {
@@ -186,42 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XOE1kUEZwTjd1d2pOMHFOUk1Wa0JkYTFJSFN0TGVaZXA2VExjeFdzSVV4OVJGakV1VmMtWEQ4eVJvMU9TU0pEOXlybDVDTm9MWVBveG1xS1JGS2xqOGp3YQ?oc=5",
       "publishedAt": "2026-08-17T23:32:47+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-czechia-vs-mexico-extended-highlights-2026-fifa-world-cup-intervista-stasi-le-iene-ktapb7jtju-mshale",
-      "title": "捷克 vs 墨西哥 加长集锦 🌎🏆 2026 FIFA 世界杯™ Intervista Stasi Le Iene (Ktapb7JtJU) - Mshale",
-      "summary": "捷克 vs 墨西哥 加长集锦 🌎🏆 2026 FIFA 世界杯™ Intervista Stasi Le Iene (Ktapb7JtJU)  Mshale",
-      "originalTitle": "Czechia Vs Mexico Extended Highlights 🌎🏆 2026 FIFA World Cup™ Intervista Stasi Le Iene (Ktapb7JtJU) - Mshale",
-      "originalSummary": "Czechia Vs Mexico Extended Highlights 🌎🏆 2026 FIFA World Cup™ Intervista Stasi Le Iene (Ktapb7JtJU)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE00TlNTODRiSTJiSi1rZzBNUWR2aDlCdW1SRVVNNDkyWV95RHFFbTVSeVo5TFU1NkdsRVV4WGxlZ3JBSVFwY3ladzVqakF0SGRodEFZbmpDZjlPdk5GU3dIcA?oc=5",
-      "publishedAt": "2026-08-17T23:29:47+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fc-26-côte-d-ivoire-vs-norway-fifa-world-cup-2026-round-of-32match-ps5-4k60-lyon-7ehbdsdlte-mshale",
-      "title": "FC 26 - 科特迪瓦 VS 科特迪瓦挪威-2026 年世界杯 32 场比赛 | PS5 [4K60] 里昂 (7eHBDsdlTe) - Mshale",
-      "summary": "FC 26 - 科特迪瓦 VS 科特迪瓦挪威-2026 年世界杯 32 场比赛 | PS5 [4K60] 里昂 (7eHBDsdlTe) Mshale",
-      "originalTitle": "FC 26 - Côte D’Ivoire Vs. Norway -FIFA World Cup 2026 Round Of 32Match | PS5 [4K60] Lyon (7eHBDsdlTe) - Mshale",
-      "originalSummary": "FC 26 - Côte D’Ivoire Vs. Norway -FIFA World Cup 2026 Round Of 32Match | PS5 [4K60] Lyon (7eHBDsdlTe)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kN3BGdDVsYkljOVAydGRObk42MldhWjNaMjVJdi1Tb002OHhVMlhjQU5XVzNxZmhJajBXeGNNNi1HUkMwcWN0UnVmcHVnSmhWX1NfYWhwYlIzRlk?oc=5",
-      "publishedAt": "2026-08-17T23:18:24+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ballet-folklórico-de-méxico-de-amalia-hernández-honored-to-perform-at-2026-fifa-world-cup-opening-in-mexico-",
-      "title": "墨西哥民间芭蕾舞团阿玛利亚·埃尔南德斯很荣幸在墨西哥城举行的 2026 年 FIFA 世界杯开幕式上演出 - Lohud",
-      "summary": "墨西哥民间芭蕾舞团 Amalia Hernández 荣幸地在墨西哥城洛胡德举行的 2026 年 FIFA 世界杯开幕式上演出",
-      "originalTitle": "Ballet Folklórico de México de Amalia Hernández Honored to Perform at 2026 FIFA World Cup Opening in Mexico City - Lohud",
-      "originalSummary": "Ballet Folklórico de México de Amalia Hernández Honored to Perform at 2026 FIFA World Cup Opening in Mexico City  Lohud",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOUmNQSk5icDhoN0RRZjROa3hfY3QwamV6QUNxQlQ5MFcybEJKNjluRFpKY0pBY3lKUTdaSWUtZ2pEWDAwZGZWUFB5ajRUMlVDSkkxTU9vbzQ5NXJmRVJ2RklBU2MybURBdDh1QVpsMU45Q20waW9EcXkzQTlObWpDRHdWRUJvT2x3NVNERnBTdVJYN2MxYWFVMHlDUlBqb0EwSmZRSUJ1NVJMZVhnWDVuSnVkWEx1Y2RSVkt6LUJTaXdCTTJoc2Ywa2d4cXVnb1QxWEZ0d3h1Y0t5c3pndHpGVzF0VTVlVDFra1dJb3ZxeUtNRVZ6?oc=5",
-      "publishedAt": "2026-08-17T23:14:10+00:00",
-      "heat": 60
     }
   ]
 }
