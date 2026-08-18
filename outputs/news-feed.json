@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T13:48:19.961444+00:00",
+  "updatedAt": "2026-08-18T14:38:15.751893+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-bizarre-egypt-coach-collapses-while-trying-to-stop-fight-between-his-two-wives-the-indian-express",
+      "title": "奇怪！埃及教练在试图阻止两个妻子之间的争吵时倒下 - 印度快报",
+      "summary": "奇怪！埃及教练在试图阻止两个妻子之间的争斗时倒下 - 印度快报",
+      "originalTitle": "Bizarre! Egypt coach collapses while trying to stop fight between his two wives - The Indian Express",
+      "originalSummary": "Bizarre! Egypt coach collapses while trying to stop fight between his two wives  The Indian Express",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQOVFUV2hSUTJwQlkxakdPZWFXYlFEYVp2Tlh5ZWlOQnhIbzZRZlNMWmtKU2FncEFLUGV0Nl94X0t2d09GNncyNV9LVWZqYm1uc2FZSURQYkJLazBkTXM1N3RpazRaT3U2QWwtckNiUGk4TW9FR0NDQU5PLWJCdFgwcDJEYVlleDE4R2xlT19tZHhtcEhiR0NPRm9ONWNvQ05aQkxOemcyOEN2NVpUN2Vj0gG2AUFVX3lxTFBrbFFVeGtLVUpPWlQ4Ry1rY055Rl9XVWg4UlNBX1U0SUo1dWpOYjRpZnp0MjdhWmZ1M2d4WnFoOHFPekpWbVBYRmdEdlFNOU1xY2lkNGRFT3pyci1JeWJNR0EzYi03NW51S1puOFlLVUVyb2taZ3lyTTFJQXZyT1pKSzZ4ZzM5YnVzeGQ3bHcxdklIekZmSE9GbWhJM1FTUmV3b3NJcFIxUGhTWDlMSXN0MHNoYmp3?oc=5",
+      "publishedAt": "2026-08-18T14:01:52+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-world-cup-hero-maseko-signs-with-fc-copenhagen-조선일보",
       "title": "世界杯英雄马塞科与哥本哈根足球俱乐部签约 - 조선일보",
@@ -81,10 +93,10 @@
     },
     {
       "id": "google-news-rezolve-ai-proves-at-scale-intelligence-at-the-2026-football-world-cup-103-million-app-opens-5-8-million-loc",
-      "title": "Rezolve Ai 在 2026 年足球世界杯上证明了大规模智能：1.03 亿次应用程序打开、580 万次位置活动和 16 个体育场 - manilatimes.net",
-      "summary": "Rezolve Ai 在 2026 年足球世界杯上证明了大规模智能：1.03 亿次应用程序打开、580 万次位置事件和 16 个体育场 manilatimes.net",
-      "originalTitle": "Rezolve Ai Proves at-Scale Intelligence at the 2026 Football World Cup: 103 Million App Opens, 5.8 Million Location Events and 16 Stadiums - manilatimes.net",
-      "originalSummary": "Rezolve Ai Proves at-Scale Intelligence at the 2026 Football World Cup: 103 Million App Opens, 5.8 Million Location Events and 16 Stadiums  manilatimes.net",
+      "title": "Rezolve Ai 在 2026 年足球世界杯上证明了大规模智能：1.03 亿次应用程序打开、580 万次位置活动和 16 个体育场 - 马尼拉时报",
+      "summary": "Rezolve Ai 在 2026 年足球世界杯上证明了大规模智能：1.03 亿次应用程序打开、580 万次位置事件和 16 个体育场",
+      "originalTitle": "Rezolve Ai Proves at-Scale Intelligence at the 2026 Football World Cup: 103 Million App Opens, 5.8 Million Location Events and 16 Stadiums - The Manila Times",
+      "originalSummary": "Rezolve Ai Proves at-Scale Intelligence at the 2026 Football World Cup: 103 Million App Opens, 5.8 Million Location Events and 16 Stadiums  The Manila Times",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPREp6bVVMU3dtMDZQVzJnVUVqTVcxQk9Gb2x1YnZKalNaekNVNkw4MFdIWW9WRnVzV1pJUXVXNVZzTERXeXBvTHdzZ0tUN0RlcG51N0x1TFFvMHhsZjVRWlppRkRzdWpQM2J0eDEwX21PSjFXSlRQa3QwTUVOLVl0Z25UTlotS3pKc1FWdUhZUE1abGpERDV1azRyWEhuX19hb29EZjdCMzd3MDIzN2tIcFpScHVyV2ZoN2NxM2N5YXQ3dmh5ajg1X0dseEN3dkFrdjJpUllKdEJSZm9kajg0MUJUWjVoNU8zdU1FQWNKUDNucDVsVDRxNWROT1NYNXR0Q1ZwbVJzWjlLVWpvbFFPSVpLRkFQNkRwelAzc2dZSXI5T1BPdGZycjhTcnlWR01JbF800gG4AkFVX3lxTE9iS0NTR29Na281b2VkZjdkUUItYWNjU2swZUo4cm4zcndYQ3RmZmhuMldiZmFwVGF5eUR4YlFleFNRRnl2WFpOdmg4Qm9CcDF0VW1OXzgxZnhGSkdXcVQ4QjlOQm9RYncxN1dhY2xZcHNWN0VvZ3pHNnlGeHhYdkRtVmhESl9kOXFuWGl4T2p5MzNQeVV5NzNobUNNUHg4Y0pKRmktaWpicExoM2pBazBTX3RJYzBfbHpqZUYyNXNESXhjOGo3WUpaQzJfYmhVaUlBa2tlLW9XZExtb3ltQ2tqd25uLVZIWUVvUEd0LUh4RERpVmxMbFFJalJiTUI5Yk1DOWtTRExwX3UtMmVfMjN3eks3RXQ0Z2trYkx2YjdfUjBCeklKRUFKMGtlRjM1NVlPUkFxdEswQw?oc=5",
@@ -92,11 +104,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-公开批评因凡蒂诺-fifa首席运营官遭解雇-atvnewsonline-com",
-      "title": "公开批评因凡蒂诺 FIFA首席运营官遭解雇 - atvnewsonline.com",
-      "summary": "公开批评因凡蒂诺 FIFA首席运营官遭解雇  atvnewsonline.com",
-      "originalTitle": "公开批评因凡蒂诺 FIFA首席运营官遭解雇 - atvnewsonline.com",
-      "originalSummary": "公开批评因凡蒂诺 FIFA首席运营官遭解雇  atvnewsonline.com",
+      "id": "google-新闻-中文-公开批评因凡蒂诺-fifa首席运营官遭解雇-亚洲电视新闻",
+      "title": "公开批评因凡蒂诺 FIFA首席运营官遭解雇 - 亚洲电视新闻",
+      "summary": "公开批评因凡蒂诺 FIFA首席运营官遭解雇  亚洲电视新闻",
+      "originalTitle": "公开批评因凡蒂诺 FIFA首席运营官遭解雇 - 亚洲电视新闻",
+      "originalSummary": "公开批评因凡蒂诺 FIFA首席运营官遭解雇  亚洲电视新闻",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUEI5UDI1S0hZOEV1UUI2cFBJN0lNclRZcTREWTVTeTJPdzhqQzdqbjRWb0pzVkE2VFZ1V2lHVjRFSUVqQTZhOHNLd0loWTBGUnZPTmQ3bUttSGhHbHlvbWNTLUdxUE5FU1J1TE4waEZrN0VGT0d4VVlFb1JlVTY3aGNnanYtVmlxcXhOcHpNV0VieHpvd2dWdTl5c2J6bWFUbi1HR0p4MHMxZjdfVTRKZjc1Qy14ZGpuTHFIaW5uSnBMUF9abnp2alY4bVBRZFNaR1F6bkY1enYwRDV6dXY2NkxNTTVzYl9aYy00Zl9WamkyajhwY0YyOUpYYksyaDJrdEhJVzNWRHZvSkpnQy1RN0NKZjB1Smo5c2YtenNaNTc?oc=5",
@@ -104,11 +116,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-dormant-accounts-used-to-trick-operators-in-widespread-fifa-world-cup-fraud-igamingfuture",
-      "title": "休眠账户在国际足联世界杯大范围欺诈中用来欺骗运营商 - iGamingFuture",
-      "summary": "在广泛的 FIFA 世界杯欺诈中，休眠帐户被用来欺骗运营商 iGamingFuture",
-      "originalTitle": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud - iGamingFuture",
-      "originalSummary": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud  iGamingFuture",
+      "id": "google-news-dormant-accounts-used-to-trick-operators-in-widespread-fifa-world-cup-fraud-igamingfuture-com",
+      "title": "休眠账户在国际足联世界杯大范围欺诈中用来欺骗运营商 - igamingfuture.com",
+      "summary": "在广泛的 FIFA 世界杯欺诈中，休眠帐户被用来欺骗运营商 igamingfuture.com",
+      "originalTitle": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud - igamingfuture.com",
+      "originalSummary": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud  igamingfuture.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHBmWU1Tc195TG5fVEl5LURqclNmTXE0SVdfRXVZQ09zWWxWcnRpY2YwQjhUUHVxOEY4Q05oeWlWdzhQZlpmdU5VS2k2V3ptNExUY1RBWXJUZTJiT2U0VDVZOUFOQ2xvRkhtWmV5VUNNZkNoNEpTclJyMTNwY25SSUtIdFZ2OHJ6UDB4NDVSVkhWaGxiMGlMbzFUUWlBRXMxYWJ6NQ?oc=5",
@@ -117,10 +129,10 @@
     },
     {
       "id": "google-news-world-cup-2026-countdown-how-to-watch-fifa-live-in-india-on-tv-mobile-match-wise-full-list-in-ist-timing-goo",
-      "title": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST 计时中的匹配完整列表 - goodreturns.in",
-      "summary": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST 计时中的匹配完整列表 goodreturns.in",
-      "originalTitle": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing - goodreturns.in",
-      "originalSummary": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing  goodreturns.in",
+      "title": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST 计时中的匹配完整列表 - Goodreturns",
+      "summary": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST Timing 中的按匹配方式完整列表 Goodreturns",
+      "originalTitle": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing - Goodreturns",
+      "originalSummary": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing  Goodreturns",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT28yV2thb0VPZmJraG1SSjNhVkk0RlJIQmxEWWVIQk92LTNGSWFtRVVVUHA1NllGX2pka1c4TWlvZlNodEVqa29LblJnTFJtQmZFNzM2aUtBVWpDUlVqT2I3aXFDbGZVRk1WclhsVHRjVm5sdkREaS1NZXRKQVhBeFZUeERBbUR3VHRyQXdRLXY4clNGSnB6a0I1WTNBWEh1cmhxZktWdGFJRWtQMEREcTh4M1gxUmdHbmRia09hc3V1UktsY3duNGpKS0xyUDlWRm9PSGVSWDUxMHM?oc=5",
@@ -141,7 +153,7 @@
     },
     {
       "id": "google-news-2026-fc-100-kane-yamal-messi-among-best-men-s-soccer-players-espn",
-      "title": "2026 FC 100：凯恩、亚马尔、梅西跻身最佳男足运动员之列 - ESPN",
+      "title": "2026 FC 100：凯恩、亚马尔、梅西跻身最佳男子足球运动员之列 - ESPN",
       "summary": "2026 FC 100：凯恩、亚马尔、梅西跻身最佳男子足球运动员之列 ESPN",
       "originalTitle": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players - ESPN",
       "originalSummary": "2026 FC 100: Kane, Yamal, Messi among best men's soccer players  ESPN",
@@ -189,7 +201,7 @@
     },
     {
       "id": "google-news-infantino-s-fifa-world-cup-fallout-lamour-exits-after-criticism-of-plan-al-jazeera",
-      "title": "因凡蒂诺世界杯的影响：拉穆尔在批评计划后退出 - 半岛电视台",
+      "title": "因凡蒂诺世界杯的影响：拉莫尔在批评计划后退出 - 半岛电视台",
       "summary": "因凡蒂诺的 FIFA 世界杯影响：拉莫尔在批评计划后退出",
       "originalTitle": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan - Al Jazeera",
       "originalSummary": "Infantino’s FIFA World Cup fallout: Lamour exits after criticism of plan  Al Jazeera",
@@ -200,28 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-rush-sports-acquires-fifa-26-world-cup-broadcast-rights-for-the-caribbean-trinidad-guardian",
-      "title": "RUSH Sports 获得 FIFA '26 世界杯加勒比地区转播权 - 特立尼达卫报",
-      "summary": "RUSH Sports 获得 FIFA '26 世界杯加勒比地区转播权 特立尼达卫报",
-      "originalTitle": "RUSH Sports acquires FIFA '26 World Cup broadcast rights for the Caribbean - Trinidad Guardian",
-      "originalSummary": "RUSH Sports acquires FIFA '26 World Cup broadcast rights for the Caribbean  Trinidad Guardian",
+      "id": "google-news-fifa-world-cup-2026-live-argentina-vs-spain-drone-show-live-finals-stadium-live-fifa-live-sarah-ferguson-a91",
+      "title": "2026 年 FIFA 世界杯直播 |阿根廷对阵西班牙无人机现场表演 |决赛体育场直播 | FIFA LIVE 莎拉·弗格森 (A91UpKTqHv) - Mshale",
+      "summary": "2026 年 FIFA 世界杯直播 |阿根廷对阵西班牙无人机现场表演 |决赛体育场直播 | FIFA LIVE 莎拉·弗格森 (A91UpKTqHv) Mshale",
+      "originalTitle": "FIFA World Cup 2026 LIVE | ARGENTINA Vs SPAIN DRONE SHOW LIVE | FINALS STADIUM LIVE | FIFA LIVE Sarah Ferguson (A91UpKTqHv) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 LIVE | ARGENTINA Vs SPAIN DRONE SHOW LIVE | FINALS STADIUM LIVE | FIFA LIVE Sarah Ferguson (A91UpKTqHv)  Mshale",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQY2N1V1hyYlZzUFoxNzljbDlrX2RTUUJNYWl2a2lwOUIwRUpvRFZ5ZExJOE5XVGFxbHlMRWcwd3A4ZjlxRUI3c0YwX1kzRUFuTl9VWlVpSnVmN3lENGE5MzdNSXNDdGxFMElLT1JVdGQ1dTlkcU5ibm9sZjAwZUFpb1hBT08yY2NmSjR0YzBWeGc3NllGSmVCX1Z3dWdGdmFpOEsxaEFxc0w1aHpkYVZmbmVxMnEzYTRGcWpnNF85NWlmWGNNV0xONA?oc=5",
-      "publishedAt": "2026-08-18T07:39:03+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-凯文-拉穆尔-国际足联的运营总监-在批评贾尼-因凡蒂诺提出的世界杯私有化计划后被解雇-informat-ro",
-      "title": "凯文·拉穆尔，国际足联的运营总监，在批评贾尼·因凡蒂诺提出的世界杯私有化计划后被解雇。 - Informat.ro",
-      "summary": "凯文·拉穆尔，国际足联的运营总监，在批评贾尼·因凡蒂诺提出的世界杯私有化计划后被解雇。  Informat.ro",
-      "originalTitle": "凯文·拉穆尔，国际足联的运营总监，在批评贾尼·因凡蒂诺提出的世界杯私有化计划后被解雇。 - Informat.ro",
-      "originalSummary": "凯文·拉穆尔，国际足联的运营总监，在批评贾尼·因凡蒂诺提出的世界杯私有化计划后被解雇。  Informat.ro",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQVzByVGx5ei1GaEkzd05oTUtTRkJxb1RjcmhvWjVZcDZTSlk5aUhuMm5sYWtlQVl3eVQ2THRSeTJhYjJ6T2x6MVVEVDZnMXhrTHdTQzhVVUJha3F1QnBfQXJMMHFUX0JHcG02U25uSUljZWRtbEZEMHUwc2J3UElOWFpwUjVMMl9DQWhEalhzZ2tnanE5NXBDaDZkYWwxSkhMM3pvTkRR?oc=5",
-      "publishedAt": "2026-08-18T07:20:31+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RSVBDMGxnZEJjWl9JMGJYczMwLVJlMi1uSGsyVnlQVTNDeWNuck84RGtuY1VzNVcydjhIb3hsUkxlU3FQUGE1Q0V4X05mTFVTQTFHMHpKTm4zdw?oc=5",
+      "publishedAt": "2026-08-18T09:31:58+00:00",
+      "heat": 68
     }
   ]
 }
