@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T17:31:55.063723+00:00",
+  "updatedAt": "2026-08-18T18:46:01.948782+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -56,6 +56,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-18T15:32:36+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-the-fifa-world-cup-shows-why-cpg-growth-is-ecosystem-vs-ecosystem-consumer-goods-technology",
       "title": "FIFA 世界杯揭示了为什么 CPG 的增长是生态系统与生态系统之间的较量 - Consumer Goods Technology",
       "summary": "FIFA 世界杯展示了为什么 CPG 的增长是生态系统与消费品技术的关系",
@@ -69,7 +81,7 @@
     },
     {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
+      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
       "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
       "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
@@ -88,7 +100,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYVlIQjd3R1N0TVNDeFVneU5lYjlvVkxTTTU4UUdzaklfX1ZSLURVMUpobzh0MkRoaVp1SlV6VUwxaS1IdFZnbjI3VnlkemxIX3oybGFRalA5LUxhS0pDeDFLcHFoMHNXQ1h3RTYwN1ptaWlHSk1uc2FxNFRYSjVoMWFsbFFoQQ?oc=5",
-      "publishedAt": "2026-08-18T13:40:23+00:00",
+      "publishedAt": "2026-08-18T14:39:11+00:00",
       "heat": 52
     },
     {
@@ -159,14 +171,14 @@
       "originalSummary": "Exclusive: Consultant warned Vancouver city hall that local FIFA sponsorships could be a tough sell  Bob Mackin | Substack",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNcjVZY0U2WFk1U2tSTDdVS0lBYjE5aTZqUi13b1BrRkw4ZVE2WWtOZFZ3SVhWY01RcF9jUnNmUjRFTTBDbzBDS0x4VmVrNGt5N1hUdzJUeWpsUmRyT3lWcVZMUmd5bWE3dm9oYXd6d2V3ZGM2VnU4LWc4cVlERWFQNXc5NDRPaU0wTEFKVEl0ZHZpRkhTQS1QUndiMTZTUVBxX1U0VkpHQUxoY24wdEd1alhrZmJLTFh2NVZGQ3VfbWtvZVVsQ0Vfb3VSR3VZM3BoZlk5LQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JX3F5dTRvdXdWcm9ISk0zNDF6Z1llelpsNV9ySWJHOTFzcDAyRWRlZkI4OWVwcHNaVlNZbldOcFA2NlhDM05aS2hkRVdhTFdMX2ZRbmwtcHUwTGdsLUt0QzhiM2lQTDlQLUNXalk4eWh4ZE5Db0c3VW93?oc=5",
       "publishedAt": "2026-08-18T12:26:22+00:00",
       "heat": 52
     },
     {
       "id": "google-news-fox-and-nbcuniversal-score-with-fifa-world-cup-2026-success-in-nielsen-s-june-gauge-reports-nielsen",
       "title": "尼尔森 6 月指标报告中 FOX 和 NBCUniversal 为 FIFA 2026 世界杯™ 取得成功打分 - Nielsen",
-      "summary": "尼尔森 6 月指标报告中 FOX 和 NBCUniversal 为 FIFA 2026 世界杯™ 的成功打分",
+      "summary": "尼尔森 6 月指标报告中 FOX 和 NBCUniversal 为 FIFA 2026 年世界杯™ 的成功打分",
       "originalTitle": "FOX and NBCUniversal Score with FIFA World Cup 2026™ Success in Nielsen’s June Gauge Reports - Nielsen",
       "originalSummary": "FOX and NBCUniversal Score with FIFA World Cup 2026™ Success in Nielsen’s June Gauge Reports  Nielsen",
       "translation": "online",
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxNUEI5UDI1S0hZOEV1UUI2cFBJN0lNclRZcTREWTVTeTJPdzhqQzdqbjRWb0pzVkE2VFZ1V2lHVjRFSUVqQTZhOHNLd0loWTBGUnZPTmQ3bUttSGhHbHlvbWNTLUdxUE5FU1J1TE4waEZrN0VGT0d4VVlFb1JlVTY3aGNnanYtVmlxcXhOcHpNV0VieHpvd2dWdTl5c2J6bWFUbi1HR0p4MHMxZjdfVTRKZjc1Qy14ZGpuTHFIaW5uSnBMUF9abnp2alY4bVBRZFNaR1F6bkY1enYwRDV6dXY2NkxNTTVzYl9aYy00Zl9WamkyajhwY0YyOUpYYksyaDJrdEhJVzNWRHZvSkpnQy1RN0NKZjB1Smo5c2YtenNaNTc?oc=5",
       "publishedAt": "2026-08-18T11:30:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-dormant-accounts-used-to-trick-operators-in-widespread-fifa-world-cup-fraud-igamingfuture",
-      "title": "休眠账户在国际足联世界杯大范围诈骗中用来欺骗运营商 - iGamingFuture",
-      "summary": "在广泛的 FIFA 世界杯欺诈中，休眠帐户被用来欺骗运营商 iGamingFuture",
-      "originalTitle": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud - iGamingFuture",
-      "originalSummary": "Dormant Accounts Used To Trick Operators In Widespread FIFA World Cup Fraud  iGamingFuture",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSHBmWU1Tc195TG5fVEl5LURqclNmTXE0SVdfRXVZQ09zWWxWcnRpY2YwQjhUUHVxOEY4Q05oeWlWdzhQZlpmdU5VS2k2V3ptNExUY1RBWXJUZTJiT2U0VDVZOUFOQ2xvRkhtWmV5VUNNZkNoNEpTclJyMTNwY25SSUtIdFZ2OHJ6UDB4NDVSVkhWaGxiMGlMbzFUUWlBRXMxYWJ6NQ?oc=5",
-      "publishedAt": "2026-08-18T11:21:24+00:00",
-      "heat": 60
     }
   ]
 }
