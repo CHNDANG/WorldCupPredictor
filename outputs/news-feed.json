@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T19:31:37.053942+00:00",
+  "updatedAt": "2026-08-18T20:29:35.039143+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-ranking-the-contenders-to-win-2026-27-premier-league-will-arsenal-repeat-nbc-los-angeles",
+      "title": "2026-27赛季英超冠军争夺者排名：阿森纳会重蹈覆辙吗？ - NBC 洛杉矶",
+      "summary": "2026-27赛季英超冠军争夺者排名：阿森纳会重蹈覆辙吗？  洛杉矶全国广播公司",
+      "originalTitle": "Ranking the contenders to win 2026-27 Premier League: Will Arsenal repeat? - NBC Los Angeles",
+      "originalSummary": "Ranking the contenders to win 2026-27 Premier League: Will Arsenal repeat?  NBC Los Angeles",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0owTG5xSDdJN3BqWk51Ujd2VVMwMWJxcTVRQ3pVVU9SdVhOMGluYlJJUXc5eU85U3hLdjV6RGlZaWRSTTZIdHlJaGU5bmNHamI1empiZm5QaEpFeU1ESzJnNE5LT0RlY3d5UFdMdW5aZzZQT2xsdnhSRTBrQ0tJMUtxS3B1SDNEOVpQMkVKbTlPdkZBckFRLTJR0gGiAUFVX3lxTE9FQkdKbEE3U0ZQUWp2bFNvSjl4YkpDcWtmbm9GVWlQM0J1WmZWeDY4Qm4wQXdGQWJyLUxaR0FCUGJuQUNCamdISGJCR1dubFI2ZWo3NzJ1VmpOeUc4dmhUVk9kZFFWejVmRlhvaWsxakFzOUFEaTE2SGlYZmpKNGFKaXhpVmh3ak1ydVhpaXc4STFyWXpBNFhBdXBsVmhmQU9qZw?oc=5",
+      "publishedAt": "2026-08-18T19:52:53+00:00",
+      "heat": 44
+    },
     {
       "id": "google-新闻-中文-批评fifa主席-卖世杯-方案-营运总监被炒-星島頭條",
       "title": "批评FIFA主席「卖世杯」方案 营运总监被炒 - 星島頭條",
@@ -30,6 +42,18 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORExOZ1hoYXdidURMbjZnRkRfUWpGRU5EejBfNmo0T3A2NUdKVUI0NjRBdFo0MW1zQUNyd0hkbWFrZDBaYS1VeXZtblpveFFMeXNXbzNNVUFzNDZRSEhoQlQzdnVEN2pIcHV1cTl2XzhZOFN0WDN1ZE94RGlJS1NydGRpNFFYdzktOTdvMC1VUU1TQQ?oc=5",
       "publishedAt": "2026-08-18T18:34:00+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-begins-today-group-stage-quarter-finals-to-semi-finals-check-full-schedule-goodreturns",
+      "title": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表 - Goodreturns",
+      "summary": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表  Goodreturns",
+      "originalTitle": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule - Goodreturns",
+      "originalSummary": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule  Goodreturns",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakhZOUs2TmczSFcwYWQ1M0lVdHNHdExoUktMOTF1NUFSai1mUUd3OVlBRjlralJnekZVbTBqY2JKa3N2R0pHREoycUZXTXNIaXVYYzNlT1dUMG9KZVhNZ0tVYllhY1NVbV9ZUUoxbmVYYk44ZHdkOXYwc1FqSG9xZTZuS05iT1NCTjBpdTFONnFwUFQ0NFFnUjhYeGxLVktycVhNVWx4TW5jVm14ZUVpNHZlaUtWNUFDU1gyMC05MXUyaU5tQmRIS0M0WjNnMTc3Q05leTdn?oc=5",
+      "publishedAt": "2026-08-18T18:26:50+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-2026-fifa-world-cup-golden-ball-winner-rodri-leaves-manchester-city-to-join-barcelona-news18",
@@ -56,11 +80,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-as-fifa-elections-approach-israel-withdraws-support-for-gianni-infantino-the-jerusalem-post",
-      "title": "随着国际足联选举临近，以色列撤回对詹尼·因凡蒂诺的支持 - 《耶路撒冷邮报》",
-      "summary": "随着国际足联选举临近，以色列撤回对詹尼·因凡蒂诺的支持 耶路撒冷邮报",
-      "originalTitle": "As FIFA elections approach, Israel withdraws support for Gianni Infantino - The Jerusalem Post",
-      "originalSummary": "As FIFA elections approach, Israel withdraws support for Gianni Infantino  The Jerusalem Post",
+      "id": "google-news-israel-withdraws-support-for-embattled-fifa-president-gianni-infantino-the-jerusalem-post",
+      "title": "以色列撤回对陷入困境的国际足联主席詹尼·因凡蒂诺的支持 - 《耶路撒冷邮报》",
+      "summary": "以色列撤回对陷入困境的国际足联主席詹尼·因凡蒂诺的支持 耶路撒冷邮报",
+      "originalTitle": "Israel withdraws support for embattled FIFA President Gianni Infantino - The Jerusalem Post",
+      "originalSummary": "Israel withdraws support for embattled FIFA President Gianni Infantino  The Jerusalem Post",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5oZHVhUkNiZnBOXzNxS2JYaTJZLTcxNi1GSXNsV0JTOGZpTG1idUNxbWZldmt0UVVUaEJpd3JCWGFLeVhpZ2RaaVNOTUl3ZW5ta25RdEFUQUJVODFNRzdXeUVIMVJadw?oc=5",
@@ -80,11 +104,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka-com",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - squawka.com",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 squawka.com",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - squawka.com",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  squawka.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
@@ -92,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-after-brazil-report-makes-big-claim-ndtv-sports",
-      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯。报告提出重大主张 - NDTV Sports",
-      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯。报告提出重大主张 NDTV Sports",
-      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team After Brazil. Report Makes Big Claim - NDTV Sports",
-      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team After Brazil. Report Makes Big Claim  NDTV Sports",
+      "id": "google-news-india-likely-to-host-fifa-world-cup-2026-team-cape-verde-after-brazil-report-makes-big-claim-ndtv-sports",
+      "title": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 - NDTV Sports",
+      "summary": "印度可能继巴西之后主办 2026 年 FIFA 世界杯佛得角队。报告提出重大主张 NDTV Sports",
+      "originalTitle": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim - NDTV Sports",
+      "originalSummary": "India Likely To Host FIFA World Cup 2026 Team Cape Verde After Brazil. Report Makes Big Claim  NDTV Sports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNQTZDeVlNZmhJM0lNQlRvclR1TFRhMEU4SFV5T3E5MkxMTXdJTTJyTVRaQW9BQnNpSGpJWTZPSERfWXFpNHV5SU82bENiSGotVW9fQVlLUzlKR2hsVjJVQ0F6VGFKWmRfTG4xS2FjVEsya2dQclpzY2hiaFowX3NXaDFKVHU1Y29xdWRTZDgxVjMybkU4eHFFdzM0cmE2NFdsYzRQUW1Bc0hSYmthVHNweS1BSktaY2NEN053TEtwaFMwXzg?oc=5",
@@ -152,6 +176,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-infantino-s-red-card-fifa-sacks-lamour-as-crisis-rises-inside-the-games",
+      "title": "因凡蒂诺的红牌：国际足联因危机升级而解雇拉莫尔 - Inside The Games",
+      "summary": "因凡蒂诺的红牌：随着奥运会内部危机的加剧，国际足联解雇了拉莫尔",
+      "originalTitle": "Infantino's red card: FIFA sacks Lamour as crisis rises - Inside The Games",
+      "originalSummary": "Infantino's red card: FIFA sacks Lamour as crisis rises  Inside The Games",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNE5RU1NrTnlib3dpOUY5aFR2ZWk1eEpzUklIRXRlS1BLcWJsaU9LM1NXRVQ2cHNQWE95a1Q5V3NvNG02SGlBSmczQW9UVE5acUlEZzRsRTZZWjhzSGE2UTRTVTF0cmY0WENLcGxvTkw3SmxfN2Fja1FjQ3lYZnk3R2FLRTAwcjQ4azhfR3FaTl9qZWNV?oc=5",
+      "publishedAt": "2026-08-18T14:32:07+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-bizarre-egypt-coach-collapses-while-trying-to-stop-fight-between-his-two-wives-the-indian-express",
       "title": "奇怪！埃及教练在试图阻止两个妻子之间的争吵时倒下 - 印度快报",
       "summary": "奇怪！埃及教练在试图阻止两个妻子之间的争斗时倒下 - 印度快报",
@@ -164,23 +200,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-infantino-s-red-card-fifa-sacks-lamour-as-crisis-rises-inside-the-games",
-      "title": "因凡蒂诺的红牌：国际足联因危机升级而解雇拉莫尔 - Inside The Games",
-      "summary": "因凡蒂诺的红牌：随着奥运会内部危机的加剧，国际足联解雇了拉莫尔",
-      "originalTitle": "Infantino's red card: FIFA sacks Lamour as crisis rises - Inside The Games",
-      "originalSummary": "Infantino's red card: FIFA sacks Lamour as crisis rises  Inside The Games",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNE5RU1NrTnlib3dpOUY5aFR2ZWk1eEpzUklIRXRlS1BLcWJsaU9LM1NXRVQ2cHNQWE95a1Q5V3NvNG02SGlBSmczQW9UVE5acUlEZzRsRTZZWjhzSGE2UTRTVTF0cmY0WENLcGxvTkw3SmxfN2Fja1FjQ3lYZnk3R2FLRTAwcjQ4azhfR3FaTl9qZWNV?oc=5",
-      "publishedAt": "2026-08-18T13:31:49+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ - 斯夸卡",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  斯夸卡",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
+      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka-com",
+      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ -squawka.com",
+      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  squawka.com",
+      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - squawka.com",
+      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  squawka.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHMtYUdLeDl1bTFsRG4zenZXam5uQ2drMllXLV9ORmRxVDlibWZQTzJKSVlpSUJ2Y0NtM0dTVk9IemNNN0hicVhnX05xYmNQMTJOR2JOYjlLR3dyWFlsNWRtMVlWaEh5VWd6bmdjVW4tYTdrYWpiZ2Z4RTFUdWNwM1B0aWRmUTVkcUpWTlpzQk5zaG1QNjQzQTZWMDRXNW9lRVZ1Y1U1ekRTTmN3OXdTWjlHdHFBY0QtSDhfc3Y5WWhReXV6bmI4QVh2VXgxSldVTHBr?oc=5",
       "publishedAt": "2026-08-18T13:24:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-toronto-s-fifa-world-cup-beaver-statues-are-now-up-for-auction-torontotoday-ca",
-      "title": "多伦多的 FIFA 世界杯海狸雕像现已拍卖 - TorontoToday.ca",
-      "summary": "多伦多的 FIFA 世界杯海狸雕像现已开始拍卖TorontoToday.ca",
-      "originalTitle": "Toronto's FIFA World Cup beaver statues are now up for auction - TorontoToday.ca",
-      "originalSummary": "Toronto's FIFA World Cup beaver statues are now up for auction  TorontoToday.ca",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONm5pN3hUcURYSXBRMlJXbXlEMjRfcFE1SENYdGctN1drMjRFYWkzRHFCT0hfUkZ0VW9fNldReFd1RjVfREJHOXFFaDBjeE4tcXJwaDB3b2VSZl96eUlKejQ3RG9IV2hTRmJYVlpZc3Vmam1tcjJXcmhBXzk0QnVQLWZEOGJDU01vdUR6MkpkLXZzQ1NTYzdWT2hLRk1nR2pXQ3BB?oc=5",
-      "publishedAt": "2026-08-18T12:31:46+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-exclusive-consultant-warned-vancouver-city-hall-that-local-fifa-sponsorships-could-be-a-tough-sell-bobmackin",
-      "title": "独家：顾问警告温哥华市政厅，当地国际足联赞助可能很难 - bobmackin.substack.com",
-      "summary": "独家：顾问警告温哥华市政厅，当地的国际足联赞助可能很难卖 bobmackin.substack.com",
-      "originalTitle": "Exclusive: Consultant warned Vancouver city hall that local FIFA sponsorships could be a tough sell - bobmackin.substack.com",
-      "originalSummary": "Exclusive: Consultant warned Vancouver city hall that local FIFA sponsorships could be a tough sell  bobmackin.substack.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JX3F5dTRvdXdWcm9ISk0zNDF6Z1llelpsNV9ySWJHOTFzcDAyRWRlZkI4OWVwcHNaVlNZbldOcFA2NlhDM05aS2hkRVdhTFdMX2ZRbmwtcHUwTGdsLUt0QzhiM2lQTDlQLUNXalk4eWh4ZE5Db0c3VW93?oc=5",
-      "publishedAt": "2026-08-18T12:26:22+00:00",
       "heat": 52
     }
   ]
