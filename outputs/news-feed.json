@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T20:29:35.039143+00:00",
+  "updatedAt": "2026-08-18T20:54:34.887773+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -32,6 +32,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-gianni-infantino-remains-fifa-president-for-now-an-update-on-fifa-situation-the-boca-raton-tribune",
+      "title": "詹尼·因凡蒂诺暂时留任国际足联主席——国际足联最新情况 - 博卡拉顿论坛报",
+      "summary": "詹尼·因凡蒂诺 (Gianni Infantino) 暂时留任国际足联主席 - 国际足联最新情况 - 博卡拉顿论坛报",
+      "originalTitle": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation - The Boca Raton Tribune",
+      "originalSummary": "Gianni Infantino Remains FIFA President for Now- an Update on FIFA situation  The Boca Raton Tribune",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYllrTmlpNktkUWE5aE5JaERob3VwcXFSTmVic0NYcUk3VGpXWW5JQnREZ3hReHl6UHRoXy1xSklMdS02OEhnZzdfRGVSRWd2eWkxS3VMQndiNDlFcTlVZFZ5SkwyNkJON0NuWlc3WVRwS0ttbE1ZdVUzOVBQSTBjRmExOTRxZG1sZ3o2a1g4UzlieU1xckphZTZsVUd1RmFLUG1fZjBINzdobTJxVkdLSTBkLUtnOTFSZVRCT282dTdUcXFqQWkySHBWYw?oc=5",
+      "publishedAt": "2026-08-18T18:45:16+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-footy-for-fido-adidas-drops-dog-kits-for-2026-27-espn",
       "title": "Footy for Fido：阿迪达斯放弃 2026-27 年狗狗套件 - ESPN",
       "summary": "Footy for Fido：阿迪达斯放弃 2026-27 年 ESPN 狗狗套件",
@@ -42,18 +54,6 @@
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORExOZ1hoYXdidURMbjZnRkRfUWpGRU5EejBfNmo0T3A2NUdKVUI0NjRBdFo0MW1zQUNyd0hkbWFrZDBaYS1VeXZtblpveFFMeXNXbzNNVUFzNDZRSEhoQlQzdnVEN2pIcHV1cTl2XzhZOFN0WDN1ZE94RGlJS1NydGRpNFFYdzktOTdvMC1VUU1TQQ?oc=5",
       "publishedAt": "2026-08-18T18:34:00+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-begins-today-group-stage-quarter-finals-to-semi-finals-check-full-schedule-goodreturns",
-      "title": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表 - Goodreturns",
-      "summary": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表  Goodreturns",
-      "originalTitle": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule - Goodreturns",
-      "originalSummary": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule  Goodreturns",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakhZOUs2TmczSFcwYWQ1M0lVdHNHdExoUktMOTF1NUFSai1mUUd3OVlBRjlralJnekZVbTBqY2JKa3N2R0pHREoycUZXTXNIaXVYYzNlT1dUMG9KZVhNZ0tVYllhY1NVbV9ZUUoxbmVYYk44ZHdkOXYwc1FqSG9xZTZuS05iT1NCTjBpdTFONnFwUFQ0NFFnUjhYeGxLVktycVhNVWx4TW5jVm14ZUVpNHZlaUtWNUFDU1gyMC05MXUyaU5tQmRIS0M0WjNnMTc3Q05leTdn?oc=5",
-      "publishedAt": "2026-08-18T18:26:50+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-2026-fifa-world-cup-golden-ball-winner-rodri-leaves-manchester-city-to-join-barcelona-news18",
@@ -93,22 +93,34 @@
     },
     {
       "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn",
-      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN",
+      "title": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
       "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN",
       "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
       "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN",
-      "translation": "online",
+      "translation": "local/online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTk1NQjJReU1admstZDZqS1d0dXRhaURsYW5WcjB5M0RrS0t3dGNZZmpKWG44TnJPMnY5Skx0TEItellteUZwMUdQNnpzaFhlVzU1U2N3ZFJkVHFtNWF5TEZ0OS1aYllOUmdFZDhPZzZCandvY0NiN1VnSWhmVTFoejRMQlRuYVU4eGJPb3p6LWhvUlZRUEw0MTR6TzctQjJCeHRkQVVTUXJXRjN3eEFUSU91ckN5b3Z5TlZPN3dVZUoyeWV4ZzNZbDMzWWQ4SXlTRnozRV8tLURRQWtEQVlqWTU1X256d0ZYZ192a3YwS3VrZw?oc=5",
       "publishedAt": "2026-08-18T16:07:00+00:00",
       "heat": 44
     },
     {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka-com",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - squawka.com",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 squawka.com",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - squawka.com",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  squawka.com",
+      "id": "google-news-ten-of-the-premier-league-s-most-exciting-newcomers-in-2026-27-premier-league",
+      "title": "2026/27赛季英超联赛最令人兴奋的十名新人 - 英超联赛",
+      "summary": "2026/27 赛季英超联赛最令人兴奋的 10 位新人",
+      "originalTitle": "TEN of the Premier League's most exciting newcomers in 2026/27 - Premier League",
+      "originalSummary": "TEN of the Premier League's most exciting newcomers in 2026/27  Premier League",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPejUtb2sxZmtHWGk3aE5DanV4MlU2ZUpKWEJFRjRLX0RzX1hOWTEyR0xnYWVLRkZLekM1U1BaSEpKcTBuRjQ0UGZLVnVlZV9FVTJQRFF5WExlRS1LUklJX09sUjBEYUkxZ3JsSWZucjhQeExhVk5kV2Qtd2ZIUWlIYnlLQl95R050MUZjUzZkbXNGUThCcXVEMk5rWmlTNElSVDhva2ZVQkwxUQ?oc=5",
+      "publishedAt": "2026-08-18T16:03:06+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
@@ -200,28 +212,16 @@
       "heat": 44
     },
     {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka-com",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ -squawka.com",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  squawka.com",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - squawka.com",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  squawka.com",
+      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
+      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ - 斯夸卡",
+      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  斯夸卡",
+      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
+      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
       "publishedAt": "2026-08-18T13:27:32+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-beyond-the-world-cup-2026-ghana-canada-chamber-of-commerce-celebrates-culture-community-and-connection-frequ",
-      "title": "2026 年世界杯之后：加纳-加拿大商会庆祝文化、社区和联系 -Frequencynews.ca",
-      "summary": "2026 年世界杯之后：加纳-加拿大商会庆祝文化、社区和联系Frequencynews.ca",
-      "originalTitle": "Beyond the World Cup 2026: Ghana-Canada Chamber of Commerce Celebrates Culture, Community and Connection - frequencynews.ca",
-      "originalSummary": "Beyond the World Cup 2026: Ghana-Canada Chamber of Commerce Celebrates Culture, Community and Connection  frequencynews.ca",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNNHMtYUdLeDl1bTFsRG4zenZXam5uQ2drMllXLV9ORmRxVDlibWZQTzJKSVlpSUJ2Y0NtM0dTVk9IemNNN0hicVhnX05xYmNQMTJOR2JOYjlLR3dyWFlsNWRtMVlWaEh5VWd6bmdjVW4tYTdrYWpiZ2Z4RTFUdWNwM1B0aWRmUTVkcUpWTlpzQk5zaG1QNjQzQTZWMDRXNW9lRVZ1Y1U1ekRTTmN3OXdTWjlHdHFBY0QtSDhfc3Y5WWhReXV6bmI4QVh2VXgxSldVTHBr?oc=5",
-      "publishedAt": "2026-08-18T13:24:50+00:00",
-      "heat": 52
     }
   ]
 }
