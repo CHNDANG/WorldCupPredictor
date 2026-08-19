@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T21:54:39.821193+00:00",
+  "updatedAt": "2026-08-19T22:29:14.125040+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -32,6 +32,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounderatheart-com",
+      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - sounderatheart.com",
+      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯 sounderatheart.com",
+      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - sounderatheart.com",
+      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  sounderatheart.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFZvMXh3QjgxN1E1WUF0SDJ1MVNfUWlZLTZCZlZJUEVJbFVxYXJ6b1I1OWRFcVFiZ21KVzdxR0lBRjFTazVJQnpVZFl2M1VfdllVMGU2eEdqNS1VZnVUY3M2aUJBXzBxZHk4cDdlamtoRllpX2JFZURRcV9WNHlqeGo1RUdoMTlmMldMVThWcTN1RTM4WXlZcC1Sbk1pZ1Z2?oc=5",
+      "publishedAt": "2026-08-19T20:30:17+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-the-economic-engine-of-a-world-cup-spain-outpaces-european-rivals-with-23-titles-driven-by-youth-development",
       "title": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 次夺冠超越欧洲对手 - Foot-Africa.com",
       "summary": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
@@ -41,18 +53,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlY5REJ6dUVsN2FpbmZ1am5rSmdnWFhzTVNBNU9wYldRWGVOeWFuTVpvS3VYQzlONU9ZbHdiSG9oa1haN044RkVzQXZRQ0I0Wm5BNHAtQVBBMVlJSEExQVZPUC1pbGdBZTF0VEI4RnZnZVZmalE0bmZOQnFEWW9sYm9ydzNFc1h1WUk2bmVWODJMVmN2MTFOUDBXbGhSREs5Tm5WRS1KMWZQRUdBb20zbmpkNFNHOEFmb1pZVkZHU2JjMVY0TVViWjJSZENiN2RJd0x4cENBdTZvdnBaakNHYXFIdw?oc=5",
       "publishedAt": "2026-08-19T20:30:05+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounder-at-heart",
-      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - Sounder at Heart",
-      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯",
-      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - Sounder at Heart",
-      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  Sounder at Heart",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFZvMXh3QjgxN1E1WUF0SDJ1MVNfUWlZLTZCZlZJUEVJbFVxYXJ6b1I1OWRFcVFiZ21KVzdxR0lBRjFTazVJQnpVZFl2M1VfdllVMGU2eEdqNS1VZnVUY3M2aUJBXzBxZHk4cDdlamtoRllpX2JFZURRcV9WNHlqeGo1RUdoMTlmMldMVThWcTN1RTM4WXlZcC1Sbk1pZ1Z2?oc=5",
-      "publishedAt": "2026-08-19T20:19:24+00:00",
       "heat": 52
     },
     {
@@ -68,6 +68,30 @@
       "heat": 60
     },
     {
+      "id": "google-news-senegal-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Senegal World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Senegal World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHp4Sk5Iek1QcnE0M05BOXZaZXhoLWRoZW1JZlp6b0l6RUc3WmxTZU44RkdNQXFzVHloZ3Zoazl2cFlpRjJCdkw3VzBEMmhBLW1ZckE2MEJGU2Z0anFQMWRwcFNXREl3QzNKbGl4UC1hV0JraGpHRmZ0QUU3alJyTUs1TERBOGZuYVpQbg?oc=5",
+      "publishedAt": "2026-08-19T20:06:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-benfica-vs-aarhus-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
+      "title": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日 - sportskeeda.com",
+      "summary": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日  sportskeeda.com",
+      "originalTitle": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
+      "originalSummary": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnkyTGtUdDRRSHJqLVg2QTZ6eGRiLU83d2x1WkI4OHQwbmdMTzNSa2stSVNRUFdQN1R6WXF1aWUySzl3czZCYlJ5ZGdKU2QwcURBY3k1T2ZzN2RtdVZaVTRxZmpQZDV1eTZ2eS0wVzdIdnhPWVNjejFnaWtFOXRrNXY2QWR3d3NOemhKUTVleU5Gb2UwRXFFa0RGNA?oc=5",
+      "publishedAt": "2026-08-19T20:05:21+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-roger-bennett-is-a-man-of-the-people-men-in-blazers-secret-to-world-cup-success-nwitimes-com",
       "title": "罗杰·贝内特是一个人民的人：开拓者队世界杯成功的秘诀 - nwitimes.com",
       "summary": "罗杰·贝内特 (Roger Bennett) 是人民的一员：开拓者队在世界杯上取得成功的秘诀 nwitimes.com",
@@ -80,11 +104,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  Sportskeeda",
+      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
+      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - sportskeeda.com",
+      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  sportskeeda.com",
+      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
+      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE9mWkpuUmdFZG4zNjhaVHN1cGxWS1FNODE3M0pVQjJRUGR5OE9GSTdzaXZiM2wyem5aeFduR3REV2hjVktPY1N1cmpZU1BRbWVCWkgtcjlybm12SWVkUEEyMnlNdXV0c0ZkUHNEX1gtRjloMXdIVlFYLXlLYUlLdWJjRmxTYjg0amk3bk1IaTB4Z2hHOERmR2RXNXY?oc=5",
@@ -107,8 +131,8 @@
       "id": "google-news-u-s-u-20-wnt-head-coach-vicky-jepson-names-21-player-roster-for-2026-fifa-under-20-women-s-world-cup-in-pola",
       "title": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单 - 美国足球",
       "summary": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单",
-      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - U.S. Soccer",
-      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  U.S. Soccer",
+      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
+      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  US Soccer",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
@@ -140,11 +164,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-craiova-vs-ararat-armenia-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026  Sportskeeda",
+      "id": "google-news-craiova-vs-ararat-armenia-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
+      "title": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日 - sportskeeda.com",
+      "summary": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日  sportskeeda.com",
+      "originalTitle": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
+      "originalSummary": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3ZsUEtoYXZWSi1VU3ctMUs1U0wyTGplMXM3YmJWT2V0TERvLUtBTUFYTGJGQS1iS3E3U0FoUU1qSkdMdTNWazV2MXh3YzlUMzBocVIyZUd4ZGJpM2tPbVNYTzgwNTNzby1SRjdtS3VHdm5TM0JwbVVOOEFFb2pwYWpSeF9rNWxHd3NGZm1jU1R6SkNiVGdEZGpISFRlUFhtME9DTm1B?oc=5",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5",
       "publishedAt": "2026-08-19T18:10:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-tab-ramos-critical-of-mauricio-pochettino-christian-pulisic-as-usmnt-fell-short-of-world-cup-expectations-wo",
-      "title": "塔布·拉莫斯批评毛里西奥·波切蒂诺和克里斯蒂安·普利西奇，因为美国国家队未达到世界杯预期 - 世界足球谈话",
-      "summary": "塔布·拉莫斯批评毛里西奥·波切蒂诺和克里斯蒂安·普利西奇，因为美国国家队未达到世界杯预期 World Soccer Talk",
-      "originalTitle": "Tab Ramos critical of Mauricio Pochettino, Christian Pulisic as USMNT fell short of World Cup expectations - World Soccer Talk",
-      "originalSummary": "Tab Ramos critical of Mauricio Pochettino, Christian Pulisic as USMNT fell short of World Cup expectations  World Soccer Talk",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNOWRVNTJZeFJlazRfTktfaFRMbkZjR2lSWjgwa0lFQ1dWRk9UUk1aem5JdkdiT29pdjRYTHZkeHh4X2huZWhyN0ZPcnZObm9TYno2M2tpZF9vYU4tQ3RhZEZRdDh5bHppWExjanY0bGdhZHgxR1NkV1NzVGlfRnRfZl9KSlNfNlJfZS1zcEkwaW5qSjU4cXBaeDFDZ3dZRDNWOEktX2paSVZ4RHRsN1lBSmZNdnRwMTRIczFBMjFMMkJpeU8xbk1MODRMSHpNNW1QdlVrejRjUF9VT25yalZTU0dB0gHiAUFVX3lxTE05ZFU1Mll4UmVrNF9OS19oVExuRmNHaVJaODBrSUVDV1ZGT1RSTVp6bkl2R2JPb2l2NFhMdmR4eHhfaG5laHI3Rk9ydk5ub1NiejYza2lkX29hTi1DdGFkRlF0OHlsemlYTGNqdjRsZ2FkeDFHU2RXU3NUaV9GdF9mX0pKU182Ul9lLXNwSTBpbmpKNThxcFp4MUNnd1lEM1Y4SS1falpJVnhEdGw3WUFKZk12dHAxNEhzMUEyMUwyQml5TzFuTUw4NExIek01bVB2VWt6NGNQX1VPbnJqVlNTR0E?oc=5",
-      "publishedAt": "2026-08-19T17:22:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-richard-masters-and-howard-webb-criticise-fifa-over-folarin-balogun-s-red-card-controversy-at-2026-world-cup",
-      "title": "理查德·马斯特斯和霍华德·韦伯就福拉林·巴洛贡在 2026 年世界杯上的红牌争议批评国际足联 - 天空体育",
-      "summary": "理查德·马斯特斯和霍华德·韦伯就福拉林·巴洛贡在 2026 年世界杯上的红牌争议批评国际足联 天空体育",
-      "originalTitle": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup - Sky Sports",
-      "originalSummary": "Richard Masters and Howard Webb criticise FIFA over Folarin Balogun's red card controversy at 2026 World Cup  Sky Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0ljeHpqNVJKbXA4dWlEdGVIeFcxeXpZVWlnckpibDZpcUdKdWdsdExycTlxRnJkZDVWRGxLazVkQmNTVWRsSFlkTjhZcFJ1RTdCdUJv?oc=5",
-      "publishedAt": "2026-08-19T17:04:48+00:00",
-      "heat": 60
     }
   ]
 }
