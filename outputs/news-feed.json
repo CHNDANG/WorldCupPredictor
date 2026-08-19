@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-18T23:50:29.108497+00:00",
+  "updatedAt": "2026-08-19T01:36:04.597649+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,33 @@
   ],
   "articles": [
     {
+      "id": "google-news-premier-league-chief-blasts-infantino-over-fifa-self-sabotage-plan-chosunbiz-chosunbiz",
+      "title": "英超联赛主席抨击因凡蒂诺的国际足联自我破坏计划 - CHOSUNBIZ - Chosunbiz",
+      "summary": "英超联赛主席抨击因凡蒂诺的国际足联自我破坏计划 - CHOSUNBIZ Chosunbiz",
+      "originalTitle": "Premier League chief blasts Infantino over FIFA self-sabotage plan - CHOSUNBIZ - Chosunbiz",
+      "originalSummary": "Premier League chief blasts Infantino over FIFA self-sabotage plan - CHOSUNBIZ  Chosunbiz",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE4zUHNHZGdRdVBKQ1Z3MHZtTzFacW9pbkc1aF9zenBIOFB1RWtiRXhTVlg5RldxS1dmYWQ2WFNRdzRNU1lBYXlSQU9GNUFPaTcxd01rSEVHcjE4NFZaQ1pEVHJMRG5OWWdkbW5SWFBiWkhTUjBmQ0J1cTBFWXNYMFXSAZMBQVVfeXFMUDdDRWdXRkxEMzNRTTJKeG1JTEYwM3ZIblNkVHFDSHdSTEFXMEVaU19ac0RjZVBMSDZwNjJHdjZLMHZoMTI1OHZzM1h6c2o0TTdCVG5teUdQNVJmSFRZVk9WNXVHbjVRS3J6M0M0M2g3QzFhLV90Q3JuUF9TY094bWNSOWRQUmYwbDJYMzJvVUZyUllr?oc=5",
+      "publishedAt": "2026-08-19T01:20:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-on-bbc-three-full-details-and-when-it-s-on-tvguide-co-uk",
+      "title": "BBC 三台直播 2026 年 FIFA 世界杯：完整详情及播出时间 - TVGuide.co.uk",
+      "summary": "BBC 三台直播的 2026 年 FIFA 世界杯：完整详情以及何时在 TVGuide.co.uk 上播出",
+      "originalTitle": "FIFA World Cup 2026 on BBC Three: full details and when it's on - TVGuide.co.uk",
+      "originalSummary": "FIFA World Cup 2026 on BBC Three: full details and when it's on  TVGuide.co.uk",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOb3FvNlBCRk1ubmJwMnhoN3dfcFlPUk5tQW5IRlp5RTNhUHV3d1hXQ1FtdG9yWng3TnhhcXkza3FiSTZ4eDc0cXNHV0RNdTh4b2stelhpTjJiZ0pIM1ROT2RPX01UY2N0MEJxZ3JTTmpZREwyRTEzcnRIUi1uZlc4OGFET3l4VW4tUmI1OWRtc01UUkZOX0E?oc=5",
+      "publishedAt": "2026-08-19T00:03:11+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-watch-squad-set-for-tough-group-challenge-at-fifa-u-20-women-s-world-cup-friends-of-football",
       "title": "观看：球队准备迎接 FIFA U-20 女子世界杯的艰难小组挑战 - 足球之友",
-      "summary": "观看：球队准备迎接 FIFA U-20 女子世界杯的艰巨小组挑战 足球之友",
+      "summary": "观看：球队准备迎接 FIFA U-20 女子世界杯的艰难小组挑战 足球之友",
       "originalTitle": "WATCH: Squad set for tough group challenge at FIFA U-20 Women’s World Cup - Friends of Football",
       "originalSummary": "WATCH: Squad set for tough group challenge at FIFA U-20 Women’s World Cup  Friends of Football",
       "translation": "online",
@@ -18,6 +42,18 @@
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeU5ScnRNYUptWEo0Uk9QanNhbWJrNE5sSFpyZnNHR25BUlk2MGlJSWdtbVp2N09CeHF4eXJqcFhtU1VpbXpZaHRmRENFOW42VWV5S1QwaDJBVXBLSDBkYm9Xd2F3VllYUDVxTkRaQTNaU3pMQ3FkeGFzclNQaUtERmRCdzhyX2kwbzlmQ2F3bEl0ZE9WNUtZX2ZwQUxvaG5odlRKSGg3M3ROWk82b05lM1NCRmlUWGROQWxZ?oc=5",
       "publishedAt": "2026-08-18T23:22:31+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-18T23:20:25+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-video-spain-france-argentina-and-england-eyeing-2026-fifa-world-cup-trophyvv-abc-news-breaking-news-latest-n",
@@ -32,6 +68,18 @@
       "heat": 68
     },
     {
+      "id": "google-news-england-vs-argentina-semi-final-live-watch-along-fifa-world-cup-2026-street-fighter-movie-hbinznwphd-mshale",
+      "title": "🔴英格兰 VS 阿根廷 |半决赛 |一起直播观看| FIFA 世界杯 2026 街头霸王电影 (hbInzNwphd) - Mshale",
+      "summary": "🔴英格兰 VS 阿根廷 |半决赛 |一起直播观看| FIFA 世界杯 2026 街头霸王电影 (hbInzNwphd)  Mshale",
+      "originalTitle": "🔴ENGLAND VS ARGENTINA | SEMI FINAL | LIVE WATCH ALONG| FIFA WORLD CUP 2026 Street Fighter Movie (hbInzNwphd) - Mshale",
+      "originalSummary": "🔴ENGLAND VS ARGENTINA | SEMI FINAL | LIVE WATCH ALONG| FIFA WORLD CUP 2026 Street Fighter Movie (hbInzNwphd)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE05LUo5N0ZsNmdqLWtkcEJLTUxHVWZBbGtDc3N3UlM5cGg5bWJQa2NXQk9ybGVXOGVNQlpaRHBfaWJwYXlUd1dHbXBIbU9yZlhYQlQxeE52Y2RlZw?oc=5",
+      "publishedAt": "2026-08-18T21:53:58+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-carles-puyol-optimistic-about-spain-s-future-this-generation-still-has-one-or-two-world-cups-left-bolavip-co",
       "title": "卡莱斯·普约尔对西班牙的未来持乐观态度：“这一代人还剩下一两届世界杯” - bolavip.com",
       "summary": "卡莱斯·普约尔对西班牙的未来持乐观态度：“这一代人还剩下一两届世界杯”  bolavip.com",
@@ -39,16 +87,16 @@
       "originalSummary": "Carles Puyol optimistic about Spain’s future: ‘This generation still has one or two World Cups left’  bolavip.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVEpQWjdSOHJ5ZWs1eWZjR1NxdUhfYkx2Umx0c0JIT3RQQjU1UnFDVEtUQXVCaTdFbVk0NThlMXBWR3d2M0FYb2VTY2w4RGZrcUlFckpOSXlpeXFfVkg4WEdyNG1jaFdxcWlCeXE1b1dRNHRNR3o5M2FMY1BILVNBRU5GQ0lDSEJCUWJRT1N4aWQ0SV9oWVZQZ21DM0J6aXBuTlprSXVMdHkyNThzNEhmRzc1Z2dWcUY0VXR0TFZHMUktbURY0gHKAUFVX3lxTFBRd1B0QkU2UnkteUNGZFR2RGEyaUZSNjVOekpkNDFoRFlsa0k3NEdJUlRTNUJCeU5SejRkYWFmUnpZb3ZCaXNLY1JMdk16a0NfS3FuRnI5amJnbXVFWjZOWjlWTFpJalhNbzh2V1pzanZOYWlTUzFoREJmZEZUNTRmMklNSkNmR2lYSkt6R3lLZTBBemloQjVxeHBRREpEV1I0cWNJZlBkZHZ4djlETWJNN1JtMzNXUDNtaTRHUENuRjl4VFlrV1BSLVE?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUXdQdEJFNlJ5LXlDRmRUdkRhMmlGUjY1TnpKZDQxaERZbGtJNzRHSVJUUzVCQnlOUno0ZGFhZlJ6WW92QmlzS2NSTHZNemtDX0txbkZyOWpiZ211RVo2Tlo5VkxaSWpYTW84dldac2p2TmFpU1MxaERCZmRGVDU0ZjJJTUpDZkdpWEpLekd5S2UwQXppaEI1cXhwUURKRFdSNHFjSWZQZGR2eHY5RE1iTTdSbTMzV1AzbWk0R1BDbkY5eFRZa1dQUi1R0gHKAUFVX3lxTFBRd1B0QkU2UnkteUNGZFR2RGEyaUZSNjVOekpkNDFoRFlsa0k3NEdJUlRTNUJCeU5SejRkYWFmUnpZb3ZCaXNLY1JMdk16a0NfS3FuRnI5amJnbXVFWjZOWjlWTFpJalhNbzh2V1pzanZOYWlTUzFoREJmZEZUNTRmMklNSkNmR2lYSkt6R3lLZTBBemloQjVxeHBRREpEV1I0cWNJZlBkZHZ4djlETWJNN1JtMzNXUDNtaTRHUENuRjl4VFlrV1BSLVE?oc=5",
       "publishedAt": "2026-08-18T21:47:51+00:00",
       "heat": 52
     },
     {
       "id": "google-news-new-york-city-soccer-initiative-celebrates-opening-of-new-mini-soccer-pitch-at-jhs-62-ditmas-as-part-of-26-f",
-      "title": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 - 纽约城足球俱乐部",
-      "summary": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 纽约市足球俱乐部",
-      "originalTitle": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative - New York City FC",
-      "originalSummary": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative  New York City FC",
+      "title": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 - newyorkcityfc.com",
+      "summary": "纽约市足球倡议庆祝 JHS 62 Ditmas 新迷你足球场开幕，作为“26 for 26”世界杯遗产倡议的一部分 newyorkcityfc.com",
+      "originalTitle": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative - newyorkcityfc.com",
+      "originalSummary": "New York City Soccer Initiative Celebrates Opening of New Mini-Soccer Pitch at JHS 62 Ditmas as Part of “26 for 26” World Cup Legacy Initiative  newyorkcityfc.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNb3lGNVNEcHlkdnJwazBic3pTSWVFYUU5WWJMam5YeGtkSms0YjdCVnNlYjVOT25PWDF5aktuSUE1QTQ3dF9HUEROUXdiY1FVM1AzMmVPR1N1R3Z2SGY2MWM4LXVrY0dZTmVZVnkxd3p1UEdRWm9TZzhBNHdvdVRka1RnVm0xWDEtNkw2bVpPS3ZBNGdBSjVVTVkxaFljampKZHlEQ1pIV1pJSUZnaWt4dmJSZlJKU3BpNFNFMWR3SENLQ1Utal93UjgtWURIdko2dklmZUxLRnR0VG43dTM2NE16bXZWWFlzRUZ1T2ZxaGxjNjlSaU9rWEhISmRjWEs5cy1XN2VYQQ?oc=5",
@@ -56,11 +104,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-messi-targeted-for-assassination-during-2026-world-cup-police-report-leadership-newspapers",
-      "title": "梅西在 2026 年世界杯期间成为暗杀目标——警方报告 - LEADERSHIP Newspapers",
-      "summary": "梅西在 2026 年世界杯期间成为暗杀目标 – 警方报告 领导报纸",
-      "originalTitle": "Messi Targeted For Assassination During 2026 World Cup – Police Report - LEADERSHIP Newspapers",
-      "originalSummary": "Messi Targeted For Assassination During 2026 World Cup – Police Report  LEADERSHIP Newspapers",
+      "id": "google-news-messi-targeted-for-assassination-during-2026-world-cup-police-report-leadership-ng",
+      "title": "梅西在 2026 年世界杯期间成为暗杀目标——警方报告 - Leadership.ng",
+      "summary": "梅西在 2026 年世界杯期间成为暗杀目标 – 警方报告leadership.ng",
+      "originalTitle": "Messi Targeted For Assassination During 2026 World Cup – Police Report - leadership.ng",
+      "originalSummary": "Messi Targeted For Assassination During 2026 World Cup – Police Report  leadership.ng",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOXzNicHQ2ZEY1emhlQVBhNi1uc1FPaG8zVTRPUW5fa292Tzk1cldUcUZyY2hzb1ZUVjMtZDJvMDM4RlVkRXhaYzhiUHhNdFNvWWFvZGRtaDlXc1ZVUGdtMEZvV0pnUlFzdVBLYzM0bFJvTHVtc2JhblFoTnNITEZlNlVTUE9BNW1Db215WnpOTkZFYXVBdVE?oc=5",
@@ -78,6 +126,18 @@
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBLMU82d2NHWlY3Q0R1ZVpnSEwxZlFhejhrU0xrUGNUVDUwRS11NTBua3RVXzg3YUIySjFxeDhsRG5TS1dVUnpTcWxETl81eHNVY0poU0plUjBzMkRKRS1rYjB4cURhZUFWS1hMLUduNHNSbUoyUk1Z?oc=5",
       "publishedAt": "2026-08-18T20:47:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-switzerland-world-cup-2026-route-to-the-final-results-tactical-analysis-squawka",
+      "title": "2026 年瑞士世界杯：决赛之路、结果和战术分析 - Squawka",
+      "summary": "2026 年瑞士世界杯：决赛之路、结果和战术分析 Squawka",
+      "originalTitle": "Switzerland World Cup 2026: Route to the final, results & tactical analysis - Squawka",
+      "originalSummary": "Switzerland World Cup 2026: Route to the final, results & tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3hkaUEyT0xaa1BSZWE0bEgtYkJIOGFvLUdBdWdMY3pTamZuWmI1TXNPaVNWbDFGcW91eUZtaldvWVpIeFRzTjFUay1BTTVQcGZuS0czQlFtWHBJTkN6S0Z0ZkJ1bEZndnBieFcyc2tlYWItMVJrSDRUSEQtWTVVWW5JWW1VakZ2UGEwSDVUdEo4UUNvd3RENkliYW4?oc=5",
+      "publishedAt": "2026-08-18T20:28:35+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-official-premier-league-club-sign-2026-world-cup-star-dailysports",
@@ -118,7 +178,7 @@
     {
       "id": "google-news-i-ve-done-what-i-could-harry-kane-publicly-addresses-2026-ballon-d-or-chances-sportskeeda",
       "title": "“我已经尽力了”——哈里·凯恩公开谈论 2026 年金球奖机会 - Sportskeeda",
-      "summary": "“我已经做了我能做的” - 哈里·凯恩公开谈论 2026 年金球奖机会 Sportskeeda",
+      "summary": "“我已经尽力了”——哈里·凯恩公开谈论 2026 年金球奖机会 Sportskeeda",
       "originalTitle": "“I’ve done what I could” - Harry Kane publicly addresses 2026 Ballon d'Or chances - Sportskeeda",
       "originalSummary": "“I’ve done what I could” - Harry Kane publicly addresses 2026 Ballon d'Or chances  Sportskeeda",
       "translation": "online",
@@ -128,11 +188,11 @@
       "heat": 44
     },
     {
-      "id": "google-新闻-中文-批评fifa主席-卖世杯-方案-营运总监被炒-星島頭條",
-      "title": "批评FIFA主席「卖世杯」方案 营运总监被炒 - 星島頭條",
-      "summary": "批评FIFA主席「卖世杯」方案 营运总监被炒  星島頭條",
-      "originalTitle": "批评FIFA主席「卖世杯」方案 营运总监被炒 - 星島頭條",
-      "originalSummary": "批评FIFA主席「卖世杯」方案 营运总监被炒  星島頭條",
+      "id": "google-新闻-中文-批评fifa主席-卖世杯-方案-营运总监被炒-stheadline-com",
+      "title": "批评FIFA主席「卖世杯」方案 营运总监被炒 - stheadline.com",
+      "summary": "批评FIFA主席「卖世杯」方案 营运总监被炒  stheadline.com",
+      "originalTitle": "批评FIFA主席「卖世杯」方案 营运总监被炒 - stheadline.com",
+      "originalSummary": "批评FIFA主席「卖世杯」方案 营运总监被炒  stheadline.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxOcnpxUDFoQmExMWtBZ1Q1cmZ5NVozWHhodGtnZlA2c1BaQUJRUTJBbmNYSmdKZWczWFlqeTR2eGtiaE9sX2xkaFk0Y1piTjRzbmlTdjBTLWlsS3VReXhaT0JWeV9TeHUzems3ZDhEdTFKV1JZWGtYSWV1OUx6bmZwNUIyNFVxRngzd3BwVlpsS1czNWk2YjVpV0xlSk5KQzhPaU9PZElRdVN0S1V4M3VLdjFyYkN6NjBQNVN2VHR1dFZwNl9CRnRscjRzcFpuZTNyNUIwMUtyTjJLSjdROVhwZGF0RTFmZEU3c19XQ096S0V1dVNoeXB6MnV2cEdrOFYwbkRxN2JmbDQ0RDNzRkJxRGZBQWtJUHJxTXY1UG1KTHVPZXktcmItWnZ3?oc=5",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcGoxZ2NwYXJ5VUFmcGJXdnQ3Uy1kc3dzeVVseHk5RTE2WWg5SnQ1NExzWEp2ek1ycXNVX0xkbVVORUxKbWJBeXhFQ1VDUXhlVHVsSFRwalRKVENGX2Z6TWJLZks4UkVra0JoR2VDRWhFejMzMVB3V2YtRV9ud1ljRWtCMjdPUnRrelBxYzNHbENtRVBPVnJpRzBJaENhUTY5SzdiOTVmWmY1TnJoX011NkpB?oc=5",
       "publishedAt": "2026-08-18T18:40:12+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-the-fifa-world-cup-shows-why-cpg-growth-is-ecosystem-vs-ecosystem-consumer-goods-technology",
-      "title": "FIFA 世界杯揭示了为什么 CPG 的增长是生态系统与生态系统之间的较量 - Consumer Goods Technology",
-      "summary": "FIFA 世界杯展示了为什么 CPG 的增长是生态系统与消费品技术的关系",
-      "originalTitle": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem - Consumer Goods Technology",
-      "originalSummary": "The FIFA World Cup Shows Why CPG Growth Is Ecosystem vs. Ecosystem  Consumer Goods Technology",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONW12c2hLQmw2ejY0QVNRMVRmMndYSGxsamJPRTlrZG9yZVNYRWw5T3Q4bVdHWEt3YjFJTlZYN3FKekZKN3FtSF9NVXo1MHhoZWZSWERQNzZZb3VzN3JmSTFhNXZvakFhRGprRDZEd0FRcDJWR1RWMmI4emp1NDRPc19MT2NJamlMUXpyMA?oc=5",
-      "publishedAt": "2026-08-18T18:39:57+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-footy-for-fido-adidas-drops-dog-kits-for-2026-27-espn",
-      "title": "Footy for Fido：阿迪达斯放弃 2026-27 年狗狗套件 - ESPN",
-      "summary": "Footy for Fido：阿迪达斯放弃 2026-27 年 ESPN 狗狗套件",
-      "originalTitle": "Footy for Fido: Adidas drops dog kits for 2026-27 - ESPN",
-      "originalSummary": "Footy for Fido: Adidas drops dog kits for 2026-27  ESPN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORExOZ1hoYXdidURMbjZnRkRfUWpGRU5EejBfNmo0T3A2NUdKVUI0NjRBdFo0MW1zQUNyd0hkbWFrZDBaYS1VeXZtblpveFFMeXNXbzNNVUFzNDZRSEhoQlQzdnVEN2pIcHV1cTl2XzhZOFN0WDN1ZE94RGlJS1NydGRpNFFYdzktOTdvMC1VUU1TQQ?oc=5",
-      "publishedAt": "2026-08-18T18:34:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-begins-today-group-stage-quarter-finals-to-semi-finals-check-full-schedule-goodreturns",
-      "title": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表 - Goodreturns",
-      "summary": "2026 年 FIFA 世界杯今日开幕：小组赛、四分之一决赛到半决赛 |查看完整时间表  Goodreturns",
-      "originalTitle": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule - Goodreturns",
-      "originalSummary": "FIFA World Cup 2026 Begins Today: Group Stage, Quarter Finals To Semi Finals | Check Full Schedule  Goodreturns",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNakhZOUs2TmczSFcwYWQ1M0lVdHNHdExoUktMOTF1NUFSai1mUUd3OVlBRjlralJnekZVbTBqY2JKa3N2R0pHREoycUZXTXNIaXVYYzNlT1dUMG9KZVhNZ0tVYllhY1NVbV9ZUUoxbmVYYk44ZHdkOXYwc1FqSG9xZTZuS05iT1NCTjBpdTFONnFwUFQ0NFFnUjhYeGxLVktycVhNVWx4TW5jVm14ZUVpNHZlaUtWNUFDU1gyMC05MXUyaU5tQmRIS0M0WjNnMTc3Q05leTdn?oc=5",
-      "publishedAt": "2026-08-18T18:26:50+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-la-galaxy-vs-san-jose-earthquakes-prediction-and-betting-tips-august-19th-2026-sportskeeda",
-      "title": "洛杉矶银河 vs 圣何塞地震预测和投注技巧 | 体育2026 年 8 月 19 日 - Sportskeeda",
-      "summary": "洛杉矶银河 vs 圣何塞地震预测和投注技巧 | 体育2026 年 8 月 19 日  Sportskeeda",
-      "originalTitle": "LA Galaxy vs San Jose Earthquakes Prediction and Betting Tips | August 19th 2026 - Sportskeeda",
-      "originalSummary": "LA Galaxy vs San Jose Earthquakes Prediction and Betting Tips | August 19th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTA4RWNkd1h1N0pqbkRTQnBzMnZsd25UVFFaRVFsVGRKbjIzb0RnRFlkYmg3TklZeWNRaURlcjIxNHBrQ0Q3dUY5NDdCUzFtUDlEWkE2LXEzdXAzY2VBcm5mSXdnNHJKVEI5QmV0dWJ2MkNJVDJRbU0wMzhaa3R5Y2dnUm02c1RFX0VBeG1kT1FYZkw4MV9CZ2J4UmFNZUVkSWRQU3AxSnJwRkJVRjctUQ?oc=5",
-      "publishedAt": "2026-08-18T18:11:40+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-golden-ball-winner-rodri-leaves-manchester-city-to-join-barcelona-news18",
-      "title": "2026年世界杯金球奖得主罗德里离开曼城加盟巴塞罗那 - News18",
-      "summary": "2026 年 FIFA 世界杯金球奖得主罗德里离开曼城加盟巴塞罗那 News18",
-      "originalTitle": "2026 FIFA World Cup Golden Ball Winner Rodri Leaves Manchester City To Join Barcelona - News18",
-      "originalSummary": "2026 FIFA World Cup Golden Ball Winner Rodri Leaves Manchester City To Join Barcelona  News18",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOZnhZQ2V1UC1ZZlVxT0NKQ3pHcC03MkI0eEk0ZFRHOWZ5eC1SSGdyQmFxYmxSOFdOYUZaZG43Q1liazdxOHlVbmhoNHZBcHBpWVVsTGRMZWdnajRxd0djU0NJcEYydGtacmJDa1dpbzdDNlNiNjMtcV9rZTMwYWhBMnBITURuUDVnbFI4ZVh1Q2lCYklJdFg3aEdGcVNqMkZqNHRfcnBOaWFWZHhXdEo3c29ZWmVFeHBZYmhZR2o0SEFwUUpnSUtvRnhRdEZyb3RTQ1h5V2VxUC11Z1XSAeABQVVfeXFMT043eGdRQ3diZ2hDYXFXTmVoRWxpZGQwbm0zVFloVlM3ZzBUZjhTcV9COVJUYmVOekp1TWNnUXlxcnEwVDB6OUQzeldCYkpWX3pSNW1PWFhJdzBiby1TSVRxdHJoVjAwUHhQVGU1S0RDR0QxYVpRSThFU3Q0eXRhdWlkR0J3TVpYUnUwUE1HUl8xaW8waXExUlE3U1JQajQteFFFTERIMV81MVFlazVHc1c4aDBQYV9fcVoxQXNkRWFHRUdFNzdrek8ydFZUa1Zyc093ZEpkSDY0MkxIbGp0NWw?oc=5",
-      "publishedAt": "2026-08-18T17:20:45+00:00",
-      "heat": 60
     }
   ]
 }
