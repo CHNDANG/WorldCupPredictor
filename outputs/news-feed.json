@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T13:49:17.835068+00:00",
+  "updatedAt": "2026-08-19T14:38:44.728073+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-hansi-flick-calls-rodri-perhaps-the-best-no-6-in-the-world-after-world-cup-winner-signs-for-barcelona-operat",
+      "title": "世界杯冠军得主加盟巴塞罗那后，汉西·弗利克称罗德里“也许是世界上最好的六号球员” - 体育运营",
+      "summary": "世界杯冠军得主与巴塞罗那体育运营公司签约后，汉西·弗利克称罗德里“可能是世界上最好的六号球员”",
+      "originalTitle": "Hansi Flick calls Rodri 'perhaps the best No.6 in the world' after World Cup winner signs for Barcelona - Operation Sports",
+      "originalSummary": "Hansi Flick calls Rodri 'perhaps the best No.6 in the world' after World Cup winner signs for Barcelona  Operation Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPYVNTVHZLZnloX0pFbnFpWjQ3R2RDMUVyQU14SThHSkxaSW1iZ1piMHF6LVRKU0gxeFgxdjBPX2ZIR1duVV9fZTJ6ZDFrR3NGYmh5alJwN2w4VVB1VkxIb3RMRkU2SjhFMTZYc0M4YVB1RGRyRHM4a2ZjN2tiQVJUbjh2TG1hTURGUnNkclFDRnpZVXB4ZHZRVWw3M3JsY2NGSDhORkdtZTA0OHM3Z0FIZi1QaE1yQi1LaFRHRmlYdTNCTmRSZ0tlVjNKbk5PV1k?oc=5",
+      "publishedAt": "2026-08-19T13:30:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ipdc-finance-celebrates-play-with-ipdc-winners-concludes-fifa-world-cup-2026-campaign-the-financial-express",
+      "title": "IPDC 财经庆祝“与 IPDC 一起玩”获奖者，2026 年 FIFA 世界杯活动圆满结束 - 金融快报",
+      "summary": "IPDC 财经庆祝“与 IPDC 一起玩”获奖者，为 2026 年 FIFA 世界杯活动画上句号 The Financial Express",
+      "originalTitle": "IPDC Finance celebrates ‘Play with IPDC’ winners, concludes FIFA World Cup 2026 campaign - The Financial Express",
+      "originalSummary": "IPDC Finance celebrates ‘Play with IPDC’ winners, concludes FIFA World Cup 2026 campaign  The Financial Express",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPa1AtNnk4Y3BpdGlZNTU4dzd2dVREUkJQdXNWTkZlZVYycGVxTGRBdnFsdjJ3WUVxNUtQd2NqMkphVk9vSTJjbktoNWN2XzBQWFBpaWZOa0lhdjJkNUNiVWFQTEZva0VDYWJ2bzNuRG5JQ3dLNk9LdGJZVFZycU1pNkpMYUtTZzJNSmxCRGVyMXBicllwbGJnNGFydUxiSDVrVVY0cXJfWVhYZENLYVdIYTBoSXRPZ25mTlhfeWVGNHpRaDhx?oc=5",
+      "publishedAt": "2026-08-19T11:59:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-egypt-s-fifa-world-cup-2026-coach-hossam-hassan-collapses-after-alleged-fight-between-two-wives-ndtv-sports",
       "title": "埃及 2026 年世界杯主教练霍萨姆·哈桑因涉嫌与两名妻子打架而倒地 - NDTV Sports",
@@ -92,6 +116,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-tunisia-world-cup-2026-fixtures-results-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年突尼斯世界杯：赛程、赛果、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年突尼斯世界杯：赛程、赛果、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Tunisia World Cup 2026: Fixtures, results, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Tunisia World Cup 2026: Fixtures, results, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRjhIQ05BNTVwY1NDeVgxV1pCRV9ZZ19FQ1R1MG5pejU1OVJoeUQxNXVTbnBOSnIzbmQyU3FSZEx5bFU2cUpYS2VBdk9iYmJGUUhfMVJ6TDBrazhnWWZUTGctWDliZnd3dUsyaXR6M2FNXzRkRUktV2NjTFJBWGJrcHp2UDZma2J2WE14VzZVT2tCUktMQnR2SEtJTER3QQ?oc=5",
+      "publishedAt": "2026-08-19T10:18:52+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
       "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
@@ -116,11 +152,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-i-love-freedom-viral-world-cup-fan-reveals-the-main-lesson-he-learned-from-america-trip-yahoo-sports",
-      "title": "“我热爱自由”——世界杯病毒式粉丝透露他从美国之行中学到的“主要教训” - 雅虎体育",
-      "summary": "“我热爱自由”——世界杯病毒式粉丝透露他从美国之行中学到的“主要教训” 雅虎体育",
-      "originalTitle": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip - Yahoo Sports",
-      "originalSummary": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip  Yahoo Sports",
+      "id": "google-news-i-love-freedom-viral-world-cup-fan-reveals-the-main-lesson-he-learned-from-america-trip-sports-yahoo-com",
+      "title": "“我热爱自由”——世界杯病毒式粉丝透露他从美国之行中学到的“主要教训” - sports.yahoo.com",
+      "summary": "“我热爱自由”——世界杯病毒式粉丝透露他从美国之旅中学到的“主要教训”sports.yahoo.com",
+      "originalTitle": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip - sports.yahoo.com",
+      "originalSummary": "‘I love freedom’ – Viral World Cup fan reveals ‘the main lesson’ he learned from America trip  sports.yahoo.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaThReHQyZDN0ejhiRld3YW5TQTd6Y3phQW1DeExudHllZ21hMDJYZDRzd3BTVzFqb0FyZXVOb2dweTFDWXRLOVZQalhqVU0teFpmUlpzQUtWWE9QeUpOZWNFMzMxbmhWSVd3UFI0ckFrVXZleEFzSVZ0bUNHVDBfYUlYQQ?oc=5",
@@ -176,18 +212,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-seattle-sounders-fc-vs-austin-fc-prediction-and-betting-tips-august-19th-2026-sportskeeda",
-      "title": "西雅图海湾人队 (Seattle Sounders FC) vs 奥斯汀 FC (Austin FC) 预测和投注技巧 | 2026 年 8 月 19 日 - Sportskeeda",
-      "summary": "西雅图海湾人队 (Seattle Sounders FC) vs 奥斯汀 FC (Austin FC) 预测和投注技巧 | 2026 年 8 月 19 日  Sportskeeda",
-      "originalTitle": "Seattle Sounders FC vs Austin FC Prediction and Betting Tips | August 19th 2026 - Sportskeeda",
-      "originalSummary": "Seattle Sounders FC vs Austin FC Prediction and Betting Tips | August 19th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNfTklhd1hpSmFsMlZNSXBOYnJtVXpET1ZtdXItUGl6YjFpOFRNUkdPVjJRVFJvX2tCT2FkaFd3NnNRek55OG9fTzFlQmRMVy1vdER0MW00V040VV9zaC1LSWNXcTlZbHdaNGhLX0htcUhCbmo1RjJxWEVXNENDZFdWRlYyZlNGTzVpWFN6Q1VjOXk2YWhNaXJYQU5iWjJubG14TWhUZGlqVHVqdXFN?oc=5",
-      "publishedAt": "2026-08-19T09:27:01+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-vietnam-vs-malaysia-prediction-and-betting-tips-19th-august-2026-sportskeeda",
       "title": "越南 vs 马来西亚 预测和投注技巧| 越南 vs 马来西亚2026 年 8 月 19 日 - Sportskeeda",
       "summary": "越南 vs 马来西亚 预测和投注技巧| 越南 vs 马来西亚2026 年 8 月 19 日  Sportskeeda",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNNXNuUkYxTnliY2hsZVhBSEo4Q0l1Rk1YQlM2bFZoTWk0dWlSUmVQSTdYdXhwbDNRam9VSDNNU01rMGE3MXhyMkFhMFB0NjFvdTFycFFjTW9xMUh3Y1cxZFEtVWYzczdTRDRwRGNjWHk5ajR1TzdrR1ZjTl9lTk9PemdLX2NyZGZlam9hZVFETHlKRkRFZlNhblA0azZEZw?oc=5",
       "publishedAt": "2026-08-19T09:26:49+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-la-galaxy-vs-san-jose-earthquakes-prediction-and-betting-tips-august-19th-2026-sportskeeda",
-      "title": "洛杉矶银河 vs 圣何塞地震预测和投注技巧 | 体育2026 年 8 月 19 日 - Sportskeeda",
-      "summary": "洛杉矶银河 vs 圣何塞地震预测和投注技巧 | 体育2026 年 8 月 19 日  Sportskeeda",
-      "originalTitle": "LA Galaxy vs San Jose Earthquakes Prediction and Betting Tips | August 19th 2026 - Sportskeeda",
-      "originalSummary": "LA Galaxy vs San Jose Earthquakes Prediction and Betting Tips | August 19th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNTA4RWNkd1h1N0pqbkRTQnBzMnZsd25UVFFaRVFsVGRKbjIzb0RnRFlkYmg3TklZeWNRaURlcjIxNHBrQ0Q3dUY5NDdCUzFtUDlEWkE2LXEzdXAzY2VBcm5mSXdnNHJKVEI5QmV0dWJ2MkNJVDJRbU0wMzhaa3R5Y2dnUm02c1RFX0VBeG1kT1FYZkw4MV9CZ2J4UmFNZUVkSWRQU3AxSnJwRkJVRjctUQ?oc=5",
-      "publishedAt": "2026-08-19T09:26:26+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-crvena-zvezda-vs-viktoria-plzen-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "Crvena Zvezda vs Viktoria Plzen 预测和投注技巧| Viktoria Plzen 2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "Crvena Zvezda vs Viktoria Plzen 预测和投注技巧| Viktoria Plzen 2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Crvena Zvezda vs Viktoria Plzen Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Crvena Zvezda vs Viktoria Plzen Prediction and Betting Tips | August 20th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9WOXB4eEc4bC1Ec2NuV0dHX1U3QUl1UTdZVkZjSk1qT1VyYTA4TjJFUC1TRFcwcko3dXFZWGpuT3JaSUwxZ3BZbENMdG9KdFV3TTg2RUUwZXVibmpCWm44dVFqb1pyc1BUY2dxbjdyUXV5YUE4aTBuYVpVZDZlTGxZNnBoaUo3eDZWNkJLbGdhZm5xSXN4OVViOUVPTnNTcE5hcTlNd2k5TkowNlE?oc=5",
-      "publishedAt": "2026-08-19T09:22:33+00:00",
       "heat": 44
     }
   ]
