@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T20:34:01.540028+00:00",
+  "updatedAt": "2026-08-19T21:29:49.773611+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,57 @@
   ],
   "articles": [
     {
+      "id": "google-news-u-s-announce-u-20-wnt-roster-for-2026-fifa-under-20-women-s-world-cup-yahoo-sports",
+      "title": "美国公布 2026 年 FIFA 20 岁以下女子世界杯 U-20 WNT 名单 - 雅虎体育",
+      "summary": "美国公布 2026 年 FIFA 20 岁以下女子世界杯 U-20 WNT 名单 雅虎体育",
+      "originalTitle": "U.S. announce U-20 WNT roster for 2026 FIFA Under-20 Women’s World Cup - Yahoo Sports",
+      "originalSummary": "U.S. announce U-20 WNT roster for 2026 FIFA Under-20 Women’s World Cup  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Rm5vOGo2dDdxYTgwLXdwZVV3X25Ua0ZBM1Rfa3U3dG9rV2ZsVXRjSXVQRXhmcy03cHBLdlh2WEluZmpkc2k2b0VKekJGdlhKVk5fM2JFSEw1Z1lyMXJRQ2ZYZjF2STNKeXFzZ0JPU1VaV0JHY2dF?oc=5",
+      "publishedAt": "2026-08-19T20:48:28+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-cape-verde-name-new-head-coach-after-historic-world-cup-as-bubista-departs-citi-sports-online",
+      "title": "布比斯塔离职后佛得角历史性世界杯后任命新主教练 - 花旗体育在线",
+      "summary": "布比斯塔离开佛得角历史性世界杯后任命新主教练 花旗体育在线",
+      "originalTitle": "Cape Verde name new head coach after historic World Cup as Bubista departs - Citi Sports Online",
+      "originalSummary": "Cape Verde name new head coach after historic World Cup as Bubista departs  Citi Sports Online",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlFrMmpVam9QeTBkNXZDUTI2V0IyaUJpY2lTdUk3S2RxQ1dKdEsyMzJEcjVUTkRYdmVLRWdqU0pyRUloeVNVYlYyVElLaU1aLWppbVhYb1F4cklxWkRST0RNNnNObUF0U05zZjJuNTVJVzZlaTRrRVRGNTBoWWNkV3Q1Y1E3bUNNbm55S3hxemowOE1DN1pHTGVLQ1VFclQxZmdjU3dqNWloX09PTUZLTkFn?oc=5",
+      "publishedAt": "2026-08-19T20:33:32+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-the-economic-engine-of-a-world-cup-spain-outpaces-european-rivals-with-23-titles-driven-by-youth-development",
+      "title": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 次夺冠超越欧洲对手 - Foot-Africa.com",
+      "summary": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
+      "originalTitle": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development - Foot-Africa.com",
+      "originalSummary": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development  Foot-Africa.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPYlY5REJ6dUVsN2FpbmZ1am5rSmdnWFhzTVNBNU9wYldRWGVOeWFuTVpvS3VYQzlONU9ZbHdiSG9oa1haN044RkVzQXZRQ0I0Wm5BNHAtQVBBMVlJSEExQVZPUC1pbGdBZTF0VEI4RnZnZVZmalE0bmZOQnFEWW9sYm9ydzNFc1h1WUk2bmVWODJMVmN2MTFOUDBXbGhSREs5Tm5WRS1KMWZQRUdBb20zbmpkNFNHOEFmb1pZVkZHU2JjMVY0TVViWjJSZENiN2RJd0x4cENBdTZvdnBaakNHYXFIdw?oc=5",
+      "publishedAt": "2026-08-19T20:30:05+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounder-at-heart",
+      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - Sounder at Heart",
+      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯",
+      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - Sounder at Heart",
+      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  Sounder at Heart",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFZvMXh3QjgxN1E1WUF0SDJ1MVNfUWlZLTZCZlZJUEVJbFVxYXJ6b1I1OWRFcVFiZ21KVzdxR0lBRjFTazVJQnpVZFl2M1VfdllVMGU2eEdqNS1VZnVUY3M2aUJBXzBxZHk4cDdlamtoRllpX2JFZURRcV9WNHlqeGo1RUdoMTlmMldMVThWcTN1RTM4WXlZcC1Sbk1pZ1Z2?oc=5",
+      "publishedAt": "2026-08-19T20:19:24+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology",
       "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - TVTechnology",
-      "summary": "研究：2026 年 FIFA 世界杯期间有 1,740 亿次非法直播",
+      "summary": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播",
       "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - TVTechnology",
       "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  TVTechnology",
       "translation": "online",
@@ -32,16 +80,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-roger-bennett-is-a-man-of-the-people-men-in-blazers-secret-to-world-cup-success-nwitimes-com",
-      "title": "罗杰·贝内特是一个人民的人：开拓者队世界杯成功的秘诀 - nwitimes.com",
-      "summary": "罗杰·贝内特 (Roger Bennett) 是人民的一员：开拓者队在世界杯上取得成功的秘诀 nwitimes.com",
-      "originalTitle": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success - nwitimes.com",
-      "originalSummary": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success  nwitimes.com",
+      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda",
+      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - Sportskeeda",
+      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  Sportskeeda",
+      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
+      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  Sportskeeda",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXNNVXRQNkM4dDFuYkpKS0ZZSDZJR2dKcm5jdVBkRUxVZkh0QnJ0UlVTODQ4aVR4cXJyOXIyb1lRblBIcDR0NlVscUtkVmpxVl9YTl9hM0ZBWHdTU1hYV25sZVNmenhsTml2MWtLRXRadlFkanhNUW1zNlNtd2o0TTVnbWVINzVDeU11bjhRazA5RE5EWTJvNTNhUQ?oc=5",
-      "publishedAt": "2026-08-19T19:30:00+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE9mWkpuUmdFZG4zNjhaVHN1cGxWS1FNODE3M0pVQjJRUGR5OE9GSTdzaXZiM2wyem5aeFduR3REV2hjVktPY1N1cmpZU1BRbWVCWkgtcjlybm12SWVkUEEyMnlNdXV0c0ZkUHNEX1gtRjloMXdIVlFYLXlLYUlLdWJjRmxTYjg0amk3bk1IaTB4Z2hHOERmR2RXNXY?oc=5",
+      "publishedAt": "2026-08-19T19:20:25+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-india-vs-afghanistan-t20i-series-fifa-world-cup-2026-technology-to-transform-cricket-coverage-the-sunday-gua",
@@ -80,11 +128,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-chicago-stars-fc-forward-micayla-johnson-called-up-to-represent-usa-at-fifa-u-20-women-s-world-cup-chicagost",
-      "title": "芝加哥明星足球俱乐部前锋米凯拉·约翰逊被征召代表美国队参加 FIFA U-20 女子世界杯 -chicagostars.com",
-      "summary": "芝加哥明星队前锋米凯拉·约翰逊被征召代表美国队参加 FIFA U-20 女子世界杯chicagostars.com",
-      "originalTitle": "Chicago Stars FC Forward Micayla Johnson Called Up to Represent USA at FIFA U-20 Women’s World Cup - chicagostars.com",
-      "originalSummary": "Chicago Stars FC Forward Micayla Johnson Called Up to Represent USA at FIFA U-20 Women’s World Cup  chicagostars.com",
+      "id": "google-news-chicago-stars-fc-forward-micayla-johnson-called-up-to-represent-usa-at-fifa-u-20-women-s-world-cup-chicago-s",
+      "title": "芝加哥明星足球俱乐部前锋米凯拉·约翰逊被征召代表美国队参加 FIFA U-20 女子世界杯 - 芝加哥明星足球俱乐部",
+      "summary": "芝加哥星队前锋米凯拉·约翰逊被征召代表美国队参加 FIFA U-20 女子世界杯 芝加哥星队",
+      "originalTitle": "Chicago Stars FC Forward Micayla Johnson Called Up to Represent USA at FIFA U-20 Women’s World Cup - Chicago Stars FC",
+      "originalSummary": "Chicago Stars FC Forward Micayla Johnson Called Up to Represent USA at FIFA U-20 Women’s World Cup  Chicago Stars FC",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUS1oTElHbWdDVmozd1BxQVhieThGLTlGa3JjbzlMbTBwSC1qNy05cnVhS0hUQ3NxMERmRVhtOU9EVWNYRGlBUTBmcGI5dk1obFRFcGRkTjRrZjFzaFJTVXFfMkpiMHhLWHlYbEl2el9sQjRrZnVFTjh2QjFuSWtvNEg3djkwUWJ2RWRHMkNhYjlPWVc5bFoyb21IRUpvaFFZSldqOUVSQk4?oc=5",
@@ -102,6 +150,18 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3ZsUEtoYXZWSi1VU3ctMUs1U0wyTGplMXM3YmJWT2V0TERvLUtBTUFYTGJGQS1iS3E3U0FoUU1qSkdMdTNWazV2MXh3YzlUMzBocVIyZUd4ZGJpM2tPbVNYTzgwNTNzby1SRjdtS3VHdm5TM0JwbVVOOEFFb2pwYWpSeF9rNWxHd3NGZm1jU1R6SkNiVGdEZGpISFRlUFhtME9DTm1B?oc=5",
       "publishedAt": "2026-08-19T18:50:21+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
+      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
+      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
+      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - Yahoo Creators",
+      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  Yahoo Creators",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0xcmp3T3MxTHJGMjBVXzJlNGc1Ump2dHRYNjdKS2o5RlItNmRldUNPTTZ0VHZhckJMaXlDejUwUGpNc1hQaFVtU2toeVdENkxuR05kZy00QkNISEViS19GY0EzVERBUGpkNDhHRjNiSEx5MjJ4Vi1YUk5SOGpsSzlKN0Zkb21mMjFVZHE2eW1lUjdpUG5GMTBQQWstZVEtOXVIZURmR0FRTDZMZG1fUDFoY21yMHVkbkdqejZJZlZkUWN4ZUptNGktamNPc1kxVENBRDl0UTQxSkk?oc=5",
+      "publishedAt": "2026-08-19T18:35:40+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-azcárraga-i-don-t-see-a-world-cup-in-mexico-in-2038-as-a-far-fetched-idea-diario-as",
@@ -128,33 +188,21 @@
       "heat": 44
     },
     {
-      "id": "google-news-usmnt-s-home-world-cup-record-interest-same-ceiling-yahoo-sports-canada",
-      "title": "美国国家队主场世界杯：兴趣创纪录，天花板相同 - 雅虎体育加拿大",
-      "summary": "美国国家队主场世界杯：兴趣创纪录，天花板相同 雅虎体育加拿大",
-      "originalTitle": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports Canada",
-      "originalSummary": "USMNT's Home World Cup: Record Interest, Same Ceiling  Yahoo Sports Canada",
+      "id": "google-news-usmnt-s-home-world-cup-record-interest-same-ceiling-yahoo-sports",
+      "title": "美国国家队主场世界杯：兴趣创纪录，天花板相同 - 雅虎体育",
+      "summary": "美国国家队主场世界杯：兴趣创纪录，天花板相同 雅虎体育",
+      "originalTitle": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports",
+      "originalSummary": "USMNT's Home World Cup: Record Interest, Same Ceiling  Yahoo Sports",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVmV5dlRxRFE0bno1Q2tqMnFMLURYa0VGcS1wZFFRQ3B3bmtubXA2VkJmcDh4ZWh2RmlBSFlLQ0Z2UHI4WEEyelZ6NXRweF9yLVNZX2RuU2pvYmVMemRkMTlWS2djSVhnZjllaElVeGxzakYzUzQ5X1FyenlVc3M3NTlB?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5",
       "publishedAt": "2026-08-19T18:10:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-laliga-atlético-madrid-loans-out-mexican-world-cup-star-obed-vargas-and-the-race-is-on-al-bat",
-      "title": "西甲：马德里竞技租借墨西哥世界杯球星奥贝德·巴尔加斯——比赛开始了！ - 阿尔·巴特",
-      "summary": "西甲：马德里竞技租借墨西哥世界杯球星奥贝德·巴尔加斯——比赛开始了！  阿尔巴特",
-      "originalTitle": "LaLiga: Atlético Madrid Loans Out Mexican World Cup Star Obed Vargas—And the Race Is On! - Al Bat",
-      "originalSummary": "LaLiga: Atlético Madrid Loans Out Mexican World Cup Star Obed Vargas—And the Race Is On!  Al Bat",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPajY4cGRBaXIyXy1XZTEyTFNtUVdIRVRmemlYamdzNnFlcUtxQjc4ZklfRGpsT3BzOUVzRGFZMHpCSjR2elAwWTBSaUhITVo0dkRtRzc5bkxGS1NSNzNIUGFjeGg3UjdoTXZXSG9MX19aWnMyMk9DclBNXzFlX3JoNzZuSU5SMklsV0tDdVFha0NnSlM1bnhuZXc1M05Oc2pLS0hGOEVkWG04SUlwV1N6eTJRMTNacGZiNHRHT3FvQlRpUDAyZTFDQ245S3IzWDjSAdQBQVVfeXFMUGY3STJVTWhheWJPT2FNWC00VVN4cnMyNHlObkJ0VjZyVzMwdU9TR0JkTUpldjJ5OTNqcUVBU0tFUFdvZnJ2aVJna1JFajFxTHVya0ZESUtSMEF2Zm5XcnR3Tk9OQ3lnX1pMMzhrNzAwei1vOWd5NUZGNnBsakY0N1hmSC1vaV9iMF9URzhsVnd1MzNjSTdsTE9YbDBuSTZTTkZhc2xJd1ZadFNUeFRWZXY5bE5FeWxQckZCeXNtVEdZM3VyRkpBS1JEaHBhRVN5UjMtbW4?oc=5",
-      "publishedAt": "2026-08-19T17:32:00+00:00",
       "heat": 52
     },
     {
       "id": "google-news-tab-ramos-critical-of-mauricio-pochettino-christian-pulisic-as-usmnt-fell-short-of-world-cup-expectations-wo",
       "title": "塔布·拉莫斯批评毛里西奥·波切蒂诺和克里斯蒂安·普利西奇，因为美国国家队未达到世界杯预期 - 世界足球谈话",
-      "summary": "塔布·拉莫斯批评毛里西奥·波切蒂诺和克里斯蒂安·普利西奇，因为 USMNT 未达到世界杯预期 World Soccer Talk",
+      "summary": "塔布·拉莫斯批评毛里西奥·波切蒂诺和克里斯蒂安·普利西奇，因为美国国家队未达到世界杯预期 World Soccer Talk",
       "originalTitle": "Tab Ramos critical of Mauricio Pochettino, Christian Pulisic as USMNT fell short of World Cup expectations - World Soccer Talk",
       "originalSummary": "Tab Ramos critical of Mauricio Pochettino, Christian Pulisic as USMNT fell short of World Cup expectations  World Soccer Talk",
       "translation": "online",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxOV0hQM0lNb0hHSkxLTk43UmY0Q1Z5UGVfMW91ODJ1MThMTUxIRnhhcWhJNWVzT20zc2l1OFIwYnEzcVB3SExhZWVKTUE4d0VBZUFKYXppUUJ3Y2NnVE1nbFA2amhwWW1tY0pvMmg0TUIyV2JYTFBHY2JETkFwTnFIZFIzdjRuQzFXRk11NkdJbzFSSU03QTc3SlpkdHlraUJDT1gwN09pV0ljeHpqNVJKbXA4dWlEdGVIeFcxeXpZVWlnckpibDZpcUdKdWdsdExycTlxRnJkZDVWRGxLazVkQmNTVWRsSFlkTjhZcFJ1RTdCdUJv?oc=5",
       "publishedAt": "2026-08-19T17:04:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-vs-algeria-live-fifa-world-cup-2026-live-updates-commentary-match-coverage-andrea-pellegrino-vs7ny",
-      "title": "阿根廷对阵阿尔及利亚直播| FIFA 世界杯 2026 实时更新、评论和比赛报道 安德里亚·佩莱格里诺 (VS7NYQCDOs) - Mshale",
-      "summary": "阿根廷对阵阿尔及利亚直播| FIFA 世界杯 2026 实时更新、评论和比赛报道 Andrea Pellegrino (VS7NYQCDOs)  Mshale",
-      "originalTitle": "Argentina Vs Algeria LIVE | FIFA World Cup 2026 Live Updates, Commentary & Match Coverage Andrea Pellegrino (VS7NYQCDOs) - Mshale",
-      "originalSummary": "Argentina Vs Algeria LIVE | FIFA World Cup 2026 Live Updates, Commentary & Match Coverage Andrea Pellegrino (VS7NYQCDOs)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5HTWhiNzBCVXpNMGk5aVI5V0FaSU1MX3ZicU1QREotMF96N3lEcUZ4VzFSOTlhZHJ1M0hrQzQwUHMwbXAtVHlxYm84ekpMNGd1ZlNoWDJWdWU0Y2tpNXVfYw?oc=5",
-      "publishedAt": "2026-08-19T16:23:52+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-ai-cameras-3d-replays-spidercam-fifa-world-cup-2026-tech-to-transform-india-vs-afghanistan-t20i-series-free-",
-      "title": "AI 摄像机、3D 回放、Spidercam：2026 年 FIFA 世界杯技术将改变印度与阿富汗 T20I 系列 - 免费新闻杂志",
-      "summary": "AI 摄像机、3D 回放、Spidercam：2026 年 FIFA 世界杯技术将改变印度与阿富汗 T20I 系列免费新闻杂志",
-      "originalTitle": "AI Cameras, 3D Replays, Spidercam: FIFA World Cup 2026 Tech To Transform India Vs Afghanistan T20I Series - Free Press Journal",
-      "originalSummary": "AI Cameras, 3D Replays, Spidercam: FIFA World Cup 2026 Tech To Transform India Vs Afghanistan T20I Series  Free Press Journal",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNbVJiLTR1aFFYWU83Y0FNZ0xFRExjR0hOeEJEenQ1ekJ5aGdrNVV4NlF6OGk2ZC1DNTEzS0xrRURCT3lWNUFDUWp4Ym5GMkhsWVRUOWJVQkNjVmNHbU12TU9YSV9oR3gtLTRidllLelFKWVJYOVh1UU9lVXBJd0JNbHBYdmNhMVI0UUhEdE9fVHZjZEQ4b0x3TU42VW5CRmxCbUNBUF9xTlNsVE83c2dyS09jbXVYU1RfbDVZZXRQeUZXQ1pGallMZnM3dTZDZm9KdVhIdDE2QXN1SVFTYUhZRkhxdDJnQdIB6wFBVV95cUxQT1hEMWRsN2NEUHFlbDBsYlRPY3prcnU4WE9ReWNGUU5iS2ExSmUtY1FhbDVKUnhZRkpHeHJ3REFmenVFU2MwbGcyQ2pjaXJjZDZQRy10X3IwSkRaNlhESGJrOEd5dmI0N0tIczNJVXJFT292TjhfaHEwOHc0R1REeC02d2tjWGZERlhtS05Xb3IxcmFIODJWdVVraFhkSTNNcnpSTXV2Y3cwc1hWZFdvV1lSVlphNjVyWXVfdjBiWWw5MnZHM0xSQWNzeGxaSUw0OGNVSE5JSl9MSFNyMF9VN3hPcVlwcmlsRXJB?oc=5",
-      "publishedAt": "2026-08-19T16:21:57+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-top-10-contenders-for-the-2026-ballon-d-or-k24-digital",
-      "title": "2026 年金球奖前 10 名竞争者 - k24.digital",
-      "summary": "2026 年金球奖前 10 名竞争者 k24.digital",
-      "originalTitle": "Top 10 contenders for the 2026 Ballon d’Or - k24.digital",
-      "originalSummary": "Top 10 contenders for the 2026 Ballon d’Or  k24.digital",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzOXBuODNrU2ZNVExObVBBa2RJUVVTNFV1dlZzc0I4Z3VHSTNCR3NjYU1IQWhoeFlnd3pRdi1RR240S0Z2MmY5S1g3YnZMRGVLb2VQWVJFVG9Lb2szN1BZdnRsTjRObDRNdFo4VVFMRFlsTGRsQVBB?oc=5",
-      "publishedAt": "2026-08-19T16:18:37+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-report-2026-fifa-world-cup-final-director-to-oversee-ind-vs-afg-t20i-series-broadcast-with-football-style-pr",
-      "title": "报告：2026 年 FIFA 世界杯决赛导演将监督 IND vs AFG T20I 系列足球风格制作的转播 - cricketnews.com",
-      "summary": "报告：2026 年 FIFA 世界杯决赛导演将监督 IND vs AFG T20I 系列足球风格的制作转播 cricketnews.com",
-      "originalTitle": "Report: 2026 FIFA World Cup Final director to oversee IND vs AFG T20I series broadcast with football-style production - cricketnews.com",
-      "originalSummary": "Report: 2026 FIFA World Cup Final director to oversee IND vs AFG T20I series broadcast with football-style production  cricketnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPR2ItV1ZHYnQyaldKbXhhTUwwbWF5UlZiMzQ1QUktN1hqcERyQ2RNMW53N01VZXJ5YmxjXzhiVk5uNDJLSU1OeVp1VV95eEd3UFQtU2RJeUwtZllaVS1yLVZhNk9nU3VUa3NEeWJGUGZXRmd3bm5sTXM3Rzd4U0pFRXFmM0xzTFBpY29hNUR3OEVTRExlbFQyYXRxRGJuOEtZNmExSHdaWUl5WFljVkxQNUFQdFNka0RpaGZCc05MdkFIek9GSGwwRlF4aVAwM2JlSnNicw?oc=5",
-      "publishedAt": "2026-08-19T16:03:59+00:00",
       "heat": 60
     }
   ]
