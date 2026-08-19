@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-19T22:29:14.125040+00:00",
+  "updatedAt": "2026-08-19T22:54:39.518965+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-u-s-names-u20-women-s-world-cup-roster-with-upsetting-absences-espn",
+      "title": "美国U20女足世界杯名单公布，缺席情况“令人不安” - ESPN",
+      "summary": "美国U20女足世界杯名单公布，缺席情况“令人不安” ESPN",
+      "originalTitle": "U.S. names U20 Women's World Cup roster with 'upsetting' absences - ESPN",
+      "originalSummary": "U.S. names U20 Women's World Cup roster with 'upsetting' absences  ESPN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGxGUU5yMGJLZFlrR1pUZlJCSDlhWEJrbjY4amU4enhOZlllZHp1eTJDblhWUWVnU1Uxam9Pd0xqaGg2Z3lob0NoNjBldnpmUldOVkd3MGMxMm4yY2k1R2dISk1BZ25ZU0otQVNqcEJ1WkFzZW1fZVJqNkZCUlQwblBpd2lXdw?oc=5",
+      "publishedAt": "2026-08-19T21:16:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-u-s-announce-u-20-wnt-roster-for-2026-fifa-under-20-women-s-world-cup-yahoo-sports",
       "title": "美国公布 2026 年 FIFA 20 岁以下女子世界杯 U-20 WNT 名单 - 雅虎体育",
@@ -32,11 +44,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounderatheart-com",
-      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - sounderatheart.com",
-      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯 sounderatheart.com",
-      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - sounderatheart.com",
-      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  sounderatheart.com",
+      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounder-at-heart",
+      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - Sounder at Heart",
+      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯",
+      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - Sounder at Heart",
+      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  Sounder at Heart",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFZvMXh3QjgxN1E1WUF0SDJ1MVNfUWlZLTZCZlZJUEVJbFVxYXJ6b1I1OWRFcVFiZ21KVzdxR0lBRjFTazVJQnpVZFl2M1VfdllVMGU2eEdqNS1VZnVUY3M2aUJBXzBxZHk4cDdlamtoRllpX2JFZURRcV9WNHlqeGo1RUdoMTlmMldMVThWcTN1RTM4WXlZcC1Sbk1pZ1Z2?oc=5",
@@ -46,7 +58,7 @@
     {
       "id": "google-news-the-economic-engine-of-a-world-cup-spain-outpaces-european-rivals-with-23-titles-driven-by-youth-development",
       "title": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 次夺冠超越欧洲对手 - Foot-Africa.com",
-      "summary": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
+      "summary": "世界杯的经济引擎：在青少年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
       "originalTitle": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development - Foot-Africa.com",
       "originalSummary": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development  Foot-Africa.com",
       "translation": "online",
@@ -58,7 +70,7 @@
     {
       "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology",
       "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - TVTechnology",
-      "summary": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播",
+      "summary": "研究：2026 年 FIFA 世界杯期间有 1,740 亿次非法直播",
       "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - TVTechnology",
       "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  TVTechnology",
       "translation": "online",
@@ -80,16 +92,28 @@
       "heat": 52
     },
     {
-      "id": "google-news-benfica-vs-aarhus-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
-      "title": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日 - sportskeeda.com",
-      "summary": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日  sportskeeda.com",
-      "originalTitle": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
-      "originalSummary": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
+      "id": "google-news-benfica-vs-aarhus-prediction-and-betting-tips-august-20th-2026-sportskeeda",
+      "title": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日 - Sportskeeda",
+      "summary": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日  Sportskeeda",
+      "originalTitle": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
+      "originalSummary": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026  Sportskeeda",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnkyTGtUdDRRSHJqLVg2QTZ6eGRiLU83d2x1WkI4OHQwbmdMTzNSa2stSVNRUFdQN1R6WXF1aWUySzl3czZCYlJ5ZGdKU2QwcURBY3k1T2ZzN2RtdVZaVTRxZmpQZDV1eTZ2eS0wVzdIdnhPWVNjejFnaWtFOXRrNXY2QWR3d3NOemhKUTVleU5Gb2UwRXFFa0RGNA?oc=5",
       "publishedAt": "2026-08-19T20:05:21+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-world-cup-2026-best-places-to-watch-the-soccer-matches-in-50-us-cities-wsyx",
+      "title": "2026 年世界杯：美国 50 个城市观看足球比赛的最佳地点 - WSYX",
+      "summary": "2026 年世界杯：美国 50 个城市观看足球比赛的最佳地点 WSYX",
+      "originalTitle": "World Cup 2026: Best places to watch the soccer matches in 50 US cities - WSYX",
+      "originalSummary": "World Cup 2026: Best places to watch the soccer matches in 50 US cities  WSYX",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTHRnbjI3QXZVVDc3LVpQVUdLREYtNFNoZG1TR05HZm9kRnlOS2g3bmNaU2hYazBHNXRWU2ZKblJDV01kUXVPTmtpZTQzeG9vVkw0Z2liY1p4UGpBcmxZdnNuSDNfMk5SREhPMFJlMVZUZndUZ1NvLVNDOThsaGVkTDdWNU9WRm5CT2VtSzV4c1RxUmtqcEY2RHl6RkxDcVNkdlhKbVlfTWJubGRCV0FsT044Z3h0TVoxZzYwSC1sLTlzZFlXQlAtWGx5RHBIWEdfb3FZX1JiLXVkZ1FTWTVGeklJckFrY2RaUlpPUEFXZk1HM1pyQm9OSllkak93Y1M3QktfS2pLMA?oc=5",
+      "publishedAt": "2026-08-19T20:00:46+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-roger-bennett-is-a-man-of-the-people-men-in-blazers-secret-to-world-cup-success-nwitimes-com",
@@ -104,11 +128,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
-      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - sportskeeda.com",
-      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  sportskeeda.com",
-      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
-      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
+      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda",
+      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - Sportskeeda",
+      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  Sportskeeda",
+      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
+      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  Sportskeeda",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE9mWkpuUmdFZG4zNjhaVHN1cGxWS1FNODE3M0pVQjJRUGR5OE9GSTdzaXZiM2wyem5aeFduR3REV2hjVktPY1N1cmpZU1BRbWVCWkgtcjlybm12SWVkUEEyMnlNdXV0c0ZkUHNEX1gtRjloMXdIVlFYLXlLYUlLdWJjRmxTYjg0amk3bk1IaTB4Z2hHOERmR2RXNXY?oc=5",
@@ -131,8 +155,8 @@
       "id": "google-news-u-s-u-20-wnt-head-coach-vicky-jepson-names-21-player-roster-for-2026-fifa-under-20-women-s-world-cup-in-pola",
       "title": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单 - 美国足球",
       "summary": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单",
-      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
-      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  US Soccer",
+      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - U.S. Soccer",
+      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  U.S. Soccer",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
@@ -164,11 +188,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-craiova-vs-ararat-armenia-prediction-and-betting-tips-august-20th-2026-sportskeeda-com",
-      "title": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日 - sportskeeda.com",
-      "summary": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日  sportskeeda.com",
-      "originalTitle": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026 - sportskeeda.com",
-      "originalSummary": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026  sportskeeda.com",
+      "id": "google-news-craiova-vs-ararat-armenia-prediction-and-betting-tips-august-20th-2026-sportskeeda",
+      "title": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日 - Sportskeeda",
+      "summary": "克拉约瓦 vs 亚美尼亚亚拉拉特预测和投注技巧| 克拉约瓦2026 年 8 月 20 日  Sportskeeda",
+      "originalTitle": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
+      "originalSummary": "Craiova vs Ararat-Armenia Prediction and Betting Tips | August 20th 2026  Sportskeeda",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNM3ZsUEtoYXZWSi1VU3ctMUs1U0wyTGplMXM3YmJWT2V0TERvLUtBTUFYTGJGQS1iS3E3U0FoUU1qSkdMdTNWazV2MXh3YzlUMzBocVIyZUd4ZGJpM2tPbVNYTzgwNTNzby1SRjdtS3VHdm5TM0JwbVVOOEFFb2pwYWpSeF9rNWxHd3NGZm1jU1R6SkNiVGdEZGpISFRlUFhtME9DTm1B?oc=5",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWXlCMUNJX3RWUzJmZGVZQmlueExNM2tTS1pzdW1ra3BZUTJtaVhVNmpfR3ZJTEVFUHdGb1B1OVFERU9rY2dZWFR3eFBMTGcxZnRxSkZDNnlVU3RHalpLOEYzOUdSRjdWVzlwRUhUQkxBejVzWHdEOFdEWUJ4aG9vcHZ1cjZNS19iNmJUaWtKeFlDZnBPNzlTME83Qzl4US1oNkVTV0p0aklCcXFu0gHAAUFVX3lxTFBQMlJqbmZGUEZFVlk2bjNsX2lmZWFlQUEycnE2VjktVVBRT1FMY2VfOHdtajJmV1d5SlRNTGhWNmdRUldnNkJjenRacFdrZU8zUGJfbHFUQmpFbkVNQjkxNzF1VjBDbmkzMHl0dW1QaG9JY25sWWR1cFkteE1DNmVSZHJNZjdFZzNwaDBJY1ZMZnZSbV91T1RCelVtcXNlQzZRTTBrQ0FNMnNQOW9KNUlXMllXaFFBRmtlcFI1NWxWMQ?oc=5",
       "publishedAt": "2026-08-19T18:30:19+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-burna-boy-tems-earn-2026-mtv-vmas-nominations-full-list-channels-television",
-      "title": "Burna Boy、Tems 荣获 2026 年 MTV VMA 提名 [完整名单] - Channels Television",
-      "summary": "Burna Boy、Tems 获得 2026 年 MTV VMA 提名 [完整名单]",
-      "originalTitle": "Burna Boy, Tems Earn 2026 MTV VMAs Nominations [FULL LIST] - Channels Television",
-      "originalSummary": "Burna Boy, Tems Earn 2026 MTV VMAs Nominations [FULL LIST]  Channels Television",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONkk2RFRnVzZHbWJGUThTZUx5UUw5SmpZd0Z5VkkySDFvNWxYMmlfSVhRRVQ5WnAxQXAyeG5kV0x4RGRmN2Y3eG9ZUUlBMGxybmlsOXJ4QkdZbHY0ZHhIQVZuMkNVS0hKQVpfVTZkN1pmT01GRzF0Rk5ZR3FUN0g4Vl9FdUZHcFZDcXpLUQ?oc=5",
-      "publishedAt": "2026-08-19T18:11:26+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-usmnt-s-home-world-cup-record-interest-same-ceiling-yahoo-sports",
-      "title": "美国国家队主场世界杯：兴趣创纪录，天花板相同 - 雅虎体育",
-      "summary": "美国国家队主场世界杯：兴趣创纪录，天花板相同 雅虎体育",
-      "originalTitle": "USMNT's Home World Cup: Record Interest, Same Ceiling - Yahoo Sports",
-      "originalSummary": "USMNT's Home World Cup: Record Interest, Same Ceiling  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOGhuVG9LTUEtamJldHE2NC04el9BbnI3cFZ2YWUtR1hiTXZibW1ZYV9NQXp6UEVZM1FmMUNrTGVkZXZCMXVKOFNFMWFfTnBIRkt6U2R5a2VhMzhwUnFrZDlra0hUTmI3N3JrcU1TUnhGYUdjQ0d0NmFYZUk3N3pSTFFfZw?oc=5",
-      "publishedAt": "2026-08-19T18:10:00+00:00",
       "heat": 52
     }
   ]
