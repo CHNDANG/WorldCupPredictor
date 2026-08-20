@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T14:40:47.602769+00:00",
+  "updatedAt": "2026-08-20T15:38:03.516134+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-when-is-the-women-s-world-cup-fifa-releases-2027-schedule-details-usa-today",
+      "title": "女足世界杯什么时候举行？国际足联公布 2027 年赛程详情 - 今日美国",
+      "summary": "女足世界杯什么时候举行？ FIFA 发布 2027 年赛程详情 《今日美国》",
+      "originalTitle": "When is the Women's World Cup? FIFA releases 2027 schedule details - USA Today",
+      "originalSummary": "When is the Women's World Cup? FIFA releases 2027 schedule details  USA Today",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejFBQ2VT?oc=5",
+      "publishedAt": "2026-08-20T14:56:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures-vanguard-news",
       "title": "超级鹰队、猎鹰队世界杯失利后，NFF面临FG制裁 - Vanguard News",
@@ -116,15 +128,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-soccer-how-would-a-vote-of-no-confidence-work-to-oust-fifa-president-infantino-the-straits-times",
-      "title": "足球——不信任投票如何才能推翻国际足联主席因凡蒂诺？ - 海峡时报",
-      "summary": "足球——不信任投票如何才能推翻国际足联主席因凡蒂诺？  海峡时报",
-      "originalTitle": "Soccer-How would a vote of no confidence work to oust FIFA president Infantino? - The Straits Times",
-      "originalSummary": "Soccer-How would a vote of no confidence work to oust FIFA president Infantino?  The Straits Times",
+      "id": "google-news-how-would-a-vote-of-no-confidence-work-to-oust-fifa-president-infantino-reuters",
+      "title": "如何通过不信任投票推翻国际足联主席因凡蒂诺？ - 路透社",
+      "summary": "如何通过不信任投票推翻国际足联主席因凡蒂诺？  路透社",
+      "originalTitle": "How would a vote of no confidence work to oust FIFA president Infantino? - Reuters",
+      "originalSummary": "How would a vote of no confidence work to oust FIFA president Infantino?  Reuters",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSjVlNVhGY1dQRU5OWnFQS3dyQ2ZsSkpmeEl4d0VZWkl1c1J1aXhFUURmMXBLYzhDcVViZmwxWGRCRzhlcjJuaUlEc0lvRUxnZHZiaHN3Sl9XMDhSX1lTXy10em1UeC03Q2Y5R1BIcElFMEx2d0VDOXhnVDBER3FmazBUWmFNTUZyaFpRTllwdzFTWDdZVE5pbWlCY3dBSVk4bmFmTEVWSHpuREdDWmtRUHRSaXJ1V0tPdkxtY1JuYw?oc=5",
-      "publishedAt": "2026-08-20T11:47:11+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNmR4cGxPdmdFb01JUVdnZUVRWjgyV0NURU9FYVFaNHVYMGFtcWg3eGRGWUF6alhGaWZNWXFBZEhKT2xsVXpuekhXd1lyRkd2VWY4MWs0UEh0NEdvUFg4d2RJQ3dmeFRvUHJZa2xidTFfRlNWLVctQ2xDU1FGQWFUbmNLVU4tQXBnVXA5NmtqWkVVWW1pUDZ1NTdQekNwLUhoSm10RVhub2VuaG43Z1JiUDQyaw?oc=5",
+      "publishedAt": "2026-08-20T11:42:36+00:00",
       "heat": 52
     },
     {
@@ -209,18 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlp6bFBBVEY1NTNjaG9nUjVjZmdSTGV3UFFQbUpneXZvVFVUc1MzSno2dUZsa2VZVWpnaW9pX2ZpQXYxbFJuX21fLW1KR18xeVlPRTB5SVlrUUVyeG1XSHJ6eUpzT2lmY2ZMSjdzWm5rUjMwT0daRVB5WlNMVTgtLTRGMGpyNUhTTHJPX0E2bGNxUHhLbE1pU2xVMW1zejRUU1BCa0JXX3Z3WUR5SG1ObGFleWkxc09hZ24wTS13RHAzQmpMN01wVdIB1gFBVV95cUxNbkpZU25ISnRBU1Z2VEhzWFNGdWtjeE1JNEhsQWZLR0pJSU1Cd1VKaVNwUXV6enZoV0VNNDA0YXZwQ1ZUSUtQNFJHNVVXSDR0ZndDcDNvRWdrOW5kYktkR3VXN1VKMlZZTUFyY3BQcTF5djZCbHVDVWNndUYzaFphQUtIVzllZ1N5V3VSLTFzWWNiVFhrXzhkTnFSUG1ZRkh2RzNLT3hORWtrSXJSczBlYlBkSEhVVk4wckprSEZXOS1fNDMxbHp6VFFsVVU1dm9sSFdqN3dn?oc=5",
       "publishedAt": "2026-08-20T11:08:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
-      "publishedAt": "2026-08-20T10:56:27+00:00",
       "heat": 60
     }
   ]
