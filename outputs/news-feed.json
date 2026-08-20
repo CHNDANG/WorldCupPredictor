@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T03:01:35.277653+00:00",
+  "updatedAt": "2026-08-20T04:09:10.221645+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-argentina-looks-back-at-2026-world-cup-and-claims-there-was-an-anti-argentina-campaign-bein-sports",
+      "title": "阿根廷回顾2026年世界杯并声称存在“反阿根廷运动” - beIN SPORTS",
+      "summary": "阿根廷回顾 2026 年世界杯并声称存在“反阿根廷运动”",
+      "originalTitle": "Argentina looks back at 2026 World Cup and claims there was an “anti-Argentina campaign” - beIN SPORTS",
+      "originalSummary": "Argentina looks back at 2026 World Cup and claims there was an “anti-Argentina campaign”  beIN SPORTS",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxONGM1TVVLWTREaXd0c2prVTlTNXQ2VUt3WmhWX2tEZTRGQWdxRk1XbVdINmY2UzZpRVBvekVodnV5dmU4SG5XNjVLbF9SN0l3dUdzYjg4SFJ4ZnczTUYwU09SREVBdTZBeWdBZ2lBMmdCM1Z5MHFETFp1WHFMdm9YUGFNM1lPUHBsRWFkTTZFaURxMzYtMjZ5MURBRmF4dFMzeW05SkIzeEF0b3c2VEN2SFJ2YWJaN2tEQmxHSERaRGlZMktkV1VjdXJfMDU5bjE3dDRWQjF6WDJfcHdrdkRqVmlkS3lkMTBLekxkOFJTNjVPVjRtb1I0MHZJUQ?oc=5",
+      "publishedAt": "2026-08-20T03:21:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ind-vs-afg-fifa-world-cup-2026-broadcast-technology-to-be-used-for-india-afghanistan-series-sportscape-magaz",
+      "title": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛 - Sportscape 杂志",
+      "summary": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛《Sportscape》杂志",
+      "originalTitle": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series - Sportscape Magazine",
+      "originalSummary": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series  Sportscape Magazine",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0JCVHByb2pnNVhpQ25BZ2dYMTRIM1hUOEZtSmtpZDZkLVZlQUhtSG5qcEN4UVFHNlR4dGJIWXBHeVFaMUZfVjVSdzluOXY4NjdNXzUzdUF2RmhCUzVHa20waGd4MUk0Y3d5VGdvWUdxSy1pM1lNX0NIV2s0WE56ZWk1akNPOEZlVXB1UVRyeEg3SkYzQVZqSHZOZUFPRERWV2dvWGlYQmtnWWdlMFVkQ3gtWWlyaW81TGZxOQ?oc=5",
+      "publishedAt": "2026-08-20T03:16:40+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn-philippines",
+      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN 中国",
+      "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN 中国",
+      "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN Philippines",
+      "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN Philippines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSFdnWFNIdU9lODRqVXE4Qi1YaDFUTDU4aXQ1TGJZc3VUQTh5Wl9RWXRIc1ptQ2VtenZtMmw0eTJmckN0VmdyWExFNVZrUDZVZ3VsZVFNbVdMOV93YnRZVHRCUjNrcS1pRENfYS1iR1U4U2dkam9VT2J3TThGMXNSamFMRUx1LVZyb3JGNFphaFRvQmpGaG0zckcyYzNTRnZaN2FnYnBfR0JFd1gtX2lLNEZTcUI5TTh2ZktDRi1QdzdNUURHVFhGa29RMDlPX00xclZVTFM5aXp5Mk5uWkZrUmpPYW9XOHlMTm45ak4xWVZwdFk?oc=5",
+      "publishedAt": "2026-08-20T02:35:39+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
+      "title": "这是雨果·布罗斯和巴法纳球星将从国际足联2.18亿兰特世界杯奖金中获得的金额 - IOL",
+      "summary": "这是 Hugo Broos 和 Bafana 球星将从国际足联世界杯 2.18 亿兰特的奖金中获得的金额 IOL",
+      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
+      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
+      "publishedAt": "2026-08-20T02:12:43+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-韦伯-fifa撤销巴洛贡红牌让我深感不安-这将助长阴谋论-zhibo8-cc",
       "title": "韦伯：FIFA撤销巴洛贡红牌让我深感不安，这将助长阴谋论 - zhibo8.cc",
@@ -20,16 +68,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
-      "title": "This is how much Hugo Broos, Bafana 球星s will earn from R218 million Fifa 世界杯 bounty - IOL",
-      "summary": "This is how much Hugo Broos, Bafana 球星s will earn from R218 million Fifa 世界杯 bounty  IOL",
-      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
-      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
-      "publishedAt": "2026-08-20T00:16:05+00:00",
-      "heat": 60
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-20T01:16:01+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-world-cup-2026-masterful-japan-emerge-as-genuine-contenders-in-group-f-iol",
@@ -46,10 +94,10 @@
     {
       "id": "google-news-u-s-names-u20-women-s-world-cup-roster-with-upsetting-absences-espn",
       "title": "美国U20女足世界杯名单公布，缺席情况“令人不安” - ESPN",
-      "summary": "U.S. names U20 Women's 世界杯 roster with 'upsetting' absences  ESPN",
+      "summary": "美国U20女足世界杯名单公布，缺席情况“令人不安” ESPN",
       "originalTitle": "U.S. names U20 Women's World Cup roster with 'upsetting' absences - ESPN",
       "originalSummary": "U.S. names U20 Women's World Cup roster with 'upsetting' absences  ESPN",
-      "translation": "online/local",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGxGUU5yMGJLZFlrR1pUZlJCSDlhWEJrbjY4amU4enhOZlllZHp1eTJDblhWUWVnU1Uxam9Pd0xqaGg2Z3lob0NoNjBldnpmUldOVkd3MGMxMm4yY2k1R2dISk1BZ25ZU0otQVNqcEJ1WkFzZW1fZVJqNkZCUlQwblBpd2lXdw?oc=5",
       "publishedAt": "2026-08-19T21:16:00+00:00",
@@ -65,18 +113,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Rm5vOGo2dDdxYTgwLXdwZVV3X25Ua0ZBM1Rfa3U3dG9rV2ZsVXRjSXVQRXhmcy03cHBLdlh2WEluZmpkc2k2b0VKekJGdlhKVk5fM2JFSEw1Z1lyMXJRQ2ZYZjF2STNKeXFzZ0JPU1VaV0JHY2dF?oc=5",
       "publishedAt": "2026-08-19T20:48:28+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-england-vs-costa-rica-preparation-fifa-world-cup-2026-friendly-match-football-gameplay-dave-ryan-dbbowtdnpk-",
-      "title": "🔴英格兰对阵哥斯达黎加备战 2026 年 FIFA 世界杯友谊赛足球赛 Dave Ryan (DBBoWTDNPk) - Mshale",
-      "summary": "ENGLAND Vs COSTA RICA PREPARATION 国际足联 WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk)  Mshale",
-      "originalTitle": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk) - Mshale",
-      "originalSummary": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk)  Mshale",
-      "translation": "online/local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XRmMzVkFfd1RBdG54QXV0cEpQTVFvaEEyenJwdFdqT2tnSlN0S0hSUTlIbFIyYjRpM2pZNFNGdlFlV2pidFVwWnFKaExoY0xpNTAwd0dINFBlcTgzQkdJQg?oc=5",
-      "publishedAt": "2026-08-19T20:45:26+00:00",
       "heat": 60
     },
     {
@@ -116,12 +152,24 @@
       "heat": 52
     },
     {
+      "id": "google-news-three-heels-set-for-fifa-u-20-women-s-world-cup-bvm-sports",
+      "title": "FIFA U-20 女子世界杯三高跟鞋 - BVM Sports",
+      "summary": "FIFA U-20 女子世界杯三高跟鞋 BVM Sports",
+      "originalTitle": "Three Heels Set For FIFA U-20 Women’s World Cup - BVM Sports",
+      "originalSummary": "Three Heels Set For FIFA U-20 Women’s World Cup  BVM Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnNCdmRzTXhaU1NoV04yMnd5clZHeHNUS05oc2ZWbnpQRjdwVU8zelJ2dUxDdUJ3VjIyNzRiYWM3RGRXa3FjeVltYVBIOThWeGdxR2hkUGgwazJrMDg4YjgtZDlfeEl5SjgtczAxcm1YXy11NFhEV1lDVWNBNDRNRGp3WGlXazA?oc=5",
+      "publishedAt": "2026-08-19T20:10:06+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology",
       "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - TVTechnology",
-      "summary": "Study: 174 Billion Illegal Streams During 国际足联 世界杯 2026  TVTechnology",
+      "summary": "研究：2026 年 FIFA 世界杯期间有 1,740 亿次非法直播",
       "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - TVTechnology",
       "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  TVTechnology",
-      "translation": "online/local",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjBsR0FSVnF3UFpQN040Q2duVTFobGZyV1RfTjB4Y1hCRndONnYxSnV6QlNscms5MV9SQ2kwRXNWTU02OElCOXh4VEYwaHlVelQwaV9zcWpLazR1TzltdGIyS0JRMUV3MEpoZFlHM1o2bzNoaWtXZ19NZnlSVVg0aGs4X2lOYTNsX2h1bldiNDNqaFB2cmt0VUlENzZPc1pkM25CeUtDQVdMMldH?oc=5",
       "publishedAt": "2026-08-19T20:07:34+00:00",
@@ -137,6 +185,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHp4Sk5Iek1QcnE0M05BOXZaZXhoLWRoZW1JZlp6b0l6RUc3WmxTZU44RkdNQXFzVHloZ3Zoazl2cFlpRjJCdkw3VzBEMmhBLW1ZckE2MEJGU2Z0anFQMWRwcFNXREl3QzNKbGl4UC1hV0JraGpHRmZ0QUU3alJyTUs1TERBOGZuYVpQbg?oc=5",
       "publishedAt": "2026-08-19T20:06:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-new-zealand-world-cup-2026-squad-26-man-squad-named-by-all-whites-squawka",
+      "title": "新西兰 2026 年世界杯阵容：全白队公布 26 人阵容 - Squawka",
+      "summary": "新西兰 2026 年世界杯阵容：由 All Whites Squawka 命名的 26 人阵容",
+      "originalTitle": "New Zealand World Cup 2026 squad: 26-man squad named by All Whites - Squawka",
+      "originalSummary": "New Zealand World Cup 2026 squad: 26-man squad named by All Whites  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOeDVfczZYQThoNUs0ektFbG1UNXJmd1lrLVkwNlh5d0JMOXJNT29Fb1hyTFR1eXlJa0tCc0tEbjVuaFF0X1h6VzA1cDVFNkI4Qmw5S0tFT3Q1U0NZbzRhSDViMFJpX1FsVEZ2VVZ2bDJkUVIwSDgzMVBMbTlraUVONVQ4bXZib0FpWFJraQ?oc=5",
+      "publishedAt": "2026-08-19T20:06:33+00:00",
       "heat": 52
     },
     {
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNTHRnbjI3QXZVVDc3LVpQVUdLREYtNFNoZG1TR05HZm9kRnlOS2g3bmNaU2hYazBHNXRWU2ZKblJDV01kUXVPTmtpZTQzeG9vVkw0Z2liY1p4UGpBcmxZdnNuSDNfMk5SREhPMFJlMVZUZndUZ1NvLVNDOThsaGVkTDdWNU9WRm5CT2VtSzV4c1RxUmtqcEY2RHl6RkxDcVNkdlhKbVlfTWJubGRCV0FsT044Z3h0TVoxZzYwSC1sLTlzZFlXQlAtWGx5RHBIWEdfb3FZX1JiLXVkZ1FTWTVGeklJckFrY2RaUlpPUEFXZk1HM1pyQm9OSllkak93Y1M3QktfS2pLMA?oc=5",
       "publishedAt": "2026-08-19T20:00:46+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-roger-bennett-is-a-man-of-the-people-men-in-blazers-secret-to-world-cup-success-nwitimes-com",
-      "title": "罗杰·贝内特是一个人民的人：开拓者队世界杯成功的秘诀 - nwitimes.com",
-      "summary": "罗杰·贝内特 (Roger Bennett) 是人民的一员：开拓者队在世界杯上取得成功的秘诀 nwitimes.com",
-      "originalTitle": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success - nwitimes.com",
-      "originalSummary": "Roger Bennett is a man of the people: Men in Blazers' secret to World Cup success  nwitimes.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOXNNVXRQNkM4dDFuYkpKS0ZZSDZJR2dKcm5jdVBkRUxVZkh0QnJ0UlVTODQ4aVR4cXJyOXIyb1lRblBIcDR0NlVscUtkVmpxVl9YTl9hM0ZBWHdTU1hYV25sZVNmenhsTml2MWtLRXRadlFkanhNUW1zNlNtd2o0TTVnbWVINzVDeU11bjhRazA5RE5EWTJvNTNhUQ?oc=5",
-      "publishedAt": "2026-08-19T19:30:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-big-west-men-s-soccer-notebook-2026-season-kicks-off-the-big-west",
-      "title": "大西部男子足球笔记本：2026 赛季拉开帷幕 - The Big West",
-      "summary": "大西部男子足球笔记本：2026 赛季拉开大西部的序幕",
-      "originalTitle": "The Big West Men's Soccer Notebook: 2026 Season Kicks Off - The Big West",
-      "originalSummary": "The Big West Men's Soccer Notebook: 2026 Season Kicks Off  The Big West",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOelZsbmhETFM3WFd6ODlGYk5hT3RuOEVHOFZ2elZhLXV2TUJGR0pTc084R2kxdGUxQ1RiMUc1emI5bFNzTHB2ZVlhaHN1cEJXRmlYOE4wV002WGxQZEtTdlpkaFl4dlFTbDVMTUgwZEZSa19wX1JWc19pT0xOWjJobkpyVE1ibGY4MzZOQ1pfcy1qMlZSckVxQ3BHaw?oc=5",
-      "publishedAt": "2026-08-19T19:06:56+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-u-s-u-20-wnt-head-coach-vicky-jepson-names-21-player-roster-for-2026-fifa-under-20-women-s-world-cup-in-pola",
-      "title": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单 - 美国足球",
-      "summary": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单",
-      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
-      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  US Soccer",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
-      "publishedAt": "2026-08-19T19:04:11+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-three-seattle-reign-fc-players-named-to-u-s-u-20-women-s-national-team-for-2026-fifa-u-20-women-s-world-cup-",
-      "title": "西雅图君临队三名球员入选美国 U-20 女子国家队参加 2026 年 FIFA U-20 女子世界杯 - 西雅图君临队",
-      "summary": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 国际足联 U-20 Women’s 世界杯  Seattle Reign FC",
-      "originalTitle": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 FIFA U-20 Women’s World Cup - Seattle Reign FC",
-      "originalSummary": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 FIFA U-20 Women’s World Cup  Seattle Reign FC",
-      "translation": "online/local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1lUZDZ1OG9SM19BYVRjTURHYk5GeS1rVGtQbU0wbVFXUWFmRElOR0NWUUJPTU96cVVOYUdiTDB4cVh1RURxUVlKNEJNd1Q1WGpIWWd5cmVKU0E3aGJzRExvcU11eWVzNk9TbHpJY2VBcy0zNmpVNzloX0tNMlk1eEVWSDJtMjhQVzc2S0Yyb0d1RDVXQUNBRWdBQi1UVGEtUEpjUFdON1lkZGxZbm5YeUQ3aEhJZHc2T0x4X0tMbmE1NzAxZnNsOTI2ZEdHZw?oc=5",
-      "publishedAt": "2026-08-19T19:01:53+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-defender-katie-scott-named-to-usa-s-2026-fifa-u-20-world-cup-roster-kansas-city-current",
-      "title": "后卫凯蒂·斯科特入选美国 2026 年 FIFA U-20 世界杯名单 - 堪萨斯城 Current",
-      "summary": "后卫凯蒂·斯科特入选美国 2026 年 FIFA U-20 世界杯堪萨斯城队名单",
-      "originalTitle": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
-      "originalSummary": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster  Kansas City Current",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
-      "publishedAt": "2026-08-19T19:00:46+00:00",
-      "heat": 60
     }
   ]
 }
