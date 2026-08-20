@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T18:47:42.276283+00:00",
+  "updatedAt": "2026-08-20T19:35:44.257567+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-mexican-loses-293k-air-passengers-in-june-2026-despite-world-cup-mexico-business-news",
+      "title": "尽管举办世界杯，墨西哥 2026 年 6 月仍损失 29.3 万名航空乘客 - 墨西哥商业新闻",
+      "summary": "尽管举办世界杯，墨西哥在 2026 年 6 月仍损失了 29.3 万名航空乘客 墨西哥商业新闻",
+      "originalTitle": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup - Mexico Business News",
+      "originalSummary": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup  Mexico Business News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajgzVmg5RnBKZHBlaTFNc0Zrd0sxUHZaZllVN1pkWld4MS1vOTNGOElsclhJakw2Ukd6OTBSSzctbDNUY1FSRFIyZ1hMc1JRYk15dFVwNTdCRWVtcnkxSG0waUdlRGhXWWhPZTd2TW45bWRDZ1BEeDdqVGVlakpkYnZOVVotR2tOUk1McGM5RFFuQURZWUVYTHFTb25zdHVLZTVxb3Nacw?oc=5",
+      "publishedAt": "2026-08-20T18:32:27+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-tens-of-thousands-flooded-into-canada-for-the-world-cup-travel-data-shows-yahoo-finance",
       "title": "旅游数据显示，数万人涌入加拿大观看世界杯 - 雅虎财经",
@@ -30,18 +42,6 @@
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
       "publishedAt": "2026-08-20T17:43:30+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-city-hires-firm-to-assess-economic-impact-of-philadelphia-s-2026-major-events-nbc10-philadelphia",
-      "title": "费城聘请公司评估 2026 年费城重大活动的经济影响 - NBC10 Philadelphia",
-      "summary": "费城聘请公司评估 2026 年费城重大活动的经济影响 NBC10 费城",
-      "originalTitle": "City hires firm to assess economic impact of Philadelphia's 2026 major events - NBC10 Philadelphia",
-      "originalSummary": "City hires firm to assess economic impact of Philadelphia's 2026 major events  NBC10 Philadelphia",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOLTJQN3JVSm45NHRmS3V5ck5ZUFY3amZjbWRMYU0ybDdwTGMwbGNRTmlDaXcwUjJQTHBYWFprbEthUzlEUjdzajZIZ2RlMnlNZ3R5amlnWE40SFZFaDFBeXdxY0lSVUxZUVFuNTc3Q0ZpR3ZKclRlSUZWNGxjWDBraXZwZzhBeVhUVXZmelpHbnJFR2p4UWhkRkFtbHdPd1BFYXBGbFB2VUVLbDFWb1FYa2Q3WmMzekZWa0lHYmNaWEJ3bk9RNklz0gHPAUFVX3lxTFBnQnR6dWZ2OUs0dEQ1d0dGRnVIUXFCQUhHZHhuakRBN29aVjgwc2tNLVpZTl9SWWt6UUVJZ3R0UGgyZ0tHbnJjRjVqSDg0d3Z3czFjTFNrX29wQlpiU0dSTjl6OWtjQWpVRHZyaU5HSkYyRWMxQW5IenVLTHczY1pDZndrLXhEOFF5cEFWS0QwWG1CaGZOTGdNcVpKU2U3bS0zRHJoT1p2VEZSTDVMX3RUSS14NU5JMDY4cHprOHhza1pwNlQ3QW5vakFTSDJCUQ?oc=5",
-      "publishedAt": "2026-08-20T17:16:44+00:00",
-      "heat": 44
     },
     {
       "id": "google-news-soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal-ap-news",
@@ -78,6 +78,18 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pLUVKUkh3ZEpFTWhTbVg2X2Q0MktjM25MV3RkZ1pTRFVzbXhWLXZPRGthT3BXWUdtVk9fa3htYUJITU5DNEZjcU5KZThvT1puSFdlaEY2V211N0NBS0VHd01PZG1Nd9IBZkFVX3lxTE9pLUVKUkh3ZEpFTWhTbVg2X2Q0MktjM25MV3RkZ1pTRFVzbXhWLXZPRGthT3BXWUdtVk9fa3htYUJITU5DNEZjcU5KZThvT1puSFdlaEY2V211N0NBS0VHd01PZG1Ndw?oc=5",
       "publishedAt": "2026-08-20T15:43:33+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-henderson-jude-gives-us-the-x-factor-england-v-croatia-2026-fifa-world-cup-dak-prescott-lxmarpsy0t-mshale",
+      "title": "亨德森：“JUDE 给了我们 X 因素！” ⭐ 英格兰 V 克罗地亚 🏆 2026 FIFA 世界杯 Dak Prescott (lxMARpsY0T) - Mshale",
+      "summary": "亨德森：“JUDE 给了我们 X 因素！” ⭐ 英格兰 V 克罗地亚 🏆 2026 年 FIFA 世界杯 Dak Prescott (lxMARpsY0T)  Mshale",
+      "originalTitle": "HENDERSON: “JUDE GIVES US THE X FACTOR!” ⭐ England V Croatia 🏆 2026 FIFA World Cup Dak Prescott (lxMARpsY0T) - Mshale",
+      "originalSummary": "HENDERSON: “JUDE GIVES US THE X FACTOR!” ⭐ England V Croatia 🏆 2026 FIFA World Cup Dak Prescott (lxMARpsY0T)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MFI4WlMtQUdXQllHOHFMdFpSQ1VEVjBzRFdyOVBpZ2pnWEludUdwclNXdTdncWFILVdFYmtKVHFESFByZFQyXzBsZWJGS29zdnN2YW12dE54a0U?oc=5",
+      "publishedAt": "2026-08-20T15:39:19+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-norway-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
@@ -140,6 +152,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-the-best-10-players-of-the-2026-27-premier-league-complex",
+      "title": "2026-27 年英超联赛最佳 10 名球员 - 复杂",
+      "summary": "2026-27 年英超联赛最佳 10 名球员",
+      "originalTitle": "The Best 10 Players of the 2026-27 Premier League - Complex",
+      "originalSummary": "The Best 10 Players of the 2026-27 Premier League  Complex",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOTdCcnQyd1lkbkJ5dU5ZelB6dXNHTDBfQkowQ0Y1dXBoMVNLWXZyUi0tTDNYY1ZqckZUM2ZoSU9YaEdEWks2YThWZ0JvWjlqZXVDUldBQ3h1S2c1Y2E4UzRiTkY2NGRtdlJWc1ZkdzhhR193VWNqV2FoRzhlSjFYVjVydF9YNS04?oc=5",
+      "publishedAt": "2026-08-20T14:12:49+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures-vanguard-news",
       "title": "超级鹰队、猎鹰队世界杯失利后，NFF面临FG制裁 - Vanguard News",
       "summary": "超级鹰队、猎鹰队世界杯失利后，NFF 面临 FG 制裁 Vanguard News",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTZNbUVPOXFtbmF1UWNHYWRJd3Z4QWRrYnBzWWhGaWxUYTRXNk5jVm9yeUZlRkhpdWNPZzIycmJEcGpFUUhVYk5ab3prdW8xeVhIUzhpQks4cy1EcUFCLWNfTGhIUjFIeDRHQXl5YTIzT0VhcExBMGpsLUxCTTlJZG02aldST3NsRmt5Smp3RWxFU1VLc2gzbE1mYlY5bGc?oc=5",
       "publishedAt": "2026-08-20T13:47:45+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-illegal-streams-drove-69-of-2026-world-cup-betting-handle-to-unlicensed-gambling-market-report-finds-igaming",
-      "title": "报告发现，2026 年世界杯投注手柄中有 69% 流入非法赌博市场 - iGamingToday.com",
-      "summary": "报告发现 iGamingToday.com 非法直播导致 2026 年世界杯投注手柄的 69% 流向无证赌博市场",
-      "originalTitle": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds - iGamingToday.com",
-      "originalSummary": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds  iGamingToday.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQNV9icGljUllDOTFrMjZaSllCSDM5RjJDOVJmWGJyLVVnTmhsUnB3aHp5U25TdTEzdlFyS1pIa1U4a0RGLUoxa05UaG5zLVhYWnR0SXRlb2l6cmxUclJOVmpEd0FCWGw2ci1TaGx3MHBqby1kTGFmTGZJNUhSLWQwZ1kyc1FLMm9NSXFULU9iSXVzMFdGdEU4VkEtekR2bFdBbHpLTkFQd01zODZDZFRKZXBuVUc2UFpDSXNDZ0tOSjhUek5HRFF5Rmxn?oc=5",
-      "publishedAt": "2026-08-20T13:43:59+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-nbc-looks-to-hook-world-cup-fans-with-premier-league-coverage-sports-business-journal",
-      "title": "NBC 希望通过英超联赛报道来“吸引”世界杯球迷 - 体育商业杂志",
-      "summary": "NBC 希望通过英超联赛报道来“吸引”世界杯球迷 《体育商业杂志》",
-      "originalTitle": "NBC looks to ‘hook’ World Cup fans with Premier League coverage - Sports Business Journal",
-      "originalSummary": "NBC looks to ‘hook’ World Cup fans with Premier League coverage  Sports Business Journal",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQUllGLVRDcUd3RjgzbFZIWFBQLW1lRk9DTl9IOUo3Vm5QVW51aDRpdDZOdDhEYzhKV29uWGx4T0JBM0lzZzdXd2Z0aFJKaDQ4MmstbEVpd2Fjc3pjNUV3Q2tCTlJ3MTI0eld4cmNPakhsbFRLTktaMGxHRGl4NFlFODNXN0Z2RHhITWZEX3RCTVNfbFRMeVp6RHZ2eDdWRzZkTE8zQ01lNllTWVF5UkRJN0xXdnB1bGJWeWY0UA?oc=5",
-      "publishedAt": "2026-08-20T13:05:18+00:00",
       "heat": 52
     }
   ]
