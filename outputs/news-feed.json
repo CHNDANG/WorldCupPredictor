@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T05:05:11.379586+00:00",
+  "updatedAt": "2026-08-20T05:57:50.478566+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,21 @@
   ],
   "articles": [
     {
+      "id": "google-news-fifa-world-cup-technology-in-cricket-india-s-upcoming-assignment-set-to-make-history-ndtv-sports",
+      "title": "国际足联世界杯板球技术？印度即将到来的任务将创造历史 - NDTV Sports",
+      "summary": "国际足联世界杯板球技术？印度即将到来的任务将创造历史 NDTV Sports",
+      "originalTitle": "FIFA World Cup Technology In Cricket? India's Upcoming Assignment Set To Make History - NDTV Sports",
+      "originalSummary": "FIFA World Cup Technology In Cricket? India's Upcoming Assignment Set To Make History  NDTV Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPbFR3eXZSYnVtMU9nOUoyd1RERjFKWGY5U1Z6SnNIU01HbU0zRk93dkt0dHN4UWRNTHI2MU9CZ1p5dG5STUFweC1zZEF0QjVQWHkxR2FUQkNEWURIUXpJODNnVmVSR205ZzJMREpGd0JJNXdlM3dkT0syREF5bkZfQVFvUmFWNTluclNLWWVQZV96Y1A0UUVhdV9pWnRMYmJhRUcwbjQ5eF9INzI5REhwZ0FJbndHajhEcjBrYkthbzRGZHhkRUJhUGlJTUJmdVVxMEE?oc=5",
+      "publishedAt": "2026-08-20T05:15:20+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-every-socceroo-on-the-move-as-100m-trio-smash-records-in-post-world-cup-transfer-boom-fox-sports",
       "title": "世界杯后转会热潮中，价值 1 亿美元的三人组每支球队都在打破纪录 - 福克斯体育",
-      "summary": "世界杯后转会热潮中，价值 1 亿美元的三人组每支球队都在打破纪录",
+      "summary": "世界杯后转会热潮中，价值 1 亿美元的三人组在转会中每支球队都打破了纪录",
       "originalTitle": "Every Socceroo on the move as $100m trio smash records in post-World Cup transfer boom - Fox Sports",
       "originalSummary": "Every Socceroo on the move as $100m trio smash records in post-World Cup transfer boom  Fox Sports",
       "translation": "online",
@@ -30,6 +42,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNS19MRlc3Sko5ZF9MX3FGeXhNTEJhemxFc1RLLTNWUU91RU1sZ0dGRnE5eTZSTWVzWVZKZzYtQ2pDNXJkX3hSa0lhanM2eXQtSjE2dEs1NXppQWJvaE9uQUpDRzZPUldQM0JSQ1AySlk1aE9pZHlBZlA2QWI3blJJeThlV0lndHd1TFE5b3pOOTV1VlliMDltbFZpUHpub0ZCeXc3TnZnZw?oc=5",
       "publishedAt": "2026-08-20T04:12:15+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-fifa-sound-official-fifa-world-cup-2026-album-trendyhiphop",
+      "title": "FIFA Sound – 2026 年 FIFA 世界杯官方专辑 - TrendyHipHop",
+      "summary": "FIFA Sound – 2026 年 FIFA 世界杯官方专辑 TrendyHipHop",
+      "originalTitle": "FIFA Sound – Official FIFA World Cup 2026 Album - TrendyHipHop",
+      "originalSummary": "FIFA Sound – Official FIFA World Cup 2026 Album  TrendyHipHop",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaHljLW5Pc2l0VWJSeVBlaElrRkF6anM0emZpTE5GZF9kdDhYRnFwLUd2dV9hQnVVR196cVlON2E0eUdROVc2Y2w2X1JZaTFkVEh0UTJzdlFwVFJjZFRLR09OdTVsS3NmcjNqZlZTYTlBMjhtTGVCdTFnREs5RklOblptNUw4aU9kV2c?oc=5",
+      "publishedAt": "2026-08-20T03:53:46+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-games-today-june-12-schedule-in-pacific-time-pt-latination-com",
@@ -68,11 +92,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-ind-vs-afg-fifa-world-cup-2026-broadcast-technology-to-be-used-for-india-afghanistan-series-sportscape-magaz",
-      "title": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛 - Sportscape 杂志",
-      "summary": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛《Sportscape》杂志",
-      "originalTitle": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series - Sportscape Magazine",
-      "originalSummary": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series  Sportscape Magazine",
+      "id": "google-news-ind-vs-afg-fifa-world-cup-2026-broadcast-technology-to-be-used-for-india-afghanistan-series-sportscapemagazi",
+      "title": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛 - sportscapemagazine.com",
+      "summary": "IND 与 AFG：2026 年 FIFA 世界杯转播技术将用于印度-阿富汗系列赛 sportscapemagazine.com",
+      "originalTitle": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series - sportscapemagazine.com",
+      "originalSummary": "IND Vs AFG: FIFA World Cup 2026 Broadcast Technology To Be Used For India-Afghanistan Series  sportscapemagazine.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOa0JCVHByb2pnNVhpQ25BZ2dYMTRIM1hUOEZtSmtpZDZkLVZlQUhtSG5qcEN4UVFHNlR4dGJIWXBHeVFaMUZfVjVSdzluOXY4NjdNXzUzdUF2RmhCUzVHa20waGd4MUk0Y3d5VGdvWUdxSy1pM1lNX0NIV2s0WE56ZWk1akNPOEZlVXB1UVRyeEg3SkYzQVZqSHZOZUFPRERWV2dvWGlYQmtnWWdlMFVkQ3gtWWlyaW81TGZxOQ?oc=5",
@@ -82,7 +106,7 @@
     {
       "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
       "title": "这是雨果·布罗斯和巴法纳球星将从国际足联2.18亿兰特世界杯奖金中获得的金额 - IOL",
-      "summary": "这是 Hugo Broos 和 Bafana 明星将从国际足联世界杯 2.18 亿兰特的奖金中获得的金额 IOL",
+      "summary": "这是 Hugo Broos 和 Bafana 球星将从国际足联世界杯 2.18 亿兰特的奖金中获得的金额 IOL",
       "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
       "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
       "translation": "online",
@@ -90,6 +114,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
       "publishedAt": "2026-08-20T03:11:02+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn-philippines",
+      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN 中国",
+      "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN 中国",
+      "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN Philippines",
+      "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN Philippines",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQSFdnWFNIdU9lODRqVXE4Qi1YaDFUTDU4aXQ1TGJZc3VUQTh5Wl9RWXRIc1ptQ2VtenZtMmw0eTJmckN0VmdyWExFNVZrUDZVZ3VsZVFNbVdMOV93YnRZVHRCUjNrcS1pRENfYS1iR1U4U2dkam9VT2J3TThGMXNSamFMRUx1LVZyb3JGNFphaFRvQmpGaG0zckcyYzNTRnZaN2FnYnBfR0JFd1gtX2lLNEZTcUI5TTh2ZktDRi1QdzdNUURHVFhGa29RMDlPX00xclZVTFM5aXp5Mk5uWkZrUmpPYW9XOHlMTm45ak4xWVZwdFk?oc=5",
+      "publishedAt": "2026-08-20T02:35:39+00:00",
+      "heat": 44
     },
     {
       "id": "google-新闻-中文-韦伯-fifa撤销巴洛贡红牌让我深感不安-这将助长阴谋论-zhibo8-cc",
@@ -114,6 +150,18 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-08-20T01:16:01+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-tech-to-be-used-for-afghanistan-india-t20i-series-cricbuzz",
+      "title": "FIFA 2026 世界杯技术将用于阿富汗-印度 T20I 系列赛 - Cricbuzz",
+      "summary": "FIFA 2026 世界杯技术将用于阿富汗-印度 T20I 系列赛 Cricbuzz",
+      "originalTitle": "FIFA World Cup 2026 tech to be used for Afghanistan-India T20I series - Cricbuzz",
+      "originalSummary": "FIFA World Cup 2026 tech to be used for Afghanistan-India T20I series  Cricbuzz",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbnlrU1k0WlJJVFRsUG10Zmc1YUdZdW5RR1p6aXlEaWtfc3M5N3BYcW95cDFURWJMa3FZTEpKRFVsRlM4eGQ4M0VYT1Z5TTJvZHBSM0VRUmpoOGllczdMc3lVOGNReWpZOXM2dXp4eEpldGFKMFFMQVJOU1dRM0txZEtsWTdZVld3UEJrMzNfYXZFekVUdk9TMTdDWVUxTzhfbFFsai1wNlNudG9PRVBsOGZkQl96c3c?oc=5",
+      "publishedAt": "2026-08-19T23:58:15+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-2026-masterful-japan-emerge-as-genuine-contenders-in-group-f-iol",
@@ -152,6 +200,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-england-vs-costa-rica-preparation-fifa-world-cup-2026-friendly-match-football-gameplay-dave-ryan-dbbowtdnpk-",
+      "title": "🔴英格兰对阵哥斯达黎加备战 2026 年 FIFA 世界杯友谊赛足球赛 Dave Ryan (DBBoWTDNPk) - Mshale",
+      "summary": "🔴英格兰对阵哥斯达黎加备战 2026 年 FIFA 世界杯友谊赛足球赛 Dave Ryan (DBBoWTDNPk)  Mshale",
+      "originalTitle": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk) - Mshale",
+      "originalSummary": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XRmMzVkFfd1RBdG54QXV0cEpQTVFvaEEyenJwdFdqT2tnSlN0S0hSUTlIbFIyYjRpM2pZNFNGdlFlV2pidFVwWnFKaExoY0xpNTAwd0dINFBlcTgzQkdJQg?oc=5",
+      "publishedAt": "2026-08-19T20:45:26+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-cape-verde-name-new-head-coach-after-historic-world-cup-as-bubista-departs-citi-sports-online",
       "title": "布比斯塔离职后佛得角历史性世界杯后任命新主教练 - 花旗体育在线",
       "summary": "布比斯塔离开佛得角历史性世界杯后任命新主教练 花旗体育在线",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSlFrMmpVam9QeTBkNXZDUTI2V0IyaUJpY2lTdUk3S2RxQ1dKdEsyMzJEcjVUTkRYdmVLRWdqU0pyRUloeVNVYlYyVElLaU1aLWppbVhYb1F4cklxWkRST0RNNnNObUF0U05zZjJuNTVJVzZlaTRrRVRGNTBoWWNkV3Q1Y1E3bUNNbm55S3hxemowOE1DN1pHTGVLQ1VFclQxZmdjU3dqNWloX09PTUZLTkFn?oc=5",
       "publishedAt": "2026-08-19T20:33:32+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-three-reign-players-to-represent-us-at-u20-women-s-world-cup-sounder-at-heart",
-      "title": "三名君临队球员将代表美国队参加U20女足世界杯 - Sounder at Heart",
-      "summary": "三名君临队球员将代表美国队参加 U20 女子世界杯",
-      "originalTitle": "Three Reign players to represent US at U20 Women’s World Cup - Sounder at Heart",
-      "originalSummary": "Three Reign players to represent US at U20 Women’s World Cup  Sounder at Heart",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaFZvMXh3QjgxN1E1WUF0SDJ1MVNfUWlZLTZCZlZJUEVJbFVxYXJ6b1I1OWRFcVFiZ21KVzdxR0lBRjFTazVJQnpVZFl2M1VfdllVMGU2eEdqNS1VZnVUY3M2aUJBXzBxZHk4cDdlamtoRllpX2JFZURRcV9WNHlqeGo1RUdoMTlmMldMVThWcTN1RTM4WXlZcC1Sbk1pZ1Z2?oc=5",
-      "publishedAt": "2026-08-19T20:30:17+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-three-heels-set-for-fifa-u-20-women-s-world-cup-bvm-sports",
-      "title": "FIFA U-20 女子世界杯三高跟鞋 - BVM Sports",
-      "summary": "FIFA U-20 女子世界杯三高跟鞋 BVM Sports",
-      "originalTitle": "Three Heels Set For FIFA U-20 Women’s World Cup - BVM Sports",
-      "originalSummary": "Three Heels Set For FIFA U-20 Women’s World Cup  BVM Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNTnNCdmRzTXhaU1NoV04yMnd5clZHeHNUS05oc2ZWbnpQRjdwVU8zelJ2dUxDdUJ3VjIyNzRiYWM3RGRXa3FjeVltYVBIOThWeGdxR2hkUGgwazJrMDg4YjgtZDlfeEl5SjgtczAxcm1YXy11NFhEV1lDVWNBNDRNRGp3WGlXazA?oc=5",
-      "publishedAt": "2026-08-19T20:10:06+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology",
-      "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - TVTechnology",
-      "summary": "研究：2026 年 FIFA 世界杯期间有 1,740 亿次非法直播",
-      "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - TVTechnology",
-      "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  TVTechnology",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjBsR0FSVnF3UFpQN040Q2duVTFobGZyV1RfTjB4Y1hCRndONnYxSnV6QlNscms5MV9SQ2kwRXNWTU02OElCOXh4VEYwaHlVelQwaV9zcWpLazR1TzltdGIyS0JRMUV3MEpoZFlHM1o2bzNoaWtXZ19NZnlSVVg0aGs4X2lOYTNsX2h1bldiNDNqaFB2cmt0VUlENzZPc1pkM25CeUtDQVdMMldH?oc=5",
-      "publishedAt": "2026-08-19T20:07:34+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-senegal-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Senegal World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Senegal World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHp4Sk5Iek1QcnE0M05BOXZaZXhoLWRoZW1JZlp6b0l6RUc3WmxTZU44RkdNQXFzVHloZ3Zoazl2cFlpRjJCdkw3VzBEMmhBLW1ZckE2MEJGU2Z0anFQMWRwcFNXREl3QzNKbGl4UC1hV0JraGpHRmZ0QUU3alJyTUs1TERBOGZuYVpQbg?oc=5",
-      "publishedAt": "2026-08-19T20:06:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-benfica-vs-aarhus-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnkyTGtUdDRRSHJqLVg2QTZ6eGRiLU83d2x1WkI4OHQwbmdMTzNSa2stSVNRUFdQN1R6WXF1aWUySzl3czZCYlJ5ZGdKU2QwcURBY3k1T2ZzN2RtdVZaVTRxZmpQZDV1eTZ2eS0wVzdIdnhPWVNjejFnaWtFOXRrNXY2QWR3d3NOemhKUTVleU5Gb2UwRXFFa0RGNA?oc=5",
-      "publishedAt": "2026-08-19T20:05:21+00:00",
-      "heat": 44
     }
   ]
 }
