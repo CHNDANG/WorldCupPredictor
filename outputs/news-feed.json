@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T13:52:53.120878+00:00",
+  "updatedAt": "2026-08-20T14:40:47.602769+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,56 @@
   ],
   "articles": [
     {
+      "id": "google-news-nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures-vanguard-news",
+      "title": "超级鹰队、猎鹰队世界杯失利后，NFF面临FG制裁 - Vanguard News",
+      "summary": "超级鹰队、猎鹰队世界杯失利后，NFF 面临 FG 制裁 Vanguard News",
+      "originalTitle": "NFF faces FG sanctions after Super Eagles, Falcons World Cup failures - Vanguard News",
+      "originalSummary": "NFF faces FG sanctions after Super Eagles, Falcons World Cup failures  Vanguard News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTjdHS21FZ19TTXZqMjMxWkNVLW4wUVk5U2pzejlDRzJNcFZoN3g3RHg1cG10LVdXRU0zZ0tBaHFLNzUwWGFzVEtVYnFwWVNpOThMT0hkMDNKMGhfLVpzdjJFRGtiNWNZUGNyODIzb1VqTmJ6bGhMaE9vb19hbTZqaXFZRTFiU1RDMEN2S0l3czAwY1VLQ1FhUFRCd1YzaW1tS1ByVUxFdmTSAa4BQVVfeXFMT253ekRNQzBjbzZSRTB2cVphMzd3dXhCTjdKODJ5ZzFUcDlaSzAtYUl3WGhaRlNhMHBwbTFfaS1IVXFKLU85dTJiYXBSMkJZR05BLS1VLWl5emc3dUZ4RFpTLXF0YnlGOTNSUVg4MXhIX3ZNUkFmUkRJdVhqVDk3V1dQN2dKOFktWWdwM3VJRDVLQkN6TEhLZEVUak9EN3J1T0xCdVpXdkxVbFR5TVpR?oc=5",
+      "publishedAt": "2026-08-20T14:05:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-not-helpful-english-referee-chief-weighs-in-on-donald-trump-intervening-in-world-cup-red-card-incident-yahoo",
+      "title": "“没有帮助”——英国裁判长对唐纳德·特朗普干预世界杯红牌事件发表评论 - 雅虎体育",
+      "summary": "“没有帮助”——英国裁判长对唐纳德·特朗普干预世界杯红牌事件发表评论 雅虎体育",
+      "originalTitle": "‘Not helpful’ – English Referee Chief weighs in on Donald Trump intervening in World Cup red card incident - Yahoo Sports",
+      "originalSummary": "‘Not helpful’ – English Referee Chief weighs in on Donald Trump intervening in World Cup red card incident  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdF9vWE53ZzZILUlTQW1uSDVhblJYZWpybGZkcUNlZ3dYc1FXZHdESEJxUDJVbFlYUXRzV3ZqYzN6cUF0Rm4tR28xMEhaUk5XSGlxNXhJV21jWm92LXY2V0hyR0Y0VFBTMzJyUEFfTWM3a3M1dmpIQko0WC0yb1V2bElSaDhyUnFSV0E?oc=5",
+      "publishedAt": "2026-08-20T14:00:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ghetto-kids-journey-from-katwe-to-world-cup-final-earns-parliament-s-praise-pulse-uganda",
+      "title": "贫民窟儿童从卡威到世界杯决赛的旅程赢得了议会的赞扬 - Pulse Uganda",
+      "summary": "贫民窟儿童从卡威到世界杯决赛的旅程赢得了议会的赞扬 Pulse Uganda",
+      "originalTitle": "Ghetto Kids’ journey from Katwe to World Cup final earns Parliament’s praise - Pulse Uganda",
+      "originalSummary": "Ghetto Kids’ journey from Katwe to World Cup final earns Parliament’s praise  Pulse Uganda",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZkZmMnJUTVFhdFV2dVRjVGE3YmJRbmtGUGl1NEpoZFpwN3BsMGdyRU9vYUFkT2NVNFFTS21oUUMxbUtJOUhWOTdzU25Ia3RnQ3pEdjFYQXl1V3p2NmVma1ZxVVJjQ21pNkg5RThvRWI5cjhxTmtiYlNYZmtLcEtaZEdRN1RsQndKeTdNLXEwUnM3M0RsRkFtczRSZzBrS0xHc3prVGdVTkFvU09FZGtLZnBjOXB5Sml3OFRCWFF3?oc=5",
+      "publishedAt": "2026-08-20T13:59:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-senate-sports-committee-summons-nff-nsc-over-nigeria-s-world-cup-failures-sports247-nigeria",
+      "title": "参议院体育委员会因尼日利亚世界杯失利而传唤NFF和NSC - Sports247尼日利亚",
+      "summary": "参议院体育委员会因尼日利亚世界杯失利而传唤 NFF 和 NSC Sports247",
+      "originalTitle": "Senate Sports Committee Summons NFF, NSC Over Nigeria’s World Cup Failures - Sports247 Nigeria",
+      "originalSummary": "Senate Sports Committee Summons NFF, NSC Over Nigeria’s World Cup Failures  Sports247 Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWTZNbUVPOXFtbmF1UWNHYWRJd3Z4QWRrYnBzWWhGaWxUYTRXNk5jVm9yeUZlRkhpdWNPZzIycmJEcGpFUUhVYk5ab3prdW8xeVhIUzhpQks4cy1EcUFCLWNfTGhIUjFIeDRHQXl5YTIzT0VhcExBMGpsLUxCTTlJZG02aldST3NsRmt5Smp3RWxFU1VLc2gzbE1mYlY5bGc?oc=5",
+      "publishedAt": "2026-08-20T13:47:45+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-illegal-streams-drove-69-of-2026-world-cup-betting-handle-to-unlicensed-gambling-market-report-finds-igaming",
-      "title": "报告发现，非法流媒体导致 2026 年世界杯投注手柄的 69% 流向无证赌博市场 - iGamingToday.com",
+      "title": "报告发现，2026 年世界杯投注手柄中有 69% 流入非法赌博市场 - iGamingToday.com",
       "summary": "报告发现 iGamingToday.com 非法直播导致 2026 年世界杯投注手柄的 69% 流向无证赌博市场",
       "originalTitle": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds - iGamingToday.com",
       "originalSummary": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds  iGamingToday.com",
@@ -44,18 +92,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-benjamin-asare-to-receive-us-38-000-jac-motors-vehicle-after-ghana-s-2026-world-cup-campaign-myjoyonline",
-      "title": "加纳参加 2026 年世界杯后，本杰明·阿萨雷将获得价值 38,000 美元的江淮汽车车辆 - MyJoyOnline",
-      "summary": "加纳参加 2026 年世界杯后，本杰明·阿萨雷将获得价值 38,000 美元的江淮汽车车辆 MyJoyOnline",
-      "originalTitle": "Benjamin Asare to receive US$38,000 JAC Motors vehicle after Ghana’s 2026 World Cup campaign - MyJoyOnline",
-      "originalSummary": "Benjamin Asare to receive US$38,000 JAC Motors vehicle after Ghana’s 2026 World Cup campaign  MyJoyOnline",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQUVhBLS1rSXdvLUF5OEE3RVh6eUlHd3NfVHUtdE9leDhCNDI3ZlVGMW02Z21odk5lT0ZQcXhVZDJuQzdYUHc5Y1k0NURhNG5fWmFReGxOeHRwempMQzZpOFlrVGxFTGZNLWJQekdpMzNHS3FQVWlzcWl2US1DRlZtd05CNHFNcGpQZWRBZWJjLTJtVmgtMGNJc3pLeEtvcmFLQXlub3NlQnJiZFJkNXlfZmtiR0s1b0RaQVE?oc=5",
-      "publishedAt": "2026-08-20T13:02:26+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-nielsen-fifa-world-cup-2026-local-fandom-insights-report-nielsen",
       "title": "尼尔森 FIFA 2026 世界杯™当地球迷洞察报告。 - 尼尔森",
       "summary": "尼尔森 FIFA 2026 世界杯™当地球迷洞察报告。  尼尔森",
@@ -68,9 +104,21 @@
       "heat": 60
     },
     {
+      "id": "google-news-shafaq-news-fifa-powerhouses-prepare-unprecedented-vote-to-oust-infantino-شفق-نيوز",
+      "title": "沙法克新闻..国际足联强国准备进行史无前例的投票罢免因凡蒂诺",
+      "summary": "沙法克新闻..国际足联强国准备史无前例的投票罢免因凡蒂诺",
+      "originalTitle": "Shafaq News..FIFA powerhouses prepare unprecedented vote to oust Infantino - شفق نيوز",
+      "originalSummary": "Shafaq News..FIFA powerhouses prepare unprecedented vote to oust Infantino  شفق نيوز",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOejB5SmxRbVg5Uy0zQXFBUFFvMVpQQmRJWnZSTjVBTHhmd25INkFVZmpibWtpVlE5ZDZibEdHLXVadXIyOE9OUmQ3V3RSNVFFbnM4MXdEME1falNXejlsSnptQ0NEczdpR0JUaDVVd2N4LXl5SVJFdlVhOHlsWU1WQTNuYUoxaEVzQ0JXRHhlUEdiSlJoSnVLcw?oc=5",
+      "publishedAt": "2026-08-20T12:59:03+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-soccer-how-would-a-vote-of-no-confidence-work-to-oust-fifa-president-infantino-the-straits-times",
-      "title": "足球——如何通过不信任投票推翻国际足联主席因凡蒂诺？ - 海峡时报",
-      "summary": "足球——如何通过不信任投票推翻国际足联主席因凡蒂诺？  海峡时报",
+      "title": "足球——不信任投票如何才能推翻国际足联主席因凡蒂诺？ - 海峡时报",
+      "summary": "足球——不信任投票如何才能推翻国际足联主席因凡蒂诺？  海峡时报",
       "originalTitle": "Soccer-How would a vote of no confidence work to oust FIFA president Infantino? - The Straits Times",
       "originalSummary": "Soccer-How would a vote of no confidence work to oust FIFA president Infantino?  The Straits Times",
       "translation": "online",
@@ -80,20 +128,8 @@
       "heat": 52
     },
     {
-      "id": "google-news-crvena-zvezda-vs-viktoria-plzen-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "Crvena Zvezda vs Viktoria Plzen 预测和投注技巧| Viktoria Plzen 2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "Crvena Zvezda vs Viktoria Plzen 预测和投注技巧| Viktoria Plzen 2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Crvena Zvezda vs Viktoria Plzen Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Crvena Zvezda vs Viktoria Plzen Prediction and Betting Tips | August 20th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcV9WOXB4eEc4bC1Ec2NuV0dHX1U3QUl1UTdZVkZjSk1qT1VyYTA4TjJFUC1TRFcwcko3dXFZWGpuT3JaSUwxZ3BZbENMdG9KdFV3TTg2RUUwZXVibmpCWm44dVFqb1pyc1BUY2dxbjdyUXV5YUE4aTBuYVpVZDZlTGxZNnBoaUo3eDZWNkJLbGdhZm5xSXN4OVViOUVPTnNTcE5hcTlNd2k5TkowNlE?oc=5",
-      "publishedAt": "2026-08-20T11:43:57+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-bafana-players-reaping-rewards-of-world-cup-appearance-as-new-era-beckons-daily-maverick",
-      "title": "随着新时代的到来，巴法纳球员收获了参加世界杯的回报 - Daily Maverick",
+      "title": "随着新时代的到来，巴法纳球员收获世界杯的回报 - Daily Maverick",
       "summary": "随着新时代的到来，Bafana 球员收获了参加世界杯的奖励 Daily Maverick",
       "originalTitle": "Bafana players reaping rewards of World Cup appearance as new era beckons - Daily Maverick",
       "originalSummary": "Bafana players reaping rewards of World Cup appearance as new era beckons  Daily Maverick",
@@ -101,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQcnJJaUV0V3Z2R1c2TndueFN3Zlc2T09DZEdEQjcwQXFJSEU4ZEVfcWpZUzZTbmZDNkZMbDdHN2NYdnM5amFPMWItdG1hSFdqMi16Nk5WaThiVE90V3Z6TXdLRXpPUmRLemhwUXdVZlFkYkN4R1RWWVF6NlhiZjhLVEFDYjc0bDMtd2pEdWFDTXRxb3VRdlN5TWRkb0hGQndkcTh6NFMybkJHOERqVHp2MjRUVTdGM2JfRTJlUDBXMzBXZjZMdEJvLXcwdEtEN243SkN3dzRzSDF4anU1TmF1LXhZWEdNTV9BMUM0eHcya080cEk0NElCRzNicURuaUJac3NiYzREWm5TNHBycXJMSTZ2UFJDLVRQMHN1Wg?oc=5",
       "publishedAt": "2026-08-20T11:27:53+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-tm-says-world-cup-boosts-unifi-tv-app-downloads-by-nearly-400-000-malay-mail",
+      "title": "TM称世界杯使Unifi TV应用程序下载量增加近40万 - 马来邮报",
+      "summary": "TM 表示世界杯使 Unifi TV 应用程序下载量增加了近 40 万次 – 马来邮报",
+      "originalTitle": "TM says World Cup boosts Unifi TV app downloads by nearly 400,000 - Malay Mail",
+      "originalSummary": "TM says World Cup boosts Unifi TV app downloads by nearly 400,000  Malay Mail",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNX0c1QzZDQ2xXSVREWWwwNVlfY3VlY05DTmM2aWpaWjZwZ1M2NnNpUnBiMUxhMlllR1RWWDQ0QU9HVzRCS19raHlfTTl2Q3oyaVdVd0JpQmJOcF94N1psRVB4dnR5N3pzZGRVYnNISHlqTTZwcVRMa3hRRGZ2R3EyTmdrWGdfdENjbnJNN3doakRxVW81NXJJSWhpaUVyYU9kZmpPN2lCd1d0aU9PaGdCUUNjYTJUR1RfTm9v0gHAAUFVX3lxTFB0SEo5U2pZTGthSTJkek84blhTZ2NLMDJ3MGpJRWY4ZzhlOTFNa2hob2JQLU1hVGZZMzVHMmVHLTNLdEFfRGc3bkZMMEhVSkt5Y091MnRsTjJZSGJoMmdfM1FwRnRlQWtqYVlqZ25tZ1BKekN2dkxwS2VqWGx1cWJzUWxEa3h1dURZVmpWZ1Bzb01MbmYtUGdkT3NLLVIyU0s3U3NhWGdGV3NxTnl4akwyaVpwcEd6a3dTLUhBZWY2eQ?oc=5",
+      "publishedAt": "2026-08-20T11:21:51+00:00",
       "heat": 52
     },
     {
@@ -113,6 +161,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBvLWQ5dzdEYUtrVWZmYWV2NlUxQUUzYmlUWDRWN25NOHNoTVJoY1NMZHprZ3AwNnhmLTJKZWVuMlhUOEpoZS1HSGFEYWl3T1htVzZWYWU3OEhGM2JJMy1mTVBrcFJ5T2Rvb1ZYWFptR0UtU0ZMRElucjcwZw?oc=5",
       "publishedAt": "2026-08-20T11:21:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-turkey-world-cup-2026-fixtures-results-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年土耳其世界杯：赛程、结果、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年土耳其世界杯：赛程、结果、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Turkey World Cup 2026: Fixtures, results, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Turkey World Cup 2026: Fixtures, results, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVlZaeGhpYkpjZTMyX0x5aUxocmZXemptY3RCVEFyMGhTMU5LbFUxdUNEMGR0bElqcXFDQjRxZmNhUmpRYlJ4ZmVFck5xaU51VGxXaGN2WkpxVENERGFJV2tMaVRmN3JyYlRTQm1mcUJlS1VhdnFNUzg2VExzNVRHNUpSemdxWTFTTzVJ?oc=5",
+      "publishedAt": "2026-08-20T11:18:14+00:00",
       "heat": 52
     },
     {
@@ -152,18 +212,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-benfica-vs-aarhus-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "本菲卡 vs 奥尔胡斯预测和投注技巧| Benfica vs Aarhus 预测和投注技巧| Benfica vs 奥尔胡斯2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Benfica vs Aarhus Prediction and Betting Tips | August 20th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMnkyTGtUdDRRSHJqLVg2QTZ6eGRiLU83d2x1WkI4OHQwbmdMTzNSa2stSVNRUFdQN1R6WXF1aWUySzl3czZCYlJ5ZGdKU2QwcURBY3k1T2ZzN2RtdVZaVTRxZmpQZDV1eTZ2eS0wVzdIdnhPWVNjejFnaWtFOXRrNXY2QWR3d3NOemhKUTVleU5Gb2UwRXFFa0RGNA?oc=5",
-      "publishedAt": "2026-08-20T11:07:07+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
       "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
       "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
       "publishedAt": "2026-08-20T10:56:27+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-premier-league-2026-27-kits-ranking-every-jersey-released-espn",
-      "title": "英超联赛 2026-27 球衣：每件发布的球衣排名 - ESPN",
-      "summary": "英超联赛 2026-27 球衣：对发布的每件球衣进行排名 ESPN",
-      "originalTitle": "Premier League 2026-27 kits: Ranking every jersey released - ESPN",
-      "originalSummary": "Premier League 2026-27 kits: Ranking every jersey released  ESPN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPTk1NQjJReU1admstZDZqS1d0dXRhaURsYW5WcjB5M0RrS0t3dGNZZmpKWG44TnJPMnY5Skx0TEItellteUZwMUdQNnpzaFhlVzU1U2N3ZFJkVHFtNWF5TEZ0OS1aYllOUmdFZDhPZzZCandvY0NiN1VnSWhmVTFoejRMQlRuYVU4eGJPb3p6LWhvUlZRUEw0MTR6TzctQjJCeHRkQVVTUXJXRjN3eEFUSU91ckN5b3Z5TlZPN3dVZUoyeWV4ZzNZbDMzWWQ4SXlTRnozRV8tLURRQWtEQVlqWTU1X256d0ZYZ192a3YwS3VrZw?oc=5",
-      "publishedAt": "2026-08-20T10:49:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-ta-fifa曾商谈私人资本投资u15-世界杯-计划涵盖211支队-因凡蒂诺-伯利-懂球帝",
-      "title": "TA：FIFA曾商谈私人资本投资U15“世界杯”，计划涵盖211支队|因凡蒂诺|伯利 - 懂球帝",
-      "summary": "TA：FIFA曾商谈私人资本投资U15“世界杯”，计划涵盖211支队|因凡蒂诺|伯利  懂球帝",
-      "originalTitle": "TA：FIFA曾商谈私人资本投资U15“世界杯”，计划涵盖211支队|因凡蒂诺|伯利 - 懂球帝",
-      "originalSummary": "TA：FIFA曾商谈私人资本投资U15“世界杯”，计划涵盖211支队|因凡蒂诺|伯利  懂球帝",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1nTU5wb2ZoWEZoTGhuRi1jN0RzUVNULVJkTVB5SmtDU3l3UGVLSk1wQlNlSDJwUGprQzBTUE5LN1FQNkJwQlVwenpXMnA0WmM5R3ZXOENtWQ?oc=5",
-      "publishedAt": "2026-08-20T10:09:46+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-us-soccer-plans-to-keep-fans-locked-in-through-the-women-s-world-cup-marketing-brew",
-      "title": "美国足球计划如何在女足世界杯期间锁定球迷 - Marketing Brew",
-      "summary": "美国足球计划如何通过女足世界杯营销酝酿锁定球迷",
-      "originalTitle": "How US Soccer plans to keep fans locked in through the Women’s World Cup - Marketing Brew",
-      "originalSummary": "How US Soccer plans to keep fans locked in through the Women’s World Cup  Marketing Brew",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5RallPbXpYRTBLWjl3ek1qOXExUlMtZ09LQkJ3UjEzejJHT2FXcXJuUVJySS1PeVAxdFZnRkJ0X3U5aWQxZUEzVWlGR0hzdklORUNabDZ5M3VZSzRpYVJnVF8tVGloOW5zY0QwRHZmd1BJdw?oc=5",
-      "publishedAt": "2026-08-20T10:07:51+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-humberto-bettencourt-chosen-to-lead-cape-verde-for-2027-afcon-qualifiers-tribalfootball",
-      "title": "温贝托·贝当古被选为佛得角队长参加 2027 年非洲杯预选赛 - TribalFootball",
-      "summary": "温贝托·贝当古被选为带领佛得角参加 2027 年非洲杯预选赛的部落足球",
-      "originalTitle": "Humberto Bettencourt chosen to lead Cape Verde for 2027 AFCON qualifiers - TribalFootball",
-      "originalSummary": "Humberto Bettencourt chosen to lead Cape Verde for 2027 AFCON qualifiers  TribalFootball",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNclF2R3BtS19NN1pRdDlxUzNuNnN1Q29fX3hYcm5ITWxscmpDdVB6aTZjdmNwUVBnMV9pNXJ6Y2c3N0lYT054Mm0zN0RsR09PZUFZLWNCYWhfSE9KemNhUmlCOVBlaUJPeWoyenBUU2xQWVBadVFCSHFkTWpFSDNlY1pxUGVucUl1bWxiazU4aThLUjhIMVlmTFpWTEI5cUJwTnowNGplNVc2SFgyM3FsOEdnY05EeEVFS0hnOHQ5WWd6Z1NWMFRzcDdYNkFxUi1hU2tydXhKMnhMYmJTY29UMEttRGd3V1ZMRzdpbHFMOGQ0ME1NSFFwSHZnOXFKbUZWd2p2SXI5MHc?oc=5",
-      "publishedAt": "2026-08-20T10:06:40+00:00",
-      "heat": 44
     }
   ]
 }
