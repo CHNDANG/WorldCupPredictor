@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T15:38:03.516134+00:00",
+  "updatedAt": "2026-08-20T16:40:26.942242+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-begins-disciplinary-proceedings-against-hossam-hassan-and-zico-egypt-responds-goal-com",
+      "title": "国际足联开始对霍萨姆·哈桑和济科进行纪律处分：埃及回应 Goal.com",
+      "summary": "国际足联开始对霍萨姆·哈桑和济科进行纪律处分：埃及回应 Goal.com",
+      "originalTitle": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds - Goal.com",
+      "originalSummary": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUFhKZHBEZDNnQ2E4dnNqOVNEcTY1OEV2RzRPc1Z0RWNiLWNOenhQQXp6X3BaY1FDTE1Ra2prYmRGVXlmdktzeXJTckZGNUFHYU1FVndDcG5xc2U5RWM5R01OQWl6MXhLa3ZYNlBLWnRoWDN4ZGR1Q3J1ZDBXTmNUQXVsYWN3WTZ1T1otajBsT05jZGdNUHQzSnIwOXRnRHB6OFNHS2pEMFBxc3V0bnZhc1VrNHNVY0Zjb2dqZHZyRU9nclBlalR0SHZJbzVYZW8?oc=5",
+      "publishedAt": "2026-08-20T15:43:12+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-when-is-the-women-s-world-cup-fifa-releases-2027-schedule-details-usa-today",
       "title": "女足世界杯什么时候举行？国际足联公布 2027 年赛程详情 - 今日美国",
@@ -18,6 +30,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYkVJMXYxSkJNelYxMGFIY2JIRGRESnQ5aXIwZ2N4MGtUd2I2Ri10Y2I4eU4xQ3FQUlo4VzBpRnZJQ3RXUXp0NnQzVU5rdjlsTnhoZ0pqcXladkZBTUNNZXd4eFA0X1RvM2MtdDliZnpKRW1Sd2lVeWZRVkQ0RkFNMFlBTmphcnNzNmtzX2lxdE10OENCMHNrUldVWmd1RXFKZ3pRZDJlejFBQ2VT?oc=5",
       "publishedAt": "2026-08-20T14:56:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-south-korea-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年韩国世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年韩国世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "South Korea World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "South Korea World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNN1VKazdUQkIxX1hJZ1R3TGtfbmI1RnlESzBXcWZvSHZ4dGtmN01IMGpnLXhNVDJmX3FwbVVFZDVzOURKYzJvNnR5b3hiUVlOakU5N18yTkcwQTYtMUE2aXpSUW80RXZGNUZ1N0NSaUxhX19pdHJYYTJDanZEOFFxV1IzTUU2NUQwWGpNYg?oc=5",
+      "publishedAt": "2026-08-20T14:33:09+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-nff-faces-fg-sanctions-after-super-eagles-falcons-world-cup-failures-vanguard-news",
@@ -69,7 +93,7 @@
     },
     {
       "id": "google-news-illegal-streams-drove-69-of-2026-world-cup-betting-handle-to-unlicensed-gambling-market-report-finds-igaming",
-      "title": "报告发现，2026 年世界杯投注手柄中有 69% 流入非法赌博市场 - iGamingToday.com",
+      "title": "报告发现，非法流媒体导致 2026 年世界杯投注手柄的 69% 流向无证赌博市场 - iGamingToday.com",
       "summary": "报告发现 iGamingToday.com 非法直播导致 2026 年世界杯投注手柄的 69% 流向无证赌博市场",
       "originalTitle": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds - iGamingToday.com",
       "originalSummary": "Illegal Streams Drove 69% of 2026 World Cup Betting Handle to Unlicensed Gambling Market, Report Finds  iGamingToday.com",
@@ -117,7 +141,7 @@
     },
     {
       "id": "google-news-shafaq-news-fifa-powerhouses-prepare-unprecedented-vote-to-oust-infantino-شفق-نيوز",
-      "title": "沙法克新闻..国际足联强国准备进行史无前例的投票罢免因凡蒂诺",
+      "title": "沙法克新闻..国际足联强国准备史无前例的投票罢免因凡蒂诺",
       "summary": "沙法克新闻..国际足联强国准备史无前例的投票罢免因凡蒂诺",
       "originalTitle": "Shafaq News..FIFA powerhouses prepare unprecedented vote to oust Infantino - شفق نيوز",
       "originalSummary": "Shafaq News..FIFA powerhouses prepare unprecedented vote to oust Infantino  شفق نيوز",
@@ -141,7 +165,7 @@
     },
     {
       "id": "google-news-bafana-players-reaping-rewards-of-world-cup-appearance-as-new-era-beckons-daily-maverick",
-      "title": "随着新时代的到来，巴法纳球员收获世界杯的回报 - Daily Maverick",
+      "title": "随着新时代的到来，巴法纳球员收获了参加世界杯的回报 - Daily Maverick",
       "summary": "随着新时代的到来，Bafana 球员收获了参加世界杯的奖励 Daily Maverick",
       "originalTitle": "Bafana players reaping rewards of World Cup appearance as new era beckons - Daily Maverick",
       "originalSummary": "Bafana players reaping rewards of World Cup appearance as new era beckons  Daily Maverick",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOMm9hRjZYSmpWQmFrQ01JRmxDT1hvRlo1UFNCdXFGd1NlWXNFU3NaaWhDZWxCYWRscDBINVV2ZjFpbUM2dlNtZERDQnpYdmh3ZDhqaXY1dGFiR1dqMW9SSmc0Sk9YWThMR3RWRlpOWEI2OUNIZDdmd1NCbzJidzk3aktkN3dlTWJkRS1yUTQ2MnNtVlM3SkU1ajI4UFdQdGs3TnfSAacBQVVfeXFMT1Y2LUdhUVlqTXpWWUhWejJrandQOGtOVmhoQ21uOEFHaGpYejN2dEQxVkJydTM4VDdsMkx0WlZBMzJWSFU3RnJpcFBSS3NUaE4tZTQwaHlCVU1mTG1hR0dMM3l1RUY4cV91a01ZdVVpYVhrMzJrUUoxdmJrd3dfSUtsV1JNamdvc1hnbXoxTi1nVU1uRVkyLTZCXzN6YS1WbjhIV3VhRjQ?oc=5",
       "publishedAt": "2026-08-20T11:18:03+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-fan-groups-back-online-petition-calling-for-infantino-s-resignation-fifa-reforms-reuters",
-      "title": "球迷团体支持网上请愿书，呼吁因凡蒂诺辞职、国际足联改革 - 路透中文网",
-      "summary": "球迷团体支持在线请愿，要求因凡蒂诺辞职、国际足联改革 路透",
-      "originalTitle": "Fan groups back online petition calling for Infantino's resignation, FIFA reforms - Reuters",
-      "originalSummary": "Fan groups back online petition calling for Infantino's resignation, FIFA reforms  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaDA5aUxCYlhqYXRVaGdTOUhLaUJHR0Q1cS1fU1Q5RGUzX3pkVmlHQ0RiOU0tYUppQXVBYjhYSVBNOVhadXZqRUN1TDNGOVRYc2FOTnJpRl9vVHh3MmhFOGtaX2RXZ25KN0c1emNxcFl0ZlVxN3FZOEkySnA1RF9DMmhEWUZMQVdoY3V3eWs5OW54dEJ5Q1RKQWFLclU1akMzVVN5eTBxUlVTMFpmX3VXcUVsT1BTWFlhY1BzbHpRaUVsNEU?oc=5",
-      "publishedAt": "2026-08-20T11:11:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal-dt-next",
-      "title": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职 - DT Next",
-      "summary": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职 DT Next",
-      "originalTitle": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ''betrayal'' - DT Next",
-      "originalSummary": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ''betrayal''  DT Next",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOUlp6bFBBVEY1NTNjaG9nUjVjZmdSTGV3UFFQbUpneXZvVFVUc1MzSno2dUZsa2VZVWpnaW9pX2ZpQXYxbFJuX21fLW1KR18xeVlPRTB5SVlrUUVyeG1XSHJ6eUpzT2lmY2ZMSjdzWm5rUjMwT0daRVB5WlNMVTgtLTRGMGpyNUhTTHJPX0E2bGNxUHhLbE1pU2xVMW1zejRUU1BCa0JXX3Z3WUR5SG1ObGFleWkxc09hZ24wTS13RHAzQmpMN01wVdIB1gFBVV95cUxNbkpZU25ISnRBU1Z2VEhzWFNGdWtjeE1JNEhsQWZLR0pJSU1Cd1VKaVNwUXV6enZoV0VNNDA0YXZwQ1ZUSUtQNFJHNVVXSDR0ZndDcDNvRWdrOW5kYktkR3VXN1VKMlZZTUFyY3BQcTF5djZCbHVDVWNndUYzaFphQUtIVzllZ1N5V3VSLTFzWWNiVFhrXzhkTnFSUG1ZRkh2RzNLT3hORWtrSXJSczBlYlBkSEhVVk4wckprSEZXOS1fNDMxbHp6VFFsVVU1dm9sSFdqN3dn?oc=5",
-      "publishedAt": "2026-08-20T11:08:15+00:00",
-      "heat": 60
     }
   ]
 }
