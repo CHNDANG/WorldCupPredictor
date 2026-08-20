@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T01:35:12.509179+00:00",
+  "updatedAt": "2026-08-20T03:01:35.277653+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -20,6 +20,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
+      "title": "This is how much Hugo Broos, Bafana 球星s will earn from R218 million Fifa 世界杯 bounty - IOL",
+      "summary": "This is how much Hugo Broos, Bafana 球星s will earn from R218 million Fifa 世界杯 bounty  IOL",
+      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
+      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
+      "publishedAt": "2026-08-20T00:16:05+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-world-cup-2026-masterful-japan-emerge-as-genuine-contenders-in-group-f-iol",
       "title": "2026 年世界杯：强大的日本队成为 F 组真正的竞争者 - IOL",
       "summary": "2026 年世界杯：强大的日本队成为 F 组真正的竞争者 IOL",
@@ -34,10 +46,10 @@
     {
       "id": "google-news-u-s-names-u20-women-s-world-cup-roster-with-upsetting-absences-espn",
       "title": "美国U20女足世界杯名单公布，缺席情况“令人不安” - ESPN",
-      "summary": "美国U20女足世界杯名单公布，缺席情况“令人不安” ESPN",
+      "summary": "U.S. names U20 Women's 世界杯 roster with 'upsetting' absences  ESPN",
       "originalTitle": "U.S. names U20 Women's World Cup roster with 'upsetting' absences - ESPN",
       "originalSummary": "U.S. names U20 Women's World Cup roster with 'upsetting' absences  ESPN",
-      "translation": "online",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGxGUU5yMGJLZFlrR1pUZlJCSDlhWEJrbjY4amU4enhOZlllZHp1eTJDblhWUWVnU1Uxam9Pd0xqaGg2Z3lob0NoNjBldnpmUldOVkd3MGMxMm4yY2k1R2dISk1BZ25ZU0otQVNqcEJ1WkFzZW1fZVJqNkZCUlQwblBpd2lXdw?oc=5",
       "publishedAt": "2026-08-19T21:16:00+00:00",
@@ -58,10 +70,10 @@
     {
       "id": "google-news-england-vs-costa-rica-preparation-fifa-world-cup-2026-friendly-match-football-gameplay-dave-ryan-dbbowtdnpk-",
       "title": "🔴英格兰对阵哥斯达黎加备战 2026 年 FIFA 世界杯友谊赛足球赛 Dave Ryan (DBBoWTDNPk) - Mshale",
-      "summary": "🔴英格兰对阵哥斯达黎加备战 2026 年 FIFA 世界杯友谊赛足球赛 Dave Ryan (DBBoWTDNPk)  Mshale",
+      "summary": "ENGLAND Vs COSTA RICA PREPARATION 国际足联 WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk)  Mshale",
       "originalTitle": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk) - Mshale",
       "originalSummary": "🔴ENGLAND Vs COSTA RICA PREPARATION FIFA WORLD CUP 2026 FRIENDLY MATCH FOOTBALL GAMEPLAY Dave Ryan (DBBoWTDNPk)  Mshale",
-      "translation": "online",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5XRmMzVkFfd1RBdG54QXV0cEpQTVFvaEEyenJwdFdqT2tnSlN0S0hSUTlIbFIyYjRpM2pZNFNGdlFlV2pidFVwWnFKaExoY0xpNTAwd0dINFBlcTgzQkdJQg?oc=5",
       "publishedAt": "2026-08-19T20:45:26+00:00",
@@ -94,7 +106,7 @@
     {
       "id": "google-news-the-economic-engine-of-a-world-cup-spain-outpaces-european-rivals-with-23-titles-driven-by-youth-development",
       "title": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 次夺冠超越欧洲对手 - Foot-Africa.com",
-      "summary": "世界杯的经济引擎：在青年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
+      "summary": "世界杯的经济引擎：在青少年发展的推动下，西班牙以 23 个冠军头衔超越欧洲对手 Foot-Africa.com",
       "originalTitle": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development - Foot-Africa.com",
       "originalSummary": "The economic engine of a World Cup: Spain outpaces European rivals with 23 titles driven by Youth Development  Foot-Africa.com",
       "translation": "online",
@@ -104,12 +116,12 @@
       "heat": 52
     },
     {
-      "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology-com",
-      "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - tvtechnology.com",
-      "summary": "研究：2026 年 FIFA 世界杯期间有 1,740 亿次非法直播 tvtechnology.com",
-      "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - tvtechnology.com",
-      "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  tvtechnology.com",
-      "translation": "online",
+      "id": "google-news-study-174-billion-illegal-streams-during-fifa-world-cup-2026-tvtechnology",
+      "title": "研究：2026 年 FIFA 世界杯期间有 1740 亿次非法直播 - TVTechnology",
+      "summary": "Study: 174 Billion Illegal Streams During 国际足联 世界杯 2026  TVTechnology",
+      "originalTitle": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026 - TVTechnology",
+      "originalSummary": "Study: 174 Billion Illegal Streams During FIFA World Cup 2026  TVTechnology",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPUjBsR0FSVnF3UFpQN040Q2duVTFobGZyV1RfTjB4Y1hCRndONnYxSnV6QlNscms5MV9SQ2kwRXNWTU02OElCOXh4VEYwaHlVelQwaV9zcWpLazR1TzltdGIyS0JRMUV3MEpoZFlHM1o2bzNoaWtXZ19NZnlSVVg0aGs4X2lOYTNsX2h1bldiNDNqaFB2cmt0VUlENzZPc1pkM25CeUtDQVdMMldH?oc=5",
       "publishedAt": "2026-08-19T20:07:34+00:00",
@@ -164,30 +176,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-tromso-vs-brighton-prediction-and-betting-tips-august-20th-2026-sportskeeda",
-      "title": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日 - Sportskeeda",
-      "summary": "特罗姆瑟 vs 布莱顿预测和投注技巧| 特罗姆瑟 vs 布莱顿2026 年 8 月 20 日  Sportskeeda",
-      "originalTitle": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026 - Sportskeeda",
-      "originalSummary": "Tromso vs Brighton Prediction and Betting Tips | August 20th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZE9mWkpuUmdFZG4zNjhaVHN1cGxWS1FNODE3M0pVQjJRUGR5OE9GSTdzaXZiM2wyem5aeFduR3REV2hjVktPY1N1cmpZU1BRbWVCWkgtcjlybm12SWVkUEEyMnlNdXV0c0ZkUHNEX1gtRjloMXdIVlFYLXlLYUlLdWJjRmxTYjg0amk3bk1IaTB4Z2hHOERmR2RXNXY?oc=5",
-      "publishedAt": "2026-08-19T19:20:25+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-india-vs-afghanistan-t20i-series-fifa-world-cup-2026-technology-to-transform-cricket-coverage-the-sunday-gua",
-      "title": "印度 vs 阿富汗 T20I 系列赛：2026 年 FIFA 世界杯技术将改变板球报道 - 《星期日卫报》",
-      "summary": "印度 vs 阿富汗 T20I 系列赛：2026 年 FIFA 世界杯技术将改变板球报道 《星期日卫报》",
-      "originalTitle": "India vs Afghanistan T20I Series: FIFA World Cup 2026 Technology To Transform Cricket Coverage - The Sunday Guardian",
-      "originalSummary": "India vs Afghanistan T20I Series: FIFA World Cup 2026 Technology To Transform Cricket Coverage  The Sunday Guardian",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcUJMbzcyNkRpQ0V1SERfQXlDRW8zWGRIdV9sTXhrbHhjYVQ1N2JNUzU0R08wV1RFTXdydEZqOUgzcTlrQ09obWRpaFlfV0gweWJtN3FVMUdxNTZMS0s3cHpRVXhhbVJpSFhHcXNKZTItXy1JVlFTY25XMVhqM1BGT2Z1Nk83NWhqYUo1UHd6X2dIdmVuaXhxQlFDbjdrYzZvMGs3WWVjaThMUkYxaG5pV0RtUloyZGktQzUxaVpaRzNjTG10aVNEXzVKLWVCY0MwbVYwdTVn0gHbAUFVX3lxTE9Tc3VYUTR5NndGUWpCQkNGVzl4WWV6amdGMjJDMlM1SVJuLUlXR2RRUkpRTDdzbm55THlnRENGZjAyQWI3WTFKSFhHQ3cyUkk0QlhjZ0M2YUdYMWZJZkFVLW1pa1hidHl0cFFnazlpQk1HS3RoZ2I0OUpkdnlzMjR3REJ5aVFtTTU0cjRPcFMyLXNDTVVHMm1femFZWG1rZlhvQUxOazRxZmpONDV4dG5PSTREYmltS29VbGZRZjcyNjh2ODFuMXlscFlUMkhwLVBySjBjTS1xbHk2NA?oc=5",
-      "publishedAt": "2026-08-19T19:07:09+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-the-big-west-men-s-soccer-notebook-2026-season-kicks-off-the-big-west",
       "title": "大西部男子足球笔记本：2026 赛季拉开帷幕 - The Big West",
       "summary": "大西部男子足球笔记本：2026 赛季拉开大西部的序幕",
@@ -203,8 +191,8 @@
       "id": "google-news-u-s-u-20-wnt-head-coach-vicky-jepson-names-21-player-roster-for-2026-fifa-under-20-women-s-world-cup-in-pola",
       "title": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单 - 美国足球",
       "summary": "美国 U-20 WNT 主教练维琪·杰普森 (Vicky Jepson) 公布了 2026 年波兰 FIFA 20 岁以下女子世界杯的 21 名球员名单",
-      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - U.S. Soccer",
-      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  U.S. Soccer",
+      "originalTitle": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland - US Soccer",
+      "originalSummary": "U.S. U-20 WNT Head Coach Vicky Jepson Names 21-Player Roster for 2026 FIFA Under-20 Women's World Cup in Poland  US Soccer",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOODh5SkZ0T3ZWNFBsNmZNWFlnNFhVanl5eXdVMmxpa0J6VS1IQmdKYkloWnFGSE9LNnpMQUVNRGQ1V2JCQWt4aW5pVlkwWDJTa281X3ZDb3Z2UWpjbmJ2Q01hUWVvZHFuQ2RLczU0eXJKdm5tRFJmc3V3UUVwRWxseW5BUDlTZDNMd0h3cVZ4VUw0REI3b0hFSmwteVo4VHQwYk9xUkhoZThYQzJQdXhxOENqUTE?oc=5",
@@ -214,13 +202,25 @@
     {
       "id": "google-news-three-seattle-reign-fc-players-named-to-u-s-u-20-women-s-national-team-for-2026-fifa-u-20-women-s-world-cup-",
       "title": "西雅图君临队三名球员入选美国 U-20 女子国家队参加 2026 年 FIFA U-20 女子世界杯 - 西雅图君临队",
-      "summary": "三名西雅图君临队球员入选美国 U-20 女子国家队，参加 2026 年 FIFA U-20 女子世界杯 西雅图君临队",
+      "summary": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 国际足联 U-20 Women’s 世界杯  Seattle Reign FC",
       "originalTitle": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 FIFA U-20 Women’s World Cup - Seattle Reign FC",
       "originalSummary": "Three Seattle Reign FC Players Named to U.S. U-20 Women’s National Team for 2026 FIFA U-20 Women’s World Cup  Seattle Reign FC",
-      "translation": "online",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPV1lUZDZ1OG9SM19BYVRjTURHYk5GeS1rVGtQbU0wbVFXUWFmRElOR0NWUUJPTU96cVVOYUdiTDB4cVh1RURxUVlKNEJNd1Q1WGpIWWd5cmVKU0E3aGJzRExvcU11eWVzNk9TbHpJY2VBcy0zNmpVNzloX0tNMlk1eEVWSDJtMjhQVzc2S0Yyb0d1RDVXQUNBRWdBQi1UVGEtUEpjUFdON1lkZGxZbm5YeUQ3aEhJZHc2T0x4X0tMbmE1NzAxZnNsOTI2ZEdHZw?oc=5",
       "publishedAt": "2026-08-19T19:01:53+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-defender-katie-scott-named-to-usa-s-2026-fifa-u-20-world-cup-roster-kansas-city-current",
+      "title": "后卫凯蒂·斯科特入选美国 2026 年 FIFA U-20 世界杯名单 - 堪萨斯城 Current",
+      "summary": "后卫凯蒂·斯科特入选美国 2026 年 FIFA U-20 世界杯堪萨斯城队名单",
+      "originalTitle": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster - Kansas City Current",
+      "originalSummary": "Defender Katie Scott Named to USA’s 2026 FIFA U-20 World Cup Roster  Kansas City Current",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOVzFjUlhBNS11bm1GQ21qOURtQjF6TDF1VkhOb3FSZjRsMWlxcXlZOHJ5U3cwRmdIWXdyWGRyNldpRmVkaUs3V3pnM2hpNTdFUXZ0VUh0RGhSQ0ZxeHNBaU9HRnlIZ2kxUUdEUW9rWnZEczljZ3hPN0ZiUjdfQUR4RktFNERfVTNLS1BwLVRhNHZwQUdTbGwwd18zMkRjVHJMQ1J1MU1RUHA?oc=5",
+      "publishedAt": "2026-08-19T19:00:46+00:00",
       "heat": 60
     }
   ]
