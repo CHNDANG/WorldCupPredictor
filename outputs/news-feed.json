@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T07:02:08.143232+00:00",
+  "updatedAt": "2026-08-21T08:06:47.518049+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-luis-de-la-fuente-set-for-bumper-new-spain-contract-after-world-cup-glory-as-rfef-eye-2030-extension-goal-co",
+      "title": "世界杯荣耀后，路易斯·德拉富恩特将与西班牙签订丰厚的新合同，RFEF着眼于2030年续约 - Goal.com",
+      "summary": "西班牙世界杯夺冠后，路易斯·德拉富恩特将获得一份丰厚的新合同，RFEF 着眼于 2030 年续约 Goal.com",
+      "originalTitle": "Luis de la Fuente set for bumper new Spain contract after World Cup glory as RFEF eye 2030 extension - Goal.com",
+      "originalSummary": "Luis de la Fuente set for bumper new Spain contract after World Cup glory as RFEF eye 2030 extension  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVU9ZNG0wUGVZY0ozQktNT0NEM1o2Sy11UnR2M08xTEpMSE9yYnNocHFacmpUU0FiaGtPcnlSZGxnSTNIZmY4TlNwU0J2U050Z0hsWGUyOF9VOHVYUkpxZzdBUnplTWx0NFRoSXZqZDczT3N2Q2FDbDM5cEZHNlJFQ0ZGNk5DaDZJajN5WklqUTd5UDlTTUtoS3ZhREplRDZWUVQ2UnNBUjU4YjZvSURwMDliSFdSQQ?oc=5",
+      "publishedAt": "2026-08-21T07:30:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-unveils-2027-women-s-world-cup-schedule-blueprint-newspapers",
+      "title": "国际足联公布2027年女足世界杯赛程 - Blueprint Newspapers",
+      "summary": "国际足联公布 2027 年女足世界杯赛程蓝图报纸",
+      "originalTitle": "FIFA unveils 2027 Women’s World Cup schedule - Blueprint Newspapers",
+      "originalSummary": "FIFA unveils 2027 Women’s World Cup schedule  Blueprint Newspapers",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xWlJDRG5HYlhyRnRDb0xtSEp2aVZraFR1cDNLZktIQy12U1BwVHROcF9yOXh2N25KdkhNdmFQOEw5aGdadXlrMkExaDMxTUZjU1o3c0xwQWgtS3BaX3liLTJrQnRkUVBiS2VoaGxCRUVUMkE?oc=5",
+      "publishedAt": "2026-08-21T07:29:19+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-why-the-world-cup-winners-extend-far-beyond-the-champions-carleton-university",
       "title": "为什么世界杯优胜者远远超过冠军 - 卡尔顿大学",
@@ -34,7 +58,7 @@
     {
       "id": "google-news-thousands-pack-granville-street-pedestrian-zone-for-dj-party-in-biggest-crowd-since-fifa-world-cup-daily-hiv",
       "title": "数千人聚集在固兰湖街步行区参加 DJ 派对，这是自 FIFA 世界杯以来最大规模的人群 - Daily Hive",
-      "summary": "数千人聚集在固兰湖街步行区参加 DJ 派对，这是自 FIFA 世界杯以来最大规模的人群 Daily Hive",
+      "summary": "数千人挤满固兰湖街步行区参加 DJ 派对，这是自 FIFA 世界杯以来最大规模的人群 Daily Hive",
       "originalTitle": "Thousands pack Granville Street Pedestrian Zone for DJ party in biggest crowd since FIFA World Cup - Daily Hive",
       "originalSummary": "Thousands pack Granville Street Pedestrian Zone for DJ party in biggest crowd since FIFA World Cup  Daily Hive",
       "translation": "online",
@@ -56,6 +80,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-21T03:08:38+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-新闻-中文-2026贵阳-城超-购票通道开启-超多福利即将上线-finance-sina-com-cn",
       "title": "2026贵阳“城超”购票通道开启！超多福利即将上线→ - finance.sina.com.cn",
       "summary": "2026贵阳“城超”购票通道开启！超多福利即将上线→  finance.sina.com.cn",
@@ -69,7 +105,7 @@
     },
     {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
+      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
       "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
       "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
@@ -92,6 +128,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-尼尔森-2026年国际足联世界杯-当地球迷洞察报告-nielsen",
+      "title": "尼尔森《2026年国际足联世界杯™ 当地球迷洞察报告》。 - Nielsen",
+      "summary": "尼尔森《2026年国际足联世界杯™ 当地球迷洞察报告》。  Nielsen",
+      "originalTitle": "尼尔森《2026年国际足联世界杯™ 当地球迷洞察报告》。 - Nielsen",
+      "originalSummary": "尼尔森《2026年国际足联世界杯™ 当地球迷洞察报告》。  Nielsen",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeFhBNVpOTnBqVFJ3WGhVNWk4T0Z1cmRkRGw5U2JqU1MyMzI3X05hcGVsYy1hVzFUdEsxNFJwbkRVZFlidk5HY3NsSEtsOGRoUTZQLUZPa2xEV0k5bTRXeE80TGMyMFpxOEFucW13TExVV1l4OXlGc3l4aHlNazB2U2VSMVN2ZUhpRldVa0VCZGs2NFRvWkRuRTVpUXpDVVU?oc=5",
+      "publishedAt": "2026-08-21T02:11:08+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-2026-fifa-world-cup-spain-dominates-france-advances-to-world-cup-final-tassi-bce-33oq6foosx-mshale",
       "title": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX) - Mshale",
       "summary": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX)  Mshale",
@@ -105,7 +153,7 @@
     },
     {
       "id": "google-news-grant-johnson-revelations-raise-questions-over-bafana-bafana-s-world-cup-camp-ewn",
-      "title": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 - EWN",
+      "title": "格兰特·约翰逊的爆料引发了对巴法纳世界杯训练营的质疑 - EWN",
       "summary": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 EWN",
       "originalTitle": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp - EWN",
       "originalSummary": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp  EWN",
@@ -140,6 +188,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-osi-systems-osis-2026财年第四季度业绩电话会议-5000万美元交付延迟及2027财年业绩指引-tradingkey",
+      "title": "OSI Systems (OSIS) 2026财年第四季度业绩电话会议：5000万美元交付延迟及2027财年业绩指引 - TradingKey",
+      "summary": "OSI Systems (OSIS) 2026财年第四季度业绩电话会议：5000万美元交付延迟及2027财年业绩指引  TradingKey",
+      "originalTitle": "OSI Systems (OSIS) 2026财年第四季度业绩电话会议：5000万美元交付延迟及2027财年业绩指引 - TradingKey",
+      "originalSummary": "OSI Systems (OSIS) 2026财年第四季度业绩电话会议：5000万美元交付延迟及2027财年业绩指引  TradingKey",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5xSkpWRVdkZm5ZaTlNT2IxWktIV0xoUUFUMFdCaDhPSXg5U0lKRkFDRlNaeVF5R09EcWotZ0E1TmdhM0tQcWx1dHV5cDBySzQySDBheGFaQWdIZThBZS1MSzBRbFBOR2hYV25XUk4xc05qZmRJMkFjR1duNWE?oc=5",
+      "publishedAt": "2026-08-20T23:41:54+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-world-cup-news-fifa-referee-slams-handling-of-folarin-balogun-saga-yahoo-sports",
       "title": "世界杯新闻：国际足联裁判猛烈抨击福拉林·巴洛贡事件的处理 - 雅虎体育",
       "summary": "世界杯新闻：国际足联裁判猛烈抨击福拉林·巴洛贡事件的处理方式 雅虎体育",
@@ -152,75 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews",
-      "title": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 - TicketNews",
-      "summary": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 TicketNews",
-      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
-      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
+      "id": "google-news-what-to-know-about-erling-haaland-the-norwegian-world-cup-star-finding-viral-fame-off-the-field-abc-news-bre",
+      "title": "关于挪威世界杯球星埃尔林·哈兰的哪些信息，这位挪威世界杯明星在赛场外名声大噪 - ABC 新闻 - 突发新闻、最新新闻和视频",
+      "summary": "关于挪威世界杯球星埃尔林·哈兰的哪些信息，这位挪威世界杯球星在场外名声大噪 ABC News - 突发新闻、最新新闻和视频",
+      "originalTitle": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field - ABC News - Breaking News, Latest News and Videos",
+      "originalSummary": "What to know about Erling Haaland, the Norwegian World Cup star finding viral fame off the field  ABC News - Breaking News, Latest News and Videos",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQTltT2VWcWtZUkV3cHR3OXhJcklQLWFqZVJLUFNlRW5BU2pBQWVGX0NoZDY2QTRXeURkT3RZamNJQW9NWmhKM041dS1ocFJ6VQ?oc=5",
-      "publishedAt": "2026-08-20T21:37:58+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-tiktok-to-stream-2026-fifa-world-cup-content-01-09-2026-mediapost",
-      "title": "TikTok 将直播 2026 年 FIFA 世界杯内容 01/09/2026 - MediaPost",
-      "summary": "TikTok 将直播 2026 年 FIFA 世界杯内容 01/09/2026 MediaPost",
-      "originalTitle": "TikTok To Stream 2026 FIFA World Cup Content 01/09/2026 - MediaPost",
-      "originalSummary": "TikTok To Stream 2026 FIFA World Cup Content 01/09/2026  MediaPost",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3NEVndVN0NQZXVPcTg5R3RUd0llVFlranFQR0QtSlN4Y1hXWTYtbEhyTUpVd0Y3WXVpRGtUY3ZNVkhCVXAxWkV1U014aG1IaEJ5Vk9yMlZrZmFETXBCRzlMV1d3SDNlMW1zYlBhVUhISVhlcDB3YkUwWjhPM093VDB0dW9mSkVRX2JPZWFtX1VuNU1VcnVxaHVWWk9qSW9WbkNsdWlR?oc=5",
-      "publishedAt": "2026-08-20T21:27:40+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-vicky-jepson-selected-the-roster-for-the-2026-fifa-u-20-women-s-world-cup-us-soccer",
-      "title": "维姬·杰普森 (Vicky Jepson) 如何选择 2026 年 FIFA U-20 女子世界杯名单 - 美国足球",
-      "summary": "Vicky Jepson 如何选择 2026 年 FIFA U-20 女子世界杯美国足球队名单",
-      "originalTitle": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup - US Soccer",
-      "originalSummary": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup  US Soccer",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFM5UG1OanFxUXhPbW42ZUVveTU1aFhKTTJXckRRWmdoOW5JZ3Raa0FVLWg3U1Q5UEVsZU9qMmpBZWNBaEtYN09vN0RxTnAydGd3dXpMSkpCbGVEZXRCMXc4cVhyQXotb0FqeHhrd3pkaTNSQW5KRU9zdVk5d3doRDlZVGlib3BjYjRtUTg4d1Bsd3JRZXZfTzViSUIwdWd2aG9aMmg1SmJXZEFyY2luSw?oc=5",
-      "publishedAt": "2026-08-20T21:27:07+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-man-previously-accused-of-slashing-giant-fifa-ball-arrested-in-surfside-antisemitic-attack-cops-say-wplg-loc",
-      "title": "警方称，先前被指控砍断巨型国际足联球的男子在 Surfside 反犹太主义袭击中被捕 - WPLG Local 10",
-      "summary": "警方称，一名曾被指控砍断巨型 FIFA 球的男子在 Surfside 反犹太主义袭击中被捕，WPLG Local 10",
-      "originalTitle": "Man previously accused of slashing giant FIFA ball arrested in Surfside antisemitic attack, cops say - WPLG Local 10",
-      "originalSummary": "Man previously accused of slashing giant FIFA ball arrested in Surfside antisemitic attack, cops say  WPLG Local 10",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOZEtCaVd3eWNoX3VoYU9OVV9aLWd5SGN0bjlaU3JIUXRrT1hjVFlGZl9VV19Hb0NGSGQ2NUR1bVA5RkM2WTF5UmZUM2ZRSU5DeENPampDNjFreHB6bmdqSHlKVDd4cVIxbGtQRlVhVGlQWGZKUUQ1cGptQ2dOdldKNmxkUUJlWlRyckhCQ3ZHMC1BNGlvV2w0SV9PMmU2RnJ4NzRZbkwzNk5RUUN4dFV0ejdDVjBNSHo2eEZfV0JlbWVNOGxLV2c0RWROR1NrUWxucHBMS0tpOWRHVWVGQ0tF?oc=5",
-      "publishedAt": "2026-08-20T21:17:02+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal-wtop",
-      "title": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职",
-      "summary": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职 WTOP",
-      "originalTitle": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ‘betrayal’ - WTOP",
-      "originalSummary": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ‘betrayal’  WTOP",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWHV0NVM2X3doYmJmVDNmUFRrV1pNSm04RERHZUpFeGpGWWNVSXd0OEtCcGRaSlBrWTdzNVl5WjA0Z0F2NE15dVBQSUV4bVRZUkozUU1YdGhLcHJJOGMtb3E4NFlXanMybmVHb0NJWkRkX3J2SkxDSWlmRGN4b09GOWxPcldBUTRFZmw1MFhTWHU2RE8yZjhUNmtuNDlBN0dzV0hsYlpPM3ptaWlJNEE0VGxtV213aDdEVmw1NGhsdHZXM0xCLVRV?oc=5",
-      "publishedAt": "2026-08-20T21:13:58+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-texas-ag-joins-scrutiny-of-fifa-world-cup-ticket-sales-after-seat-map-pricing-complaints-ticketnews",
-      "title": "座位图、定价投诉后，德克萨斯州股份公司加入对 FIFA 世界杯门票销售的审查 - TicketNews",
-      "summary": "座位图、定价投诉后，德克萨斯州股份公司加入对 FIFA 世界杯门票销售的审查",
-      "originalTitle": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints - TicketNews",
-      "originalSummary": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUThqbkpTM3Jrd2ZHSEdoNTJHUDB6V2RtYnphMkwwSUpGa3dGdUlGX0tYSFlqMm5oMVY1eUFPbmppTjUtdHRQZmJYdUpnV2xpa0ppYWdFLU85QWc1cEVOZHkxSzd0Y0tmSW1iNjRZNWdPMWhmWU51U1lBYTJ6a2hldUp1cFlxd0FXdWs3eXd4LXVGRzJKQi1yZ3dtYmlPUVRMbmtIMTktbGtpc2dyWlllNUFqVEFEWTRodXRlZ3VKaHNhQQ?oc=5",
-      "publishedAt": "2026-08-20T21:01:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTkVkZW56VkUyRW5LU2ZWZnlDMVBfb1FVZ2NBbDF0a0RZQUttbkhTbTFVbkxOSzE4M0pjRHJjd1piR2xIODFNTWdmZkJhOENWTkpGWDlZSWVfd013cjIwZG9CelE1TzhVeFdUX3dUaUFIanlONlZ1QjNqcWVxY0V2UWdWYjNmNkVORDY0N21rSndtYjQ1TzMzMUI3LTF4ZUhOSjVPb3BGY9IBrAFBVV95cUxNZFRWMHVLWGFtcXk5R0owbHNxWEQxRGNJa28tckhnVzVvTlRZT0ZFbDR1UldTT2g5ejNGdE0tZndVdEV0Ni04ZDBNQlpDRTVPWVFZVjJtVmZPTjdoRHhEQVRiQjFDRkExYlpXc3psbE9hR0tEdnlOMzA5MEVybnZjVVc5UHZuLTlCZzZKM2xRYzVnZ3JhRjYzYnBLby0zR2VTZ3gtMjhmQmlpQURS?oc=5",
+      "publishedAt": "2026-08-20T22:53:26+00:00",
       "heat": 60
     }
   ]
