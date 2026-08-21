@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-20T23:54:14.036134+00:00",
+  "updatedAt": "2026-08-21T01:39:57.711203+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,39 @@
   ],
   "articles": [
     {
-      "id": "google-news-ex-world-cup-referee-slams-fifa-s-handling-of-folarin-balogun-saga-clutchpoints",
-      "title": "前世界杯裁判猛烈抨击国际足联对福拉林·巴洛贡事件的处理 - ClutchPoints",
-      "summary": "前世界杯裁判猛烈抨击国际足联对福拉林·巴洛贡事件的处理 ClutchPoints",
-      "originalTitle": "Ex-World Cup referee slams FIFA’s handling of Folarin Balogun saga - ClutchPoints",
-      "originalSummary": "Ex-World Cup referee slams FIFA’s handling of Folarin Balogun saga  ClutchPoints",
+      "id": "google-news-grant-johnson-revelations-raise-questions-over-bafana-bafana-s-world-cup-camp-ewn",
+      "title": "格兰特·约翰逊的爆料引发了对巴法纳世界杯训练营的质疑 - EWN",
+      "summary": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 EWN",
+      "originalTitle": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp - EWN",
+      "originalSummary": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp  EWN",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSWtTTDB6TkdWWkV1d0NFSHhYRVN1SVkxSFFPbERWRmFEc2ZQbU1pejBEYjQwNThscE0tYmJPdkk1emdEZG1rcGFWLXItYk9RdnhiWXRLUTZYRWp0eXJEcU9UOF9CbGk3UG8zRUsweTVjeGhwNUl0MjlJYXZrSlZSbUJWbG9SY0FvTnp2LUdRaUkyUDBibjZvMk9hMA?oc=5",
-      "publishedAt": "2026-08-20T23:18:42+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGdYaFZVVGdLdUpVS1VpVTh3UmNobTQxWFViYXNLT1ROaVJiblBZa3pKdEMwX1llVWdkdHVsS3RBclZuRnhHNEtmMHlwdzAtSGhQaWk5b1dTMHZqM1JHcXFrbkxOamlPVldiSGJ3YWxFYmpqcTJ3ZWlzcFlCem4zX0pyS0stbmh2WkxXNG9JTEVtcTJJVVR6d1pxaURvU01vVnc?oc=5",
+      "publishedAt": "2026-08-21T01:07:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-news-fifa-referee-slams-handling-of-folarin-balogun-saga-yahoo-sports",
+      "title": "世界杯新闻：国际足联裁判猛烈抨击福拉林·巴洛贡事件的处理 - 雅虎体育",
+      "summary": "世界杯新闻：国际足联裁判猛烈抨击福拉林·巴洛贡事件的处理方式 雅虎体育",
+      "originalTitle": "World Cup news: FIFA referee slams handling of Folarin Balogun saga - Yahoo Sports",
+      "originalSummary": "World Cup news: FIFA referee slams handling of Folarin Balogun saga  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOExDUkVkZWx0OUVCbWFjWnhFVDNPRTVpblJ3em9pSG93Rl9Rd1FmNW9yNWVkZjh5VGJjSEJ6MzlmbjJxcXNBUGpnTnhuZm1oT2lNNjVKNTc0TERVUS1pM2MtMTNKWjNZRGRKTk5mSnN4WDdyTVA0aUo5Y3NVaE9aWjFR?oc=5",
+      "publishedAt": "2026-08-20T23:16:22+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-tiktok-to-stream-2026-fifa-world-cup-content-01-09-2026-mediapost",
+      "title": "TikTok 将直播 2026 年 FIFA 世界杯内容 01/09/2026 - MediaPost",
+      "summary": "TikTok 将直播 2026 年 FIFA 世界杯内容 01/09/2026 MediaPost",
+      "originalTitle": "TikTok To Stream 2026 FIFA World Cup Content 01/09/2026 - MediaPost",
+      "originalSummary": "TikTok To Stream 2026 FIFA World Cup Content 01/09/2026  MediaPost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3NEVndVN0NQZXVPcTg5R3RUd0llVFlranFQR0QtSlN4Y1hXWTYtbEhyTUpVd0Y3WXVpRGtUY3ZNVkhCVXAxWkV1U014aG1IaEJ5Vk9yMlZrZmFETXBCRzlMV1d3SDNlMW1zYlBhVUhISVhlcDB3YkUwWjhPM093VDB0dW9mSkVRX2JPZWFtX1VuNU1VcnVxaHVWWk9qSW9WbkNsdWlR?oc=5",
+      "publishedAt": "2026-08-20T21:27:40+00:00",
       "heat": 60
     },
     {
@@ -152,6 +176,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-troyes-vs-paris-fc-prediction-and-betting-tips-august-22nd-2026-sportskeeda",
+      "title": "特鲁瓦 vs 巴黎FC 预测和投注技巧| 特鲁瓦2026 年 8 月 22 日 - Sportskeeda",
+      "summary": "特鲁瓦 vs 巴黎FC 预测和投注技巧| 特鲁瓦2026 年 8 月 22 日  Sportskeeda",
+      "originalTitle": "Troyes vs Paris FC Prediction and Betting Tips | August 22nd 2026 - Sportskeeda",
+      "originalSummary": "Troyes vs Paris FC Prediction and Betting Tips | August 22nd 2026  Sportskeeda",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRkJvRlNOVm10QXRIeGt2d1VkS3NKUGM5S0tCbHlOYjBYZHF4U1IwaUstNW5pRzFmYWpCUTQ5VV9GcUZQZmhlaldaMnMzaU4xTjRTSnAyeHNBcnVYSnY1OTR3eTRsUlJobVFUempLSmtMRFFiNUtLcEtGY2w4anVJb2xJb0gwOFJGVWZCRTkweG80cXBuRENEQk50cks?oc=5",
+      "publishedAt": "2026-08-20T17:47:00+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-the-premier-league-returns-tomorrow-here-s-how-you-can-keep-watching-the-world-cup-s-biggest-stars-yahoo",
       "title": "英超联赛明天回归。您可以通过以下方法继续观看世界杯巨星的比赛。 - 雅虎",
       "summary": "英超联赛明天回归。您可以通过以下方法继续观看世界杯巨星的比赛。  雅虎",
@@ -176,52 +212,16 @@
       "heat": 44
     },
     {
-      "id": "google-news-soccer-fans-launch-global-petition-urging-fifa-boss-gianni-infantino-to-resign-over-world-cup-betrayal-chica",
-      "title": "球迷发起全球请愿，敦促国际足联主席因凡蒂诺因世界杯“背叛”而辞职 - 芝加哥论坛报",
-      "summary": "球迷发起全球请愿，敦促国际足联主席詹尼·因凡蒂诺因世界杯“背叛”而辞职 芝加哥论坛报",
-      "originalTitle": "Soccer fans launch global petition urging FIFA boss Gianni Infantino to resign over World Cup ‘betrayal’ - Chicago Tribune",
-      "originalSummary": "Soccer fans launch global petition urging FIFA boss Gianni Infantino to resign over World Cup ‘betrayal’  Chicago Tribune",
+      "id": "google-news-senegal-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年塞内加尔世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Senegal World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Senegal World Cup 2026: Route to final, next match and tactical analysis  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONzBveG92d2hwZ0x0YjJTNmJIdi12NEVLYTJFNjB0azhEcDAzSmxVTENhMld6RDJYMGdsUUlBQ2U5cEVGRUQyYWRvMlA0b0tZbF93Um1QWEdiMmhjM2VNU3dqcUh0Nkt6azFzckdFN0VUR0FhNXloX3VjSHA3dEtjSw?oc=5",
-      "publishedAt": "2026-08-20T16:00:35+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-kc-sports-commission-awards-honor-world-cup-success-college-hoops-big-slick-kansas-city-star",
-      "title": "KC 体育委员会奖表彰世界杯的成功、大学篮球、Big Slick - 堪萨斯城之星",
-      "summary": "KC 体育委员会奖表彰世界杯成功、大学篮球、Big Slick 堪萨斯城之星",
-      "originalTitle": "KC Sports Commission Awards honor World Cup success, college hoops, Big Slick - Kansas City Star",
-      "originalSummary": "KC Sports Commission Awards honor World Cup success, college hoops, Big Slick  Kansas City Star",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9pLUVKUkh3ZEpFTWhTbVg2X2Q0MktjM25MV3RkZ1pTRFVzbXhWLXZPRGthT3BXWUdtVk9fa3htYUJITU5DNEZjcU5KZThvT1puSFdlaEY2V211N0NBS0VHd01PZG1Nd9IBZkFVX3lxTE9pLUVKUkh3ZEpFTWhTbVg2X2Q0MktjM25MV3RkZ1pTRFVzbXhWLXZPRGthT3BXWUdtVk9fa3htYUJITU5DNEZjcU5KZThvT1puSFdlaEY2V211N0NBS0VHd01PZG1Ndw?oc=5",
-      "publishedAt": "2026-08-20T15:43:33+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZHp4Sk5Iek1QcnE0M05BOXZaZXhoLWRoZW1JZlp6b0l6RUc3WmxTZU44RkdNQXFzVHloZ3Zoazl2cFlpRjJCdkw3VzBEMmhBLW1ZckE2MEJGU2Z0anFQMWRwcFNXREl3QzNKbGl4UC1hV0JraGpHRmZ0QUU3alJyTUs1TERBOGZuYVpQbg?oc=5",
+      "publishedAt": "2026-08-20T16:06:43+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-fifa-begins-disciplinary-proceedings-against-hossam-hassan-and-zico-egypt-responds-goal-com",
-      "title": "国际足联开始对霍萨姆·哈桑和济科进行纪律处分：埃及回应 Goal.com",
-      "summary": "国际足联开始对霍萨姆·哈桑和济科进行纪律处分：埃及回应 Goal.com",
-      "originalTitle": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds - Goal.com",
-      "originalSummary": "FIFA begins disciplinary proceedings against Hossam Hassan and Zico: Egypt responds  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcG1xaEtmVTdjTmpUck9sUThGQzdHNGZwaXFWa1ZzNi15V3FTRnpjeGV3YnZMbGVFZHNsZTdxcjJfS21LWjdmQnpjamx6cnBtaWgzYUFTRTgyM2J5b3BPS25qRkpNTHc2WV82d2F6aFVCZHY4ZmhjNUhoUVh2RWxIaUxGbTNKYzI0MzFPdnJQYkttQjF3VmZ2eFZLYmtFdmRORGNNc1lOWlhUaDdENThVQ0MzNWhDN2NheUxmR1hjTmJueU5jUm5HTHBWUQ?oc=5",
-      "publishedAt": "2026-08-20T15:39:49+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-henderson-jude-gives-us-the-x-factor-england-v-croatia-2026-fifa-world-cup-dak-prescott-lxmarpsy0t-mshale",
-      "title": "亨德森：“JUDE 给了我们 X 因素！” ⭐ 英格兰 V 克罗地亚 🏆 2026 FIFA 世界杯 Dak Prescott (lxMARpsY0T) - Mshale",
-      "summary": "亨德森：“JUDE 给了我们 X 因素！” ⭐ 英格兰 V 克罗地亚 🏆 2026 年 FIFA 世界杯 Dak Prescott (lxMARpsY0T)  Mshale",
-      "originalTitle": "HENDERSON: “JUDE GIVES US THE X FACTOR!” ⭐ England V Croatia 🏆 2026 FIFA World Cup Dak Prescott (lxMARpsY0T) - Mshale",
-      "originalSummary": "HENDERSON: “JUDE GIVES US THE X FACTOR!” ⭐ England V Croatia 🏆 2026 FIFA World Cup Dak Prescott (lxMARpsY0T)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE42MFI4WlMtQUdXQllHOHFMdFpSQ1VEVjBzRFdyOVBpZ2pnWEludUdwclNXdTdncWFILVdFYmtKVHFESFByZFQyXzBsZWJGS29zdnN2YW12dE54a0U?oc=5",
-      "publishedAt": "2026-08-20T15:39:19+00:00",
-      "heat": 60
     }
   ]
 }
