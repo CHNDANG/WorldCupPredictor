@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T20:30:40.099716+00:00",
+  "updatedAt": "2026-08-21T21:29:30.191204+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-cristiano-ronaldo-scores-for-al-nassr-in-first-game-since-2026-world-cup-fox-sports",
+      "title": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯以来的第一场比赛中为阿尔·纳斯尔 (Al-Nassr) 进球 - 福克斯体育",
+      "summary": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯以来的第一场比赛中为阿尔·纳斯尔 (Al-Nassr) 进球",
+      "originalTitle": "Cristiano Ronaldo Scores For Al-Nassr In First Game Since 2026 World Cup - FOX Sports",
+      "originalSummary": "Cristiano Ronaldo Scores For Al-Nassr In First Game Since 2026 World Cup  FOX Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlgtUUFkYkdPdy1JQklpUGJmaS01NnFVR2F5b20xc19mMTY2RHFLVDQzQ1l4TVMybXNKUWVzakJ1blJJTzMySGZoUmVjZjVaTGp0dUhQaW5EUGljU3lKRzR1eEd1SGtsU2RkRnRNUmsyT0x5QjZQdDhiR3JwM0VOMWZiU2FEaGt5dXVwR0NNcjI1dTZSTlZwdFQtQU9JRjc1MVJDVmN2WkEtUdIBqgFBVV95cUxOSlQ5VGJSRHYyZ3VvT012b0RoM0ZsUjJ3TWtValpTTFdoell5SXJfdWN1WE53R1BtMVZlS2V3VXJnZUtORFlvam5ZUm1xbHFBR3JUWWktRFNoR2x3VHhkOUpXbTkxUlNzc2RWdUdmbWw5Tzh1dC1OcFdLRkEyWndEV3dMWDN5d1NFYmhGcGg4SkVla2ZHUFZ4bGFPTlNiekp1UmZoQS1qXzNRQQ?oc=5",
+      "publishedAt": "2026-08-21T21:13:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-breaking-argentina-star-hit-with-record-penalty-as-four-banned-over-ugly-world-cup-fight-fox-sports",
+      "title": "突发：阿根廷球星因丑陋的世界杯打斗而受到创纪录的处罚，四人被禁赛 - 福克斯体育",
+      "summary": "突发新闻：阿根廷球星因丑陋的世界杯打斗而受到创纪录的处罚，四人被禁赛 福克斯体育",
+      "originalTitle": "BREAKING: Argentina star hit with record penalty as FOUR banned over ugly World Cup fight - Fox Sports",
+      "originalSummary": "BREAKING: Argentina star hit with record penalty as FOUR banned over ugly World Cup fight  Fox Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNb1pQbjZDbFJ3NXVmeU5yeTBSMEVLTDY1TXhyc1EzbXh5UkR3QTNnUUZ3UlVXRHhuenhTbi11Y0Jmeng0YnU5a3pjLTExZ3FPLVkwdG9EVW01cjBEOTZCQUhsSzNpMUFsajBWdlBBaXNnX3lOcEhzVkFBWGZlOGM2clRSR0Q0Q0podFFKU0ZXcnZ5a0dqWkJkRHR6Xy10c25GX2V3VE1iVDA5SEotcjR1cDhLTFR4SkEzOVJIUUtyUXJlNnduWWhUU2Y4aHdFdk1CZmRMeFJEaHVGcG5qZURoQ05idVVpekxTb1B6YnFzby13c1FIYWh4N3JNSG1fRWVXZGI5YWVPcUYtLVJVTXhRX3V2RGtTY20tY1lnOFNjcmxDa2t0QXJMN1VnZk1UU0UyaU12U1MxRnQyRERrZVpyNDJHTnltTUF6RWY4VXdPQmtFbGZ2U3FQdWhXTkttV2hBb3B0RDBMVEUwZkQ2NE1EZFdyNHMtWmxyVE5QT1E0cUw5eHR1TmFOMHlBdDhYNEdhNXhEUW5hUURWMHVl0gGcA0FVX3lxTE1vWlBuNkNsUnc1dWZ5TnJ5MFIwRUtMNjVNeHJzUTNteHlSRHdBM2dRRndSVVdEeG56eFNuLXVjQmZ6eDRidTlremMtMTFncU8tWTB0b0RVbTVyMEQ5NkJBSGxLM2kxQWxqMFZ2UEFpc2dfeU5wSHNWQUFYZmU4YzZyVFJHRDRDSmh0UUpTRldydnlrR2paQmREdHpfLXRzbkZfZXdUTWJUMDlISi1yNHVwOEtMVHhKQTM5UkhRS3JRcmU2d25ZaFRTZjhod0V2TUJmZEx4UkRodUZwbmplRGhDTmJ1VWl6TFNvUHpicXNvLXdzUUhhaHg3ck1IbV9FZVdkYjlhZU9xRi0tUlVNeFFfdXZEa1NjbS1jWWc4U2NybENra3RBckw3VWdmTVRTRTJpTXZTUzFGdDJERGtlWnI0MkdOeW1NQXpFZjhVd09Ca0VsZnZTcVB1aFdOS21XaEFvcHREMExURTBmRDY0TURkV3I0cy1abHJUTlBPUTRxTDl4dHVOYU4weUF0OFg0R2E1eERRbmFRRFYwdWU?oc=5",
+      "publishedAt": "2026-08-21T21:05:48+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-they-are-all-mute-argentina-s-leandro-paredes-snaps-back-at-fifa-s-10-game-ban-calls-out-favoritism-to-spain",
+      "title": "“他们都沉默了”：阿根廷球员莱安德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
+      "summary": "“他们都沉默了”：阿根廷队球员莱安德罗·帕雷德斯猛烈反击国际足联的 10 场禁赛，并指责对西班牙的偏袒 雅虎体育",
+      "originalTitle": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain - Yahoo Sports",
+      "originalSummary": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDBlMkpYNWhjMENVdDc0bERUUkUzYnFWM2swaHllQnBYTks1eDcwck52TXpMbjg3X3o4Ti1UdGtHS0lBVDMwekc0X0c2emZNQlc5OE5aZVEwckgyX3VPYlFvZk92NjVYaWZGd1ZrMDFlYUhvdl81Q2k3ZWVPdWJ4VzNyVzR4cU51TVhmall3?oc=5",
+      "publishedAt": "2026-08-21T20:46:07+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-gianni-infantino-plotted-u15s-world-cup-hosted-next-to-disneyland-with-211-teams-representing-every-fifa-nat",
       "title": "贾尼·因凡蒂诺“策划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加” - the-sun.com",
@@ -16,7 +52,19 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VzcFhjbXdDUjJlSGZzaWtYZGV1dEFhMkZvc051ei1OX256S2ZVenVOWkE4Rmh6M2I1bloyS2YwUDFhdGxEQVlFclFWMnVwLUU3SjUxWEdzSjVVREFKRU1jSUtnZElPVG9xTFFLSS1DZ0ZGTnZMalNZU255cHZJN09PaldvQVJKb1dCZzc4MC1lZU1i?oc=5",
-      "publishedAt": "2026-08-21T20:24:53+00:00",
+      "publishedAt": "2026-08-21T20:26:15+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-handed-21-game-ban-by-fifa-for-world-cup-final-brawl-complex",
+      "title": "阿根廷因世界杯决赛斗殴事件被国际足联禁赛 21 场 - 复杂",
+      "summary": "阿根廷因世界杯决赛斗殴事件被国际足联禁赛 21 场",
+      "originalTitle": "Argentina Handed 21-Game Ban by FIFA for World Cup Final Brawl - Complex",
+      "originalSummary": "Argentina Handed 21-Game Ban by FIFA for World Cup Final Brawl  Complex",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGlGYU03NnEzS3Q0Y0M1M1pEbHA3R3piV1dlejJKYWlsMUdPX3Z2cDhCRjhmMDF5a3R3T2lKWW1ITE0zX2hHSElTOGV5SUkyVjZzZVBWNXpIbnctcGJwY2sya2ZTdFFWazBSc1RZQUxfOXVTMHdoZlE3cWs1MW42SWN0WFoyYUdGUGdlTg?oc=5",
+      "publishedAt": "2026-08-21T20:16:24+00:00",
       "heat": 60
     },
     {
@@ -34,7 +82,7 @@
     {
       "id": "google-news-fifa-hands-paredes-10-match-ban-molina-seven-after-world-cup-final-clash-morocco-world-news",
       "title": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 - 摩洛哥世界新闻",
-      "summary": "国际足联对帕雷德斯禁赛 10 场，莫利纳在世界杯决赛后七场禁赛 摩洛哥世界新闻",
+      "summary": "世界杯决赛后国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 摩洛哥世界新闻",
       "originalTitle": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash - Morocco World News",
       "originalSummary": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash  Morocco World News",
       "translation": "online",
@@ -58,37 +106,13 @@
     {
       "id": "google-news-paredes-handed-10-game-ban-for-world-cup-fracas-bein-sports",
       "title": "帕雷德斯因世界杯争吵被禁赛 10 场 - beIN SPORTS",
-      "summary": "帕雷德斯因世界杯争吵被禁赛 10 场 beIN SPORTS",
+      "summary": "Paredes handed 10-game ban for 世界杯 fracas  beIN SPORTS",
       "originalTitle": "Paredes handed 10-game ban for World Cup fracas - beIN SPORTS",
       "originalSummary": "Paredes handed 10-game ban for World Cup fracas  beIN SPORTS",
-      "translation": "online",
+      "translation": "online/local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTW01Vnl2bTlpQWdWVkktTnkzeV9xSFdMclBSMkM0c3c4Mmc2cXFhYUtTVV9iM2RIaWxPTmRNYjZkRU02ZjJjaW9tUzA5MmZkcmFnNXZsa3BYRnFEdF9yZTJUd2Z6endtbXp5TjNnMVVySldyWkpVNldKazQ5eGQxdHdBUkNLMkVKVTBEckM5VU5NYXZ1bXNzb1lyVXBTUGxDVm5RTG9ya0x4ME9wUndhSnA2b3ViSTYwczVRcnZFTE9QUHVGRjRaWg?oc=5",
       "publishedAt": "2026-08-21T19:27:09+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-hunter-hernandez-gray-highlight-canada-s-roster-for-u-20-women-s-world-cup-in-poland-sportsnet-ca",
-      "title": "亨特、埃尔南德斯·格雷重点介绍加拿大参加波兰 U-20 女子世界杯的阵容 - Sportsnet.ca",
-      "summary": "亨特和埃尔南德斯·格雷重点介绍了加拿大参加波兰 U-20 女子世界杯的名单 Sportsnet.ca",
-      "originalTitle": "Hunter, Hernandez Gray highlight Canada's roster for U-20 Women's World Cup in Poland - Sportsnet.ca",
-      "originalSummary": "Hunter, Hernandez Gray highlight Canada's roster for U-20 Women's World Cup in Poland  Sportsnet.ca",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSGE2cUpDUDYzRWtnTjllN3pPYWZSSWdHdzRFUThqbnFXQl9pWVVablVPMl8xUG1RX0NqemFJVndnSGJqeHUxR1EwWmxRbEcxMS01NktMVzA0QkF5UG5taHhDeGxFel9WT0lJdjlsbFRHRlBobXRxR2tHdEROeTJCRU9EeS1VYXRVM210cmtMb2tzc1FVdHRpbExieFBRdzZIYlV6RUxZSjAtZDh0cGtOTTZINmh4NDZBMm9fY3FPd0k?oc=5",
-      "publishedAt": "2026-08-21T19:09:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-2026-ready-tns-scores-major-fashion-goals-ahead-of-bafana-bafana-opener-iol",
-      "title": "2026 年世界杯已做好准备：TNS 在 Bafana Bafana 揭幕战之前取得重大时尚进球 - IOL",
-      "summary": "2026 年世界杯已做好准备：TNS 在 Bafana Bafana 揭幕战之前取得重大时尚进球 IOL",
-      "originalTitle": "World Cup 2026 ready: TNS scores major fashion goals ahead of Bafana Bafana opener - IOL",
-      "originalSummary": "World Cup 2026 ready: TNS scores major fashion goals ahead of Bafana Bafana opener  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWtuenhWQVJzOHdaRUdiTkJVMmxfNklSZndzYzlTVDVDUG5JWGdaaG8yMGV6ZXFQNWVKU0t0ZWJEUjJmVHlaczlZZ1JaRlRhNlN1QWo0OC1mejJISWpPNGgtcFJQekdWeEdVaV9ldS1FbzhEblFoWm1lSUNHd1kwVTBxbVloYmU0LW9ROWtEVGJmOHY2aXJLSUs3cDVtNExkWVo0RXlvd0xKOGdzdGQ2Mw?oc=5",
-      "publishedAt": "2026-08-21T18:57:52+00:00",
       "heat": 52
     },
     {
@@ -101,6 +125,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
       "publishedAt": "2026-08-21T18:56:43+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
+      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
+      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
+      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
+      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "publishedAt": "2026-08-21T18:55:50+00:00",
       "heat": 52
     },
     {
@@ -185,42 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPRlRWem56bXU5NlE2ZTNMQzJmcmhYNGUzT3hHdGJfcnIxaGNvdFFKSUl0Ui1PSWladHdha3BaOGVidmE0QW41SFRoa0NHa09ic2E5MXRxckxJQXJ3NWNQWEtlTnBXeXNOakR5bzJ1eG5HYWJUb0pBeDNjRlR5MEFQQTM0THZtdHM?oc=5",
       "publishedAt": "2026-08-21T17:18:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-spain-brawl-at-world-cup-final-results-in-22-games-banned-270-000-in-fines-new-york-post",
-      "title": "阿根廷与西班牙世界杯决赛结果斗殴 22场比赛被禁赛 罚款27万美元 - 纽约邮报",
-      "summary": "阿根廷与西班牙世界杯决赛结果斗殴，禁赛 22 场，罚款 27 万美元纽约邮报",
-      "originalTitle": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines - New York Post",
-      "originalSummary": "Argentina-Spain brawl at World Cup final results in 22 games banned, $270,000 in fines  New York Post",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTl6SHFOQkpFYWFic3NzaHVNSERuakpiYUk2Qmc4eXdjcF9XUGc0MEJQdjRuWGhrT3BiUk04NU9Ybm5wb3BYQ1lVZkRGY3lwaXJ6anV1d2twakFZWjJlaXVMV3ZxZXJjeVFoaXJPMlFFRFJmNGoyTjFXWmpabWlLcDhjVnQtRW1YLXNveUd5T3V0LXN1MGtneWV1SQ?oc=5",
-      "publishedAt": "2026-08-21T17:18:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-chaos-leandro-paredes-and-team-face-massive-bans-after-that-wild-post-final-fight-t2online",
-      "title": "世界杯混乱：莱昂德罗·帕雷德斯和他的球队在决赛后的疯狂战斗后面临大规模禁令 - t2ONLINE",
-      "summary": "世界杯混乱：莱安德罗·帕雷德斯和他的球队在决赛后的疯狂战斗后面临大规模禁令 t2ONLINE",
-      "originalTitle": "World Cup chaos: Leandro Paredes and team face massive bans after that wild post-final fight - t2ONLINE",
-      "originalSummary": "World Cup chaos: Leandro Paredes and team face massive bans after that wild post-final fight  t2ONLINE",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPY0dsR1hPVzlBdWhsNEYxYTNPb1drM0h1Y0JSY0NRR2VPVVlfdkVqLWE2UnVneFpGdS1kRzhVTVFwZ1pjZmV4VWNBNlBoZFVxMmpya1JTVGN5dDFIbmt5ZHZBNWl2TXRBWTdzNWoySFcwbVN4X2xZdUhoU0F4am96SHJUc2hNMDJSckNsSDF5d2xxd1RMQl83SkN4RVFsY21tTEdqa0pQd1B4aS1DMHJVOHN1V3NEazVraXV2bkRTRm9Ic2JjejRLZmVzcExSYnM5elE?oc=5",
-      "publishedAt": "2026-08-21T17:15:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-opinion-my-2026-world-cup-experience-lionsroarnews-com",
-      "title": "意见 |我的2026年世界杯经历 - lionsroarnews.com",
-      "summary": "意见 |我的 2026 年世界杯经历 lionsroarnews.com",
-      "originalTitle": "OPINION | My 2026 World Cup experience - lionsroarnews.com",
-      "originalSummary": "OPINION | My 2026 World Cup experience  lionsroarnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVlqTFBFRmd6RTNrd2JYY2ZXMTg0U3VmTXJFVWFaWFNYMDlDQkJpZ05BX2NnelpnRi1reXV1UWhXMF94UUVfNndGa3MxeTFDNWVBdllzMEx2QTlOcGJ1bzB3dEhmbjZTYXRhUXQwTEtBWks5TFVUZzJjTFJibVZDUGhn?oc=5",
-      "publishedAt": "2026-08-21T17:11:29+00:00",
       "heat": 52
     }
   ]
