@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T21:55:54.658145+00:00",
+  "updatedAt": "2026-08-21T22:30:03.529915+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-hands-argentina-stars-massive-bans-after-world-cup-final-brawl-newswire",
+      "title": "世界杯决赛斗殴后国际足联对阿根廷球星实施大规模禁赛 - 新闻专线",
+      "summary": "世界杯决赛斗殴后，国际足联对阿根廷球星实施大规模禁赛",
+      "originalTitle": "FIFA hands Argentina stars massive bans after World Cup Final Brawl - Newswire",
+      "originalSummary": "FIFA hands Argentina stars massive bans after World Cup Final Brawl  Newswire",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm5xMjl5bFBWeVZNSk1wYjlSRl9HV2lYZG91TDNvdy1LcnBEYVpIUDdERFRxSlR1RThXTDIwbjlaWXJCRzdwY3U5aFJuMTRQN3loWG1QNWplNG1Mbi1pdU5sWTRpWDlRUHV2em92Q3JJbVpMb19YbDB3bFg3a01KSG05RkVvTExJeHA0YlZ1TGRpUjBWQ1k2YWVZamhWcFZwNDRtdTVR?oc=5",
+      "publishedAt": "2026-08-21T22:20:39+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-cristiano-ronaldo-scores-for-al-nassr-in-first-game-since-2026-world-cup-fox-sports",
       "title": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯以来的第一场比赛中为阿尔·纳斯尔 (Al-Nassr) 进球 - 福克斯体育",
@@ -33,7 +45,7 @@
     },
     {
       "id": "google-news-they-are-all-mute-argentina-s-leandro-paredes-snaps-back-at-fifa-s-10-game-ban-calls-out-favoritism-to-spain",
-      "title": "“他们都沉默了”：阿根廷球员莱昂德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
+      "title": "“他们都沉默了”：阿根廷球员莱安德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
       "summary": "“他们都沉默了”：阿根廷队球员莱安德罗·帕雷德斯猛烈反击国际足联的 10 场禁赛，并指责对西班牙的偏袒 雅虎体育",
       "originalTitle": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain - Yahoo Sports",
       "originalSummary": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain  Yahoo Sports",
@@ -41,6 +53,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVDBlMkpYNWhjMENVdDc0bERUUkUzYnFWM2swaHllQnBYTks1eDcwck52TXpMbjg3X3o4Ti1UdGtHS0lBVDMwekc0X0c2emZNQlc5OE5aZVEwckgyX3VPYlFvZk92NjVYaWZGd1ZrMDFlYUhvdl81Q2k3ZWVPdWJ4VzNyVzR4cU51TVhmall3?oc=5",
       "publishedAt": "2026-08-21T20:46:07+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-suspends-leandro-paredes-ten-matches-and-fines-argentina-after-malvinas-banner-telesur-english",
+      "title": "阿根廷马尔维纳斯旗帜被国际足联暂停十场比赛并罚款 - teleSUR Chinese",
+      "summary": "马尔维纳斯横幅后，国际足联暂停莱安德罗·帕雷德斯十场比赛并对阿根廷罚款 teleSUR 中文",
+      "originalTitle": "FIFA Suspends Leandro Paredes Ten Matches and Fines Argentina After Malvinas Banner - teleSUR English",
+      "originalSummary": "FIFA Suspends Leandro Paredes Ten Matches and Fines Argentina After Malvinas Banner  teleSUR English",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xLXNaLW1MWG1xRVR1Z3prTnRuX1VBYjNaZmNadnZNYjRRbmdsSVFYYkdvYzBYQUhRSnJlNkprX1pyX0x1Nng4WDkzanpGSG93a0tYcEY4OUJnSEVvTXJoX25EcTZHUnBZX25tSy1FLXJ5Y0ktbm92cEVSR0U?oc=5",
+      "publishedAt": "2026-08-21T20:28:14+00:00",
       "heat": 52
     },
     {
@@ -80,9 +104,33 @@
       "heat": 60
     },
     {
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
+      "publishedAt": "2026-08-21T20:07:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
+      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
+      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
+      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
+      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
+      "publishedAt": "2026-08-21T20:06:40+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-hands-paredes-10-match-ban-molina-seven-after-world-cup-final-clash-morocco-world-news",
       "title": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 - 摩洛哥世界新闻",
-      "summary": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 摩洛哥世界新闻",
+      "summary": "国际足联对帕雷德斯禁赛 10 场，莫利纳在世界杯决赛后七场禁赛 摩洛哥世界新闻",
       "originalTitle": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash - Morocco World News",
       "originalSummary": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash  Morocco World News",
       "translation": "online",
@@ -164,63 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-hits-argentina-players-with-lengthy-bans-after-world-cup-brawl-yahoo-sports",
-      "title": "世界杯斗殴事件后，国际足联对阿根廷球员实施长期禁赛 - 雅虎体育",
-      "summary": "世界杯斗殴事件后，国际足联对阿根廷球员实施长期禁赛 雅虎体育",
-      "originalTitle": "FIFA Hits Argentina Players with Lengthy Bans After World Cup Brawl - Yahoo Sports",
-      "originalSummary": "FIFA Hits Argentina Players with Lengthy Bans After World Cup Brawl  Yahoo Sports",
+      "id": "google-news-fifa-suspends-leandro-paredes-for-10-games-over-world-cup-final-clash-asaba-metro-news",
+      "title": "国际足联因世界杯决赛对莱昂德罗·帕雷德斯停赛 10 场 - Asaba Metro News",
+      "summary": "FIFA 因世界杯决赛冲突而对莱安德罗·帕雷德斯停赛 10 场 Asaba Metro News",
+      "originalTitle": "FIFA Suspends Leandro Paredes for 10 Games Over World Cup Final Clash - Asaba Metro News",
+      "originalSummary": "FIFA Suspends Leandro Paredes for 10 Games Over World Cup Final Clash  Asaba Metro News",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaXhERGYyZkJEXzFuUWVqMUM0d3N6djl5WURJRGtpeFNhMi1Id2JiZkEzN3dSUDYxeEhJdllDVWExTU95NmhhOTl4T1hHdERMNXp2SWlxTHRBOGtCN0dQWmtQRWVMcWpDYjdvelZaZEVnQ1hiRWFSYklnOENabGxEVk8zZkpWZTdEeDlSMA?oc=5",
-      "publishedAt": "2026-08-21T18:22:41+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-slapped-with-huge-fine-for-falklands-banner-racist-abuse-and-discrimination-after-england-world-cu",
-      "title": "英格兰世界杯冲突后，阿根廷因福克兰群岛横幅、种族主义辱骂和歧视而被处以巨额罚款 - the-sun.com",
-      "summary": "英格兰世界杯冲突后，阿根廷因福克兰群岛横幅、种族主义辱骂和歧视而被处以巨额罚款 the-sun.com",
-      "originalTitle": "Argentina slapped with huge fine for Falklands banner, racist abuse and discrimination after England World Cup clash - the-sun.com",
-      "originalSummary": "Argentina slapped with huge fine for Falklands banner, racist abuse and discrimination after England World Cup clash  the-sun.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaEdYYU5taXIzZHdaNGFIUDQzN3Z1Rnh5T1lsNm9BSURiSndqeWp1RVlodVdBcmJTR2NFRWFiZVdFMWJDSy1YT1Y1RnBVb2FTbUVoWWN5QmZ3TkMtOU1vUTRJMGQzd1RONEdIRjRQY1dUcXhUNTJ3cy1IWkIwMkNKbjFzYUk2eVVDOWNNSkF3?oc=5",
-      "publishedAt": "2026-08-21T18:09:29+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-video-cristiano-ronaldo-scores-first-goal-after-2026-world-cup-for-al-nassr-vs-al-riyadh-bolavip-com",
-      "title": "视频：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 为阿尔纳斯尔 (Al Nassr) 对阵利雅得 (Al Riyadh) 队打进 2026 年世界杯后的首个进球 - bolavip.com",
-      "summary": "视频：克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 为阿尔纳斯尔 (Al Nassr) 对阵阿尔利雅得 (Al Riyadh) 队打进 2026 年世界杯后的首个进球 bolavip.com",
-      "originalTitle": "Video: Cristiano Ronaldo scores first goal after 2026 World Cup for Al Nassr vs Al Riyadh - bolavip.com",
-      "originalSummary": "Video: Cristiano Ronaldo scores first goal after 2026 World Cup for Al Nassr vs Al Riyadh  bolavip.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObEVVWkJJWW5OcFROakRrZVlTNEVRTmFuZUZHRTFrNDJsb3l5Zzlkek5neDdKcEV3RTl2RkVsZzVCaG5YTG1xRmZEY0hnWGZnVjBWNXpmRDNENEo1MWdkYlFvSFRHT0RGQVVYb0hkeUR0NjdnMk51X2FfQ045X0VZWVBBbHg5QnpZOFNGN08wZkRjcXZoNldXTnRVUFdxT1ZEQ3lhWFV1MkRKbFNmQ192VjRoS29jd1lHQWfSAb8BQVVfeXFMUEhqN2NycnA3VDByRldBZGVsbDJpTTJUNjVQbXkxdkppWjdfSmJ2T0ZJekw5aUlvMmpYSzdKV01OZFZjV09BdXFDWTdpaGpsa09rZTdxeDJxNEt5ekJNVmV1cm8xMnZKVzlrWE1PNi1OS1pncldjYk9odDRFUlBrZ25rT0ZxdWhLZThhbkN5YkZVanlTcnJOMVVPeXRaSjdZMzhESy1GR05LNEVrMm5hQVY3SndFVXFGYmE1X2tISms?oc=5",
-      "publishedAt": "2026-08-21T17:56:30+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-players-staffers-banned-a-combined-21-games-for-ugly-world-cup-final-brawl-after-loss-to-spain-peo",
-      "title": "世界杯决赛输给西班牙后，阿根廷球员和工作人员因丑陋斗殴而被禁赛21场",
-      "summary": "世界杯决赛输给西班牙后，阿根廷球员和工作人员因丑陋斗殴而被禁赛 21 场比赛 People.com",
-      "originalTitle": "Argentina Players, Staffers Banned a Combined 21 Games for Ugly World Cup Final Brawl After Loss to Spain - People.com",
-      "originalSummary": "Argentina Players, Staffers Banned a Combined 21 Games for Ugly World Cup Final Brawl After Loss to Spain  People.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPUGhIYnRhMEFIb1FMdXp4RVJWaGNOWFgyczk4QjB5Rld2bXdJR1d3UzFjLUc4dXBYQlNKWExrWWdDb291YUphalM1QzQyU1drMTFzUF9PbGs4VmF5cWFMdFhUcWV3ZUV4dXZxaFJnVmd6Y2kxQ0ppRmpMNHdaWkx5cFpqdEFfZjdYNTJ6T2NxNm9ET0tWbklGekdCVTljaGxiYmwybzdRanZYNkFBVHg0?oc=5",
-      "publishedAt": "2026-08-21T17:33:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-michael-olise-looks-to-break-new-ground-with-bayern-munich-after-historic-fifa-world-cup-bundesliga-com",
-      "title": "迈克尔·奥利斯希望在历史性的世界杯之后与拜仁慕尼黑开辟新天地",
-      "summary": "历史性的 FIFA 世界杯结束后，迈克尔·奥利塞 (Michael Olise) 期待与拜仁慕尼黑一起开辟新天地德甲.com",
-      "originalTitle": "Michael Olise looks to break new ground with Bayern Munich after historic FIFA World Cup - bundesliga.com",
-      "originalSummary": "Michael Olise looks to break new ground with Bayern Munich after historic FIFA World Cup  bundesliga.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORmNIUVlzTkJOdkV6QkFIcWhxYVJlX3k4Z0RNUmRsYlFrei1lX1otU2FqSjNuYzdGNkFyZkJKT1pELUd5ZHVBdmhXNjNZMjJsM1dsX0ZXREp4SXUxNU9SQlhTSzJlRWZzTkV5bk9ERk5tOFI2T3FzM0JCbmlKX3JHZUxMUkw3R1VyMndBSEtaYmZUVmZSd1E0THQtZUFOQ1kzOGZTcG1OWjh5d3ZEUWxHcXUyM0JrX0cwaU9B?oc=5",
-      "publishedAt": "2026-08-21T17:19:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjZTRWt4S3NYY19Zc09IMFJ4NEkwTVRvVHVmdXZRZFJKZnp2MlpqSXN0V211WWMtbnZhV0RSLW51RW1iTUczamFSYVBsTEVPaTlLS2w1WVBvaVFCZUFEbUt1WC1VRF9YZDB6dXZEWm5aTWtIRXg1dDUwc3FzNTl4OW0ySWVsTHN3QVdiWg?oc=5",
+      "publishedAt": "2026-08-21T18:53:30+00:00",
       "heat": 60
     }
   ]
