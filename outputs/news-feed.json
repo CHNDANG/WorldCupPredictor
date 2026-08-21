@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T04:11:10.038617+00:00",
+  "updatedAt": "2026-08-21T05:06:05.172143+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -32,18 +32,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
-      "title": "这是雨果·布罗斯和巴法纳球星将从国际足联2.18亿兰特世界杯奖金中获得的金额 - IOL",
-      "summary": "这是 Hugo Broos 和 Bafana 球星将从国际足联世界杯 2.18 亿兰特的奖金中获得的金额 IOL",
-      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
-      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
-      "publishedAt": "2026-08-21T01:49:50+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-2026-fifa-world-cup-spain-dominates-france-advances-to-world-cup-final-tassi-bce-33oq6foosx-mshale",
       "title": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX) - Mshale",
       "summary": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX)  Mshale",
@@ -57,7 +45,7 @@
     },
     {
       "id": "google-news-grant-johnson-revelations-raise-questions-over-bafana-bafana-s-world-cup-camp-ewn",
-      "title": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 - EWN",
+      "title": "格兰特·约翰逊的爆料引发了对巴法纳世界杯训练营的质疑 - EWN",
       "summary": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 EWN",
       "originalTitle": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp - EWN",
       "originalSummary": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp  EWN",
@@ -81,27 +69,15 @@
     },
     {
       "id": "google-news-u-s-under-17-women-s-national-team-downs-canada-4-1-to-finish-final-training-camp-before-2026-fifa-u-17-wome",
-      "title": "美国 17 岁以下女子国家队以 4-1 击败加拿大，完成 2026 年摩洛哥 FIFA U-17 女子世界杯之前的最后训练营 - 美国足球",
-      "summary": "美国 17 岁以下女子国家队以 4-1 击败加拿大，完成 2026 年摩洛哥 FIFA U-17 女子世界杯之前的最后训练营 U.S. Soccer",
-      "originalTitle": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco - U.S. Soccer",
-      "originalSummary": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco  U.S. Soccer",
+      "title": "美国 17 岁以下女子国家队 4-1 击败加拿大队，完成 2026 年摩洛哥 FIFA U-17 女子世界杯之前的最后训练营 - 美国足球",
+      "summary": "美国 17 岁以下女子国家队以 4-1 击败加拿大队，完成 2026 年摩洛哥 FIFA U-17 女子世界杯之前的最后训练营 US Soccer",
+      "originalTitle": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
+      "originalSummary": "U.S. Under-17 Women's National Team Downs Canada, 4-1, to Finish Final Training Camp Before 2026 FIFA U-17 Women's World Cup in Morocco  US Soccer",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQamQ3ajhaNVBkTXJ3OG5vS1FtdTBQOS01TnNQekFuVkgtNjlreWtyc21JM2F5MXBYdFAxdDBaeS1zNFNxUGU5Zzl6bXBxYVgxRllBdmZNYkpSaUs5bURRRGpSTkJBUnI1RnB2T2lBWDg3dzNlSEFuczVCX3M5TFFxM1Fvd2ZBY3d0YnlnT0V3eVFlSHMwLWtkaGZDSVpPb0NmVU9VVFB4UGtVeElmX29rekUyQnM5UmUxcndiMzloWGR1cjJL?oc=5",
       "publishedAt": "2026-08-21T00:39:12+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-argentina-declares-july-15-as-national-football-teams-day-to-honour-2026-wc-win-over-england-iol",
-      "title": "阿根廷宣布 7 月 15 日为“国家足球队日”，以纪念 2026 年世界杯战胜英格兰队 - IOL",
-      "summary": "阿根廷宣布 7 月 15 日为“国家足球队日”，以纪念 2026 年世界杯战胜英格兰 IOL",
-      "originalTitle": "Argentina declares July 15 as ‘National Football Teams Day’ to honour 2026 WC win over England - IOL",
-      "originalSummary": "Argentina declares July 15 as ‘National Football Teams Day’ to honour 2026 WC win over England  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQb1NTeU1PTUVqVGJRcFdsaVl2aVIteGNUbFFxRzRsUjVPZW5IS2pmTzdka1JHME9WRHZtYVdsUWpWcXY5aGhoRVFGU2FlYTNZN1FQVElKVW93UGVHZ0VqU0JQUElVUnh4Zk9QcXdwV0hOU2lxUnFhSDAxVVlqaERJWVBnMG5fRG96WENSS1JrTXVmUDFSNVJXTlNRa1FyZE5RbVBiWFBKeXhZWk1WUzA0cUxXR2ZoOGpKSkxpMWsySTdRRkF2SGZIbFYwcjNUT2xKeExvOUl5MEZkZ2Mtc184aW1zanY?oc=5",
-      "publishedAt": "2026-08-21T00:00:58+00:00",
-      "heat": 44
     },
     {
       "id": "google-news-world-cup-news-fifa-referee-slams-handling-of-folarin-balogun-saga-yahoo-sports",
@@ -128,15 +104,27 @@
       "heat": 60
     },
     {
-      "id": "google-news-how-vicky-jepson-selected-the-roster-for-the-2026-fifa-u-20-women-s-world-cup-u-s-soccer",
+      "id": "google-news-how-vicky-jepson-selected-the-roster-for-the-2026-fifa-u-20-women-s-world-cup-us-soccer",
       "title": "维姬·杰普森 (Vicky Jepson) 如何选择 2026 年 FIFA U-20 女子世界杯名单 - 美国足球",
       "summary": "Vicky Jepson 如何选择 2026 年 FIFA U-20 女子世界杯美国足球队名单",
-      "originalTitle": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup - U.S. Soccer",
-      "originalSummary": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup  U.S. Soccer",
+      "originalTitle": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup - US Soccer",
+      "originalSummary": "How Vicky Jepson Selected the Roster for the 2026 FIFA U-20 Women’s World Cup  US Soccer",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMFM5UG1OanFxUXhPbW42ZUVveTU1aFhKTTJXckRRWmdoOW5JZ3Raa0FVLWg3U1Q5UEVsZU9qMmpBZWNBaEtYN09vN0RxTnAydGd3dXpMSkpCbGVEZXRCMXc4cVhyQXotb0FqeHhrd3pkaTNSQW5KRU9zdVk5d3doRDlZVGlib3BjYjRtUTg4d1Bsd3JRZXZfTzViSUIwdWd2aG9aMmg1SmJXZEFyY2luSw?oc=5",
       "publishedAt": "2026-08-20T21:27:07+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-norway-vs-france-preview-247sports",
+      "title": "2026 年 FIFA 世界杯：挪威 vs 法国前瞻 - 247Sports",
+      "summary": "2026 年 FIFA 世界杯：挪威 vs 法国预览 247Sports",
+      "originalTitle": "2026 FIFA World Cup: Norway vs France Preview - 247Sports",
+      "originalSummary": "2026 FIFA World Cup: Norway vs France Preview  247Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgZBVV95cUxONUU3V1RONklIOHRPNFdFUUNVZ2V0T0t6Nlg3UWtJUlRVRk5sMHdrMDZQME50eU15cV9tSTdyekFjTVZ2d05EM2lkRDRCYnIxeVpDd2JyNkxoRjlESEdmQzkxZFZuZGVCUUxaVHZZWnhpeXlVa0ttRlc5eTNVRHYySGlZVlhlVE1lR0l0VVJqSHo1Vy1pUWhuLTZ0TGVHU2ItTklDQXVEMFVzb2hXLV9Rb3ZqRUxyUmh0VEJWY2s3ekQ5YVMzNkZyQW5hSk9KSDFYSllodEUtRkJMTjlOLU0tcDVLR3ZLdjdNLXBXVUdiRGZ6MkpIZk1wT1N6TFYtT3F4S0tzWF9qX2RUZVk1VHlPZ0ZkN0xteU93WmZ4ZEV1WUtDNmxqS1A2QldxeEI2ZlgyQm5TNjMtR1RNc2RCNlFnQzQyMUFtR2xpRlo0Yl9fRmF6aGlQaUhFRzRCaEdmTVdVbEpoSkVKSkR0clR3TUx4NXBBOE1NU0l1emtoV19QSW8zd1ROcEdDWUlKeURwR01wamZTT2hyUnRLUGVpajJFWkMzYzNGSVE2NTFLTGtmTEE5WTlVcWQtXzdwME50RHVQM1lsS3JsTmZ1NmRYcTRib2kwWkFsUG1feXdkMUlsVFdfXzFqLV9yNzJBSFFIR29HdV9Ca2I4WTNjN2tfNmJCdm9EOUJESElFUFpscmtOalgzNEMtMkIza0d1dm0yck5KV2NabkIwOHVaSHpObkhKcTFNRGZ2aFFlQXdwUHJsWXRvUkJmR0huaXFYNWhGdWt4bEpWdThRemF3cUpKVU0tU2dpS2hpZ1pxSTM3dERnb0dKSWJYYTB2czdELUJ6djNGRGdRbXNwOTlVN3Y2bjZzNGtrOXNzYlhJSUlfUklUWExRN1Ric1pmMUNVS0d6Nkp2UmtJYTIwWHlOZmh0WnhodXV1TlR5LWdBdFZia21kSmlXUjhob3pJWE9UVjRWSVZYV0ZKNElscEpJeWxjODRyMVlnRFBNdlhkQ3V5OHRMRnp4ejdSbHc?oc=5",
+      "publishedAt": "2026-08-20T21:21:28+00:00",
       "heat": 60
     },
     {
@@ -164,27 +152,39 @@
       "heat": 60
     },
     {
-      "id": "google-news-le-mans-vs-brest-prediction-and-betting-tips-august-22nd-2026-sportskeeda",
-      "title": "勒芒 vs 布雷斯特预测和投注技巧| 勒芒 vs 布雷斯特2026 年 8 月 22 日 - Sportskeeda",
-      "summary": "勒芒 vs 布雷斯特预测和投注技巧| 勒芒 vs 布雷斯特2026 年 8 月 22 日  Sportskeeda",
-      "originalTitle": "Le Mans vs Brest Prediction and Betting Tips | August 22nd 2026 - Sportskeeda",
-      "originalSummary": "Le Mans vs Brest Prediction and Betting Tips | August 22nd 2026  Sportskeeda",
+      "id": "google-news-fifa-bank-of-america-partner-with-vet-tix-to-offer-free-world-cup-tickets-to-veterans-and-first-responders-t",
+      "title": "国际足联、美国银行与 Vet Tix 合作，向退伍军人和急救人员提供免费世界杯门票 - TicketNews",
+      "summary": "国际足联、美国银行与 Vet Tix 合作，向退伍军人和急救人员提供免费世界杯门票 TicketNews",
+      "originalTitle": "FIFA, Bank of America Partner With Vet Tix to Offer Free World Cup Tickets to Veterans and First Responders - TicketNews",
+      "originalSummary": "FIFA, Bank of America Partner With Vet Tix to Offer Free World Cup Tickets to Veterans and First Responders  TicketNews",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnJhYzhBMDgtTmFRTkI0ZEFEX1dFNHF2VUxtazY5NGVUNVlVVDBZZ0FPejRTMDdQOTZFNkt1OEJWbDBkbHFzYkh1c3VSOUYtRllMX1MtdjlMMVh4WG5ZczBZbXV3dy1KdkpDV25SeS1SSGc2dGxzNlNSMTBsUmp6TEJYY09BYnhjNkx0R3o2cUtDbWtGbUJNeWdR?oc=5",
-      "publishedAt": "2026-08-20T20:29:00+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPbWRSNUNBczRaMGZUMy14ZDFGbWJIZzQ2Z3VHN3h4UXgzNUp3MG5QWEY0UXV5NTNiTFNnWHFiRTQ3ZnQ3N00xNzBZeVRvY3RlNVdtZXBQVEc3UDRWZTdLQ0xKTElHT1lrTWE3VDItckpBWFhOak5NQWN2TzZYZlF0VUdjZkt2U3QwcktFTnRBS2lYN2lobnNOOHFOYU1oR0JEdkN5cGpmaXlSZHBkVmpWamRYT1JMclFZQTJoYzRIZThnN3BsVmJ6dExkM1c3MkUxMjZ0N3hwQkRVUQ?oc=5",
+      "publishedAt": "2026-08-20T20:17:50+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-brazil-s-livemode-was-a-big-winner-at-the-world-cup-now-it-s-coming-for-europe-s-biggest-leagues-tubefilter",
-      "title": "巴西的 LiveMode 是世界杯上的大赢家。现在，它即将登陆欧洲最大的联赛。 - 管式过滤器",
-      "summary": "巴西的 LiveMode 是世界杯上的大赢家。现在，它即将登陆欧洲最大的联赛。  管式过滤器",
+      "title": "巴西的 LiveMode 是世界杯上的大赢家。现在它即将登陆欧洲最大的联赛。 - 管式过滤器",
+      "summary": "巴西的 LiveMode 是世界杯上的大赢家。现在它即将登陆欧洲最大的联赛。  管式过滤器",
       "originalTitle": "Brazil’s LiveMode was a big winner at the World Cup. Now it’s coming for Europe’s biggest leagues. - Tubefilter",
       "originalSummary": "Brazil’s LiveMode was a big winner at the World Cup. Now it’s coming for Europe’s biggest leagues.  Tubefilter",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcEROM01waXU3ZW9iaElZVlRWS2ZkX05nd2Z5NHRDZW9NT1FCeG9ZVXNCbG92bUhUYTJYRklhU18tSG1WcDhyWlMtS3M2cUNTWFlYb1V6bWlyODI4M1pfeWJNUkJoTGRDS1dJNVRiVkxOZ1h3WmQ3eGdEZkdyQzludXFyemhyZDlHX3A3MmUway16eGk3ZlI0eUE5NnhWcTdtSGfSAacBQVVfeXFMTVNiOW1RUFJENVNRZFBvMFVodldrQXVkOThzUVNjR2c1RnA3WEoxeHlKa2pGZDM1TUdKQXBLY09Ed01ORzMyYW9tRXRJOElNb0xwdC1Hd1gxUVJId1FzQWtQWXYybnJZREZyQWYtR2tyLUdveGE1cHNBd1ZOVDVKVGZGZ213c0MxcDZuODdmLWlnbVA2Qk1iVUs2MW40ME5XeXNxOVB6MGc?oc=5",
       "publishedAt": "2026-08-20T20:00:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-iran-to-participate-in-2026-world-cup-confirms-fifa-chief-infantino-dd-news",
+      "title": "国际足联主席因凡蒂诺确认伊朗将参加2026年世界杯 - DD News",
+      "summary": "国际足联主席因凡蒂诺确认伊朗将参加 2026 年世界杯 DD News",
+      "originalTitle": "Iran to participate in 2026 World Cup, confirms FIFA chief Infantino - DD News",
+      "originalSummary": "Iran to participate in 2026 World Cup, confirms FIFA chief Infantino  DD News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOelc0clFsbTVwUzRhamYwczFzVnFlc3RaVGFHRGFQTG8wOXVMQkF6REtDeWlGU3VFT2NyM3ZCZkZ2blFLNDNWNGUtU2VrZG8zNHhYdEt3OS1TRU82ZUxmX1N6amtUTXVHdzJMMk0wLU1LOG9SWnpxazFvcGc3U1BINFc4RkZhbVJBTE5ObnV3M2lKX1FFLXBPLQ?oc=5",
+      "publishedAt": "2026-08-20T19:12:39+00:00",
       "heat": 60
     },
     {
@@ -200,20 +200,8 @@
       "heat": 60
     },
     {
-      "id": "google-news-norway-s-viking-row-took-over-the-world-cup-here-s-how-the-viral-fan-tradition-began-yahoo-creators",
-      "title": "挪威的 Viking Row 接管了世界杯——这就是病毒式粉丝传统的开始 - 雅虎创作者",
-      "summary": "挪威的维京街 (Viking Row) 接管了世界杯——病毒式粉丝传统是如何开始的 Yahoo Creators",
-      "originalTitle": "Norway's Viking Row took over the World Cup — here's how the viral fan tradition began - Yahoo Creators",
-      "originalSummary": "Norway's Viking Row took over the World Cup — here's how the viral fan tradition began  Yahoo Creators",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPOFZfVTRpeEFJcHRSZksxU19ZU09ZNlo5cnJjT0FXdlh4aE1fSWhlcTZnLXNWem1sY3dpMHN4eFhURFhrV0dueElZTXRtQi1XV0JfRmtxWGNCNkE1M251Y1pIWmhrVWNpWmpMQ1lINFBOMjZyUXZFdDlDdERWWXJKcWpYQXd1TW5yU3FvSWVDbm1EWUxVSFFfcjFJbl9ncmtCYUxlNXd0Und6YmVlcG83ZmE1RTJLbS1FWFJCOVotOUVPaWpMMDkxbTRvWkZHY3RFaWVsaVROT0w?oc=5",
-      "publishedAt": "2026-08-20T18:47:18+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
+      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
       "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
       "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
@@ -221,6 +209,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
       "publishedAt": "2026-08-20T18:33:14+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-mexican-loses-293k-air-passengers-in-june-2026-despite-world-cup-mexico-business-news",
+      "title": "尽管举办世界杯，墨西哥 2026 年 6 月仍损失 29.3 万名航空乘客 - 墨西哥商业新闻",
+      "summary": "尽管举办世界杯，墨西哥在 2026 年 6 月仍损失了 29.3 万名航空乘客 墨西哥商业新闻",
+      "originalTitle": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup - Mexico Business News",
+      "originalSummary": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup  Mexico Business News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajgzVmg5RnBKZHBlaTFNc0Zrd0sxUHZaZllVN1pkWld4MS1vOTNGOElsclhJakw2Ukd6OTBSSzctbDNUY1FSRFIyZ1hMc1JRYk15dFVwNTdCRWVtcnkxSG0waUdlRGhXWWhPZTd2TW45bWRDZ1BEeDdqVGVlakpkYnZOVVotR2tOUk1McGM5RFFuQURZWUVYTHFTb25zdHVLZTVxb3Nacw?oc=5",
+      "publishedAt": "2026-08-20T18:32:27+00:00",
       "heat": 52
     }
   ]
