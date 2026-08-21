@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T03:08:06.739242+00:00",
+  "updatedAt": "2026-08-21T04:11:10.038617+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-the-houston-template-how-fifa-world-cup-2026-set-a-new-standard-for-host-city-legacy-isportconnect",
+      "title": "休斯顿模板：2026 年 FIFA 世界杯如何为主办城市遗产设定新标准 - iSportConnect",
+      "summary": "休斯顿模板：2026 年 FIFA 世界杯如何为主办城市遗产设定新标准 iSportConnect",
+      "originalTitle": "The Houston Template: How FIFA World Cup 2026 Set a New Standard for Host City Legacy - iSportConnect",
+      "originalSummary": "The Houston Template: How FIFA World Cup 2026 Set a New Standard for Host City Legacy  iSportConnect",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZjhrX1JrNlpoOVBLZmdOLVM0dnFUTUJ5eU1xR01wNFRrcTMwdW5VVmtHUFpRNERaZWFXYmhlVDhmVHJIbkNtTVdhZXZGUWNJR2tEQzlHbjBrdl91OWtwaUJ3MmZSLUV0emdJZzVnc0V0ZEhSWXRjd0dkUHBENVNyQkFhVjBxcGd4TUdWVXU0QXdOWUJ5anpYeGdvZFEzREs5QkM0UHpnTHo0ZWxwcDdPYmdNUUI2Zw?oc=5",
+      "publishedAt": "2026-08-21T03:13:58+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-2026贵阳-城超-购票通道开启-超多福利即将上线-finance-sina-com-cn",
       "title": "2026贵阳“城超”购票通道开启！超多福利即将上线→ - finance.sina.com.cn",
@@ -20,8 +32,32 @@
       "heat": 44
     },
     {
+      "id": "google-news-this-is-how-much-hugo-broos-bafana-stars-will-earn-from-r218-million-fifa-world-cup-bounty-iol",
+      "title": "这是雨果·布罗斯和巴法纳球星将从国际足联2.18亿兰特世界杯奖金中获得的金额 - IOL",
+      "summary": "这是 Hugo Broos 和 Bafana 球星将从国际足联世界杯 2.18 亿兰特的奖金中获得的金额 IOL",
+      "originalTitle": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty - IOL",
+      "originalSummary": "This is how much Hugo Broos, Bafana stars will earn from R218 million Fifa World Cup bounty  IOL",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPQzI5WlduU2prNkRPMEFVaVk5WElvN2R5Wk5Pc1RMNU85VVdiMzJ2TkJWZW5MbzVWZWVrUE9GZXVvTzUxbHVjUGlYN2J1bHhLXzM0NHZ6WC1LS0JiVVY5ckV6QUtiSEdTWmRLNEdCN1NKVllva0lYMmxUdnl6NHdXc25wQjNPQkZtU05ySlZfTHVHTTI3akdZcnAzYllsYnhpU3lkTmxqbzd1Ym5CemFZNkRUSDBwVnhCckR0MnZzeUVXWXVsa3piQkN5VkI2UVFNa18xc2RiUQ?oc=5",
+      "publishedAt": "2026-08-21T01:49:50+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-spain-dominates-france-advances-to-world-cup-final-tassi-bce-33oq6foosx-mshale",
+      "title": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX) - Mshale",
+      "summary": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Tassi Bce (33oQ6foOsX)  Mshale",
+      "originalTitle": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Tassi Bce (33oQ6foOsX) - Mshale",
+      "originalSummary": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Tassi Bce (33oQ6foOsX)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9UUlJWT3FCQ0NKcHZRdm53MDlLdTdOYnY4dEFuMjdJbnduVWotZjU2VGRiOUpISWFDTkFLVVhNM0EtTWNTS012a3RvOWI3Yk9hWWhHUmlkM1BONTY1RFVRUA?oc=5",
+      "publishedAt": "2026-08-21T01:37:00+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-grant-johnson-revelations-raise-questions-over-bafana-bafana-s-world-cup-camp-ewn",
-      "title": "格兰特·约翰逊的爆料引发了对巴法纳世界杯训练营的质疑 - EWN",
+      "title": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 - EWN",
       "summary": "格兰特·约翰逊的爆料引发了对巴法纳·巴法纳世界杯训练营的质疑 EWN",
       "originalTitle": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp - EWN",
       "originalSummary": "Grant Johnson revelations raise questions over Bafana Bafana’s World Cup camp  EWN",
@@ -29,6 +65,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObGdYaFZVVGdLdUpVS1VpVTh3UmNobTQxWFViYXNLT1ROaVJiblBZa3pKdEMwX1llVWdkdHVsS3RBclZuRnhHNEtmMHlwdzAtSGhQaWk5b1dTMHZqM1JHcXFrbkxOamlPVldiSGJ3YWxFYmpqcTJ3ZWlzcFlCem4zX0pyS0stbmh2WkxXNG9JTEVtcTJJVVR6d1pxaURvU01vVnc?oc=5",
       "publishedAt": "2026-08-21T01:07:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-coca-cola-kicks-off-2026-world-cup-trophy-tour-12-18-2025-mediapost",
+      "title": "可口可乐开启 2026 年世界杯奖杯之旅 2025 年 12 月 18 日 - MediaPost",
+      "summary": "可口可乐开启 2026 年世界杯奖杯之旅 2025 年 12 月 18 日 MediaPost",
+      "originalTitle": "Coca-Cola Kicks Off 2026 World Cup Trophy Tour 12/18/2025 - MediaPost",
+      "originalSummary": "Coca-Cola Kicks Off 2026 World Cup Trophy Tour 12/18/2025  MediaPost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNbjZGTV9QdVpxTmN3YWQ1NGtLbmRmU1o4dFlUNlQ3ZFRsaEItM0tKeGJDdmhxSGxhMmFxd1doM0dwT0xXTmh0dHJHQ3EtQ045WDZyYTc2ZzF1LWJ5SG1oUWZuODBMWFE3MmhtdDRHa25iUm9KSXQwNnZSZzhzY1BvZXlZdFlXX1lCTkcwUEJCbGZWNTUtZ0N3a2ZxdUlJVzFLbmdhU2U1VkdmdUk4dkE5UWlqUUY?oc=5",
+      "publishedAt": "2026-08-21T00:51:41+00:00",
       "heat": 52
     },
     {
@@ -104,6 +152,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-texas-ag-joins-scrutiny-of-fifa-world-cup-ticket-sales-after-seat-map-pricing-complaints-ticketnews",
+      "title": "座位图、定价投诉后，德克萨斯州股份公司加入对 FIFA 世界杯门票销售的审查 - TicketNews",
+      "summary": "座位图、定价投诉后，德克萨斯州股份公司加入对 FIFA 世界杯门票销售的审查",
+      "originalTitle": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints - TicketNews",
+      "originalSummary": "Texas AG Joins Scrutiny of FIFA World Cup Ticket Sales After Seat Map, Pricing Complaints  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUThqbkpTM3Jrd2ZHSEdoNTJHUDB6V2RtYnphMkwwSUpGa3dGdUlGX0tYSFlqMm5oMVY1eUFPbmppTjUtdHRQZmJYdUpnV2xpa0ppYWdFLU85QWc1cEVOZHkxSzd0Y0tmSW1iNjRZNWdPMWhmWU51U1lBYTJ6a2hldUp1cFlxd0FXdWs3eXd4LXVGRzJKQi1yZ3dtYmlPUVRMbmtIMTktbGtpc2dyWlllNUFqVEFEWTRodXRlZ3VKaHNhQQ?oc=5",
+      "publishedAt": "2026-08-20T21:01:13+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-le-mans-vs-brest-prediction-and-betting-tips-august-22nd-2026-sportskeeda",
       "title": "勒芒 vs 布雷斯特预测和投注技巧| 勒芒 vs 布雷斯特2026 年 8 月 22 日 - Sportskeeda",
       "summary": "勒芒 vs 布雷斯特预测和投注技巧| 勒芒 vs 布雷斯特2026 年 8 月 22 日  Sportskeeda",
@@ -117,8 +177,8 @@
     },
     {
       "id": "google-news-brazil-s-livemode-was-a-big-winner-at-the-world-cup-now-it-s-coming-for-europe-s-biggest-leagues-tubefilter",
-      "title": "巴西的 LiveMode 是世界杯上的大赢家。现在它即将登陆欧洲最大的联赛。 - 管式过滤器",
-      "summary": "巴西的 LiveMode 是世界杯上的大赢家。现在它即将登陆欧洲最大的联赛。  管式过滤器",
+      "title": "巴西的 LiveMode 是世界杯上的大赢家。现在，它即将登陆欧洲最大的联赛。 - 管式过滤器",
+      "summary": "巴西的 LiveMode 是世界杯上的大赢家。现在，它即将登陆欧洲最大的联赛。  管式过滤器",
       "originalTitle": "Brazil’s LiveMode was a big winner at the World Cup. Now it’s coming for Europe’s biggest leagues. - Tubefilter",
       "originalSummary": "Brazil’s LiveMode was a big winner at the World Cup. Now it’s coming for Europe’s biggest leagues.  Tubefilter",
       "translation": "online",
@@ -141,7 +201,7 @@
     },
     {
       "id": "google-news-norway-s-viking-row-took-over-the-world-cup-here-s-how-the-viral-fan-tradition-began-yahoo-creators",
-      "title": "挪威的维京街 (Viking Row) 接管了世界杯——这就是病毒式粉丝传统的开始 - 雅虎创作者",
+      "title": "挪威的 Viking Row 接管了世界杯——这就是病毒式粉丝传统的开始 - 雅虎创作者",
       "summary": "挪威的维京街 (Viking Row) 接管了世界杯——病毒式粉丝传统是如何开始的 Yahoo Creators",
       "originalTitle": "Norway's Viking Row took over the World Cup — here's how the viral fan tradition began - Yahoo Creators",
       "originalSummary": "Norway's Viking Row took over the World Cup — here's how the viral fan tradition began  Yahoo Creators",
@@ -153,7 +213,7 @@
     },
     {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
+      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
       "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
       "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
@@ -161,66 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
       "publishedAt": "2026-08-20T18:33:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mexican-loses-293k-air-passengers-in-june-2026-despite-world-cup-mexico-business-news",
-      "title": "尽管举办世界杯，墨西哥 2026 年 6 月仍损失 29.3 万名航空乘客 - 墨西哥商业新闻",
-      "summary": "尽管举办世界杯，墨西哥在 2026 年 6 月仍损失了 29.3 万名航空乘客 墨西哥商业新闻",
-      "originalTitle": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup - Mexico Business News",
-      "originalSummary": "Mexican Loses 293K Air Passengers in June 2026 Despite World Cup  Mexico Business News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOajgzVmg5RnBKZHBlaTFNc0Zrd0sxUHZaZllVN1pkWld4MS1vOTNGOElsclhJakw2Ukd6OTBSSzctbDNUY1FSRFIyZ1hMc1JRYk15dFVwNTdCRWVtcnkxSG0waUdlRGhXWWhPZTd2TW45bWRDZ1BEeDdqVGVlakpkYnZOVVotR2tOUk1McGM5RFFuQURZWUVYTHFTb25zdHVLZTVxb3Nacw?oc=5",
-      "publishedAt": "2026-08-20T18:32:27+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-2026-ready-tns-scores-major-fashion-goals-ahead-of-bafana-bafana-opener-iol",
-      "title": "2026 年世界杯已做好准备：TNS 在 Bafana Bafana 揭幕战之前取得重大时尚进球 - IOL",
-      "summary": "2026 年世界杯已做好准备：TNS 在 Bafana Bafana 揭幕战之前取得重大时尚进球 IOL",
-      "originalTitle": "World Cup 2026 ready: TNS scores major fashion goals ahead of Bafana Bafana opener - IOL",
-      "originalSummary": "World Cup 2026 ready: TNS scores major fashion goals ahead of Bafana Bafana opener  IOL",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNaWtuenhWQVJzOHdaRUdiTkJVMmxfNklSZndzYzlTVDVDUG5JWGdaaG8yMGV6ZXFQNWVKU0t0ZWJEUjJmVHlaczlZZ1JaRlRhNlN1QWo0OC1mejJISWpPNGgtcFJQekdWeEdVaV9ldS1FbzhEblFoWm1lSUNHd1kwVTBxbVloYmU0LW9ROWtEVGJmOHY2aXJLSUs3cDVtNExkWVo0RXlvd0xKOGdzdGQ2Mw?oc=5",
-      "publishedAt": "2026-08-20T18:27:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-food-and-drink-discounts-during-world-cup-where-soccer-fans-can-score-freebies-and-deals-at-restaurants-bars",
-      "title": "世界杯期间的食品和饮料折扣：球迷可以在餐厅、酒吧等场所获得免费赠品和优惠 - ABC 新闻 - 突发新闻、最新新闻和视频",
-      "summary": "世界杯期间的食品和饮料折扣：球迷可以在餐厅、酒吧等场所获得免费赠品和优惠 ABC News - 突发新闻、最新新闻和视频",
-      "originalTitle": "Food and drink discounts during World Cup: Where soccer fans can score freebies and deals at restaurants, bars and more - ABC News - Breaking News, Latest News and Videos",
-      "originalSummary": "Food and drink discounts during World Cup: Where soccer fans can score freebies and deals at restaurants, bars and more  ABC News - Breaking News, Latest News and Videos",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMWoxVDNxN1hnMHBITnRSVFMyWmh5cmRpOGhReHh6SjJ0cHE3X29mdmZabU5BTVpudDJSVDNlS1o2U3V5cWRPdnVuRmYwTi1YNTNaa3ZDVHlQMC1XZS1ZS2MxRllZb3FhNzNFRUZhcEFlS0E5TUlHU19zRkQwZmk5OHJSRzlBcFN5SVYwVVlMZG9FaGRTX1FnZ2FFWdIBoAFBVV95cUxQQ081TDlmcnRUaHpUNUo0aE53SzF1LTh1TUhGeExkZWd5OXJuT2ZGd3lLb3NqdWQzc09FRC1aSEtsaDZkUV9BNXBaZDRvRDEtMXZEd0FMVkFxQUYwY0h0RUxpSU9kUkZTT1ktRF82WkdYN2VPVGhHMXM3QlJ6RkpUNlFsc000V3F6VTRrQWd6WXFHNVN0T0w2bzAwNjJZUmIw?oc=5",
-      "publishedAt": "2026-08-20T18:07:38+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-tens-of-thousands-flooded-into-canada-for-the-world-cup-travel-data-shows-yahoo-finance",
-      "title": "旅游数据显示，数万人涌入加拿大观看世界杯 - 雅虎财经",
-      "summary": "雅虎财经旅游数据显示，数万人涌入加拿大观看世界杯",
-      "originalTitle": "Tens of thousands flooded into Canada for the World Cup, travel data shows - Yahoo Finance",
-      "originalSummary": "Tens of thousands flooded into Canada for the World Cup, travel data shows  Yahoo Finance",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2xDZFI4cDE0c2p4TEQ4UTBzcGhXNkdXcl90cUJPVmdyaXlzeVl6cHRERmFTU0JicUl4WmpmcXZhb1pwT055NDBfdXVIaHRHQkxIWUMzcGJjOVJyZHBJMFhURVZoQVNvb2IxNnphcm1qNXJlaE10dlBoazk0TWlTRUZwSVhQbnVy?oc=5",
-      "publishedAt": "2026-08-20T17:48:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-india-hockey-world-cup-schedule-2026-dates-results-points-table-and-squad-for-fih-men-s-tournament-sportingn",
-      "title": "2026 年印度曲棍球世界杯赛程：国际曲棍球联合会男子锦标赛的日期、结果、积分表和阵容 - sportingnews.com",
-      "summary": "2026 年印度曲棍球世界杯赛程：国际曲棍球联合会男子锦标赛的日期、结果、积分表和阵容 sportingnews.com",
-      "originalTitle": "India hockey World Cup schedule 2026: Dates, results, points table and squad for FIH men's tournament - sportingnews.com",
-      "originalSummary": "India hockey World Cup schedule 2026: Dates, results, points table and squad for FIH men's tournament  sportingnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQQ0g3bkxTdjBNU191cm9Na3VtSVh5Ml84Z2tJYUlOTHdPZlVobm1IVFFPbjc1aWY0ckhMZHduc1V4M2c4MGFZbHRlOERHejhlUFFocGdJdWllNXBFcHhtdHA5R19FTFNPSzU3b1hTUG1UV1Frc1dxZUVveXJIQTMyaHNIVm9nTjFrb3JHTjIweFUwTmhGdXBEcGl3MTJCbmpxUXpEZnQxaktUVHdFSHFwWVRhQjNUN1Z1eW0xdnh6dGJwSC1jM2dxN3N6TTA1aTFwWUJVTkg4cw?oc=5",
-      "publishedAt": "2026-08-20T17:47:00+00:00",
       "heat": 52
     }
   ]
