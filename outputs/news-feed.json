@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T22:54:51.799863+00:00",
+  "updatedAt": "2026-08-21T23:28:24.061675+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-suspends-paredes-10-matches-fines-argentina-for-world-cup-final-brawl-chosunbiz-chosunbiz",
+      "title": "FIFA暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ - Chosunbiz",
+      "summary": "国际足联暂停帕雷德斯 10 场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
+      "originalTitle": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ - Chosunbiz",
+      "originalSummary": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ  Chosunbiz",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uOTBxLW9kWjJEZ2kxSXZfMDBpM2RyVzNCMmM2UHpjd3dJNEZ2MlJCNXo3VzVydnFRYnp4MmpTV2FudDd4eGdRSHVtRTJXOGlqWkoxVUpMMVh2Y0JSUFQ4Rk5haHRZN1A0TmJxNS1Dei1ld3dnMC1PMkFQNlU0T0XSAZMBQVVfeXFMTWpyUXdZSUEtWmRNcmw1dFpvaFpjbmh6MTFoOThqTG4taVRYcFlCOTVwZW9tSS1PalctUllhSkJ2Q2lOcjB3OE1oY2k1dE1LQ1IyWjdSZWpxNEdZTUpNRnN0WXhNNGxVTmFqSWJjc3ZSZDNMenNmclFTNm0wZjY2RDBHZVdZdE56ZkJyWmhPQ3htWGg0?oc=5",
+      "publishedAt": "2026-08-21T23:00:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-suspends-paredes-fines-argentina-for-world-cup-misconduct-조선일보",
+      "title": "国际足联因世界杯不当行为对帕雷德斯停赛并罚款阿根廷 - 조선일보",
+      "summary": "国际足联因世界杯不当行为对帕雷德斯停赛并处以罚款",
+      "originalTitle": "FIFA Suspends Paredes, Fines Argentina for World Cup Misconduct - 조선일보",
+      "originalSummary": "FIFA Suspends Paredes, Fines Argentina for World Cup Misconduct  조선일보",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNS1vNHAxSFRPRXFZVkd2R2tsMDU1QXN3UlpaZHdqSWNRZVg5dEJld09xVlhJZDhlM2dYQlZhbkQ5eU9aaE1uQzdBcEFFVEhjVzhyTHhwbUJVc2d4WFhMcmozMEdObGNxTVZJWnlWU29nVWVZUzctTklDNnE5S3dvY0JNNFYyQQ?oc=5",
+      "publishedAt": "2026-08-21T22:59:37+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-fifa-hands-argentina-stars-massive-bans-after-world-cup-final-brawl-newswire",
       "title": "世界杯决赛斗殴后国际足联对阿根廷球星实施大规模禁赛 - 新闻专线",
@@ -18,6 +42,18 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm5xMjl5bFBWeVZNSk1wYjlSRl9HV2lYZG91TDNvdy1LcnBEYVpIUDdERFRxSlR1RThXTDIwbjlaWXJCRzdwY3U5aFJuMTRQN3loWG1QNWplNG1Mbi1pdU5sWTRpWDlRUHV2em92Q3JJbVpMb19YbDB3bFg3a01KSG05RkVvTExJeHA0YlZ1TGRpUjBWQ1k2YWVZamhWcFZwNDRtdTVR?oc=5",
       "publishedAt": "2026-08-21T22:20:39+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-opinion-my-2026-world-cup-experience-lionsroarnews-com",
+      "title": "意见 |我的2026年世界杯经历 - lionsroarnews.com",
+      "summary": "意见 |我的 2026 年世界杯经历 lionsroarnews.com",
+      "originalTitle": "OPINION | My 2026 World Cup experience - lionsroarnews.com",
+      "originalSummary": "OPINION | My 2026 World Cup experience  lionsroarnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVlqTFBFRmd6RTNrd2JYY2ZXMTg0U3VmTXJFVWFaWFNYMDlDQkJpZ05BX2NnelpnRi1reXV1UWhXMF94UUVfNndGa3MxeTFDNWVBdllzMEx2QTlOcGJ1bzB3dEhmbjZTYXRhUXQwTEtBWks5TFVUZzJjTFJibVZDUGhn?oc=5",
+      "publishedAt": "2026-08-21T21:40:33+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-cristiano-ronaldo-scores-for-al-nassr-in-first-game-since-2026-world-cup-fox-sports",
@@ -130,13 +166,25 @@
     {
       "id": "google-news-fifa-hands-paredes-10-match-ban-molina-seven-after-world-cup-final-clash-morocco-world-news",
       "title": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 - 摩洛哥世界新闻",
-      "summary": "国际足联对帕雷德斯禁赛 10 场，莫利纳在世界杯决赛后七场禁赛 摩洛哥世界新闻",
+      "summary": "世界杯决赛后国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 摩洛哥世界新闻",
       "originalTitle": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash - Morocco World News",
       "originalSummary": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash  Morocco World News",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjZhdXUwQ1lxME1QQThNSzlZVUt1VWJYRDNZTEFid2VJZDZEUW05ZGpjUjJRbUk3eDM1TDkycEtKcWhMY1BrOVJRNDE0VXI0YjBxWkc1VVFKY2tHWmRkSEMtZXpLUjNmbjRVQ3N3VEF4WHdpV05iVUZZck90WmVTMkdCM3YybnZMSHJXaDVFS1dybWFlZktTRG1uVHZnbVRxWndrYVQtWXo4cXFERVFYNUhldDJPWkUza19TQUhR?oc=5",
       "publishedAt": "2026-08-21T19:58:13+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-hands-paredes-10-match-ban-90-000-fine-over-world-cup-final-clash-with-spain-players-peoples-gazette-ni",
+      "title": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛10场并罚款9万美元 - 尼日利亚人民公报",
+      "summary": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛 10 场并罚款 90,000 美元",
+      "originalTitle": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players - Peoples Gazette Nigeria",
+      "originalSummary": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players  Peoples Gazette Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmoxei1lVURhYTY3S1VKU1VDRi1MUTVBWlZMMjUtQ3YzXzNrWXZQRG9GQVhJZlcxS0podDhkMngyUGNXMGM4ZXdJQk8wcGRTTm5la3VhTEhRSmVoc2M3V25UUUpQNGhXSFhjM3RBOEhvOWJXSzYzVVhZeE91ZHUtV2xUQktJU01kR3FiZWl3RW9ZNzVIZTE2TDYzMlhidlVfR3hfUW51Z3haWnk5d1ZfU3dR?oc=5",
+      "publishedAt": "2026-08-21T19:55:12+00:00",
       "heat": 60
     },
     {
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVlVZXZNZkE4NXRQZzZ5VHNIV1hzUzVSV0VmZzFfdVNQNXYzaVgtb25qcnlNUDVUVHlpV2NVVGx4Mm1OZmFCOTd5aDRmVlBWZndxbnZUYndhby1tRlNONWZQRnBmYVI1S3FIWmd0UWNZM3hoeWRUb1M2cFhBd1VXS2RZN2lNby1fX25vZk9QbWk5SmtudEYwNFVReHVhZjZxTWdRcmtXQ3VzNHgxMWdzOUVQSFY?oc=5",
       "publishedAt": "2026-08-21T19:19:53+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-paredes-banned-for-10-games-after-world-cup-final-fracas-argentina-fined-reuters",
-      "title": "世界杯决赛争吵后帕雷德斯禁赛10场，阿根廷被罚款 - 路透中文网",
-      "summary": "世界杯决赛争吵后帕雷德斯被禁赛 10 场，阿根廷被罚款 路透",
-      "originalTitle": "Paredes banned for 10 games after World Cup final fracas, Argentina fined - Reuters",
-      "originalSummary": "Paredes banned for 10 games after World Cup final fracas, Argentina fined  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQWlBpR2t3SUZ6Q25IYUd6ZWNVc2xtOW9EN2lrTEM5VGhlcGlIZWtyNHpfN0FxcE9kdU1ES2tfaG5KVk9Hejc2MzBTdUltRFgyTFJ2QVJKcEtIdmc5dDJSd0hSREVRblF4T3dHMUh5NEtHcEp5RDJaNDhEMllDOHM1NUpOTDZUXzdRSS12VFpIX0NuWUJsbTQ4d0tkUjVRMUNYQzZHVkkzZWprY1VYTUVzQ3JQZF9QNUY4UGc?oc=5",
-      "publishedAt": "2026-08-21T18:56:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-encyclopedia-britannica",
-      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
-      "summary": "世界杯经济学|门票价格、收入、成本和社会影响 大英百科全书",
-      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Encyclopedia Britannica",
-      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Encyclopedia Britannica",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "publishedAt": "2026-08-21T18:55:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-hits-argentina-with-major-suspensions-and-321-000-fine-modern-ghana",
-      "title": "FIFA 对阿根廷进行重大禁赛并罚款 321,000 美元 - 现代加纳",
-      "summary": "FIFA 对阿根廷进行重大停赛并处以 321,000 美元罚款 现代加纳",
-      "originalTitle": "FIFA Hits Argentina With Major Suspensions and $321,000 Fine - Modern Ghana",
-      "originalSummary": "FIFA Hits Argentina With Major Suspensions and $321,000 Fine  Modern Ghana",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5GOTB0c2xZY0VlSGZZUTM5VmVPTlFIYWtWR0VBeTRvcGx3aklQbmNOa2JVVU41Z0ktQTJwVFdTczhVT2M3QVNhLW1ZSTNDOFhiTExNZ3p1TmQ4R3dn0gFcQVVfeXFMTkY5MHRzbFljRWVIZllRMzlWZU9OUUhha1ZHRUF5NG9wbHdqSVBuY05rYlVVTjVnSS1BMnBUV1NzOFVPYzdBU2EtbVlJM0M4WGJMTE1nenVOZDhHd2c?oc=5",
-      "publishedAt": "2026-08-21T18:55:20+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-suspends-leandro-paredes-for-10-games-over-world-cup-final-clash-asaba-metro-news",
-      "title": "国际足联因世界杯决赛对莱昂德罗·帕雷德斯停赛 10 场 - Asaba Metro News",
-      "summary": "FIFA 因世界杯决赛冲突而对莱安德罗·帕雷德斯停赛 10 场 Asaba Metro News",
-      "originalTitle": "FIFA Suspends Leandro Paredes for 10 Games Over World Cup Final Clash - Asaba Metro News",
-      "originalSummary": "FIFA Suspends Leandro Paredes for 10 Games Over World Cup Final Clash  Asaba Metro News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNjZTRWt4S3NYY19Zc09IMFJ4NEkwTVRvVHVmdXZRZFJKZnp2MlpqSXN0V211WWMtbnZhV0RSLW51RW1iTUczamFSYVBsTEVPaTlLS2w1WVBvaVFCZUFEbUt1WC1VRF9YZDB6dXZEWm5aTWtIRXg1dDUwc3FzNTl4OW0ySWVsTHN3QVdiWg?oc=5",
-      "publishedAt": "2026-08-21T18:53:30+00:00",
       "heat": 60
     }
   ]
