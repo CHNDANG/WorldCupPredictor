@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T06:48:28.334872+00:00",
+  "updatedAt": "2026-08-22T07:35:31.689086+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-阿媒记者-fifa对阿根廷的处罚不公平-加维只被禁1场-贝林没被罚-zhibo8-cc",
+      "title": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚 - zhibo8.cc",
+      "summary": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚  zhibo8.cc",
+      "originalTitle": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚 - zhibo8.cc",
+      "originalSummary": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚  zhibo8.cc",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1QWEtfRERSNjlYTGVNaTNHaW50eW95TDZkWUpmNk9XUV9IYk5kQjF5RXEyX0F3VXl0djFDSmRuUXlwMVd0Q0JocTF5ajhrRGFZcEFNTV9DbDdzM2w5MWZKQ0FGUkRab2pUckR2dXRmLVZabjBFdGkxeA?oc=5",
+      "publishedAt": "2026-08-22T07:28:14+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-bad-news-for-lionel-messi-and-argentina-after-fifa-world-cup-2026-final-loss-they-have-been-banned-india-com",
+      "title": "2026 年 FIFA 世界杯决赛失利后，梅西和阿根廷队的坏消息是，他们已被禁赛…… - India.com",
+      "summary": "2026 年 FIFA 世界杯决赛失利后，梅西和阿根廷队的坏消息是，他们已被禁赛...... India.com",
+      "originalTitle": "Bad news for Lionel Messi and Argentina after FIFA World Cup 2026 final loss, they have been BANNED… - India.com",
+      "originalSummary": "Bad news for Lionel Messi and Argentina after FIFA World Cup 2026 final loss, they have been BANNED…  India.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQYUlTNUk1NVB5dEFpTHZ1NzREd1lDUW0tY2REUy1Ebl9GRnBhRTJQTEhVamtuQnpyMjdIWW0xMFFlS011MHpQU1pabzVDbW9MN3JmeVh5bi1jRjdUMWFPNGV0ekxYZ3lwN0ZXMTNWeDZJR09Qd1RJVnFGckFCenlUV3dabkdWdmtOY2Z3U0VDa2ZYY3BIZWFyNXJXcUpmZURLYW9WVTloQlJRWmd1d3ZralJpVGZhX2I3dEh2RmJMcmVVd0k2d0U0ejdpdDJvSjZSTlHSAdcBQVVfeXFMTjhkcnhacWxDeFNhVUJTYUtBZTFWVm8takJrMXp6b1IyaXQzRlJDRHE1M3dqdXhuczZUcWZKZFRmcGtxVEs1ekVlOE9NbTVZNXVUQzlBV0VvcTJ6NlVuWHYxdlE3eVd6Q3YxejNPYjZmZmJZbEpoY0hCYUFEYnZNZXQzai1TYm9HMnNtaUUtNTdWb05Nckp5eHNtVERZdFRoWnRQSnBzR1JjR3BDX1U1Y3FkQU5Zb3o0X05NWDR4MGEwUGxwN01tUUV2QlNKMW9YMHgxZnVtRmc?oc=5",
+      "publishedAt": "2026-08-22T07:19:44+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026-the-peninsula-qatar",
       "title": "国际足联纪律委员会对 2026 年世界杯发生的事件实施制裁 - 卡塔尔半岛",
@@ -164,6 +188,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-soccer-fans-launch-global-petition-urging-fifa-boss-infantino-to-resign-over-world-cup-betrayal-newsnation",
+      "title": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职 - NewsNation",
+      "summary": "球迷发起全球请愿，敦促国际足联主帅因凡蒂诺因世界杯“背叛”而辞职",
+      "originalTitle": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ‘betrayal’ - NewsNation",
+      "originalSummary": "Soccer fans launch global petition urging FIFA boss Infantino to resign over World Cup ‘betrayal’  NewsNation",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOY2lPOXpsQzRFM0tMSlEydFZmTDZUQXBncHYzdGRKRXZJMnBndDRMT2tRMmp1cThQb1VTWDBtTDg3cVVCUFJZQUhZc3RQa0dyckc0bFRWeXV6a1NWTnpnTkQwYURPanI5M1dqdTVPNzRSTjhjZUhoNjg0NWJLUjRFNV9TaTNUWXFOS2t0TTlyN0pOd1d5VXNTVWVtS25vdlMxbGk2T1RrSHlJeFA5LW9GcVV5MWNZdm5qZGpLUUxQODZwa2ppanZwNVU0cG9ocDJEWERNaFZTV1d2ZjZVT0NYeXkzTzlfbG5NNkNZNW1Zb1V1dFnSAfgBQVVfeXFMUHRPVWR5OE5ZLV9FMFA2MmJVY1V0WU1hR1VKODFZeHRDbWYyMkNfZlhLaVFlLTc3ZXkyNE5vUWV5NWNpRHNsanhKakNCZkgtX1htZDhOOTdDY3pUQWV0a2tjZkVEUkxfbTBuXzhZNlF6MG9TX2lUN3J0VExnUDdSbU5IYU9uQnZXWXkwejNTcnB5ZUZpU3RndU9VVGMtcHpvYTlnSTRuRVpwM01wTHppbW5PQ19TWGNJeVAtWnd4SFlJQ0xPZTFIZ2RWM3pQVW5pMjRHbFNKTmJTalE3MFpiV09IUEVEVXlCM1BnMkhzNWJzc05uZzVTbEQ?oc=5",
+      "publishedAt": "2026-08-22T02:50:03+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifa-hands-paredes-10-match-ban-90-000-fine-over-world-cup-final-clash-with-spain-players-peoples-gazette-ni",
       "title": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛10场并罚款9万美元 - 尼日利亚人民公报",
       "summary": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛 10 场并罚款 90,000 美元",
@@ -186,42 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xUjZoVUVPWEQxMkpxUDlHQlE2Vjg5OWF4M1FJV1RuU2ZCUXRZUVBhS1ZUTDEwd1pEVGxrTks0U25vRFNKV1Q1aUx2SVIwR2VmWEVkTHVFa1FGLUc0a3dsdktneVFMUQ?oc=5",
       "publishedAt": "2026-08-22T02:18:41+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-panorama-la28-sells-two-million-tickets-in-second-sale-period-mediterranean-games-open-fifa-penalizes-argent",
-      "title": "全景：LA28第二期售出200万张门票；地中海运动会开幕；国际足联因世界杯恶作剧对阿根廷进行处罚 - 体育观察家",
-      "summary": "全景：LA28第二期售出200万张门票；地中海运动会开幕；国际足联因世界杯恶作剧对阿根廷进行处罚 The Sports Examiner",
-      "originalTitle": "PANORAMA: LA28 sells two million tickets in second sale period; Mediterranean Games open; FIFA penalizes Argentina for World Cup shenanigans - The Sports Examiner",
-      "originalSummary": "PANORAMA: LA28 sells two million tickets in second sale period; Mediterranean Games open; FIFA penalizes Argentina for World Cup shenanigans  The Sports Examiner",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMEJORnREbXBuODBzUGxqOEt2MWs4TWk5RE1EVjhPUUJWQTBudjFfemZQcUF2OTdWbllaYktvaDJzRFpZeTNNdkJQRHBrRmw1WkVoREpHSElGNExWcnFLTnBmZFh3RkZocDJzcUZuQ0x2UVNrM1lYVnJ0NFhFX0ZaaVpSVE5ZcWNzbDRjWWk2QkwxbWpLNE82SU5XUlJzMzNxSmJBVDZ6TWtNNzBlWndQcHVjazkwNDY2TVVVb1NVZThBeVdidEx4akpDcHJ1NjVDS3JUSlFkRzJiNjZKcHFuUk1FQ3NjME50MDhQUzhqY081a3RqRHl2dlhwei1pUGxuYVE?oc=5",
-      "publishedAt": "2026-08-22T01:53:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-美加墨世界杯决赛爆冲突-阿根廷大将遭重罚禁赛10场-orientaldaily-com-my",
-      "title": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场 - orientaldaily.com.my",
-      "summary": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场  orientaldaily.com.my",
-      "originalTitle": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场 - orientaldaily.com.my",
-      "originalSummary": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场  orientaldaily.com.my",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZDloQnRFb2sxLXVxRGtFZjNoaGNVcXNDUlkydllkS1FVVjNjeGVnS2FwVkItQVRGcWFoaHhyVTNEanRvSkFKTXlmWEtSUWZhRG9MS2NCSEZvWTU3TmlweU53TmI2azlLbkl1NGE5OA?oc=5",
-      "publishedAt": "2026-08-22T01:23:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-paredes-receives-10-match-world-cup-suspension-조선일보",
-      "title": "帕雷德斯因世界杯停赛10场 - 조선일보",
-      "summary": "帕雷德斯因世界杯停赛 10 场",
-      "originalTitle": "Paredes Receives 10-Match World Cup Suspension - 조선일보",
-      "originalSummary": "Paredes Receives 10-Match World Cup Suspension  조선일보",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbW1FVVdOQlRGS29RNkk3enJCYjFGOGNOYnZMX3hQeDRwNEVyalc3QlRWVWhXTlByQTF4d3ZMbUoyOGg4bGFYSThPZ0l6enJHcDdDanRiVExaUTRxaHRrMWNlNGZSY2t4dEJPUXFrdlFxVDVXcmg3Z1dmelJFV2pYQ0duLUhNQQ?oc=5",
-      "publishedAt": "2026-08-22T00:39:03+00:00",
-      "heat": 52
     }
   ]
 }
