@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T02:58:49.881055+00:00",
+  "updatedAt": "2026-08-22T03:49:39.979021+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-argentina-s-paredes-suspended-10-matches-by-fifa-over-world-cup-final-clash-xinhua",
+      "title": "阿根廷队球员帕雷德斯因世界杯决赛冲突被国际足联停赛10场 - 新华社",
+      "summary": "阿根廷队帕雷德斯因世界杯决赛冲突被国际足联停赛 10 场比赛 新华社",
+      "originalTitle": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash - Xinhua",
+      "originalSummary": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash  Xinhua",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndGVlaU1GUFhqZHoydHFiSHFLUzliM1BPUURSTlQ4cGE3WVMwQWthMnRFUXd6UUNseE5uTWRrWWdhb0ZISmJrV2Yza3Ytdjdwc2NWY19TZzZCOW9HQnJxZjVnZUF4ZEJZQTFqbVVsSXZjTG83cE9wWENKR3c?oc=5",
+      "publishedAt": "2026-08-22T03:17:17+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-阿根廷世界杯决赛输波职球员动粗-fifa重判柏利迪斯停赛10场-香港01",
+      "title": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场 - 香港01",
+      "summary": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场  香港01",
+      "originalTitle": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场 - 香港01",
+      "originalSummary": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场  香港01",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZ0NPMi1OLXhweERVYVUzVS1wSFJtQl9vd3NxRXVHVDVUdWFLS1ZJSWFPVFlYNFhCZGJFTFd1RFQ2Y2txOEs2ejR0OGFLZGRZS3hweDgxQ3FkOXpkenZKWU1hSE1HVVdUU2UxbjFzZlVPOFc2THQwMnNQTXZOa0E0OXpmRW1IMVh0dzVGZ0RfcVVRdS1EcHdKV2F1Y1dZTFo5M1ZMNkVjT0hGbi1kTG9ja3E3dS1sRDRfNVd3c0h6ejhXekxoYXY3U002STNTZHg4cThDN2E0cTNLdlZOVUF4bDRIaWcyejZGQ3d3UTFWa0ZoMjRWVGpReU5HNmNwYmo3R2ZrYmNJdUo5NzNzZ25OV0JXVWxuUVV4dE1UTWczNUJud3FhMkhudW5Ic2taeG9MZHROUzBSTlpySlJaZXpCZnA1UTFKVkY2ZERsb2w3bExodXZveTdSaTZ0WEdSRS0wdzlGaXJfb1pKdmtpTWgyUDRHdjRkdHJ6OXJRRTdFVllzOE1fZ3FPU2hGSHZLVXFHelJudDRMSERTTkE5SlRFSUQ3SQ?oc=5",
+      "publishedAt": "2026-08-22T02:56:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-panorama-la28-sells-two-million-tickets-in-second-sale-period-mediterranean-games-open-fifa-penalizes-argent",
       "title": "全景：LA28第二期售出200万张门票；地中海运动会开幕；国际足联因世界杯恶作剧对阿根廷进行处罚 - 体育观察家",
@@ -29,18 +53,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZDloQnRFb2sxLXVxRGtFZjNoaGNVcXNDUlkydllkS1FVVjNjeGVnS2FwVkItQVRGcWFoaHhyVTNEanRvSkFKTXlmWEtSUWZhRG9MS2NCSEZvWTU3TmlweU53TmI2azlLbkl1NGE5OA?oc=5",
       "publishedAt": "2026-08-22T01:23:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-paredes-receives-10-match-world-cup-suspension-조선일보",
-      "title": "帕雷德斯因世界杯停赛10场 - 조선일보",
-      "summary": "帕雷德斯因世界杯停赛 10 场",
-      "originalTitle": "Paredes Receives 10-Match World Cup Suspension - 조선일보",
-      "originalSummary": "Paredes Receives 10-Match World Cup Suspension  조선일보",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbW1FVVdOQlRGS29RNkk3enJCYjFGOGNOYnZMX3hQeDRwNEVyalc3QlRWVWhXTlByQTF4d3ZMbUoyOGg4bGFYSThPZ0l6enJHcDdDanRiVExaUTRxaHRrMWNlNGZSY2t4dEJPUXFrdlFxVDVXcmg3Z1dmelJFV2pYQ0duLUhNQQ?oc=5",
-      "publishedAt": "2026-08-22T00:39:03+00:00",
       "heat": 52
     },
     {
@@ -82,7 +94,7 @@
     {
       "id": "google-news-fifa-suspends-paredes-10-matches-fines-argentina-for-world-cup-final-brawl-chosunbiz-chosunbiz",
       "title": "国际足联暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ - Chosunbiz",
-      "summary": "FIFA暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
+      "summary": "国际足联暂停帕雷德斯 10 场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
       "originalTitle": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ - Chosunbiz",
       "originalSummary": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ  Chosunbiz",
       "translation": "online",
@@ -128,18 +140,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-gianni-infantino-plotted-u15s-world-cup-hosted-next-to-disneyland-with-211-teams-representing-every-fifa-nat",
-      "title": "贾尼·因凡蒂诺“策划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加” - the-sun.com",
-      "summary": "詹尼·因凡蒂诺“计划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加”the-sun.com",
-      "originalTitle": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation' - the-sun.com",
-      "originalSummary": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'  the-sun.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VzcFhjbXdDUjJlSGZzaWtYZGV1dEFhMkZvc051ei1OX256S2ZVenVOWkE4Rmh6M2I1bloyS2YwUDFhdGxEQVlFclFWMnVwLUU3SjUxWEdzSjVVREFKRU1jSUtnZElPVG9xTFFLSS1DZ0ZGTnZMalNZU255cHZJN09PaldvQVJKb1dCZzc4MC1lZU1i?oc=5",
-      "publishedAt": "2026-08-21T22:16:32+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-opinion-my-2026-world-cup-experience-lionsroarnews-com",
       "title": "意见 |我的2026年世界杯经历 - lionsroarnews.com",
       "summary": "意见 |我的 2026 年世界杯经历 lionsroarnews.com",
@@ -176,8 +176,20 @@
       "heat": 68
     },
     {
+      "id": "google-news-licha-named-in-fifa-dream-xi-manchester-united-website",
+      "title": "利查入选 FIFA 梦想十一人 - 曼联网站",
+      "summary": "利查入选 FIFA Dream XI 曼联网站",
+      "originalTitle": "Licha named in FIFA Dream XI - Manchester United Website",
+      "originalSummary": "Licha named in FIFA Dream XI  Manchester United Website",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWR3TE5KS21tYkFaWXE2WVNXb2xxM0N3Z0h0ckZYVG5qRHZZZzBPLWpUZTMxeXpQTmxuS2taaWxYVnB6cV82T2g5QlhGWnFRenE2T3BUNnlWYkZfN0lYZ0doMENxaEtqd3ZoU0lsSW9TTHV1V204bzFPV0xJRHJnTTZuREhTcVhQWmdOUVJ5Q3VCOXZv?oc=5",
+      "publishedAt": "2026-08-21T20:50:37+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-they-are-all-mute-argentina-s-leandro-paredes-snaps-back-at-fifa-s-10-game-ban-calls-out-favoritism-to-spain",
-      "title": "“他们都沉默了”：阿根廷球员莱安德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
+      "title": "“他们都沉默了”：阿根廷球员莱昂德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
       "summary": "“他们都沉默了”：阿根廷队球员莱安德罗·帕雷德斯猛烈反击国际足联的 10 场禁赛，并指责对西班牙的偏袒 雅虎体育",
       "originalTitle": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain - Yahoo Sports",
       "originalSummary": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain  Yahoo Sports",
@@ -209,18 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQcGlGYU03NnEzS3Q0Y0M1M1pEbHA3R3piV1dlejJKYWlsMUdPX3Z2cDhCRjhmMDF5a3R3T2lKWW1ITE0zX2hHSElTOGV5SUkyVjZzZVBWNXpIbnctcGJwY2sya2ZTdFFWazBSc1RZQUxfOXVTMHdoZlE3cWs1MW42SWN0WFoyYUdGUGdlTg?oc=5",
       "publishedAt": "2026-08-21T20:16:24+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-世界杯-fifa完成决赛冲突调查-柏利迪斯被罚停赛10场-星島頭條",
-      "title": "世界杯｜FIFA完成决赛冲突调查 柏利迪斯被罚停赛10场 - 星島頭條",
-      "summary": "世界杯｜FIFA完成决赛冲突调查 柏利迪斯被罚停赛10场  星島頭條",
-      "originalTitle": "世界杯｜FIFA完成决赛冲突调查 柏利迪斯被罚停赛10场 - 星島頭條",
-      "originalSummary": "世界杯｜FIFA完成决赛冲突调查 柏利迪斯被罚停赛10场  星島頭條",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPRlFORFpLWlRrRzZBcTdLTDNBLUk3LUpBdlRkRVhMcFVRWTliTGQ5U3NDc28weDdaMlJuZDN1Ym5ITWZwcWZBaFcycFFId1hrUFMzSXhVY0VqRkZBS0RRSUlpTEt6dVhQbGJNZmFyVFdoZHZleHFwT0FHUE9lc3dpWVNyNU44MFRZYjQtaWRiZVVkUklxX05OckJKQU5qNk5zZ21NQ0NLSFFZS3BwcU1EeWZwd3VjV2xOd0RGT1lEdXY5LUhMMDZwUHVKclV1a09meTczOW1pdWx1SDFycFBydi1zdTlYRHlISmVvTVo0S1YzMi1ONzlvbUU3U0c0X25qNVFtVHU1T0t0MlIya0lJdFR3Y1l1TkhJWlZQb3pBS2MtRlpvNE1WSXRxNXZBcUtmVlNkdVhRM3BBTXlkN2lNU2ZOUWZwdm0yQThTUVNiLXhmYnRWNjU2QkJTRFcwdlZiYUE?oc=5",
-      "publishedAt": "2026-08-21T20:09:33+00:00",
       "heat": 60
     }
   ]
