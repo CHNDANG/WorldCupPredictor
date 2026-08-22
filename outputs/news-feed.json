@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T05:31:54.086126+00:00",
+  "updatedAt": "2026-08-22T06:48:28.334872+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026-the-peninsula-qatar",
+      "title": "国际足联纪律委员会对 2026 年世界杯发生的事件实施制裁 - 卡塔尔半岛",
+      "summary": "国际足联纪律委员会对 2026 年世界杯发生的事件实施制裁 卡塔尔半岛",
+      "originalTitle": "FIFA Disciplinary Committee imposes sanctions following incidents at World Cup 2026 - The Peninsula Qatar",
+      "originalSummary": "FIFA Disciplinary Committee imposes sanctions following incidents at World Cup 2026  The Peninsula Qatar",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQcFl2S3UzMzRRTk9yLXlZazNERjhsa2hzanh0UExPcy1iaVp3Sm9LZllQNGUtaWs2UnpDOWZOQmcyYjJRRFpRRkVFaXZGV0RjZmoyck1ENmgzRkc4RVVuWjUtb0E0RENvSTFIZGhNS1lJNGVJSlZVNTQwOTVBLUdlUm9qdGlQLVp1QklQTEZFUVpTel9ZZXV3RUpRVExsRGJtOS1hc052RmZ2eENia1hEZGdNcGVMckhpcjFwVGIwelNjWVpWSEhLVkUxSFE?oc=5",
+      "publishedAt": "2026-08-22T05:39:36+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-world-cup-spain-dominates-france-advances-to-world-cup-final-ovo-energy-s67xdhwxm4-mshale",
+      "title": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Ovo Energy (S67xdHWXM4) - Mshale",
+      "summary": "2026 年 FIFA 世界杯：西班牙主宰法国，晋级世界杯决赛 Ovo Energy (S67xdHWXM4)  Mshale",
+      "originalTitle": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Ovo Energy (S67xdHWXM4) - Mshale",
+      "originalSummary": "2026 FIFA World Cup: Spain Dominates France, Advances To World Cup Final Ovo Energy (S67xdHWXM4)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jbGlSVjZsUENPRkpkamhfYlVKaG9KRk1pR2JXbFoxU1lyM1pYc25nUTQ5QnJBeUx1c0JXRUNseUVBUG5FWk1oV19zSzl4UWVnU0pUWnM3eEY5QQ?oc=5",
+      "publishedAt": "2026-08-22T05:19:33+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-s-paredes-suspended-10-matches-by-fifa-over-world-cup-final-clash-the-eastleigh-voice",
+      "title": "阿根廷队球员帕雷德斯因世界杯决赛冲突被国际足联停赛 10 场 - The Eastleigh Voice",
+      "summary": "阿根廷队帕雷德斯因世界杯决赛冲突被国际足联停赛 10 场比赛 The Eastleigh Voice",
+      "originalTitle": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash - The Eastleigh Voice",
+      "originalSummary": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash  The Eastleigh Voice",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPZ2RCbDlZVUozN094OXpxREg2Um5vWU9PdWlDeFczcDFMXzZkVmZ0M2FPMmZzbVFrczg2eUpFanhIaDMyUUg2bE9BTVl6NkhWYXE4RlJfNWp4M3JsTEtNR3BhMG1ubVF6aEVXOEJpQlRfaGJfa1IwVkJZRkd6RjRJRm9wSFB4VFVZZEQ2c1EzdGNMWjdMbWZWdXJrVHd5dF8tM1FET1ViNWJIUjFDaUFmZzl0UW51cFByT0dMSg?oc=5",
+      "publishedAt": "2026-08-22T05:19:07+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-paredes-receives-10-game-suspension-three-argentina-players-punished-by-fifa-following-world-cup-final-fal-f",
+      "title": "帕雷德斯被禁赛 10 场，三名阿根廷球员在世界杯决赛失误后受到国际足联处罚 - Firstpost",
+      "summary": "帕雷德斯被禁赛 10 场，三名阿根廷球员在世界杯决赛失误后受到国际足联处罚……Firstpost",
+      "originalTitle": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fal... - Firstpost",
+      "originalSummary": "Paredes receives 10-game suspension, three Argentina players punished by FIFA following World Cup final fal...  Firstpost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOQkp1VTl4YzhacXN0ckM0T1VfZmU0cDZxdTBDOVlCUEx0WjJfOC04NS1VQmtSeXQ1bW9naDdIUzNhd0lvdXNlVHQ4eWlTeHRPeWE2ME9jQi1FemFGbnR5NndDUGxvaHBMWUJnTDVRUlNyMFZSTHJFUXM0VV95bWhzcER5dzEtT3A0Zmw5THVrcVdiSmhUMW1ycVQ3YzVYakpObW5BcFE2U1RSTW1BN2tDNm1RaDZHWjJnRlRzUk9rU1cxVXQ0R3NJM0thWm1OZFZWSUI2bGM3NjVoS1p4Z01QdFZoVFA1OFpuaVhQb0l30gHzAUFVX3lxTE5SdzJIdUsxNFJJSmt2X1F3WVdyN0FXWmx5aEc2XzhfaW5fUjZQVFVPeW95dHFlSHJ3RnNWNVFCU29pcV9WVHFIS2g3VTNSNUNCc3FvLTNSeFctMTc2TUhSUnRoZGhWaVBUTmZXSkJrdi1qZ09GVFU0ZjlWakFPUFN6aER5ZFFHZ0VKRGNnSXBubXM5Q0tHZHNpVVN1YlRoQlRXb1NIU0ZzX1luT1JnZ0JHZGhzN2xrMnBNMUpjdDRKSnAxVUczelpGaHh2bm9jVHVmZWtpNGFVeVVpbjN6MDJaQUxkdWlNR2UzcjVfX0hSdklRRQ?oc=5",
+      "publishedAt": "2026-08-22T05:10:23+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-2026年世界杯-fifa重罚阿根廷队-罚款32-1万美元4人禁赛-亚洲电视新闻",
       "title": "【2026年世界杯】FIFA重罚阿根廷队 罚款32.1万美元4人禁赛 - 亚洲电视新闻",
@@ -28,7 +76,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTi1qX0lRVktWU3FfdkFXeHcyeVdoLWU3aDBqRHhKMTVOMXFSWERxcUlIOFFiczJ1TmcwNHR6eDl6Vm5YUUY1T0dFd0M2b0pYRHppcUhmb001RU14amdfdDg5bjhkclBhZ2c4dVRja091VnJEWC1zdVdDNzdmaF95LVpQdzB2SFZ1VEhyMUU0OXhudVFyS0VwNGRCZkQzRXQ1eHhmTkpHQnFTOVVCOWN3eHBzUU11bmkzeURCVHFvNzFCU2dzSGlwVXA1TEVjeWN5dksxcHVnSE1ZMDdBckUxaXRUcVc?oc=5",
-      "publishedAt": "2026-08-22T04:18:45+00:00",
+      "publishedAt": "2026-08-22T04:22:09+00:00",
       "heat": 52
     },
     {
@@ -44,6 +92,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-8月21日深夜-fifa公布世界杯决赛冲突重磅罚单-同时梅西美职联赛后处罚出炉-两极待遇引发热议-阿根廷重罚帕雷德斯因暴力动作-过往违纪累犯-禁赛10场-罚款9万美金-直接断送大半国家队生涯-率先动手的莫利纳禁赛7",
+      "title": "8月21日深夜，FIFA公布世界杯决赛冲突重磅罚单，同时梅西美职联赛后处罚出炉，两极待遇引发热议。阿根廷重罚帕雷德斯因暴力动作+过往违纪累犯，禁赛10场、罚款9万美金，直接断送大半国家队生涯；率先动手的莫利纳禁赛7场、罚款9万美金，阿尔马达、助教各禁赛 - 手机新浪网",
+      "summary": "8月21日深夜，FIFA公布世界杯决赛冲突重磅罚单，同时梅西美职联赛后处罚出炉，两极待遇引发热议。阿根廷重罚帕雷德斯因暴力动作+过往违纪累犯，禁赛10场、罚款9万美金，直接断送大半国家队生涯；率先动手的莫利纳禁赛7场、罚款9万美金，阿尔马达、助教各禁赛  手机新浪网",
+      "originalTitle": "8月21日深夜，FIFA公布世界杯决赛冲突重磅罚单，同时梅西美职联赛后处罚出炉，两极待遇引发热议。阿根廷重罚帕雷德斯因暴力动作+过往违纪累犯，禁赛10场、罚款9万美金，直接断送大半国家队生涯；率先动手的莫利纳禁赛7场、罚款9万美金，阿尔马达、助教各禁赛 - 手机新浪网",
+      "originalSummary": "8月21日深夜，FIFA公布世界杯决赛冲突重磅罚单，同时梅西美职联赛后处罚出炉，两极待遇引发热议。阿根廷重罚帕雷德斯因暴力动作+过往违纪累犯，禁赛10场、罚款9万美金，直接断送大半国家队生涯；率先动手的莫利纳禁赛7场、罚款9万美金，阿尔马达、助教各禁赛  手机新浪网",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE15bHRseHhkS2ZuMExqUWpTcDVzd2VPZ0E5aWp1MU5PdDJVSzl1aktHWG1iSFFPTkp2MjJ5YTNmeldyQmM0dy1VdHdMdjhOQlozLUZIekFaS01BeUcyX3lteHpqaw?oc=5",
+      "publishedAt": "2026-08-22T03:46:00+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-2026美加墨世界杯-fifa重罚决赛冲突-帕雷德斯禁赛10场-中國報-china-press",
       "title": "2026美加墨世界杯｜FIFA重罚决赛冲突 帕雷德斯禁赛10场 - 中國報 China Press",
       "summary": "2026美加墨世界杯｜FIFA重罚决赛冲突 帕雷德斯禁赛10场  中國報 China Press",
@@ -53,18 +113,6 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMi2wJBVV95cUxOMnBwb2JxU0R4N25UN0l2Y180YVJfSHhsRzd1ZExkOURCSHZybEI1cldYNEFtMExSMEVIU0VWSWdvbzhwcFNKWjktM0VpQ3dWMDRMRVNteWdmVGRGTUY5S3IzYnBPa182Rm5BVWZhQzdBeXp5UkhoVU9yRklPQWlOT083Y1ZZdERhZVp6OHF4MVVHcGlsZ0NhUDJtbVB3T253dFY5ZkNEbE1nLVZrYVNpWUVXczJuZUpkcURYTDVzaUlCZTBIR3RBeHpHdDdrYUlmRkt6NlVsMXFWX21MNWp2WHd6VVZyMGMyOVZFWGx5N010YzBlSWdHUERoLVVUbEhxMTdNRW1uVHFYQXdkWUtiZDhDNjluYUtBQWk3VkdTY1dDMExqN0JWRGZuVF9oeUdFU0ZjU18xWUpNQlJ4bFpsdGJWZXlISUVodzdlazQwRHZVWGhER1E3MTk5Zw?oc=5",
       "publishedAt": "2026-08-22T03:45:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-s-paredes-suspended-10-matches-by-fifa-over-world-cup-final-clash-xinhua",
-      "title": "阿根廷队球员帕雷德斯因世界杯决赛冲突被国际足联停赛10场 - 新华社",
-      "summary": "阿根廷队帕雷德斯因世界杯决赛冲突被国际足联停赛 10 场比赛 新华社",
-      "originalTitle": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash - Xinhua",
-      "originalSummary": "Argentina's Paredes suspended 10 matches by FIFA over World Cup final clash  Xinhua",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1ndGVlaU1GUFhqZHoydHFiSHFLUzliM1BPUURSTlQ4cGE3WVMwQWthMnRFUXd6UUNseE5uTWRrWWdhb0ZISmJrV2Yza3Ytdjdwc2NWY19TZzZCOW9HQnJxZjVnZUF4ZEJZQTFqbVVsSXZjTG83cE9wWENKR3c?oc=5",
-      "publishedAt": "2026-08-22T03:17:17+00:00",
       "heat": 60
     },
     {
@@ -92,6 +140,18 @@
       "heat": 52
     },
     {
+      "id": "google-新闻-中文-奇异果体育app-2026年最新fifa排名与历史回顾-womenofchina-com",
+      "title": "奇异果体育app？2026年最新FIFA排名与历史回顾 - womenofchina.com",
+      "summary": "奇异果体育app？2026年最新FIFA排名与历史回顾  womenofchina.com",
+      "originalTitle": "奇异果体育app？2026年最新FIFA排名与历史回顾 - womenofchina.com",
+      "originalSummary": "奇异果体育app？2026年最新FIFA排名与历史回顾  womenofchina.com",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBfNnNiZm1rVFFFUlV6MzhWTGJnb043WW5DWi1XMExQYVR5dS04R3hPRjJ6MGx2TmtvR2Z6VUtmOWdRaDBVLVM3RXdSdHZqQ1o2UEtEZmNtX3JfNHNyME1ZeWpxR2k0S1Rw?oc=5",
+      "publishedAt": "2026-08-22T02:57:49+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-新闻-中文-阿根廷世界杯决赛输波职球员动粗-fifa重判柏利迪斯停赛10场-香港01",
       "title": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场 - 香港01",
       "summary": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场  香港01",
@@ -99,9 +159,33 @@
       "originalSummary": "阿根廷世界杯决赛输波职球员动粗 FIFA重判柏利迪斯停赛10场  香港01",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZ0NPMi1OLXhweERVYVUzVS1wSFJtQl9vd3NxRXVHVDVUdWFLS1ZJSWFPVFlYNFhCZGJFTFd1RFQ2Y2txOEs2ejR0OGFLZGRZS3hweDgxQ3FkOXpkenZKWU1hSE1HVVdUU2UxbjFzZlVPOFc2THQwMnNQTXZOa0E0OXpmRW1IMVh0dzVGZ0RfcVVRdS1EcHdKV2F1Y1dZTFo5M1ZMNkVjT0hGbi1kTG9ja3E3dS1sRDRfNVd3c0h6ejhXekxoYXY3U002STNTZHg4cThDN2E0cTNLdlZOVUF4bDRIaWcyejZGQ3d3UTFWa0ZoMjRWVGpReU5HNmNwYmo3R2ZrYmNJdUo5NzNzZ25OV0JXVWxuUVV4dE1UTWczNUJud3FhMkhudW5Ic2taeG9MZHROUzBSTlpySlJaZXpCZnA1UTFKVkY2ZERsb2w3bExodXZveTdSaTZ0WEdSRS0wdzlGaXJfb1pKdmtpTWgyUDRHdjRkdHJ6OXJRRTdFVllzOE1fZ3FPU2hGSHZLVXFHelJudDRMSERTTkE5SlRFSUQ3SQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBRbVkyb0NwMVZJTjhWSXZOX01Tejc5YUluLTN6dVFWR01UQnN1ZmNRbHQ0b21MWXNvZnFoNEtydk55cjg1VFphdEdzWkY0dnd2OEE?oc=5",
       "publishedAt": "2026-08-22T02:56:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-fifa-hands-paredes-10-match-ban-90-000-fine-over-world-cup-final-clash-with-spain-players-peoples-gazette-ni",
+      "title": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛10场并罚款9万美元 - 尼日利亚人民公报",
+      "summary": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛 10 场并罚款 90,000 美元",
+      "originalTitle": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players - Peoples Gazette Nigeria",
+      "originalSummary": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players  Peoples Gazette Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmoxei1lVURhYTY3S1VKU1VDRi1MUTVBWlZMMjUtQ3YzXzNrWXZQRG9GQVhJZlcxS0podDhkMngyUGNXMGM4ZXdJQk8wcGRTTm5la3VhTEhRSmVoc2M3V25UUUpQNGhXSFhjM3RBOEhvOWJXSzYzVVhZeE91ZHUtV2xUQktJU01kR3FiZWl3RW9ZNzVIZTE2TDYzMlhidlVfR3hfUW51Z3haWnk5d1ZfU3dR?oc=5",
+      "publishedAt": "2026-08-22T02:38:12+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026年鱼乐达人app官网强深度解析-格局变化与黑马崛起-womenofchina-com",
+      "title": "2026年鱼乐达人app官网强深度解析：格局变化与黑马崛起 - womenofchina.com",
+      "summary": "2026年鱼乐达人app官网强深度解析：格局变化与黑马崛起  womenofchina.com",
+      "originalTitle": "2026年鱼乐达人app官网强深度解析：格局变化与黑马崛起 - womenofchina.com",
+      "originalSummary": "2026年鱼乐达人app官网强深度解析：格局变化与黑马崛起  womenofchina.com",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5xUjZoVUVPWEQxMkpxUDlHQlE2Vjg5OWF4M1FJV1RuU2ZCUXRZUVBhS1ZUTDEwd1pEVGxrTks0U25vRFNKV1Q1aUx2SVIwR2VmWEVkTHVFa1FGLUc0a3dsdktneVFMUQ?oc=5",
+      "publishedAt": "2026-08-22T02:18:41+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-panorama-la28-sells-two-million-tickets-in-second-sale-period-mediterranean-games-open-fifa-penalizes-argent",
@@ -137,90 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbW1FVVdOQlRGS29RNkk3enJCYjFGOGNOYnZMX3hQeDRwNEVyalc3QlRWVWhXTlByQTF4d3ZMbUoyOGg4bGFYSThPZ0l6enJHcDdDanRiVExaUTRxaHRrMWNlNGZSY2t4dEJPUXFrdlFxVDVXcmg3Z1dmelJFV2pYQ0duLUhNQQ?oc=5",
       "publishedAt": "2026-08-22T00:39:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-henning-named-to-canada-s-u-20-fifa-women-s-world-cup-roster-the-state-news",
-      "title": "亨宁入选加拿大 U-20 FIFA 女子世界杯名单 - 国家新闻",
-      "summary": "亨宁入选加拿大 U-20 FIFA 女子世界杯名单 - 国家新闻",
-      "originalTitle": "Henning named to Canada's U-20 FIFA Women's World Cup roster - The State News",
-      "originalSummary": "Henning named to Canada's U-20 FIFA Women's World Cup roster  The State News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmxmTGtHOVJSR0ZzQWNPWGUteENPWEk3a1dESW50dm9rU3RoTFNGRkZZdEtOekR5RjR0ejJmc2ZVLUIzYXJraXVGWS1LOEwyeTF0VWp1N1Z4azg2ODVQRFJfdVV3T1NfSkRRRDk0REpTS1YydXNhUFhvSzdJcERVNWJ4dUc3MjVTYU9sZy1QT05xUFQ5c0sxSDZabnI?oc=5",
-      "publishedAt": "2026-08-21T23:56:51+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-21T23:50:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-suspends-paredes-10-matches-fines-argentina-for-world-cup-final-brawl-chosunbiz-chosunbiz",
-      "title": "FIFA暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ - Chosunbiz",
-      "summary": "国际足联暂停帕雷德斯 10 场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
-      "originalTitle": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ - Chosunbiz",
-      "originalSummary": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ  Chosunbiz",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5uOTBxLW9kWjJEZ2kxSXZfMDBpM2RyVzNCMmM2UHpjd3dJNEZ2MlJCNXo3VzVydnFRYnp4MmpTV2FudDd4eGdRSHVtRTJXOGlqWkoxVUpMMVh2Y0JSUFQ4Rk5haHRZN1A0TmJxNS1Dei1ld3dnMC1PMkFQNlU0T0XSAZMBQVVfeXFMTWpyUXdZSUEtWmRNcmw1dFpvaFpjbmh6MTFoOThqTG4taVRYcFlCOTVwZW9tSS1PalctUllhSkJ2Q2lOcjB3OE1oY2k1dE1LQ1IyWjdSZWpxNEdZTUpNRnN0WXhNNGxVTmFqSWJjc3ZSZDNMenNmclFTNm0wZjY2RDBHZVdZdE56ZkJyWmhPQ3htWGg0?oc=5",
-      "publishedAt": "2026-08-21T23:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026-fana-news",
-      "title": "国际足联纪律委员会对 2026 年世界杯发生的事件实施制裁 - Fana News -",
-      "summary": "FIFA 纪律委员会对 2026 年世界杯发生的事件实施制裁 Fana 新闻 -",
-      "originalTitle": "FIFA Disciplinary Committee Imposes Sanctions Following Incidents at World Cup 2026 - Fana News -",
-      "originalSummary": "FIFA Disciplinary Committee Imposes Sanctions Following Incidents at World Cup 2026  Fana News -",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEV2QzBJZE5BUk0tQ3lrZFFZU1pHZVRZSm5VNWt0Wnl5VkVzeGc3Ny1jakV6UV9xbW1QbXR5dGpuSVlrdWJjZ2VCaDA4SlBYOVBGMFhIMU5KZGVKNUZvSnp5b3M1ODduWnlZaXJ5MmV6bzhhN2s2NERQMGhHQVQ0aDExYnd5OWYzZWxkdnk2dUFqQUZKZmp0MmRETzVLQXdzdXMwTGl1X05VTW80RXY3aGtGQ0xIZ0M3R0ZsVlJB?oc=5",
-      "publishedAt": "2026-08-21T22:49:18+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-hands-argentina-stars-massive-bans-after-world-cup-final-brawl-newswire",
-      "title": "世界杯决赛斗殴后国际足联对阿根廷球星实施大规模禁赛 - 新闻专线",
-      "summary": "世界杯决赛斗殴后，国际足联对阿根廷球星实施大规模禁赛",
-      "originalTitle": "FIFA hands Argentina stars massive bans after World Cup Final Brawl - Newswire",
-      "originalSummary": "FIFA hands Argentina stars massive bans after World Cup Final Brawl  Newswire",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOQm5xMjl5bFBWeVZNSk1wYjlSRl9HV2lYZG91TDNvdy1LcnBEYVpIUDdERFRxSlR1RThXTDIwbjlaWXJCRzdwY3U5aFJuMTRQN3loWG1QNWplNG1Mbi1pdU5sWTRpWDlRUHV2em92Q3JJbVpMb19YbDB3bFg3a01KSG05RkVvTExJeHA0YlZ1TGRpUjBWQ1k2YWVZamhWcFZwNDRtdTVR?oc=5",
-      "publishedAt": "2026-08-21T22:20:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-opinion-my-2026-world-cup-experience-lionsroarnews-com",
-      "title": "意见 |我的2026年世界杯经历 - lionsroarnews.com",
-      "summary": "意见 |我的 2026 年世界杯经历 lionsroarnews.com",
-      "originalTitle": "OPINION | My 2026 World Cup experience - lionsroarnews.com",
-      "originalSummary": "OPINION | My 2026 World Cup experience  lionsroarnews.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTVlqTFBFRmd6RTNrd2JYY2ZXMTg0U3VmTXJFVWFaWFNYMDlDQkJpZ05BX2NnelpnRi1reXV1UWhXMF94UUVfNndGa3MxeTFDNWVBdllzMEx2QTlOcGJ1bzB3dEhmbjZTYXRhUXQwTEtBWks5TFVUZzJjTFJibVZDUGhn?oc=5",
-      "publishedAt": "2026-08-21T21:40:33+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-cristiano-ronaldo-scores-for-al-nassr-in-first-game-since-2026-world-cup-fox-sports",
-      "title": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯以来的第一场比赛中为阿尔·纳斯尔 (Al-Nassr) 进球 - 福克斯体育",
-      "summary": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯以来的第一场比赛中为阿尔·纳斯尔 (Al-Nassr) 进球",
-      "originalTitle": "Cristiano Ronaldo Scores For Al-Nassr In First Game Since 2026 World Cup - FOX Sports",
-      "originalSummary": "Cristiano Ronaldo Scores For Al-Nassr In First Game Since 2026 World Cup  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNdlgtUUFkYkdPdy1JQklpUGJmaS01NnFVR2F5b20xc19mMTY2RHFLVDQzQ1l4TVMybXNKUWVzakJ1blJJTzMySGZoUmVjZjVaTGp0dUhQaW5EUGljU3lKRzR1eEd1SGtsU2RkRnRNUmsyT0x5QjZQdDhiR3JwM0VOMWZiU2FEaGt5dXVwR0NNcjI1dTZSTlZwdFQtQU9JRjc1MVJDVmN2WkEtUdIBqgFBVV95cUxOSlQ5VGJSRHYyZ3VvT012b0RoM0ZsUjJ3TWtValpTTFdoell5SXJfdWN1WE53R1BtMVZlS2V3VXJnZUtORFlvam5ZUm1xbHFBR3JUWWktRFNoR2x3VHhkOUpXbTkxUlNzc2RWdUdmbWw5Tzh1dC1OcFdLRkEyWndEV3dMWDN5d1NFYmhGcGg4SkVla2ZHUFZ4bGFPTlNiekp1UmZoQS1qXzNRQQ?oc=5",
-      "publishedAt": "2026-08-21T21:13:57+00:00",
       "heat": 52
     }
   ]
