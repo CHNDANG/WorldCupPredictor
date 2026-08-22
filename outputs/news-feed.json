@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-21T23:52:29.773532+00:00",
+  "updatedAt": "2026-08-22T01:32:13.226482+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-美加墨世界杯决赛爆冲突-阿根廷大将遭重罚禁赛10场-orientaldaily-com-my",
+      "title": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场 - orientaldaily.com.my",
+      "summary": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场  orientaldaily.com.my",
+      "originalTitle": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场 - orientaldaily.com.my",
+      "originalSummary": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场  orientaldaily.com.my",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZDloQnRFb2sxLXVxRGtFZjNoaGNVcXNDUlkydllkS1FVVjNjeGVnS2FwVkItQVRGcWFoaHhyVTNEanRvSkFKTXlmWEtSUWZhRG9MS2NCSEZvWTU3TmlweU53TmI2azlLbkl1NGE5OA?oc=5",
+      "publishedAt": "2026-08-22T01:23:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-henning-named-to-canada-s-u-20-fifa-women-s-world-cup-roster-the-state-news",
+      "title": "亨宁入选加拿大 U-20 FIFA 女子世界杯名单 - 国家新闻",
+      "summary": "亨宁入选加拿大 U-20 FIFA 女子世界杯名单 - 国家新闻",
+      "originalTitle": "Henning named to Canada's U-20 FIFA Women's World Cup roster - The State News",
+      "originalSummary": "Henning named to Canada's U-20 FIFA Women's World Cup roster  The State News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdmxmTGtHOVJSR0ZzQWNPWGUteENPWEk3a1dESW50dm9rU3RoTFNGRkZZdEtOekR5RjR0ejJmc2ZVLUIzYXJraXVGWS1LOEwyeTF0VWp1N1Z4azg2ODVQRFJfdVV3T1NfSkRRRDk0REpTS1YydXNhUFhvSzdJcERVNWJ4dUc3MjVTYU9sZy1QT05xUFQ5c0sxSDZabnI?oc=5",
+      "publishedAt": "2026-08-21T23:56:51+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-argentina-hit-with-sanctions-for-falklands-banner-world-cup-final-brawl-nz-herald",
+      "title": "阿根廷因福克兰群岛旗帜和世界杯决赛斗殴而受到制裁 - 新西兰先驱报",
+      "summary": "阿根廷因福克兰群岛旗帜和世界杯决赛斗殴而受到制裁 新西兰先驱报",
+      "originalTitle": "Argentina hit with sanctions for Falklands banner, World Cup final brawl - NZ Herald",
+      "originalSummary": "Argentina hit with sanctions for Falklands banner, World Cup final brawl  NZ Herald",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNTi1qX0lRVktWU3FfdkFXeHcyeVdoLWU3aDBqRHhKMTVOMXFSWERxcUlIOFFiczJ1TmcwNHR6eDl6Vm5YUUY1T0dFd0M2b0pYRHppcUhmb001RU14amdfdDg5bjhkclBhZ2c4dVRja091VnJEWC1zdVdDNzdmaF95LVpQdzB2SFZ1VEhyMUU0OXhudVFyS0VwNGRCZkQzRXQ1eHhmTkpHQnFTOVVCOWN3eHBzUU11bmkzeURCVHFvNzFCU2dzSGlwVXA1TEVjeWN5dksxcHVnSE1ZMDdBckUxaXRUcVc?oc=5",
+      "publishedAt": "2026-08-21T23:56:14+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-08-21T23:50:44+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-suspends-paredes-10-matches-fines-argentina-for-world-cup-final-brawl-chosunbiz-chosunbiz",
       "title": "国际足联暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ - Chosunbiz",
@@ -21,14 +69,26 @@
     },
     {
       "id": "google-news-fifa-suspends-paredes-fines-argentina-for-world-cup-misconduct-조선일보",
-      "title": "国际足联 Suspends Paredes, Fines Argentina for 世界杯 Misconduct - 조선일보",
-      "summary": "国际足联 Suspends Paredes, Fines Argentina for 世界杯 Misconduct  조선일보",
+      "title": "阿根廷因世界杯不当行为被国际足联停赛并罚款 - 조선일보",
+      "summary": "国际足联因世界杯不当行为对帕雷德斯停赛并处以罚款",
       "originalTitle": "FIFA Suspends Paredes, Fines Argentina for World Cup Misconduct - 조선일보",
       "originalSummary": "FIFA Suspends Paredes, Fines Argentina for World Cup Misconduct  조선일보",
-      "translation": "local",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNS1vNHAxSFRPRXFZVkd2R2tsMDU1QXN3UlpaZHdqSWNRZVg5dEJld09xVlhJZDhlM2dYQlZhbkQ5eU9aaE1uQzdBcEFFVEhjVzhyTHhwbUJVc2d4WFhMcmozMEdObGNxTVZJWnlWU29nVWVZUzctTklDNnE5S3dvY0JNNFYyQQ?oc=5",
       "publishedAt": "2026-08-21T22:59:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-disciplinary-committee-imposes-sanctions-following-incidents-at-world-cup-2026-fana-news",
+      "title": "国际足联纪律委员会对 2026 年世界杯发生的事件实施制裁 - Fana News -",
+      "summary": "FIFA 纪律委员会对 2026 年世界杯发生的事件实施制裁 Fana 新闻 -",
+      "originalTitle": "FIFA Disciplinary Committee Imposes Sanctions Following Incidents at World Cup 2026 - Fana News -",
+      "originalSummary": "FIFA Disciplinary Committee Imposes Sanctions Following Incidents at World Cup 2026  Fana News -",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOdEV2QzBJZE5BUk0tQ3lrZFFZU1pHZVRZSm5VNWt0Wnl5VkVzeGc3Ny1jakV6UV9xbW1QbXR5dGpuSVlrdWJjZ2VCaDA4SlBYOVBGMFhIMU5KZGVKNUZvSnp5b3M1ODduWnlZaXJ5MmV6bzhhN2s2NERQMGhHQVQ0aDExYnd5OWYzZWxkdnk2dUFqQUZKZmp0MmRETzVLQXdzdXMwTGl1X05VTW80RXY3aGtGQ0xIZ0M3R0ZsVlJB?oc=5",
+      "publishedAt": "2026-08-21T22:49:18+00:00",
       "heat": 60
     },
     {
@@ -160,68 +220,8 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-21T20:04:39+00:00",
+      "publishedAt": "2026-08-21T20:03:30+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-fifa-hands-paredes-10-match-ban-molina-seven-after-world-cup-final-clash-morocco-world-news",
-      "title": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 - 摩洛哥世界新闻",
-      "summary": "世界杯决赛后，国际足联对帕雷德斯禁赛 10 场，莫利纳禁赛 7 场 摩洛哥世界新闻",
-      "originalTitle": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash - Morocco World News",
-      "originalSummary": "FIFA Hands Paredes 10-Match Ban, Molina Seven After World Cup Final Clash  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTjZhdXUwQ1lxME1QQThNSzlZVUt1VWJYRDNZTEFid2VJZDZEUW05ZGpjUjJRbUk3eDM1TDkycEtKcWhMY1BrOVJRNDE0VXI0YjBxWkc1VVFKY2tHWmRkSEMtZXpLUjNmbjRVQ3N3VEF4WHdpV05iVUZZck90WmVTMkdCM3YybnZMSHJXaDVFS1dybWFlZktTRG1uVHZnbVRxWndrYVQtWXo4cXFERVFYNUhldDJPWkUza19TQUhR?oc=5",
-      "publishedAt": "2026-08-21T19:58:13+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-hands-paredes-10-match-ban-90-000-fine-over-world-cup-final-clash-with-spain-players-peoples-gazette-ni",
-      "title": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛10场并罚款9万美元 - 尼日利亚人民公报",
-      "summary": "世界杯决赛与西班牙球员发生冲突，国际足联对帕雷德斯禁赛 10 场并罚款 90,000 美元",
-      "originalTitle": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players - Peoples Gazette Nigeria",
-      "originalSummary": "FIFA hands Paredes 10-match ban, $90,000 fine over World Cup final clash with Spain players  Peoples Gazette Nigeria",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWmoxei1lVURhYTY3S1VKU1VDRi1MUTVBWlZMMjUtQ3YzXzNrWXZQRG9GQVhJZlcxS0podDhkMngyUGNXMGM4ZXdJQk8wcGRTTm5la3VhTEhRSmVoc2M3V25UUUpQNGhXSFhjM3RBOEhvOWJXSzYzVVhZeE91ZHUtV2xUQktJU01kR3FiZWl3RW9ZNzVIZTE2TDYzMlhidlVfR3hfUW51Z3haWnk5d1ZfU3dR?oc=5",
-      "publishedAt": "2026-08-21T19:55:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-paredes-banned-10-games-as-fifa-suspends-3-argentina-players-for-world-cup-final-scuffle-cbc",
-      "title": "帕雷德斯因世界杯决赛混战而被国际足联停赛 3 名阿根廷球员 禁赛 10 场 - CBC",
-      "summary": "帕雷德斯禁赛 10 场，国际足联暂停 3 名阿根廷球员参加世界杯决赛的混战 CBC",
-      "originalTitle": "Paredes banned 10 games as FIFA suspends 3 Argentina players for World Cup final scuffle - CBC",
-      "originalSummary": "Paredes banned 10 games as FIFA suspends 3 Argentina players for World Cup final scuffle  CBC",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRWhNMDdfNHZ2aHZUU1doVXJ5ZlUteWpkN3dOdmlSaVEwOU1YVTBjMmpnRzUxZ3N4SmtteU42NmZRSEhOUnd3U1A1YWQtR2t2ZUYxUkFldTQxNkFWbzhVWHBkME53cTkyZGJBazhsQ21mMHhIRTJqaXd3V3F3TDk5S3dBc21TdHB3M2dfWEhVQ01pUWZMbkZNMENfdzh1R1AwLVQtUEpGR2dHRTdk?oc=5",
-      "publishedAt": "2026-08-21T19:27:45+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-paredes-handed-10-game-ban-for-world-cup-fracas-bein-sports",
-      "title": "帕雷德斯因世界杯争吵被禁赛 10 场 - beIN SPORTS",
-      "summary": "帕雷德斯因世界杯争吵被禁赛 10 场 beIN SPORTS",
-      "originalTitle": "Paredes handed 10-game ban for World Cup fracas - beIN SPORTS",
-      "originalSummary": "Paredes handed 10-game ban for World Cup fracas  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNNUN5OUlQd05IRThodFZIaDVvNVV6a0Q2Qml2M2pfT01ITVMzSDc5d2JYTnJWTnFzdGRpM0QwMTh1Rm5zZFNueVprUHZOZ3BZTGVpZEtSWGJtc3h3dnI2Sl9KSWRRaElIMll0cFpGeDlCc1dmUGZYeTdDazc2UDctZzJqcnFiM1l4Wl8yWU03RjQzWC1mdWhpMTFmeWltZlc3djV0Q21JblJqeDYtWTdRTFZrZ3cyUml3UlNZNVRzVTAxY2ZKX1BGVA?oc=5",
-      "publishedAt": "2026-08-21T19:27:09+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-lsu-soccer-s-sariyah-bailey-named-to-canada-s-fifa-u-20-women-s-world-cup-squad-lsusports-net",
-      "title": "LSU 足球队的 Sariyah Bailey 入选加拿大 FIFA U-20 女子世界杯阵容 - LSUsports.net",
-      "summary": "LSU 足球队的 Sariyah Bailey 入选加拿大 FIFA U-20 女子世界杯阵容 LSUsports.net",
-      "originalTitle": "LSU Soccer’s Sariyah Bailey Named to Canada’s FIFA U-20 Women’s World Cup Squad - LSUsports.net",
-      "originalSummary": "LSU Soccer’s Sariyah Bailey Named to Canada’s FIFA U-20 Women’s World Cup Squad  LSUsports.net",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVlVZXZNZkE4NXRQZzZ5VHNIV1hzUzVSV0VmZzFfdVNQNXYzaVgtb25qcnlNUDVUVHlpV2NVVGx4Mm1OZmFCOTd5aDRmVlBWZndxbnZUYndhby1tRlNONWZQRnBmYVI1S3FIWmd0UWNZM3hoeWRUb1M2cFhBd1VXS2RZN2lNby1fX25vZk9QbWk5SmtudEYwNFVReHVhZjZxTWdRcmtXQ3VzNHgxMWdzOUVQSFY?oc=5",
-      "publishedAt": "2026-08-21T19:19:53+00:00",
-      "heat": 60
     }
   ]
 }
