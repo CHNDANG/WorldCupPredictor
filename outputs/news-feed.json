@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T14:26:43.366325+00:00",
+  "updatedAt": "2026-08-22T14:51:00.603913+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -128,6 +128,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-norway-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Norway World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Norway World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
+      "publishedAt": "2026-08-22T08:02:29+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-south-korea-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
       "title": "2026 年韩国世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
       "summary": "2026 年韩国世界杯：决赛之路、下一场比赛和战术分析 Squawka",
@@ -177,14 +189,26 @@
     },
     {
       "id": "google-news-spain-world-cup-2026-la-roja-crowned-champions-squawka",
-      "title": "2026 年西班牙世界杯：La Roja 加冕冠军 - Squawka",
+      "title": "西班牙 世界杯 2026: La Roja crowned champions - Squawka",
       "summary": "2026 年西班牙世界杯：La Roja 加冕冠军 Squawka",
       "originalTitle": "Spain World Cup 2026: La Roja crowned champions - Squawka",
       "originalSummary": "Spain World Cup 2026: La Roja crowned champions  Squawka",
-      "translation": "online",
+      "translation": "local/online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0RUN3VsMVI4VFFiMFJlMWpGSDFrUkw0aS02YVJOdGY2OEV3SWlPX1RxY1psb0RSaC1CdjhRdS1MdnIzYXZmUWs4bjJCUm56YlhsVmNJUkozLTZEWHhKVDUteE13NzljamFyTVpHWVl5elcyUlRrSnVVaEs5dFJ1ME41WEFGdzdCUGw0WHNhckxvdw?oc=5",
       "publishedAt": "2026-08-22T07:44:58+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
+      "publishedAt": "2026-08-22T07:42:23+00:00",
       "heat": 52
     },
     {
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOYjRFa21oZnlpU1EyRlFxbDUzMTFMS29tMzMzUzhUU013NDBUZFpiQTBLNUx5RE1JRlV0eHNDdTRDSEJscW9hckdobl9sM19jVndESmZRbUJPUk5WMG1aMTRlQlZ2d0hpNUtJU0stN0c3eUVuTlc4a2h6REIxTFREUTFrYVE2QzU3T0dYM3lXWDZ6RFplTzVuRkxwc3ZQVUhL?oc=5",
       "publishedAt": "2026-08-22T07:37:40+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-阿媒记者-fifa对阿根廷的处罚不公平-加维只被禁1场-贝林没被罚-直播吧",
-      "title": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚 - 直播吧",
-      "summary": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚  直播吧",
-      "originalTitle": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚 - 直播吧",
-      "originalSummary": "阿媒记者：FIFA对阿根廷的处罚不公平，加维只被禁1场+贝林没被罚  直播吧",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5NOXBGRjBXZHN5LVNLSEowNnd2SkNNd2MtdHdIaEhIMUdDWEpnSUdIUnBIZS1hUzh4UFpQSHZ1R05DazA3R2M1eTJxa0JQSTZtQmhJT0J0UjJjLW9NTld0RWhZRlhGTW9mZld2OFFicEMxQQ?oc=5",
-      "publishedAt": "2026-08-22T07:28:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-slaps-fine-of-rs-3-63-crore-on-argentina-imposes-21-match-ban-after-world-cup-final-chaos-etv-bharat",
-      "title": "国际足联对阿根廷罚款36.3亿卢比；世界杯决赛混乱后实施 21 场比赛禁令 - ETV Bharat",
-      "summary": "国际足联对阿根廷罚款36.3亿卢比；世界杯决赛混乱后实施 21 场比赛禁令 ETV Bharat",
-      "originalTitle": "FIFA Slaps Fine Of Rs 3.63 Crore On Argentina; Imposes 21-Match Ban After World Cup Final Chaos - ETV Bharat",
-      "originalSummary": "FIFA Slaps Fine Of Rs 3.63 Crore On Argentina; Imposes 21-Match Ban After World Cup Final Chaos  ETV Bharat",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOMUFZbGFkTkhCekE2enZWZl9iR29ZVVYzRGh1aVc0anA5VUpNZ3VWUTlMLUFzWTVRb0M2eksyZDlWcnNiRklaa1hrU0M0bV9ydHlZcFJsR0V5RjVnWFlfZG9GM1BEYkF5RnNSYVhRSlN1eGpCSXlLMUo3dHZYRkd1cEstM3kxaGFBbHZXVDlkX05FSklDUVZBQ0xCRjA1Y2Q0TUZVTlZZUGg4azVsSDVqU0VhVEpjcXc?oc=5",
-      "publishedAt": "2026-08-22T07:22:41+00:00",
-      "heat": 60
     }
   ]
 }
