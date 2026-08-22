@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-22T01:32:13.226482+00:00",
+  "updatedAt": "2026-08-22T02:58:49.881055+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-panorama-la28-sells-two-million-tickets-in-second-sale-period-mediterranean-games-open-fifa-penalizes-argent",
+      "title": "全景：LA28第二期售出200万张门票；地中海运动会开幕；国际足联因世界杯恶作剧对阿根廷进行处罚 - 体育观察家",
+      "summary": "全景：LA28第二期售出200万张门票；地中海运动会开幕；国际足联因世界杯恶作剧对阿根廷进行处罚 The Sports Examiner",
+      "originalTitle": "PANORAMA: LA28 sells two million tickets in second sale period; Mediterranean Games open; FIFA penalizes Argentina for World Cup shenanigans - The Sports Examiner",
+      "originalSummary": "PANORAMA: LA28 sells two million tickets in second sale period; Mediterranean Games open; FIFA penalizes Argentina for World Cup shenanigans  The Sports Examiner",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOMEJORnREbXBuODBzUGxqOEt2MWs4TWk5RE1EVjhPUUJWQTBudjFfemZQcUF2OTdWbllaYktvaDJzRFpZeTNNdkJQRHBrRmw1WkVoREpHSElGNExWcnFLTnBmZFh3RkZocDJzcUZuQ0x2UVNrM1lYVnJ0NFhFX0ZaaVpSVE5ZcWNzbDRjWWk2QkwxbWpLNE82SU5XUlJzMzNxSmJBVDZ6TWtNNzBlWndQcHVjazkwNDY2TVVVb1NVZThBeVdidEx4akpDcHJ1NjVDS3JUSlFkRzJiNjZKcHFuUk1FQ3NjME50MDhQUzhqY081a3RqRHl2dlhwei1pUGxuYVE?oc=5",
+      "publishedAt": "2026-08-22T01:53:10+00:00",
+      "heat": 60
+    },
     {
       "id": "google-新闻-中文-美加墨世界杯决赛爆冲突-阿根廷大将遭重罚禁赛10场-orientaldaily-com-my",
       "title": "美加墨世界杯决赛爆冲突！ 阿根廷大将遭重罚禁赛10场 - orientaldaily.com.my",
@@ -17,6 +29,18 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1tZDloQnRFb2sxLXVxRGtFZjNoaGNVcXNDUlkydllkS1FVVjNjeGVnS2FwVkItQVRGcWFoaHhyVTNEanRvSkFKTXlmWEtSUWZhRG9MS2NCSEZvWTU3TmlweU53TmI2azlLbkl1NGE5OA?oc=5",
       "publishedAt": "2026-08-22T01:23:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-paredes-receives-10-match-world-cup-suspension-조선일보",
+      "title": "帕雷德斯因世界杯停赛10场 - 조선일보",
+      "summary": "帕雷德斯因世界杯停赛 10 场",
+      "originalTitle": "Paredes Receives 10-Match World Cup Suspension - 조선일보",
+      "originalSummary": "Paredes Receives 10-Match World Cup Suspension  조선일보",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbW1FVVdOQlRGS29RNkk3enJCYjFGOGNOYnZMX3hQeDRwNEVyalc3QlRWVWhXTlByQTF4d3ZMbUoyOGg4bGFYSThPZ0l6enJHcDdDanRiVExaUTRxaHRrMWNlNGZSY2t4dEJPUXFrdlFxVDVXcmg3Z1dmelJFV2pYQ0duLUhNQQ?oc=5",
+      "publishedAt": "2026-08-22T00:39:03+00:00",
       "heat": 52
     },
     {
@@ -58,7 +82,7 @@
     {
       "id": "google-news-fifa-suspends-paredes-10-matches-fines-argentina-for-world-cup-final-brawl-chosunbiz-chosunbiz",
       "title": "国际足联暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ - Chosunbiz",
-      "summary": "国际足联暂停帕雷德斯 10 场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
+      "summary": "FIFA暂停帕雷德斯10场比赛，并对阿根廷世界杯决赛斗殴行为处以罚款 - CHOSUNBIZ",
       "originalTitle": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ - Chosunbiz",
       "originalSummary": "FIFA suspends Paredes 10 matches, fines Argentina for World Cup final brawl - CHOSUNBIZ  Chosunbiz",
       "translation": "online",
@@ -104,6 +128,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-gianni-infantino-plotted-u15s-world-cup-hosted-next-to-disneyland-with-211-teams-representing-every-fifa-nat",
+      "title": "贾尼·因凡蒂诺“策划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加” - the-sun.com",
+      "summary": "詹尼·因凡蒂诺“计划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加”the-sun.com",
+      "originalTitle": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation' - the-sun.com",
+      "originalSummary": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'  the-sun.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VzcFhjbXdDUjJlSGZzaWtYZGV1dEFhMkZvc051ei1OX256S2ZVenVOWkE4Rmh6M2I1bloyS2YwUDFhdGxEQVlFclFWMnVwLUU3SjUxWEdzSjVVREFKRU1jSUtnZElPVG9xTFFLSS1DZ0ZGTnZMalNZU255cHZJN09PaldvQVJKb1dCZzc4MC1lZU1i?oc=5",
+      "publishedAt": "2026-08-21T22:16:32+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-opinion-my-2026-world-cup-experience-lionsroarnews-com",
       "title": "意见 |我的2026年世界杯经历 - lionsroarnews.com",
       "summary": "意见 |我的 2026 年世界杯经历 lionsroarnews.com",
@@ -141,7 +177,7 @@
     },
     {
       "id": "google-news-they-are-all-mute-argentina-s-leandro-paredes-snaps-back-at-fifa-s-10-game-ban-calls-out-favoritism-to-spain",
-      "title": "“他们都沉默了”：阿根廷球员莱昂德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
+      "title": "“他们都沉默了”：阿根廷球员莱安德罗·帕雷德斯猛烈反击国际足联的十场禁赛，并呼吁偏袒西班牙 - 雅虎体育",
       "summary": "“他们都沉默了”：阿根廷队球员莱安德罗·帕雷德斯猛烈反击国际足联的 10 场禁赛，并指责对西班牙的偏袒 雅虎体育",
       "originalTitle": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain - Yahoo Sports",
       "originalSummary": "“They Are All Mute”: Argentina’s Leandro Paredes Snaps Back at FIFA’s 10-Game Ban, Calls Out Favoritism to Spain  Yahoo Sports",
@@ -160,20 +196,8 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4xLXNaLW1MWG1xRVR1Z3prTnRuX1VBYjNaZmNadnZNYjRRbmdsSVFYYkdvYzBYQUhRSnJlNkprX1pyX0x1Nng4WDkzanpGSG93a0tYcEY4OUJnSEVvTXJoX25EcTZHUnBZX25tSy1FLXJ5Y0ktbm92cEVSR0U?oc=5",
-      "publishedAt": "2026-08-21T20:28:14+00:00",
+      "publishedAt": "2026-08-21T20:30:17+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-gianni-infantino-plotted-u15s-world-cup-hosted-next-to-disneyland-with-211-teams-representing-every-fifa-nat",
-      "title": "贾尼·因凡蒂诺“策划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加” - the-sun.com",
-      "summary": "詹尼·因凡蒂诺“计划在迪士尼乐园旁边举办 U15 世界杯，届时将有代表各个国际足联国家的 211 支球队参加”the-sun.com",
-      "originalTitle": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation' - the-sun.com",
-      "originalSummary": "Gianni Infantino 'plotted U15s World Cup hosted next to DISNEYLAND with 211 teams representing every Fifa nation'  the-sun.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPN1VzcFhjbXdDUjJlSGZzaWtYZGV1dEFhMkZvc051ei1OX256S2ZVenVOWkE4Rmh6M2I1bloyS2YwUDFhdGxEQVlFclFWMnVwLUU3SjUxWEdzSjVVREFKRU1jSUtnZElPVG9xTFFLSS1DZ0ZGTnZMalNZU255cHZJN09PaldvQVJKb1dCZzc4MC1lZU1i?oc=5",
-      "publishedAt": "2026-08-21T20:26:15+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-argentina-handed-21-game-ban-by-fifa-for-world-cup-final-brawl-complex",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPRlFORFpLWlRrRzZBcTdLTDNBLUk3LUpBdlRkRVhMcFVRWTliTGQ5U3NDc28weDdaMlJuZDN1Ym5ITWZwcWZBaFcycFFId1hrUFMzSXhVY0VqRkZBS0RRSUlpTEt6dVhQbGJNZmFyVFdoZHZleHFwT0FHUE9lc3dpWVNyNU44MFRZYjQtaWRiZVVkUklxX05OckJKQU5qNk5zZ21NQ0NLSFFZS3BwcU1EeWZwd3VjV2xOd0RGT1lEdXY5LUhMMDZwUHVKclV1a09meTczOW1pdWx1SDFycFBydi1zdTlYRHlISmVvTVo0S1YzMi1ONzlvbUU3U0c0X25qNVFtVHU1T0t0MlIya0lJdFR3Y1l1TkhJWlZQb3pBS2MtRlpvNE1WSXRxNXZBcUtmVlNkdVhRM3BBTXlkN2lNU2ZOUWZwdm0yQThTUVNiLXhmYnRWNjU2QkJTRFcwdlZiYUE?oc=5",
       "publishedAt": "2026-08-21T20:09:33+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
-      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
-      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
-      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
-      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
-      "publishedAt": "2026-08-21T20:07:37+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
-      "title": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 - Squawka",
-      "summary": "2026 年加纳世界杯：决赛之路、主帅、阵容深度和战术分析 Squawka",
-      "originalTitle": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis - Squawka",
-      "originalSummary": "Ghana World Cup 2026: Route to the final, manager, squad depth and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
-      "publishedAt": "2026-08-21T20:03:30+00:00",
-      "heat": 52
     }
   ]
 }
