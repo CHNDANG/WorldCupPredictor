@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T11:48:33.812355+00:00",
+  "updatedAt": "2026-08-23T12:49:33.972118+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,20 @@
   ],
   "articles": [
     {
+      "id": "google-news-100m-and-here-we-go-man-city-agree-deal-for-2026-world-cup-superstar-dailysports",
+      "title": "1 亿欧元，我们开始吧！曼城同意签下 2026 年世界杯巨星 - Dailysports",
+      "summary": "1 亿欧元，我们开始吧！曼城同意 2026 年世界杯巨星的交易 Dailysports",
+      "originalTitle": "€100m and here we go! Man City agree deal for 2026 World Cup superstar - Dailysports",
+      "originalSummary": "€100m and here we go! Man City agree deal for 2026 World Cup superstar  Dailysports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNLWpZQ29tclFoTWtGZ0tLM1VWLWtvZTB4NVpTeFlYeENBQWhzR1hWRDRiOXJBTDdIWXR5SnNEcEg5ZjVKd0VrOE1RVWlMd3VLbHk0M0pjUXVRbHRyZ01fNXRmRVJESklFbG9USlhxclJaVjQ5VFhwYzR1OTFIdGY0ZkFlVFZRTzZ1YnlXVXJ2aC0zeHVVdHNBY1JQSzBrd1U?oc=5",
+      "publishedAt": "2026-08-23T12:06:23+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-i-would-ve-quit-right-then-fans-concerned-seeing-bts-reaction-to-their-fifa-world-cup-final-halftime-schedul",
-      "title": "“我当时就会退出” - 球迷们担心在新的幕后视频中看到 BTS 对 FIFA 世界杯决赛中场休息时间表的反应 - Sportskeeda",
+      "title": "“我当时就会退出” - 球迷们担心在新的幕后视频中看到 BTS 对 FIFA 世界杯决赛中场休息安排的反应 - Sportskeeda",
       "summary": "“我当时就会退出”- 粉丝们担心在新的幕后视频中看到 BTS 对 FIFA 世界杯决赛中场休息安排的反应 Sportskeeda",
       "originalTitle": "\"I would've quit right then\" - Fans concerned seeing BTS' reaction to their FIFA World Cup Final halftime schedule in new behind-the-scenes video - Sportskeeda",
       "originalSummary": "\"I would've quit right then\" - Fans concerned seeing BTS' reaction to their FIFA World Cup Final halftime schedule in new behind-the-scenes video  Sportskeeda",
@@ -18,6 +30,30 @@
       "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPLVl2Qnhmalp2eGtFRGRLTVBNeGQtQTFPRlF2VGJDeFNNcXRmaTVVU01qVDFybFBkVVhtTVZGbHF0VW1Ja0M3MmpOb1plQ0piUFdIUVBmQUoyR21UOGFMc0syOWpncnR2eksyVzZZWFR3bHM0TGlENF9rNUdiblEtNXg2bjVMazUxMktVNEJEbWUxNFNINTRYMlRUSWZEbnBPQlN1SThYVEkyLVI4bnNqYzY2TGUwU3FObnZNaFg4TmVFV2p1XzZYUV8tT0ZFQmFnazJXRGlQdGxpWTlpZi1MNGZoTS15TFQ5Rkp1REh6Mmo?oc=5",
       "publishedAt": "2026-08-23T11:42:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
+      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja",
+      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy Six9ja",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
+      "publishedAt": "2026-08-23T11:09:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-世界杯用球-三重浪-热销-背后是中国工厂的硬核制造-第一财经",
+      "title": "世界杯用球“三重浪”热销，背后是中国工厂的硬核制造 - 第一财经",
+      "summary": "世界杯用球“三重浪”热销，背后是中国工厂的硬核制造  第一财经",
+      "originalTitle": "世界杯用球“三重浪”热销，背后是中国工厂的硬核制造 - 第一财经",
+      "originalSummary": "世界杯用球“三重浪”热销，背后是中国工厂的硬核制造  第一财经",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9KSTVpQ2IwLUwzalBlbFRqRzFOVkVDLXVQLUJNU2dyeHltSjhvMDZPZndVbEV5LVNORjVpbEpKdkJoZFpRUk90YVZDbmdJTDltbWdB?oc=5",
+      "publishedAt": "2026-08-23T10:57:50+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-paris-saint-germain-vs-rennes-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
@@ -32,6 +68,30 @@
       "heat": 44
     },
     {
+      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
+      "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
+      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
+      "publishedAt": "2026-08-23T10:35:57+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-le-havre-vs-as-monaco-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
+      "title": "Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧2026 年 8 月 23 日 - Sportskeeda",
+      "summary": "Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧2026 年 8 月 23 日  Sportskeeda",
+      "originalTitle": "Le Havre vs AS Monaco Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
+      "originalSummary": "Le Havre vs AS Monaco Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHZoZVR0d3VFME1DNGZnT1k4cFlQNEVKY2RjZnBGZjNPcHBta1lreE1zZnNGNzFhZVAxb0dySTFvcXFTQXBldG1waGdHMTJxOEctREdsOFNZZnB0eVBMQlhmUm5iaW9yRTBub3Fad3hzWWptaFBSTXNQeG1XWFJKZmc0azFCcXhFRXZzeURMdnVlZXRfcHdTRmdqbk85bGct?oc=5",
+      "publishedAt": "2026-08-23T10:12:58+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-新闻-中文-中国队蝉联机器人世界杯冠军-下一个目标是踢赢人类-新浪财经",
       "title": "中国队蝉联机器人世界杯冠军！下一个目标是踢赢人类 - 新浪财经",
       "summary": "中国队蝉联机器人世界杯冠军！下一个目标是踢赢人类  新浪财经",
@@ -42,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMUY0TThyQnU5d1RMaTU3ZVFHeTM3NndEQnFQcm9VbjhSM1JGS0t2QkFoUXRETFBUX1UwQ1c2TmZqcGk3YUc2T3FJWnVLaTFHVlNVb2V2YWxDQUQyLWFIUkFid08yZmFvUUVKaUR6TXJEVnhkbjByNG5DXzVPRVhKNG1GYTFxU29RVzQxRWFYdjRqSk1tbkh6djhsc0lzQmxWWHNPakE0bw?oc=5",
       "publishedAt": "2026-08-23T10:06:50+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-manchester-city-vs-bournemouth-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
+      "title": "曼城 vs 伯恩茅斯预测和投注技巧| 曼城 vs 伯恩茅斯2026 年 8 月 23 日 - Sportskeeda",
+      "summary": "曼城 vs 伯恩茅斯预测和投注技巧| 曼城 vs 伯恩茅斯2026 年 8 月 23 日  Sportskeeda",
+      "originalTitle": "Manchester City vs Bournemouth Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
+      "originalSummary": "Manchester City vs Bournemouth Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXlGVVdKWnNxMUlpaVcxOXo5MUR3Vkc0VHNJWHdVNlNhb2pha0pJeUhZS3U1UlJWQWtfc1hRaHRPekF4ajJuWHdIdDRsVmQtMkVlVlU4bWREWTkxT1dMVzZ1R0ZQUEtTZk1vR3ByUVlqSkxLdld6RmswbjRHS2dVRVNvdklfMmE5VERaR2o2bVhYV2ZReWdQQlJWWTd1RFpTS0J5UTFvdEhPYXY3?oc=5",
+      "publishedAt": "2026-08-23T10:06:37+00:00",
+      "heat": 44
     },
     {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
@@ -150,78 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTBwVkV6c2VQY1doN3A2Y3JIc0RyUDlyVV9xV3MyMDNMb0N3QVc4S29JRlFnZTU2cEI2ZjBkaThKQVdRWnBnMVNLcGZmQU8tZW5WUzFUbEZiTGpHWTFLNklKRnBheFdZRjhOV0RqSkljLWMzNjJXSEI1NS1NZVNfM3pSbFBMOGs1SjY2TU9tbjIwamtBRXEydGRn?oc=5",
       "publishedAt": "2026-08-23T07:16:00+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-le-havre-vs-as-monaco-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
-      "title": "Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧2026 年 8 月 23 日 - Sportskeeda",
-      "summary": "Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧| Le Havre vs AS Monaco 预测和投注技巧2026 年 8 月 23 日  Sportskeeda",
-      "originalTitle": "Le Havre vs AS Monaco Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "originalSummary": "Le Havre vs AS Monaco Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaHZoZVR0d3VFME1DNGZnT1k4cFlQNEVKY2RjZnBGZjNPcHBta1lreE1zZnNGNzFhZVAxb0dySTFvcXFTQXBldG1waGdHMTJxOEctREdsOFNZZnB0eVBMQlhmUm5iaW9yRTBub3Fad3hzWWptaFBSTXNQeG1XWFJKZmc0azFCcXhFRXZzeURMdnVlZXRfcHdTRmdqbk85bGct?oc=5",
-      "publishedAt": "2026-08-23T07:13:04+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-manchester-city-vs-bournemouth-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
-      "title": "曼城 vs 伯恩茅斯预测和投注技巧| 曼城 vs 伯恩茅斯2026 年 8 月 23 日 - Sportskeeda",
-      "summary": "曼城 vs 伯恩茅斯预测和投注技巧| 曼城 vs 伯恩茅斯2026 年 8 月 23 日  Sportskeeda",
-      "originalTitle": "Manchester City vs Bournemouth Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "originalSummary": "Manchester City vs Bournemouth Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPSXlGVVdKWnNxMUlpaVcxOXo5MUR3Vkc0VHNJWHdVNlNhb2pha0pJeUhZS3U1UlJWQWtfc1hRaHRPekF4ajJuWHdIdDRsVmQtMkVlVlU4bWREWTkxT1dMVzZ1R0ZQUEtTZk1vR3ByUVlqSkxLdld6RmswbjRHS2dVRVNvdklfMmE5VERaR2o2bVhYV2ZReWdQQlJWWTd1RFpTS0J5UTFvdEhPYXY3?oc=5",
-      "publishedAt": "2026-08-23T07:05:02+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-swansea-city-vs-sheffield-united-prediction-and-betting-tips-august-22nd-2026-sportskeeda",
-      "title": "斯旺西城 vs 谢菲尔德联队预测和投注技巧| 斯旺西城 vs 谢菲尔德联队2026 年 8 月 22 日 - Sportskeeda",
-      "summary": "斯旺西城 vs 谢菲尔德联队预测和投注技巧| 斯旺西城 vs 谢菲尔德联队2026 年 8 月 22 日  Sportskeeda",
-      "originalTitle": "Swansea City vs Sheffield United Prediction and Betting Tips | August 22nd 2026 - Sportskeeda",
-      "originalSummary": "Swansea City vs Sheffield United Prediction and Betting Tips | August 22nd 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMjdoTXMtZ0VVYmhXMWhGTjhvQjVuakZaRmd3RHdpc0ZRemk0QnE4NHNtR0hEeFlQQkFkRXB3QlBUOHVmcmI5REpaUkl6MzdVOGJFTnhLdnJVVFBhUEJ5V2Vwbjh5UE5uMV9ETmhaVmhqd1RrVnpnR0h2eWM2OTZ4QjhQNWVNdWlndE0yN2pEWGdZOXRFbkhjV3NYeV9vQlY1Y3BhMXNLRFZvbFUxLXZF?oc=5",
-      "publishedAt": "2026-08-23T06:11:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-from-fifa-world-cup-heartbreak-to-cricket-glory-how-portugal-gained-sweet-revenge-over-spain-dailyhunt",
-      "title": "从世界杯心碎到板球荣耀：葡萄牙如何甜蜜复仇西班牙 - Dailyhunt",
-      "summary": "从国际足联世界杯的心碎到板球荣耀：葡萄牙如何对西班牙进行甜蜜复仇 Dailyhunt",
-      "originalTitle": "From FIFA World Cup heartbreak to cricket glory: How Portugal gained sweet revenge over Spain - Dailyhunt",
-      "originalSummary": "From FIFA World Cup heartbreak to cricket glory: How Portugal gained sweet revenge over Spain  Dailyhunt",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxOTk1xd3RKU205M05OMEhBaXRXZk00N3V6NC1pUjlnUVFVR1dicE5uUV9oRVJMMHNUTEF3RURobW5pNl9aUE54TjI5WTlmTVZmRXRTSlNRZ0lfckVMbkN2RXgzbDMyc3Bfak9jYy1XZWZjRnU2cEhsMi01ZkxROFZvUGpVQll0SUJ5c2FmR1FlY2o0akVsSlZSdEMtRTJaS09pS21jeHFsNFBRdnVjMXFTNFBNSGdVOS1WWmU3Wm43QXBlbFdNckhyMGN3ZXFMTFJIMzEzaFRHNk16YThYbTlYN1dGZTUzaFNSankwYXJHV1o4ZGsxeVo3cDd3aXFBOWk1ZlEtUDFRWW5YQlhpa3VscHlIcmFWX0U?oc=5",
-      "publishedAt": "2026-08-23T05:56:52+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-jean-philippe-mateta-claims-crystal-palace-contract-is-invalid-complains-to-fifa-reports-sportskeeda",
-      "title": "让·菲利普·马塔塔声称水晶宫合同无效；向国际足联投诉 - 报告 - Sportskeeda",
-      "summary": "让·菲利普·马塔塔声称水晶宫合同无效；向 FIFA 投诉 - 报告 Sportskeeda",
-      "originalTitle": "Jean-Philippe Mateta claims Crystal Palace contract is invalid; complains to FIFA - Reports - Sportskeeda",
-      "originalSummary": "Jean-Philippe Mateta claims Crystal Palace contract is invalid; complains to FIFA - Reports  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPbnByaXBtdkRId0NYcHE5bE5JdlNaY2dZZHdsWjF0ZFlaNlB4TURTR3N6UTZpRkluX2VITlNpd3RfLXFFNFRwUW9VVkhnX3dOX0VhbEVRWlRjdkpEZXMzLVRZVFJrRzZZcjlFbVpta3FNOGFJWlA5VkxOMkFCOWktSlVHVEZ0b2hkRjUzV29DNHhVeHZKT1JPZ3UzUUVHWnJCeWxPSXlzRnJ0akVVS3l0VTN1QnZfUDV0c2hibjZMWEhrcjA?oc=5",
-      "publishedAt": "2026-08-23T05:27:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-from-fifa-world-cup-heartbreak-to-cricket-glory-how-portugal-gained-sweet-revenge-over-spain-mathrubhumi-eng",
-      "title": "从世界杯心碎到板球荣耀：葡萄牙如何甜蜜复仇西班牙 - Mathrubhumi English",
-      "summary": "从 FIFA 世界杯的心碎到板球荣耀：葡萄牙如何甜蜜复仇西班牙 Mathrubhumi 英语",
-      "originalTitle": "From FIFA World Cup heartbreak to cricket glory: How Portugal gained sweet revenge over Spain - Mathrubhumi English",
-      "originalSummary": "From FIFA World Cup heartbreak to cricket glory: How Portugal gained sweet revenge over Spain  Mathrubhumi English",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdi1YQjVzLTU3bjNocGRtQVhYbVhEQzEwbjAyY3dEM0RQVHNOM2MxUWNxdTJjQmtJaE9KeXhWdHA4M2dRb3JjbW82ZWVtbF9sS1Z4cG1aVGNISGJLVmQzSWIxRlgwQjJncVZPZlROS3lQekR0bTlpODBIRVFhdWVqOEQ4bVR3V1ExcmYzQXFVMnVJRnllNUNHNXNheExOeDVub0FyQtIBpAFBVV95cUxNdi1YQjVzLTU3bjNocGRtQVhYbVhEQzEwbjAyY3dEM0RQVHNOM2MxUWNxdTJjQmtJaE9KeXhWdHA4M2dRb3JjbW82ZWVtbF9sS1Z4cG1aVGNISGJLVmQzSWIxRlgwQjJncVZPZlROS3lQekR0bTlpODBIRVFhdWVqOEQ4bVR3V1ExcmYzQXFVMnVJRnllNUNHNXNheExOeDVub0FyQg?oc=5",
-      "publishedAt": "2026-08-23T05:25:16+00:00",
-      "heat": 60
     }
   ]
 }
