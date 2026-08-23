@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T19:47:37.646743+00:00",
+  "updatedAt": "2026-08-23T20:29:03.883630+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -18,6 +18,18 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MaDFCRXBZS3RaNFR5XzFpdEJLNW5taWJVa1NSd2l2aWN6SkJTRnIyQXVHcU1zUGZJNWhhWTR2MlVLN1o2OXl4MEg1d0t3SmVoaHMyX0VrWHhnc0FEeDU3empMQ2RVRHlMN0NnNVZpQnJVTFJIOE1IYUdVdTA?oc=5",
       "publishedAt": "2026-08-23T18:37:58+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-world-cup-2026-golden-ball-odds-unstoppable-messi-heavily-favoured-over-rodri-for-individual-crown-squawka",
+      "title": "世界杯 2026 Golden Ball 赔率: Uns击败pable Messi heavily favoured over Rodri for individual crown - Squawka",
+      "summary": "世界杯 2026 Golden Ball 赔率: Uns击败pable Messi heavily favoured over Rodri for individual crown  Squawka",
+      "originalTitle": "World Cup 2026 Golden Ball odds: Unstoppable Messi heavily favoured over Rodri for individual crown - Squawka",
+      "originalSummary": "World Cup 2026 Golden Ball odds: Unstoppable Messi heavily favoured over Rodri for individual crown  Squawka",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEVLV21JaERoV19tS1NCNWNLYzRWUjRxR05jR25wdzNmcFVGMDVDSzRqZ3lrUGpNWjlpMkE0LWI2QnJBeVZjSmM3RmJDYldwSml6al9TcGE2R2VETjJLLTdaU1FQY2ltc3FhTVplY2MybHZPNGFWUDZrOTlXdmxqcFBCVUhsaGVvNkE?oc=5",
+      "publishedAt": "2026-08-23T18:34:48+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-argentina-to-take-legal-action-after-fifa-hands-players-hefty-fines-bans-sports-illustrated",
@@ -200,28 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-brighton-vs-aston-villa-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
-      "title": "Brighton vs Aston Villa Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "summary": "Brighton vs Aston Villa Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
-      "originalTitle": "Brighton vs Aston Villa Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "originalSummary": "Brighton vs Aston Villa Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
+      "id": "google-news-rojiblanco-stamp-on-the-mexico-u-17-national-team-ahead-of-the-2026-fifa-world-cup-in-qatar-chivas",
+      "title": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 国际足联 世界杯 in Qatar! - Chivas",
+      "summary": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 国际足联 世界杯 in Qatar!  Chivas",
+      "originalTitle": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar! - Chivas",
+      "originalSummary": "Rojiblanco Stamp on the Mexico U-17 National Team Ahead of the 2026 FIFA World Cup in Qatar!  Chivas",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNT01tbE5ObEVjQklxTmoxdDdBRk1TTUtpalV4bEJLTDZ2YUlwdGEyS3ZDdG5xaEJDcnY3enlyYnp1NkdObVQ1ejFWZEtFd3JmRzNYdHFiYWk0anI2TldKOGNLWl9fTHhaY3lqc28ycVEtcXZHS2ZDSlU3YlNNV3JsZl8xbzZsZDd3YlBMT2lRRmV5MFByd2h3Z0tQa0ZRNDM1aXZR?oc=5",
-      "publishedAt": "2026-08-23T15:03:34+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-nottingham-forest-vs-leeds-united-prediction-and-betting-tips-august-25th-2026-sportskeeda",
-      "title": "Nottingham Forest vs Leeds United Prediction and Betting Tips | August 25th 2026 - Sportskeeda",
-      "summary": "Nottingham Forest vs Leeds United Prediction and Betting Tips | August 25th 2026  Sportskeeda",
-      "originalTitle": "Nottingham Forest vs Leeds United Prediction and Betting Tips | August 25th 2026 - Sportskeeda",
-      "originalSummary": "Nottingham Forest vs Leeds United Prediction and Betting Tips | August 25th 2026  Sportskeeda",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxObWRXYmZra3VUbTF6RzFrVFhBV19TYlV2YkZMSWhlZTh3UE9GS1FmMFB6Zy12YzVpTHlrbUVxYkFWZ2lwVDI3Si1VV21ldXhMWjdaRXRtMnpjRFZxbUpmVld5UGRjR0Nibjd3Y1AxSXNpYmRWRDdJOTR2YWxhV01FZ0xuaW94ekVtbTVodTRVSU1xVi1vQWlzdlhaMGJ1Rngyd0VDRlJRQkFYdElPOUZxVg?oc=5",
-      "publishedAt": "2026-08-23T14:02:00+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObzQ5Z1ZtRmczUEFRZWs4MWhiWEotazJTOHU0RVBSVEZCaWFORlJ3cTNTSXI2dThkTHRMTWZJRW5WSTR5TU9nQ1pMaFNDWWM5N3ZtUjBNSFB3dk1FVElFV1ZOTlNMTXNKMFdyQ3RYQU5iRjlYVFBCSlJMOHdKOEY4amdjbnJBUUMxWng3OWRORDVkeW8yNnhzYjZyTXV4NjBaR2N1UG5wNlFYWVM0ckxVdDN5RkItYkNrVkhDZUd4N3JUbmFNQmNGN0E0c3o?oc=5",
+      "publishedAt": "2026-08-23T15:16:00+00:00",
+      "heat": 60
     }
   ]
 }
