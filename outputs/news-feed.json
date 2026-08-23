@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:27:04.738149+00:00",
+  "updatedAt": "2026-08-23T23:49:56.581698+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-worst-mls-team-spends-millions-on-world-cup-star-in-desperate-attempt-to-save-season-sports-illustrated",
+      "title": "Worst MLS Team Spends Millions on 世界杯 Star in Desperate Attempt to Save Season - Sports Illustrated",
+      "summary": "Worst MLS Team Spends Millions on 世界杯 Star in Desperate Attempt to Save Season  Sports Illustrated",
+      "originalTitle": "Worst MLS Team Spends Millions on World Cup Star in Desperate Attempt to Save Season - Sports Illustrated",
+      "originalSummary": "Worst MLS Team Spends Millions on World Cup Star in Desperate Attempt to Save Season  Sports Illustrated",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ckpTczAzVTd4VVFneWlKa2ltVXNnM0J4NzRIMVhQMW13UXZTU29vRnYwTlVwdS1HbFpvZTdhNUtKUjcyLUE1VVkydTNkcXNYelJCTTFVUTQxdjRvejVVNFpicWlCWGZrREU4dWROd0g4SEVlSlR1anB1c0NVTTQ?oc=5",
+      "publishedAt": "2026-08-23T23:30:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-2026-asean-championship-fixtures-results-standings-how-to-watch-espn-philippines",
       "title": "2026 ASEAN Championship: Fixtures, results, standings, how to watch - ESPN Philippines",
@@ -136,7 +148,7 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3VOdWtwZkxmZm00d01sMmJLVlFzME9QQVNKN3lkQjdfX3hlUm5zQkVUNFZ6VllUTTYteGlCRkFmaWhDNXVUR1p4OURCNUc2bnoxT24tVnlaa0FmTzJGSjhGbUd2bDcxbnBINTVTOGh2bzR5MFhDSXY5ZGxnZVdOR0pjQS0?oc=5",
-      "publishedAt": "2026-08-23T18:33:07+00:00",
+      "publishedAt": "2026-08-23T18:30:17+00:00",
       "heat": 60
     },
     {
@@ -162,6 +174,18 @@
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUJxNHhXU0xTaElMSnBxMUY5MHgyQVRDdUpWNHY1Z2dNUlgxdWNGdm9EWjBrc1laVm9oYjU4VS1WSjR2VmVaaXhKU1NBZ2U5YUM4SGl4X2c2dHFDQVNzcGZWeDYtNG9KZ0NsTFM4cUtRMXFTNDZPQUxBNGpoRXRkbjhhZzRqTXpUWWw5MklEVUZ5X1JiU09kX25CWVZCOGd1WXZn0gGHA0FVX3lxTE92OHY4R2wxbGM1WFNIdklIQXhhSVYwZzAwVjlTQ3h0WnQ2eWV2NEdmMllfeDBqb1ZzanVjQWpMNU8zQVA3NzlnejI0ZXI5MGhwMmh1cDlWQ2gzYWN4YXJRSGZiUl9RYUFDcDNOY2JFb0xVZFVjUnBpOEMzWGxKZ2dNcmRDdFg4eHNmelNyX2FTU1FUdHFnMy1rLUozUEt5S1E0TFNzX3lkdnQ1LV9nUm1jT3RwTU9Ib0FyNmRFdk0wdzU3ZDlDNkJicnFxbFVnMU5neXlmVG56TDJwLWtWX19id2k0OUQ3V2ZwaFhzRGx5R1lCeE9zSUVyOExyU0dZUFlXdzN0blNSdUxTR1RyRTBoQldOOFJaWVBxMVpQd3lDWFFoRDBpYW1Ka0F6bmR4U2dBYXQwalVtN0lHX0wyaVA4aXZsaDhYdEEtZ2ZRYlVSRU9ScHdERjE2RUZQcUViSDVLV0x5WkJwMUc3Y0RjN3I2WnJuTzVyb0pfaEVJUDRFeVAtakxFSTg?oc=5",
       "publishedAt": "2026-08-23T18:26:21+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
+      "title": "England 世界杯 2026 squad 赔率: Who will 球星t vs Croatia? - Squawka",
+      "summary": "England 世界杯 2026 squad 赔率: Who will 球星t vs Croatia?  Squawka",
+      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
+      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
+      "publishedAt": "2026-08-23T18:14:12+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-iran-to-win-world-cup-2026-odds-find-outright-odds-top-goalscorer-odds-to-win-group-g-squawka",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFVPYUVXb1hzeTZlR29mbG5WVlhGRWt4TDdYMEoyVW9BclhHc0RFWmJPbXU0MndLcU91YTlGN0lGTHBBaXUyVUc0WlhOcm9ISGMtSDhKZzBHYUhkQnlBcTgwZHhHLU50OG5QSmhjZktmUlJBdFduN1ZHRkdHQUFyaV9RMkI1LTZRbnlsdFhBUWdnaUdYb0FHTkNiMUVlSDdCZmVGMW00U1NhcXc?oc=5",
       "publishedAt": "2026-08-23T17:34:36+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-elche-vs-barcelona-la-liga-2026-27-live-streaming-and-tv-telecast-in-india-latestly",
-      "title": "Elche vs Barcelona La Liga 2026-27 Live Streaming and TV Telecast in India - LatestLY",
-      "summary": "Elche vs Barcelona La Liga 2026-27 Live Streaming and TV Telecast in India  LatestLY",
-      "originalTitle": "Elche vs Barcelona La Liga 2026-27 Live Streaming and TV Telecast in India - LatestLY",
-      "originalSummary": "Elche vs Barcelona La Liga 2026-27 Live Streaming and TV Telecast in India  LatestLY",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPc1MyNVY4TEtNM0FoMk9sbEdBQjllNVBrcDFYdHhrVDE4S0h3ZkNMTW1DM3FKSURpd2xrOUVRczdhT2VFcHIzMmM1OWhyX3JvUzBKdy1yaWhxS3ZEM0xacVJlMFI1QVhuQVlpcFBTdTk0WlFkQmo5NDlqX1pMYmZEYXB6OHk1TVNOdU5GWmYzclBlU2ZIQmNlT09uejN4MzBLN2ZWRWVmbGtLUS1seUxWOV9lMk0yNUpNdFZZWGZQRjFYbkhRNHlB0gHMAUFVX3lxTE9rNjdMU1FfenRTOGxlckJYOTRBSmF5RFdhWDRiM25VNnd0NmhpRTRzUjFsLWdtU25yeU5xZ19IdW9Ec1ZORlJuMG9LeE5tYXN0d1UxWnVjOG0yTGF1RlpubXJJaFJkVlhtWDNBYV9DYmhLb2VrT0x4Q0V0b2h3MWhNaDdtcW9HZ1Z1blBMaW55VkVIREhjcHIzbnUtUENja1ZLQXZuaWUwakt0MzRTLVJVMGl4bDBuR1hXY0xrVGs0ODIxTFB3QURHQ2hlOQ?oc=5",
-      "publishedAt": "2026-08-23T17:30:51+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-atlanta-united-signs-former-world-cup-star-in-4-year-contract-wsb-tv",
-      "title": "Atlanta United signs former 世界杯 球星 in 4-year contract - WSB-TV",
-      "summary": "Atlanta United signs former 世界杯 球星 in 4-year contract  WSB-TV",
-      "originalTitle": "Atlanta United signs former World Cup star in 4-year contract - WSB-TV",
-      "originalSummary": "Atlanta United signs former World Cup star in 4-year contract  WSB-TV",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNUUlnZFlaV3BSNlRoVnFLa0lhMUxtVUV3WVJvUGVDVU9yczBSQkRTRmNLeHNiM0M1RjUtWndfZ3REdE5DTjVfN0laWGpNZDcybjBBSXNOclhMaC1TU1piVVNWel9MS2tiNW1fNUQ3SzVRNl9SazNmMjhtY1oxNmxEUGZKNWFxU1p1aHFiNlgxVUM1cTBrY3I1bXFJUDJvUnJ3djNwSFRaVWxCMVZ0YVc4ZGJjY0xlMll4alZ1QURmMkozMU84dVHSAdoBQVVfeXFMTm8zMFJTRVdFSmtub3NyemtTWGZnbnBlQWhoZEZpcWxtc2F0TWIxT1plZWJ3UWhtR2RnUm5EaGl1QWkybUw1Y0lxWHZsN2ZOZTZjX0tZMk9SVFVtQXBCNDJ0MDVydnl3eVUxcXVuWk53VTJNc2p4TVB6Yjc5eHI5Z2prRk01Z2tSM3RzeDExTFN3SHFfNGhxU1ZsT3h1VEc1MTdIQ0JUMVJxb1dNWXd1MFpJZU9LTFhZWGxjUGVubHd2MkhEM0tUS3ZPZS16Z2M5MnViMkM4M3BEaGc?oc=5",
-      "publishedAt": "2026-08-23T17:02:19+00:00",
       "heat": 52
     }
   ]
