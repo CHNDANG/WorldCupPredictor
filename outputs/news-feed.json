@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-23T23:49:56.581698+00:00",
+  "updatedAt": "2026-08-24T01:41:27.902547+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-infantino-says-fifa-must-close-financial-gap-between-members-upi-com",
+      "title": "Infantino says 国际足联 must close financial gap between members - upi.com",
+      "summary": "Infantino says 国际足联 must close financial gap between members  upi.com",
+      "originalTitle": "Infantino says FIFA must close financial gap between members - upi.com",
+      "originalSummary": "Infantino says FIFA must close financial gap between members  upi.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdG9kM25Ma0xmZnhlYzVTdVJ4bUtTdWJMVTI5b1VkRTUwRnNqcGRORGNMa3pTVFl1ZEE2aF9RZGZNbko4YlpZYmFfc0FsSkhwX3kyXzRPanMyaW5fU0hlZUxoODlIS29kQ1E5Wm9WTlUxSU9EaFExWjh1UmMtaXhqYU9wUWU0R0doQXlGbENvSVB0NWd3N2RBUXRxX0xUQU01OEwxMDIybnlTTlBFcDJsLWNn?oc=5",
+      "publishedAt": "2026-08-24T00:59:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
+      "title": "Watch 国际足联 世界杯 2026™ Live Stream & Highlights - TOD",
+      "summary": "Watch 国际足联 世界杯 2026™ Live Stream & Highlights  TOD",
+      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
+      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
+      "publishedAt": "2026-08-24T00:00:48+00:00",
+      "heat": 68
+    },
     {
       "id": "google-news-worst-mls-team-spends-millions-on-world-cup-star-in-desperate-attempt-to-save-season-sports-illustrated",
       "title": "Worst MLS Team Spends Millions on 世界杯 Star in Desperate Attempt to Save Season - Sports Illustrated",
@@ -17,6 +41,54 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB0ckpTczAzVTd4VVFneWlKa2ltVXNnM0J4NzRIMVhQMW13UXZTU29vRnYwTlVwdS1HbFpvZTdhNUtKUjcyLUE1VVkydTNkcXNYelJCTTFVUTQxdjRvejVVNFpicWlCWGZrREU4dWROd0g4SEVlSlR1anB1c0NVTTQ?oc=5",
       "publishedAt": "2026-08-23T23:30:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-sound-official-fifa-world-cup-2026-album-six9ja",
+      "title": "国际足联 Sound – Official 国际足联 世界杯 2026™ Album - Six9ja",
+      "summary": "国际足联 Sound – Official 国际足联 世界杯 2026™ Album  Six9ja",
+      "originalTitle": "FIFA Sound – Official FIFA World Cup 2026™ Album - Six9ja",
+      "originalSummary": "FIFA Sound – Official FIFA World Cup 2026™ Album  Six9ja",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQR0tEdnVyRVhMbmJDTVRMVTg2Q1o0dFRxeFJISk9UQ0MzbzB2UVpjeWpoU0ZsYVpVSWs2U2NvNlVlMTRta2FRZVgza1d5U1JyQ1JzMUZpOVVNT0lXSjBjakFGbVVCZW1VWXZoT1VfWjZkVWx2RncycnA4S2NvNWJseHBB?oc=5",
+      "publishedAt": "2026-08-23T23:13:31+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-france-defeat-norway-4-1-to-top-group-i-in-fifa-world-cup-2026-news-on-air",
+      "title": "France defeat 挪威 4-1 to 击败 Group I in 国际足联 世界杯 2026 - News On AIR",
+      "summary": "France defeat 挪威 4-1 to 击败 Group I in 国际足联 世界杯 2026  News On AIR",
+      "originalTitle": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026 - News On AIR",
+      "originalSummary": "France defeat Norway 4-1 to top Group I in FIFA World Cup 2026  News On AIR",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOSmpxLTdTV3Bja0R4SENIOHA3SmlzLVBFMXFlY0RLLVM5Mk5ySThPeFBaVGstQmRucUV1V3ZzM2FreklQMWxxTVdrdVdtVV8xMkJmTUJ0QlBfbXNaaHJQZXRtdmprTTdEMXlxalJYTTV4aHo2VXZnejJBeTVzUjhwdGxCc2hVbm1Kc083OXNfUS02dw?oc=5",
+      "publishedAt": "2026-08-23T23:08:05+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-google-wins-a-big-moment-as-argentina-takes-lead-in-world-cup-07-09-2026-mediapost",
+      "title": "Google Wins A Big Moment As Argentina Takes Lead In 世界杯 07/09/2026 - MediaPost",
+      "summary": "Google Wins A Big Moment As Argentina Takes Lead In 世界杯 07/09/2026  MediaPost",
+      "originalTitle": "Google Wins A Big Moment As Argentina Takes Lead In World Cup 07/09/2026 - MediaPost",
+      "originalSummary": "Google Wins A Big Moment As Argentina Takes Lead In World Cup 07/09/2026  MediaPost",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbEdWZ3ZHaFRLcEg0dW1jQUZfdXNIY3pIQkhvbzNpd1Z2U0hBaW5xbnhkT2kxUGpXR1FQQzlXSDcySV9tbWlKN2lnYmFrWmpTMjZvRE9ManhoaXF1cE5xS2dWYXVjWDJ0NjlOemdQdEhmV2Q2aWNiQVRZeUNlZFlrN0dOXzhaZkZYMmh3UGQ3eDJsMDFkWlRKWnd0UXlpemFUYVRiYzRyUjEzcm9rb0E?oc=5",
+      "publishedAt": "2026-08-23T22:19:04+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-hero-ferran-torres-scores-twice-in-psg-debut-to-help-salvage-draw-fox-sports",
+      "title": "世界杯 Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw - FOX Sports",
+      "summary": "世界杯 Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw  FOX Sports",
+      "originalTitle": "World Cup Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw - FOX Sports",
+      "originalSummary": "World Cup Hero Ferran Torres Scores Twice In PSG Debut To Help Salvage Draw  FOX Sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZFlBYmpneHZ4WXFCTHRzQnVTV3U5Nk1Yd1NuT2dPcy1kRXp4cjl3R2l3cXByWWQ2a012NEV1UXZBcDhxZkhCZGVJeFhvaXF0N3pWa3I2Zk95SmJXNjR6WFVSNG9sd3liam1SdktMbWhMWHVsQTB4V0M4NUNPdG5mQXBveXFtVHliTU95U1BSbTlWVGtCZm9qdmVLc0w4ZWZyMFFfUGJibElEeWR6Rk000gGvAUFVX3lxTE5rRkpBNjhWMFViMS1GTERMRnd0RURpQjdPa0V2TXE3aDNFVlhSNk84TUN3bmU5SVRuRHhZV0psVDRuZ2habmhmT3VEa1dqOTlwcmlnbXJQTVBBdnRWMFpQS3hSTE9pTVB3UTh0aFlpQTA1b0pOYzR1SzY0YzYxenJ2WEpVbUpOTEwxRDA3TlRUQ01xTE41Qk9VMTN4V2FfWFdtUXVwV0lTWXRCdkEyRHM?oc=5",
+      "publishedAt": "2026-08-23T22:04:26+00:00",
       "heat": 52
     },
     {
@@ -44,18 +116,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-i-cannot-spit-on-my-country-andre-ayew-breaks-silence-on-world-cup-snub-ghanaweb",
-      "title": "I cannot spit on my country' - Andre Ayew breaks silence on 世界杯 snub - GhanaWeb",
-      "summary": "I cannot spit on my country' - Andre Ayew breaks silence on 世界杯 snub  GhanaWeb",
-      "originalTitle": "'I cannot spit on my country' - Andre Ayew breaks silence on World Cup snub - GhanaWeb",
-      "originalSummary": "'I cannot spit on my country' - Andre Ayew breaks silence on World Cup snub  GhanaWeb",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQnZUdHdHMXB6TzFlNTlNbUdjVm11T3hZRktjVW5iVHBHV3FCLWJ2cEJtc3BVVjJYRXBVTnFYWWliYmZmYzZBUi14RUt1VF9TdTJza1ZZNklPaHljbGk3Q0RzVnNnSE5nM2FzWVpzbkowVEo4Q2xYLUdPakREUlVINGZjbUxvWV92NDBlY3JRTExjYWRxbVhRSHJqZkpCTGFIVF9tdmpXTFNqZ1QtMkhvOVNYX3R6aEQ2VTJGbzA0czJUZ3NTRGhLamE5NlY?oc=5",
-      "publishedAt": "2026-08-23T21:19:00+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
       "title": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song) - Tooxclusive",
       "summary": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song)  Tooxclusive",
@@ -66,6 +126,18 @@
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
       "publishedAt": "2026-08-23T20:20:11+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-southampton-vs-west-ham-united-prediction-and-betting-tips-august-25th-2026-sportskeeda",
+      "title": "Southampton vs West Ham United Prediction and Betting Tips | August 25th 2026 - Sportskeeda",
+      "summary": "Southampton vs West Ham United Prediction and Betting Tips | August 25th 2026  Sportskeeda",
+      "originalTitle": "Southampton vs West Ham United Prediction and Betting Tips | August 25th 2026 - Sportskeeda",
+      "originalSummary": "Southampton vs West Ham United Prediction and Betting Tips | August 25th 2026  Sportskeeda",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOblVER2hiSWN0YmhoWWQwZUthbE9RY1ZhRHVtZDRleXJLWGVTMFpCTWFiRXl1aDdzWjVMbmp2ZGF1ZXZvNUxLbllSZ3pwTzF4aVZkQkJWOUFYejZsVlFhYm1xSmZLYXVSWTJ1bzNuOWUyajFwTmY1c1pKaGJ6X3lRQWJSaDVHMkpJNEVHUTMtbU04V1hBQjZTWXlMLTFzM21keWdudW1DLTY0eUpu?oc=5",
+      "publishedAt": "2026-08-23T20:15:00+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-atalanta-vs-sassuolo-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
@@ -116,6 +188,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-iran-to-win-world-cup-2026-odds-find-outright-odds-top-goalscorer-odds-to-win-group-g-squawka",
+      "title": "Iran to win 世界杯 2026 赔率: Find outright 赔率, 击败 进球scorer & 赔率 to win Group G - Squawka",
+      "summary": "Iran to win 世界杯 2026 赔率: Find outright 赔率, 击败 进球scorer & 赔率 to win Group G  Squawka",
+      "originalTitle": "Iran to win World Cup 2026 odds: Find outright odds, top goalscorer & odds to win Group G - Squawka",
+      "originalSummary": "Iran to win World Cup 2026 odds: Find outright odds, top goalscorer & odds to win Group G  Squawka",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkh6RHQ4YnVUVTZNMFZKU1dBR3c4UzFfT0dyb0NySmQtTXRISkFaQ3U1Q0Q0eV90eTBFbjBzNlVuUk15SjBPSjRySkx3c1UzdTBEM2VJWWhQcXNWYVlZQk0yVWwtMWtlQnhlY1ZWclYzOUo0STZVaTYwcUhpbnBqLW5VM21fcEVNZU9tdVln?oc=5",
+      "publishedAt": "2026-08-23T19:02:31+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-world-cup-2026-golden-ball-odds-unstoppable-messi-heavily-favoured-over-rodri-for-individual-crown-squawka",
       "title": "世界杯 2026 Golden Ball 赔率: Uns击败pable Messi heavily favoured over Rodri for individual crown - Squawka",
       "summary": "世界杯 2026 Golden Ball 赔率: Uns击败pable Messi heavily favoured over Rodri for individual crown  Squawka",
@@ -124,7 +208,7 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPdEVLV21JaERoV19tS1NCNWNLYzRWUjRxR05jR25wdzNmcFVGMDVDSzRqZ3lrUGpNWjlpMkE0LWI2QnJBeVZjSmM3RmJDYldwSml6al9TcGE2R2VETjJLLTdaU1FQY2ltc3FhTVplY2MybHZPNGFWUDZrOTlXdmxqcFBCVUhsaGVvNkE?oc=5",
-      "publishedAt": "2026-08-23T18:56:12+00:00",
+      "publishedAt": "2026-08-23T18:54:18+00:00",
       "heat": 60
     },
     {
@@ -138,90 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MaDFCRXBZS3RaNFR5XzFpdEJLNW5taWJVa1NSd2l2aWN6SkJTRnIyQXVHcU1zUGZJNWhhWTR2MlVLN1o2OXl4MEg1d0t3SmVoaHMyX0VrWHhnc0FEeDU3empMQ2RVRHlMN0NnNVZpQnJVTFJIOE1IYUdVdTA?oc=5",
       "publishedAt": "2026-08-23T18:37:58+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-world-cup-2026-golden-glove-odds-simon-and-martinez-set-for-final-showdown-squawka",
-      "title": "世界杯 2026 Golden Glove 赔率: Simon and Martinez set for final showdown - Squawka",
-      "summary": "世界杯 2026 Golden Glove 赔率: Simon and Martinez set for final showdown  Squawka",
-      "originalTitle": "World Cup 2026 Golden Glove odds: Simon and Martinez set for final showdown - Squawka",
-      "originalSummary": "World Cup 2026 Golden Glove odds: Simon and Martinez set for final showdown  Squawka",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNa3VOdWtwZkxmZm00d01sMmJLVlFzME9QQVNKN3lkQjdfX3hlUm5zQkVUNFZ6VllUTTYteGlCRkFmaWhDNXVUR1p4OURCNUc2bnoxT24tVnlaa0FmTzJGSjhGbUd2bDcxbnBINTVTOGh2bzR5MFhDSXY5ZGxnZVdOR0pjQS0?oc=5",
-      "publishedAt": "2026-08-23T18:30:17+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-argentina-to-take-legal-action-after-fifa-hands-players-hefty-fines-bans-sports-illustrated",
-      "title": "Argentina to Take Legal Action After 国际足联 Hands Players Hefty Fines, Bans - Sports Illustrated",
-      "summary": "Argentina to Take Legal Action After 国际足联 Hands Players Hefty Fines, Bans  Sports Illustrated",
-      "originalTitle": "Argentina to Take Legal Action After FIFA Hands Players Hefty Fines, Bans - Sports Illustrated",
-      "originalSummary": "Argentina to Take Legal Action After FIFA Hands Players Hefty Fines, Bans  Sports Illustrated",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1nc3FFY3NyWXdQWjhDTG5Hb3dSWTFySnJhQXk3X1hLeEdnUU16US15WXJRX2VQdk1FaTFZYjNMeWdOQzVVWm5scTlaRDFXbnZkVGJOZDJxWXZYLUljejY0cGxkWDRGb1NHY0Vvdm41MzNFVGZCN0VsT0JDODI?oc=5",
-      "publishedAt": "2026-08-23T18:30:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-lots-of-people-did-me-wrong-andre-ayew-opens-up-on-2026-world-cup-snub-ghana-sports-online",
-      "title": "Lots of people did me wrong’ – Andre Ayew opens up on 2026 世界杯 snub - Ghana Sports Online",
-      "summary": "Lots of people did me wrong’ – Andre Ayew opens up on 2026 世界杯 snub  Ghana Sports Online",
-      "originalTitle": "‘Lots of people did me wrong’ – Andre Ayew opens up on 2026 World Cup snub - Ghana Sports Online",
-      "originalSummary": "‘Lots of people did me wrong’ – Andre Ayew opens up on 2026 World Cup snub  Ghana Sports Online",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbUJxNHhXU0xTaElMSnBxMUY5MHgyQVRDdUpWNHY1Z2dNUlgxdWNGdm9EWjBrc1laVm9oYjU4VS1WSjR2VmVaaXhKU1NBZ2U5YUM4SGl4X2c2dHFDQVNzcGZWeDYtNG9KZ0NsTFM4cUtRMXFTNDZPQUxBNGpoRXRkbjhhZzRqTXpUWWw5MklEVUZ5X1JiU09kX25CWVZCOGd1WXZn0gGHA0FVX3lxTE92OHY4R2wxbGM1WFNIdklIQXhhSVYwZzAwVjlTQ3h0WnQ2eWV2NEdmMllfeDBqb1ZzanVjQWpMNU8zQVA3NzlnejI0ZXI5MGhwMmh1cDlWQ2gzYWN4YXJRSGZiUl9RYUFDcDNOY2JFb0xVZFVjUnBpOEMzWGxKZ2dNcmRDdFg4eHNmelNyX2FTU1FUdHFnMy1rLUozUEt5S1E0TFNzX3lkdnQ1LV9nUm1jT3RwTU9Ib0FyNmRFdk0wdzU3ZDlDNkJicnFxbFVnMU5neXlmVG56TDJwLWtWX19id2k0OUQ3V2ZwaFhzRGx5R1lCeE9zSUVyOExyU0dZUFlXdzN0blNSdUxTR1RyRTBoQldOOFJaWVBxMVpQd3lDWFFoRDBpYW1Ka0F6bmR4U2dBYXQwalVtN0lHX0wyaVA4aXZsaDhYdEEtZ2ZRYlVSRU9ScHdERjE2RUZQcUViSDVLV0x5WkJwMUc3Y0RjN3I2WnJuTzVyb0pfaEVJUDRFeVAtakxFSTg?oc=5",
-      "publishedAt": "2026-08-23T18:26:21+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
-      "title": "England 世界杯 2026 squad 赔率: Who will 球星t vs Croatia? - Squawka",
-      "summary": "England 世界杯 2026 squad 赔率: Who will 球星t vs Croatia?  Squawka",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
-      "publishedAt": "2026-08-23T18:14:12+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-iran-to-win-world-cup-2026-odds-find-outright-odds-top-goalscorer-odds-to-win-group-g-squawka",
-      "title": "Iran to win 世界杯 2026 赔率: Find outright 赔率, 击败 进球scorer & 赔率 to win Group G - Squawka",
-      "summary": "Iran to win 世界杯 2026 赔率: Find outright 赔率, 击败 进球scorer & 赔率 to win Group G  Squawka",
-      "originalTitle": "Iran to win World Cup 2026 odds: Find outright odds, top goalscorer & odds to win Group G - Squawka",
-      "originalSummary": "Iran to win World Cup 2026 odds: Find outright odds, top goalscorer & odds to win Group G  Squawka",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkh6RHQ4YnVUVTZNMFZKU1dBR3c4UzFfT0dyb0NySmQtTXRISkFaQ3U1Q0Q0eV90eTBFbjBzNlVuUk15SjBPSjRySkx3c1UzdTBEM2VJWWhQcXNWYVlZQk0yVWwtMWtlQnhlY1ZWclYzOUo0STZVaTYwcUhpbnBqLW5VM21fcEVNZU9tdVln?oc=5",
-      "publishedAt": "2026-08-23T18:06:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-most-chances-created-at-world-cup-2026-squawka",
-      "title": "Most Chances Created at 世界杯 2026 - Squawka",
-      "summary": "Most Chances Created at 世界杯 2026  Squawka",
-      "originalTitle": "Most Chances Created at World Cup 2026 - Squawka",
-      "originalSummary": "Most Chances Created at World Cup 2026  Squawka",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjFXT3c2UVVhcnB5RGpfUXBObzk3MlJVcXEwTndOcmhXbHU2SWJtdG41Rm5GTzk3WHVfbncxenZta1QyTTJJbmxmQ1hWWFh3TFBrWFZ6aEpXX1l3T0RBNVB6REkyT0Z1MkMySjNuVVdUY1RTenhFdzNic1ZZOWdnNnN3NHhIeVpuVTB3WDNWYw?oc=5",
-      "publishedAt": "2026-08-23T17:57:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-newcastle-united-vs-liverpool-prediction-and-betting-tips-august-23rd-2026-sportskeeda",
-      "title": "Newcastle United vs Liverpool Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "summary": "Newcastle United vs Liverpool Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
-      "originalTitle": "Newcastle United vs Liverpool Prediction and Betting Tips | August 23rd 2026 - Sportskeeda",
-      "originalSummary": "Newcastle United vs Liverpool Prediction and Betting Tips | August 23rd 2026  Sportskeeda",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMFVPYUVXb1hzeTZlR29mbG5WVlhGRWt4TDdYMEoyVW9BclhHc0RFWmJPbXU0MndLcU91YTlGN0lGTHBBaXUyVUc0WlhOcm9ISGMtSDhKZzBHYUhkQnlBcTgwZHhHLU50OG5QSmhjZktmUlJBdFduN1ZHRkdHQUFyaV9RMkI1LTZRbnlsdFhBUWdnaUdYb0FHTkNiMUVlSDdCZmVGMW00U1NhcXc?oc=5",
-      "publishedAt": "2026-08-23T17:34:36+00:00",
-      "heat": 52
     }
   ]
 }
