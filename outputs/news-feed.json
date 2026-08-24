@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T15:44:24.463045+00:00",
+  "updatedAt": "2026-08-24T16:44:20.423368+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-el-paso-county-declares-aug-24-ricardo-pepi-day-after-world-cup-selection-kfox",
+      "title": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after 世界杯 selection - KFOX",
+      "summary": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after 世界杯 selection  KFOX",
+      "originalTitle": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection - KFOX",
+      "originalSummary": "El Paso County declares Aug. 24 'Ricardo Pepi Day' after World Cup selection  KFOX",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOMlB1b0hONDdyMmVidWx5a19JVWFGX0VyelEwZXAtZS1nUkJlV3FzbHU2c0lacWhOaWhxVm1JVUJPcDR0dkFVZlpDWEIzc3F1bUI0MFRDb2RWXy1kaFU0RDdrbHM3c1pYdUhVQllnRDZ3TXduVDFNQW14MDhrQW9ORUwtSnRwbURlWXdGVHU5WU5jd3h1UzgwU2ItWnRVTnNJNEpqb2tn?oc=5",
+      "publishedAt": "2026-08-24T16:01:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-nigeria-to-set-new-world-cup-record-with-brazil-usa-in-12-days-soccernet-ng",
+      "title": "Nigeria to set new 世界杯 record with Brazil, USA in 12 days - Soccernet.ng",
+      "summary": "Nigeria to set new 世界杯 record with Brazil, USA in 12 days  Soccernet.ng",
+      "originalTitle": "Nigeria to set new World Cup record with Brazil, USA in 12 days - Soccernet.ng",
+      "originalSummary": "Nigeria to set new World Cup record with Brazil, USA in 12 days  Soccernet.ng",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9CNFo0S2xHZll4djQzb2ZpTHgzV1pIVUwydUF2WXdKYlhuTXBuVENCVnhNNzN4Z3VadS1vVEZBM2Z5M0FwMWlSenZQUk83bFVpTWxkaXMtWkJqOFZzdjNrNFp3WENIV2dLemE1MmxRd2JpOUMwVWNpYzJkTU0?oc=5",
+      "publishedAt": "2026-08-24T15:57:32+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-15-betway-prem-clubs-to-get-fifa-world-cup-money-kickoff",
       "title": "15 Betway Prem clubs to get 国际足联 世界杯 money - KickOff",
@@ -16,8 +40,20 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YXJSR2lRZWpodzFyOVdXRi1rdkduSHNycmd1YWtJYlVxZklqTC1zX2pWZDJkRmRCMzFwU29vWVhlb3NjQzlDUzhUd0UySVZhcW1UOEQ3NF9BcUdEUjA3WFNmUk9LLUxlMmdIYmI1Nlc4cHJNTlQ1OHVBS1llWjQ?oc=5",
-      "publishedAt": "2026-08-24T15:36:53+00:00",
+      "publishedAt": "2026-08-24T15:40:58+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-nigeria-joins-2-other-countries-in-exclusive-world-cup-group-vanguard-news",
+      "title": "Nigeria joins 2 other countries in exclusive 世界杯 group - Vanguard News",
+      "summary": "Nigeria joins 2 other countries in exclusive 世界杯 group  Vanguard News",
+      "originalTitle": "Nigeria joins 2 other countries in exclusive World Cup group - Vanguard News",
+      "originalSummary": "Nigeria joins 2 other countries in exclusive World Cup group  Vanguard News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQNVJqOFk1NklCSE9GYUZEMWRGQ1BkS3ptYkRMdEk3dm51YktTN2dyeUcyUE96ckx2M3FLT3NFdVJoS1hxWC1JSlc2emRQdWxocU1QaE5wTHE5RWVma3R1YlpwaTZZZ0ZMMWlyOTFKQzJqS05xYnVpOXZmT1VWVU5EWldvckhHMUp5NzhpbDhSNHdfZEY4M2d0bE5KWVdDZ9IBowFBVV95cUxNODloYk5vUEVaUnN6SHBqNFl0cF80ZmN5OG45cXB5b3Axc2RBQkdtRU5IWlF3SGlfSDBpNWRrbVNZVzZpSl9OazNkZWZxWFVUbFBxZzVsVlBjVEpJaTFXVEVsSnViUVd6T3hhOHVlazZCeEprREhwenBhaV9EdmpyME9LOWVISmxGM0RmUEk4WXJKN3dQUUZSaktyeTFzN0JFQkpj?oc=5",
+      "publishedAt": "2026-08-24T15:36:43+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-semenya-begs-fifa-to-intervene-after-benfica-block-her-from-world-cup-score-nigeria",
@@ -32,6 +68,30 @@
       "heat": 60
     },
     {
+      "id": "google-news-stoke-city-vs-hull-city-prediction-and-betting-tips-25-august-2026-sportskeeda",
+      "title": "Stoke City vs Hull City Prediction and Betting Tips | 25 August 2026 - Sportskeeda",
+      "summary": "Stoke City vs Hull City Prediction and Betting Tips | 25 August 2026  Sportskeeda",
+      "originalTitle": "Stoke City vs Hull City Prediction and Betting Tips | 25 August 2026 - Sportskeeda",
+      "originalSummary": "Stoke City vs Hull City Prediction and Betting Tips | 25 August 2026  Sportskeeda",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOQkdNempTbEVvSURwdmNqbDV4d3NGWnFON1htN0YxaDE5cWR4UEJPYmQ4QThnTjItWC0wcnhac25tOWRPTHViUElYalR2dGFpU0g1RERjOHhLRThsZ0FsMHpXTEdna3FaN1F1VTlTZzR2SE9BT0JEWm9saHQ5bFpqWmRRSF9VMjNBUGJLNmxXR1ctdmd1em50YXdaTEdpSnk4?oc=5",
+      "publishedAt": "2026-08-24T15:06:21+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-india-knocked-out-of-world-cup-in-a-match-where-they-needed-to-win-by-two-goals-india-concede-five-and-go-do",
+      "title": "India knocked out of 世界杯! 🇮🇳💔 In a match where they needed to win by two 进球s, India concede five and go down 3-5 to Argentina🇦🇷. The scoreline looks respectable thanks to two late 进球s, but the performance was pretty poor from Craig Fulton's sid - facebook.com",
+      "summary": "India knocked out of 世界杯! 🇮🇳💔 In a match where they needed to win by two 进球s, India concede five and go down 3-5 to Argentina🇦🇷. The scoreline looks respectable thanks to two late 进球s, but the performance was p",
+      "originalTitle": "India knocked out of World Cup! 🇮🇳💔 In a match where they needed to win by two goals, India concede five and go down 3-5 to Argentina🇦🇷. The scoreline looks respectable thanks to two late goals, but the performance was pretty poor from Craig Fulton's sid - facebook.com",
+      "originalSummary": "India knocked out of World Cup! 🇮🇳💔 In a match where they needed to win by two goals, India concede five and go down 3-5 to Argentina🇦🇷. The scoreline looks respectable thanks to two late goals, but the performance was p",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNckxKY2xrb0J5NEY3b3EtYjZUZlR1VkJyc3g1MV9UREhQbzJrNExfSExRUTRIbks0NVprREpVclhGNi1BT3FBUEJ6Z1R1WHlwa1k2SUdQSVVNblRGam9FaDZjZGwxcWpBSlJ6YmsxaFJqV3dGSXJNZmtCNFlwZVBNVk1FU3hJNTZjeUdSY3Z2dmFMMFZWbHZPZm1TSk9YMFFfajhSZ1BhMVhna09DclJtTmdwNGlZck5Wb3lUbWx6VWhFYzRtWHI3RkxQMTgtTlZrbUpj?oc=5",
+      "publishedAt": "2026-08-24T14:51:11+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-what-did-the-world-cup-2026-teach-us-about-betting-on-canada-s-chance-of-glory-in-2030-and-beyond-netnewsled",
       "title": "What Did the 世界杯 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond? - NetNewsLedger",
       "summary": "What Did the 世界杯 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond?  NetNewsLedger",
@@ -42,6 +102,18 @@
       "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDc4TVBJV0RKTkJtNkMyMVVxZm9FR2xCUEYtNmZ5eVI2SG9CTDJCVjhaM1ZuZm9IcjVyS0tSQjZPSDl0eDd3akZIZnpLYTJMSG5LVGRYdWQwZS1NT0dhWFRYejhHM1ZKN0R4ZTRIQmh0QVVDNktCZDVsVFcyTTNJX3o3aHhKeDRDNHhQVkxMNTJWQjJES3NQRjFzNzZZU2dpcHpjcHdYNzN5cmVJNENTYzlaVXBGc2lOdG9uVU40Q3NEVG9kMllwMnEtRFBVWG9QZVp5ag?oc=5",
       "publishedAt": "2026-08-24T14:42:37+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song) - Tooxclusive",
+      "summary": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song)  Tooxclusive",
+      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
+      "publishedAt": "2026-08-24T14:09:24+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-it-won-t-take-much-longer-nico-schlotterbeck-breaks-silence-on-recovery-from-world-cup-ankle-injury-goal-com",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkJCbnpoc1JVN3JmNDFNQ2JNV1dacmJsTU5fcEk0M1gzcG1Wb1NzT2hoeENlSzkwN0FTZEdaRU5xbWc2RlNzdHJXdnRwZjRKM1Fiai1peTdXMUVqVHVfUHhOdEVua1Bhc3hOOXFjVkZDbnBJUkFmWlZUMHdlaFdaOTZQVEpUdHRWYjBBSzJQYThiazlhaVZaUTdxUdIBmgFBVV95cUxNeTRxWDFMWjJtTUh1cVpiOG5QeG80SmtTTGFlcnRJdUoxdjlQVUtUal9UWUc1b2ZKa2hOVVdvYms1YmY0c3Y5ek1XUUpySkZBTF9zUldfX240ZG5VeWM2a2p3MXM4YVdQbDliRFZFdHFjMzdNZThwUS1nVlpCTDk4Y25qYW56cnVheWlLWTR5dVpGTVh1ZndQNERn?oc=5",
       "publishedAt": "2026-08-24T12:12:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-blask-world-cup-and-euro-sink-fantasy-sports-demand-tribuna-com",
-      "title": "Blask: 世界杯 and Euro sink fantasy sports demand - Tribuna.com",
-      "summary": "Blask: 世界杯 and Euro sink fantasy sports demand  Tribuna.com",
-      "originalTitle": "Blask: World Cup and Euro sink fantasy sports demand - Tribuna.com",
-      "originalSummary": "Blask: World Cup and Euro sink fantasy sports demand  Tribuna.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbUd2RWN4M2FxTGJHbkZPQ0dhTDREYVlXZU1oSmhNZWJoLUZMLXBaUE9iMUVnY1NrUGhKY0dkWGJlemEtMllqdUtfZnlVWWYzWC16Q1lrQ2trcGN6QU01cFcwTG5CWDdHcjhqcXJTZGJkSzc3cGlmSWszN3owV01neFJoaDVSRVc5ck13c1FaTzZVNUVJcFo1WU92VGNiVXBVNk9FM9IBpAFBVV95cUxNbUd2RWN4M2FxTGJHbkZPQ0dhTDREYVlXZU1oSmhNZWJoLUZMLXBaUE9iMUVnY1NrUGhKY0dkWGJlemEtMllqdUtfZnlVWWYzWC16Q1lrQ2trcGN6QU01cFcwTG5CWDdHcjhqcXJTZGJkSzc3cGlmSWszN3owV01neFJoaDVSRVc5ck13c1FaTzZVNUVJcFo1WU92VGNiVXBVNk9FMw?oc=5",
-      "publishedAt": "2026-08-24T12:06:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-nigeria-join-usa-and-brazil-in-exclusive-fifa-u-20-women-s-world-cup-club-pulse-sports-nigeria",
-      "title": "Nigeria join USA and Brazil in exclusive 国际足联 U-20 Women's 世界杯 Club - Pulse Sports Nigeria",
-      "summary": "Nigeria join USA and Brazil in exclusive 国际足联 U-20 Women's 世界杯 Club  Pulse Sports Nigeria",
-      "originalTitle": "Nigeria join USA and Brazil in exclusive FIFA U-20 Women's World Cup Club - Pulse Sports Nigeria",
-      "originalSummary": "Nigeria join USA and Brazil in exclusive FIFA U-20 Women's World Cup Club  Pulse Sports Nigeria",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWmNUUU1oWjNKbko4UVN2eVhOLVB4RmpFWWI1NzF0eG5lOGxXYU1nSGdCOTZfWk1Sc3hJMk5nRUpEQ01rSktLaVhLOXA5SHRVc1RVVVZqRTdrbEY5MW56dW5wdmhneDEzZUk0RGpLeWtYOVZOSmMzZmtkM1MzaEREQnhXQk5PeU5saVpRd0JlVE1hZVpTb0Jtek4xWHVMVnBIdnI4VzZSVnFmZWNYdXRpSXpOLWpWSHNvQm5LVENmU2N1Mkk?oc=5",
-      "publishedAt": "2026-08-24T12:02:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-from-hockey-nation-to-football-nation-what-the-2026-world-cup-changed-in-canada-besoccer-livescore",
-      "title": "From Hockey Nation to Football Nation? What the 2026 世界杯 Changed in Canada - BeSoccer Livescore",
-      "summary": "From Hockey Nation to Football Nation? What the 2026 世界杯 Changed in Canada  BeSoccer Livescore",
-      "originalTitle": "From Hockey Nation to Football Nation? What the 2026 World Cup Changed in Canada - BeSoccer Livescore",
-      "originalSummary": "From Hockey Nation to Football Nation? What the 2026 World Cup Changed in Canada  BeSoccer Livescore",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPLUxCbmVaMlZGMy1PczVVTXJRdUpGZGFQNEQ2ekxkdzR6cC1Jd1B5cElmN0Q1UklES1hyRmFOZ29fVVpPZ0JyTzhHMnF1Zk5pRXRfbFQtaVJ3bUl1NDJIOGVkY1VCbjFlaW8wQTNHZF9JYVpDbDN0a25nLXFzOVZQMWVyek5QUDZ1UVFKdTZ2cHNwMFk4TjgzcndtQzExVXB4RmJEeFZBN2dsUWVITXdCMU0yVG9sVlpHNTk4d9IBvAFBVV95cUxPLUxCbmVaMlZGMy1PczVVTXJRdUpGZGFQNEQ2ekxkdzR6cC1Jd1B5cElmN0Q1UklES1hyRmFOZ29fVVpPZ0JyTzhHMnF1Zk5pRXRfbFQtaVJ3bUl1NDJIOGVkY1VCbjFlaW8wQTNHZF9JYVpDbDN0a25nLXFzOVZQMWVyek5QUDZ1UVFKdTZ2cHNwMFk4TjgzcndtQzExVXB4RmJEeFZBN2dsUWVITXdCMU0yVG9sVlpHNTk4dw?oc=5",
-      "publishedAt": "2026-08-24T11:57:27+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-live-spain-vs-austria-fifa-world-cup-2026-round-of-32-esp-vs-aut-live-score-match-updates-round-1-2y32swzhao",
-      "title": "LIVE: 西班牙 Vs Austria | 国际足联 世界杯 2026 Round Of 32 | ESP Vs AUT LIVE Score & Match Updates Round 1 (2y32sWzHAo) - Mshale",
-      "summary": "LIVE: 西班牙 Vs Austria | 国际足联 世界杯 2026 Round Of 32 | ESP Vs AUT LIVE Score & Match Updates Round 1 (2y32sWzHAo)  Mshale",
-      "originalTitle": "LIVE: Spain Vs Austria | FIFA World Cup 2026 Round Of 32 | ESP Vs AUT LIVE Score & Match Updates Round 1 (2y32sWzHAo) - Mshale",
-      "originalSummary": "LIVE: Spain Vs Austria | FIFA World Cup 2026 Round Of 32 | ESP Vs AUT LIVE Score & Match Updates Round 1 (2y32sWzHAo)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0zNUxfOW5haURRTHNqa0pKaG1rWUtDUnBNX3NJQzcxVWMyNmp4YVRjeUpidDdOLTVzbFN6YW9xdDFiM3FRb3FTN09SNDM5UjN4NlVwbnM5WnRrZUU?oc=5",
-      "publishedAt": "2026-08-24T11:54:41+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-ranking-the-10-worst-kits-in-world-football-for-the-2026-27-season-bleacher-report",
-      "title": "Ranking the 10 Worst Kits in World Football for the 2026-27 Season - Bleacher Report",
-      "summary": "Ranking the 10 Worst Kits in World Football for the 2026-27 Season  Bleacher Report",
-      "originalTitle": "Ranking the 10 Worst Kits in World Football for the 2026-27 Season - Bleacher Report",
-      "originalSummary": "Ranking the 10 Worst Kits in World Football for the 2026-27 Season  Bleacher Report",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNWE1FdkFacldNTVZaSy05YS1UcU9aX1VyRjVZV09rQ0ctTmh6dGtpRWZhUnFzcTQ0aVZwUWNEUG4wdFJ4RDdOYmpIajFpM09YZkJucjROLUFacDZuYjFYelNlOG83VnBEMWE0LVhSTUVfd2NDVWh5Vl9qdVBWalJJYUxKYUVQbElhRVdXalYyckxHMDQtZzVlTS1xLW4?oc=5",
-      "publishedAt": "2026-08-24T11:51:05+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-falconets-depart-for-poland-ahead-2026-u-20-women-s-world-cup-daily-post-nigeria",
-      "title": "Falconets depart for Poland ahead 2026 U-20 Women’s 世界杯 - Daily Post Nigeria",
-      "summary": "Falconets depart for Poland ahead 2026 U-20 Women’s 世界杯  Daily Post Nigeria",
-      "originalTitle": "Falconets depart for Poland ahead 2026 U-20 Women’s World Cup - Daily Post Nigeria",
-      "originalSummary": "Falconets depart for Poland ahead 2026 U-20 Women’s World Cup  Daily Post Nigeria",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemtuSDlMUzdGS0pXUTFKMFY4WnVqdFlMTW92el9wWEQ0SVhiVVdKRnQzQ0JKejhhZ055VEp2VUo3X3I1NWZtOVh5bnZ4YkZrb3Vjb2EtSW1IcHN4N29sb3RJSGtRQkRZbjhpTVVlZFRUUjFMRUtKNDFXTGJrZ0dvZDBweVBnTWJaQTFybXUwN2NzRTNGZjExZQ?oc=5",
-      "publishedAt": "2026-08-24T11:38:38+00:00",
       "heat": 52
     }
   ]
