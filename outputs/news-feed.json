@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-24T14:52:34.015895+00:00",
+  "updatedAt": "2026-08-24T15:44:24.463045+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,40 @@
   ],
   "articles": [
     {
-      "id": "google-news-fifa-u-20-women-s-world-cup-black-princesses-to-face-sleza-wroclaw-in-friendly-match-mynewsgh",
-      "title": "国际足联 U-20 Women’s 世界杯: Black Princesses to Face Sleza Wroclaw in friendly match - MyNewsGh",
-      "summary": "国际足联 U-20 Women’s 世界杯: Black Princesses to Face Sleza Wroclaw in friendly match  MyNewsGh",
-      "originalTitle": "FIFA U-20 Women’s World Cup: Black Princesses to Face Sleza Wroclaw in friendly match - MyNewsGh",
-      "originalSummary": "FIFA U-20 Women’s World Cup: Black Princesses to Face Sleza Wroclaw in friendly match  MyNewsGh",
+      "id": "google-news-15-betway-prem-clubs-to-get-fifa-world-cup-money-kickoff",
+      "title": "15 Betway Prem clubs to get 国际足联 世界杯 money - KickOff",
+      "summary": "15 Betway Prem clubs to get 国际足联 世界杯 money  KickOff",
+      "originalTitle": "15 Betway Prem clubs to get FIFA World Cup money - KickOff",
+      "originalSummary": "15 Betway Prem clubs to get FIFA World Cup money  KickOff",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNTRTWUZZQlJYUmluS016cUV1X3ZpRlBnS0o5bDl3ZGtWc09XT3NwMm1qa3ZFQWhTcnZGaDV4X1hxTTVNTjdPNlk5Z24xUDFXSjNTOGtlT05MZ0NwS2NMQ0hpUFVMRFFWTDVtMlVzLUlLWkdjZHpkNEU0UW5fRVp1d0hIdldrem9UaWNRdGh4b2g5UUpLTEFDOURDalMxZzJYYjNlZGFsMkh4LXRXUEE?oc=5",
-      "publishedAt": "2026-08-24T14:43:54+00:00",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42YXJSR2lRZWpodzFyOVdXRi1rdkduSHNycmd1YWtJYlVxZklqTC1zX2pWZDJkRmRCMzFwU29vWVhlb3NjQzlDUzhUd0UySVZhcW1UOEQ3NF9BcUdEUjA3WFNmUk9LLUxlMmdIYmI1Nlc4cHJNTlQ1OHVBS1llWjQ?oc=5",
+      "publishedAt": "2026-08-24T15:36:53+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-semenya-begs-fifa-to-intervene-after-benfica-block-her-from-world-cup-score-nigeria",
+      "title": "Semenya begs 国际足联 to intervene after Benfica block her from 世界杯 - Score Nigeria",
+      "summary": "Semenya begs 国际足联 to intervene after Benfica block her from 世界杯  Score Nigeria",
+      "originalTitle": "Semenya begs FIFA to intervene after Benfica block her from World Cup - Score Nigeria",
+      "originalSummary": "Semenya begs FIFA to intervene after Benfica block her from World Cup  Score Nigeria",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRDV2ZnE0VEZlcFZFb3lTLTRTZkZpbGpCdGp2cXB3SVdSMllhS0hGeURZLXpQOVFrMnZOQy1lRXZSRnRNb3lNQUh6Nk5DRlk3RFBORGhtY09aN3hCbWw4NmRyakNwUzVNcVc1RHVmLU5vTlRTTEhhUncxU3VONEZMQ3JjWVEtcVRDUjNmMU80VjJ2eFYyRk0zLVFKdWJla0k?oc=5",
+      "publishedAt": "2026-08-24T15:35:41+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-what-did-the-world-cup-2026-teach-us-about-betting-on-canada-s-chance-of-glory-in-2030-and-beyond-netnewsled",
+      "title": "What Did the 世界杯 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond? - NetNewsLedger",
+      "summary": "What Did the 世界杯 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond?  NetNewsLedger",
+      "originalTitle": "What Did the World Cup 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond? - NetNewsLedger",
+      "originalSummary": "What Did the World Cup 2026 Teach Us About Betting on Canada's Chance of Glory in 2030 and Beyond?  NetNewsLedger",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOUDc4TVBJV0RKTkJtNkMyMVVxZm9FR2xCUEYtNmZ5eVI2SG9CTDJCVjhaM1ZuZm9IcjVyS0tSQjZPSDl0eDd3akZIZnpLYTJMSG5LVGRYdWQwZS1NT0dhWFRYejhHM1ZKN0R4ZTRIQmh0QVVDNktCZDVsVFcyTTNJX3o3aHhKeDRDNHhQVkxMNTJWQjJES3NQRjFzNzZZU2dpcHpjcHdYNzN5cmVJNENTYzlaVXBGc2lOdG9uVU40Q3NEVG9kMllwMnEtRFBVWG9QZVp5ag?oc=5",
+      "publishedAt": "2026-08-24T14:42:37+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-it-won-t-take-much-longer-nico-schlotterbeck-breaks-silence-on-recovery-from-world-cup-ankle-injury-goal-com",
@@ -27,8 +51,8 @@
       "originalSummary": "'It won't take much longer' - Nico Schlotterbeck breaks silence on recovery from World Cup ankle injury  Goal.com",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWVppemhZWndsMnFrWVVFc0c0RzBfeEJKUmc5NWxRWmR5Rmk4M05keXg5TGJHS1ppSHJVamI3UmhLX25MbnpqTFlVY0dYWmF3ZXlkMTdpc2FGQnNtaHNsamVaLWNNUk1NM2RNUzhYZnlSUl9HclZPczdZUlpseTUzTDJYd1pQQmNVMjVzbEtXbzBtbWo1Tk9uRGhULWRIR2NWQUhYaHdHaVR1ZGNzX3NJVlltdXViNjFzSWlNaXFiaw?oc=5",
-      "publishedAt": "2026-08-24T14:08:39+00:00",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONGdOa3pvYU4yZmVacFEzaVU5N0VyLVpwWG9vSi1VZUtYNkRWZS1TcFR0d2NTUkZUTDJtaktINk53LTJ6aVJSWnBYcy1jeXhXOG44SVlsUnNmMlMwbUE0T3otT0lPM2tFUzJ6WTdPWHBwT2t5bWtkcWdleUVwM3ZrelhVWEV6RHhkb3hoTWFwSldMZmJSc1JQWnJldHRWWF9uOW1uWFd3bndULWxvNWdlZHlEUURmSnZOaC15cE0xZw?oc=5",
+      "publishedAt": "2026-08-24T14:05:20+00:00",
       "heat": 60
     },
     {
@@ -42,6 +66,30 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOV3pqRHFieWI5UTlUMEFEc3dvaGoyTlhscng5a3BUbV9DVHJtb1ZxX2VOZHZkU19Yem5iNW51ajVtX1duQmR0Nk8xVTlMUE1oYV9aQzM4dmlmekZ5c0NHenVId0xaLWFpeHZrWW5tam9XSUhPNXN1TGpkWmtFWGdzUDlEZG8yZi1XMkhtN1VpMzhmQzVHTFBwTXByYVBsOGIzVEFjdA?oc=5",
       "publishedAt": "2026-08-24T13:36:13+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-rema-lisa-anitta-goals-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Rema, LISA & Anitta – Goals (国际足联 2026 世界杯 Song) - Tooxclusive",
+      "summary": "Rema, LISA & Anitta – Goals (国际足联 2026 世界杯 Song)  Tooxclusive",
+      "originalTitle": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdUU4ck5scjFfSTJOclZPQVlkSGVYYU9KLWdSZ19MWDVhX2FIalFfbGhVeU52Rm1IZTR3LXFFQWhDaWRHVEZ4MDJFd2VJRHdTRjc1VEhkcXJnV0NXaXRvWDdSVmt1RmwxRjRpX1NjN3BsSEliWU84VzFKOGVGQVJ6dFl2b0dhdHp6aUl2dGZn?oc=5",
+      "publishedAt": "2026-08-24T13:31:04+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-ballon-d-or-top-5-favourites-ahead-of-shortlist-vanguard-news",
+      "title": "2026 Ballon d’Or 击败 5 favourites ahead of shortlist - Vanguard News",
+      "summary": "2026 Ballon d’Or 击败 5 favourites ahead of shortlist  Vanguard News",
+      "originalTitle": "2026 Ballon d’Or top 5 favourites ahead of shortlist - Vanguard News",
+      "originalSummary": "2026 Ballon d’Or top 5 favourites ahead of shortlist  Vanguard News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQa1dHb085ZXZ5TWdNY0Nzbkh0UmFUWFVIOXpJUTZoMmJYT211N3FXb3dBdG9PbTF1UkJxVmdjX0hUaGZ2V0JaaUt1QVNRR2tKaF9BNVo4ZFhXR0VPSU9yX0JxZE5WQTV3Rks0N2ZXd2YxQ0t1akNleWFqdDRtQldxSWcyRWVTUllLajI3dVdDenRDSHQ4bjZ30gGXAUFVX3lxTFBrV0dvTzlldnlNZ01jQ3NuSHRSYVRYVUg5eklRNmgyYlhPbXU3cVdvd0F0b09tMXVSQnFWZ2NfSFRoZnZXQlppS3VBU1FHa0poX0E1WjhkWFdHRU9JT3JfQnFkTlZBNXdGSzQ3Zld3ZjFDS3VqQ2V5YWp0NG1CV3FJZzJFZVNSWUtqMjd1V0N6dENIdDhuNnc?oc=5",
+      "publishedAt": "2026-08-24T13:19:50+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-visa-bottlenecks-disrupt-nigeria-falconets-departure-ahead-of-2026-world-cup-in-poland-streamlinefeed-co-ke",
@@ -80,18 +128,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-andre-ayew-should-have-been-part-of-black-stars-squad-for-2026-world-cup-george-afriyie-modern-ghana",
-      "title": "Andre Ayew should have been part of Black Stars' squad for 2026 世界杯 - George Afriyie - Modern Ghana",
-      "summary": "Andre Ayew should have been part of Black Stars' squad for 2026 世界杯 - George Afriyie  Modern Ghana",
-      "originalTitle": "Andre Ayew should have been part of Black Stars' squad for 2026 World Cup - George Afriyie - Modern Ghana",
-      "originalSummary": "Andre Ayew should have been part of Black Stars' squad for 2026 World Cup - George Afriyie  Modern Ghana",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeTRxWDFMWjJtTUh1cVpiOG5QeG80SmtTTGFlcnRJdUoxdjlQVUtUal9UWUc1b2ZKa2hOVVdvYms1YmY0c3Y5ek1XUUpySkZBTF9zUldfX240ZG5VeWM2a2p3MXM4YVdQbDliRFZFdHFjMzdNZThwUS1nVlpCTDk4Y25qYW56cnVheWlLWTR5dVpGTVh1ZndQNERn0gGaAUFVX3lxTE15NHFYMUxaMm1NSHVxWmI4blB4bzRKa1NMYWVydEl1SjF2OVBVS1RqX1RZRzVvZkpraE5VV29iazViZjRzdjl6TVdRSnJKRkFMX3NSV19fbjRkblV5YzZrancxczhhV1BsOWJEVkV0cWMzN01lOHBRLWdWWkJMOThjbmphbnpydWF5aUtZNHl1WkZNWHVmd1A0RGc?oc=5",
-      "publishedAt": "2026-08-24T12:17:54+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-bologna-vs-lazio-prediction-and-betting-tips-august-24th-2026-sportskeeda",
       "title": "Bologna vs Lazio Prediction and Betting Tips | August 24th 2026 - Sportskeeda",
       "summary": "Bologna vs Lazio Prediction and Betting Tips | August 24th 2026  Sportskeeda",
@@ -102,6 +138,18 @@
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbTBwVkV6c2VQY1doN3A2Y3JIc0RyUDlyVV9xV3MyMDNMb0N3QVc4S29JRlFnZTU2cEI2ZjBkaThKQVdRWnBnMVNLcGZmQU8tZW5WUzFUbEZiTGpHWTFLNklKRnBheFdZRjhOV0RqSkljLWMzNjJXSEI1NS1NZVNfM3pSbFBMOGs1SjY2TU9tbjIwamtBRXEydGRn?oc=5",
       "publishedAt": "2026-08-24T12:15:43+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-andre-ayew-should-have-been-part-of-black-stars-squad-for-2026-world-cup-george-afriyie-modern-ghana",
+      "title": "Andre Ayew should have been part of Black Stars' squad for 2026 世界杯 - George Afriyie - Modern Ghana",
+      "summary": "Andre Ayew should have been part of Black Stars' squad for 2026 世界杯 - George Afriyie  Modern Ghana",
+      "originalTitle": "Andre Ayew should have been part of Black Stars' squad for 2026 World Cup - George Afriyie - Modern Ghana",
+      "originalSummary": "Andre Ayew should have been part of Black Stars' squad for 2026 World Cup - George Afriyie  Modern Ghana",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSkJCbnpoc1JVN3JmNDFNQ2JNV1dacmJsTU5fcEk0M1gzcG1Wb1NzT2hoeENlSzkwN0FTZEdaRU5xbWc2RlNzdHJXdnRwZjRKM1Fiai1peTdXMUVqVHVfUHhOdEVua1Bhc3hOOXFjVkZDbnBJUkFmWlZUMHdlaFdaOTZQVEpUdHRWYjBBSzJQYThiazlhaVZaUTdxUdIBmgFBVV95cUxNeTRxWDFMWjJtTUh1cVpiOG5QeG80SmtTTGFlcnRJdUoxdjlQVUtUal9UWUc1b2ZKa2hOVVdvYms1YmY0c3Y5ek1XUUpySkZBTF9zUldfX240ZG5VeWM2a2p3MXM4YVdQbDliRFZFdHFjMzdNZThwUS1nVlpCTDk4Y25qYW56cnVheWlLWTR5dVpGTVh1ZndQNERn?oc=5",
+      "publishedAt": "2026-08-24T12:12:35+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-blask-world-cup-and-euro-sink-fantasy-sports-demand-tribuna-com",
@@ -172,56 +220,8 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQemtuSDlMUzdGS0pXUTFKMFY4WnVqdFlMTW92el9wWEQ0SVhiVVdKRnQzQ0JKejhhZ055VEp2VUo3X3I1NWZtOVh5bnZ4YkZrb3Vjb2EtSW1IcHN4N29sb3RJSGtRQkRZbjhpTVVlZFRUUjFMRUtKNDFXTGJrZ0dvZDBweVBnTWJaQTFybXUwN2NzRTNGZjExZQ?oc=5",
-      "publishedAt": "2026-08-24T11:37:40+00:00",
+      "publishedAt": "2026-08-24T11:38:38+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-we-drove-andrey-santos-to-carrington-fifa-world-cup-2026-igp4sggs3i-mshale",
-      "title": "We Drove Andrey Santos To Carrington! Fifa 世界杯 2026 (IgP4SgGS3i) - Mshale",
-      "summary": "We Drove Andrey Santos To Carrington! Fifa 世界杯 2026 (IgP4SgGS3i)  Mshale",
-      "originalTitle": "We Drove Andrey Santos To Carrington! Fifa World Cup 2026 (IgP4SgGS3i) - Mshale",
-      "originalSummary": "We Drove Andrey Santos To Carrington! Fifa World Cup 2026 (IgP4SgGS3i)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1oMzY4TlJTaDREdllEcHVzVFN5b215dWVKNUROQUFtTmY5T0tZT1c2TG1WV2N3RFB5eDBQR2ZRQWVhY3NoWTFfOEhoTEhLMGJHck1iZHBSUDFnUFk?oc=5",
-      "publishedAt": "2026-08-24T11:21:28+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-tottenham-hotspur-vs-charlton-athletic-prediction-and-betting-tips-august-26th-2026-sportskeeda",
-      "title": "Tottenham Hotspur vs Charlton Athletic Prediction and Betting Tips | August 26th 2026 - Sportskeeda",
-      "summary": "Tottenham Hotspur vs Charlton Athletic Prediction and Betting Tips | August 26th 2026  Sportskeeda",
-      "originalTitle": "Tottenham Hotspur vs Charlton Athletic Prediction and Betting Tips | August 26th 2026 - Sportskeeda",
-      "originalSummary": "Tottenham Hotspur vs Charlton Athletic Prediction and Betting Tips | August 26th 2026  Sportskeeda",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcG5RcG9HWDJWMG5Xd05Jc3hJVTh1S0pJR2VDT3NzVUJKSEtLZkFObU9xaWVkQTNTTmctcWpmdzl4R19jTFV2NTVMS1ZGWFFTTHBYYzFvTTFZWk4yRFBGZ3dMVjdjUjdwd1dYOEFZdmpfMVRJQUZCak1wMzNLYWlGWnFHTVZSSi1kS080MmpnVzNYT29weTV0M3FsYk4xdHFQei0wbDQ3LWxKenViMFZXcjlSOFhhZlE?oc=5",
-      "publishedAt": "2026-08-24T11:04:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-23-goals-remaining-good-luck-gianni-infantino-greets-cristiano-ronaldo-with-1000-goal-milestone-question-at-",
-      "title": "23 进球s remaining? Good luck” - Gianni Infantino greets Cristiano Ronaldo with 1000-进球 milestone question at Esports 世界杯 - Sportskeeda",
-      "summary": "23 进球s remaining? Good luck” - Gianni Infantino greets Cristiano Ronaldo with 1000-进球 milestone question at Esports 世界杯  Sportskeeda",
-      "originalTitle": "“23 goals remaining? Good luck” - Gianni Infantino greets Cristiano Ronaldo with 1000-goal milestone question at Esports World Cup - Sportskeeda",
-      "originalSummary": "“23 goals remaining? Good luck” - Gianni Infantino greets Cristiano Ronaldo with 1000-goal milestone question at Esports World Cup  Sportskeeda",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQMUQxei1SN2paeW5iQXNxSjF0TjFEc1daYkhlT1JEZ0dBeFFZWlZ3MDJWV1VLQV9qb0tPdnlnbWdLYjNJcUhOejBUZ1A0cnBZNnlkeXJuQ3Jla0I2MGZJM2lPU0tqOXdBRktRZ2tTdm50eXF6X0o3cGNhUUhodnJ1MGpRZTY4SlZhekpOYWJDQ3VIbXM3RElkeVBIWVlNUHFockZWVDVubUZhc2xSNHdnaG9pUXRKRXJfai1SS3pkQnJaVEo5NW5OSWJnZDlWSUFiS1gzVE5XS0pZNkRMNjh3U2ZJY1lISEc3b3pmbzFrbEc?oc=5",
-      "publishedAt": "2026-08-24T11:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-janet-akekoromowei-arrives-in-poland-ahead-of-fifa-u-20-women-s-world-cup-super-falcons-show",
-      "title": "Janet Akekoromowei Arrives in Poland Ahead of 国际足联 U-20 Women’s 世界杯 - Super Falcons Show",
-      "summary": "Janet Akekoromowei Arrives in Poland Ahead of 国际足联 U-20 Women’s 世界杯  Super Falcons Show",
-      "originalTitle": "Janet Akekoromowei Arrives in Poland Ahead of FIFA U-20 Women’s World Cup - Super Falcons Show",
-      "originalSummary": "Janet Akekoromowei Arrives in Poland Ahead of FIFA U-20 Women’s World Cup  Super Falcons Show",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOT2VxYXRyVWVRYXBWV19sR3FZU2V3ZTUtRlU5RVlScFJiU3Z6TklRWTVkdlZScGpNd1RYaVpDaXNRNFV4MktNUDlWQ0FsLWpYUDVNOGcyZHRIaXQ1blJLSTluUjE2MVdYUE1wOURBdjZZLXVaaXJuMmtSOGlNSi15LXBwalk3WDVyYm1UWENibTdjMWFqWFBrNWNDYUpyd2NsUWx2VQ?oc=5",
-      "publishedAt": "2026-08-24T10:47:56+00:00",
-      "heat": 60
     }
   ]
 }
