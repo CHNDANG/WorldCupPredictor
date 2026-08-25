@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-25T21:34:11.749306+00:00",
+  "updatedAt": "2026-08-25T22:33:21.311790+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -16,8 +16,56 @@
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOFN0Q0p0SVlOTF9qb2IwUkc4eGpVaXhzZUZtMlJldEJlMUEwUEh3ZWtqMDktTS02WndwaUxLMnFhYm1yd09oQm5PWkg0UnFPWDF3?oc=5",
-      "publishedAt": "2026-08-25T21:14:25+00:00",
+      "publishedAt": "2026-08-25T22:12:58+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-brazil-women-s-under-20s-land-in-poland-for-the-world-cup-yahoo-sports",
+      "title": "Brazil women’s under-20s land in Poland for the 世界杯 - Yahoo Sports",
+      "summary": "Brazil women’s under-20s land in Poland for the 世界杯  Yahoo Sports",
+      "originalTitle": "Brazil women’s under-20s land in Poland for the World Cup - Yahoo Sports",
+      "originalSummary": "Brazil women’s under-20s land in Poland for the World Cup  Yahoo Sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPemJ3SXVBb2xXZDFuLW1ER0QzTzZIaGs3ZGxDU0NQdDRMV3d6TEw1U3UtUUY2WHFOdm56VkhPSDdELTk4UFhXc3RYdWMzdDdqOXVOZ2UxejU3TDRtZnpQMHBCQnZab0xRVjJkeURMYWdvOWhkbGoxc1o3S0pYZE1pTnZn?oc=5",
+      "publishedAt": "2026-08-25T21:22:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-lionel-messi-argentina-fifa-world-cup-2026-highlights-argentina-latest-news-highlights-mcfc-uyknteoepq-mshal",
+      "title": "Lionel Messi & Argentina | 国际足联 世界杯 2026 Highlights Argentina Latest News & Highlights⚽ Mcfc (uYknteoEPQ) - Mshale",
+      "summary": "Lionel Messi & Argentina | 国际足联 世界杯 2026 Highlights Argentina Latest News & Highlights⚽ Mcfc (uYknteoEPQ)  Mshale",
+      "originalTitle": "Lionel Messi & Argentina | FIFA World Cup 2026 Highlights Argentina Latest News & Highlights⚽ Mcfc (uYknteoEPQ) - Mshale",
+      "originalSummary": "Lionel Messi & Argentina | FIFA World Cup 2026 Highlights Argentina Latest News & Highlights⚽ Mcfc (uYknteoEPQ)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBjY0tNVFhKZXAyT3RPQ18tMGJpalZUSk84ejBqRzg5OV9mSjE5VEhWejB2Uk1BQkZRZlhzWU1qZDF4dTE5RU5CdUVUOGZpWlJvT1ZtNjg5c2d0QTA?oc=5",
+      "publishedAt": "2026-08-25T21:03:52+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-women-s-world-cup-2027-qualified-teams-full-list-of-nations-who-will-play-tournament-in-brazil-goal-com",
+      "title": "Women's 世界杯 2027 qualified teams: Full list of nations who will play tournament in Brazil - Goal.com",
+      "summary": "Women's 世界杯 2027 qualified teams: Full list of nations who will play tournament in Brazil  Goal.com",
+      "originalTitle": "Women's World Cup 2027 qualified teams: Full list of nations who will play tournament in Brazil - Goal.com",
+      "originalSummary": "Women's World Cup 2027 qualified teams: Full list of nations who will play tournament in Brazil  Goal.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhtUnVrdTk1Si03ZDhpeFJ0TkNQbXhPVzFWSVpmYUUwRHFpMEtYQjRLUnRDeHBWUGFuMjd5YVk2c1lFd0NNVXMtQlF0OVhDb0w3SFFtRmh2XzNnTjd5VXlmbkd1cGJ5LXBIc1J2c2g0VkVBU1BnbFA3ckJDZ3piN05GQk9IMmJ5RE82VTFCRXctTm8?oc=5",
+      "publishedAt": "2026-08-25T20:38:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-united-states-mexico-2026-2030-live-from-mexico-city-mexico-wnba-vpl10rbl6d-mshale",
+      "title": "国际足联 世界杯 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d) - Mshale",
+      "summary": "国际足联 世界杯 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d)  Mshale",
+      "originalTitle": "FIFA World Cup 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d) - Mshale",
+      "originalSummary": "FIFA World Cup 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1SOTBmamtPbzVZUTV2aFVsRVJCTkU1aGhzcHIyeFN4Nlk2WmtMYk95TXQtbU4zeDVYckJSYUlfYmlZdHgtUXRyejBtSmJnUU40bmhQc2N6LXRaemM?oc=5",
+      "publishedAt": "2026-08-25T20:23:10+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-amid-drama-fifa-alliances-could-change-international-soccer-forever-opinion-yahoo-sports",
@@ -29,42 +77,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPTWhnZ2U1X19rMjllY1B0QVo0R2hXeEhRSUlCT0RKaWU3a1p1VFVkLUNqREo0UVBBUG50TUh6Skd6RzdzVzUtUVVQeFFzUjlZV0lweGFCZWQ0MGJCeHVfMzNzYXNaRFoyaXctWEpwdzkxU3VyZU9hQ1hPb2NfdDBGWTViZzNaaXM?oc=5",
       "publishedAt": "2026-08-25T20:07:24+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-amid-drama-fifa-alliances-could-change-international-soccer-forever-opinion-usa-today",
-      "title": "Amid drama, 国际足联 alliances could change international 足球 forever | Opinion - USA Today",
-      "summary": "Amid drama, 国际足联 alliances could change international 足球 forever | Opinion  USA Today",
-      "originalTitle": "Amid drama, FIFA alliances could change international soccer forever | Opinion - USA Today",
-      "originalSummary": "Amid drama, FIFA alliances could change international soccer forever | Opinion  USA Today",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQcFlOZ3dTNUs5STFWLXk5cmZETnRXT1NmQmZkdXhKX1lZVVh4bjFfMkRIUmlXMnlFWFhVaERRcGF6U1ZFMERKMGhPQUwyWXgyaFMyQ0Rhc254QThpUEQzOTRRcGFjRXVoTmRLd0E3d1NnMFMwdG9rNzdGbmh2cVRLLUpwSDIycnV0bXFvMDM1bkpCVFB4S3pBRkpZdG5aSHVlamMwdnZIUjJTLW05eE84N0Q1ZzhvNFhnUkVUNmtLd20?oc=5",
-      "publishedAt": "2026-08-25T20:07:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-united-states-mexico-2026-2030-live-from-mexico-city-mexico-wnba-vpl10rbl6d-mshale",
-      "title": "国际足联 世界杯 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d) - Mshale",
-      "summary": "国际足联 世界杯 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d)  Mshale",
-      "originalTitle": "FIFA World Cup 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d) - Mshale",
-      "originalSummary": "FIFA World Cup 2026 United States 🆚Mexico (2026-2030)(Live From Mexico City,Mexico Wnba (Vpl10RbL6d)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjb080d1dvUTNUblY4bS1Nd2VfQm8wRjZmR1FqMHRuSGNoeS1NUnJLNEgteEh4Z1VpN1hSTG10eEs1U1ZId1ZhSk10RzJueEhwQ1BIZWFGTG5MVVA1bjRnVA?oc=5",
-      "publishedAt": "2026-08-25T19:08:55+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-women-s-world-cup-2027-qualified-teams-full-list-of-nations-who-will-play-tournament-in-brazil-goal-com",
-      "title": "Women's 世界杯 2027 qualified teams: Full list of nations who will play tournament in Brazil - Goal.com",
-      "summary": "Women's 世界杯 2027 qualified teams: Full list of nations who will play tournament in Brazil  Goal.com",
-      "originalTitle": "Women's World Cup 2027 qualified teams: Full list of nations who will play tournament in Brazil - Goal.com",
-      "originalSummary": "Women's World Cup 2027 qualified teams: Full list of nations who will play tournament in Brazil  Goal.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhtUnVrdTk1Si03ZDhpeFJ0TkNQbXhPVzFWSVpmYUUwRHFpMEtYQjRLUnRDeHBWUGFuMjd5YVk2c1lFd0NNVXMtQlF0OVhDb0w3SFFtRmh2XzNnTjd5VXlmbkd1cGJ5LXBIc1J2c2g0VkVBU1BnbFA3ckJDZ3piN05GQk9IMmJ5RE82VTFCRXctTm8?oc=5",
-      "publishedAt": "2026-08-25T19:08:37+00:00",
       "heat": 52
     },
     {
@@ -92,6 +104,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-france-vs-sweden-live-2026-fifa-world-cup-watch-along-with-rantsreacts-guardian-uk-uwbdavklvs-mshale",
+      "title": "France Vs. Sweden | LIVE 2026 国际足联 世界杯 Watch Along With @RantsReacts Guardian Uk (UWBDaVkLvS) - Mshale",
+      "summary": "France Vs. Sweden | LIVE 2026 国际足联 世界杯 Watch Along With @RantsReacts Guardian Uk (UWBDaVkLvS)  Mshale",
+      "originalTitle": "France Vs. Sweden | LIVE 2026 FIFA World Cup Watch Along With @RantsReacts Guardian Uk (UWBDaVkLvS) - Mshale",
+      "originalSummary": "France Vs. Sweden | LIVE 2026 FIFA World Cup Watch Along With @RantsReacts Guardian Uk (UWBDaVkLvS)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1WajVSdjF4d2tOc2VZZExUd1JiSnpFUGgwMTVtZEdxLUM1N1pWa3ZVbzh3R3R0Ri1mdHpPYTFmTXkzaFlRa1Y1bHFTOC1JaUwzV3dMeHgzSXBnUTQ?oc=5",
+      "publishedAt": "2026-08-25T18:50:56+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-angel-di-maria-on-fifa-s-punishment-to-argentina-players-for-the-2026-world-cup-it-s-exaggerated-world-socce",
       "title": "Angel Di Maria on 国际足联’s punishment to Argentina players for the 2026 世界杯: ‘It’s exaggerated’ - World Soccer Talk",
       "summary": "Angel Di Maria on 国际足联’s punishment to Argentina players for the 2026 世界杯: ‘It’s exaggerated’  World Soccer Talk",
@@ -116,18 +140,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-doordash-teams-with-global-brands-for-fifa-world-cup-2026-06-05-2026-mediapost",
-      "title": "DoorDash Teams With Global Brands For 国际足联 世界杯 2026 06/05/2026 - MediaPost",
-      "summary": "DoorDash Teams With Global Brands For 国际足联 世界杯 2026 06/05/2026  MediaPost",
-      "originalTitle": "DoorDash Teams With Global Brands For FIFA World Cup 2026 06/05/2026 - MediaPost",
-      "originalSummary": "DoorDash Teams With Global Brands For FIFA World Cup 2026 06/05/2026  MediaPost",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbmZKcXBZVlZxSHNsTnlXQURXQmdQcE52cm53N0pRQ0RTaGtnUXdnVldNUnFDcHlobVl4SnhZLUJkdnBXSFZiTmVKMHZxNFM0OG5oOHpRYklMSEU3UGlYcnJNaU8tenl2X3hGQWZJZFFwdnU4c2EydERVUFdkdXBjVHdPSVZpMzRGenlNUDZfa3VlVHlXYWtVdUlyVmlROU1UYmh1cHRFcDJjRlpfU2c?oc=5",
-      "publishedAt": "2026-08-25T18:36:07+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-jump-debuts-as-coca-cola-s-official-anthem-for-fifa-world-cup-2026-ticketnews",
       "title": "JUMP’ Debuts 作为 Coca-Cola’s Official Anthem for 国际足联 世界杯 2026 - TicketNews",
       "summary": "JUMP’ Debuts 作为 Coca-Cola’s Official Anthem for 国际足联 世界杯 2026  TicketNews",
@@ -140,6 +152,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-portugal-vs-croatia-live-watch-party-of-2026-fifa-world-cup-katherine-parkinson-o9hnkyusf6-mshale",
+      "title": "Portugal Vs. Croatia: LIVE Watch Party Of 2026 国际足联 世界杯 Katherine Parkinson (o9HNkYuSF6) - Mshale",
+      "summary": "Portugal Vs. Croatia: LIVE Watch Party Of 2026 国际足联 世界杯 Katherine Parkinson (o9HNkYuSF6)  Mshale",
+      "originalTitle": "Portugal Vs. Croatia: LIVE Watch Party Of 2026 FIFA World Cup Katherine Parkinson (o9HNkYuSF6) - Mshale",
+      "originalSummary": "Portugal Vs. Croatia: LIVE Watch Party Of 2026 FIFA World Cup Katherine Parkinson (o9HNkYuSF6)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1MeFFqb0x6ZUFGM2RIMkhQSi0tNjZBWExvbFg1TVlfcG92WVlkdlc2c0lGT0hFRVF3aW9JVWI3ZTR2dUFGSHMwTm5BdkZPU1UzazZmODR0QlZMbHc?oc=5",
+      "publishedAt": "2026-08-25T17:49:03+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-新闻-中文-温哥华世界杯期间airbnb入住率降-房东靠房价涨33-平均赚4500元-dushi-singtao-ca",
       "title": "温哥华世界杯期间Airbnb入住率降 房东靠房价涨33%平均赚4500元 - dushi.singtao.ca",
       "summary": "温哥华世界杯期间Airbnb入住率降 房东靠房价涨33%平均赚4500元  dushi.singtao.ca",
@@ -147,7 +171,7 @@
       "originalSummary": "温哥华世界杯期间Airbnb入住率降 房东靠房价涨33%平均赚4500元  dushi.singtao.ca",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMigwNBVV95cUxOV3lfbUMtR0hWdFFLWmFvZHZZd09JbnJ5VmdWc1N6TGE0OHc4ZkRHSDNZZk5WeWIxQzUzSDlrcFpjcWZPMjJxdUZPNFJYYVdMV21vZDREWWRiRk83UXJvdDVwbGxvY0NjVlJUX0NfM2R5STV1d2ZQNHNfUllrenZOb0txbEVqUkRNcnpqZEsycG5RUjBpeUZHQ2pnM1J5VTFVVHBFWV9EZzAtOXZJQlA2ZUNIaERieDBJdVNMa0l5d0lEaHNlbGdrZUhSOGx4aW9ac1c2a1pEdTZaMDN2RGViN3RYZUhYM28xOUlyR3F3ZHpGSjdIdHJfX0NCa0huRDZrQnJHcGpCbzktTnJLaVZKNWJBTGpqLVNmVlN1ZVd5WndHblMySVBVZUNBUU5acGRKSENFRVVVbVNYT3h0T2JoT0d3NFFXUl9FS1VKZzl1VjdTVDYwYVEtekxIQTdHX1A5d01yZVl0UExxMWdLbFcyNEFJcnBwZGp5cFdSWGRULXE5UUU?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNM1MzTXJSMzcyRy02Q1BWVk9aMXcxZERuY0hudFlON0ZmSXFZY25DWlRjOG5TSUs3X1RDQm5rWFNzcTJiWmdUOFlXMnZMNEdnTXgwUndyYUlSTVg2VC11ekt4RHc0dkFobzNtTGNlLUNfYzdZNnRNRDdtN2FJUUh4VWNVemtCZzhMeVhrSWo2U3pSMWFvSnpHR2JYanlOZ3FiM0pCN1dFMFFFajZSaGtmVFE2RzM1WENiUm9WbUZ1RTh5ZmVQSWw4M21OODFvRkJoT2Z6NFdUX0FfRWFaelFxSkVyNFFFX2gzZF8wZmZMVUdfajdKdDNyY2UxOXVWdHB3LTVKODdMTjlmdVRaNGV4UjRnSzNHWFFYNHBjSWxVZ05fcDRmak9Gd2JmZjA2VmtzVzhLX2lJTFo3Tmo2d2J6RkhsMFpJVndkZ2xpcXVscHlOd25yV0o1REdBREJkUThqeGpRNVl4YWVaaWdrWHRKRUllNDRBVkoyU1hWaVNwRDh4VVdXX3h1enAycHB5WDJjRkh0MHdn?oc=5",
       "publishedAt": "2026-08-25T17:14:29+00:00",
       "heat": 52
     },
@@ -164,18 +188,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-world-cup-2026-player-stat-leaders-who-led-the-key-metrics-squawka",
-      "title": "世界杯 2026 player stat leaders: Who led the key metrics? - Squawka",
-      "summary": "世界杯 2026 player stat leaders: Who led the key metrics?  Squawka",
-      "originalTitle": "World Cup 2026 player stat leaders: Who led the key metrics? - Squawka",
-      "originalSummary": "World Cup 2026 player stat leaders: Who led the key metrics?  Squawka",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUEFPSDdJOG1yVlVER2ZxVmx0ZDB3eGtqMWJ0dHVOVDVHUk12SzVfS25OZVFoeEtQQUFMbXczSVgzeUhiY2FTbWRlNjdLT1VBdmF0TjNIaXJtSDIyLTJ2TjlOUzU2S1d3TkxXV2pwdGxYM3RGUzNrOUxsMEc?oc=5",
-      "publishedAt": "2026-08-25T16:40:42+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-india-hockey-world-cup-schedule-2026-dates-results-points-table-and-squad-for-fih-men-s-tournament-sportingn",
       "title": "India hockey 世界杯 schedule 2026: Dates, results, points table and squad for FIH men's tournament - sportingnews.com",
       "summary": "India hockey 世界杯 schedule 2026: Dates, results, points table and squad for FIH men's tournament  sportingnews.com",
@@ -188,40 +200,28 @@
       "heat": 52
     },
     {
-      "id": "google-news-france-vs-spain-highlights-2026-fifa-world-cup-semifinals-master-1000-roma-vc6pyqwvzr-mshale",
-      "title": "France Vs 西班牙 Highlights 🌎🏆 2026 国际足联 世界杯™ | Semifinals Master 1000 Roma (vc6pYqWVZR) - Mshale",
-      "summary": "France Vs 西班牙 Highlights 🌎🏆 2026 国际足联 世界杯™ | Semifinals Master 1000 Roma (vc6pYqWVZR)  Mshale",
-      "originalTitle": "France Vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Semifinals Master 1000 Roma (vc6pYqWVZR) - Mshale",
-      "originalSummary": "France Vs Spain Highlights 🌎🏆 2026 FIFA World Cup™ | Semifinals Master 1000 Roma (vc6pYqWVZR)  Mshale",
+      "id": "google-news-highlights-norway-3-2-senegal-fifa-world-cup-2026-seatgeek-rnyugiinsx-mshale",
+      "title": "Highlights | 挪威 3-2 Senegal | 国际足联 世界杯 2026™ Seatgeek (rnyUgIInsX) - Mshale",
+      "summary": "Highlights | 挪威 3-2 Senegal | 国际足联 世界杯 2026™ Seatgeek (rnyUgIInsX)  Mshale",
+      "originalTitle": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™ Seatgeek (rnyUgIInsX) - Mshale",
+      "originalSummary": "Highlights | Norway 3-2 Senegal | FIFA World Cup 2026™ Seatgeek (rnyUgIInsX)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01OS1hQmhjVlN0REk0dUlhQlZIUExkMmo2cHVBUWNpcEZsNlZKRU5XeTNfQVJGUzhGV1EwM0hLYVhBcE5ZN3I4bS1CV3NkQnFIMHJ0Mk9sN2hIS3c?oc=5",
-      "publishedAt": "2026-08-25T16:30:26+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE01aC1aWWR6eXJZWGdSd24yRWtTaUU2ckh2ZV91Sm5KYmZrOTJNSmJVTVU4NWpWOUxWSHVuc0VzaUdIQWJxZ1lEVGNqdldUT25OMG9CVVB0WG1pOE0?oc=5",
+      "publishedAt": "2026-08-25T16:28:28+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-brazil-vs-japan-highlights-2026-fifa-world-cup-round-of-32-rod-stewart-np6mfgqevx-mshale",
-      "title": "Brazil Vs Japan Highlights 🌎🏆 2026 国际足联 世界杯™ | Round Of 32 Rod Stewart (NP6mFgQEVX) - Mshale",
-      "summary": "Brazil Vs Japan Highlights 🌎🏆 2026 国际足联 世界杯™ | Round Of 32 Rod Stewart (NP6mFgQEVX)  Mshale",
-      "originalTitle": "Brazil Vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Rod Stewart (NP6mFgQEVX) - Mshale",
-      "originalSummary": "Brazil Vs Japan Highlights 🌎🏆 2026 FIFA World Cup™ | Round Of 32 Rod Stewart (NP6mFgQEVX)  Mshale",
+      "id": "google-news-argentina-vs-switzerland-2026-fifa-world-cup-quarter-final-cass-the-cat-prediction-dossena-cagliari-bda8yu86",
+      "title": "Argentina Vs Switzerland | 2026 国际足联 世界杯 Quarter Final | Cass The Cat 🐾 Prediction Dossena Cagliari (bdA8Yu86KZ) - Mshale",
+      "summary": "Argentina Vs Switzerland | 2026 国际足联 世界杯 Quarter Final | Cass The Cat 🐾 Prediction Dossena Cagliari (bdA8Yu86KZ)  Mshale",
+      "originalTitle": "Argentina Vs Switzerland | 2026 FIFA World Cup Quarter Final | Cass The Cat 🐾 Prediction Dossena Cagliari (bdA8Yu86KZ) - Mshale",
+      "originalSummary": "Argentina Vs Switzerland | 2026 FIFA World Cup Quarter Final | Cass The Cat 🐾 Prediction Dossena Cagliari (bdA8Yu86KZ)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBQTUNNZ0pqTUI1YjZRRXRFTG9LUEpMZVJkWnN6R3NyeThVd2ZiN1VBRG1OMzktTzlHY3I2TUx3SHhxczhuUEtiTXVHME80cUtnZ2ZtakJYeGwzOG8?oc=5",
-      "publishedAt": "2026-08-25T16:13:13+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyeE5Zb1RrdTBITGNBdjZ0VzM1X0QzVWlhUWkwMi0ydWZzWWhzbVZkQ2VvR29nTDZGQlNLMWVmc3hnVVV2cWlwU3A2QTdpaHJIMm5NM1hGTkR0YzFoVXl1Nw?oc=5",
+      "publishedAt": "2026-08-25T16:15:53+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-the-coming-aviation-demand-surge-migflug",
-      "title": "世界杯 2026: The Coming Aviation Demand Surge - MiGFlug",
-      "summary": "世界杯 2026: The Coming Aviation Demand Surge  MiGFlug",
-      "originalTitle": "World Cup 2026: The Coming Aviation Demand Surge - MiGFlug",
-      "originalSummary": "World Cup 2026: The Coming Aviation Demand Surge  MiGFlug",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5CVW9tdjZsTy1wQkh1ZjFNNVByWHBYeDFQLW8yUnhWNnBBamZ1QV82bHR6RmdKUmJDbFVRelpDR1MxQ1BQb1J1eDBMbGMwMHlfbjdTSUNvcEpqOGlvQlA0d3ZUUEYtcEw3bDEwTjlzZ0l2MklNTGRqRw?oc=5",
-      "publishedAt": "2026-08-25T15:56:15+00:00",
-      "heat": 52
     }
   ]
 }
