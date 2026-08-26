@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T09:21:01.843035+00:00",
+  "updatedAt": "2026-08-26T10:07:39.738107+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,18 +7,6 @@
     "ESPN 足球"
   ],
   "articles": [
-    {
-      "id": "google-新闻-中文-gmr-solutions-gmrs-2026财年第二季度业绩电话会议-营收增长与重申业绩指引-fx168财经",
-      "title": "GMR Solutions (GMRS) 2026财年第二季度业绩电话会议：营收增长与重申业绩指引 - FX168财经",
-      "summary": "GMR Solutions (GMRS) 2026财年第二季度业绩电话会议：营收增长与重申业绩指引  FX168财经",
-      "originalTitle": "GMR Solutions (GMRS) 2026财年第二季度业绩电话会议：营收增长与重申业绩指引 - FX168财经",
-      "originalSummary": "GMR Solutions (GMRS) 2026财年第二季度业绩电话会议：营收增长与重申业绩指引  FX168财经",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOFN0Q0p0SVlOTF9qb2IwUkc4eGpVaXhzZUZtMlJldEJlMUEwUEh3ZWtqMDktTS02WndwaUxLMnFhYm1yd09oQm5PWkg0UnFPWDF3?oc=5",
-      "publishedAt": "2026-08-26T09:00:56+00:00",
-      "heat": 44
-    },
     {
       "id": "google-新闻-中文-欧洲联赛主席-改革fifa这套全球管理体系远比换掉因凡蒂诺更关键-直播吧",
       "title": "欧洲联赛主席：改革FIFA这套全球管理体系远比换掉因凡蒂诺更关键 - 直播吧",
@@ -42,6 +30,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhtUnVrdTk1Si03ZDhpeFJ0TkNQbXhPVzFWSVpmYUUwRHFpMEtYQjRLUnRDeHBWUGFuMjd5YVk2c1lFd0NNVXMtQlF0OVhDb0w3SFFtRmh2XzNnTjd5VXlmbkd1cGJ5LXBIc1J2c2g0VkVBU1BnbFA3ckJDZ3piN05GQk9IMmJ5RE82VTFCRXctTm8?oc=5",
       "publishedAt": "2026-08-26T07:21:51+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-efc-member-clubs-made-their-mark-on-2026-fifa-world-cup-european-football-clubs-efc",
+      "title": "EFC Member Clubs made their mark on 2026 国际足联 世界杯 - European Football Clubs (EFC)",
+      "summary": "EFC Member Clubs made their mark on 2026 国际足联 世界杯  European Football Clubs (EFC)",
+      "originalTitle": "EFC Member Clubs made their mark on 2026 FIFA World Cup - European Football Clubs (EFC)",
+      "originalSummary": "EFC Member Clubs made their mark on 2026 FIFA World Cup  European Football Clubs (EFC)",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkRWZ2VXaGphc19LQ0VKOGJ0dkhESUZKdTMtcWZKYW5jVGJtNFlYNmhqMmw0U21MWnFaQ3UtajI3U0UtT09oRlNLV2FyYVhNeDc4bmV6ZXg4ZkFIOWlyTHVZZFhNcU9ValhhRk5Qa2hYMFh6emRMS1phZkNfNG8zM01LVUlxM19QaEZYVFBTSGxZQ0dNZ3c?oc=5",
+      "publishedAt": "2026-08-26T06:59:03+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-cult-hero-orlando-gill-is-soon-to-join-lille-to-bolster-ancelotti-s-squad-goal-com",
@@ -92,16 +92,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-how-to-get-tickets-to-2026-world-cup-matches-elijah-just-3ix3g3oeub-mshale",
-      "title": "How To Get Tickets To 2026 世界杯 Matches Elijah Just (3Ix3g3OEub) - Mshale",
-      "summary": "How To Get Tickets To 2026 世界杯 Matches Elijah Just (3Ix3g3OEub)  Mshale",
-      "originalTitle": "How To Get Tickets To 2026 World Cup Matches Elijah Just (3Ix3g3OEub) - Mshale",
-      "originalSummary": "How To Get Tickets To 2026 World Cup Matches Elijah Just (3Ix3g3OEub)  Mshale",
+      "id": "google-news-switzerland-vs-algeria-2026-fifa-world-cup-knockout-round-live-stream-cami-kepke-dxfrkjn75y-mshale",
+      "title": "Switzerland Vs Algeria | 2026 国际足联 世界杯 | Knockout Round | Live Stream Cami Kepke (DXfRKJn75Y) - Mshale",
+      "summary": "Switzerland Vs Algeria | 2026 国际足联 世界杯 | Knockout Round | Live Stream Cami Kepke (DXfRKJn75Y)  Mshale",
+      "originalTitle": "Switzerland Vs Algeria | 2026 FIFA World Cup | Knockout Round | Live Stream Cami Kepke (DXfRKJn75Y) - Mshale",
+      "originalSummary": "Switzerland Vs Algeria | 2026 FIFA World Cup | Knockout Round | Live Stream Cami Kepke (DXfRKJn75Y)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBOckYweEhoWjNRRW55cDdTS2dpYjRnWnlxVTloaHBlbU1MYlllSXJDbVU4NlVrX2pxVXNid3JZZUZkWFlXNF9PTVhXTnpQbnhSTTJDZUZLR3d0RGlTcDVzbg?oc=5",
-      "publishedAt": "2026-08-26T04:48:19+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBvbzZKMVhmT1BoaXQyTkh3M0xLR2JnUFJWTG1mWWNsY3VfVlhsTy1SQ2Y4Rjg0aGVqNGxNWWpIclhza05PZXFiYVY2V1pJRFctR2lFd1ZwN0pKWFVzeUxqVw?oc=5",
+      "publishedAt": "2026-08-26T04:49:54+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-why-spain-might-win-the-2026-fifa-world-cup-brian-wheat-snu0lkrmyt-mshale",
@@ -116,16 +116,40 @@
       "heat": 60
     },
     {
-      "id": "google-news-live-canada-vs-morocco-fifa-world-cup-2026-round-of-32-watchalong-canmnt-vs-atlas-lions-acie-law-fqob3wjuz2-",
-      "title": "LIVE: Canada Vs Morocco | 国际足联 世界杯 2026 Round Of 32 Watchalong | CanMNT Vs Atlas Lions Acie Law (FQob3Wjuz2) - Mshale",
-      "summary": "LIVE: Canada Vs Morocco | 国际足联 世界杯 2026 Round Of 32 Watchalong | CanMNT Vs Atlas Lions Acie Law (FQob3Wjuz2)  Mshale",
-      "originalTitle": "🔴 LIVE: Canada Vs Morocco | FIFA World Cup 2026 Round Of 32 Watchalong | CanMNT Vs Atlas Lions Acie Law (FQob3Wjuz2) - Mshale",
-      "originalSummary": "🔴 LIVE: Canada Vs Morocco | FIFA World Cup 2026 Round Of 32 Watchalong | CanMNT Vs Atlas Lions Acie Law (FQob3Wjuz2)  Mshale",
+      "id": "google-news-why-every-2026-world-cup-host-nation-failed-cal-raleigh-ddoqosl60m-mshale",
+      "title": "Why Every 2026 世界杯 Host Nation Failed Cal Raleigh (ddOqOSL60m) - Mshale",
+      "summary": "Why Every 2026 世界杯 Host Nation Failed Cal Raleigh (ddOqOSL60m)  Mshale",
+      "originalTitle": "Why Every 2026 World Cup Host Nation Failed Cal Raleigh (ddOqOSL60m) - Mshale",
+      "originalSummary": "Why Every 2026 World Cup Host Nation Failed Cal Raleigh (ddOqOSL60m)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE82Ymw2UGR1ajgtX3ZoNk01d1BBWUNUaHBSUVZXZzEzWHdmQkJrdzktbGRMckNqNmFDUnl2eGtuZGF5ZUhwRWYwUWlLMVpQY3VrWmhCRS1fbmluYzFRWHh0Rw?oc=5",
-      "publishedAt": "2026-08-26T03:57:13+00:00",
-      "heat": 68
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE44Q2dXc1NPQjFqd0dCNS1DQlVLdkQzUFNySnlmcEo5azh5a2RvNE1lRmFqcGRxVEozZC1Ob3o4TVBDU3M0M0ZIQnRBRm1VcFc2aGRzclZJSGFSRlk?oc=5",
+      "publishedAt": "2026-08-26T04:12:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-恩博洛-世界杯上的红牌深深刺痛了我和瑞士-我们有机会赢阿根廷-直播吧",
+      "title": "恩博洛：世界杯上的红牌深深刺痛了我和瑞士，我们有机会赢阿根廷 - 直播吧",
+      "summary": "恩博洛：世界杯上的红牌深深刺痛了我和瑞士，我们有机会赢阿根廷  直播吧",
+      "originalTitle": "恩博洛：世界杯上的红牌深深刺痛了我和瑞士，我们有机会赢阿根廷 - 直播吧",
+      "originalSummary": "恩博洛：世界杯上的红牌深深刺痛了我和瑞士，我们有机会赢阿根廷  直播吧",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1Rd1I0RkZBTU1JeEtTYklTb0JmdUpETkg0ZEVDeTU1MU53NFN4dUJQelpYZXpia2YwUkxXR0luVHZHX2gzSmdzVXRHb0F3NlhuaHZiMXJkQmFLVkh6MVNLeUtvR2tibW43cVVmOFppM3gzUQ?oc=5",
+      "publishedAt": "2026-08-26T03:44:24+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-england-vs-dr-congo-2026-fifa-world-cup-ea-sports-fc-26-simulation-oklahoma-city-thunder-vs-lakers-match-pla",
+      "title": "England Vs DR Congo | 2026 国际足联 世界杯 | EA SPORTS FC 26 Simulation Oklahoma City Thunder Vs Lakers Match Player Stats (QjALrsu2Jz) - Mshale",
+      "summary": "England Vs DR Congo | 2026 国际足联 世界杯 | EA SPORTS FC 26 Simulation Oklahoma City Thunder Vs Lakers Match Player Stats (QjALrsu2Jz)  Mshale",
+      "originalTitle": "England Vs DR Congo | 2026 FIFA World Cup | EA SPORTS FC 26 Simulation Oklahoma City Thunder Vs Lakers Match Player Stats (QjALrsu2Jz) - Mshale",
+      "originalSummary": "England Vs DR Congo | 2026 FIFA World Cup | EA SPORTS FC 26 Simulation Oklahoma City Thunder Vs Lakers Match Player Stats (QjALrsu2Jz)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9mM28tU19hdTZ3YlpHR2tBNFFEdFItX2Nybk0zamlrVDF3VU1HRHczdWVtd1Y5MzB2VzZhXzY2SFdNNjBHQ3ZvM09zc1lCMlFRTzdzQzQ1SHplVHc?oc=5",
+      "publishedAt": "2026-08-26T03:42:23+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-2026-world-cup-golden-boot-predictions-who-will-be-the-tournament-s-top-scorer-ofsted-pughvlx4mv-mshale",
@@ -140,16 +164,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-ሙሉ-ጨዋታ-france-2-0-morocco-fifa-world-cup-2026-quarter-final-በካምቦሎጆ-ስፖርት-full-match-replay-pete-crow-armstron",
-      "title": "ሙሉ ጨዋታ FRANCE 2-0 MOROCCO | 国际足联 世界杯 2026 | Quarter-Final | በካምቦሎጆ ስፖርት| FULL MATCH REPLAY Pete Crow-armstrong (JaHJwVWR2R) - Mshale",
-      "summary": "ሙሉ ጨዋታ FRANCE 2-0 MOROCCO | 国际足联 世界杯 2026 | Quarter-Final | በካምቦሎጆ ስፖርት| FULL MATCH REPLAY Pete Crow-armstrong (JaHJwVWR2R)  Mshale",
-      "originalTitle": "🌍🏆 ሙሉ ጨዋታ FRANCE 2-0 MOROCCO | FIFA World Cup 2026 | Quarter-Final | በካምቦሎጆ ስፖርት| FULL MATCH REPLAY Pete Crow-armstrong (JaHJwVWR2R) - Mshale",
-      "originalSummary": "🌍🏆 ሙሉ ጨዋታ FRANCE 2-0 MOROCCO | FIFA World Cup 2026 | Quarter-Final | በካምቦሎጆ ስፖርት| FULL MATCH REPLAY Pete Crow-armstrong (JaHJwVWR2R)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBmdy1Rallqc0loOEZiVmlhSGg4d1ZIRHNKX2lXVENOSHBac2YxSUF6QjRpYzhoUmFmTU92a29KM2x0VkdFYklzSmFvYlNJZEhnRzlrUzRBMXdKcmM?oc=5",
-      "publishedAt": "2026-08-26T02:57:33+00:00",
-      "heat": 60
+      "id": "google-新闻-中文-英联杯比赛前瞻-纽卡斯尔联vs西布罗姆维奇预测分析-2026年08月27日-球迷屋",
+      "title": "英联杯比赛前瞻：纽卡斯尔联vs西布罗姆维奇预测分析(2026年08月27日) - 球迷屋",
+      "summary": "英联杯比赛前瞻：纽卡斯尔联vs西布罗姆维奇预测分析(2026年08月27日)  球迷屋",
+      "originalTitle": "英联杯比赛前瞻：纽卡斯尔联vs西布罗姆维奇预测分析(2026年08月27日) - 球迷屋",
+      "originalSummary": "英联杯比赛前瞻：纽卡斯尔联vs西布罗姆维奇预测分析(2026年08月27日)  球迷屋",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qTFFxX1ZQV0xKY3U1dEpHVm5fNm9qNTZRMEFRUTdRQVNPSWk3Q05CdmNTN2d6ZkVfLXlqQ0FGSy13TDM2bXJJN29UMElWV3lPNjdTVg?oc=5",
+      "publishedAt": "2026-08-26T03:04:13+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-top-10-fifa-world-cup-teams-2026-power-rankings-consiglio-nazionale-forense-941hfdmow0-mshale",
@@ -164,27 +188,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-england-vs-congo-dr-atlanta-stadium-2026-fifa-world-cup-pes-2021-resident-evil-dbn8l72d5r-mshale",
-      "title": "England Vs Congo DR | Atlanta Stadium | 2026 国际足联 世界杯 | PES 2021 Resident Evil (DBn8L72D5R) - Mshale",
-      "summary": "England Vs Congo DR | Atlanta Stadium | 2026 国际足联 世界杯 | PES 2021 Resident Evil (DBn8L72D5R)  Mshale",
-      "originalTitle": "England Vs Congo DR | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Resident Evil (DBn8L72D5R) - Mshale",
-      "originalSummary": "England Vs Congo DR | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Resident Evil (DBn8L72D5R)  Mshale",
+      "id": "google-news-2026-fifa-world-cup-knockout-bracket-prediction-chermiti-xldm44iant-mshale",
+      "title": "2026 国际足联 世界杯 Knockout Bracket Prediction ✅ Chermiti (xLdM44IAnT) - Mshale",
+      "summary": "2026 国际足联 世界杯 Knockout Bracket Prediction ✅ Chermiti (xLdM44IAnT)  Mshale",
+      "originalTitle": "2026 FIFA World Cup Knockout Bracket Prediction ✅ Chermiti (xLdM44IAnT) - Mshale",
+      "originalSummary": "2026 FIFA World Cup Knockout Bracket Prediction ✅ Chermiti (xLdM44IAnT)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBuOUtzNWRVZWVRZG5vTnJVVnBKbWNQa1RKbFRlVXV2OU9VZUZjcnhVN0doSks0SzhlYlFRdFZaeVpGUlVnWEhaMjhwV2RXd3VqSW5hVXYwajczVHdwVHF2Ug?oc=5",
-      "publishedAt": "2026-08-26T02:05:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-full-penalties-germany-vs-paraguay-2026-fifa-world-cup-round-of-32-giornalista-44r4lzkqnr-mshale",
-      "title": "FULL PENALTIES ⚽️ 德国 Vs Paraguay 2026 国际足联 世界杯™ Round Of 32 Giornalista (44R4LzKqNr) - Mshale",
-      "summary": "FULL PENALTIES ⚽️ 德国 Vs Paraguay 2026 国际足联 世界杯™ Round Of 32 Giornalista (44R4LzKqNr)  Mshale",
-      "originalTitle": "FULL PENALTIES ⚽️ Germany Vs Paraguay 2026 FIFA World Cup™ Round Of 32 Giornalista (44R4LzKqNr) - Mshale",
-      "originalSummary": "FULL PENALTIES ⚽️ Germany Vs Paraguay 2026 FIFA World Cup™ Round Of 32 Giornalista (44R4LzKqNr)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDNWNYTUlUa2oxWmQxNFBlRkR5eHl5ZHFsZ1k2dHNsSGMwZnBCM1lpZ1BXNUNoYU93TDVablhCVnhudk0zdkt3MlF3a1VFN1JPOUR3Vkh2V1c1OXJYTU41WQ?oc=5",
-      "publishedAt": "2026-08-26T01:59:50+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5oV1ZlTk56SE9tb1J0c09ycFlOZVcxOU9qcWc5cmxlekNBQ0lFT0FNYVgydFdIc3JtUmh5bXU3WXREQm8yQmhfczU1OExwZUZKRDlpQ1BHQnduZzA?oc=5",
+      "publishedAt": "2026-08-26T02:02:09+00:00",
       "heat": 60
     },
     {
@@ -200,27 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-álvaro-fidalgo-goal-czechia-0-3-mexico-fifa-world-cup-2026-croatia-e8uwcsq731-mshale",
-      "title": "Álvaro Fidalgo Goal | Czechia 0-3 Mexico | 国际足联 世界杯 2026™ Croatia (E8UWCSQ731) - Mshale",
-      "summary": "Álvaro Fidalgo Goal | Czechia 0-3 Mexico | 国际足联 世界杯 2026™ Croatia (E8UWCSQ731)  Mshale",
-      "originalTitle": "Álvaro Fidalgo Goal | Czechia 0-3 Mexico | FIFA World Cup 2026™ Croatia (E8UWCSQ731) - Mshale",
-      "originalSummary": "Álvaro Fidalgo Goal | Czechia 0-3 Mexico | FIFA World Cup 2026™ Croatia (E8UWCSQ731)  Mshale",
+      "id": "google-news-why-dallas-became-america-s-world-cup-2026-power-city-desert-8kft7raezf-mshale",
+      "title": "Why Dallas Became America’s 世界杯 2026 Power City Desert (8KFT7RaezF) - Mshale",
+      "summary": "Why Dallas Became America’s 世界杯 2026 Power City Desert (8KFT7RaezF)  Mshale",
+      "originalTitle": "Why Dallas Became America’s World Cup 2026 Power City Desert (8KFT7RaezF) - Mshale",
+      "originalSummary": "Why Dallas Became America’s World Cup 2026 Power City Desert (8KFT7RaezF)  Mshale",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5fZHlsOTJUM0FKUXNTWUFkME1jQzJsQ2xjSVY3VEhoZk0yNlF3bmhGU1kxTGNKMmhnMG95TU9obE9aald4bk9IeERqWndFcVp2WVF3RVJZTG5CY2s?oc=5",
-      "publishedAt": "2026-08-26T01:53:57+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-rodri-handball-penalty-controversy-explained-spain-vs-belgium-world-cup-2026-chud-the-builder-lysyojhuvc-msh",
-      "title": "Rodri Handball/penalty Controversy Explained | 西班牙 Vs Belgium 世界杯 2026 Chud The Builder (LYsyOJHuvC) - Mshale",
-      "summary": "Rodri Handball/penalty Controversy Explained | 西班牙 Vs Belgium 世界杯 2026 Chud The Builder (LYsyOJHuvC)  Mshale",
-      "originalTitle": "Rodri Handball/penalty Controversy Explained | Spain Vs Belgium World Cup 2026 Chud The Builder (LYsyOJHuvC) - Mshale",
-      "originalSummary": "Rodri Handball/penalty Controversy Explained | Spain Vs Belgium World Cup 2026 Chud The Builder (LYsyOJHuvC)  Mshale",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03UlotYVpBYkhDUWEyOV9mSmFmY1dCTFVmR082NXltbXc4dGh5MWpoX0dsY3M5QkJkMXpDNS0wMXdiTDVveGdRWlktLVVuUkxSYklQOWs1Mk92WnlLWDFlXw?oc=5",
-      "publishedAt": "2026-08-26T01:52:34+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5NeTV5azlwaGhnckNFSzlWMkVWX0lTbFhYcUx5YlkxSXNURm1RdDl4SkdYNTlBbXVHcUpHVlVOTE5qb0M4ZmpkSVpkUE9ZcXBzcTZmcEgzZVl1NHc?oc=5",
+      "publishedAt": "2026-08-26T01:57:35+00:00",
       "heat": 52
     }
   ]
