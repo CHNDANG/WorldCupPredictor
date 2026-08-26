@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-08-26T07:27:07.571675+00:00",
+  "updatedAt": "2026-08-26T08:10:16.200336+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-欧洲联赛主席-改革fifa这套全球管理体系远比换掉因凡蒂诺更关键-zhibo8-cc",
+      "title": "欧洲联赛主席：改革FIFA这套全球管理体系远比换掉因凡蒂诺更关键 - zhibo8.cc",
+      "summary": "欧洲联赛主席：改革FIFA这套全球管理体系远比换掉因凡蒂诺更关键  zhibo8.cc",
+      "originalTitle": "欧洲联赛主席：改革FIFA这套全球管理体系远比换掉因凡蒂诺更关键 - zhibo8.cc",
+      "originalSummary": "欧洲联赛主席：改革FIFA这套全球管理体系远比换掉因凡蒂诺更关键  zhibo8.cc",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE15b2tZRFQ3ZVJMNTVRUkg0TjhqRHVBREVUUEJOMmpjdV9YVEZXVnRxYU9Ka0ZDTlYzSXFwbjdUTTM4c0RQQ3ZSZ3pvVzl5R0swVHFpZktud0lFTVdPNzFtRGttaUZYMGhoQTkzemFmUUVZWDlsSjVnTQ?oc=5",
+      "publishedAt": "2026-08-26T08:04:04+00:00",
+      "heat": 52
+    },
     {
       "id": "google-新闻-中文-gmr-solutions-gmrs-2026财年第二季度业绩电话会议-营收增长与重申业绩指引-fx168财经",
       "title": "GMR Solutions (GMRS) 2026财年第二季度业绩电话会议：营收增长与重申业绩指引 - FX168财经",
@@ -16,8 +28,20 @@
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9xOFN0Q0p0SVlOTF9qb2IwUkc4eGpVaXhzZUZtMlJldEJlMUEwUEh3ZWtqMDktTS02WndwaUxLMnFhYm1yd09oQm5PWkg0UnFPWDF3?oc=5",
-      "publishedAt": "2026-08-26T07:02:08+00:00",
+      "publishedAt": "2026-08-26T08:02:00+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-efc-member-clubs-made-their-mark-on-2026-fifa-world-cup-european-football-clubs-efc",
+      "title": "EFC 会员俱乐部在 2026 年 FIFA 世界杯上留下印记 - 欧洲足球俱乐部 (EFC)",
+      "summary": "EFC 会员俱乐部在 2026 年 FIFA 世界杯上留下了印记 欧洲足球俱乐部 (EFC)",
+      "originalTitle": "EFC Member Clubs made their mark on 2026 FIFA World Cup - European Football Clubs (EFC)",
+      "originalSummary": "EFC Member Clubs made their mark on 2026 FIFA World Cup  European Football Clubs (EFC)",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQQkRWZ2VXaGphc19LQ0VKOGJ0dkhESUZKdTMtcWZKYW5jVGJtNFlYNmhqMmw0U21MWnFaQ3UtajI3U0UtT09oRlNLV2FyYVhNeDc4bmV6ZXg4ZkFIOWlyTHVZZFhNcU9ValhhRk5Qa2hYMFh6emRMS1phZkNfNG8zM01LVUlxM19QaEZYVFBTSGxZQ0dNZ3c?oc=5",
+      "publishedAt": "2026-08-26T06:59:03+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-world-cup-cult-hero-orlando-gill-is-soon-to-join-lille-to-bolster-ancelotti-s-squad-goal-com",
@@ -29,6 +53,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1dmemxFZHlLdFo2OWpEbkhyb1JpTUhaTm8zeVNlN1I1c3R4UExsekJyU3NDUUhHYUhfY0ZYUzVkNnNrM1lXR1FpUTdVS0xxOHBiRnI3Ul80aW5pTEthRWxfMlpzMjVURWozbUl5c2ZrN0VWNU5kUVl6WElxOU9IMENnNnVtTWk4V0o0blpWV0poUQ?oc=5",
       "publishedAt": "2026-08-26T06:27:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-u-s-men-s-national-team-names-its-roster-for-world-cup-2026-post-news-group",
+      "title": "美国男足国家队公布 2026 年世界杯阵容 - 邮报新闻集团",
+      "summary": "美国男子国家队公布了 2026 年世界杯的名单",
+      "originalTitle": "U.S. Men’s National Team Names its Roster for World Cup 2026 - Post News Group",
+      "originalSummary": "U.S. Men’s National Team Names its Roster for World Cup 2026  Post News Group",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNQmR6VnU4OG95WjhITUlFdERIMEhxRG1odXZtTDN2RkMyVVBXNEVIU2dOSmdkU3B1RmlrZ1F0Y0pDdWstVXhzVlM4OVN6TUJIMWxWTWhjQXJzMzU0Sm1TVWxlOXBUcVZXY1VmVG9ZaFozcFMwdE9wRWZUSGw0QTlZcnhFMklwSE9kWWN2LWlydFo1ekZRZVHSAZsBQVVfeXFMTjd5a2ppZ3JnNTJSeTh4cUZNQjlOem1qWGlQcks0SkpFYmtpX2c0RFZLVWlwaFR2b05mejhpbGxSMDUtekUxNlVvbGRTS3BuNVpTUkZQaVgweFA5RVJReXVLbFQtNzBQOFp4ZVlfZHFoRWR1NmlXUm00N21fUVhCQ1FJMmNEMTl6TXY2d0I0cS16aE5oUkRsZVROdkU?oc=5",
+      "publishedAt": "2026-08-26T05:44:02+00:00",
       "heat": 52
     },
     {
@@ -53,6 +89,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNRjhtUnVrdTk1Si03ZDhpeFJ0TkNQbXhPVzFWSVpmYUUwRHFpMEtYQjRLUnRDeHBWUGFuMjd5YVk2c1lFd0NNVXMtQlF0OVhDb0w3SFFtRmh2XzNnTjd5VXlmbkd1cGJ5LXBIc1J2c2g0VkVBU1BnbFA3ckJDZ3piN05GQk9IMmJ5RE82VTFCRXctTm8?oc=5",
       "publishedAt": "2026-08-26T05:38:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-创造得分机会-world-cup2026的morocco数据-fotmob",
+      "title": "创造得分机会 — World Cup2026的Morocco数据 - FotMob",
+      "summary": "创造得分机会 — World Cup2026的Morocco数据  FotMob",
+      "originalTitle": "创造得分机会 — World Cup2026的Morocco数据 - FotMob",
+      "originalSummary": "创造得分机会 — World Cup2026的Morocco数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMi9ANBVV95cUxNVUtJQ3JBb2NHdWNpUGFKanM1MzZIYjRCelVsZzlZN1JFRmphd1Q0QXZoR3lSNGc4Umwya09Va0JVdFA2VUpRck1yQmR1OXpSeWNSSGdNWnRQWVhhM2JuLTJhX1ozdjlVVzVZTXdzNEUyaF9LdzRXUFRrQ0FkMmhHVjF5ckpJNUh4eG1wWGxzeW1QLXVuNmh3S004N05YdjFEejNBcTFOQlRIdTQ3RWNXUEdoZzJxaEJ0OWtVdkVrdU05bUFsazYzU25yZTN4SlVfdUI2ekc0TUxXeHk5UHBYQnlXYUpLRlYyak9BZDdNYjd4THdUbFZUZjV3T2YxMi1FbmlmU1lsU25zTG1QZm83VVFJRlMyblZidVczVXNqWUVULUI3VzdPN25tb0d4bGlzdktTWDNfaHhaV04xTG1CdnFhcUhrTTMxaEJyT084QmhMRlBDNVBRbENjcWc1Ym9HTHJ0emUwU0p1MDl4VWJxTHc5R1VXSmFJTlhWZTVTUHJ2WWtBSmlVT1NhcFJDZEsxUkJmN3I4dmlfbmdhSHE2aU5Sb1MxN2VTQWxBR19qT0JfSU9YbG9NcWNXM01Pam11b1NMdTFyVjNCUFhJc0o2OUgzUDhTb0QwLWRwZ0dWM3NDZHIwY21YNWZTZUtSaHBZQWRXTw?oc=5",
+      "publishedAt": "2026-08-26T05:24:45+00:00",
       "heat": 52
     },
     {
@@ -140,6 +188,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-shakira-pitbull-perform-at-fifa-world-cup-2026-opening-match-opening-ceremony-4k-tony-dokoupil-91hsoujstn-ms",
+      "title": "夏奇拉 (SHAKIRA) 和 PITBULL 在 FIFA 2026 世界杯开幕赛上表演 🔥⚽ |开幕式 4K Tony Dokoupil (91hsoujsTN) - Mshale",
+      "summary": "夏奇拉 (SHAKIRA) 和 PITBULL 在 FIFA 2026 世界杯开幕赛上表演 🔥⚽ |开幕式 4K Tony Dokoupil (91hsoujsTN)  Mshale",
+      "originalTitle": "SHAKIRA & PITBULL Perform At FIFA World Cup 2026™ Opening Match 🔥⚽ | Opening Ceremony 4K Tony Dokoupil (91hsoujsTN) - Mshale",
+      "originalSummary": "SHAKIRA & PITBULL Perform At FIFA World Cup 2026™ Opening Match 🔥⚽ | Opening Ceremony 4K Tony Dokoupil (91hsoujsTN)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8tdm9icFNGcjJzaGxnSWVvbWlVaWFTUUlIdXYzb3NSUUN5M0hpb3M3YkFoU1g3Uld3bHVMRkZDaHNzVmF1Uk9za1lSc3ZxangwNklUajJqVWxaY0plY2swUA?oc=5",
+      "publishedAt": "2026-08-26T01:56:22+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-álvaro-fidalgo-goal-czechia-0-3-mexico-fifa-world-cup-2026-croatia-e8uwcsq731-mshale",
       "title": "阿尔瓦罗·菲达尔戈进球|捷克0-3墨西哥| FIFA 世界杯 2026™ 克罗地亚 (E8UWCSQ731) - Mshale",
       "summary": "阿尔瓦罗·菲达尔戈进球|捷克0-3墨西哥| FIFA 世界杯 2026™ 克罗地亚 (E8UWCSQ731)  Mshale",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE03UlotYVpBYkhDUWEyOV9mSmFmY1dCTFVmR082NXltbXc4dGh5MWpoX0dsY3M5QkJkMXpDNS0wMXdiTDVveGdRWlktLVVuUkxSYklQOWs1Mk92WnlLWDFlXw?oc=5",
       "publishedAt": "2026-08-26T01:52:34+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-ফ-ফ-২০২৬-ব-শ-বক-প-র-সময-স-চ-fifa-world-cup-2026-schedule-fifa-world-cup-2026-date-time-caris-levert-kjmxusft",
-      "title": "ফিফা ২০২৬ বিশ্বকাপের সময়সূচি | 2026 年国际足联世界杯赛程 | FIFA 世界杯 2026 日期和时间 Caris Levert (KjMxusFT6L) - Mshale",
-      "summary": "ফিফা ২০২৬ বিশ্বকাপের সময়সূচি | 2026 年国际足联世界杯赛程 | 2026 年国际足联世界杯日期和时间 Caris Levert (KjMxusFT6L)  Mshale",
-      "originalTitle": "ফিফা ২০২৬ বিশ্বকাপের সময়সূচি | Fifa World Cup 2026 Schedule | Fifa World Cup 2026 Date & Time Caris Levert (KjMxusFT6L) - Mshale",
-      "originalSummary": "ফিফা ২০২৬ বিশ্বকাপের সময়সূচি | Fifa World Cup 2026 Schedule | Fifa World Cup 2026 Date & Time Caris Levert (KjMxusFT6L)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqRldobHJ1NDN2cFV5THY1dEpnQmFNOTNudy1fbEpYVDN4dk1kRXBnVzdaRmdfeTNmQkFhSEMtMW92Q2lfQ01IdFBaaEprOTRmek9EOVc1dnNDUUJ0dTF6OQ?oc=5",
-      "publishedAt": "2026-08-26T01:49:26+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-08-26T01:47:31+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-australia-vs-egypt-round-of-32-preview-meg-ryan-nadtcihdzg-mshale",
-      "title": "2026 年 FIFA 世界杯澳大利亚 vs 埃及 - 32 强 - 预览 Meg Ryan (NadtCIHDzg) - Mshale",
-      "summary": "2026 年 FIFA 世界杯澳大利亚 vs 埃及 - 32 强 - 预览 Meg Ryan (NadtCIHDzg)  Mshale",
-      "originalTitle": "2026 FIFA World Cup Australia Vs Egypt - Round Of 32 - Preview Meg Ryan (NadtCIHDzg) - Mshale",
-      "originalSummary": "2026 FIFA World Cup Australia Vs Egypt - Round Of 32 - Preview Meg Ryan (NadtCIHDzg)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBpdlNUM3ZpSVE2eFVNNXJXalFhc3o5VjlGVEN4M0NONjJuMEVneUpHTVp2b0lKNVRQd1FFaXZUcmVOWFhRVE9CTzVUdERiOWJ0bklPOU4xanMzcGljR1AyWg?oc=5",
-      "publishedAt": "2026-08-26T01:43:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-england-vs-argentina-atlanta-stadium-2026-fifa-world-cup-pes-2021-margaret-thatcher-dtrcnf9nni-mshale",
-      "title": "英格兰 vs 阿根廷 |亚特兰大体育场| 2026 年世界杯 | PES 2021 玛格丽特·撒切尔 (dTRcnf9NnI) - 姆沙勒",
-      "summary": "英格兰 vs 阿根廷 |亚特兰大体育场| 2026 年世界杯 | PES 2021 玛格丽特·撒切尔 (dTRcnf9NnI)  Mshale",
-      "originalTitle": "England Vs Argentina | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Margaret Thatcher (dTRcnf9NnI) - Mshale",
-      "originalSummary": "England Vs Argentina | Atlanta Stadium | 2026 FIFA World Cup | PES 2021 Margaret Thatcher (dTRcnf9NnI)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1vdVBYR0xWUUNRUWlxaHJjNjl4TEhHeTZTX0hFM2xNSFlHZVgzeFZtVFZXN0xtVS1qaG9MVHZXSWpiWkpBeDNlS0JRQXk3VkFBd2ZhdkRfeTVaSDVWWjZmbg?oc=5",
-      "publishedAt": "2026-08-26T01:39:11+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ko-stock-extends-rally-coca-cola-is-morgan-stanley-s-top-beverage-bet-ahead-of-fifa-world-cup-stocktwits",
-      "title": "KO 股票延续涨势：可口可乐是摩根士丹利在 FIFA 世界杯之前的首选饮料 - Stocktwits",
-      "summary": "KO 股票延续涨势：可口可乐是摩根士丹利在 FIFA 世界杯之前的最佳饮料押注 Stocktwits",
-      "originalTitle": "KO Stock Extends Rally: Coca-Cola Is Morgan Stanley’s Top Beverage Bet Ahead Of FIFA World Cup - Stocktwits",
-      "originalSummary": "KO Stock Extends Rally: Coca-Cola Is Morgan Stanley’s Top Beverage Bet Ahead Of FIFA World Cup  Stocktwits",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNQ3FCYnFnSnR6dFR0M3Y4aU9ySzFBMm5wWnR6M3I0NjUzckpvX1FocDloTmhzNjloVVd2SnpDU2VYOUY2cnMwdElpeTVocjJnM0ZoVjNVQkxTSEY2T3FhNE04RHd0dExOQ19CbU1rUkFYbEQyNzdOdnV6LVF0dFpKZzIyUG5NVk9TZEoxZE5vZVQ0SnZVT1VWSGlRR3JjQ2RPTkRiMTVhdTVBOTBoYXk5Qmw0NHZhQlBjX1RFWjFHLXhQWmhTdEhYUFdNT2MtRUpaUlJxSml2SzFEVkE?oc=5",
-      "publishedAt": "2026-08-26T01:36:18+00:00",
-      "heat": 60
     }
   ]
 }
