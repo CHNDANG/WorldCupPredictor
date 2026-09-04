@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-04T19:04:37.896852+00:00",
+  "updatedAt": "2026-09-04T21:44:01.583305+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-selling-world-cup-merch-with-50-off-discounts-dailyhive-com",
+      "title": "FIFA 以 50% 折扣出售世界杯周边商品 - dailyhive.com",
+      "summary": "FIFA 以 50% 折扣出售世界杯周边商品 dailyhive.com",
+      "originalTitle": "FIFA selling World Cup merch with 50% off discounts - dailyhive.com",
+      "originalSummary": "FIFA selling World Cup merch with 50% off discounts  dailyhive.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBsbHdyZzZYbUsxWjBOSEdGSnExMFNJZVpFdkpFdWtiTWxRNWlHLTNUOUJfSTFsckVfRW5xMnBTT1lySkVCSVRmVlByU01BQTJOQXB5SlhndEtwRjlaZkNHMGJPWWY1ckVaMUNzbkJvZw?oc=5",
+      "publishedAt": "2026-09-04T21:30:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-how-to-watch-u-s-u-20-wnt-in-2026-fifa-u-20-women-s-world-cup-us-soccer",
+      "title": "如何观看：2026 年 FIFA U-20 女子世界杯美国 U-20 WNT - 美国足球",
+      "summary": "如何观看：2026 年 FIFA U-20 女子世界杯美国 U-20 WNT 美国足球",
+      "originalTitle": "How to Watch: U.S. U-20 WNT in 2026 FIFA U-20 Women’s World Cup - US Soccer",
+      "originalSummary": "How to Watch: U.S. U-20 WNT in 2026 FIFA U-20 Women’s World Cup  US Soccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNenZkNWlmNjc3elpIbC1BNGh5Y0ZxbmZUUVVkeE1ab1U0YWpjRkFrUnJfSUdjUFIzWWVHVXFkbVRocTlFTVM5RjNNa0FOREUwVTYwTHMtZGlXRXVqNkdBb0VJNFhWOUJMYXQ0NllYXzREX0Q3MGQ2dmZpeC1rQklnd016VUIwV0xjQTYyTWNRSHl0dEtxTi1oZFlza19WTXM1?oc=5",
+      "publishedAt": "2026-09-04T20:24:12+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-four-teams-represent-concacaf-at-the-fifa-u-20-women-s-world-cup-concacaf-official-website",
+      "title": "四支球队代表中北美及加勒比地区足联参加 FIFA U-20 女子世界杯 - 中北美及加勒比地区足联 |官方网站",
+      "summary": "四支球队代表中北美及加勒比地区足联参加 FIFA U-20 女子世界杯 | 中北美及加勒比地区足联 |官方网站",
+      "originalTitle": "Four teams represent Concacaf at the FIFA U-20 Women’s World Cup - Concacaf | Official Website",
+      "originalSummary": "Four teams represent Concacaf at the FIFA U-20 Women’s World Cup  Concacaf | Official Website",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPMHRxU1JERl9NWk9OeE5nOFRtUmVuSkQ0MWxabWxPOF9wdjNIYkljaXE5VVhDM3gyeU1tUlE2TDJnZUtoUDZSa2lDZGtMYkNNMUVLQmpyWDdhLWRya25Pa3R3dVFTVlVxbUNuTzBWRXlXS1lHS0Z4d1FFWGI3QTJsSUlycVI0WkhDQjJFSmIxbkdFMktYMTlzLTBKTlFrSWpDdU1oTW91UldyYXpNOFN4djh3MVByT2g1cEc1STN5LVIyWWJlbWpfakpsOFJiRVZ4MjFTZm9WNkJyU2RfbF9fNnFR?oc=5",
+      "publishedAt": "2026-09-04T19:53:23+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-pathway-spotlight-uswnt-players-at-the-fifa-u-20-women-s-world-cup-us-soccer",
+      "title": "衔接聚焦：美国女足球员参加 FIFA U-20 女子世界杯 - 美国足球",
+      "summary": "衔接聚焦：参加 FIFA U-20 女子世界杯的 USWNT 球员",
+      "originalTitle": "Pathway Spotlight: USWNT Players at the FIFA U-20 Women’s World Cup - US Soccer",
+      "originalSummary": "Pathway Spotlight: USWNT Players at the FIFA U-20 Women’s World Cup  US Soccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORTdHU1BxTG1GUGFxVTBpVWlsLXliTTJTbWdUWUZWNU1zTlk0YVZaQWRDb0FmSm5vWTY0ZGdDUW53Z3pOdzRqTEJSWGJLbmNvYlRrWHIyTHJCSzlIcTBEZnBJUlJ1WjRxajY2eW9oWGJrT2JtdzdsUGp1am9pNUp5WFJfSV9sZVQ4QnhTZG83Y1FVUTRuN2c?oc=5",
+      "publishedAt": "2026-09-04T19:47:55+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-missing-the-mark-et-mls-failed-on-its-promise-to-use-the-world-cup-to-attract-star-names-goal-com-us-goal-co",
+      "title": "错失目标：美国职业足球大联盟未能兑现利用世界杯吸引球星的承诺 | Goal.com 美国 - Goal.com",
+      "summary": "错失目标：美国职业足球大联盟未能兑现利用世界杯吸引球星的承诺 | Goal.com 美国 Goal.com",
+      "originalTitle": "Missing the mark(et): MLS failed on its promise to use the World Cup to attract star names | Goal.com US - Goal.com",
+      "originalSummary": "Missing the mark(et): MLS failed on its promise to use the World Cup to attract star names | Goal.com US  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUFd0am1SWVlSWGZncVlDUFBYUEwyNDlDZjN2OEVXTjRJUjR4RWs0QzdVSjVGZmd4dkpVTlRSeWI0V1NXNEJCOGRlVGF4QUVjV0lBX1RHa19UV2xDVFV3TWM2VkFOTEI3R0tNOTYxV2liZmttOFk1UHV1UWlkRElfQTFVUUVxTkVzLUFyVU1NOA?oc=5",
+      "publishedAt": "2026-09-04T19:46:49+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-report-shows-record-growth-in-global-football-transfer-market-after-2026-world-cup-anadolu-ajansı",
       "title": "FIFA 报告显示 2026 年世界杯后全球足球转会市场创纪录增长 - Anadolu Ajansı",
@@ -20,23 +80,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-2026-world-cup-como-genoa-live-free-stream-rikkyo-ac-jp",
-      "title": "⚡️2026 年世界杯：科莫热那亚直播免费直播 - rikkyo.ac.jp",
-      "summary": "⚡️2026 年世界杯：科莫热那亚直播免费直播  rikkyo.ac.jp",
-      "originalTitle": "⚡️2026 World Cup: Como Genoa Live free stream - rikkyo.ac.jp",
-      "originalSummary": "⚡️2026 World Cup: Como Genoa Live free stream  rikkyo.ac.jp",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxPRE9IbEhZQ2pNWkc2eWNPMEFmMm1LNnJiOHAwOGJRVXY3VkZrRHFMdkZhTC1zYTFyTllLQkx1VUlQUmpMLUVvSlU2SkxhODdZaFdPWFNFdEg5QU1Ram03VG1MTEpYOU1zMkpnc2YyRmE5Rlgtd0tNVmlBaTZkME00eWZ5UE9RZkZPYVZINUcxRnZFN3JWTXJVa1dnc3VlSW13Q2Z2ZjllS1hyNFRhbDg1aUUxbk1IR1p0NHNKVXNWY1pWaF82Y2dGNVRBSTY4Y2MwSHRFUFIzQXVNNS12WlBPaTZQa01pY3VJa2I0SkRHR0x1NFVBcnN2a3RDWVNnMWtwU2ZRUkxn?oc=5",
-      "publishedAt": "2026-09-04T18:10:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-canada-will-spend-c-1-billion-to-host-world-cup-watchdog-says-arabnews-pk",
-      "title": "监管机构称加拿大将斥资10亿加元主办世界杯 - arabnews.pk",
+      "id": "google-news-canada-will-spend-c-1-billion-to-host-world-cup-watchdog-says-arab-news-pk",
+      "title": "监管机构称加拿大将斥资10亿加元主办世界杯 - 阿拉伯新闻 PK",
       "summary": "监管机构称加拿大将斥资 10 亿加元主办世界杯",
-      "originalTitle": "Canada will spend C$1 billion to host World Cup, watchdog says - arabnews.pk",
-      "originalSummary": "Canada will spend C$1 billion to host World Cup, watchdog says  arabnews.pk",
+      "originalTitle": "Canada will spend C$1 billion to host World Cup, watchdog says - Arab News PK",
+      "originalSummary": "Canada will spend C$1 billion to host World Cup, watchdog says  Arab News PK",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPUlpOV0RMQUt3S1ZKYUItNFh1M3ltQXVPNWFLQWcwZlRyYnpIY1F2MXRHZGZLWkpRLUJKZzM1c2Nxa2hBLW5xckZJbjZWYzdqZGZXcFYxbkZyR1d3bVczMURPaXFWVFRRUFo2S3U3UmJfTFBaTTRleWRNSVZpUGpnc3AtdlFXWHVQY0dEUGJGQnVrVWpVcmdXV0F5aVE5UW8?oc=5",
@@ -44,15 +92,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-science-world-s-giant-fifa-soccer-ball-will-soon-come-down-and-vancouver-fans-are-not-ready-daily-hive",
-      "title": "科学世界巨型 FIFA 足球即将落地，温哥华球迷还没准备好 - Daily Hive",
-      "summary": "科学世界巨型 FIFA 足球即将落地，温哥华球迷还没准备好 Daily Hive",
-      "originalTitle": "Science World's giant FIFA soccer ball will soon come down and Vancouver fans are not ready - Daily Hive",
-      "originalSummary": "Science World's giant FIFA soccer ball will soon come down and Vancouver fans are not ready  Daily Hive",
+      "id": "google-news-science-world-s-giant-fifa-soccer-ball-will-soon-come-down-and-vancouver-fans-are-not-ready-dailyhive-com",
+      "title": "科学世界巨型FIFA足球即将落地，温哥华球迷还没准备好 - dailyhive.com",
+      "summary": "科学世界巨型 FIFA 足球即将落地，温哥华球迷还没准备好 dailyhive.com",
+      "originalTitle": "Science World's giant FIFA soccer ball will soon come down and Vancouver fans are not ready - dailyhive.com",
+      "originalSummary": "Science World's giant FIFA soccer ball will soon come down and Vancouver fans are not ready  dailyhive.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOV2RldFVYNUNSN0EtNldUMFJ4RzVzdUYyaVMyZXFtSzU1Z1A1R3hhdm1SN2htYUdkcURRc19qZjYzV2oyVTVmalNsd0xWMW5rR0kxZW5mX09JOFg4VW43YzIzTFBKVWpZQnI5eDNiVFVGY2c4UUtGcnZwSlpRVFo3TjBicW9tYmdXOEtUMHN3?oc=5",
       "publishedAt": "2026-09-04T17:24:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-ad-spend-projected-to-double-06-05-2026-mediapost",
+      "title": "世界杯广告支出预计将翻一番 06/05/2026 - MediaPost",
+      "summary": "世界杯广告支出预计将在 2026 年 6 月 5 日翻倍 MediaPost",
+      "originalTitle": "World Cup Ad Spend Projected To Double 06/05/2026 - MediaPost",
+      "originalSummary": "World Cup Ad Spend Projected To Double 06/05/2026  MediaPost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTUNnMDRoN3ctaTA5ek9SQ1JfYWJyVmN5eHhUWjhrWTVyZ0x4SWFXVmpyLUc4RWZVLTE1Y0Z0TVhRY1VlcURpakJJQTFZTHY3ZEZ2MjhtZEFXRU5UTzBzZExNSTZXaFBEd1NYVnhFRUxtU0VkQjJVSktBSjBLR0hIMG1wMXpoVFFHU05OQXdYNG85LW1JV08xOFpYejhZdw?oc=5",
+      "publishedAt": "2026-09-04T16:39:14+00:00",
       "heat": 52
     },
     {
@@ -80,35 +140,11 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-没拿过世界杯冠军就是废物-蓝色监狱-漫画的争议台词又火了-新浪网",
-      "title": "没拿过世界杯冠军就是废物？《蓝色监狱》漫画的争议台词又火了 - 新浪网",
-      "summary": "没拿过世界杯冠军就是废物？《蓝色监狱》漫画的争议台词又火了  新浪网",
-      "originalTitle": "没拿过世界杯冠军就是废物？《蓝色监狱》漫画的争议台词又火了 - 新浪网",
-      "originalSummary": "没拿过世界杯冠军就是废物？《蓝色监狱》漫画的争议台词又火了  新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9ESHNtYWVYMlZDYi1HYTEtV3hjTWt4Rk1UYXpRSllldFc3RjdNdTF2WFZITDhkbC1xM3lhZ2t1OXY0SG0zSnJwOG5pU0NMRjdadjNsZXd2eHJwWmpJX0xETFcwYTZMbHlwT05ZeDczRQ?oc=5",
-      "publishedAt": "2026-09-04T15:33:06+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-09-04T15:22:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-2026-recap-unforgettable-moments-talon-marks",
-      "title": "2026 年 FIFA 世界杯回顾：难忘的时刻 - Talon Marks",
-      "summary": "2026 年 FIFA 世界杯回顾：难忘的时刻 Talon Marks",
-      "originalTitle": "FIFA World Cup 2026 Recap: Unforgettable moments - Talon Marks",
-      "originalSummary": "FIFA World Cup 2026 Recap: Unforgettable moments  Talon Marks",
+      "id": "google-news-fifa-world-cup-2026-recap-unforgettable-moments-talonmarks-com",
+      "title": "2026 年 FIFA 世界杯回顾：难忘的时刻 -talonmarks.com",
+      "summary": "2026 年 FIFA 世界杯回顾：难忘的时刻 talonmarks.com",
+      "originalTitle": "FIFA World Cup 2026 Recap: Unforgettable moments - talonmarks.com",
+      "originalSummary": "FIFA World Cup 2026 Recap: Unforgettable moments  talonmarks.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPQ3IzeEJiS1I5bk9vMmJQanFxLURoSGx4Xy1FLTlPSGhpZHN0azZsNU85V0FvNGpvV3lYQWRlZ1kzMmp6bks3RHJRWDR1QUh1NGNVMHlNU1ZjOXFPd3gtWkxLXzM4bUgtdW1hS0JCQ0I3S2NiTnZfdThHYl9hb3cxU3J0a2VBTE1KaGtXVmQ2OXFpakFRYnBTclBCaWs2Q0M2YlE?oc=5",
@@ -185,42 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kbXc0M0JYUjlmYjN6Q3hqQVM2bTdFLXF2ZTdQU21jeGUyejlpZkxQZ0o4TWkxU1ppeFJzQkl6QUtZZDE5dVNtYm5XcDV6UFpwLU1oWTdrSnNBbU0?oc=5",
       "publishedAt": "2026-09-04T14:34:40+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-fifa-panini-collection-codes-for-september-2026-vg247",
-      "title": "2026 年 9 月 FIFA 帕尼尼系列代码 - VG247",
-      "summary": "2026 年 9 月 FIFA 帕尼尼系列代码 VG247",
-      "originalTitle": "FIFA Panini Collection codes for September 2026 - VG247",
-      "originalSummary": "FIFA Panini Collection codes for September 2026  VG247",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFB2amJvQ2VLT1dKd0JJcGdnSXJ1cHlmMFctOFhOM1cxT215VG9SRTBOVDNNZ2s4XzRFa2FvNVd0XzF1MGw3SFlrdmVOblpublhOUlAwWjg0NGFuRGphcGUw?oc=5",
-      "publishedAt": "2026-09-04T14:28:52+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-sports-report-local-athletes-head-to-the-under-20-women-s-soccer-world-cup-and-women-s-basketball-world-cup-",
-      "title": "体育报道：当地运动员前往参加 20 岁以下女子足球世界杯和女子篮球世界杯 - 华盛顿城市报",
-      "summary": "体育报道：当地运动员前往参加 20 岁以下女子足球世界杯和女子篮球世界杯 华盛顿城市报",
-      "originalTitle": "Sports Report: Local Athletes Head to the Under-20 Women’s Soccer World Cup and Women’s Basketball World Cup - Washington City Paper",
-      "originalSummary": "Sports Report: Local Athletes Head to the Under-20 Women’s Soccer World Cup and Women’s Basketball World Cup  Washington City Paper",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbGQ1MjhCVTYwNTJweWRjOFVEaV96azZSQk5vTEdnNGg3VjQ4ampPdjIxcm1SbDktb05ycHhZLTd0Wl8zOFNab053ekFEZThLMzNkcTYzS21ZNWMxZld5cWtkZnlKNkwxeVR2cWhkMEVtcTAxdWoyX2J1RGxQQlhzNWJLaElMeEZDWTlpSWxxUUVIMkI3bENWRzZhbzRJQXFELUVJcnZ5aHJ1dVBUQjNJUnZCcTlRVlRKUlpkQU1mTUk5UW1ySVk3NTVERi1NcWNNMVhnTFUzNU1tVGRtU3Rnb2NlalNBc3I1?oc=5",
-      "publishedAt": "2026-09-04T14:09:24+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-live-spain-beats-argentina-1-0-to-win-the-2026-fifa-world-cup-palermotoday-azklftsazm-mshale",
-      "title": "直播：西班牙 1-0 击败阿根廷赢得 2026 年 FIFA 世界杯 Palermotoday (AZkLFTSazm) - Mshale",
-      "summary": "直播：西班牙 1-0 击败阿根廷，赢得 2026 年 FIFA 世界杯 Palermotoday (AZkLFTSazm)  Mshale",
-      "originalTitle": "LIVE: Spain Beats Argentina 1-0 To Win The 2026 FIFA World Cup Palermotoday (AZkLFTSazm) - Mshale",
-      "originalSummary": "LIVE: Spain Beats Argentina 1-0 To Win The 2026 FIFA World Cup Palermotoday (AZkLFTSazm)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9wajZpUnpUeGpmRmM3LWxGaUZFT3lZRmxxUkRvaG13Uy1sN1M2U3ZNdU5FR1NTNm1EaWlXcWt6NXlBTGxvNWVoQUJvOVMtU2xIdzNfRFExTEZKNDQ?oc=5",
-      "publishedAt": "2026-09-04T13:28:53+00:00",
       "heat": 68
     }
   ]
