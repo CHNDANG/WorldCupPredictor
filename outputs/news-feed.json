@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-05T19:25:12.448938+00:00",
+  "updatedAt": "2026-09-05T21:35:27.447764+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-spain-not-only-world-cup-winners-as-metro-new-york-region-also-cashes-in-rome-sentinel",
+      "title": "西班牙不仅是世界杯冠军，纽约大都会地区也受益匪浅 - 罗马哨兵报",
+      "summary": "西班牙不仅是世界杯冠军，纽约都会区也从罗马哨兵中获利",
+      "originalTitle": "Spain not only World Cup winners, as metro New York region also cashes in - Rome Sentinel",
+      "originalSummary": "Spain not only World Cup winners, as metro New York region also cashes in  Rome Sentinel",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ1VRbXFBR2s0VlZocU82SmFPZEJjSFR1S3cxWENtRnBjc3VsZkxRYzZPd0UteGF2TFo2X0Y4ZWdjcDR5VV9NVHpkenNqM3FaR29EcFV6ak5YLXpXTDB1dVNOaGh5NmZpbGxBQ1pPcF96VVhETGxsQXJJR19zQ2hsTWxDUFlWWXV3d2h5c1Q2c0V6OVl5WVR0Q2pGY2tLRGZWckkzME9BT2EyelpsbmtvTllRLWlmZG80WFJNMFFpQXFpV1dMNk5YdGNaVG11RDFBTFIxdHN2MmNVQmtfXzRERHpBWGd5dw?oc=5",
+      "publishedAt": "2026-09-05T19:41:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-canada-vs-england-final-score-september-05-2026-fox-sports",
+      "title": "加拿大 vs. 英格兰 - 最终比分 - 2026 年 9 月 5 日 - 福克斯体育",
+      "summary": "加拿大 vs. 英格兰 - 最终比分 - 2026 年 9 月 5 日  福克斯体育",
+      "originalTitle": "Canada vs. England - Final Score - September 05, 2026 - FOX Sports",
+      "originalSummary": "Canada vs. England - Final Score - September 05, 2026  FOX Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZVlTRDRtYV9Za2lMaW9MdkUzR3hzc1c5dEcyNGpObE9oSWVma2N0Zkdhd3kzTG9BVjYxOVcwSk9Pa01Sd0dSNks1cXlLY1ZSMTFBRFNhZGZsWVBUQ2F2R29RSzZkdDVuYUh2OHE2QmFtSjNyalN1SkI4bVQ2dGNkVWl6dWI1eXM3d1NaU1l0cFJDejl5YnBOTV9SOU1lM0ZCN3B6TWdTcTBTMzhOSVE?oc=5",
+      "publishedAt": "2026-09-05T19:32:38+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-benin-secure-a-stunning-draw-against-mexico-in-their-opening-match-at-the-2026-fifa-u-20-women-s-world-cup-d",
+      "title": "贝宁在 2026 年 FIFA U-20 女子世界杯首场比赛中以惊人的战平墨西哥 - Dailysports",
+      "summary": "贝宁在 2026 年 FIFA U-20 女子世界杯首场比赛中以惊人的战平墨西哥队 Dailysports",
+      "originalTitle": "Benin secure a stunning draw against Mexico in their opening match at the 2026 FIFA U-20 Women’s World Cup - Dailysports",
+      "originalSummary": "Benin secure a stunning draw against Mexico in their opening match at the 2026 FIFA U-20 Women’s World Cup  Dailysports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLTljSlJSWWdaVjJlcU93cndDLTk3Tm5Nb0ZpaUUwX0dTSTFWUThoX0lud3NtZm1EbWhYR2RKZXFiaFFYNVFtT3VRUXdBajBIRDV6S1V6NExMX3hzOWFMN3VXR19WeFpHMGFVTC1NWDBnVHA4VUZQNk9JNDd2OENja0FpSU1JLXhibHRKM3QyTFVERFN3Rm84QzRFRTFJWC1zUnpSM1FxQ0thNW1UNU9RVU12VTh6aldrQTI2RnVJeUVndzNQVC1LaWFHNlZJVDhJ?oc=5",
+      "publishedAt": "2026-09-05T19:01:46+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-canada-starts-2026-u-20-women-s-world-cup-run-with-a-draw-concacaf-official-website",
       "title": "加拿大以平局开始 2026 年 U-20 女子世界杯官方网站",
@@ -20,23 +56,23 @@
       "heat": 52
     },
     {
-      "id": "google-news-benin-secure-a-stunning-draw-against-mexico-in-their-opening-match-at-the-2026-fifa-u-20-women-s-world-cup-d",
-      "title": "贝宁在 2026 年 FIFA U-20 女子世界杯首场比赛中以惊人的战平墨西哥 - Dailysports",
-      "summary": "贝宁在 2026 年 FIFA U-20 女子世界杯首场比赛中以惊人的战平墨西哥队 Dailysports",
-      "originalTitle": "Benin secure a stunning draw against Mexico in their opening match at the 2026 FIFA U-20 Women’s World Cup - Dailysports",
-      "originalSummary": "Benin secure a stunning draw against Mexico in their opening match at the 2026 FIFA U-20 Women’s World Cup  Dailysports",
+      "id": "google-news-mexico-kicks-off-u-20-women-s-world-cup-run-with-a-draw-concacaf-official-website",
+      "title": "墨西哥以平局拉开U-20女足世界杯的序幕官方网站",
+      "summary": "墨西哥以平局拉开 U-20 女子世界杯之旅官方网站",
+      "originalTitle": "Mexico kicks off U-20 Women’s World Cup run with a draw - Concacaf | Official Website",
+      "originalSummary": "Mexico kicks off U-20 Women’s World Cup run with a draw  Concacaf | Official Website",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNLTljSlJSWWdaVjJlcU93cndDLTk3Tm5Nb0ZpaUUwX0dTSTFWUThoX0lud3NtZm1EbWhYR2RKZXFiaFFYNVFtT3VRUXdBajBIRDV6S1V6NExMX3hzOWFMN3VXR19WeFpHMGFVTC1NWDBnVHA4VUZQNk9JNDd2OENja0FpSU1JLXhibHRKM3QyTFVERFN3Rm84QzRFRTFJWC1zUnpSM1FxQ0thNW1UNU9RVU12VTh6aldrQTI2RnVJeUVndzNQVC1LaWFHNlZJVDhJ?oc=5",
-      "publishedAt": "2026-09-05T18:59:53+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZW5naHh4TTdKQTdwWFplQWdlNnFCMnBYUnRDeVBES3BPaGpMVkUzZzdsSUJodEZiSS16SXZfSGIya2VNYnhkbm1LZDVpVDB1ODBWM1F2TjJ2RTQtM0JNZ1lFMXdUeGUzWjluck9LNjNsQkVHcVF4UmNqcmhYak5vM0N0azBwekZMV1c2SWpiR0Z4al9feHVtMkpPaGRMaXRmTFZsbjNVRDIwMzZIWVF5cmdjSHBYYzNFbUlkbzAyZXJBMTBQVXc?oc=5",
+      "publishedAt": "2026-09-05T18:47:02+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-real-salt-lake-acquires-20-year-old-canadian-world-cup-defender-luc-de-fougerolles-from-fulham-fc-real-salt-",
-      "title": "皇家盐湖城从富勒姆足球俱乐部收购了 20 岁的加拿大世界杯后卫卢克·德·福格罗勒 - 皇家盐湖城",
-      "summary": "皇家盐湖城从富勒姆皇家盐湖城收购了 20 岁的加拿大世界杯后卫卢克·德·福格罗勒",
-      "originalTitle": "REAL SALT LAKE ACQUIRES 20-YEAR-OLD CANADIAN WORLD CUP DEFENDER LUC DE FOUGEROLLES FROM FULHAM FC - Real Salt Lake",
-      "originalSummary": "REAL SALT LAKE ACQUIRES 20-YEAR-OLD CANADIAN WORLD CUP DEFENDER LUC DE FOUGEROLLES FROM FULHAM FC  Real Salt Lake",
+      "title": "皇家盐湖城从富勒姆足球俱乐部收购了 20 岁的加拿大世界杯后卫 Luc de Fougerolles - 皇家盐湖城",
+      "summary": "皇家盐湖城从富勒姆足球俱乐部收购了 20 岁的加拿大世界杯后卫 Luc de Fougerolles 皇家盐湖城",
+      "originalTitle": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC - Real Salt Lake",
+      "originalSummary": "Real Salt Lake Acquires 20-Year-Old Canadian World Cup Defender Luc de Fougerolles From Fulham FC  Real Salt Lake",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQUFdNMTAyV2pxb2Fjamlkb1RCOXZ2UXFrSmtfYWZZRllnbzQwTmFBMU9tY19DdnA3SzVHbjBfVVE4cjZ3MHVQOG15aGdoNFZTc19iMUZaUU03SGNMdDV6MzEwMm5mV05sVS1aODRZYXBncXBfd3pnbm9xVXg1dG16Y2R5Z2V2eDdmRHotNjY3OVRhZlFHTXpLb1pweWl6V3JrSXRDVkhpY1V4NmJFRW81dmN1TWg3V0ZDYVZxSUdoNA?oc=5",
@@ -44,11 +80,23 @@
       "heat": 52
     },
     {
-      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
-      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
-      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
-      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - Yahoo Creators",
-      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  Yahoo Creators",
+      "id": "google-news-licha-named-in-fifa-dream-xi-official-manchester-united-website",
+      "title": "利查入选 FIFA 梦想十一人 - 曼联官方网站",
+      "summary": "利查入选 FIFA 梦想十一人 曼联官方网站",
+      "originalTitle": "Licha named in FIFA Dream XI - Official Manchester United Website",
+      "originalSummary": "Licha named in FIFA Dream XI  Official Manchester United Website",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWR3TE5KS21tYkFaWXE2WVNXb2xxM0N3Z0h0ckZYVG5qRHZZZzBPLWpUZTMxeXpQTmxuS2taaWxYVnB6cV82T2g5QlhGWnFRenE2T3BUNnlWYkZfN0lYZ0doMENxaEtqd3ZoU0lsSW9TTHV1V204bzFPV0xJRHJnTTZuREhTcVhQWmdOUVJ5Q3VCOXZv?oc=5",
+      "publishedAt": "2026-09-05T16:45:38+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-creators-yahoo-com",
+      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - Creators.yahoo.com",
+      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  Creators.yahoo.com",
+      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - creators.yahoo.com",
+      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  creators.yahoo.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0xcmp3T3MxTHJGMjBVXzJlNGc1Ump2dHRYNjdKS2o5RlItNmRldUNPTTZ0VHZhckJMaXlDejUwUGpNc1hQaFVtU2toeVdENkxuR05kZy00QkNISEViS19GY0EzVERBUGpkNDhHRjNiSEx5MjJ4Vi1YUk5SOGpsSzlKN0Zkb21mMjFVZHE2eW1lUjdpUG5GMTBQQWstZVEtOXVIZURmR0FRTDZMZG1fUDFoY21yMHVkbkdqejZJZlZkUWN4ZUptNGktamNPc1kxVENBRDl0UTQxSkk?oc=5",
@@ -68,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-egypt-file-complaint-against-referee-after-world-cup-exit-vnexpress-international",
-      "title": "世界杯出局后埃及对裁判提出投诉 - VnExpress International",
-      "summary": "埃及队退出世界杯后对裁判提出投诉 VnExpress International",
-      "originalTitle": "Egypt file complaint against referee after World Cup exit - VnExpress International",
-      "originalSummary": "Egypt file complaint against referee after World Cup exit  VnExpress International",
+      "id": "google-news-egypt-file-complaint-against-referee-after-world-cup-exit-e-vnexpress-net",
+      "title": "世界杯出局后埃及对裁判提出投诉 - e.vnexpress.net",
+      "summary": "世界杯退出后埃及对裁判提出投诉 e.vnexpress.net",
+      "originalTitle": "Egypt file complaint against referee after World Cup exit - e.vnexpress.net",
+      "originalSummary": "Egypt file complaint against referee after World Cup exit  e.vnexpress.net",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWVlZZ2JTWE5raGN4RTRZcDdSQnRsLTAydzdfdy1xQTZITTUyMDdSQzA4dGt1NnlKUXJrNmFnd0o5cWhUa2MtdkZPcERYUXg0ajNTRkxLcERGeFp6NjItbU81VUgtQXZsWE1ocWhIaUtqNmlZTzBnRWM4RWQtYTFCUzZYNFNDSnlIdlJMV19TSkdiWDM5SlAxYXhzYTdsNnI4NFptR0s0M3dLeFhSdkFSSXhxYUptQQ?oc=5",
@@ -93,10 +141,10 @@
     },
     {
       "id": "google-news-18-billion-dollar-profit-trump-reveals-sensational-figures-following-the-2026-world-cup-zamin-uz",
-      "title": "180 亿美元利润：特朗普在 2026 年世界杯后公布了令人震惊的数字 - zamin.uz",
-      "summary": "180 亿美元利润：特朗普在 2026 年世界杯后公布了令人震惊的数字 zamin.uz",
-      "originalTitle": "18 Billion Dollar Profit: Trump Reveals Sensational Figures Following the 2026 World Cup - zamin.uz",
-      "originalSummary": "18 Billion Dollar Profit: Trump Reveals Sensational Figures Following the 2026 World Cup  zamin.uz",
+      "title": "180 亿美元利润：特朗普在 2026 年世界杯后公布了令人震惊的数字 - Zamin.uz",
+      "summary": "180 亿美元利润：特朗普在 2026 年世界杯后公布了令人震惊的数字 Zamin.uz",
+      "originalTitle": "18 Billion Dollar Profit: Trump Reveals Sensational Figures Following the 2026 World Cup - Zamin.uz",
+      "originalSummary": "18 Billion Dollar Profit: Trump Reveals Sensational Figures Following the 2026 World Cup  Zamin.uz",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTEh1SXpkMjdGQnFFeFRqc0Y4TUhRbFlGc0pnbVZqWG9FdnFUd0R6ajVEdndEeUYwRy1zWU05cUdjMWtOdm9YVkdlV3RxUG5JbXQyeG5QODEyUTdhd2xzTHlrX3M1MU5XMWFFSnFISVJKbHBJOTNMR3Z6OFVoaWptTEZWM0o3bktWWU91WVFsVG52Q1Y0eVQtT3IwSFBPOF9sOGQ5MXRFMElBR291ODhyNmNCWGJtZnctV3ZaWHd3?oc=5",
@@ -140,6 +188,30 @@
       "heat": 52
     },
     {
+      "id": "google-news-english-fa-will-speak-to-star-players-in-world-cup-review-tribalfootball",
+      "title": "英国足协将在世界杯回顾中与明星球员交谈 - TribalFootball",
+      "summary": "英国足协将在世界杯回顾中与明星球员交谈 TribalFootball",
+      "originalTitle": "English FA will speak to star players in World Cup review - TribalFootball",
+      "originalSummary": "English FA will speak to star players in World Cup review  TribalFootball",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOcEtYV25sY1JRWDQwT1ozLXZ1OHZUcy1GY210czRmVG9EZmYxSUVub25qb1FjaHBDMDZ0Vnk2U0RxTEp0N19hWWc4amxQMEhBR0RSNHpVeW5uYXFfYTMxandRU2lVLXNQQWx3cVUwMTRjeVJwVjBEWk45ZVMzYlhualdHRmRDRTJ1eTRCbnVTTVpZWkZLZ0ItNzFfS0k3LVdKNFR4S3ZQLVNXVXFZZ3hFVlRFNjhOSW5BS21YX0poRXpZNVpSNVZsTEx0OWZKR01rN2VfSzF2NUx1TFgtQ2RUM2l2ZnNJZFZ0eVloZFZ3N24?oc=5",
+      "publishedAt": "2026-09-05T15:16:32+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-vs-cape-verde-live-watch-party-of-2026-world-cup-roddie-m-lotto-6-49-winner-hazdcvrcz4-mshale",
+      "title": "阿根廷对阵。佛得角：2026 年世界杯现场观看派对 Roddie M Lotto 6/49 获胜者 (hAZdcvRcz4) - Mshale",
+      "summary": "阿根廷对阵。佛得角：2026 年世界杯现场观看派对 Roddie M Lotto 6/49 获胜者 (hAZdcvRcz4)  Mshale",
+      "originalTitle": "Argentina Vs. Cape Verde: LIVE Watch Party Of 2026 World Cup Roddie M Lotto 6/49 Winner (hAZdcvRcz4) - Mshale",
+      "originalSummary": "Argentina Vs. Cape Verde: LIVE Watch Party Of 2026 World Cup Roddie M Lotto 6/49 Winner (hAZdcvRcz4)  Mshale",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5wVk9DbXBFUVdsdGx0M3ltOUJUVXBNR0FXbHRJb3RYYnN5WHhNVUp4ekhlMDdfYUJxLUExVU8wd2l5VXl5OWRWNGU1RkFLSVQ4T0huT2ZEaGtZZ1J6UlY0WQ?oc=5",
+      "publishedAt": "2026-09-05T15:16:12+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-trump-says-2026-world-cup-generated-over-18-billion-for-us-economy-azernews",
       "title": "特朗普称2026年世界杯为美国经济创造了超过180亿美元 - AzerNews",
       "summary": "特朗普表示 2026 年世界杯为美国经济创造了超过 180 亿美元 - AzerNews",
@@ -149,78 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9jNlN3N0duMnBIbl9zOXY1LUFqRHVtQUxkSDZWYkxHR19rLTc3cldicWlUQy1wcUtELVB1a2VxOG45Y082NHdHUmpGWC1DUW9EQ1R6bQ?oc=5",
       "publishedAt": "2026-09-05T14:50:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-real-madrid-star-valverde-liverpool-loanee-araujo-part-of-uruguay-squad-for-upcoming-friendlies-including-in",
-      "title": "皇家马德里球星巴尔韦德和利物浦租借球员阿劳霍入选乌拉圭队参加即将到来的友谊赛，包括印度比赛 - 新印度快报",
-      "summary": "皇家马德里球星巴尔韦德和利物浦租借球员阿劳霍入选乌拉圭即将举行的友谊赛大名单，其中包括印度比赛 - 新印度快报",
-      "originalTitle": "Real Madrid star Valverde, Liverpool loanee Araujo part of Uruguay squad for upcoming friendlies including India match - The New Indian Express",
-      "originalSummary": "Real Madrid star Valverde, Liverpool loanee Araujo part of Uruguay squad for upcoming friendlies including India match  The New Indian Express",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxQejR1andHRTFEVldBazdUblNWMzI1OWlZb0ZGWGZ4UGZNaGdoVmlYa19VVnoxajdYbjlyLTBMV245ei1TdjBObGRJSko2M3BRX2p3dzVUT1VRZTgxbEpLc0xVcHRjM0ZxbERiUFJIWjJsSVBNUFRRbnNNc1ZUMGRZdURCQTloeEFLMG10VTlHMWVyb3g1SkVCaXdBdmhyaWFlZ1FoX25aenNscFJsSVZGS3ZGdllHdzd1OXpZNnJULWxoRkhydTBhMUxTWkZfTEY3NUtIVmRVbHpLZHRselZzZDRhaXA1NWwxaGw1M1dDbUtGMU4zNVg3TTJsN3dqdnZhQjc4eF9MbTFGd0ds0gGaAkFVX3lxTFBPMVJfZlZ1cThENU9YWmM0TlNncGpFUHowaHd2QjZjSVBQOV90ZmxaZ0pQNjNfWm0tSGpoakUtTGlCZmlnb1BDVGI2NHdKYmhzOG9qeEJHdFdPdm9ZSXVvQVFfTHlNWURzVGUxVG5JdEtFWnBRZDlGak11cFFMV09CSV9XQm9mcEVJcFRjY0NfOHluWWlreVpmODFJY3ZPV0JXQzdQdmV0eDNCamU1dWJfdG55Y2t0cnkzWlVWZ1BQd2phNUY0cXRQcXhEeVp0eC0tVGJhLWFHTHI4clc4UFZxTWFSV003WjdXT1ppM201MzFTcTh4cTdzOFZacjA2LWdJUWVmX1pEYjJyZnBhRVF5LUFwWVRvTnhzdw?oc=5",
-      "publishedAt": "2026-09-05T14:25:01+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-brazil-vs-norway-in-round-of-16-replay-match-overwhelming-victory-for-brazil-fifa-world-cup-2026-paraguay-wn",
-      "title": "16强赛重赛巴西VS挪威|巴西队压倒性胜利| 2026 年 FIFA 世界杯巴拉圭 (wnkw3oo5rW) - Mshale",
-      "summary": "16强赛重赛巴西VS挪威|巴西队压倒性胜利| 2026 年 FIFA 世界杯巴拉圭 (wnkw3oo5rW)  Mshale",
-      "originalTitle": "Brazil Vs Norway In Round Of 16 Replay Match | Overwhelming Victory For Brazil | FIFA World Cup 2026 Paraguay (wnkw3oo5rW) - Mshale",
-      "originalSummary": "Brazil Vs Norway In Round Of 16 Replay Match | Overwhelming Victory For Brazil | FIFA World Cup 2026 Paraguay (wnkw3oo5rW)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55Z3VmaXpUZHkyZklwT0RFa2VnVW5rQlozY0U1Vk9PSHdoNmY1Z21sdjdXZjNxcnozZkVNYVRTUEg1Ny1iZTA0bVlXb3VMMFpXTl9JQ3JqU0Q5ZkE?oc=5",
-      "publishedAt": "2026-09-05T13:47:21+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-crown-prince-hussein-expresses-confidence-in-al-nashama-ahead-of-fifa-world-cup-2026-roya-news",
-      "title": "侯赛因王储在 2026 年 FIFA 世界杯之前对纳沙马表示信心 - Roya News",
-      "summary": "侯赛因王储在 2026 年 FIFA 世界杯之前对 Al-Nashama 表示信心 Roya News",
-      "originalTitle": "Crown Prince Hussein expresses confidence in Al-Nashama ahead of FIFA World Cup 2026 - Roya News",
-      "originalSummary": "Crown Prince Hussein expresses confidence in Al-Nashama ahead of FIFA World Cup 2026  Roya News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNb3VUTkVuT0tYVnJuS0F0Wk9zYXFEekNXV0R6SVFQNC1jNzJTd1lVaDZOVS02cE9vVTdid1lVbXUyeHhoNTZsV1BiQXFjVkhfZWtOeVRNRkxQQncwVXBjRGE4OEdmLXF6M1kxVjlBT3hMcUlPRzBxRHFSTWJMLTlxN1doam9wRjIwZEhmOFZkZFp2MkxrcGtaQ0d5d0lFRGpuYUkxV09JSHdIRVpYZGIzeTJkZ0NENWhIZlE?oc=5",
-      "publishedAt": "2026-09-05T13:28:48+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-brazil-fa-president-calls-world-cup-opener-against-morocco-an-honor-for-the-seleção-yabiladi-com",
-      "title": "巴西足协主席称世界杯揭幕战对阵摩洛哥是桑巴军团的“荣誉” - Yabiladi.com",
-      "summary": "巴西足协主席称世界杯揭幕战对阵摩洛哥是桑巴军团的“荣誉”Yabiladi.com",
-      "originalTitle": "Brazil FA President calls World Cup opener against Morocco an «honor» for the Seleção - Yabiladi.com",
-      "originalSummary": "Brazil FA President calls World Cup opener against Morocco an «honor» for the Seleção  Yabiladi.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPbUMwUE1tUVVaVVJ1eUtVd2wxNVVyYVZvZ0J5X0RRN28zM1Vta25DaklPV1RWMlFPejRLajVXLS1TZzQyY3U0eFltdVJ4QTZ4TFAzVUd5Rm93b1JKVGg4T1hBMHBrYzA0b0NnbzRodEM4N1ZwZzNqYllJa2ZLU0tPZjZVek9FNk5wNzVBckVLWU4xQQ?oc=5",
-      "publishedAt": "2026-09-05T13:09:39+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-semi-final-winner-already-decided-argentina-vs-england-fifa-world-cup-2026-cape-breton-post-bafnpmnjnl-mshal",
-      "title": "半决赛胜负已定！ 😱 阿根廷 vs 英格兰 | FIFA 世界杯 2026 年布雷顿角邮报 (BafNPmNJnl) - Mshale",
-      "summary": "半决赛胜负已定！ 😱 阿根廷 vs 英格兰 | FIFA 世界杯 2026 年布雷顿角邮报 (BafNPmNJnl)  Mshale",
-      "originalTitle": "Semi-Final Winner Already Decided! 😱 Argentina Vs England | FIFA World Cup 2026 Cape Breton Post (BafNPmNJnl) - Mshale",
-      "originalSummary": "Semi-Final Winner Already Decided! 😱 Argentina Vs England | FIFA World Cup 2026 Cape Breton Post (BafNPmNJnl)  Mshale",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zUVRBUlEzQ0xob3pNNU1weVBvMmIzQVdlMzdqMDhyOUFiZkpzcWtRZ3ZqRlRtbmFqUGlqMEVya0dHZkpFb0NxNUhTWndoaGF3MEkyZzBNS19MejA?oc=5",
-      "publishedAt": "2026-09-05T13:00:30+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-ukraine-lost-to-brazil-in-the-quarterfinals-of-the-2026-socca-world-cup-українські-національні-новини-унн",
-      "title": "乌克兰在 2026 年 Socca 世界杯四分之一决赛中输给巴西 - Українські Національні Новини (УНН)",
-      "summary": "乌克兰队在 2026 年 Socca 世界杯四分之一决赛中输给了巴西队",
-      "originalTitle": "Ukraine lost to Brazil in the quarterfinals of the 2026 Socca World Cup - Українські Національні Новини (УНН)",
-      "originalSummary": "Ukraine lost to Brazil in the quarterfinals of the 2026 Socca World Cup  Українські Національні Новини (УНН)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMjN2aGgySzR4b1lzV01ETUdPck9pekhjUS1BbFdLV0l0OTQ2SFJmRVFtZ25HTEdXSHF5WFdZUUJoNS0xd3ZGaVA3S0d4SkR3TFFrVjJDeGE4VzdBUFlxTlp5bldGYVYyTVZRVWZSVk10eUhzeFhEMTg3Vk12ZFcybGFrcmtUX2RrQmRvSEZCa1BJUkN3blYwNzdB0gGYAUFVX3lxTE9GRFZ4Wk43YkU4STdyM1JGOXktcXVhNGdCbG1ZODk1LTFqNGVCUTVVNWU1M1JXXzMtU0l6LXliby1EU0d3WjQ0TkdMaXFWTXBsUnpZR0JIUjg0czJXX2lyWXRTZG9EcjJTTUducTJwb3l2aFBvNTZDSHBtQ3ZRLUo4V0ZwWWtwUGVQbTBRY3psa1hFYWlrZFdZ?oc=5",
-      "publishedAt": "2026-09-05T12:59:20+00:00",
       "heat": 52
     }
   ]
