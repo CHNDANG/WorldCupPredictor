@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-07T21:44:07.572421+00:00",
+  "updatedAt": "2026-09-08T00:06:44.839081+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-world-cup-kylian-mbappé-looks-back-on-the-difficult-elimination-of-france-french-football-weekly",
+      "title": "2026 世界杯: Kylian Mbappé looks back on the difficult elimination of France - French Football Weekly",
+      "summary": "2026 世界杯: Kylian Mbappé looks back on the difficult elimination of France  French Football Weekly",
+      "originalTitle": "2026 World Cup: Kylian Mbappé looks back on the difficult elimination of France - French Football Weekly",
+      "originalSummary": "2026 World Cup: Kylian Mbappé looks back on the difficult elimination of France  French Football Weekly",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWkpFbDZ3OEFsNm5wbmJ0cWpFMUg2LVFzaFFnM2tkd29aWEoyZkNPNzBJVU5qZ095V0szeWQxa1UtcXZacERGS21VOU11V24zYmh1TUpsOWJFMG9DQlEzdmN3UUUyNVVqTWVHY3c1cFBsbU9ub2J2TlV0YXQ2dW53aTJpa1k1RDRPb1VramQzMFcwNmxZLTIwTlU4V3JzLTRQdHdrWk5DeFpfT0p3cHRyd25Hd1I0Nm9tXzRoTDZRc04?oc=5",
+      "publishedAt": "2026-09-07T22:10:38+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-09-07T22:03:38+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-licha-named-in-fifa-dream-xi-manchester-united",
+      "title": "Licha named in 国际足联 Dream XI - Manchester United",
+      "summary": "Licha named in 国际足联 Dream XI  Manchester United",
+      "originalTitle": "Licha named in FIFA Dream XI - Manchester United",
+      "originalSummary": "Licha named in FIFA Dream XI  Manchester United",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWR3TE5KS21tYkFaWXE2WVNXb2xxM0N3Z0h0ckZYVG5qRHZZZzBPLWpUZTMxeXpQTmxuS2taaWxYVnB6cV82T2g5QlhGWnFRenE2T3BUNnlWYkZfN0lYZ0doMENxaEtqd3ZoU0lsSW9TTHV1V204bzFPV0xJRHJnTTZuREhTcVhQWmdOUVJ5Q3VCOXZv?oc=5",
+      "publishedAt": "2026-09-07T20:56:27+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-u-20-women-s-world-cup-falconets-fall-2-0-to-spain-freedomonline-com-ng",
       "title": "国际足联 U-20 Women’s 世界杯: Falconets fall 2-0 to 西班牙 - freedomonline.com.ng",
@@ -56,6 +92,18 @@
       "heat": 68
     },
     {
+      "id": "google-news-belgium-fa-withdraw-support-for-infantino-after-balogun-saga-score-nigeria",
+      "title": "Belgium FA withdraw support for Infantino after Balogun saga - Score Nigeria",
+      "summary": "Belgium FA withdraw support for Infantino after Balogun saga  Score Nigeria",
+      "originalTitle": "Belgium FA withdraw support for Infantino after Balogun saga - Score Nigeria",
+      "originalSummary": "Belgium FA withdraw support for Infantino after Balogun saga  Score Nigeria",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHJSZDd5WUlsT0lFSkdSMkdtYXhsazZwMmgtZGNRYWRKR0p5M0p5ZDhnblQ4MGRQVG9JazhUYnVwODVqYnpxQ1hreWdFUm1mVG1GUmNrbFZvcmlqcmpPMEZ0WlhwYmxMZ1BVZlAxeVBLbEpTa2hfSUNvVTVHTmE1a0xwUXdvN1FaSkEtbVhfRnpLMXM?oc=5",
+      "publishedAt": "2026-09-07T19:51:36+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-erling-haaland-unveils-world-cup-jersey-collection-featuring-neymar-mbappe-and-jude-bellingham-arynews-tv",
       "title": "埃尔林·哈兰德 unveils 世界杯 jersey collection featuring Neymar, Mbappe, and Jude Bellingham - ARYnews.tv",
       "summary": "埃尔林·哈兰德 unveils 世界杯 jersey collection featuring Neymar, Mbappe, and Jude Bellingham  ARYnews.tv",
@@ -68,16 +116,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-belgium-fa-withdraw-support-for-infantino-after-balogun-saga-score-nigeria",
-      "title": "Belgium FA withdraw support for Infantino after Balogun saga - Score Nigeria",
-      "summary": "Belgium FA withdraw support for Infantino after Balogun saga  Score Nigeria",
-      "originalTitle": "Belgium FA withdraw support for Infantino after Balogun saga - Score Nigeria",
-      "originalSummary": "Belgium FA withdraw support for Infantino after Balogun saga  Score Nigeria",
+      "id": "google-news-laudrup-hits-out-at-danish-fa-what-was-explanation-for-failed-world-cup-qualification-flashscore-com",
+      "title": "Laudrup hits out at Danish FA: 'What was explanation for failed 世界杯 qualification?\" - Flashscore.com",
+      "summary": "Laudrup hits out at Danish FA: 'What was explanation for failed 世界杯 qualification?\"  Flashscore.com",
+      "originalTitle": "Laudrup hits out at Danish FA: 'What was explanation for failed World Cup qualification?\" - Flashscore.com",
+      "originalSummary": "Laudrup hits out at Danish FA: 'What was explanation for failed World Cup qualification?\"  Flashscore.com",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMHJSZDd5WUlsT0lFSkdSMkdtYXhsazZwMmgtZGNRYWRKR0p5M0p5ZDhnblQ4MGRQVG9JazhUYnVwODVqYnpxQ1hreWdFUm1mVG1GUmNrbFZvcmlqcmpPMEZ0WlhwYmxMZ1BVZlAxeVBLbEpTa2hfSUNvVTVHTmE1a0xwUXdvN1FaSkEtbVhfRnpLMXM?oc=5",
-      "publishedAt": "2026-09-07T19:50:55+00:00",
-      "heat": 44
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1NKYURvODRMZk1QcWtxdWctcTNUTUw1WGZRSWlhbjVMZS1QakNmNURETzdLT201cTBGWk02cjFkWkg3R3BvRVhwdmVvYlhRTmpYSEl2VDdtY0R4bHVYVmk4djNfajVCU3JXQlQ0RTdhNV9SdGp3eEZHWGhmSURGMjkzUU43X1ctSkc5T1Vaa0FsWHMyMW9LM055aG9YOWRrNlNtTzA1bzE4SDR2MzVEdjF0RWRPaDdQZjU2NDRSMGtLYzdTRXc?oc=5",
+      "publishedAt": "2026-09-07T19:50:38+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-fifa-u-20-women-s-world-cup-falconets-fall-2-0-to-spain-news-agency-of-nigeria",
@@ -90,18 +138,6 @@
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WV1QtY2lZWDJSRGpTZF96ZzRrN2hzck1RZ0FpRHh2eFhsSVZpcXpTSDZSYU5OWVI4RlVRN3k3bGlFWmtrczZCb05rUFl0ZEh6TUc0cjJScWttb2dGMmdVUE4zRUs5OTRoZXBBQWdoTzg3bW1DQ3ZBbVREdEc4U00?oc=5",
       "publishedAt": "2026-09-07T19:46:52+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-laudrup-hits-out-at-danish-fa-what-was-explanation-for-failed-world-cup-qualification-flashscore-com",
-      "title": "Laudrup hits out at Danish FA: 'What was explanation for failed 世界杯 qualification?\" - Flashscore.com",
-      "summary": "Laudrup hits out at Danish FA: 'What was explanation for failed 世界杯 qualification?\"  Flashscore.com",
-      "originalTitle": "Laudrup hits out at Danish FA: 'What was explanation for failed World Cup qualification?\" - Flashscore.com",
-      "originalSummary": "Laudrup hits out at Danish FA: 'What was explanation for failed World Cup qualification?\"  Flashscore.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQS1NKYURvODRMZk1QcWtxdWctcTNUTUw1WGZRSWlhbjVMZS1QakNmNURETzdLT201cTBGWk02cjFkWkg3R3BvRVhwdmVvYlhRTmpYSEl2VDdtY0R4bHVYVmk4djNfajVCU3JXQlQ0RTdhNV9SdGp3eEZHWGhmSURGMjkzUU43X1ctSkc5T1Vaa0FsWHMyMW9LM055aG9YOWRrNlNtTzA1bzE4SDR2MzVEdjF0RWRPaDdQZjU2NDRSMGtLYzdTRXc?oc=5",
-      "publishedAt": "2026-09-07T19:38:37+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-fifa-president-gianni-infantino-hails-egypt-s-historic-2026-world-cup-campaign-africasoccer-com",
@@ -128,11 +164,23 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-u20-women-s-world-cup-spain-defeat-nigeria-2-0-independent-ng",
-      "title": "国际足联 U20 Women’s 世界杯: 西班牙 Defeat Nigeria 2-0 - independent.ng",
-      "summary": "国际足联 U20 Women’s 世界杯: 西班牙 Defeat Nigeria 2-0  independent.ng",
-      "originalTitle": "FIFA U20 Women’s World Cup: Spain Defeat Nigeria 2-0 - independent.ng",
-      "originalSummary": "FIFA U20 Women’s World Cup: Spain Defeat Nigeria 2-0  independent.ng",
+      "id": "google-news-rs-4-lakh-for-cheapest-2026-fifa-world-cup-final-ticket-but-fifa-defends-pricing-sports-today-charlie-coyle-",
+      "title": "Rs. 4 Lakh For Cheapest 2026 国际足联 世界杯 Final Ticket But 国际足联 Defends Pricing |Sports Today Charlie Coyle (fJjjtqOOlJ) - Mshale",
+      "summary": "Rs. 4 Lakh For Cheapest 2026 国际足联 世界杯 Final Ticket But 国际足联 Defends Pricing |Sports Today Charlie Coyle (fJjjtqOOlJ)  Mshale",
+      "originalTitle": "Rs. 4 Lakh For Cheapest 2026 FIFA World Cup Final Ticket But FIFA Defends Pricing |Sports Today Charlie Coyle (fJjjtqOOlJ) - Mshale",
+      "originalSummary": "Rs. 4 Lakh For Cheapest 2026 FIFA World Cup Final Ticket But FIFA Defends Pricing |Sports Today Charlie Coyle (fJjjtqOOlJ)  Mshale",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xZHdtYXlnd0c2elphYTRqWDNNYWxTLXo0SkE0eHRkeG1ZbV9aUDJ4SnZ2c3lCMUV5bnlGUXdwZjBCcmVnT2RSNkhYdnVSVmxaa1VmX0NiQkdiLVE?oc=5",
+      "publishedAt": "2026-09-07T19:17:46+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-u20-women-s-world-cup-spain-defeat-nigeria-2-0-independent-newspaper-nigeria",
+      "title": "国际足联 U20 Women’s 世界杯: 西班牙 Defeat Nigeria 2-0 - Independent Newspaper Nigeria",
+      "summary": "国际足联 U20 Women’s 世界杯: 西班牙 Defeat Nigeria 2-0  Independent Newspaper Nigeria",
+      "originalTitle": "FIFA U20 Women’s World Cup: Spain Defeat Nigeria 2-0 - Independent Newspaper Nigeria",
+      "originalSummary": "FIFA U20 Women’s World Cup: Spain Defeat Nigeria 2-0  Independent Newspaper Nigeria",
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE44VWVZMFRmbVpDMklhUmN2dXRXbWlmVy1tTmQybm5UQXQya1FhUW5HcVNZWi03end1R1Bvemg2ZGlYLV9EdUpXN3FtRjlUQlh0a05iWmVxZ2dXWnR1WnQ1cjVqRDFlNXl2MFota29yal82aDdrSFpwSHMyVkJPVnc?oc=5",
@@ -152,6 +200,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-fifa-world-cup-qatar-snatch-historic-first-point-with-stoppage-time-equaliser-against-switzerland-dd-news",
+      "title": "国际足联 世界杯: Qatar snatch historic first point with s击败page-time equaliser against Switzerland - DD News",
+      "summary": "国际足联 世界杯: Qatar snatch historic first point with s击败page-time equaliser against Switzerland  DD News",
+      "originalTitle": "FIFA World Cup: Qatar snatch historic first point with stoppage-time equaliser against Switzerland - DD News",
+      "originalSummary": "FIFA World Cup: Qatar snatch historic first point with stoppage-time equaliser against Switzerland  DD News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNmdDcnJKSjkyMUxwMzdra2RMQWVDNDZ5dFNDOTNJNmYwa0VaYVJpeVNjSlktYUYwZHpVZEdpcng0QmdYY0l0TmpfekRDX2RmMkxXY2VVOHduN3lic0l4a1NwcmRod3VwdWQ2bjJ4NzFod0pNMk1GUW5HSjBxaExnMU1aOGxMalBJWnAzSzQ0bXNYbXZMMlA5eWRtMUI5dFJFSXdUMGdqZU9MajZFRUJfQ0twMEZiNDgwMV9TRGlOWUw0RzUzc3Fn?oc=5",
+      "publishedAt": "2026-09-07T18:57:14+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifa-u20-women-s-world-cup-2026-nigeria-s-falconets-succumb-to-spain-defeat-blueprint-newspapers",
       "title": "国际足联 U20 Women’s 世界杯 2026: Nigeria’s Falconets succumb to 西班牙 defeat - Blueprint Newspapers",
       "summary": "国际足联 U20 Women’s 世界杯 2026: Nigeria’s Falconets succumb to 西班牙 defeat  Blueprint Newspapers",
@@ -162,66 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYWdDSVI1Tnc0WXo2RnhXYTktWmxYM21KMXowRFZxc0t2bzc4cjhqVFctUm1SZ1BpS0hmQzk4UFY0SnNYVklUeDI4S2s4VnJZeGlqclNpQ3kxZUQxRkgtbE9tOHoxcWkwcEZISzF0ZFJKSFRPakl5ZER0eVNaNFpsVFc3YnYxelJONGJmMkREWUJRNEVnSHV2SXhKdw?oc=5",
       "publishedAt": "2026-09-07T18:55:51+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-costa-rica-falls-in-2026-u-20-women-s-world-cup-debut-concacaf-official-website",
-      "title": "Costa Rica falls in 2026 U-20 Women’s 世界杯 首秀 - Concacaf | Official Website",
-      "summary": "Costa Rica falls in 2026 U-20 Women’s 世界杯 首秀  Concacaf | Official Website",
-      "originalTitle": "Costa Rica falls in 2026 U-20 Women’s World Cup debut - Concacaf | Official Website",
-      "originalSummary": "Costa Rica falls in 2026 U-20 Women’s World Cup debut  Concacaf | Official Website",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDNpWWlhWTEwOUdmZTFXMTB5NjAyZWRXSHBKOVZrSE9BdzRZTzZ6MGxFczFGdGpYTy0zRU05Zmw2cFFjV2Rmb3p2T3hjcl9UUkt4SmpNZ0FscmV5UGhDUHBTRVhZdE9weEh5NFZyNWRVamdyYnR2RmI4Ri0wMFM0VGVGTUNJLVV5Y3pwRDh6VXZXLXF5WUQyb1EzdTk0dTBnRThHZ0hDSWhFWVAxM0ZhZWxzblpXd19XYmFjSmJTdDQyYjg?oc=5",
-      "publishedAt": "2026-09-07T18:40:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-safa-break-silence-on-missing-bafana-bafana-world-cup-bonuses-the-south-african",
-      "title": "Safa break silence on missing Bafana Bafana 世界杯 bonuses - The South African",
-      "summary": "Safa break silence on missing Bafana Bafana 世界杯 bonuses  The South African",
-      "originalTitle": "Safa break silence on missing Bafana Bafana World Cup bonuses - The South African",
-      "originalSummary": "Safa break silence on missing Bafana Bafana World Cup bonuses  The South African",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPajBPT0RwQ1MxS3A4NXRhek9Od0RBdzEzdktEU05zamR2NjdJaGRsZ0tZVHRFc2l3WWZJTmxDYXBkdmhXcjl6bk0xdVVqZVhPUG5vdEFNSEZQNjU5VlR6R2hOWnBZN19MLS1sdDRCSGNpNmRnYVZnYjRqX0pqd3VSamFoR3h2bTNRb3hwUllzRldYdlUyRmdvYzVFV0dOd2JscTFXbDZZQUxQZ2s?oc=5",
-      "publishedAt": "2026-09-07T18:33:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-safa-provides-update-on-delayed-bafana-bafana-world-cup-bonuses-ewn",
-      "title": "SAFA provides update on delayed Bafana Bafana 世界杯 bonuses - EWN",
-      "summary": "SAFA provides update on delayed Bafana Bafana 世界杯 bonuses  EWN",
-      "originalTitle": "SAFA provides update on delayed Bafana Bafana World Cup bonuses - EWN",
-      "originalSummary": "SAFA provides update on delayed Bafana Bafana World Cup bonuses  EWN",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWhMU0Q0Mm1tazZHa0g2TllON0N4N2hodUgxUkUzUHVMdTlBUF9BVFZaZGVyNWpSTklLZ1ZUT2FJeEtDMzR0c0l6QWJZSFU3c2NiM3ZNbzh2dDdnTXZ2SXN0blFnUTRwR1J2TGQyeHAxQjdlSUtzcEh1anVGVm42NE8ycVVoTVVWSm1PVUFoVGlRRkxNbk1ua05ZNms?oc=5",
-      "publishedAt": "2026-09-07T18:30:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-poland-vs-mexico-preview-prediction-2026-fifa-u-20-women-s-world-cup-group-stage-the-stats-zone",
-      "title": "Poland vs Mexico Preview & Prediction | 2026 国际足联 U-20 Women’s 世界杯 | Group Stage - The Stats Zone",
-      "summary": "Poland vs Mexico Preview & Prediction | 2026 国际足联 U-20 Women’s 世界杯 | Group Stage  The Stats Zone",
-      "originalTitle": "Poland vs Mexico Preview & Prediction | 2026 FIFA U-20 Women’s World Cup | Group Stage - The Stats Zone",
-      "originalSummary": "Poland vs Mexico Preview & Prediction | 2026 FIFA U-20 Women’s World Cup | Group Stage  The Stats Zone",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY1h5VWUtSFdCUXFtM1Q4ekVrWWdsM1ZXOGVPUkRsRVlydzBuUzAtRGhSaEtwVUV3TlJkX1NCb1ZvZDFfaVR6dDVLbUp6OUxUQ01RLTJxOWw1dFgyRzNoZVBqenpaWHRZVEYwclc2QTg1azFIWV9JWWlfRGlvLWVxclBzNFZvNUNaSWRnVkJCeGFTYVhVN0kwMzFLTHZLU0dxQUF6UFIwT3dQNi15OHprZndabFZKZw?oc=5",
-      "publishedAt": "2026-09-07T18:27:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-bafana-bafana-players-still-waiting-for-2026-world-cup-bonuses-africasoccer-com",
-      "title": "Bafana Bafana players still waiting for 2026 世界杯 bonuses - AfricaSoccer.com",
-      "summary": "Bafana Bafana players still waiting for 2026 世界杯 bonuses  AfricaSoccer.com",
-      "originalTitle": "Bafana Bafana players still waiting for 2026 World Cup bonuses - AfricaSoccer.com",
-      "originalSummary": "Bafana Bafana players still waiting for 2026 World Cup bonuses  AfricaSoccer.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNE1xdnFMMkhmSGwwRlIxcVlxNlEtaXRlTUwzNUtZTnVVZkpMb1VEaDJpclBub2RUMHdBa3JVNzg3b1VFVERoQ3E5V3J4LWk2b1d4eWxsR2Iwb3pOcWF4eno3cldzUUl5QkQ1UDBkeWNwYVNlNk1UT1hsMEwtYVRadlpFeU9qbHc1UnZqdU92NEFkZw?oc=5",
-      "publishedAt": "2026-09-07T18:22:42+00:00",
-      "heat": 52
     }
   ]
 }
