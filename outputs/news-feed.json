@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-11T17:07:29.258741+00:00",
+  "updatedAt": "2026-09-11T19:58:11.587472+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-benin-s-run-comes-to-an-end-at-the-fifa-u-20-women-s-world-cup-poland-2026-dailysports",
+      "title": "贝宁队在 2026 年波兰国际足联 U-20 女子世界杯上结束了比赛 - Dailysports",
+      "summary": "贝宁队在 2026 年波兰 FIFA U-20 女子世界杯上结束了比赛 Dailysports",
+      "originalTitle": "Benin’s run comes to an end at the FIFA U-20 Women’s World Cup, Poland 2026 - Dailysports",
+      "originalSummary": "Benin’s run comes to an end at the FIFA U-20 Women’s World Cup, Poland 2026  Dailysports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZ0Utc0dLWmtzUktadVl1X1daVTNHUWxtNS10QngtZWF6NE8xWTBDb3JsMWw3U2RpZXVhV1JWcXA5SjAyTWltV3RTdEQ4b01TSVZSREpHdC1KWXhfeUktQVJuT3RWSVJqLXhHZ1R0RW5fU2ZVNE8zQTEwMDNmWWYzQkh3b1QxMDZ0M1diZndvQWVWbUhGVllaT05OTVEwRmVDQzNfXw?oc=5",
+      "publishedAt": "2026-09-11T18:52:42+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-u-20-women-s-world-cup-tanzania-vs-canada-tsn",
+      "title": "2026 年 FIFA U-20 女子世界杯：坦桑尼亚 vs. 加拿大 - TSN",
+      "summary": "2026 年 FIFA U-20 女子世界杯：坦桑尼亚 vs. 加拿大 TSN",
+      "originalTitle": "2026 FIFA U-20 Women's World Cup: Tanzania vs. Canada - TSN",
+      "originalSummary": "2026 FIFA U-20 Women's World Cup: Tanzania vs. Canada  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVI2R1l6MGNKY2ZUenFfbDN6WHJuaTNTVldicldoV0Zma1YycVRETXN5OTNjbkl0aW9Ca1pvXzBrbVNrM2tZSEdVYnZhdFNJOGVPOE51MFY2VGRtQnF2cjlkTXdFV1h1WHczRWFYSTRKSXM5UW9TZW84WklUZWZFaHhCeld5bXdvc1lQbEROY0l4Q041dHpuSW1n?oc=5",
+      "publishedAt": "2026-09-11T17:48:00+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-world-cup-final-tug-of-war-escalates-as-morocco-pm-rebukes-fa-head-spain-stakes-claim-reuters-com",
       "title": "世界杯决赛拉锯战升级，摩洛哥总理斥责足协主席，西班牙声称拥有赌注 - reuters.com",
@@ -21,7 +45,7 @@
     },
     {
       "id": "google-news-tanzania-exit-the-2026-fifa-u-20-women-s-world-cup-without-a-single-point-dailysports",
-      "title": "坦桑尼亚队以一分未得的成绩退出 2026 年 FIFA U-20 女子世界杯 - Dailysports",
+      "title": "坦桑尼亚队无一分退出 2026 年 FIFA U-20 女子世界杯 - Dailysports",
       "summary": "坦桑尼亚队以一分未得的成绩退出 2026 年 FIFA U-20 女子世界杯 Dailysports",
       "originalTitle": "Tanzania exit the 2026 FIFA U-20 Women’s World Cup without a single point - Dailysports",
       "originalSummary": "Tanzania exit the 2026 FIFA U-20 Women’s World Cup without a single point  Dailysports",
@@ -32,9 +56,69 @@
       "heat": 60
     },
     {
+      "id": "google-news-ivory-coast-world-cup-2026-route-to-the-final-and-tactical-analysis-squawka",
+      "title": "2026 年科特迪瓦世界杯：决赛之路和战术分析 - Squawka",
+      "summary": "2026 年科特迪瓦世界杯：决赛之路和战术分析 Squawka",
+      "originalTitle": "Ivory Coast World Cup 2026: Route to the final and tactical analysis - Squawka",
+      "originalSummary": "Ivory Coast World Cup 2026: Route to the final and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDhhSmFnR0g3clNGOGxwdUdOLVF4UmF5M2xUZXB2Y0pXVjc3VEFkNVdKU0VUdzVuTFNsaDg1VFhZUDVlZzdleXM5SnZsWEc5SHlTMkpTcDJGTmRUbDFBMlVqa0R5RFJXNDREdHl0ejdWNzhEOTVKdmMwTTk3c0RyR0FfcEN2enRUUFl2V3BjcDczUQ?oc=5",
+      "publishedAt": "2026-09-11T15:35:25+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-south-africa-to-win-world-cup-2026-odds-outright-odds-top-goalscorer-and-odds-to-win-group-a-squawka",
+      "title": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手和 A 组冠军赔率 - Squawka",
+      "summary": "南非赢得 2026 年世界杯赔率：总冠军赔率、最佳射手赔率以及 A 组冠军赔率 Squawka",
+      "originalTitle": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A - Squawka",
+      "originalSummary": "South Africa to win World Cup 2026 odds: Outright odds, top goalscorer and odds to win group A  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOOTVQYk5TQ2M3VFBlRFh3cmN3aXZGcHY0cHh3R1k1U05jYnZrU3JWX0ZvQjBhbjYzalFNUHBmMWxOQ0ZrWTg2emVvSXl6b0t2emh3aHZ3WWNpSk14TmJxWHV1M0tyOUZ1MU92aHgzS1U3TEcxeGJFdlJRdVlLN3ZUUXppdw?oc=5",
+      "publishedAt": "2026-09-11T15:35:24+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-switzerland-world-cup-2026-route-to-the-final-results-tactical-analysis-squawka",
+      "title": "2026 年瑞士世界杯：决赛之路、结果和战术分析 - Squawka",
+      "summary": "2026 年瑞士世界杯：决赛之路、结果和战术分析 Squawka",
+      "originalTitle": "Switzerland World Cup 2026: Route to the final, results & tactical analysis - Squawka",
+      "originalSummary": "Switzerland World Cup 2026: Route to the final, results & tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3hkaUEyT0xaa1BSZWE0bEgtYkJIOGFvLUdBdWdMY3pTamZuWmI1TXNPaVNWbDFGcW91eUZtaldvWVpIeFRzTjFUay1BTTVQcGZuS0czQlFtWHBJTkN6S0Z0ZkJ1bEZndnBieFcyc2tlYWItMVJrSDRUSEQtWTVVWW5JWW1VakZ2UGEwSDVUdEo4UUNvd3RENkliYW4?oc=5",
+      "publishedAt": "2026-09-11T15:34:58+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis - Squawka",
+      "originalSummary": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
+      "publishedAt": "2026-09-11T15:34:46+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-world-cup-2026-la-roja-crowned-champions-squawka",
+      "title": "2026 年西班牙世界杯：La Roja 加冕冠军 - Squawka",
+      "summary": "2026 年西班牙世界杯：La Roja 加冕冠军 Squawka",
+      "originalTitle": "Spain World Cup 2026: La Roja crowned champions - Squawka",
+      "originalSummary": "Spain World Cup 2026: La Roja crowned champions  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOM0RUN3VsMVI4VFFiMFJlMWpGSDFrUkw0aS02YVJOdGY2OEV3SWlPX1RxY1psb0RSaC1CdjhRdS1MdnIzYXZmUWs4bjJCUm56YlhsVmNJUkozLTZEWHhKVDUteE13NzljamFyTVpHWVl5elcyUlRrSnVVaEs5dFJ1ME41WEFGdzdCUGw0WHNhckxvdw?oc=5",
+      "publishedAt": "2026-09-11T15:34:36+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-brazil-world-cup-2026-squad-seleção-name-26-man-squad-ahead-of-23rd-consecutive-appearance-squawka",
       "title": "巴西 2026 年世界杯阵容：桑巴军团公布 26 人大名单，连续 23 次参赛 - Squawka",
-      "summary": "2026 年巴西世界杯阵容：桑巴军团公布 26 人大名单，连续第 23 次参赛 Squawka",
+      "summary": "2026 年巴西世界杯阵容：桑巴军团公布 26 人大名单，连续第 23 次参赛",
       "originalTitle": "Brazil World Cup 2026 squad: Seleção name 26-man squad ahead of 23rd consecutive appearance - Squawka",
       "originalSummary": "Brazil World Cup 2026 squad: Seleção name 26-man squad ahead of 23rd consecutive appearance  Squawka",
       "translation": "online",
@@ -56,6 +140,42 @@
       "heat": 52
     },
     {
+      "id": "google-news-the-efl-at-world-cup-2026-which-players-from-outside-the-premier-league-could-feature-this-summer-squawka",
+      "title": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？ - 斯夸卡",
+      "summary": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？  斯夸卡",
+      "originalTitle": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer? - Squawka",
+      "originalSummary": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer?  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OaThLR0YwSjdyMExlZVFVQ3lxSms0enV4a1NIMEMyYkcyaVNYbEFjbk5uZFhPM2ZQWHhmYUFPOVZ0dnFyQTVxMGptR1VXc0VmNVl5Wl9FZFhzdTQyMEJ3cVM0WmxRZ3Fra0xsdktvNFEyeEJs?oc=5",
+      "publishedAt": "2026-09-11T15:11:44+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-player-stat-leaders-who-led-the-key-metrics-squawka",
+      "title": "2026 年世界杯球员统计数据领先者：关键指标谁领先？ - 斯夸卡",
+      "summary": "2026 年世界杯球员统计数据领先者：关键指标谁领先？  斯夸卡",
+      "originalTitle": "World Cup 2026 player stat leaders: Who led the key metrics? - Squawka",
+      "originalSummary": "World Cup 2026 player stat leaders: Who led the key metrics?  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUEFPSDdJOG1yVlVER2ZxVmx0ZDB3eGtqMWJ0dHVOVDVHUk12SzVfS25OZVFoeEtQQUFMbXczSVgzeUhiY2FTbWRlNjdLT1VBdmF0TjNIaXJtSDIyLTJ2TjlOUzU2S1d3TkxXV2pwdGxYM3RGUzNrOUxsMEc?oc=5",
+      "publishedAt": "2026-09-11T15:01:14+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-越南女裁判首次执法u20女足世界杯-vietnam-vn",
+      "title": "越南女裁判首次执法U20女足世界杯。 - Vietnam.vn",
+      "summary": "越南女裁判首次执法U20女足世界杯。  Vietnam.vn",
+      "originalTitle": "越南女裁判首次执法U20女足世界杯。 - Vietnam.vn",
+      "originalSummary": "越南女裁判首次执法U20女足世界杯。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNjI4Y1dKbUtNSWxxN1pxcjlSTEVzYURONm16a09USDhJT2ZRdWpWS3lIb0RsalV4ZnBSZWZiY0c2MUIxeUliTEhqQVRFRUl4M1pzZGxaT2NqY2pDM1JsSHJPWkJjakNBVlVTSEJoMEJCb3hhRDFveXJ0c1NjS2JYbWlyNXZYSTNUZ3JkRFY0T0xUWFNSVU1z?oc=5",
+      "publishedAt": "2026-09-11T14:36:36+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
       "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
       "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
@@ -68,23 +188,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-argentina-vs-mexico-live-score-september-11-2026-fox-sports",
-      "title": "阿根廷 vs. 墨西哥 - 实时比分 - 2026 年 9 月 11 日 - 福克斯体育",
-      "summary": "阿根廷 vs 墨西哥 - 实时比分 - 2026 年 9 月 11 日 福克斯体育",
-      "originalTitle": "Argentina vs. Mexico - Live Score - September 11, 2026 - FOX Sports",
-      "originalSummary": "Argentina vs. Mexico - Live Score - September 11, 2026  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOUzduMElubjlsTXBlckFXeXh3QlN2VExrYkdjdWdPaHEtRzRRQnNITVNVZzVEUVYtM1hqVW1aaXdFOVh2clB1eW9SQjNNeWZEZVZJMUlnUHp1MTBIZFFmdU1QN1MzRngzWXhTUWk1NkJXbll1clp2N1ZjRXctb3YxRmFWZUdxaXZlZWZpWTNmTnBrbW9YYnlJODRKS2ZqeWEwN1M0N3FWbHBncWhnX0JCaw?oc=5",
-      "publishedAt": "2026-09-11T14:35:04+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mamelodi-sundowns-transfer-news-downs-beat-pirates-to-world-cup-star-afrik-foot",
-      "title": "马梅洛迪·日落转会新闻：唐斯击败海盗队成为世界杯明星 - Afrik-Foot",
-      "summary": "Mamelodi Sundowns 转会新闻：唐斯击败海盗队成为世界杯明星非洲足",
-      "originalTitle": "Mamelodi Sundowns Transfer News: Downs beat Pirates to World Cup star - Afrik-Foot",
-      "originalSummary": "Mamelodi Sundowns Transfer News: Downs beat Pirates to World Cup star  Afrik-Foot",
+      "id": "google-news-mamelodi-sundowns-transfer-news-downs-beat-pirates-to-world-cup-star-afrik-foot-com",
+      "title": "马梅洛迪·日落转会新闻：唐斯击败海盗队成为世界杯明星 - afrik-foot.com",
+      "summary": "Mamelodi Sundowns 转会新闻：唐斯击败海盗队成为世界杯球星 afrik-foot.com",
+      "originalTitle": "Mamelodi Sundowns Transfer News: Downs beat Pirates to World Cup star - afrik-foot.com",
+      "originalSummary": "Mamelodi Sundowns Transfer News: Downs beat Pirates to World Cup star  afrik-foot.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NVkNrdUpfc251WXZKbGl3cHB4WTRzTmt2Y1FfcTV2RDlDclpsYi1CR1FHUlgyeE1yb1dFb0kxU24wYnV6cG1tQWprN2JkOUt1RXppZVYxbWdXaXNBdWJTUW9CUXh5YThfYy1BWDZELWRwTDNCbFh5NnJsQm4?oc=5",
@@ -113,114 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPX0toZ1hBT0lwRlotRDExdnFZbkFzbmRUT3Ztc0RvWTRCOEowMDZfVWVpQ2U1cm9pODNLTzJYRWU0QmhlSmRyelhFazEtN2FUNXVnLWJicDg3OXd5NlNyU0J1YXlYcTZjUEt2c28xVUNqNHgzaHVIVktOTTdidnltSDY4SEpoTEo0RnQxa01IcXlwT1VoUlVwck85eDh2YjZrZTJOTjJqa0RjelNJQ0FHTmtzckowWTBOdXdN?oc=5",
       "publishedAt": "2026-09-11T13:36:58+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-to-watch-the-2026-fiba-women-s-basketball-world-cup-semifinals-live-even-for-free-pcmag-australia",
-      "title": "如何观看 2026 年 FIBA​​ 女篮世界杯半决赛直播（甚至免费） - PCMag Australia",
-      "summary": "如何现场观看 2026 年 FIBA​​ 女篮世界杯半决赛（甚至免费） PCMag Australia",
-      "originalTitle": "How to Watch the 2026 FIBA Women's Basketball World Cup Semifinals Live (Even for Free) - PCMag Australia",
-      "originalSummary": "How to Watch the 2026 FIBA Women's Basketball World Cup Semifinals Live (Even for Free)  PCMag Australia",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNODM3dl8zRWRDcHdEVFc0MHdJOGhJaF9wLWRRc2ZYcVRWelhnZUhQRDdWRlY0Vm9XcVlRalFQTzhaQW9TdG40OUlUU3FlZTljVmsxT3JqRGRnRWZLLWprQThrSkxHODJTWVFyc1dJVnlBWkROaHFqd1R0blBqbzdtVWhJUzFOSGJ2RTdCd0lzNzUxV1FidzlxTEhHbzlUVXlTLTJMRnBxWXc5Wk5jbjRJblUzeXQ5ekZPVjZUYUZHR19hdw?oc=5",
-      "publishedAt": "2026-09-11T13:36:53+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-england-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年英格兰世界杯：决赛之路、结果、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年英格兰世界杯：决赛之路、结果、下一场比赛和战术分析 Squawka",
-      "originalTitle": "England World Cup 2026: Route to the final, results, next match and tactical analysis - Squawka",
-      "originalSummary": "England World Cup 2026: Route to the final, results, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQN3Z2alRNNG1jRDNDQ25VZ1UtVFZzWHNRY2oyVWlELXVEWE9ZZW1sdl9tbXRhekZUajFqaGFncHFCN3A1azZLQ1hoN1ItVWJITW8tZmJGclV3VVBWSHROWWN2ZkI0QmFHczhIVG1ybzNKZWd3dTBnZU5GM0habWdySkdiRDVNN0ZvZDk0NlNrb0dQTDBPTlNn?oc=5",
-      "publishedAt": "2026-09-11T13:34:36+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bbc-radio-3-bbc-proms-bbc-proms-2026-the-best-bits-bbc",
-      "title": "BBC 广播电台 3 - BBC 逍遥音乐节 - BBC 逍遥音乐节 2026：最佳片段 - BBC",
-      "summary": "BBC 广播电台 3 - BBC 逍遥音乐节 - BBC 逍遥音乐节 2026：精选 BBC",
-      "originalTitle": "BBC Radio 3 - BBC Proms - BBC Proms 2026: The Best Bits - BBC",
-      "originalSummary": "BBC Radio 3 - BBC Proms - BBC Proms 2026: The Best Bits  BBC",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNHpLS3htbXZ6NGJUTnF1NnpRX3kxeHp2b05aN3Ewc01oamdIcnNmVUVfWFhGNkQtNml3OVdqTy1UZjR5OFBLZXptMDZBd0tPY3lId0dCb1FHQmlRdEhnWkNnbU9vUXJlLVVMSDJLN0NSUkpocnk2bmdkX0daVTlkLWFZZGctcklMSlQ5ODhQemFaRUJRVHBEeHNR?oc=5",
-      "publishedAt": "2026-09-11T13:28:51+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-pau-cubarsi-kopa-trophy-2026-why-his-defensive-case-could-steal-the-award-extratime-talk",
-      "title": "2026 年 Pau Cubarsi Kopa 奖杯：为何他的防守能够夺取该奖项 - 加时赛谈话",
-      "summary": "2026 年 Pau Cubarsi Kopa 奖杯：为什么他的防守可以夺取该奖项 加时赛谈话",
-      "originalTitle": "Pau Cubarsi Kopa Trophy 2026: Why His Defensive Case Could Steal the Award - Extratime Talk",
-      "originalSummary": "Pau Cubarsi Kopa Trophy 2026: Why His Defensive Case Could Steal the Award  Extratime Talk",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lb2ZsSUt4bGEzS3lnaGtUR1lGOVNraWJvWEs0anZ3UFBMY1BzSlN1SjM2Mlc4ZlNmQ05FNFpZMGgwb3RYYlNnSVdaQ1U1a0RZNUlWLXp2VHRVemdkRkxUNG96LW1UVnpnaEl3N3VkYklaLUphOXpQX2J3?oc=5",
-      "publishedAt": "2026-09-11T13:15:11+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-paraguay-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年巴拉圭世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Paraguay World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Paraguay World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZkdFZVRsdTFBb2szQlRPWGhpRjVNUG5RZlVjejhXdF9PTG96NllCN2pwd09DZ1FxZGEwd0M3YTdLSnV4cXFVZUhaREtOQzI3RFFvVnJ3MU5vZDJuZjVfdG9oUnBjbTdLdnNVc2pkX2p3MFJ2Vk9lMWd2ZW10aHdPYy0zcVZXQVBu?oc=5",
-      "publishedAt": "2026-09-11T12:34:17+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-vs-mexico-live-stream-how-to-watch-2026-fifa-u-20-women-s-world-cup-fubo",
-      "title": "阿根廷 vs 墨西哥直播：如何观看 2026 年 FIFA U-20 女子世界杯 - Fubo",
-      "summary": "阿根廷 vs 墨西哥直播：如何观看 2026 年 FIFA U-20 女子世界杯 Fubo",
-      "originalTitle": "Argentina vs Mexico Live Stream: How to Watch 2026 FIFA U-20 Women’s World Cup - Fubo",
-      "originalSummary": "Argentina vs Mexico Live Stream: How to Watch 2026 FIFA U-20 Women’s World Cup  Fubo",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQMkRmMTdkME13QVgybldVUnJ6QWRzVC1vTFllMjd4VTZicWFLOURqU1ZKT3FkZW5HQkFmc3pDZDJSV3l0MkU1WWJvRzJ2anFUMXp5Mko0eE9nTHRNU29COXpQT2dLSDZzZklKdE9tRWZnNHJGa2lOOWl5QkxVS3J1SlUwVHJveEpRWVczbXlfaWJockFJS05rbjlab1h3Y2twVjV6RmhGelNyVWJEMnhvWXgyOEt2MjNLZVBNazVWZkNvTUxhUERiTURPbWp2eHc?oc=5",
-      "publishedAt": "2026-09-11T12:31:52+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-saudi-pro-league-takeover-sadio-mane-and-julian-quinones-lead-rsl-charge-as-2026-ballon-d-or-nominees-are-re",
-      "title": "沙特职业联赛接管！萨迪奥·马内和朱利安·奎诺内斯领导 RSL 冲锋，2026 年金球奖提名者揭晓 - goal.com",
-      "summary": "沙特职业联赛接管！ 2026 年金球奖提名人揭晓，萨迪奥·马内和朱利安·奎诺内斯带领 RSL 冲锋 goal.com",
-      "originalTitle": "Saudi Pro League takeover! Sadio Mane and Julian Quinones lead RSL charge as 2026 Ballon d’Or nominees are revealed - goal.com",
-      "originalSummary": "Saudi Pro League takeover! Sadio Mane and Julian Quinones lead RSL charge as 2026 Ballon d’Or nominees are revealed  goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNN3RFdHQyYVNhWVJsZ3lhdnd3Uk1tX3NhRllJSVdhVGxFUERBWFZieTFGOHpiRXFQbkpyS0RSLW92b09TeDNRVGN0TGs3UU5DWDBaX0JjeHpvbnZ2bW4xRmF4dHpLLWNjMF80NG1lVVNKWGpDMUpQMDVsNVEyaXU1VDFCd0NPV0ZvWUdwMkZ0Z1lGX2FMbkp5R1NVWXVQQmtMWHYzci1UQWNmLWdxMkk2eXM4Yw?oc=5",
-      "publishedAt": "2026-09-11T12:09:54+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-kwasi-sibo-presents-world-cup-jersey-to-al-swehly-president-ghanasoccernet",
-      "title": "夸西·西博向阿尔·斯韦利总统赠送世界杯球衣 - 加纳足球网",
-      "summary": "夸西·西博 (Kwasi Sibo) 向阿尔·斯韦利 (Al-Swehly) 总统赠送世界杯球衣 加纳Soccernet",
-      "originalTitle": "Kwasi Sibo presents World Cup jersey to Al-Swehly president - GhanaSoccernet",
-      "originalSummary": "Kwasi Sibo presents World Cup jersey to Al-Swehly president  GhanaSoccernet",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPRldYRHJVbFViZXVDSE5qMWFlM0p2QTVEYnVRR2VuSGJFMFJLOF9JQnBjZlVqV3JYd3NtTjRfVHN5ZGdRTzFiZHZ0MWw1dFphTkJMalU1bjU0YWdOYjJiR2ktYXZsUWY0R2RNd3hjQlFId2ZXSW9ncG42a0Z2dF9BSU9CLXRFYjlHNHZXUnVwQQ?oc=5",
-      "publishedAt": "2026-09-11T12:08:49+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-rebukes-morocco-s-claim-it-will-host-2030-world-cup-final-aljazeera-com",
-      "title": "国际足联驳斥摩洛哥声称将主办2030年世界杯决赛的说法 - aljazeera.com",
-      "summary": "国际足联驳斥摩洛哥将主办 2030 年世界杯决赛的说法 aljazeera.com",
-      "originalTitle": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final - aljazeera.com",
-      "originalSummary": "FIFA rebukes Morocco’s claim it will host 2030 World Cup final  aljazeera.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNFFnQWkwUFBVQVZEbkFjZU1TdW9leHpJSzhaRG4xSnpJYU1PZEUzWl9QVmJjb0kwVXJiUTNWN0JsS0c0Ul9NbWxEZU9BLThpSmU3V2RxOF9zTFJ6OGthMW9vaFBHOXJlUWlPUXR4YXg5cGR1Q0NwVDNLdHpwQWpxMkdyS3FaZFpWNzZzNG00YjZvbHQ5LWItbGZ3YVR6cy01VEtsM1YxaEHSAa4BQVVfeXFMTXJ1RUJSaVByVlpCdExwNHJieURyVnRuZC1LeGp0Z1F6SEdpSmJ4RzJTWXBIT2dRMzNnMUo1bVdkV0JZZ1Nhd0NhYlN2ZEIzNFI4MDhGdEtMczNsVUZWclhCSVkyVm9ZcWRpRGtZUlFqeDN5UnJ2UHJ1UWxwNkV6dVY4Wml4Snk4WXBCWmNubHZkU29PZWNlMmJMTUFrbFJTcnpOazFtbDJTZEprbHJn?oc=5",
-      "publishedAt": "2026-09-11T11:34:17+00:00",
       "heat": 60
     }
   ]
