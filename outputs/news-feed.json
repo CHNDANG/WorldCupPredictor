@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-12T00:33:35.245524+00:00",
+  "updatedAt": "2026-09-12T05:31:04.511497+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,68 @@
   ],
   "articles": [
     {
+      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
+      "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
+      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
+      "publishedAt": "2026-09-12T04:04:59+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-09-12T03:54:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-pm-slates-federation-chief-over-2030-world-cup-final-boast-the-financial-express",
+      "title": "摩洛哥总理任命足协主席夸耀2030年世界杯决赛 - 金融快报",
+      "summary": "摩洛哥总理任命足协主席为 2030 年世界杯决赛吹嘘 - 金融快报",
+      "originalTitle": "Morocco PM slates federation chief over 2030 World Cup final boast - The Financial Express",
+      "originalSummary": "Morocco PM slates federation chief over 2030 World Cup final boast  The Financial Express",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNmJBTDdmRFdYallLc0pKWTh3MWVvODUyb0NveGs4TENIbWxlN1hXMDUyWUdwbTB4eXhfcEtlVUJ1UVQwcVdXanNXR0FiMmlfQkxwWmxQU0VGOVZjdkV0eFlqR0M4bmlDQXVPNFB6bXRYUmFYa24zMXZGNjg5cnRGZXNnakJEVERRa1lLT2xhM3pjbXlnOWhubTMwcEhtekhvRDZHeG0wYlJIRGxM?oc=5",
+      "publishedAt": "2026-09-12T03:36:23+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-越南队在2026年国际足联东盟杯上的赛程-vietnam-vn",
+      "title": "越南队在2026年国际足联东盟杯上的赛程 - Vietnam.vn",
+      "summary": "越南队在2026年国际足联东盟杯上的赛程  Vietnam.vn",
+      "originalTitle": "越南队在2026年国际足联东盟杯上的赛程 - Vietnam.vn",
+      "originalSummary": "越南队在2026年国际足联东盟杯上的赛程  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOT3B0MkFuNEZNQkZKR1FvajZuNHdwOGdRb3dxUWIzVzVRWENsY3RobW9hOGZEbEhLS3pST2RTZDAtejJSQ3U4Yk1oeENNSjczcHpFcWczMVdaMm1xMktyQlJYbGxqNGc4R3Y2dkFhV3VxdG92clRVVWFyTHV3OE9zTlR1Tkd2M0ZZQVdnYg?oc=5",
+      "publishedAt": "2026-09-11T23:41:29+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-国际足联公布了-巨额-收入数据-确认2026年世界杯将进行重大改革-vietnam-vn",
+      "title": "国际足联公布了“巨额”收入数据，确认2026年世界杯将进行重大改革。 - Vietnam.vn",
+      "summary": "国际足联公布了“巨额”收入数据，确认2026年世界杯将进行重大改革。  Vietnam.vn",
+      "originalTitle": "国际足联公布了“巨额”收入数据，确认2026年世界杯将进行重大改革。 - Vietnam.vn",
+      "originalSummary": "国际足联公布了“巨额”收入数据，确认2026年世界杯将进行重大改革。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPb25Md05mNDJwbFpYanZrS01rYUkzVC1oTW9UbE42dWV3Mk4xVmFCRGVaUjFFYjNiWURtdlJ0ZllvLWd1RV9IUUc4b3ZzUjFWSmJnOWQxMEhlajNlUGFoT28wUzBZd1Z5UjBzYzQ0QUt2WHNucjluU2UxYTVzV1g3bWtRM2RvQzQ4bHd4UWRLcWVqMHJncW9nR2l6Rk5oTTZOeERISEx3?oc=5",
+      "publishedAt": "2026-09-11T23:37:24+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-benin-s-run-comes-to-an-end-at-the-fifa-u-20-women-s-world-cup-poland-2026-dailysports",
-      "title": "贝宁队在 2026 年波兰国际足联 U-20 女子世界杯上结束了比赛 - Dailysports",
+      "title": "贝宁队在 2026 年波兰 FIFA U-20 女子世界杯上的征程结束 - Dailysports",
       "summary": "贝宁队在 2026 年波兰 FIFA U-20 女子世界杯上结束了比赛 Dailysports",
       "originalTitle": "Benin’s run comes to an end at the FIFA U-20 Women’s World Cup, Poland 2026 - Dailysports",
       "originalSummary": "Benin’s run comes to an end at the FIFA U-20 Women’s World Cup, Poland 2026  Dailysports",
@@ -20,11 +80,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-see-brampton-world-cup-star-get-key-to-the-city-at-free-event-insauga",
-      "title": "观看布兰普顿世界杯球星在免费活动中获得城市钥匙 - INsauga",
-      "summary": "在免费活动 INsauga 中观看布兰普顿世界杯球星获得城市钥匙",
-      "originalTitle": "See Brampton World Cup star get Key to the City at free event - INsauga",
-      "originalSummary": "See Brampton World Cup star get Key to the City at free event  INsauga",
+      "id": "google-news-see-brampton-world-cup-star-get-key-to-the-city-at-free-event-insauga-com",
+      "title": "观看布兰普顿世界杯球星在免费活动中获得城市钥匙 - insauga.com",
+      "summary": "在免费活动 insauga.com 上观看布兰普顿世界杯球星获得城市钥匙",
+      "originalTitle": "See Brampton World Cup star get Key to the City at free event - insauga.com",
+      "originalSummary": "See Brampton World Cup star get Key to the City at free event  insauga.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPalN5alc2dlpQbVlTWXpHZ2ZJOFhZdDlFRG1rd0RYN1NKMk8zb1ZQYXNYMzZiOXRNbTZkWWJiam83ZWtlVHJSdGZhc0d2cDZuMXRKOXFHTGxkbEpZeGhFbEljb2FkOGFRdVdlLVNjTmdCQWVNNTZmdUlnbHJUa0NtQTFWenJpZjBXbUpiRkxYWQ?oc=5",
@@ -32,27 +92,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-watch-fifa-world-cup-live-clips-fox-one",
-      "title": "观看 FIFA 世界杯直播剪辑 - FOX One",
-      "summary": "观看 FIFA 世界杯直播剪辑 FOX One",
-      "originalTitle": "Watch FIFA World Cup Live Clips - FOX One",
-      "originalSummary": "Watch FIFA World Cup Live Clips  FOX One",
+      "id": "google-news-football-fifa-denies-morocco-will-host-2030-world-cup-final-gulf-daily-news-bahrain",
+      "title": "足球：国际足联否认摩洛哥将主办 2030 年世界杯决赛 - 海湾日报新闻（巴林）",
+      "summary": "足球：国际足联否认摩洛哥将主办 2030 年世界杯决赛 海湾日报（巴林）",
+      "originalTitle": "Football: Fifa denies Morocco will host 2030 World Cup final - Gulf Daily News (Bahrain)",
+      "originalSummary": "Football: Fifa denies Morocco will host 2030 World Cup final  Gulf Daily News (Bahrain)",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0xRmVSR1p5N0JnM0YyenJueGFodTdkeno4cndLV0h0N1MwNTVGVEJqWVozai0tZmN4bDhCX1hldFBCS29pcjB0c0pCaUh6MlJ3UXZaY0o5V3FZWkxEYnhoOHdpSHFTSjBCMG9LbUd5bVNCc2tNTmZJZ201RTFDQQ?oc=5",
-      "publishedAt": "2026-09-11T21:48:48+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
-      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
-      "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
-      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
-      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
-      "publishedAt": "2026-09-11T21:38:07+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1DaWp4cEZlN1lTclNpVFhaNllLZmxJUUs3dWNQbVVvX3VWMldrb1FXYlpCMjdMLTdES2tSZTNGZVkwdERycDFVVVBkWHdwaVhSLUlF?oc=5",
+      "publishedAt": "2026-09-11T22:27:05+00:00",
       "heat": 60
     },
     {
@@ -68,6 +116,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-黄牌-bundesliga2026-2027的bayern-münchen数据-fotmob",
+      "title": "黄牌 — Bundesliga2026/2027的Bayern München数据 - FotMob",
+      "summary": "黄牌 — Bundesliga2026/2027的Bayern München数据  FotMob",
+      "originalTitle": "黄牌 — Bundesliga2026/2027的Bayern München数据 - FotMob",
+      "originalSummary": "黄牌 — Bundesliga2026/2027的Bayern München数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWDNPZ2NBcXhwZ0x0NXVlZzVCQ0NCMTBYZlB3ZDdtcUt1WXVSQnBtQkc0dzE0MU9SWFdVUkt5QmJNYXNZeTNyd0hjQklEVWxKS2hmVG9tajU0WS1aT2hOX1ZMcGlfa3lHZlItOHRkT29oaV8wODNadE1yZ1lhNXQ2T3dqY3hpdlNNcUhuUUNzTTI4aWZfekNjR0diNXRFenVqLTRsS3Nn?oc=5",
+      "publishedAt": "2026-09-11T20:59:24+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-stubhub-launches-world-cup-cuts-barbershop-pop-up-campaign-ticketnews",
       "title": "StubHub 推出“世界杯剪裁”理发店快闪活动 - TicketNews",
       "summary": "StubHub 推出“世界杯剪裁”理发店快闪活动 TicketNews",
@@ -81,7 +141,7 @@
     },
     {
       "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica",
-      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
+      "title": "世界杯经济学|门票价格、收入、成本和社会影响 - 大英百科全书",
       "summary": "世界杯经济学|票价、收入、成本和社会影响 大英百科全书",
       "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
       "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
@@ -116,15 +176,15 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-亚马尔的世界杯奖杯-重达-5-公斤的黄金-价值超过-65-亿越南盾-vietnam-vn",
-      "title": "亚马尔的世界杯奖杯：重达 5 公斤的黄金，价值超过 65 亿越南盾。 - Vietnam.vn",
-      "summary": "亚马尔的世界杯奖杯：重达 5 公斤的黄金，价值超过 65 亿越南盾。  Vietnam.vn",
-      "originalTitle": "亚马尔的世界杯奖杯：重达 5 公斤的黄金，价值超过 65 亿越南盾。 - Vietnam.vn",
-      "originalSummary": "亚马尔的世界杯奖杯：重达 5 公斤的黄金，价值超过 65 亿越南盾。  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbGdud0JUY1JuX2gwUzEydFhXZWFoSERVVXhuTWZjUkpQM0hKZVJucl9DRDBJaU9nTXZJMHNCc3dCcE5iRTFLcnRlNm9CMmxabE04OHppeXpubk82bmdUTkVKN0ZGZVNRRkU1R09Bem5DZTNCQTlwTVZQUWJJTmJieWJ5LS1OVW5ZS2ZQOVIya3hQUQ?oc=5",
-      "publishedAt": "2026-09-11T19:29:53+00:00",
+      "id": "google-news-norway-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Norway World Cup 2026: Route to final, next match and tactical analysis - Squawka",
+      "originalSummary": "Norway World Cup 2026: Route to final, next match and tactical analysis  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
+      "publishedAt": "2026-09-11T19:15:40+00:00",
       "heat": 52
     },
     {
@@ -152,75 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-hydration-breaks-did-not-impact-world-cup-results-but-future-undecided-fifa-s-arsene-wenger-dd-news",
-      "title": "补水休息不会影响世界杯结果，但未来未定：国际足联温格 - DD News",
-      "summary": "补水休息不会影响世界杯结果，但未来未定：国际足联的温格 DD News",
-      "originalTitle": "Hydration breaks did not impact World Cup results but future undecided: FIFA’s Arsene Wenger - DD News",
-      "originalSummary": "Hydration breaks did not impact World Cup results but future undecided: FIFA’s Arsene Wenger  DD News",
-      "translation": "online",
+      "id": "google-news-watchlive-ｔｏｄａｙ-west-ham-united-wrexham-live-free-free-tv-11-september-2026-大分トリニータオフィシャルサイト",
+      "title": "[WATCHLIVE]ＴＯＤＡＹ!] West Ham United - Wrexham Live Free free tv! 11 September 2026 - 大分トリニータオフィシャルサイト",
+      "summary": "[WATCHLIVE]ＴＯＤＡＹ!] West Ham United - Wrexham Live Free free tv! 11 September 2026  大分トリニータオフィシャルサイト",
+      "originalTitle": "[WATCHLIVE]ＴＯＤＡＹ!] West Ham United - Wrexham Live Free free tv! 11 September 2026 - 大分トリニータオフィシャルサイト",
+      "originalSummary": "[WATCHLIVE]ＴＯＤＡＹ!] West Ham United - Wrexham Live Free free tv! 11 September 2026  大分トリニータオフィシャルサイト",
+      "translation": "source",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUHUtWUZIN0VJRGRQZkRjYkxJaFpnXzdQMEJCTS1NNV9hTjVBdkFnRXY4ZnMzN1BWNWJBQjRZSUZmX2UxWXdpWTVaS2YzVHRmMjVqMXlKYVFqZzRhVjZHRkdNU0s3ZFVaUDc3MmZEVTJxeF9LX09YX25sMGpOcFhLQVAxT0tqd3FwMk5kZC1xdi03OGpSdUlyUUhuN2xxZTFuQzlYRVY0akkwaWphWXJYcHEwNlQzckU?oc=5",
-      "publishedAt": "2026-09-11T18:50:53+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-mexico-sees-defeat-in-last-u-20-women-s-world-cup-match-concacaf-official-website",
-      "title": "墨西哥在上一场 U-20 女子世界杯比赛中失利 - 中北美及加勒比地区官方网站",
-      "summary": "墨西哥在上一场 U-20 女子世界杯比赛中失利官方网站",
-      "originalTitle": "Mexico sees defeat in last U-20 Women’s World Cup match - Concacaf | Official Website",
-      "originalSummary": "Mexico sees defeat in last U-20 Women’s World Cup match  Concacaf | Official Website",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNd3FuSHZ6bmtGS1RCZGVVbzdpMXlFRVh6dWx5YVg1VXJCYk5aZHJUMU9kOFRGaURuYXNZNmRlNlVPR1EyOFFEbGlMdktzNm1UcFhocHFtMVBQeHpNZDVILWMtZnlhRU5kY3dXOWVzaEV0aGJhdU9CUFE1S2xHbWJVYV9BWnNQZFpjQjkxaHgweGV0cll0bVJkY2ZpWkozQkRHTjl4S2s1QXhRamZjNlpobGpodUNkZEtJLXRNSWZHbWZlSzNkR1E?oc=5",
-      "publishedAt": "2026-09-11T18:30:51+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-u-20-women-s-world-cup-tanzania-vs-canada-tsn",
-      "title": "2026 年 FIFA U-20 女子世界杯：坦桑尼亚 vs. 加拿大 - TSN",
-      "summary": "2026 年 FIFA U-20 女子世界杯：坦桑尼亚 vs. 加拿大 TSN",
-      "originalTitle": "2026 FIFA U-20 Women's World Cup: Tanzania vs. Canada - TSN",
-      "originalSummary": "2026 FIFA U-20 Women's World Cup: Tanzania vs. Canada  TSN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPMVI2R1l6MGNKY2ZUenFfbDN6WHJuaTNTVldicldoV0Zma1YycVRETXN5OTNjbkl0aW9Ca1pvXzBrbVNrM2tZSEdVYnZhdFNJOGVPOE51MFY2VGRtQnF2cjlkTXdFV1h1WHczRWFYSTRKSXM5UW9TZW84WklUZWZFaHhCeld5bXdvc1lQbEROY0l4Q041dHpuSW1n?oc=5",
-      "publishedAt": "2026-09-11T17:48:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-final-odds-favor-spain-markets-show-58-edge-yellow-com",
-      "title": "世界杯决赛赔率有利于西班牙，市场优势为 58% - Yellow.com",
-      "summary": "世界杯决赛赔率有利于西班牙，市场显示 58% 优势  Yellow.com",
-      "originalTitle": "World Cup Final Odds Favor Spain, Markets Show 58% Edge - Yellow.com",
-      "originalSummary": "World Cup Final Odds Favor Spain, Markets Show 58% Edge  Yellow.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE56QW5MWGw2QS1CYTRPOUJWbjVHSVUwQVZrdHVuLUpYNG1IczZ4cUNmZ1EwNnp6ajB5YVM1cDBXVExaYXB1TElZX2JxRmc5akJ0WndRQlI0OVdHXzVVUEdnTURNQWN2SVNDM01JU09TTQ?oc=5",
-      "publishedAt": "2026-09-11T17:14:50+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-tanzania-exit-the-2026-fifa-u-20-women-s-world-cup-without-a-single-point-dailysports",
-      "title": "坦桑尼亚队无一分退出 2026 年 FIFA U-20 女子世界杯 - Dailysports",
-      "summary": "坦桑尼亚队以一分未得的成绩退出 2026 年 FIFA U-20 女子世界杯 Dailysports",
-      "originalTitle": "Tanzania exit the 2026 FIFA U-20 Women’s World Cup without a single point - Dailysports",
-      "originalSummary": "Tanzania exit the 2026 FIFA U-20 Women’s World Cup without a single point  Dailysports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORXd2RE5NOEdZYUZ5dG5SX0VGeWplRFZfZy1IbVM3TV9jSWgtRzl2dVFhMWZmb2trbXdjcFRFOFBReUVIZ1B5LUtYWmRFS1lfNVRUV2JiRUthcW1Vb083VkNKcUZJX0FFM29HUVZXRTdSZWVyY0M0MVJHUVN1ZkE2ZFJtczlTeHB3TEtNUlNveUFzbzA1VEFneVcyQjIwUjA3S3g0UQ?oc=5",
-      "publishedAt": "2026-09-11T15:50:03+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-final-tug-of-war-escalates-as-morocco-pm-rebukes-fa-head-spain-stakes-claim-reuters",
-      "title": "世界杯决赛拉锯战升级，摩洛哥总理斥责英足总主席，西班牙声称拥有赌注 - 路透中文网",
-      "summary": "世界杯决赛拉锯战升级，摩洛哥总理斥责足协主席，西班牙股份声称 - 路透",
-      "originalTitle": "World Cup final tug-of-war escalates as Morocco PM rebukes FA head, Spain stakes claim - Reuters",
-      "originalSummary": "World Cup final tug-of-war escalates as Morocco PM rebukes FA head, Spain stakes claim  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUFp6ek5SVm9MclNoaVg3VnNaa0RkUlpMSENRRjVHZ3l3Rk9ZVG5BckdnMjhIZXlRZDZmMVcwRzR6eTQxNVdZeHRsell6VkdLNkNMYTZPb3dmeHBPcms3TjQyWk9wMTh4UFBsaHJyc1A1dnU1WHVvcXBYdkRUc3JfMUp5R3VHZk5fV0RMNWdyZ0tYNk5HbmNlZUJDMlRqQ2VGN2hVbENzSGdOVnREdkUxS0JTOUtrQQ?oc=5",
-      "publishedAt": "2026-09-11T15:47:56+00:00",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxQTFdGQmNxbHAwU1pweXZPRnJuSjd6OWg5aDRkY1FvUmZFdHhfNnFjdWJwZHFEbGFrTEdDX2t3R3dyZXc4aFQ2M1ltNk1Pa1c5OWFwZGZRSW9sWDVsZlY0azBDcGUzUU5BOWIwTWdKaldmaHBkWEw2Xy1IeU1qSHI0RVRlZ3lCSnVKTWdTMXRIbW1OUTBwakM0LVJUaC1JY3lOaWhCVFFiMkZXSk44Z3dQMTFlRE1GaFNhLVdEaGRweGVXZXg0QlpOcmNJNWhCYks2UENFSDhtVlJJMmF5SDFSSXNJckhrWXJnUlVwd2RSZURkZXdtakZNZ2NGSU9VNU54TGxuTGdra3hDNUM4SHNwSWdjQjB4T1pmR1lN?oc=5",
+      "publishedAt": "2026-09-11T18:58:25+00:00",
       "heat": 52
     }
   ]
