@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T17:34:47.394280+00:00",
+  "updatedAt": "2026-09-13T20:34:39.945975+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-fifa-u-20-women-s-world-cup-round-of-16-fixtures-confirmed-full-list-daily-post-nigeria",
+      "title": "2026 年 FIFA U-20 女子世界杯 16 强赛程已确定 [完整名单] - 尼日利亚《每日邮报》",
+      "summary": "2026 年 FIFA U-20 女子世界杯 16 强赛程已确定 [完整列表]  尼日利亚每日邮报",
+      "originalTitle": "2026 FIFA U-20 Women’s World Cup Round of 16 fixtures confirmed [Full list] - Daily Post Nigeria",
+      "originalSummary": "2026 FIFA U-20 Women’s World Cup Round of 16 fixtures confirmed [Full list]  Daily Post Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcmphM1pkX0t6UFRSRmJmNnJDTHpsTjlSTzFQVFVPaTdCVXRrcDhrMS1oaU1CeHNsMGlQYUpTX0hfZmRCNjlLNlkyT1d0RE9jRmlCbEswcy11QVFzdXNzSWdTSWxxUEtYMDE5eTBqUlRtcnZ0TjIwQ21BalRPX1FaWUNhcXhKdW4tSUtrWXV2WWRNYXFKTU9ZUktLWWwtc3J6UmF1ZXVsaF8?oc=5",
+      "publishedAt": "2026-09-13T20:14:55+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-u20-women-s-world-cup-falconets-wallop-new-caledonia-10-1-set-up-england-clash-business-news-nigeria",
+      "title": "U20女足世界杯：猎鹰队10-1新喀里多尼亚队，为英格兰队发起冲突 - 尼日利亚商业新闻",
+      "summary": "U20 女足世界杯：猎鹰队 10-1 击败新喀里多尼亚队，为英格兰队助威",
+      "originalTitle": "U20 Women’s World Cup: Falconets wallop New Caledonia 10-1, set up England clash - Business News Nigeria",
+      "originalSummary": "U20 Women’s World Cup: Falconets wallop New Caledonia 10-1, set up England clash  Business News Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHNNcl9sMWhhUDB1aE9McGo4aXVSUmVTcmU2TjM3VVdkVXBWc2x6WUZueXpVVWxMSjJ6LVdsNGtObnhhdXA0c1VYamtlYnV1Z0lTTmw3cm5tN3B6MVpoYXZGaURuOGZUMHoxOGdZa0E4ZGhlY3hvM3pQcTFQVnQ3MG9jNnMzYXFUaWNBT2NlcmM1VEE3U0V1MmctbWZqT29nVjFEY0ZNcW95SzQ4RlY1YjVCazBjczA?oc=5",
+      "publishedAt": "2026-09-13T19:08:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-vs-gabon-26-sep-2026-live-score-espn-in",
+      "title": "摩洛哥 vs. 加蓬 (2026 年 9 月 26 日) 实时比分 - espn.in",
+      "summary": "摩洛哥 vs. 加蓬 (2026 年 9 月 26 日) 实时比分 espn.in",
+      "originalTitle": "Morocco vs. Gabon (26 Sep, 2026) Live Score - espn.in",
+      "originalSummary": "Morocco vs. Gabon (26 Sep, 2026) Live Score  espn.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tOG5ZSmhBR3NGLVprNG1pc3JLbS1HbFRQS2NDcXFGeU9QTHpoT1piYlRMRmFRYk5WSGJJcGR1TXN1OUw2S2dvOTQwY1d5d0hXdXpuQnB2bktMaEdMQlRBWWI0Y294QThMSkVLSFRrV21UMW1IdEE?oc=5",
+      "publishedAt": "2026-09-13T18:20:17+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-韩国媒体评估越南赢得fifa东盟杯的几率-vietnam-vn",
+      "title": "韩国媒体评估越南赢得FIFA东盟杯的几率。 - Vietnam.vn",
+      "summary": "韩国媒体评估越南赢得FIFA东盟杯的几率。  Vietnam.vn",
+      "originalTitle": "韩国媒体评估越南赢得FIFA东盟杯的几率。 - Vietnam.vn",
+      "originalSummary": "韩国媒体评估越南赢得FIFA东盟杯的几率。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZGp5X1RQc2dTMlJseFU2ekJtd1hGYjI3cG9sclI2SHRuTDg1dWZoQnByR1huOGtDSGViZEEtUkxKc28tdFBZMUFmQ2JoMFBjazRsY2hWRWpYMEd1S0NtdFVpLXlqNEJ6ZERSSG5rS214WU1DcUJMQ1pJRmdQZkJfMGVJc28yZVVaZndTQzd2ZFZaRFd5TlNyWVR5OHNwbkE2NTlJ?oc=5",
+      "publishedAt": "2026-09-13T18:16:02+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-fifa-u-20-women-s-world-cup-falconets-rout-new-caledonia-10-1-face-england-in-round-16-leadership-newspapers",
       "title": "FIFA U-20 女子世界杯：猎鹰队 10-1 击败新喀里多尼亚，第 16 轮迎战英格兰 - LEADERSHIP Newspapers",
@@ -18,6 +66,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOa0cxb2c3RXI4MUVWOWNwdnAyS1d3VVp3UGtQVU9VRFhEdzZzRGR1TjBxaXBQVS10djlpMVZKWndMOS1vSFlrYkIyRXRlTV9ibnhiMkpscGVsXzl4SkZGSmZ2a2dVSFpPQnBkNmNibTNQNVRndlJuZXBtb1FXby1oSC1WSEE0Z1psVHZzS2NCNy1yeFlSRDlOanRoNFV1VEQyNGUxVkxtSkd6REpi?oc=5",
       "publishedAt": "2026-09-13T17:21:44+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-2026-the-coming-aviation-demand-surge-migflug",
+      "title": "2026 年世界杯：即将到来的航空需求激增 - MiGFlug",
+      "summary": "2026 年世界杯：即将到来的航空需求激增 MiGFlug",
+      "originalTitle": "World Cup 2026: The Coming Aviation Demand Surge - MiGFlug",
+      "originalSummary": "World Cup 2026: The Coming Aviation Demand Surge  MiGFlug",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5EbWJCa1U2eXhMaDlWMWt6X0haM1Q4NHM3ODBwd1Y3X0dOcjRncHNnbWZDSGVQaDYzY2xtLTVUb1YtWld2bDRudTF1eWVrdUZUZlo4Nl9KRzJoZEt1eXpJM3VsT2FuODRUSDB6bWt0bDlfUGNLSlM1LWUzM2Q?oc=5",
+      "publishedAt": "2026-09-13T17:05:19+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-liverpool-vs-tottenham-hotspur-preview-prediction-team-news-lineups-carabao-cup-2026-27-khel-now",
@@ -44,23 +104,23 @@
       "heat": 60
     },
     {
-      "id": "google-news-ivory-coast-vs-ghana-24-sep-2026-live-score-espn-co-uk",
-      "title": "科特迪瓦 vs. 加纳 (2026 年 9 月 24 日) 实时比分 - espn.co.uk",
-      "summary": "科特迪瓦 vs. 加纳（2026 年 9 月 24 日）实时比分 espn.co.uk",
-      "originalTitle": "Ivory Coast vs. Ghana (24 Sep, 2026) Live Score - espn.co.uk",
-      "originalSummary": "Ivory Coast vs. Ghana (24 Sep, 2026) Live Score  espn.co.uk",
+      "id": "google-news-fifa-u-20-women-s-world-cup-2026-falconets-thrash-new-caledonia-set-up-england-last-16-clash-blueprint-newsp",
+      "title": "2026 年 FIFA U-20 女子世界杯：猎鹰队大胜新喀里多尼亚，帮助英格兰晋级 16 强 - Blueprint Newspapers",
+      "summary": "2026 年 FIFA U-20 女子世界杯：猎鹰队击败新喀里多尼亚，帮助英格兰晋级 16 强 蓝图报纸",
+      "originalTitle": "FIFA U-20 Women’s World Cup 2026: Falconets thrash New Caledonia, set up England last 16 clash - Blueprint Newspapers",
+      "originalSummary": "FIFA U-20 Women’s World Cup 2026: Falconets thrash New Caledonia, set up England last 16 clash  Blueprint Newspapers",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBWaS05RXlJYUVnSFliemlvbzQtTVlidERrdmFQM2M0SWxFQ1c3TkJiSDRNUDBwT293SlU4TGlfdEFKaU5PQmZmN2FMdUlCRTZ2Nm5HUWRmUWZ0QW1SLWg3eEZhRzdGOGQ0QWxVQ3FVTTdaM0JmNFE?oc=5",
-      "publishedAt": "2026-09-13T16:35:18+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMER5WDBEODVQbzBkSjRyUll3YzhTdFJEUFN1RlBOcmNDa2hsaGJwUkZyWFhmdEM5ZUlla2xsMThUYnpRRC04MEtzaTVBblRlblRyQ1ktUU81VEV5RVNLbTQ0eWJxM2xFeG9iVTU5bnNUcno3UXVBblBWQnZYbmtJLXhWVVdrQUpyX01ESlVnQXVURlB5QXItWUZLeFE0RU5ZY04tNERsV3FkeXRuVGhHTnFlNA?oc=5",
+      "publishedAt": "2026-09-13T16:33:29+00:00",
+      "heat": 60
     },
     {
-      "id": "google-news-anirudh-thapa-on-facing-brazil-uruguay-panama-on-the-pitch-it-is-11-against-11-sportstar-thehindu-com",
-      "title": "阿尼鲁德·塔帕谈对阵巴西、乌拉圭、巴拿马：球场上是11对11 - sportsstar.thehindu.com",
-      "summary": "阿尼鲁德·塔帕 (Anirudh Thapa) 对阵巴西、乌拉圭、巴拿马：在球场上，比分是 11 敌 11 sportsstar.thehindu.com",
-      "originalTitle": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11 - sportstar.thehindu.com",
-      "originalSummary": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11  sportstar.thehindu.com",
+      "id": "google-news-anirudh-thapa-on-facing-brazil-uruguay-panama-on-the-pitch-it-is-11-against-11-sportstar",
+      "title": "阿尼鲁德·塔帕谈对阵巴西、乌拉圭、巴拿马：球场上是11对11 - Sportstar",
+      "summary": "阿尼鲁德·塔帕 (Anirudh Thapa) 对阵巴西、乌拉圭、巴拿马：在球场上，是 11 敌 11 体育明星",
+      "originalTitle": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11 - Sportstar",
+      "originalSummary": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11  Sportstar",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYnhQMU51cUNiUVJfN1owbHZsQUdLUGNrcVV0bnhDM2huYjlyNDU3LWlZSmFrWGs5aWVKRUcwbEF3a0ZvMlZRdGE4X0ZpN1VvMUUzbnZaOEtHOWNnSjlkTVU3Y3RBWTlodXY1cUg1T0tWVGdpYXphd2c4UFNXc2prcDFod0swX0U0VGgxY204NUJmRTRmb2dPUjBfRGQ1M0F1ajBLcFhUS29jUmR6eDRxUmp0bEo5YTgyT29hYkdjUnhpdG1sTy15RkFQWGdlcFBCTEpBWE5MaHhabm5qRF9z0gHmAUFVX3lxTE9GQTRUdEFlOUV5cExHWHQtUktyN0VuMjFqWXZSMVVDdlZNN0ZuNThWUGtYTVRxNHFlQktjZUFQNlhuUFpXdFdqV2haajZtTTFVdHN5ai1oaTBBZlZfcWJMOEQ1czN3ODhNT0F4eFNEZUdRZDdTc0RYWnYtLXFPenFVakdDUndRa1JHT2V0cDNfWk5NU05TOThOTXlMWGlZcGVuX2Y1WGpBbW51a29xTXFiVDMwYU5ucW1qdXBKVGh6S18zWGRkM3VlZnpBMlFtMWkxaVFobVRsZjItYmYtRXVHZGFfcVFB?oc=5",
@@ -92,18 +152,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-nigeria-thrash-new-caledonia-10-1-reach-u-20-world-cup-knockouts-punch-newspapers",
-      "title": "尼日利亚10-1大胜新喀里多尼亚 晋级U-20世界杯淘汰赛 - Punch Newspapers",
-      "summary": "尼日利亚 10-1 击败新喀里多尼亚，晋级 U-20 世界杯淘汰赛 Punch Newspapers",
-      "originalTitle": "Nigeria thrash New Caledonia 10-1, reach U-20 World Cup knockouts - Punch Newspapers",
-      "originalSummary": "Nigeria thrash New Caledonia 10-1, reach U-20 World Cup knockouts  Punch Newspapers",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZVhQZWowMktyaEZZQXNuR1Z1SHNxNUZzdVh2eVA0aXVvZTd0NlFISzVfNkdYZEpFYzk2Z1BnZ0ZkWk55QlpxbHlOVGtfODNCRXdRMVY4QkQtTHN4QVlaSkdwYmVtdUlOX21TYUVlQmlhS0IzdzVjQlFraXN5UFktUFQtNU5iNjNHeDhRTTJmTWdKVUpTMmxSLU9qamtjVmZ3dFVJQlhtVlFIRmxDMUxSSFRPZ2hmWlQ3ZGhLUVB1ekwzc1o2RFE?oc=5",
-      "publishedAt": "2026-09-13T15:46:21+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-witnessing-in-belgium-how-media-brings-people-together-amid-revelry-of-world-cup-live-broadcast-and-beer-che",
       "title": "在比利时见证媒体如何在世界杯直播和啤酒欢呼的狂欢中将人们聚集在一起 - 环球时报",
       "summary": "在比利时见证媒体如何在世界杯直播和啤酒欢呼的狂欢中将人们聚集在一起环球时报",
@@ -116,18 +164,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-falconets-feast-on-goals-to-progress-in-u20-world-cup-score-nigeria",
-      "title": "猎鹰队在 U20 世界杯上凭借进球晋级 - Score尼日利亚",
-      "summary": "猎鹰队在 U20 世界杯上凭借进球晋级 尼日利亚得分",
-      "originalTitle": "Falconets feast on goals to progress in U20 World Cup - Score Nigeria",
-      "originalSummary": "Falconets feast on goals to progress in U20 World Cup  Score Nigeria",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQQkZEY2UyVUtWbW5mQ3d4N3lralZfYkZqeTByNUZtNm50LWV3UWVERmVVU29acVJKV1BJYVBNSXY2cUM3ZFR0RmNkTU5aOGNXLURTSGtyRlM4anlUZTk1RmxFZlg4di1KczdyQVhNUWJkMkticjJQRHVCdzNCYVFSb0dFTHdPVkFfU2c?oc=5",
-      "publishedAt": "2026-09-13T15:22:19+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
       "title": "2026世界杯足球赛 - 美国之音",
       "summary": "2026世界杯足球赛  美国之音",
@@ -137,6 +173,18 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-09-13T15:01:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-no-money-no-jersey-sinesipho-mali-lays-bare-safa-neglect-after-historic-world-cup-campaign-weekendargus-co-z",
+      "title": "没有钱，没有球衣：马里西内西福在历史性的世界杯后暴露了SAFA的忽视 - Weekendargus.co.za",
+      "summary": "没有钱，没有球衣：马里锡内西福在历史性的世界杯战役后暴露了 SAFA 的忽视 Weekendargus.co.za",
+      "originalTitle": "No Money, No Jersey: Sinesipho Mali lays bare SAFA neglect after historic World Cup campaign - weekendargus.co.za",
+      "originalSummary": "No Money, No Jersey: Sinesipho Mali lays bare SAFA neglect after historic World Cup campaign  weekendargus.co.za",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnBudVhRUmt2bFV1X0lRSENNYUc1ODF2czUzZG44QWxscmR6T2ppTkpnbTgwZ0lmRjh3NDhkZ2RHbEh6RWtTSTVTWVRrR0FzZmY3NlQwcy1lUkVCSTRfeXN6cXJEZUtPSkxMRHQ4WmFvYUJ2blk0ZHRJaHE4SXoxRXpXTERBVXd1cUFaLW1ydVYxeGtuOHpDdDRvd1ZaYmpWQk9yNU9jMHFWdUx2MGxyNEpnUXBwVGlnZE9nTjFxbWpnM2VIOXF2TjJmRzY5RXFVdkFaeEZGMXlZQQ?oc=5",
+      "publishedAt": "2026-09-13T13:51:22+00:00",
       "heat": 52
     },
     {
@@ -152,18 +200,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-no-money-no-jersey-sinesipho-mali-lays-bare-safa-neglect-after-historic-world-cup-campaign-cape-times",
-      "title": "没有钱，没有球衣：马里西内西福在历史性的世界杯后暴露了SAFA的忽视 - Cape Times",
-      "summary": "没有钱，没有球衣：马里锡内西福 (Sinesipho Mali) 在历史性的世界杯战役后暴露了 SAFA 的忽视",
-      "originalTitle": "No Money, No Jersey: Sinesipho Mali lays bare SAFA neglect after historic World Cup campaign - Cape Times",
-      "originalSummary": "No Money, No Jersey: Sinesipho Mali lays bare SAFA neglect after historic World Cup campaign  Cape Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOblVfTTBrR09SVE5iMzFaYWQ3Ym1WRE5Fa056Z3VMXzUwVjVPc3hKbHNyVDJOeFJhZWp4NllmOUIzTF9ENlk5WWU4YkpkQml5aUVmUFhpcTByLUpCMlZua3dCRzA4NnB6SVlYMERUMlRiS0RMZWctWUMzRjNyaktlZVZHTGF2SHloeVlzMjk3Y3dlekp0ZkRKLTN6RUtkTUw3ODNwZDE2Y0FZYlRKOUdRZGNuZWhTakxmR3VpYlBzc20xdjZlRW5BeUJyeTJCbFRaSDBOcFBn?oc=5",
-      "publishedAt": "2026-09-13T13:03:51+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-lives-treams-2026-brighton-against-coventry-world-cup-2026-ｌｉｖｅ-ｆｒｅｅ-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-13-september-2026-loughbo",
       "title": "✨ LIVES'TREAMs-2026 ] 布莱顿对阵考文垂 2026 年世界杯 直播 2026 年 9 月 13 日 - 拉夫堡大学",
       "summary": "✨ LIVES'TREAMs-2026 ] 布莱顿对阵考文垂 2026 年世界杯直播 2026 年 9 月 13 日拉夫堡大学直播",
@@ -176,18 +212,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-watchlive-ｔｏｄａｙ-brighton-coventry-epl-live-free-free-tv-29-august-2026-loughborough-university",
-      "title": "[WATCHLIVE]TODAＹ!]布莱顿考文垂EPL直播免费免费电视！ 2026 年 8 月 29 日 - 拉夫堡大学",
-      "summary": "[WATCHLIVE]TODAＹ!]布莱顿考文垂EPL直播免费免费电视！ 2026 年 8 月 29 日 拉夫堡大学",
-      "originalTitle": "[WATCHLIVE]ＴＯＤＡＹ!] Brighton Coventry EPL Live Free free tv! 29 august 2026 - Loughborough University",
-      "originalSummary": "[WATCHLIVE]ＴＯＤＡＹ!] Brighton Coventry EPL Live Free free tv! 29 august 2026  Loughborough University",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxNS215UWk0Z1pLVm9LNlFwQ3BTb1dkWlV3SkpXQkdRTWVQdkhZMW9HeXA5anNHQ1FCaU9rRm8yX1BFY1FFMy1rVjRrMUZkMThsY3ZtZDQwOThLTkVrYk5mUHRFY3R2dTlNdGFLVFl0NG01ZHNkZjJiQ0VjSkJPLTJMTkl2T2FuNVVhR1EzU0xXbTdEcDRTcDJudk9oTjNfNTNhSWZKcFRPWkN4T1d1SDl6ai16RUtpNTdaMmV4MnEtQ0xwYm01WkkwQXktQnJzdnZJZGFjRmdCWkpzRURudjJJZ2JOVzVobHpITXd0WlRwQjRRQk5BZUIzcnZ5TVFMdnJ3VTRoV0tmVWZTQlpHVHBwTnZSYUI1Z1ZDLXBhZzBlUTRabWRkV1ltRFRSeHM2UGFsY0R0QVdYUUlsYVdiNnRISkMxMF9IamxDMVlZ?oc=5",
-      "publishedAt": "2026-09-13T13:00:44+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-what-happened-when-rugby-s-greatest-nations-landed-in-baltimore-lots-of-world-cup-learnings-the-new-york-tim",
       "title": "当橄榄球最伟大的国家登陆巴尔的摩时发生了什么？世界杯的很多教训 - 纽约时报中文网",
       "summary": "当橄榄球最伟大的国家登陆巴尔的摩时发生了什么？世界杯的很多经验教训《纽约时报》",
@@ -197,30 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUURWQ2ppMnRBOU1TWGkxVGRsWGR4aWpUQzZ2dFJNU2NyWVZpODdPZFNHcllRZllqX294Y3M2UVRXRTZUamtteXhyYm1obVo1SFRiY0tzUWNLczFpaEtxMTlDQklINTRvRHdGdlNjMm9DSTZCWmU4blBmNzlpX2htUS1iN04yc2RCaHJ5NzJkUGdoOTdsYnpyQjB2M0s?oc=5",
       "publishedAt": "2026-09-13T12:58:38+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-sinesipho-mali-says-2026-world-cup-bonus-remains-unpaid-africasoccer-com",
-      "title": "马里西内西福表示 2026 年世界杯奖金仍未支付 - AfricaSoccer.com",
-      "summary": "马里西内西福表示 2026 年世界杯奖金仍未支付 AfricaSoccer.com",
-      "originalTitle": "Sinesipho Mali says 2026 World Cup bonus remains unpaid - AfricaSoccer.com",
-      "originalSummary": "Sinesipho Mali says 2026 World Cup bonus remains unpaid  AfricaSoccer.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTUlFQ3ZIUnR3dmJUMHo2T0ZBSWZLalRyWnpYTVcwbFRqd3EtczZyTDlzWUlfUURpWGUyWTBhV1oxRFZzTHd1SWxMbnhWTk1hc2hsNDhOOEE0Rk8wV0E1VnVJb2hxTHFVeV90OEVtUEdrVS1hbnBteHRwbWpHc21PT0xKZE41OHlM?oc=5",
-      "publishedAt": "2026-09-13T12:49:05+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-泰国队参加-fifa-东盟杯的初步名单-查纳提普和提拉通入选-vietnam-vn",
-      "title": "泰国队参加 FIFA 东盟杯的初步名单：查纳提普和提拉通入选。 - Vietnam.vn",
-      "summary": "泰国队参加 FIFA 东盟杯的初步名单：查纳提普和提拉通入选。  Vietnam.vn",
-      "originalTitle": "泰国队参加 FIFA 东盟杯的初步名单：查纳提普和提拉通入选。 - Vietnam.vn",
-      "originalSummary": "泰国队参加 FIFA 东盟杯的初步名单：查纳提普和提拉通入选。  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWgyWXdLaFVlZ0JicnE5STEwSkhNY3RnamRMd0ZTOVdhT1VkdlJfNHFLWDhkU21RQXVfblBOMzdXQXIxTUR4X1dmb2JMV3pVcUZuR29laGxyN2c3WkNtbFNocUtNcFJnYUplbmQ4VnNJMjV6alhkb2hENlQtQ2tiSDBWUHc3ZUFvcDBhaEppdkVuNC1wWG16bDlwelBHX29adW5rVkdB?oc=5",
-      "publishedAt": "2026-09-13T12:33:37+00:00",
       "heat": 52
     }
   ]
