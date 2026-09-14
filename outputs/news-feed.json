@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-13T23:02:53.501460+00:00",
+  "updatedAt": "2026-09-14T01:26:56.940216+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,18 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-09-13T22:59:30+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-2026-fifa-u-20-women-s-world-cup-top-scorers-so-far-daily-post-nigeria",
       "title": "2026 年 FIFA U-20 女子世界杯迄今为止的最佳射手 - 尼日利亚《每日邮报》",
@@ -80,6 +92,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-u20-women-s-world-cup-falconets-wallop-new-caledonia-10-1-set-up-england-clash-business-news-nigeria",
+      "title": "U20女足世界杯：猎鹰队10-1新喀里多尼亚队，为英格兰队发起冲突 - 尼日利亚商业新闻",
+      "summary": "U20 女足世界杯：猎鹰队 10-1 击败新喀里多尼亚队，为英格兰队助威",
+      "originalTitle": "U20 Women’s World Cup: Falconets wallop New Caledonia 10-1, set up England clash - Business News Nigeria",
+      "originalSummary": "U20 Women’s World Cup: Falconets wallop New Caledonia 10-1, set up England clash  Business News Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPaHNNcl9sMWhhUDB1aE9McGo4aXVSUmVTcmU2TjM3VVdkVXBWc2x6WUZueXpVVWxMSjJ6LVdsNGtObnhhdXA0c1VYamtlYnV1Z0lTTmw3cm5tN3B6MVpoYXZGaURuOGZUMHoxOGdZa0E4ZGhlY3hvM3pQcTFQVnQ3MG9jNnMzYXFUaWNBT2NlcmM1VEE3U0V1MmctbWZqT29nVjFEY0ZNcW95SzQ4RlY1YjVCazBjczA?oc=5",
+      "publishedAt": "2026-09-13T19:08:37+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-morocco-vs-gabon-26-sep-2026-live-score-espn-in",
       "title": "摩洛哥 vs. 加蓬 (2026 年 9 月 26 日) 实时比分 - espn.in",
       "summary": "摩洛哥 vs. 加蓬 (2026 年 9 月 26 日) 实时比分 espn.in",
@@ -116,6 +140,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-world-cup-2026-which-nation-has-travelled-the-furthest-distance-this-summer-squawka",
+      "title": "2026 年世界杯：哪个国家今年夏天跑的距离最远？ - 斯夸卡",
+      "summary": "2026 年世界杯：哪个国家今年夏天跑的距离最远？  斯夸卡",
+      "originalTitle": "World Cup 2026: Which nation has travelled the furthest distance this summer? - Squawka",
+      "originalSummary": "World Cup 2026: Which nation has travelled the furthest distance this summer?  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPMlFzLUtBN0E1WG1wRENQbUJsWURCdHhkeU5mU0t3SmJKWjlXdk1fZjEyXzNUbzFlak83VFEtLXdTd25nbFRJX1paaUhNNHJYX1J5RjA0blNLUExwSGEzYnRDaFRRaXlVYTVDNlFIbHVqUVR4N3dwUG9uRVdtNlNzaU45TTYzZw?oc=5",
+      "publishedAt": "2026-09-13T17:39:57+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-u-20-women-s-world-cup-falconets-rout-new-caledonia-10-1-face-england-in-round-16-leadership-newspapers",
       "title": "FIFA U-20 女子世界杯：猎鹰队 10-1 击败新喀里多尼亚，第 16 轮迎战英格兰 - LEADERSHIP Newspapers",
       "summary": "FIFA U-20 女子世界杯：猎鹰队 10-1 击败新喀里多尼亚队，第 16 轮对阵英格兰队",
@@ -140,11 +176,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-liverpool-vs-tottenham-hotspur-preview-prediction-team-news-lineups-carabao-cup-2026-27-khel-now",
-      "title": "利物浦 vs 托特纳姆热刺前瞻 – 预测、球队新闻、阵容 |卡拉宝杯 2026-27 - Khel Now",
-      "summary": "利物浦 vs 托特纳姆热刺前瞻 – 预测、球队新闻、阵容 |卡拉宝杯 2026-27 凯尔现在",
-      "originalTitle": "Liverpool vs Tottenham Hotspur Preview – prediction, team news, lineups | Carabao Cup 2026-27 - Khel Now",
-      "originalSummary": "Liverpool vs Tottenham Hotspur Preview – prediction, team news, lineups | Carabao Cup 2026-27  Khel Now",
+      "id": "google-news-liverpool-vs-tottenham-hotspur-preview-prediction-team-news-lineups-carabao-cup-2026-27-khelnow-com",
+      "title": "利物浦 vs 托特纳姆热刺前瞻 – 预测、球队新闻、阵容 |卡拉宝杯 2026-27 - khelnow.com",
+      "summary": "利物浦 vs 托特纳姆热刺前瞻 – 预测、球队新闻、阵容 |卡拉宝杯 2026-27 khelnow.com",
+      "originalTitle": "Liverpool vs Tottenham Hotspur Preview – prediction, team news, lineups | Carabao Cup 2026-27 - khelnow.com",
+      "originalSummary": "Liverpool vs Tottenham Hotspur Preview – prediction, team news, lineups | Carabao Cup 2026-27  khelnow.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOOTdCOUl2X2piY1dIMEhabDdyMHVkUlJxc2VCZ09GdkRMOUw4WVNZV1hQcEpIQ0R2Z1NVSnJCVkdnbjlIZ1YxcEJhWHhkWm8tRXQtaG9UdDV5VlJmVVdCNThQX2tjb0hkV2g4RXo0QTJxNnNGdUlfdmRrSWJsNXZZWlFnZFp2OTFFdlVfQmYyWQ?oc=5",
@@ -154,7 +190,7 @@
     {
       "id": "google-news-usa-advances-in-fifa-u-20-women-s-world-cup-with-9-0-rout-of-new-zealand-soccerwire",
       "title": "美国以 9-0 击败新西兰，晋级 FIFA U-20 女足世界杯 - SoccerWire",
-      "summary": "美国以 9-0 击败新西兰，晋级 FIFA U-20 女子世界杯 SoccerWire",
+      "summary": "美国以 9-0 击败新西兰，晋级 FIFA U-20 女足世界杯 SoccerWire",
       "originalTitle": "USA advances in FIFA U-20 Women’s World Cup with 9-0 rout of New Zealand - SoccerWire",
       "originalSummary": "USA advances in FIFA U-20 Women’s World Cup with 9-0 rout of New Zealand  SoccerWire",
       "translation": "online",
@@ -162,6 +198,18 @@
       "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVGJsVWw4eEFlX2MtbnRJeE1Memo2WXhkclliT3dmSWNObWlQSzZXZnhYcTVidHNnb3FxYXdWX2JyT19NeVpHYlNrZ0FESmxtU1pYcklIRnhOLVBBb3pRMW4tR1FnUWR5djRDVG9jb2d4MjM3c1J3Z1R2VjhzZGFMUjRHMjN2TUFKTXpCQ0x6MXZYaENVWVViYmpxM1R1UU51b182c2NUWQ?oc=5",
       "publishedAt": "2026-09-13T16:36:23+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-farewell-world-cup-laist",
+      "title": "告别世界杯 - LAist",
+      "summary": "告别世界杯 LAist",
+      "originalTitle": "Farewell World Cup - LAist",
+      "originalSummary": "Farewell World Cup  LAist",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbHNuWXVXbnVKdjM4ZXVqN1BjUFpRTmo3dEpwNlpmQldYV01WaUQwaE1jRnJSNEtlVjFmeFhhc192RDVkeUVBQl85NENaZVo2NXJOQUQ0ZW9ZRXBfUlBOMnVaMkYtTS1ReEdTckF5ajFDWEtWUDFpeGlDWl9XMTMwVU1EbkdKSk1nblFiSzR0VmZIdlhuSVE?oc=5",
+      "publishedAt": "2026-09-13T16:35:00+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-fifa-u-20-women-s-world-cup-2026-falconets-thrash-new-caledonia-set-up-england-last-16-clash-blueprint-newsp",
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMER5WDBEODVQbzBkSjRyUll3YzhTdFJEUFN1RlBOcmNDa2hsaGJwUkZyWFhmdEM5ZUlla2xsMThUYnpRRC04MEtzaTVBblRlblRyQ1ktUU81VEV5RVNLbTQ0eWJxM2xFeG9iVTU5bnNUcno3UXVBblBWQnZYbmtJLXhWVVdrQUpyX01ESlVnQXVURlB5QXItWUZLeFE0RU5ZY04tNERsV3FkeXRuVGhHTnFlNA?oc=5",
       "publishedAt": "2026-09-13T16:33:29+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-fifa-u20-women-s-world-cup-falconets-rout-new-caledonia-10-1-to-play-england-pmexpressng-com",
-      "title": "FIFA U20女足世界杯：猎鹰队10-1大胜新喀里多尼亚队迎战英格兰队",
-      "summary": "FIFA U20 女足世界杯：猎鹰队 10-1 击败新喀里多尼亚队，迎战英格兰队 pmexpressng.com",
-      "originalTitle": "FIFA U20 Women’s World Cup: Falconets rout New Caledonia 10-1, to play England - pmexpressng.com",
-      "originalSummary": "FIFA U20 Women’s World Cup: Falconets rout New Caledonia 10-1, to play England  pmexpressng.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORlFZVV9HZTBIQTZWTEpFQ1QyZUNuM2xLRHZxeXFlTGpTdEtHWDluZTEtNXdKa0lUZnpDdXF6NmNnLXpncE0xSGgzUnptSnh2dEVSdzh6RmdOYzJNeDZ2SGNRMHJQNDFubXlnUHkxSU5UWmdaVnhYVnVia0lpREhtLWwyZFhKaEl2Y1R2QnZaTE1UelRnOXVNOExyaDFNV2Y1NkE?oc=5",
-      "publishedAt": "2026-09-13T16:30:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-anirudh-thapa-on-facing-brazil-uruguay-panama-on-the-pitch-it-is-11-against-11-sportstar",
-      "title": "阿尼鲁德·塔帕谈对阵巴西、乌拉圭、巴拿马：球场上是11对11 - Sportstar",
-      "summary": "阿尼鲁德·塔帕 (Anirudh Thapa) 对阵巴西、乌拉圭、巴拿马：在球场上，是 11 敌 11 体育明星",
-      "originalTitle": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11 - Sportstar",
-      "originalSummary": "Anirudh Thapa on facing Brazil, Uruguay, Panama: On the pitch, it is 11 against 11  Sportstar",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQYnhQMU51cUNiUVJfN1owbHZsQUdLUGNrcVV0bnhDM2huYjlyNDU3LWlZSmFrWGs5aWVKRUcwbEF3a0ZvMlZRdGE4X0ZpN1VvMUUzbnZaOEtHOWNnSjlkTVU3Y3RBWTlodXY1cUg1T0tWVGdpYXphd2c4UFNXc2prcDFod0swX0U0VGgxY204NUJmRTRmb2dPUjBfRGQ1M0F1ajBLcFhUS29jUmR6eDRxUmp0bEo5YTgyT29hYkdjUnhpdG1sTy15RkFQWGdlcFBCTEpBWE5MaHhabm5qRF9z0gHmAUFVX3lxTE9GQTRUdEFlOUV5cExHWHQtUktyN0VuMjFqWXZSMVVDdlZNN0ZuNThWUGtYTVRxNHFlQktjZUFQNlhuUFpXdFdqV2haajZtTTFVdHN5ai1oaTBBZlZfcWJMOEQ1czN3ODhNT0F4eFNEZUdRZDdTc0RYWnYtLXFPenFVakdDUndRa1JHT2V0cDNfWk5NU05TOThOTXlMWGlZcGVuX2Y1WGpBbW51a29xTXFiVDMwYU5ucW1qdXBKVGh6S18zWGRkM3VlZnpBMlFtMWkxaVFobVRsZjItYmYtRXVHZGFfcVFB?oc=5",
-      "publishedAt": "2026-09-13T16:09:34+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-nigeria-thrash-new-caledonia-to-secure-their-place-in-the-round-of-16-at-the-2026-fifa-u-20-women-s-world-cu",
-      "title": "尼日利亚队击败新喀里多尼亚队，晋级 2026 年 FIFA U-20 女子世界杯 16 强 - Dailysports",
-      "summary": "尼日利亚击败新喀里多尼亚，确保 2026 年 FIFA U-20 女子世界杯 16 强席位 Dailysports",
-      "originalTitle": "Nigeria thrash New Caledonia to secure their place in the round of 16 at the 2026 FIFA U-20 Women’s World Cup - Dailysports",
-      "originalSummary": "Nigeria thrash New Caledonia to secure their place in the round of 16 at the 2026 FIFA U-20 Women’s World Cup  Dailysports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPc3VjYlJYZjQ1czNCZ3ZjT0JyUDNtODQ0WTB3d0pZcXprNUhNdGNLT1pVYzlWa1VrM3plY3NmYnhwa1dMY05Ka0RqTXR5d3dIOG51VkNld3hNeVh3dmEySzk0R2JsQ1Rvd1pRb0J1anUwMVh5Y19QN041bWVwOG1laWxyeFFFRm55cVE1LW5tYWtBWng4TUlpTzZ1NzBUd3IxankzeFpmcW1xcWtzazFHQTBGSHFNdlU4U3I1R0NlcWZfdkRMNTRCelktTjQwMllZZlA3UA?oc=5",
-      "publishedAt": "2026-09-13T15:49:42+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-u-20-world-cup-falconets-thrash-new-caledonia-10-1-reach-round-of-16-tvc-news",
-      "title": "U-20 世界杯：猎鹰队 10-1 击败新喀里多尼亚，晋级 16 强 - TVC 新闻",
-      "summary": "U-20 世界杯：Falconets 10-1 击败新喀里多尼亚，进入 16 强 TVC 新闻",
-      "originalTitle": "U-20 World Cup: Falconets Thrash New Caledonia 10-1, Reach Round Of 16 - TVC News",
-      "originalSummary": "U-20 World Cup: Falconets Thrash New Caledonia 10-1, Reach Round Of 16  TVC News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOMnVWRDF1UVl6U0o3M2FIdzRfUlJ1M0ZGWEFBQjFWZEdjZzVnbzVzX1BuQlk0R0FfOU5UcGpwSkVRQXFXbHdOeTlySjBVdFp5R2hLSnh0ek50TkIxTnBlcjBkRXRLcmdVR19FVG95ZEQyV19PYW9kZTZwamhGVWlZTDU5cEVGM1hQYThhbXNCSTVlb1lpcl9Z?oc=5",
-      "publishedAt": "2026-09-13T15:49:00+00:00",
-      "heat": 52
     }
   ]
 }
