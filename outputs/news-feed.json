@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-14T22:40:19.969804+00:00",
+  "updatedAt": "2026-09-15T01:18:11.375463+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-how-to-watch-the-2026-fifa-u-20-women-s-world-cup-live-without-cable-even-for-free-pcmag",
+      "title": "如何在没有有线电视的情况下观看 2026 年 FIFA U-20 女子世界杯直播（甚至免费） - PCMag",
+      "summary": "如何在没有有线电视的情况下观看 2026 年 FIFA U-20 女子世界杯直播（甚至免费） PCMag",
+      "originalTitle": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free) - PCMag",
+      "originalSummary": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free)  PCMag",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmNPZUZHc0tKOHBIY2tXWE1qRzVTMXV6a29PTmVVbXVkaFJXZVZOazlXdERvTzhfNkF0M0I4RGRPQjE0YUtiRkJfYi1fNzBfM3pWZU85c2l1MEpOa3hMZE8xcTlpY0l0UHprMDE2ZUcyQ0xBU1FBVHZ6UE1tWnFCNmo5Ui1jWXo3cmFSdlptaHFmVTNEWEdZaEdHaFk?oc=5",
+      "publishedAt": "2026-09-15T01:13:55+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
+      "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
+      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
+      "publishedAt": "2026-09-14T23:39:43+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-西班牙击败法国-晋级2026年世界杯决赛-vietnam-vn",
+      "title": "西班牙击败法国，晋级2026年世界杯决赛。 - Vietnam.vn",
+      "summary": "西班牙击败法国，晋级2026年世界杯决赛。  Vietnam.vn",
+      "originalTitle": "西班牙击败法国，晋级2026年世界杯决赛。 - Vietnam.vn",
+      "originalSummary": "西班牙击败法国，晋级2026年世界杯决赛。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOGVEanVIV2NNNDBPNUhBbkVDTU95WTUybjAwSTl3aDVzR2MxWHpMeEh2c3ByaWxpWTd0WEQ4SVNKNzRFRnpBM1pXRlNqVHpNbmpGaGlaUzJEa3BXbnNNeWRCQ0UxYnNQU25MRzJXaXNZc2JuZFhfOXowVTVSS1FhdG0zVmNjQzdnd0NXZ2ZDOHRQd09L?oc=5",
+      "publishedAt": "2026-09-14T23:29:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-usa-roster-prediction-will-christian-pulisic-make-the-first-post-world-cup-roster-fox-sports",
+      "title": "美国队名单预测：克里斯蒂安·普利西奇会成为世界杯后的第一张名单吗？ - 福克斯体育",
+      "summary": "美国队名单预测：克里斯蒂安·普利西奇会成为世界杯后的第一张名单吗？  福克斯体育",
+      "originalTitle": "USA Roster Prediction: Will Christian Pulisic Make The First Post-World Cup Roster? - FOX Sports",
+      "originalSummary": "USA Roster Prediction: Will Christian Pulisic Make The First Post-World Cup Roster?  FOX Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxORUluZmZ5YUFrNk5qWG84RDBzdVRhRk9ha3BCR01DWUtFZWZjWEhBRWRuOFZRajg2aEFHVm9fWUdSZzBnRm9vX2xaYkRDNWJlVmtncEduMzNOUVZRTVgxVlJwUzhkTDFaU19aSkpscmxLbE1mVkxWa2gyZTZObkcwQmo4N01LZmxaQjdCMG9nME1mM1ZmTkxzdXBjZkFFWjk1bmJyVdIBpAFBVV95cUxNY3ZZWmIxbThJTmNPbHZJbThYTXVvR2txU2dfY1BVWkdCekZZOV9ZZGpCZ2xiMDVIVFdOS21IbkJGRnlOOFUzdzhua0NVLU5yalFGQmoxRG4zbUFZU0Y2SHNNQUJyY1IyUEhVZlhUcXpGSS1YamdHRnBRMVJWMGhOb1Z5aC1MSm5NWEhVY0ZLM1F3eC1ianNjY1RmVnNwbHRrQlRkOA?oc=5",
+      "publishedAt": "2026-09-14T23:06:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-trip-com-和-visa-合作-提供免费前往-2026-年-fifa-世界杯-的旅行-vietnam-vn",
+      "title": "Trip.com 和 Visa 合作，提供免费前往 2026 年 FIFA 世界杯™ 的旅行。 - Vietnam.vn",
+      "summary": "Trip.com 和 Visa 合作，提供免费前往 2026 年 FIFA 世界杯™ 的旅行。  Vietnam.vn",
+      "originalTitle": "Trip.com 和 Visa 合作，提供免费前往 2026 年 FIFA 世界杯™ 的旅行。 - Vietnam.vn",
+      "originalSummary": "Trip.com 和 Visa 合作，提供免费前往 2026 年 FIFA 世界杯™ 的旅行。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc05iZ3FKVm1vaWNwMHZhZTNfcWQ2MG16VzJNMVhUWjFwakFXcVREWE5aZ1g0eW4zdWQ1emw2eUpsVUZVY3AxbjNhS0d2WUZ1MEZ3R0FFc3dUY3ZoWFljbDVWRVhGZGRiS2dJU0FZR201cHdsTDkxNmRLODViMi1BcWgwSXN5Vk1WdWNhV1cxUkpiZzB4b2ZQSUhEd3A5ZkVoakxZaEhra0JWcE9nUU9QUXZfQkRLQQ?oc=5",
+      "publishedAt": "2026-09-14T22:51:02+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-world-cup-puts-players-in-shop-window-as-transfer-spending-soars-friends-of-football",
       "title": "转会支出飙升，世界杯让球员们走进商店橱窗 - 足球之友",
@@ -18,18 +78,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSzRYTjBCVjIwY3JMZDJxMUVha3NDNTJFTnN4NlBFMkJGbk1uTUYxM0MxSDJVWmxQMlBleDZkUzJkVWI4RXJOeHVRUHhNeF9Jc25wUklrbThKT2RjQTdmbUJZamtCVTFkd18yTkdZZ25WaDdxX1RyV2xmbXFfZFF6VDBkcTl1ZTJMa3NZdlVFeDFHUjRqOUtlOTlqVlJZNEJKell4S0Q2WWF4eTRrV3JwWWJ3?oc=5",
       "publishedAt": "2026-09-14T22:19:04+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-how-to-watch-the-2026-fifa-u-20-women-s-world-cup-live-without-cable-even-for-free-pcmag",
-      "title": "如何在没有有线电视的情况下观看 2026 年 FIFA U-20 女子世界杯直播（甚至免费） - PCMag",
-      "summary": "如何在没有有线电视的情况下观看 2026 年 FIFA U-20 女子世界杯直播（甚至免费） PCMag",
-      "originalTitle": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free) - PCMag",
-      "originalSummary": "How to Watch the 2026 FIFA U-20 Women's World Cup Live Without Cable (Even for Free)  PCMag",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQRmNPZUZHc0tKOHBIY2tXWE1qRzVTMXV6a29PTmVVbXVkaFJXZVZOazlXdERvTzhfNkF0M0I4RGRPQjE0YUtiRkJfYi1fNzBfM3pWZU85c2l1MEpOa3hMZE8xcTlpY0l0UHprMDE2ZUcyQ0xBU1FBVHZ6UE1tWnFCNmo5Ui1jWXo3cmFSdlptaHFmVTNEWEdZaEdHaFk?oc=5",
-      "publishedAt": "2026-09-14T22:13:54+00:00",
-      "heat": 68
     },
     {
       "id": "google-news-comparing-kylian-mbappe-and-lamine-yamal-stats-as-both-lay-claim-to-2026-ballon-d-or-legit-news",
@@ -68,6 +116,42 @@
       "heat": 52
     },
     {
+      "id": "google-news-estadio-akron-receives-commemorative-plaque-for-the-2026-fifa-world-cup-chivas",
+      "title": "阿克伦体育场获得 2026 年 FIFA 世界杯纪念牌 - Chivas",
+      "summary": "阿克伦体育场荣获 2026 年 FIFA 世界杯芝华士纪念牌",
+      "originalTitle": "Estadio AKRON Receives Commemorative Plaque for the 2026 FIFA World Cup - Chivas",
+      "originalSummary": "Estadio AKRON Receives Commemorative Plaque for the 2026 FIFA World Cup  Chivas",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdE05bkoxUXBwdENPaTNHQ0ZJd1NmMVdvNnM5Q3pac0szNGk4SE02RmtQa21ENTZmc2szNGxIcnowWHo0T3BwT1BzOG8yNTdGcFpXbkRBUWdpWjdLZ05WbnRtaXlxUWdoa0dEMGpYdXJ6bzNhWTBpUl9Wb0hDRVJyTkctLUZ5ZWxBdl9UWEI2eW9zUlR5QTQydGwtdGg3dHZQVnNtWXE5TWw5amRSZWtTM1VIX0ZOTVk4TG5HMGt6RVFtNXJ0X1VHMzhWUUJkNUY4?oc=5",
+      "publishedAt": "2026-09-14T20:33:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-mbappe-penalty-sends-france-past-paraguay-into-quarter-finals-ddnews-gov-in",
+      "title": "2026年世界杯：姆巴佩点球帮助法国队击败巴拉圭队进入四分之一决赛 - ddnews.gov.in",
+      "summary": "2026 年 FIFA 世界杯：姆巴佩点球帮助法国队击败巴拉圭队进入四分之一决赛 ddnews.gov.in",
+      "originalTitle": "FIFA World Cup 2026: Mbappe penalty sends France past Paraguay into quarter-finals - ddnews.gov.in",
+      "originalSummary": "FIFA World Cup 2026: Mbappe penalty sends France past Paraguay into quarter-finals  ddnews.gov.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQMDhLU1M0QzVITGVxRXU0RFNQZXRrenZWa1M2S3BfTkxrcnkzbFBVNVZ4cjVURHZzQ2kxbHNEY1dHRENFb2UtVENqR0c2NUxHZDNmeFprcGRISU1ubEhCLU9zMlZrUWdPVUo5TFpmaS1jemg3dUJ0MEZEbjdaYlp2c2N5Um41X3Vabk5mSG50Wk9GenpJZl8tdUZnbGhBWU1PcXB0YUxtb0lGSTA?oc=5",
+      "publishedAt": "2026-09-14T19:15:49+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-destiny-18-years-after-iconic-photo-messi-yamal-to-square-off-in-final-ddnews-gov-in",
+      "title": "2026 年 FIFA 世界杯：“命运”：标志性照片 18 年后，梅西和亚马尔将在决赛中对决 - ddnews.gov.in",
+      "summary": "2026 年 FIFA 世界杯：“命运”：标志性照片 18 年后，梅西与亚马尔将在决赛中对决 ddnews.gov.in",
+      "originalTitle": "FIFA World Cup 2026: “Destiny”: 18 years after iconic photo, Messi-Yamal to square off in Final - ddnews.gov.in",
+      "originalSummary": "FIFA World Cup 2026: “Destiny”: 18 years after iconic photo, Messi-Yamal to square off in Final  ddnews.gov.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdDgzZnBJLTRqS0J2aVNEMm5oNXRsTnJvTjdOelF0bVhHNVM1cG1wMW02ekVPbjdGMkJsYnNidjB0N2FMY1VseGstZDRnUnpoQnZsUWNqdEZ6V1drRWpiaVU5M0VqdExUZTIxMy13X2dDX0RGMVJPcHhvS3ZwajVSdHhJRkN3Ul9zTjV3WkdveDhlekQ0dkR3b2liRE10MUpGcmh0bEl0Z0FNSmRGeThXNXNtTUIxd00?oc=5",
+      "publishedAt": "2026-09-14T19:10:52+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-为什么丁巴克没有被禁赛参加2026年国际足联东盟杯-vietnam-vn",
       "title": "为什么丁巴克没有被禁赛参加2026年国际足联东盟杯？ - Vietnam.vn",
       "summary": "为什么丁巴克没有被禁赛参加2026年国际足联东盟杯？  Vietnam.vn",
@@ -78,6 +162,18 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOelVlVmNZX3RuRGtPMDlhMUFiVEZnUTYtZEttSGJVdC00UHV2eld6ODlCU1RDXzZRSGc4R0piU1owUE1VOWJ5cTFPMmd0TWI3M0Z0U3FESGZVQWxsdnJ5Y0xTNDFYY2UybzFIMENya19FdV9jcmRkbU1wUE0zNnQtT0NWTWg3M3YxNnFTYg?oc=5",
       "publishedAt": "2026-09-14T19:05:14+00:00",
       "heat": 44
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-south-africa-hold-czech-republic-1-1-to-stay-in-knockout-hunt-ddnews-gov-in",
+      "title": "2026 年世界杯：南非 1-1 战胜捷克，晋级淘汰赛 - ddnews.gov.in",
+      "summary": "2026 年 FIFA 世界杯：南非 1-1 战胜捷克共和国，晋级淘汰赛 ddnews.gov.in",
+      "originalTitle": "FIFA World Cup 2026: South Africa hold Czech Republic 1-1 to stay in knockout hunt - ddnews.gov.in",
+      "originalSummary": "FIFA World Cup 2026: South Africa hold Czech Republic 1-1 to stay in knockout hunt  ddnews.gov.in",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdUYyYzZLR0hIYUxybDN6OEo0dHpKNmN0elZPN1JYVTFYUjFQM01qdHNSM0dGOGxrekI4WG8tVjA5c3Y4WEdOT1k0VzkwOG1YQkFMQlRWc1NrbFU5R3llM3R0ZUJwcUIxMGN6MjNTUmItUUpRMDJHUzNoNTFTeTZBT29hdDFlbnRrTXZLTUthUUVoSGl3cGhOX3VsVnVtM1VueFRxS0tIZmFubW8?oc=5",
+      "publishedAt": "2026-09-14T18:52:09+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-u-s-u-20-wnt-to-face-brazil-after-building-momentum-in-world-cup-group-play-us-soccer",
@@ -104,16 +200,16 @@
       "heat": 44
     },
     {
-      "id": "google-news-it-s-been-our-dream-forever-how-lay-s-replay-took-young-players-from-local-pitches-to-the-2026-world-cup-liv",
-      "title": "“这是我们永远的梦想” - Lay 的 RePlay 如何将年轻球员从当地球场带到 2026 年世界杯 - LiveScore",
-      "summary": "“这是我们永远的梦想” - Lay 的 RePlay 如何将年轻球员从当地球场带到 2026 年世界杯",
-      "originalTitle": "‘It’s been our dream forever’ - How Lay’s RePlay took young players from local pitches to the 2026 World Cup - LiveScore",
-      "originalSummary": "‘It’s been our dream forever’ - How Lay’s RePlay took young players from local pitches to the 2026 World Cup  LiveScore",
+      "id": "google-news-argentina-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka",
+      "title": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 - Squawka",
+      "summary": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 Squawka",
+      "originalTitle": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis - Squawka",
+      "originalSummary": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQNjdNSlNBdTRYdXM3a1pnZk9nMXFtSGYxRGNMdE5YOE5LSklpeTdOQU5nUXllbnJyai1QQVl5NUtlLVBCLWVlWkNYWjdLMWtSS2lFZzVVNFA1MTY0SXY5QTNoWWZLeE5RQlNxQm5pXzhvMlRnMzQ5Y1VGZFZvbWw3ME9BWGo1OHlxTllNT042VU5GajktQVJNMFNsckhhRVJmUUxMWm9qSldFSTlpZE5pc3d5WEhsbDRkRVhHTENuaDRRNzN1cmJTcXFBVjBtamNTb3hqMlN3SzFSc1dtSnkwX1JiQURiaXBPU2J1eQ?oc=5",
-      "publishedAt": "2026-09-14T17:57:04+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
+      "publishedAt": "2026-09-14T18:02:28+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-ghana-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka",
@@ -125,102 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNUGdkT3Vpc1pJU3psa0ZjbmRDcUdpU29TcUFKRnRfUG52RW5EemNncWI4Tl9fT3BEekR4SU5mV1BTRFh4YU5EdFJjNHJTdllzQ3pQODNxZWpOS2QwV25IazhMZ25idXVURm1TMTB3c3g4QzlacFFqZG9NNzBxUWVFcU1KWFRlX28tSEE?oc=5",
       "publishedAt": "2026-09-14T17:56:53+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-it-s-been-our-dream-forever-how-lay-s-replay-took-young-players-from-local-pitches-to-the-2026-world-cup-goa",
-      "title": "“这是我们永远的梦想”——Lay 的 RePlay 如何将年轻球员从当地球场带到 2026 年世界杯 - Goal.com",
-      "summary": "“这是我们永远的梦想”——Lay 的 RePlay 如何将年轻球员从当地球场带到 2026 年世界杯 Goal.com",
-      "originalTitle": "‘It’s been our dream forever’ - How Lay’s RePlay took young players from local pitches to the 2026 World Cup - Goal.com",
-      "originalSummary": "‘It’s been our dream forever’ - How Lay’s RePlay took young players from local pitches to the 2026 World Cup  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPOEV5amRoSDlCVktZSENqb0p1NkZDNmNBWnhka0NiVXV0ZGtsX1ZDNjNIWlA4cmI4YUVkQ0hPdm1zUVFCeUpYbzFKZkJnQW54MFdiVkJfUTZBS0VPQVVxWk1DbzQ4TGFubzhCVW9uS2xKRGtMWVNVc0loaU1acEVBdjBxUzlwZ2NlYVBSQm43QVJiNXNqaVgxMGs2T1Roc3VsYnk4bmdpRjVxa2FxYXA2WllxMzFhRlRHVnM5c2JoUEtGMFNXTUFJbURvMHdUNG13dVF5NjJMZHlRcFhES0gtWXFyNjB4MmpuRnJ5Vw?oc=5",
-      "publishedAt": "2026-09-14T17:46:33+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-efl-at-world-cup-2026-which-players-from-outside-the-premier-league-could-feature-this-summer-squawka",
-      "title": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？ - 斯夸卡",
-      "summary": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？  斯夸卡",
-      "originalTitle": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer? - Squawka",
-      "originalSummary": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OaThLR0YwSjdyMExlZVFVQ3lxSms0enV4a1NIMEMyYkcyaVNYbEFjbk5uZFhPM2ZQWHhmYUFPOVZ0dnFyQTVxMGptR1VXc0VmNVl5Wl9FZFhzdTQyMEJ3cVM0WmxRZ3Fra0xsdktvNFEyeEJs?oc=5",
-      "publishedAt": "2026-09-14T17:00:12+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-africa-s-2026-world-cup-qualifying-campaign-produced-a-historic-final-line-up-pm-news-nigeria",
-      "title": "非洲2026年世界杯预选赛产生了历史性的决赛阵容 - 尼日利亚总理新闻",
-      "summary": "非洲 2026 年世界杯预选赛产生了历史性的决赛阵容",
-      "originalTitle": "Africa’s 2026 World Cup qualifying campaign produced a historic final line-up - PM News Nigeria",
-      "originalSummary": "Africa’s 2026 World Cup qualifying campaign produced a historic final line-up  PM News Nigeria",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdFVHeEsxQjBwV1ZiWTQ2SmJyZlMtS3VtQlRReXluTEtJT2w4SldBWmhTQ0k4N0RpWnc2aXV3WXIyQzNmc3AwZ253Z2VxZ0pVakJydG0zUDllcDYxNlQxN1l6ckx0ZnRCakg4UWdrWFRaLVZqME5QdVV1UUxERUU5WnRZSmVwUGdGb0M4TTJGWUV4LUFrSC1LTFN6NWZ2ZDhsTktIT0FpUDFxZWc0RzdxdEtvalM?oc=5",
-      "publishedAt": "2026-09-14T16:09:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
-      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
-      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
-      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - Yahoo Creators",
-      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  Yahoo Creators",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0xcmp3T3MxTHJGMjBVXzJlNGc1Ump2dHRYNjdKS2o5RlItNmRldUNPTTZ0VHZhckJMaXlDejUwUGpNc1hQaFVtU2toeVdENkxuR05kZy00QkNISEViS19GY0EzVERBUGpkNDhHRjNiSEx5MjJ4Vi1YUk5SOGpsSzlKN0Zkb21mMjFVZHE2eW1lUjdpUG5GMTBQQWstZVEtOXVIZURmR0FRTDZMZG1fUDFoY21yMHVkbkdqejZJZlZkUWN4ZUptNGktamNPc1kxVENBRDl0UTQxSkk?oc=5",
-      "publishedAt": "2026-09-14T15:51:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-09-14T15:30:46+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-chelsea-international-call-ups-and-schedules-for-september-2026-news-official-site-chelsea-football-club",
-      "title": "2026 年 9 月切尔西国际队征召和赛程表 |新闻 |官方网站 - 切尔西足球俱乐部",
-      "summary": "2026 年 9 月切尔西国际队征召和赛程表 |新闻 |官方网站 切尔西足球俱乐部",
-      "originalTitle": "Chelsea international call-ups and schedules for September 2026 | News | Official Site - Chelsea Football Club",
-      "originalSummary": "Chelsea international call-ups and schedules for September 2026 | News | Official Site  Chelsea Football Club",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNnZMY1M4aFRtelNkWW1rWmVndUsxR2E5TlF3OEotdlIxeXlKZ2V3b0NCcmRDR0Y5R3Z1bHJTSkRpOGFqQjEwMkpxbEdsOFVWZWJpWFZkbDQ1RGRvN2l1RElVNVM2Z05MU0hFS09ZdGZXbXhnU0YzRmhiUkpPYkNESUtIZmVIb3BQUFdzNDZJZkNmZ0h0RjFZZ1N1ZjJnQ1lKX0tIcXhkcUU?oc=5",
-      "publishedAt": "2026-09-14T14:45:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-norway-world-cup-2026-route-to-final-next-match-and-tactical-analysis-squawka",
-      "title": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 - Squawka",
-      "summary": "2026 年挪威世界杯：决赛之路、下一场比赛和战术分析 Squawka",
-      "originalTitle": "Norway World Cup 2026: Route to final, next match and tactical analysis - Squawka",
-      "originalSummary": "Norway World Cup 2026: Route to final, next match and tactical analysis  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOSE0zVW1yOGRuODM2ZEtQSFRyLTc4dHhjYnhDMHh6eHFoXzNaU1BZd2J0UG5jdXhQX3lTbGxDRHpkaVJ4cjN6T2w1YTJaS2kyVmFlanlfSFJySFo1UnBxT2FoSURIMmR4eG14bUJlNkp4NVRlTFJ2YTY5QU51VEJrcW1jZ2tnQQ?oc=5",
-      "publishedAt": "2026-09-14T14:41:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-atlanta-hotel-occupancy-dipped-this-summer-during-world-cup-new-data-show-ajc-com",
-      "title": "新数据显示，今年夏天世界杯期间亚特兰大酒店入住率下降 - AJC.com",
-      "summary": "新数据显示，AJC.com 今年夏天世界杯期间亚特兰大酒店入住率下降",
-      "originalTitle": "Atlanta hotel occupancy dipped this summer during World Cup, new data show - AJC.com",
-      "originalSummary": "Atlanta hotel occupancy dipped this summer during World Cup, new data show  AJC.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbmprZU16YmNjQnZ2eXllRzEzcEdLNVMzd21IczM1eDFPYlpiQ05hVTJCdDVYUl9NVDBmaTZNR3V4M3VuWmJlM3hxeFdoVFRCU244NGVVbVhqZVhSeFVzdWpfRnlfX2NpU1ZjemNkeEkxbFE4R0FQaTh6UXdmSU9WQ3RlMmpGdU9uWkxib2FVczRtd19NWlowVDZfNE5VczRDRWpZ?oc=5",
-      "publishedAt": "2026-09-14T14:10:49+00:00",
       "heat": 52
     }
   ]
