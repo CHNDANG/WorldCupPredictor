@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-17T00:14:22.077255+00:00",
+  "updatedAt": "2026-09-17T05:10:40.628343+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,11 +8,59 @@
   ],
   "articles": [
     {
+      "id": "google-news-when-s-the-next-england-game-at-the-2026-world-cup-paddy-power-news",
+      "title": "2026 年世界杯英格兰队的下一场比赛是什么时候？ - 稻田动力新闻",
+      "summary": "2026 年世界杯英格兰队的下一场比赛是什么时候？  稻动力新闻",
+      "originalTitle": "When’s the next England game at the 2026 World Cup? - Paddy Power News",
+      "originalSummary": "When’s the next England game at the 2026 World Cup?  Paddy Power News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9Tb3h0MW1qekJ1T0swVjhnTXF3dzRfa2VXRk8tSW9NRUVOTmQxU2ZwbkgxejI0cGp5S3RlOTY4dWRpYjF1TXdKVktQQ09FMWJGcHFzNXZBSEJTdF9DWnR4cFlkejNiS0dsczk0RFdkQm8tdHpx?oc=5",
+      "publishedAt": "2026-09-17T03:13:20+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-luis-de-la-fuente-extends-spain-contract-to-2032-china-org-cn",
+      "title": "路易斯·德拉富恩特与西班牙队续约至2032年-新华网",
+      "summary": "路易斯·德拉富恩特与西班牙队续约至2032年",
+      "originalTitle": "Luis de la Fuente extends Spain contract to 2032 - China.org.cn",
+      "originalSummary": "Luis de la Fuente extends Spain contract to 2032  China.org.cn",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB6LXl6MG5JUmhQNkswT1UweHQ3VWp1RFVIVTlPcm9velc4MEtxTFdwQVN2M2dZR2Vzb0hCV0VybUl1ZDdoTVFJZ1AzTXE0cTVpY2xHbmNIUHZGYzN6NGhKS29ybWxuem5OWFE?oc=5",
+      "publishedAt": "2026-09-17T02:29:31+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-timeline-of-nepali-football-from-founding-of-anfa-to-the-june-24-fifa-suspension-nepalnews-com",
+      "title": "尼泊尔足球的时间轴：从ANFA成立到6月24日国际足联暂停_尼泊尔新闻网",
+      "summary": "尼泊尔足球的时间表：从 ANFA 成立到 6 月 24 日 FIFA 暂停 Nepalnews.com",
+      "originalTitle": "Timeline of Nepali Football: From Founding of ANFA to the June 24 FIFA Suspension - Nepalnews.com",
+      "originalSummary": "Timeline of Nepali Football: From Founding of ANFA to the June 24 FIFA Suspension  Nepalnews.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQd1ptZ3NZTmZnempyRUR5b29BdTVGeUVyQ1hzSlZTZ1N0NFRaY3NyaDkzTk90LU13d2oyTmFQRHpOd0xHSTVpQTF6cXRYcS1NZko2dmcweFJyYS02eXNoeE9fUC1YODJ1clRmcThRYkltazdTZFJDNGJlTGpIRDBiZDF1WGVnR2tsREF2NnJaeE1YNTJxQ1RjMkxVYWpoOVI1SWxPTEIxZjJXQTlZOEdxZ0pqS2Q3dEZfamlpZQ?oc=5",
+      "publishedAt": "2026-09-17T01:53:23+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-09-17T00:42:17+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-world-cup-fan-freddy-back-in-u-s-stops-in-west-memphis-wreg-com",
-      "title": "世界杯球迷“弗雷迪”回到美国，在西孟菲斯停留 - WREG.com",
-      "summary": "世界杯球迷“弗雷迪”回到美国，在西孟菲斯停留 WREG.com",
-      "originalTitle": "World cup fan ‘Freddy’ back in U.S., stops in West Memphis - WREG.com",
-      "originalSummary": "World cup fan ‘Freddy’ back in U.S., stops in West Memphis  WREG.com",
+      "title": "世界杯球迷“弗雷迪”回到美国，在西孟菲斯停留 - wreg.com",
+      "summary": "世界杯球迷“弗雷迪”回到美国，在西孟菲斯停留 wreg.com",
+      "originalTitle": "World cup fan ‘Freddy’ back in U.S., stops in West Memphis - wreg.com",
+      "originalSummary": "World cup fan ‘Freddy’ back in U.S., stops in West Memphis  wreg.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV25QYy0xWTE2NFM3VDVnajhpU25qTHZWZXd6ZjFhdUtpRkFaQzhYVW9kR0dyS243U2xjWS1DYkxJUm02Y2JmMi1EYWJrRUczT21NOEVWc2lDMF9NM1Y0MFFRYS1WRFNtVHM2em5GZ1pxcGgwckNONmxIZ0xJblNZaUtvMNIBiAFBVV95cUxPZ3VMWS1pWFBOOFpGei1ESWxpZ2Jnb3kzQkNFdGp2TWlwRHIxcmpNa2ItbkJJRWw3TUhGNzJicTZlQ2FFTVlJYjAxN3FyVHpsOG1Qdk9HeGEzOEZjZV9PdU1FTTdoaGJaQXRvZElQRWFSYnlJY0Rsd3FjckQ5bmJMSDdvZDlBaE42?oc=5",
@@ -56,16 +104,16 @@
       "heat": 44
     },
     {
-      "id": "google-news-joao-pedro-suffers-injury-setback-ahead-of-brazil-return-following-ancelotti-s-2026-world-cup-snub-world-soc",
-      "title": "安切洛蒂缺席 2026 年世界杯后，若昂·佩德罗在巴西回归之前遭遇伤病 - 世界足球谈话",
-      "summary": "安切洛蒂冷落 2026 年世界杯后，若昂·佩德罗在巴西回归之前遭遇伤病 World Soccer Talk",
-      "originalTitle": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti’s 2026 World Cup snub - World Soccer Talk",
-      "originalSummary": "Joao Pedro suffers injury setback ahead of Brazil return following Ancelotti’s 2026 World Cup snub  World Soccer Talk",
+      "id": "google-news-how-to-watch-the-2026-campeones-cup-game-live-even-for-free-pcmag-australia",
+      "title": "如何观看 2026 年 Campeones 杯比赛直播（甚至免费） - PCMag Australia",
+      "summary": "如何观看 2026 年 Campeones 杯比赛直播（甚至免费） PCMag Australia",
+      "originalTitle": "How to Watch the 2026 Campeones Cup Game Live (Even for Free) - PCMag Australia",
+      "originalSummary": "How to Watch the 2026 Campeones Cup Game Live (Even for Free)  PCMag Australia",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQUEhHRzNLRGFLbjhOZzR2MDllVVNYRHgxa2J6UzZ5Y2xLUm5NZlVBTlZ2by1zbmpoLUpYX2UzNW5Sd281VkRDS3B1cjNFaFBqbkVWd3lfbXFYanZkWF9La21tRk91UXgyZFlsclpWcHNrb2F0OGZsWERoMmp4bEY1dDZ0S25JTjdGaFpGck12a3NnZ0NMcmdqQmoxTHg1TmF5Z2RYWkN3bHZFY19Zel9hTlNmVGFyV2hrejF1MjRrZ2hYdHBIUVVpX3B5RdIBzwFBVV95cUxNUDZtMjYyMTVvUHNIRXh1MlpJbDZnVjR5YkU2TU5Pa2JRQzl0anpqbVlBTVY4MzJuay1TYnB5a3lEaldzYlE5OUdMczJJQ2h5ZkJhemJNNEtDcjIzR2EwZUktUU9wRWMxR1g1bDRya2M1U2dpa2N5RmJmM01EVTNlcm1qX2JBcnJucl85Wm1OMnRObld0MXk1ODJjaEk1dXhrQUxSMVQ5VjcxRFFPb3ptWlIzWUE4THFTSzhMaHBQU2p0czJ0YlZud3MzMTVJS0k?oc=5",
-      "publishedAt": "2026-09-16T21:04:45+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNLXk3RnJwb0hFUFZnSkxoRFluYUgwbGtRcXJHQjdqb0lQY2tqQzV5dDIxczJVUFV0LUtTQTFxc2JMOVFzcWktSC15RDBmZlRBNllBQ1VLenFndi10OFpMZnFIRjZNWHZCeFJOemVWaXFMZWN6c3RtS1VZXzZHSkg0UUFOV1JGcm92OGVSbDE3S2FNak1tcUxiVVlzcHFvbXVCajZQREVtZWxTMGJaOFE1end3?oc=5",
+      "publishedAt": "2026-09-16T21:07:13+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-luis-de-la-fuente-renews-spain-s-contract-after-world-cup-triumph-notjustok",
@@ -92,11 +140,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-will-lionel-messi-play-at-the-2026-world-cup-squawka-com",
-      "title": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？ -squawka.com",
-      "summary": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？  squawka.com",
-      "originalTitle": "Will Lionel Messi play at the 2026 World Cup? - squawka.com",
-      "originalSummary": "Will Lionel Messi play at the 2026 World Cup?  squawka.com",
+      "id": "google-news-will-lionel-messi-play-at-the-2026-world-cup-squawka",
+      "title": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？ - 斯夸卡",
+      "summary": "莱昂内尔·梅西 (Lionel Messi) 会参加 2026 年世界杯吗？  斯夸卡",
+      "originalTitle": "Will Lionel Messi play at the 2026 World Cup? - Squawka",
+      "originalSummary": "Will Lionel Messi play at the 2026 World Cup?  Squawka",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdU5WQTZid0tlVWhta0RQVlZVWHpQT2s2MUN2MW9WR0ZjNnFRR215ZjdTd1JMNkd6MzFRRFdWcmNfb0VlYTA2ei15cDduX3lOc3V6NDlySlRQS3ctaXZjSHNDUWNqTFpSR0o2RnY2cUVNU1djaU5HZXgzVkhUVXU2ekJCcWNieXlfLVEtaVRQaXA?oc=5",
@@ -116,11 +164,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-scotland-to-win-world-cup-2026-odds-outright-odds-and-top-goalscorer-odds-squawka-com",
-      "title": "苏格兰赢得 2026 年世界杯赔率：总冠军赔率和最佳射手赔率 - squawka.com",
-      "summary": "苏格兰赢得 2026 年世界杯赔率：总冠军赔率和最佳射手赔率 squawka.com",
-      "originalTitle": "Scotland to win World Cup 2026 odds: Outright odds and top goalscorer odds - squawka.com",
-      "originalSummary": "Scotland to win World Cup 2026 odds: Outright odds and top goalscorer odds  squawka.com",
+      "id": "google-news-scotland-to-win-world-cup-2026-odds-outright-odds-and-top-goalscorer-odds-squawka",
+      "title": "苏格兰赢得 2026 年世界杯赔率：总冠军赔率和最佳射手赔率 - Squawka",
+      "summary": "苏格兰赢得 2026 年世界杯赔率：总冠军赔率和最佳射手赔率 Squawka",
+      "originalTitle": "Scotland to win World Cup 2026 odds: Outright odds and top goalscorer odds - Squawka",
+      "originalSummary": "Scotland to win World Cup 2026 odds: Outright odds and top goalscorer odds  Squawka",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4yMU8tOVFIaGtqUnZ2U3dPN1NLbjE0N0U0T3FYTTNxdGdNVUxwbE5teXhBRmtvVndtM0pxYWpOOGtPUzBmaWVwZ0N5UGRaMG5zcWQxQmljUFFkdXpDSUZZLTVDNnY5d0NuZzY1dFpxMVl0d04ycGJrOUdPWDc5Zw?oc=5",
@@ -152,11 +200,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-most-chances-created-at-world-cup-2026-squawka-com",
-      "title": "2026 年世界杯创造的最多机会 - sqawka.com",
-      "summary": "2026 年世界杯创造的最多机会squawka.com",
-      "originalTitle": "Most Chances Created at World Cup 2026 - squawka.com",
-      "originalSummary": "Most Chances Created at World Cup 2026  squawka.com",
+      "id": "google-news-most-chances-created-at-world-cup-2026-squawka",
+      "title": "2026 年世界杯创造的最多机会 - Squawka",
+      "summary": "2026 年世界杯创造的最多机会 Squawka",
+      "originalTitle": "Most Chances Created at World Cup 2026 - Squawka",
+      "originalSummary": "Most Chances Created at World Cup 2026  Squawka",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVjFXT3c2UVVhcnB5RGpfUXBObzk3MlJVcXEwTndOcmhXbHU2SWJtdG41Rm5GTzk3WHVfbncxenZta1QyTTJJbmxmQ1hWWFh3TFBrWFZ6aEpXX1l3T0RBNVB6REkyT0Z1MkMySjNuVVdUY1RTenhFdzNic1ZZOWdnNnN3NHhIeVpuVTB3WDNWYw?oc=5",
@@ -164,63 +212,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-mls-not-seeing-immediate-post-world-cup-attendance-bump-sports-business-journal",
-      "title": "美国职业足球大联盟(MLS)世界杯后观众人数不会立即增加 - 体育商业杂志",
-      "summary": "美国职业足球大联盟 (MLS) 世界杯后上座率不会立即大幅上升 《体育商业杂志》",
-      "originalTitle": "MLS not seeing immediate post-World Cup attendance bump - Sports Business Journal",
-      "originalSummary": "MLS not seeing immediate post-World Cup attendance bump  Sports Business Journal",
+      "id": "google-news-world-cup-2026-player-stat-leaders-who-led-the-key-metrics-squawka",
+      "title": "2026 年世界杯球员统计数据领先者：关键指标谁领先？ - 斯夸卡",
+      "summary": "2026 年世界杯球员统计数据领先者：关键指标谁领先？  斯夸卡",
+      "originalTitle": "World Cup 2026 player stat leaders: Who led the key metrics? - Squawka",
+      "originalSummary": "World Cup 2026 player stat leaders: Who led the key metrics?  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUHlKSFRaSHc2VXNtc1Y5LTFMaXc1QTB1LVdnbUdYcDJvV3VsTmc4cFNFRV9oVUxQeG9EdW5mOUt0aWJoS0t5WV9ZLTh3M2pKc1Jza1dwV1RzSzQxdUhMZ0JaU3U1cGlxVTJ5THFrZVk0NGxTcnVvc2hKbVZFRzFSUjJCX1U2cmt6MXcteUtKYS1HdXYzQjJVM2tmOHJyRWVqakc2REMwUnY5cTVqYkVwLU52NE0?oc=5",
-      "publishedAt": "2026-09-16T16:44:52+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka-com",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ -squawka.com",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  squawka.com",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - squawka.com",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  squawka.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
-      "publishedAt": "2026-09-16T16:43:51+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-dr-congo-world-cup-2026-route-to-the-final-manager-squad-depth-and-tactical-analysis-squawka-com",
-      "title": "2026 年刚果民主共和国世界杯：决赛之路、主帅、阵容深度和战术分析 - sqawka.com",
-      "summary": "2026 年刚果民主共和国世界杯：决赛之路、主帅、阵容深度和战术分析 squawka.com",
-      "originalTitle": "DR Congo World Cup 2026: Route to the final, manager, squad depth and tactical analysis - squawka.com",
-      "originalSummary": "DR Congo World Cup 2026: Route to the final, manager, squad depth and tactical analysis  squawka.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOR21NTkg5Ti0zTkN4RGZVUkZZM1dUOHJ3MG9sVjM2cG1iQWQwbWhVLXl2OTl6WXRTOFdVR3ZERHJaNV9tOHNBUUZtMlVqMkNVY0lORDNTMkNUOVhoc3lCWndvenFrS1I4dG9Kb0xBMklRaVlVTHdCMDV3YUNBbktIZ0FvRTBfdGUtMjJIVnlB?oc=5",
-      "publishedAt": "2026-09-16T16:05:53+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-world-cup-2026-route-to-the-final-results-next-match-and-tactical-analysis-squawka-com",
-      "title": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 - sqawka.com",
-      "summary": "2026 年阿根廷世界杯：决赛之路、结果、下一场比赛和战术分析 squawka.com",
-      "originalTitle": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis - squawka.com",
-      "originalSummary": "Argentina World Cup 2026: Route to the final, results, next match and tactical analysis  squawka.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPc2NwOUg1SndvWFhBYVlPZ2J1SjlOeDdVSGVyWFU5ZVQxVEF5SDBna1JBZUtUenVNMUk3eVQ5ZU9naTBZNVROV2xuMTlZVlNKSWUzVnVuTTFQeG52NVNEelBvWnNQVkNiNm9pZGxfOF9uLWV1RFc4SkNkUUYzbm5lc05Bd2taeEJuQm1pLTRQSVE0N210aUhn?oc=5",
-      "publishedAt": "2026-09-16T15:39:05+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ivory-coast-world-cup-2026-route-to-the-final-and-tactical-analysis-squawka-com",
-      "title": "2026 年科特迪瓦世界杯：决赛之路和战术分析 - sqawka.com",
-      "summary": "2026 年科特迪瓦世界杯：决赛之路和战术分析 squawka.com",
-      "originalTitle": "Ivory Coast World Cup 2026: Route to the final and tactical analysis - squawka.com",
-      "originalSummary": "Ivory Coast World Cup 2026: Route to the final and tactical analysis  squawka.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOaDhhSmFnR0g3clNGOGxwdUdOLVF4UmF5M2xUZXB2Y0pXVjc3VEFkNVdKU0VUdzVuTFNsaDg1VFhZUDVlZzdleXM5SnZsWEc5SHlTMkpTcDJGTmRUbDFBMlVqa0R5RFJXNDREdHl0ejdWNzhEOTVKdmMwTTk3c0RyR0FfcEN2enRUUFl2V3BjcDczUQ?oc=5",
-      "publishedAt": "2026-09-16T15:28:40+00:00",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1IUEFPSDdJOG1yVlVER2ZxVmx0ZDB3eGtqMWJ0dHVOVDVHUk12SzVfS25OZVFoeEtQQUFMbXczSVgzeUhiY2FTbWRlNjdLT1VBdmF0TjNIaXJtSDIyLTJ2TjlOUzU2S1d3TkxXV2pwdGxYM3RGUzNrOUxsMEc?oc=5",
+      "publishedAt": "2026-09-16T16:55:37+00:00",
       "heat": 52
     }
   ]
