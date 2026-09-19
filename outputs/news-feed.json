@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-18T23:32:43.024455+00:00",
+  "updatedAt": "2026-09-19T04:02:54.889400+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-quarterfinal-south-korea-vs-italy-live-stream-how-to-watch-2026-fifa-u-20-women-s-world-cup-fubo-tv",
+      "title": "四分之一决赛：韩国对阵意大利直播：如何观看 2026 年 FIFA U-20 女子世界杯 - fubo.tv",
+      "summary": "四分之一决赛：韩国对阵意大利直播：如何观看 2026 年 FIFA U-20 女子世界杯 fubo.tv",
+      "originalTitle": "Quarterfinal: South Korea vs. Italy Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup - fubo.tv",
+      "originalSummary": "Quarterfinal: South Korea vs. Italy Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup  fubo.tv",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNejRwbDdOWjNuYi1iQmYzeU0yVmJ4UWNuZm9lSTRXMTJSclFSZ0JqbDhiYXlYbkEwWXh4dG1kNUh1MmVYRE1ZT0k0RzhCU29IU1JxdUxMWVBtdlhLWHpPc3FlM0hxTmZybC14eGxBNWowQVltc3FtVFpUNUVFWE9LWmZsSG1wMGR5RGU0U3hBS0VleVl5dTVMOUZKallvWjVzaEFNTzhFdGhkS0lub0tHdXdPaWFNT2VTLTc5b3lYNUlJVTFNQkRLWFh3NUhzSWxtc2RMbXRsc0dhd1N6Mzl3NURR?oc=5",
+      "publishedAt": "2026-09-19T00:34:00+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-iraq-vs-oman-23-sep-2026-live-score-espn-singapore",
+      "title": "伊拉克 vs 阿曼 (2026 年 9 月 23 日) 实时比分 - ESPN China",
+      "summary": "伊拉克 vs 阿曼（2026 年 9 月 23 日）直播比分 ESPN 中国",
+      "originalTitle": "Iraq vs. Oman (23 Sep, 2026) Live Score - ESPN Singapore",
+      "originalSummary": "Iraq vs. Oman (23 Sep, 2026) Live Score  ESPN Singapore",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95T2ZjRXJWTFZSZ3lxMTRkY1hBT2VYX0ZhdkF4ZW54bm1NckgzRmozT2RyNE9pMmpHVVRlZFhzblFFS2h0S0hwNzFhN2pBUS1TMVV0WERkYmFkUERYZ3Zmd0xfSHM5c0h3NzM2ZzRqUzRnYklwcEc4?oc=5",
+      "publishedAt": "2026-09-18T23:26:03+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-越南国家队能否参加fifa东盟杯-一切都取决于教练金相植-vietnam-vn",
+      "title": "越南国家队能否参加FIFA东盟杯：一切都取决于教练金相植。 - Vietnam.vn",
+      "summary": "越南国家队能否参加FIFA东盟杯：一切都取决于教练金相植。  Vietnam.vn",
+      "originalTitle": "越南国家队能否参加FIFA东盟杯：一切都取决于教练金相植。 - Vietnam.vn",
+      "originalSummary": "越南国家队能否参加FIFA东盟杯：一切都取决于教练金相植。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYlBaRHNmZHFKeFowZEtiZFZCdGFsV3VrN0tTbFdDNVZUMFhvLTVwb1BMdUhaaTRuRFpxa1VIZHRkSWF1TVpLV0hXaWVnUllWNFo4T0V1MUQ1TXNuU2FHWm5yUFFuSDh1SVNXSWpTU2NrQWtNMVBUSnAxdlVqVlNxb25UWEtkVGx1a1B3ZlZSSVJHQmpGV3c?oc=5",
+      "publishedAt": "2026-09-18T22:59:28+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-brazil-vs-spain-preview-prediction-2026-fifa-u-20-women-s-world-cup-quarter-final-the-stats-zone",
       "title": "巴西 vs 西班牙预览与预测 | 巴西 vs 西班牙2026 年 FIFA U-20 女子世界杯 |四分之一决赛 - 统计区",
@@ -44,11 +80,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-spain-begins-a-new-era-luis-de-la-fuente-s-changes-after-the-world-cup-beinsports-com",
-      "title": "西班牙开启新时代：世界杯后路易斯·德拉富恩特的改变 - beinsports.com",
-      "summary": "西班牙开启新时代：世界杯后路易斯·德拉富恩特的变化 beinsports.com",
-      "originalTitle": "Spain Begins a New Era: Luis de la Fuente’s Changes After the World Cup - beinsports.com",
-      "originalSummary": "Spain Begins a New Era: Luis de la Fuente’s Changes After the World Cup  beinsports.com",
+      "id": "google-news-spain-begins-a-new-era-luis-de-la-fuente-s-changes-after-the-world-cup-bein-sports",
+      "title": "西班牙开启新时代：世界杯后路易斯·德拉富恩特的改变 - beIN SPORTS",
+      "summary": "西班牙开启新时代：世界杯后路易斯·德拉富恩特的变化 beIN SPORTS",
+      "originalTitle": "Spain Begins a New Era: Luis de la Fuente’s Changes After the World Cup - beIN SPORTS",
+      "originalSummary": "Spain Begins a New Era: Luis de la Fuente’s Changes After the World Cup  beIN SPORTS",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQRWN4UXdkOVgxeEg1VF9RbFFwMWVfNWNOVXFWSHQ2RmlSTzN6c0Qyb1ZPN0I0NGp5VUtnN2s2aTliWlVwYmpIMnFOdzhRUlBRYmx6OXRzaTJZdDlDVkNrVW9MdTdRTGtnMDBSMzlZY3g3VkY2WVNkRDJtd0IzNGR3SVJyN0ZfZjVfdW5VZlhxOE9yY1VZbUNHTkNHZjZibGwxaVNnV2FVbEJGR2V2c0dwUVNlc3ZzNE1UTlU0dl9XanpkRzNtaldSYWJfTzZlTDFvbVdjM3NIcXRxd0g2a0pzNzJ4aUM?oc=5",
@@ -56,15 +92,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-iraq-vs-oman-24-sep-2026-live-score-espn",
-      "title": "伊拉克 vs 阿曼 (2026 年 9 月 24 日) 实时比分 - ESPN",
-      "summary": "伊拉克 vs 阿曼（2026 年 9 月 24 日）直播比分 ESPN",
-      "originalTitle": "Iraq vs. Oman (24 Sep, 2026) Live Score - ESPN",
-      "originalSummary": "Iraq vs. Oman (24 Sep, 2026) Live Score  ESPN",
+      "id": "google-news-iraq-vs-oman-23-sep-2026-live-score-espn",
+      "title": "伊拉克 vs 阿曼 (2026 年 9 月 23 日) 实时比分 - ESPN",
+      "summary": "伊拉克 vs 阿曼（2026 年 9 月 23 日）实时比分 ESPN",
+      "originalTitle": "Iraq vs. Oman (23 Sep, 2026) Live Score - ESPN",
+      "originalSummary": "Iraq vs. Oman (23 Sep, 2026) Live Score  ESPN",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBiMm5TdUZnTnR1RnIxQ0h6X0twQnV5S1lJVm5jenNtNEUyRURkQXdqd0RaVnFmSlZBM28yWTZjekRCNGFkZzNUZjlwYUxyZVotdVhUcUd4anBScEhsZGI4SkpvQU8zRjd6WXgtSnpjbGp4WkZNa2c?oc=5",
-      "publishedAt": "2026-09-18T20:12:59+00:00",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5oVndqZjVWaEJNc1pOTmthaGlOM3l3cUJIRVVVbU9MczNaQVNQNlFfTFFOSGFqWlVQYktibkdIV3BHRE96ellXenFqQ2RNV1NCX2hTUi1zSTN2el81Y1ZLX0hBQ2ZMR3dsUVEtZE13NE90anhT?oc=5",
+      "publishedAt": "2026-09-18T20:13:18+00:00",
       "heat": 52
     },
     {
@@ -116,11 +152,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-minority-demands-answers-over-thomas-partey-s-denied-entry-to-canada-for-world-cup-opener-ghanaiantimes-com-",
-      "title": "少数派要求对托马斯·帕蒂被拒绝进入加拿大参加世界杯揭幕战一事作出答复 - ghanaiantimes.com.gh",
-      "summary": "少数派要求对托马斯·帕蒂（Thomas Partey）被拒绝进入加拿大参加世界杯揭幕战一事作出答复 ghanaiantimes.com.gh",
-      "originalTitle": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener - ghanaiantimes.com.gh",
-      "originalSummary": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener  ghanaiantimes.com.gh",
+      "id": "google-news-minority-demands-answers-over-thomas-partey-s-denied-entry-to-canada-for-world-cup-opener-ghanaian-times",
+      "title": "少数派要求对托马斯·帕蒂被拒绝进入加拿大参加世界杯揭幕战一事作出答复 - 加纳时报",
+      "summary": "少数派要求对托马斯·帕蒂（Thomas Partey）被拒绝进入加拿大参加世界杯揭幕战一事做出答复 加纳时报",
+      "originalTitle": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener - Ghanaian Times",
+      "originalSummary": "Minority demands answers over Thomas Partey’s denied entry to Canada for World Cup opener  Ghanaian Times",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOcnk5V3JDQ1dUT0NjQnJadlVrdHNVSXM0S2tSVzRxakkzRkhrY044VlE2SFlNUDBDZ2xzMW54LU44cXZTWVU2dDVnbU9idXhkQkE5Q05kLVl0dGdVc0xpOXNuS3NBWmdEQllOV1J6M3NTN0tweUptaUpVUlM1ZV94bkVkT1BYaVlnVzQyS0N1V2dpeVJaV1ZIdTJ4aGg1VnNtYVlMNUJpVUVXUkFoQUdlRUJPWGIxUk9Kd0E?oc=5",
@@ -129,10 +165,10 @@
     },
     {
       "id": "google-news-i-know-i-m-helping-the-team-massively-but-people-don-t-realise-that-lamine-yamal-reveals-his-role-in-spain-s",
-      "title": "“我知道我正在为球队提供巨大帮助，但人们并没有意识到这一点”——拉明·亚马尔透露了他在 FIFA 世界杯决赛中西班牙队获胜者中的角色 - sportskeeda.com",
-      "summary": "“我知道我正在为球队提供巨大帮助，但人们没有意识到这一点”- 拉明·亚马尔 (Lamine Yamal) 透露了他在 FIFA 世界杯决赛中西班牙队获胜者中所扮演的角色 sportskeeda.com",
-      "originalTitle": "\"I know I'm helping the team massively, but people don't realise that\" - Lamine Yamal reveals his role in Spain's winner in FIFA World Cup final - sportskeeda.com",
-      "originalSummary": "\"I know I'm helping the team massively, but people don't realise that\" - Lamine Yamal reveals his role in Spain's winner in FIFA World Cup final  sportskeeda.com",
+      "title": "“我知道我正在为球队提供巨大帮助，但人们没有意识到这一点” - 拉明·亚马尔透露了他在 FIFA 世界杯决赛中西班牙获胜者中的角色 - Sportskeeda",
+      "summary": "“我知道我正在为球队提供巨大帮助，但人们没有意识到这一点”- 拉明·亚马尔 (Lamine Yamal) 透露了他在 FIFA 世界杯决赛中西班牙队获胜者中所扮演的角色 Sportskeeda",
+      "originalTitle": "\"I know I'm helping the team massively, but people don't realise that\" - Lamine Yamal reveals his role in Spain's winner in FIFA World Cup final - Sportskeeda",
+      "originalSummary": "\"I know I'm helping the team massively, but people don't realise that\" - Lamine Yamal reveals his role in Spain's winner in FIFA World Cup final  Sportskeeda",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOblRWVFhMY2RadVA5RFBWTWRRYWIwUE9XdnhLOUZ3X1VCdG0zdFFrTElXQW5YSm1aRGtuaVJYdUJwcmdmSzJYeTFvVU1VMENuT2VwMjdzb0hiNXFpM1ZYX2Y2bXpBeUw2c3ctZ0Q3Y29NU053bjlxZUUxTTI0ODNfRVR1UFBoTEhEaXVvNG9ET3FsZTdLWE1PQW5ha1QxOGNUcC1LNmprVjcxYzB3NGdrejgzbC1qQ2o5aWhuemdJN3c2X3ZOcVZQdHFIa1pSenNFTlVRVkRUaXl4cklWand4UUg1d3pVRE94dmV5bFdn?oc=5",
@@ -142,7 +178,7 @@
     {
       "id": "google-news-thomas-tuchel-99-9-of-england-fans-do-not-discuss-tactics-from-semi-final-defeat-to-argentina-at-fifa-world-",
       "title": "托马斯·图切尔：99.9%的英格兰球迷不会讨论世界杯半决赛输给阿根廷后的战术 - TNT Sports",
-      "summary": "托马斯·图赫尔：99.9% 的英格兰球迷不会讨论 FIFA 世界杯半决赛输给阿根廷后的战术 TNT Sports",
+      "summary": "托马斯·图赫尔：99.9% 的英格兰球迷不会讨论世界杯半决赛输给阿根廷后的战术 TNT Sports",
       "originalTitle": "Thomas Tuchel: 99.9% of England fans do not discuss tactics from semi-final defeat to Argentina at FIFA World Cup - TNT Sports",
       "originalSummary": "Thomas Tuchel: 99.9% of England fans do not discuss tactics from semi-final defeat to Argentina at FIFA World Cup  TNT Sports",
       "translation": "online",
@@ -152,11 +188,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews",
-      "title": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 - TicketNews",
-      "summary": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 TicketNews",
-      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
-      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
+      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews-com",
+      "title": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 - Ticketnews.com",
+      "summary": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 Ticketnews.com",
+      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - ticketnews.com",
+      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  ticketnews.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQTltT2VWcWtZUkV3cHR3OXhJcklQLWFqZVJLUFNlRW5BU2pBQWVGX0NoZDY2QTRXeURkT3RZamNJQW9NWmhKM041dS1ocFJ6VQ?oc=5",
@@ -177,7 +213,7 @@
     },
     {
       "id": "google-news-infantino-invited-to-african-summit-as-he-faces-challenge-to-fifa-leadership-reuters",
-      "title": "因凡蒂诺受邀参加非洲峰会，因为他面临国际足联领导层的挑战 - 路透中文网",
+      "title": "因凡蒂诺受邀参加非洲峰会，因为他面临着国际足联领导层的挑战 - 路透中文网",
       "summary": "因凡蒂诺受邀参加非洲峰会，因为他面临国际足联领导层的挑战 路透",
       "originalTitle": "Infantino invited to African summit as he faces challenge to FIFA leadership - Reuters",
       "originalSummary": "Infantino invited to African summit as he faces challenge to FIFA leadership  Reuters",
@@ -185,42 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQZDZSeHVmN0lfTkFuOUFlRGRwNWk0NDRwQm1lbDRNeW9WZ2RaSmJBeXlzeDd4QjBXQmplTmpFNFdkd0ZVVGZIT0FzNjF4aGJXaTkyYmZ6VmtDZ3pVa215cUhucWZja0tSSDVvd0J5VW5kTVRsX3Q2elhaNnphRHBjQmVsQUZoWXV0ZmJGNzZPdnhRWk1ZUmx3QXQwMXlwYlczTzFuaUZTcDA3VXpQN3piX0FWNTJUY25i?oc=5",
       "publishedAt": "2026-09-18T18:13:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ukraine-national-amputee-football-team-qualifies-for-2026-world-cup-united24-media",
-      "title": "乌克兰国家截肢足球队获得 2026 年世界杯参赛资格 - UNITED24 Media",
-      "summary": "乌克兰国家截肢足球队获得 2026 年世界杯参赛资格 UNITED24 Media",
-      "originalTitle": "Ukraine National Amputee Football Team Qualifies for 2026 World Cup - UNITED24 Media",
-      "originalSummary": "Ukraine National Amputee Football Team Qualifies for 2026 World Cup  UNITED24 Media",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX202RkJYdGNQWVBXclgtNEJqdC15Wk5JTmxodGRFX3Vha2E5LVp5am1UMWxKZjNhTXpHNE9ReFp1S3p3dGo0YXF0QXZ3SkdWVXo1aWZjTy1ETWJnOG9mb182RmMtSHZMU1cwdncxREJGSjVvazc5QWJEQWdZakJQbzZzOTJ5cDRUcHNKNWFkRmpOdmlMd2JoMExIbEpobm45MElZeWRLNlo?oc=5",
-      "publishedAt": "2026-09-18T18:09:56+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-efl-at-world-cup-2026-which-players-from-outside-the-premier-league-could-feature-this-summer-squawka",
-      "title": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？ - 斯夸卡",
-      "summary": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？  斯夸卡",
-      "originalTitle": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer? - Squawka",
-      "originalSummary": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OaThLR0YwSjdyMExlZVFVQ3lxSms0enV4a1NIMEMyYkcyaVNYbEFjbk5uZFhPM2ZQWHhmYUFPOVZ0dnFyQTVxMGptR1VXc0VmNVl5Wl9FZFhzdTQyMEJ3cVM0WmxRZ3Fra0xsdktvNFEyeEJs?oc=5",
-      "publishedAt": "2026-09-18T18:06:34+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-most-duels-at-world-cup-2026-squawka",
-      "title": "2026 年世界杯上最多的对决 - Squawka",
-      "summary": "2026 年世界杯上最多的对决 Squawka",
-      "originalTitle": "Most Duels at World Cup 2026 - Squawka",
-      "originalSummary": "Most Duels at World Cup 2026  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV1VIX09SclVnU2Fra19IT1ZRYUl6bzY4b1hzRDVVb3dfdldaYThHRXoxdzlGQ2pOODlKNW9fZE55SmpJVGFyVDZNZE14alUxMTFtX2NINDV4QmNra2JqMWN2SmJBQnVVNEFHdkhGdTk4VTdzMmVwd04xbFFUQS1CaFNB?oc=5",
-      "publishedAt": "2026-09-18T17:44:36+00:00",
       "heat": 52
     }
   ]
