@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T21:23:42.893564+00:00",
+  "updatedAt": "2026-09-19T23:25:07.220298+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-the-australian-opals-gave-everything-they-had-at-the-2026-world-cup-the-pick-and-roll",
+      "title": "澳大利亚蛋白石队在 2026 年世界杯上竭尽全力 - 挡拆",
+      "summary": "澳大利亚蛋白石队在 2026 年世界杯上竭尽全力",
+      "originalTitle": "The Australian Opals gave everything they had at the 2026 World Cup - The Pick and Roll",
+      "originalSummary": "The Australian Opals gave everything they had at the 2026 World Cup  The Pick and Roll",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ydm8tZWlfeThBVXRKZTA4QTJaZlB4SDZJZjJpRkh1cF81UEIzc2NXdzBWMy1VMDNLVDdyU21oZURycVlUWEtsWXA0bVJZTmdVMG1FakZwVjRGZlgxQWlPb0Vfc0JtNzJxTXZiQWxfNks0dnM?oc=5",
+      "publishedAt": "2026-09-19T22:00:47+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
+      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
+      "summary": "观看 FIFA 2026 世界杯™ 直播和精彩片段 TOD",
+      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
+      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
+      "publishedAt": "2026-09-19T20:14:38+00:00",
+      "heat": 68
+    },
     {
       "id": "google-news-when-is-the-next-international-break-how-september-october-dates-have-changed-for-2026-sportingnews-com",
       "title": "下一次国际比赛日是什么时候？ 2026 年 9 月、10 月日期有何变化 - sportingnews.com",
@@ -44,12 +68,12 @@
       "heat": 52
     },
     {
-      "id": "google-news-lamine-yamal-calls-lionel-messi-the-best-player-of-2026-world-cup-morocco-world-news",
-      "title": "拉明·亚马尔称莱昂内尔·梅西为 2026 年世界杯最佳球员 - 摩洛哥世界新闻",
-      "summary": "拉明·亚马尔 (Lamine Yamal) 称赞莱昂内尔·梅西 (Lionel Messi) 为 2026 年世界杯最佳球员 摩洛哥世界新闻",
-      "originalTitle": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - Morocco World News",
-      "originalSummary": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup  Morocco World News",
-      "translation": "online",
+      "id": "google-news-lamine-yamal-calls-lionel-messi-the-best-player-of-2026-world-cup-moroccoworldnews-com",
+      "title": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 世界杯 - moroccoworldnews.com",
+      "summary": "拉明·亚马尔称莱昂内尔·梅西为 2026 年世界杯最佳球员 moroccoworldnews.com",
+      "originalTitle": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - moroccoworldnews.com",
+      "originalSummary": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup  moroccoworldnews.com",
+      "translation": "local/online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHpVY2taZm9LUXI2TGM?oc=5",
       "publishedAt": "2026-09-19T16:38:58+00:00",
@@ -80,6 +104,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-zimbabwe-discover-opponents-at-inaugural-fifa-world-cup-u15-tournament-soccer24-co-zw",
+      "title": "津巴布韦在首届 FIFA 世界杯 U15 锦标赛中发现对手 - Football24.co.zw",
+      "summary": "津巴布韦在首届 FIFA 世界杯 U15 锦标赛中发现对手 soccer24.co.zw",
+      "originalTitle": "Zimbabwe discover opponents at inaugural FIFA World Cup U15 tournament - soccer24.co.zw",
+      "originalSummary": "Zimbabwe discover opponents at inaugural FIFA World Cup U15 tournament  soccer24.co.zw",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNRDR3cW96UW9hcGxVRjdCLXhublVpVlNkZGx3Ukd2djZ1S2V3TnlORmVtenQtbE9ZMTVvZ3FmN2F0ckd5SjdjNm0tSFFiUmQ1VmZFZlVpYTF6MDhFNG5ucjV2bUdwUUlqVmVjRm9KeGpQR0hmSVlKRm9ReHpkUjBKQkVjYUFvejRERzZYeGVNM3dDaHNBZGFwcG45UWZSVERDeTdVTUxPcGlqRTlLRXc?oc=5",
+      "publishedAt": "2026-09-19T16:12:37+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-mamelodi-sundowns-advance-to-fifa-intercontinental-cup-semi-finals-sundayworld-co-za",
       "title": "马梅洛迪日落队晋级国际足联洲际杯半决赛 - sundayworld.co.za",
       "summary": "马梅洛迪日落队晋级国际足联洲际杯半决赛 sundayworld.co.za",
@@ -105,22 +141,22 @@
     },
     {
       "id": "google-news-six-takeaways-as-santos-brace-helps-sundowns-humble-al-ahli-in-fifa-intercontinental-cup-farpost-za",
-      "title": "Six takeaways 作为 Santos brace helps Sundowns humble Al Ahli in 国际足联 Intercontinental Cup - FARPost ZA",
-      "summary": "Six takeaways 作为 Santos brace helps Sundowns humble Al Ahli in 国际足联 Intercontinental Cup  FARPost ZA",
+      "title": "桑托斯梅开二度帮助日落队在国际足联洲际杯中击败阿尔阿赫利的六大收获 - FARPost ZA",
+      "summary": "桑托斯梅开二度帮助日落队在 FIFA 洲际杯比赛中击败阿尔阿赫利，带来六点收获 FARPost ZA",
       "originalTitle": "Six takeaways as Santos brace helps Sundowns humble Al Ahli in FIFA Intercontinental Cup - FARPost ZA",
       "originalSummary": "Six takeaways as Santos brace helps Sundowns humble Al Ahli in FIFA Intercontinental Cup  FARPost ZA",
-      "translation": "local",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNU2RDVjJtWEE2ejZtX0dNTjZUZEEwWkdHbHVoNEw5RW03SkszYVAwNV9Tb1lzcTMzNUo2TFZKMS1QRS1LNHRYYUo1TFlWM1BoVTY2RjB3S1dHOWRfczFIbzlDYm5HMG10dk42NWxlUDBHTzJRM2RFbTJXYjJtcWthVVBwbTJObmFCSnEwbVRFNU9jR3UxMlFWZW9WTjAtbGt0MHc?oc=5",
       "publishedAt": "2026-09-19T15:36:24+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-u-15-team-drawn-in-fifa-world-cup-group-ac-bernews-com",
-      "title": "国际足联世界杯AC组U-15球队抽签 - bernews.com",
-      "summary": "U-15 队抽签进入 FIFA 世界杯 AC 组 bernews.com",
-      "originalTitle": "U-15 Team Drawn In FIFA World Cup Group AC - bernews.com",
-      "originalSummary": "U-15 Team Drawn In FIFA World Cup Group AC  bernews.com",
+      "id": "google-news-u-15-team-drawn-in-fifa-world-cup-group-ac-bernews",
+      "title": "国际足联世界杯 AC 组 U-15 球队抽签 - Bernews",
+      "summary": "U-15 队抽签进入 FIFA 世界杯 AC 组 Bernews",
+      "originalTitle": "U-15 Team Drawn In FIFA World Cup Group AC - Bernews",
+      "originalSummary": "U-15 Team Drawn In FIFA World Cup Group AC  Bernews",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5bVRFMU5PdTBKd3B1dHVXRlhuWWRmYlBLUlU4Wk5OY3hxcy1pTkppZHRRUjhtWHdPUTF6NmszbUQtLVE5N0hBSVZKYnRpUk9WemhGXzZDSGtZaTltYlZ2THY0MnFVOXozTmw1ZmZWbXBHdXc?oc=5",
@@ -140,11 +176,11 @@
       "heat": 60
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
-      "title": "2026世界杯足球赛 - voachinese.com",
-      "summary": "2026世界杯足球赛  voachinese.com",
-      "originalTitle": "2026世界杯足球赛 - voachinese.com",
-      "originalSummary": "2026世界杯足球赛  voachinese.com",
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -153,10 +189,10 @@
     },
     {
       "id": "google-news-we-didn-t-have-players-at-100-lionel-scaloni-explains-how-2026-fifa-world-cup-was-different-from-2022-for-ar",
-      "title": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释 2026 年 FIFA 世界杯与 2022 年阿根廷世界杯有何不同 - Sportskeeda",
-      "summary": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释了阿根廷队 2026 年 FIFA 世界杯与 2022 年有何不同",
-      "originalTitle": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina - Sportskeeda",
-      "originalSummary": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina  Sportskeeda",
+      "title": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释 2026 年 FIFA 世界杯与 2022 年阿根廷世界杯有何不同 - sportskeeda.com",
+      "summary": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释 2026 年 FIFA 世界杯与 2022 年阿根廷世界杯有何不同 sportskeeda.com",
+      "originalTitle": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina - sportskeeda.com",
+      "originalSummary": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina  sportskeeda.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON21MdHdLdWlPSjFlSUxEMnVjb2w1X091WUxya0lNNnFPR2RXdzBsYXZqSzBYNDdvMHdwNmhwSm9fZXFNMVA3ZUdBSVFPbEFIOFZ0UFNZRlhZS3FibEtlQWpHa0ZERXZoaEhzeU1ZbEo3aEhWcFVmRzdVcjVEc0E5c3VQQk1aMmdpSy1Zc0tNM0cxamY3UjBLLWZEUWZzRkFYZDh3aVNXbDZ0WlZEdHEzRDhtM3dkS3pQWnpsNjVqZUZqck5QV2pXbDJseXM?oc=5",
@@ -164,64 +200,28 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-ngo-dang-khoa-取代-thanh-chung-越南在-2026-年-fifa-东盟杯之前加强进攻-vietnam-vn",
+      "title": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。 - Vietnam.vn",
+      "summary": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。  Vietnam.vn",
+      "originalTitle": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。 - Vietnam.vn",
+      "originalSummary": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeC0xaTdCVXVBVXVsVmNHMTNwUkw1MktpYUREZnlaWDRBcC11WXYwT3pZbVp3ekppb3ZxY2g0Y2E1MVVfeWpsS3ZyWFF2UTYyMjljQnhqTzhoVzlDUEdvN003WDMzdWg2Qk0xZy1CWWNZam9wWGllTGRCN3k3MEFISk45NExEM0xwbTZYM1NmWVgxTUppYUFxeTJQZGM4Z2ZxTEFNT3NXMzR0dEk5?oc=5",
+      "publishedAt": "2026-09-19T14:33:28+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-africa-at-the-fifa-world-cup-2026-what-are-the-chances-dw-com",
-      "title": "非洲参加 2026 年 FIFA 世界杯：机会有多大？ - DW.com",
-      "summary": "非洲参加 2026 年 FIFA 世界杯：机会有多大？  德国之声",
-      "originalTitle": "Africa at the FIFA World Cup 2026: What are the chances? - DW.com",
-      "originalSummary": "Africa at the FIFA World Cup 2026: What are the chances?  DW.com",
+      "title": "非洲参加 2026 年 FIFA 世界杯：机会有多大？ - 德国之声网站",
+      "summary": "非洲参加 2026 年 FIFA 世界杯：机会有多大？  德国之声网站",
+      "originalTitle": "Africa at the FIFA World Cup 2026: What are the chances? - dw.com",
+      "originalSummary": "Africa at the FIFA World Cup 2026: What are the chances?  dw.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVBQVEdOUDV6ZWdlakZtSTBSekNYdHJzbmlMNllaeHpfTG9EYjhub2MzaVhiZmNvdUdyT2NxZnJMeDN4YmRLdWpOOVgwWmZaeTgwYk1CRmhtd1I2OWs1THRoNlRIbFpjRmxnZFhFUDl1RS02SWRRM0FYZjdyMXZ0ejZENXpIMHFMTzB6aEhmV19SOXZuc2c?oc=5",
       "publishedAt": "2026-09-19T14:24:32+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-countdown-how-to-watch-fifa-live-in-india-on-tv-mobile-match-wise-full-list-in-ist-timing-goo",
-      "title": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST 计时中的匹配完整列表 - Goodreturns",
-      "summary": "2026 年世界杯倒计时：如何在印度通过电视、手机观看 FIFA LIVE； IST Timing 中的按匹配方式完整列表 Goodreturns",
-      "originalTitle": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing - Goodreturns",
-      "originalSummary": "World Cup 2026 Countdown: How to Watch FIFA LIVE in India on TV, Mobile; Match-wise Full List in IST Timing  Goodreturns",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOT28yV2thb0VPZmJraG1SSjNhVkk0RlJIQmxEWWVIQk92LTNGSWFtRVVVUHA1NllGX2pka1c4TWlvZlNodEVqa29LblJnTFJtQmZFNzM2aUtBVWpDUlVqT2I3aXFDbGZVRk1WclhsVHRjVm5sdkREaS1NZXRKQVhBeFZUeERBbUR3VHRyQXdRLXY4clNGSnB6a0I1WTNBWEh1cmhxZktWdGFJRWtQMEREcTh4M1gxUmdHbmRia09hc3V1UktsY3duNGpKS0xyUDlWRm9PSGVSWDUxMHM?oc=5",
-      "publishedAt": "2026-09-19T14:20:42+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-watch-new-zealand-vs-egypt-tod",
-      "title": "观看新西兰 vs 埃及 - TOD",
-      "summary": "观看新西兰 vs 埃及 TOD",
-      "originalTitle": "Watch New Zealand vs Egypt - TOD",
-      "originalSummary": "Watch New Zealand vs Egypt  TOD",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ0c2YXcwbTlxekY1aEJYVG56dWloRkNxSzd1Q3ZOdlJZRDYwX21uUHVTekY1M2pUTmU5RjdDdHVSUmktMXZhbFNWd040U3ZWVWt1cDJ1Z0doN0J1MW1vZm5ITTdUSnBNZEFIOGRGNG5vNDdGREFDdzBtWlpHV1psOTBOaXVjb2ZtNXQ0bkU3OUhRc0hldGJlaw?oc=5",
-      "publishedAt": "2026-09-19T14:13:33+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-nana-kwaku-bonsam-calls-for-kofi-adams-to-be-sacked-after-ghana-s-early-world-cup-exit-modernghana-com",
-      "title": "加纳队提前退出世界杯后，纳纳·夸库·邦萨姆呼吁解雇科菲·亚当斯",
-      "summary": "加纳队提前退出世界杯后，纳纳·夸库·邦萨姆 (Nana Kwaku Bonsam) 呼吁解雇科菲·亚当斯 (Kofi Adams) modernghana.com",
-      "originalTitle": "Nana Kwaku Bonsam calls for Kofi Adams to be sacked after Ghana's early World Cup exit - modernghana.com",
-      "originalSummary": "Nana Kwaku Bonsam calls for Kofi Adams to be sacked after Ghana's early World Cup exit  modernghana.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQSEM1YUZuNEZvcHBtWEhadFIyNVM0Q0FzNnVPTUZlSlVnYUN4Unp1dTVvZGdUWm1kSkRrUXp6a1g1OU41OHMyY1BDOFdzZTJSZVM5LVZHb1VtRy04LUFZQjEtZnJNbkdwTnl1SE5QcnZialhoaXVGOWhlSUEzeDJpZjVUMHpKWVVTVVE0VFlOaENvQlU0MkpJOWhhQUJDMlHSAZ4BQVVfeXFMT29pVkdETUw5S1ExNk1LZXd4WEtfMjlNb2E0V2VtYnRaTGFTYnFnMTJIMnp3ZXBpRjc2QWdmNTBYYWxWYjJHekJHUm9kQzBHUkxOY1BVNlZZUGZnRVFFSk12ZXFwcXVycjFJR2l6eDY2RDc4MDRJN04yVEI4eDNudHRvemdDRDhsQ0w5bVJPZlVhZHI2d210amFRckFXQlE?oc=5",
-      "publishedAt": "2026-09-19T13:31:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-world-cup-kofi-adams-clarifies-policy-on-funding-supporters-at-major-tournaments-modernghana-com",
-      "title": "2026 年世界杯：科菲·亚当斯澄清重大赛事资助支持者的政策",
-      "summary": "2026 年世界杯：科菲·亚当斯澄清了在重大赛事中资助支持者的政策 modernghana.com",
-      "originalTitle": "2026 World Cup: Kofi Adams clarifies policy on funding supporters at major tournaments - modernghana.com",
-      "originalSummary": "2026 World Cup: Kofi Adams clarifies policy on funding supporters at major tournaments  modernghana.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQalBCSFVoZGVZNWhQaG1EVVlIaUEwT1BhcTMydEx2TVNZWXo0bUk1YlU0Z0R3a3JHSHEtNHoxZl9nY29ZVENxS1ZGTHNvMjhtN1Qwb1ZrUk5VenJHelhSbUdGMloxV2FUWmg1V3Z6SEZLRFh1Q2Y0OTZFaHdWMzZyd2VUcEhkVkcxc0FlUldwYnFScklRUThYcA?oc=5",
-      "publishedAt": "2026-09-19T13:20:26+00:00",
-      "heat": 52
     }
   ]
 }
