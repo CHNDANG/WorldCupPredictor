@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-19T23:25:07.220298+00:00",
+  "updatedAt": "2026-09-20T01:29:41.223612+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-mbc-防弹少年团时隔6年登上-iheartradio音乐节-压轴登场-防弹少年团以-bts-2-0-为主题-在美国音乐节上带来了全面升级的舞台-防弹少年团于18日在美国拉斯维加斯t-mobile-arena举行的",
+      "title": "【MBC】[防弹少年团时隔6年登上“IHeartRadio音乐节”→压轴登场]防弹少年团以“BTS 2.0”为主题，在美国音乐节上带来了全面升级的舞台。防弹少年团于18日在美国拉斯维加斯T-Mobile Arena举行的“2026 iHeartRadio Music Festival”登台演出，引发现场观众热烈反响 - sina.cn",
+      "summary": "【MBC】[防弹少年团时隔6年登上“IHeartRadio音乐节”→压轴登场]防弹少年团以“BTS 2.0”为主题，在美国音乐节上带来了全面升级的舞台。防弹少年团于18日在美国拉斯维加斯T-Mobile Arena举行的“2026 iHeartRadio Music Festival”登台演出，引发现场观众热烈反响  sina.cn",
+      "originalTitle": "【MBC】[防弹少年团时隔6年登上“IHeartRadio音乐节”→压轴登场]防弹少年团以“BTS 2.0”为主题，在美国音乐节上带来了全面升级的舞台。防弹少年团于18日在美国拉斯维加斯T-Mobile Arena举行的“2026 iHeartRadio Music Festival”登台演出，引发现场观众热烈反响 - sina.cn",
+      "originalSummary": "【MBC】[防弹少年团时隔6年登上“IHeartRadio音乐节”→压轴登场]防弹少年团以“BTS 2.0”为主题，在美国音乐节上带来了全面升级的舞台。防弹少年团于18日在美国拉斯维加斯T-Mobile Arena举行的“2026 iHeartRadio Music Festival”登台演出，引发现场观众热烈反响  sina.cn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9zdkVhT016TVRjRFhBYy1XdmFaMnBRWVVBOUpUY2g3TkVyUUp2aGpsbzRHSUttaVhFNU9oblJaR2RqWTdkaTY3SGFlMmJIaFM1SEhKai0teVZyWWJaWjVaTk1yOA?oc=5",
+      "publishedAt": "2026-09-20T00:59:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-u15世界杯分组揭晓-周海滨率队先登上世界舞台-体坛",
+      "title": "U15世界杯分组揭晓！周海滨率队先登上世界舞台 - 体坛",
+      "summary": "U15世界杯分组揭晓！周海滨率队先登上世界舞台  体坛",
+      "originalTitle": "U15世界杯分组揭晓！周海滨率队先登上世界舞台 - 体坛",
+      "originalSummary": "U15世界杯分组揭晓！周海滨率队先登上世界舞台  体坛",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5YaHd4azZEOE9Pa1dBaVN0ajVpSXZvam5xekcwZGpWZkZ0aWdPQmRfOUZ0NWtoSjFfWmpHRDlubFV5cVliUmU4NTIzY0dLZFdSZU4tVkM1ckhZMThIcC0wTGt6YUJvUzVGaURlZmJJM0c5Yk5ySWlhQTVn?oc=5",
+      "publishedAt": "2026-09-20T00:25:08+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-the-australian-opals-gave-everything-they-had-at-the-2026-world-cup-the-pick-and-roll",
       "title": "澳大利亚蛋白石队在 2026 年世界杯上竭尽全力 - 挡拆",
@@ -17,6 +41,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1ydm8tZWlfeThBVXRKZTA4QTJaZlB4SDZJZjJpRkh1cF81UEIzc2NXdzBWMy1VMDNLVDdyU21oZURycVlUWEtsWXA0bVJZTmdVMG1FakZwVjRGZlgxQWlPb0Vfc0JtNzJxTXZiQWxfNks0dnM?oc=5",
       "publishedAt": "2026-09-19T22:00:47+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-lionel-scaloni-hints-at-staying-on-as-argentina-coach-despite-doubts-over-his-future-after-2026-world-cup-wo",
+      "title": "莱昂内尔·斯卡洛尼暗示将继续担任阿根廷队主教练，尽管对 2026 年世界杯后的未来存疑 - World Soccer Talk",
+      "summary": "莱昂内尔·斯卡罗尼暗示将继续担任阿根廷队主教练，尽管 2026 年世界杯后他的未来受到质疑 World Soccer Talk",
+      "originalTitle": "Lionel Scaloni hints at staying on as Argentina coach despite doubts over his future after 2026 World Cup - World Soccer Talk",
+      "originalSummary": "Lionel Scaloni hints at staying on as Argentina coach despite doubts over his future after 2026 World Cup  World Soccer Talk",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZ1VfMnUxcVIxWGthall3dWloN1lScGZKOVdvMkR5Yk84a3YtdGRVck11RTJFMWFhM2FLX1liNEdNU3FMYXZEUU8wdlFpNl84MnIwcGR1TlVCWWc3TlNJY2ttQXZpTEJZV2lqazluTmI3OFdnV041NGNvbEVYeGJ6UG5zVVh2OFZFZWdVdGJBMkZtTjhnQjNBRTdaWndJZ3pnZ3VQUlhCempSTEpWS3VUTHc5WG1vY09hcXZfTC1fN3FTZnVQNkljM1RqbllDeTYxTWk3T2N30gHaAUFVX3lxTE9ocnh3b1NhUlR0aGl4cXlXMHVwQzlVMzY0UGVuNnZVbE5PQVRVMUtkaUhKSXhEM18tM1lKdV9mbTBGZXNTaGlBV2lyVkVlalR6MFI1UFZMN3BvdVZENFFLOUJYQ1liN2U1LTdvOGRxN2Rfa1FJN20wdm43cDdPZmlQWnAtZUVRN1JFbThUTWlwNTRLTzlOWDdUUHlPeThiN19DWUQzbUNyVEZPNWZPZGtiSmIwS2k4aG9Mb1E5cVhrRXVRVTlrYTY0U1ZNOVAzOGc5MG8zZE9mbWhR?oc=5",
+      "publishedAt": "2026-09-19T21:20:47+00:00",
       "heat": 52
     },
     {
@@ -32,6 +68,30 @@
       "heat": 68
     },
     {
+      "id": "google-news-thomas-tuchel-admits-kobbie-mainoo-deserved-world-cup-chance-africasoccer-com",
+      "title": "托马斯·图赫尔承认科比·迈努值得参加世界杯 - AfricaSoccer.com",
+      "summary": "托马斯·图切尔 (Thomas Tuchel) 承认科比·迈努 (Kobbie Mainoo) 应得的世界杯机会 AfricaSoccer.com",
+      "originalTitle": "Thomas Tuchel admits Kobbie Mainoo deserved World Cup chance - AfricaSoccer.com",
+      "originalSummary": "Thomas Tuchel admits Kobbie Mainoo deserved World Cup chance  AfricaSoccer.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMWZwTkZxRGJ5R0VBRXZMaTdST2pzY0dRNGctVWRoUEthTW1oM05nVndNdjYwa0xKamxRM2pWbjhEazZSalpSY2VRQWtVeGc1ZVQxSHBnT1l2Y0JKcHlnTE9HRFVhRklUZ2M0RXVyRks5YWpZcGxRd1g3TXNWekt3Yl9mY2RBTnl3a0lhUWxqNA?oc=5",
+      "publishedAt": "2026-09-19T20:02:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-falconets-face-colombia-test-in-u-20-world-cup-quarter-final-complete-sports",
+      "title": "Falconets 在 U-20 世界杯四分之一决赛中面临哥伦比亚考验 - Complete Sports",
+      "summary": "Falconets 在 U-20 世界杯四分之一决赛中面临哥伦比亚考验 完整体育",
+      "originalTitle": "Falconets Face Colombia Test In U-20 World Cup Quarter-Final - Complete Sports",
+      "originalSummary": "Falconets Face Colombia Test In U-20 World Cup Quarter-Final  Complete Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUkoySlg2ZGE3YUJNSDFaVHBCejZRTERnb2IxX20zRWowUVRONnlEOWJPSkdTT1NJcHZxYmVKNzR2aDV1UVdCNmNoLVY0U1RlWnROamhkUTNKaGxrbnl4S21ZbjZHR05jN0t4bWltUHV1Y190QnJ0VlkzMTNqXzdkUDZzSVYzVndqQWJPcnZKZDFOYmdUcmVuN2xRRm1oLTZMV1dhYlN0VVoyRDk4Zm9JdVJrU1RwTWZsWU44ZGoyODFZUjBVYWFPLW9rS1RtcHRyaVdKdEMyZktpZw?oc=5",
+      "publishedAt": "2026-09-19T19:42:44+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-when-is-the-next-international-break-how-september-october-dates-have-changed-for-2026-sportingnews-com",
       "title": "下一次国际比赛日是什么时候？ 2026 年 9 月、10 月日期有何变化 - sportingnews.com",
       "summary": "下一次国际比赛日是什么时候？ 2026 年 9 月、10 月日期发生了哪些变化 sportingnews.com",
@@ -44,11 +104,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-rwanda-u15-drawn-in-group-y-for-fifa-world-cup-festival-2026-the-new-times-the-new-times",
-      "title": "卢旺达 U15 分在 2026 年 FIFA 世界杯及节日 Y 组|新时代 - 新时代",
-      "summary": "卢旺达 U15 分在 2026 年 FIFA 世界杯及节日 Y 组|新时代 新时代",
-      "originalTitle": "Rwanda U15 drawn in Group Y for FIFA World Cup & Festival 2026| The New Times - The New Times",
-      "originalSummary": "Rwanda U15 drawn in Group Y for FIFA World Cup & Festival 2026| The New Times  The New Times",
+      "id": "google-news-rwanda-u15-drawn-in-group-y-for-fifa-world-cup-festival-2026-the-new-times-newtimes-co-rw",
+      "title": "卢旺达 U15 分入 2026 年 FIFA 世界杯及节日 Y 组|新时代 - newtimes.co.rw",
+      "summary": "卢旺达 U15 分入 2026 年 FIFA 世界杯及节日 Y 组|新时代 newtimes.co.rw",
+      "originalTitle": "Rwanda U15 drawn in Group Y for FIFA World Cup & Festival 2026| The New Times - newtimes.co.rw",
+      "originalSummary": "Rwanda U15 drawn in Group Y for FIFA World Cup & Festival 2026| The New Times  newtimes.co.rw",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNakI1MEN1MHplakwyZmUwY3lXNTdQbDFxNlp3QXRHQlFtLVdyRWo4QWc1cGxSZVFXcmNjbmZLN1M0ZUlKSkNER0ZXejlWNFo3b05nX0xJVVN2NGdKeDQ1YlNxVWtGZ3BiVWJmSEZxVFlnQ3RSUTJsRzRDMlJVdkd3ckZQQ2E5ZWVKVVFiYVIyNkFOU09heHlaSWctV293MnYzbnFYLVhfeVpqRnhTUXR5ZnVDNGV3cnVL0gG-AUFVX3lxTE9HbUJzd2Y5dFU0c0R3OVo3OHZzT2h4ZDExdHRqVFp1YUczUHFETTVGOVpaV2JYQWFEZE1VRFdqZnIxLWZtQjhOU29Td1pzRUR1RGJlSHdIbWJUb1BiWHdTbndJcV85STZjaVdaTTV5RHREbTF4bUg2cEJlcldVV0FWaUVYT1lWbmlKNUQ5V3M0X0Zibk1YTE53Sno1NFBlT1UtMkFtdnhhTzJHZUpxNXM4bDBqdDZLZmdieDJoaFE?oc=5",
@@ -56,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
-      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja",
-      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy Six9ja",
-      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
-      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja-com",
+      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja.com",
+      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy  six9ja.com",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - six9ja.com",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  six9ja.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
@@ -68,12 +128,12 @@
       "heat": 52
     },
     {
-      "id": "google-news-lamine-yamal-calls-lionel-messi-the-best-player-of-2026-world-cup-moroccoworldnews-com",
-      "title": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 世界杯 - moroccoworldnews.com",
-      "summary": "拉明·亚马尔称莱昂内尔·梅西为 2026 年世界杯最佳球员 moroccoworldnews.com",
-      "originalTitle": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - moroccoworldnews.com",
-      "originalSummary": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup  moroccoworldnews.com",
-      "translation": "local/online",
+      "id": "google-news-lamine-yamal-calls-lionel-messi-the-best-player-of-2026-world-cup-morocco-world-news",
+      "title": "拉明·亚马尔称莱昂内尔·梅西为 2026 年世界杯最佳球员 - 摩洛哥世界新闻",
+      "summary": "拉明·亚马尔 (Lamine Yamal) 称赞莱昂内尔·梅西 (Lionel Messi) 为 2026 年世界杯最佳球员 摩洛哥世界新闻",
+      "originalTitle": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup - Morocco World News",
+      "originalSummary": "Lamine Yamal Calls Lionel Messi the Best Player of 2026 World Cup  Morocco World News",
+      "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPd2s5XzN0OWhrbDVhQWViZHlVWnJ2MXJfRldRMDlBazhpUGFxQlMyUVhkRjVxaFVyTzNNenc0WjVVZGdnN041Z1d1a2syMHlqeHFNdnhoTVdIMzRrVDVYd2dOVU5vWkxMOEVMS2sxY2E2SUJSc1Z3QnJBS3prTzE1OElpdUVJQ29PT1B6Sk4zVlZSV2FRRjU4UGx0TUo0cExjRUZGaDJxVHpVY2taZm9LUXI2TGM?oc=5",
       "publishedAt": "2026-09-19T16:38:58+00:00",
@@ -142,7 +202,7 @@
     {
       "id": "google-news-six-takeaways-as-santos-brace-helps-sundowns-humble-al-ahli-in-fifa-intercontinental-cup-farpost-za",
       "title": "桑托斯梅开二度帮助日落队在国际足联洲际杯中击败阿尔阿赫利的六大收获 - FARPost ZA",
-      "summary": "桑托斯梅开二度帮助日落队在 FIFA 洲际杯比赛中击败阿尔阿赫利，带来六点收获 FARPost ZA",
+      "summary": "桑托斯梅开二度帮助日落队在 FIFA 洲际杯中击败阿尔阿赫利，带来六大收获 FARPost ZA",
       "originalTitle": "Six takeaways as Santos brace helps Sundowns humble Al Ahli in FIFA Intercontinental Cup - FARPost ZA",
       "originalSummary": "Six takeaways as Santos brace helps Sundowns humble Al Ahli in FIFA Intercontinental Cup  FARPost ZA",
       "translation": "online",
@@ -161,66 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5bVRFMU5PdTBKd3B1dHVXRlhuWWRmYlBLUlU4Wk5OY3hxcy1pTkppZHRRUjhtWHdPUTF6NmszbUQtLVE5N0hBSVZKYnRpUk9WemhGXzZDSGtZaTltYlZ2THY0MnFVOXozTmw1ZmZWbXBHdXc?oc=5",
       "publishedAt": "2026-09-19T14:59:10+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-nigeria-vs-colombia-preview-prediction-2026-fifa-u-20-women-s-world-cup-quarter-final-the-stats-zone",
-      "title": "尼日利亚 vs 哥伦比亚 预览与预测 | 尼日利亚2026 年 FIFA U-20 女子世界杯 |四分之一决赛 - 统计区",
-      "summary": "尼日利亚 vs 哥伦比亚 预览与预测 | 尼日利亚2026 年 FIFA U-20 女子世界杯 |四分之一决赛统计区",
-      "originalTitle": "Nigeria vs Colombia Preview & Prediction | 2026 FIFA U-20 Women’s World Cup | Quarter-Final - The Stats Zone",
-      "originalSummary": "Nigeria vs Colombia Preview & Prediction | 2026 FIFA U-20 Women’s World Cup | Quarter-Final  The Stats Zone",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNVVFkeHBvNzEzYnhnaXB6V1RmTkVDYlNsUXJLek5CV3BzNFVDd0V1UFZ6MzNCdWQyV3gwT09NS2d3SXVyWTN0YUwwQUVBUFFIajl5TkEyS0xJQzVUQWd4Z0NjYWFnd1ZRR0NseU5aMmsyMndFcXZqeUdQRDJEVjA0cFBtLXI3QXFQSDh6dm1KMXVTTFRsVDdFOFVrc01WZm5sd0xPYjNQMTBvOUpqcTg1Nk5qQ0ViRGhFOG9WWQ?oc=5",
-      "publishedAt": "2026-09-19T14:58:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-09-19T14:49:36+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-we-didn-t-have-players-at-100-lionel-scaloni-explains-how-2026-fifa-world-cup-was-different-from-2022-for-ar",
-      "title": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释 2026 年 FIFA 世界杯与 2022 年阿根廷世界杯有何不同 - sportskeeda.com",
-      "summary": "“我们没有 100% 状态的球员” - Lionel Scaloni 解释 2026 年 FIFA 世界杯与 2022 年阿根廷世界杯有何不同 sportskeeda.com",
-      "originalTitle": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina - sportskeeda.com",
-      "originalSummary": "“We didn’t have players at 100%” - Lionel Scaloni explains how 2026 FIFA World Cup was different from 2022 for Argentina  sportskeeda.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxON21MdHdLdWlPSjFlSUxEMnVjb2w1X091WUxya0lNNnFPR2RXdzBsYXZqSzBYNDdvMHdwNmhwSm9fZXFNMVA3ZUdBSVFPbEFIOFZ0UFNZRlhZS3FibEtlQWpHa0ZERXZoaEhzeU1ZbEo3aEhWcFVmRzdVcjVEc0E5c3VQQk1aMmdpSy1Zc0tNM0cxamY3UjBLLWZEUWZzRkFYZDh3aVNXbDZ0WlZEdHEzRDhtM3dkS3pQWnpsNjVqZUZqck5QV2pXbDJseXM?oc=5",
-      "publishedAt": "2026-09-19T14:37:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-ngo-dang-khoa-取代-thanh-chung-越南在-2026-年-fifa-东盟杯之前加强进攻-vietnam-vn",
-      "title": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。 - Vietnam.vn",
-      "summary": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。  Vietnam.vn",
-      "originalTitle": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。 - Vietnam.vn",
-      "originalSummary": "Ngo Dang Khoa 取代 Thanh Chung，越南在 2026 年 FIFA 东盟杯之前加强进攻。  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeC0xaTdCVXVBVXVsVmNHMTNwUkw1MktpYUREZnlaWDRBcC11WXYwT3pZbVp3ekppb3ZxY2g0Y2E1MVVfeWpsS3ZyWFF2UTYyMjljQnhqTzhoVzlDUEdvN003WDMzdWg2Qk0xZy1CWWNZam9wWGllTGRCN3k3MEFISk45NExEM0xwbTZYM1NmWVgxTUppYUFxeTJQZGM4Z2ZxTEFNT3NXMzR0dEk5?oc=5",
-      "publishedAt": "2026-09-19T14:33:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-africa-at-the-fifa-world-cup-2026-what-are-the-chances-dw-com",
-      "title": "非洲参加 2026 年 FIFA 世界杯：机会有多大？ - 德国之声网站",
-      "summary": "非洲参加 2026 年 FIFA 世界杯：机会有多大？  德国之声网站",
-      "originalTitle": "Africa at the FIFA World Cup 2026: What are the chances? - dw.com",
-      "originalSummary": "Africa at the FIFA World Cup 2026: What are the chances?  dw.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObVBQVEdOUDV6ZWdlakZtSTBSekNYdHJzbmlMNllaeHpfTG9EYjhub2MzaVhiZmNvdUdyT2NxZnJMeDN4YmRLdWpOOVgwWmZaeTgwYk1CRmhtd1I2OWs1THRoNlRIbFpjRmxnZFhFUDl1RS02SWRRM0FYZjdyMXZ0ejZENXpIMHFMTzB6aEhmV19SOXZuc2c?oc=5",
-      "publishedAt": "2026-09-19T14:24:32+00:00",
       "heat": 60
     }
   ]
