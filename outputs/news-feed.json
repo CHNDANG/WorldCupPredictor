@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-20T18:59:40.837665+00:00",
+  "updatedAt": "2026-09-20T21:28:55.454521+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,78 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-infantino-moroccan-fans-passion-defined-2026-world-cup-morocco-world-news",
+      "title": "因凡蒂诺：摩洛哥球迷的热情定义了 2026 年世界杯 - 摩洛哥世界新闻",
+      "summary": "因凡蒂诺：摩洛哥球迷的热情定义了 2026 年世界杯 摩洛哥世界新闻",
+      "originalTitle": "Infantino: Moroccan Fans’ Passion Defined 2026 World Cup - Morocco World News",
+      "originalSummary": "Infantino: Moroccan Fans’ Passion Defined 2026 World Cup  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPV0lxeFBBTEF5dm5tZjlEeWpONE45MXMwZExKTlNJcE9QaFpHcmdveS1WeGhqS1JvY0xQdkkxNEJpNlNpYWNkQzNlR2QwTG11RUl2NElfUWVMWGNyZDUydWtISmNFSy0xUWZnSGF3bUlMZWlFY1RfU05xQ0EwQ09uVkxwcEVrUGNpZWN1X1VBNVR3a2JvWWZWbFRFdk5iNGY3T2pCbTFR?oc=5",
+      "publishedAt": "2026-09-20T20:50:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-falconets-crash-out-of-u-20-women-s-world-cup-after-late-colombia-goal-africa-top-sports",
+      "title": "哥伦比亚队最后时刻的进球导致猎鹰队退出 U-20 女子世界杯 - 非洲顶级体育",
+      "summary": "哥伦比亚队在最后时刻进球后，猎鹰队退出 U-20 女子世界杯 非洲顶级体育",
+      "originalTitle": "Falconets Crash Out of U-20 Women’s World Cup After Late Colombia Goal - Africa Top Sports",
+      "originalSummary": "Falconets Crash Out of U-20 Women’s World Cup After Late Colombia Goal  Africa Top Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb2lQa3I2ZkNUMW1TR2NEV196UTF6UXhiaU9uLW84cDZYNi1KUVlGRjNROEtzSDY1bEhYeXdtN0RQenoyeXYwQXpCLXBXaXVUVDZwclNLLTlHeFBoUlNnMlpOaENVR1FyMTgycFJKVklnNTVJTldmN2twb2w1MHotNXRfZUE3QURoWDJ0VEZnTFVVSWU3YlJrdHVpeGdWVzM5eUxpZWhnTnZOdw?oc=5",
+      "publishedAt": "2026-09-20T19:50:36+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-u-20-women-s-world-cup-semi-final-fixtures-confirmed-daily-post-nigeria",
+      "title": "FIFA U-20 女子世界杯：半决赛赛程已确定 - 尼日利亚《每日邮报》",
+      "summary": "FIFA U-20 女子世界杯：半决赛赛程已确定",
+      "originalTitle": "FIFA U-20 Women’s World Cup: Semi-final fixtures confirmed - Daily Post Nigeria",
+      "originalSummary": "FIFA U-20 Women’s World Cup: Semi-final fixtures confirmed  Daily Post Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNU9vQnVQVzlvVmU2U2dhdUMxdWtNVmdjdjFmZy0zTkZKYnMzcVBMSmYzcng4VVY1SEJvNmNTYlE1Z2pqeEFaTjJEWUVQS2RRMXFyLVBQQ041aW4xREhnN1ZMQjduOTZSWWJmamhVajhMbmFYaXNHcF9zUkZNWkFOQ1NjWUlDS0JWZzZSd0k2N1Nsb2M?oc=5",
+      "publishedAt": "2026-09-20T19:47:01+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-u20-women-s-world-cup-2026-colombia-edge-falconets-as-spain-send-brazil-packing-blueprint-newspapers",
+      "title": "2026 年 U20 女足世界杯：哥伦比亚击败法尔科内茨，西班牙淘汰巴西 - Blueprint Newspapers",
+      "summary": "2026 年 U20 女足世界杯：哥伦比亚击败法尔科内茨，西班牙淘汰巴西 蓝图报纸",
+      "originalTitle": "U20 Women’s World Cup 2026: Colombia edge Falconets as Spain send Brazil packing - Blueprint Newspapers",
+      "originalSummary": "U20 Women’s World Cup 2026: Colombia edge Falconets as Spain send Brazil packing  Blueprint Newspapers",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZU9jMUd5UjNpM29EcjNTSW1penRnaDVDUTlaOWJoQVhPVlBDZUMyNFlBYVFEdFBzSktUZmxlRThsMEdoNTlveklxa2s2WGR2YXFMM0g0emdfYWdlVzd3Um9JUDA5VDdKS0NBS1o5T0JiMDhtMGwwMGNnT1FubFE5VnlDTTk0Z0ZLQ1BLWkw3YXMyenRzck9JVlRJYkxKXzhaX3c?oc=5",
+      "publishedAt": "2026-09-20T19:26:26+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-what-did-canmnt-learn-from-2026-world-cup-journey-ft-jesse-marsch-the-sit-down-by-visa-onesoccer-ca",
+      "title": "CanMNT 🇨🇦 从 2026 年世界杯之旅中学到了什么？ （英尺杰西·马什）| Visa 的静坐🎙️ - Onesoccer.ca",
+      "summary": "CanMNT 🇨🇦 从 2026 年世界杯之旅中学到了什么？ （英尺杰西·马什）| Visa 的静坐 🎙️  onesoccer.ca",
+      "originalTitle": "What did CanMNT 🇨🇦 learn from 2026 World Cup journey? (ft. Jesse Marsch) | THE SIT-DOWN by Visa 🎙️ - onesoccer.ca",
+      "originalSummary": "What did CanMNT 🇨🇦 learn from 2026 World Cup journey? (ft. Jesse Marsch) | THE SIT-DOWN by Visa 🎙️  onesoccer.ca",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTEZ0bWQyRkp1MlBlUUFBSVpURnFENjIxUjFaSlpzZHF5dHdSd3E5enNYNTFfN1J6eV9YMVd1VVBQQS1Uc3E2cF8ydmZUTmI2Wkd4eC1hc1ktNGxfeVgwemtqS3ZpOURnQ1Yzd2xYX2tmWGRtNUswQ2lVNHV1S3BEWW1zM0hjMEVVVzR5b2ZmSjM4cXlRVXBOWTE5bXBtVS1zSG5yX0ZYbkR2dFQ4ZGczUUd1TQ?oc=5",
+      "publishedAt": "2026-09-20T19:03:11+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-experience-rejection-the-kickoff-time-of-mexico-vs-england-at-the-2026-world-cup-will-not-be-changed-voi-id",
+      "title": "遭遇拒绝，2026年世界杯墨西哥对阵英格兰开球时间不会改变 - VOI.ID",
+      "summary": "遭遇拒绝，2026年世界杯墨西哥对阵英格兰开球时间不会改变 VOI.ID",
+      "originalTitle": "Experience Rejection, the Kickoff Time of Mexico vs. England at the 2026 World Cup Will Not Be Changed - VOI.ID",
+      "originalSummary": "Experience Rejection, the Kickoff Time of Mexico vs. England at the 2026 World Cup Will Not Be Changed  VOI.ID",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Ga0cyVWFteUF2OC1feUEzSUczbkRIR0x4aTdaZDJUbkxFQnRLdVdURG9WNXU3RmVpTWl2SXAwb2ZZLXB0WEHSAUJBVV95cUxPdWNsemhtYm1XMmxfNUFpQ0tFYUJpUzFRajUzWlh6SmR0OVFwZzhlYW96cFQxeWNXbkpuZzRtbVZTTFE?oc=5",
+      "publishedAt": "2026-09-20T17:46:11+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-quarterfinal-dpr-korea-vs-canada-live-stream-how-to-watch-2026-fifa-u-20-women-s-world-cup-fubo",
       "title": "四分之一决赛：朝鲜队 vs 加拿大队直播：如何观看 2026 年 FIFA U-20 女子世界杯 - Fubo",
@@ -20,11 +92,23 @@
       "heat": 68
     },
     {
-      "id": "google-news-nigeria-knocked-out-of-the-2026-fifa-u-20-women-s-world-cup-dailysports-net",
-      "title": "尼日利亚队被淘汰出 2026 年 FIFA U-20 女子世界杯 - dailysports.net",
-      "summary": "尼日利亚队被淘汰出 2026 年 FIFA U-20 女子世界杯 dailysports.net",
-      "originalTitle": "Nigeria knocked out of the 2026 FIFA U-20 Women’s World Cup - dailysports.net",
-      "originalSummary": "Nigeria knocked out of the 2026 FIFA U-20 Women’s World Cup  dailysports.net",
+      "id": "google-news-the-efl-at-world-cup-2026-which-players-from-outside-the-premier-league-could-feature-this-summer-squawka",
+      "title": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？ - 斯夸卡",
+      "summary": "2026 年世界杯 EFL：今年夏天哪些英超联赛以外的球员可以出场？  斯夸卡",
+      "originalTitle": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer? - Squawka",
+      "originalSummary": "The EFL at World Cup 2026: Which players from outside the Premier League could feature this summer?  Squawka",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OaThLR0YwSjdyMExlZVFVQ3lxSms0enV4a1NIMEMyYkcyaVNYbEFjbk5uZFhPM2ZQWHhmYUFPOVZ0dnFyQTVxMGptR1VXc0VmNVl5Wl9FZFhzdTQyMEJ3cVM0WmxRZ3Fra0xsdktvNFEyeEJs?oc=5",
+      "publishedAt": "2026-09-20T17:17:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-nigeria-knocked-out-of-the-2026-fifa-u-20-women-s-world-cup-dailysports",
+      "title": "尼日利亚队被淘汰出 2026 年 FIFA U-20 女子世界杯 - Dailysports",
+      "summary": "尼日利亚队被淘汰出 2026 年 FIFA U-20 女子世界杯 Dailysports",
+      "originalTitle": "Nigeria knocked out of the 2026 FIFA U-20 Women’s World Cup - Dailysports",
+      "originalSummary": "Nigeria knocked out of the 2026 FIFA U-20 Women’s World Cup  Dailysports",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQMEpFMFdPR21BWmI0VDNfVVN2SWpVTHllcUxFcVc1REVPVzVKU2hCYktUYnlPampoWGprNWpaaHdVQi1YMTlpcndkTS1vaGh4UHhLcE84VU8tMmdndG5paWszbk1NZXp4Z0hxMHdBUVk2X2hfZDktMlBnekJLWlFEeExuMGFPS0EzUWE4M3JBNUFudw?oc=5",
@@ -32,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja-com",
-      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja.com",
-      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy  six9ja.com",
-      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - six9ja.com",
-      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  six9ja.com",
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
+      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja",
+      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy Six9ja",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
@@ -44,11 +128,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
+      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
+      "title": "2026世界杯足球赛 - voachinese.com",
+      "summary": "2026世界杯足球赛  voachinese.com",
+      "originalTitle": "2026世界杯足球赛 - voachinese.com",
+      "originalSummary": "2026世界杯足球赛  voachinese.com",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
@@ -56,15 +140,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-u20-world-cup-mafisere-s-error-proves-costly-as-colombia-dump-out-nigeria-soccernet-ng",
-      "title": "FIFA U20 世界杯：哥伦比亚淘汰尼日利亚，马菲塞雷的错误代价高昂 - Soccernet.ng",
-      "summary": "FIFA U20 世界杯：哥伦比亚队淘汰尼日利亚队，马菲塞雷的错误代价高昂 Soccernet.ng",
-      "originalTitle": "FIFA U20 World Cup: Mafisere’s error proves costly as Colombia dump out Nigeria - Soccernet.ng",
-      "originalSummary": "FIFA U20 World Cup: Mafisere’s error proves costly as Colombia dump out Nigeria  Soccernet.ng",
+      "id": "google-news-ai-officiates-fifa-2026-world-cup-trinidad-guardian",
+      "title": "AI 主持 FIFA 2026 世界杯 - 特立尼达卫报",
+      "summary": "AI 主持 FIFA 2026 世界杯 特立尼达卫报",
+      "originalTitle": "AI officiates FIFA 2026 World Cup - Trinidad Guardian",
+      "originalSummary": "AI officiates FIFA 2026 World Cup  Trinidad Guardian",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBFdVlNa2s4V19TSVdsVzdrU1pqRGlkNW1rOFlIbi1vMFAxNUdSNC1MdlBLY05walVEMWFvTEFkYUJCRzNlMHlMUlNQUVJ5VWl2clptYVVRU3p4MWh0eGw4aThsSEJyOVRyTDhYd0tmVnhUM1ktc0dwRA?oc=5",
-      "publishedAt": "2026-09-20T15:39:09+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdURrSjNHLTVOM3lac3c1dGtYLTQ0cHFEaGhFXzEzQ0c1aFh0MkZMenkxTVgteGhkTWtEMXloR1RrNThPMTkyWVVDVThRZzh6b2NMeHZMcnhVZXBWLVRNblFhN1VTUVhlUy1iNEdLbmZnbXpldFA2SFkzNks1VEx3YnBsREdWM3prVWs1UDFVaWE5RFhr?oc=5",
+      "publishedAt": "2026-09-20T15:48:24+00:00",
       "heat": 60
     },
     {
@@ -77,6 +161,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5xZkN4RThOUVRiZnFEdThmVlhMcnJTSi1sN0x5aFp2YW84c1I5YVZuZURvd2FxeGlwTGVha0NlVi1MZ2lGanB6d3ktYWxZSVlHd29UZkpSTlFld0RQRTVRUzBzU29HUG1aTDB6MS1CQS00dnNWWlE?oc=5",
       "publishedAt": "2026-09-20T15:34:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-infantino-praises-exceptional-moroccan-fans-at-2026-world-cup-elbotola",
+      "title": "因凡蒂诺称赞 2026 年世界杯上“杰出”的摩洛哥球迷 - Elbotola",
+      "summary": "因凡蒂诺赞扬 2026 年世界杯上“杰出”的摩洛哥球迷",
+      "originalTitle": "Infantino Praises \"Exceptional\" Moroccan Fans at 2026 World Cup - Elbotola",
+      "originalSummary": "Infantino Praises \"Exceptional\" Moroccan Fans at 2026 World Cup  Elbotola",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9udU13cU5LRlZhdHNxM3RNUzBha3VNLTBaMjhaWGZqVkk1amZhcldmSXFMc0Z2eDFycTltU0JtQUUxX0RIbHpCTnZqWnduYkoyLWxRY2o0eFR6UlNrdTNPOF9nTUpoelg4S0JqUjJ3?oc=5",
+      "publishedAt": "2026-09-20T15:28:00+00:00",
       "heat": 52
     },
     {
@@ -116,112 +212,16 @@
       "heat": 60
     },
     {
-      "id": "google-news-football-at-asian-games-2026-full-schedule-all-results-groups-and-standings-complete-list-olympics-com",
-      "title": "2026 年亚运会足球：完整赛程、所有结果、分组和排名 - 完整列表 - olympics.com",
-      "summary": "2026 年亚运会足球：完整赛程、所有结果、分组和排名 - 完整列表 olympics.com",
-      "originalTitle": "Football at Asian Games 2026: Full schedule, all results, groups and standings – complete list - olympics.com",
-      "originalSummary": "Football at Asian Games 2026: Full schedule, all results, groups and standings – complete list  olympics.com",
+      "id": "google-news-world-cup-2026-play-off-final-stats-and-records-you-might-see-in-europe-on-tuesday-squawka",
+      "title": "周二您可能会在欧洲看到 2026 年世界杯附加赛决赛统计数据和记录 - Squawka",
+      "summary": "周二您可能会在欧洲看到 2026 年世界杯附加赛决赛统计数据和记录 Squawka",
+      "originalTitle": "World Cup 2026 play-off final stats and records you might see in Europe on Tuesday - Squawka",
+      "originalSummary": "World Cup 2026 play-off final stats and records you might see in Europe on Tuesday  Squawka",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0stT2JCaG1oVnhnampFZnllX1MwSWpKSHQxRUtBV1NyRms4Nm1nZ3YwZk5pM0JOemJ4N1BKaEV4RDM4S1h1MTh2YkdRVDZSakdBcXdTV0xFcWpkOVZzZjc2VHM3Qk1MRVFpdGdETGFnVHg2UkdFczRYSmdGRDM1RFBmdVN0N1BvdTl4SkhaMVNsUHBOaHhCU3VqalNnekVD?oc=5",
-      "publishedAt": "2026-09-20T15:06:00+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-creators-yahoo-com",
-      "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - Creators.yahoo.com",
-      "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  Creators.yahoo.com",
-      "originalTitle": "World Cup fans came for soccer. They left talking about an America they never expected. - creators.yahoo.com",
-      "originalSummary": "World Cup fans came for soccer. They left talking about an America they never expected.  creators.yahoo.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNC0xcmp3T3MxTHJGMjBVXzJlNGc1Ump2dHRYNjdKS2o5RlItNmRldUNPTTZ0VHZhckJMaXlDejUwUGpNc1hQaFVtU2toeVdENkxuR05kZy00QkNISEViS19GY0EzVERBUGpkNDhHRjNiSEx5MjJ4Vi1YUk5SOGpsSzlKN0Zkb21mMjFVZHE2eW1lUjdpUG5GMTBQQWstZVEtOXVIZURmR0FRTDZMZG1fUDFoY21yMHVkbkdqejZJZlZkUWN4ZUptNGktamNPc1kxVENBRDl0UTQxSkk?oc=5",
-      "publishedAt": "2026-09-20T14:45:06+00:00",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQeHZnQk5lR0dLTE5UeWhHdjV6WWVLb1FiUHpEMk9nbnRfUGRvZmhERjFZSTVPT2ZCMkFGTGhTc2UxWjNwVVRrem16VnByQjhLcjZmNllSWERIRVhoSWdtb0xFZUtjaWlhU1Z2cTdYVTJkOFlqbWRIR1Z6NDhTQnMyYjhyc003WXgxMVFJelhkNWlQMXRBR0xlczJvSjdQVHJBblBIeG53?oc=5",
+      "publishedAt": "2026-09-20T15:08:42+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-quarterfinal-nigeria-vs-colombia-live-stream-how-to-watch-2026-fifa-u-20-women-s-world-cup-fubo",
-      "title": "四分之一决赛：尼日利亚 vs 哥伦比亚直播：如何观看 2026 年 FIFA U-20 女子世界杯 - Fubo",
-      "summary": "四分之一决赛：尼日利亚 vs 哥伦比亚直播：如何观看 2026 年 FIFA U-20 女子世界杯 Fubo",
-      "originalTitle": "Quarterfinal: Nigeria vs Colombia Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup - Fubo",
-      "originalSummary": "Quarterfinal: Nigeria vs Colombia Live Stream: How to Watch 2026 FIFA U-20 Women's World Cup  Fubo",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOeWhIU0lDRGxlR05md05QWnVMNHpWWmdCQi1RcXQ1Z0JOXy02ZGt2WlY4R0JKXzVvT2hPSFN4d1M4REFPOWtfZUVKNm1Rd0R4ZUpZSnhwWTNrTk9TdTBycV9iRTcxU0JwWXRaQ3dXSW4tYWtUWFNpY0ZLbmstX1pjNWFFTlRfRUpPNlVJbzBHbXFNNy1ERlhyYzNhWEpqNExqeTlXU1p6QlN4UVNFVy1fSVk4amUtU0RpUE4wVXRuMW9SY3NCNDhQd0ViVWY0TXlmLXFPWVRSNHJxMmVnS1NvYg?oc=5",
-      "publishedAt": "2026-09-20T14:27:39+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-laporta-barcelona-won-the-world-cup-thanks-to-eight-spain-stars-morocco-world-news",
-      "title": "拉波尔塔：凭借八位西班牙球星，“巴塞罗那赢得了世界杯” - 摩洛哥世界新闻",
-      "summary": "拉波尔塔：“巴塞罗那赢得世界杯”得益于八位西班牙球星 摩洛哥世界新闻",
-      "originalTitle": "Laporta: ‘Barcelona Won the World Cup’ Thanks to Eight Spain Stars - Morocco World News",
-      "originalSummary": "Laporta: ‘Barcelona Won the World Cup’ Thanks to Eight Spain Stars  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQckVHbjRKNzdIUDhpZWhpZ2dOWTBCRG1ocm1rVzB3dmFVRllGWTRuZG11eXlPVzJ0MzdIdnlyUG9aYWNEakZnRWRiT29uWGlYQU5tTmlqQnd0R3V5UzFBR001WXBUWEVIY2t1VVFULXByQkswOTNUbGdfNGFObWY4aUNSbk8zYU1acjk5SE0zNlRPQzR0ZXFSb0lsZjNyRk9rcElFYnhzVW9EMXRzS0V6T0R3?oc=5",
-      "publishedAt": "2026-09-20T12:50:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-u-20-women-s-world-cup-nigeria-s-official-line-up-against-colombia-revealed-dailysports-net",
-      "title": "2026 FIFA U-20 女子世界杯：尼日利亚对阵哥伦比亚的官方阵容揭晓 - dailysports.net",
-      "summary": "2026 年 FIFA U-20 女子世界杯：尼日利亚对阵哥伦比亚的官方阵容揭晓 dailysports.net",
-      "originalTitle": "2026 FIFA U-20 Women’s World Cup: Nigeria’s official line-up against Colombia revealed - dailysports.net",
-      "originalSummary": "2026 FIFA U-20 Women’s World Cup: Nigeria’s official line-up against Colombia revealed  dailysports.net",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcFVpWHRPVUhtcmNfcExpN3JLLWc3Y2lwdE5TdHRJYk5RSlhuT2p6ajZKVXNFN29tSXdEWHNGUXBGTVpmei15UHhNNFdBR3JsdWFKa2JDV0g3WkQ0ODlDNFdZZFc4RnZNS2lNb1dJSFFLWHNyVEUwVS00Q1lrNTJZdWFQOWZ4VzM1UFpjNmlsSl94OHoxbmF6d3Bnb3lJRkVwYWptcWphMmstRkliZ1FtMlpTNA?oc=5",
-      "publishedAt": "2026-09-20T12:47:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
-      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
-      "summary": "夏奇拉和伯纳男孩 – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
-      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
-      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbDBfc1dVNGNKanlqMkRsSllHOHlnYkJvUk5acDBRM0Q4UW9UUDE3TG1JQXBSamNqeWN6anBNZkhsUVdwT3poTFVpQk9NYTFuYWxfV1FrVXlyMXI1NmFwa2hlekRTd09DZHR4SXZmUzB2OU93cWFxcTEyTWw3clpPbGdPNzhsZW9PS3VWUXBPM01DZ1luT1ZwcHg3S3Badw?oc=5",
-      "publishedAt": "2026-09-20T12:23:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-u-20-women-s-world-cup-1-semi-final-fixture-confirmed-as-nigeria-face-colombia-vanguardngr-com",
-      "title": "U-20 女子世界杯：尼日利亚对阵哥伦比亚，半决赛已确定一场 - vanguardngr.com",
-      "summary": "U-20 女子世界杯：半决赛一场确定，尼日利亚对阵哥伦比亚 vanguardngr.com",
-      "originalTitle": "U-20 Women’s World Cup: 1 semi-final fixture confirmed as Nigeria face Colombia - vanguardngr.com",
-      "originalSummary": "U-20 Women’s World Cup: 1 semi-final fixture confirmed as Nigeria face Colombia  vanguardngr.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSy1GcHBvd1g2dlpNYTF5MGxBdFFKMDRmcEZZb0UydGMtR0EwMTM3WFVHaUlvQXpzc0FQRXJhSHdKUmlocjN6WnQzMjAtblJtUlFtNkNBSUk4bF9oNEpiblcxMDBMY08ydVR6RDhjNlAycGEzcngyWHFtRDdhVlh1UkpYaE9qSFZSZDAxN05MVy1iMS1WQWZHcFBRWW96cjFad1VnMmhRSTQ1SUVaeEEweERxNUzSAboBQVVfeXFMT2ljdVV0emZTenZHSVNZOVdCeHpyWm83aHJzSHR3MWI2eFZyU1Y3QVVRWnI0d0tNaUtqQ1pMZGlid05tMTEzODU0d3N6R01pWHVhVGVta2s4Q0RDT1JqLUlndW0xT1lmWGV5czJPZzU4Qm9MZDZtUnZMWC05UnBkMWR0QWF6ekczaDNXYTBaaFB2LW9qME5tLWR5QzYwaEoyRF9GZzJYTmNnZmJtNnIwaDdvaGNmbWZsd2FR?oc=5",
-      "publishedAt": "2026-09-20T11:26:43+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-i-didn-t-like-it-thomas-tuchel-speaks-out-following-harry-maguire-world-cup-omission-yahoo-sports",
-      "title": "“我不喜欢它......”托马斯·图赫尔在哈里·马奎尔缺席世界杯后说道 - 雅虎体育",
-      "summary": "“我不喜欢……”托马斯·图赫尔在哈里·马奎尔缺席世界杯后说道 雅虎体育",
-      "originalTitle": "\"I Didn't Like It...\" Thomas Tuchel Speaks Out Following Harry Maguire World Cup Omission - Yahoo Sports",
-      "originalSummary": "\"I Didn't Like It...\" Thomas Tuchel Speaks Out Following Harry Maguire World Cup Omission  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMkNIXzRsaEhwVXpZNW1ibEZ5ZTl1LWtKLUduSWFaX19OaktmdWt3a1dhRkZpWEpvT0gxWkM1VmNFX0gwTzZzRWZpUXVDdzRWczFERzh1NkRzdlhoRW5aMmo5QWZJRV9pajhzWFMwdEc2SkY4TVJFYzNybVk2VE9vRDJGU05pdGtsUmlSX0RB?oc=5",
-      "publishedAt": "2026-09-20T11:15:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-england-world-cup-2026-squad-odds-who-will-start-vs-croatia-squawka",
-      "title": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？ - 斯夸卡",
-      "summary": "2026 年英格兰世界杯阵容赔率：谁将首发对阵克罗地亚？  斯夸卡",
-      "originalTitle": "England World Cup 2026 squad odds: Who will start vs Croatia? - Squawka",
-      "originalSummary": "England World Cup 2026 squad odds: Who will start vs Croatia?  Squawka",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWE1MczdQSC1oSFhlRDg3ZkQwa0NBSXhHZVZNakJETFhlRmgwOVJVaUFyV2d1bngxQTJob2FFYldvVU90dl8tOG5GUG5vVVZ3THdSX29sVkdHZ181SGlZOEx1WjI2dG04SHcxakQ2THBiNF9tZGhqcVpPZE9VWXlGbnlKb19TaWhlZDBaaVhyWUI4NFU?oc=5",
-      "publishedAt": "2026-09-20T11:07:10+00:00",
-      "heat": 60
     }
   ]
 }
