@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-24T16:53:16.050987+00:00",
+  "updatedAt": "2026-09-24T20:20:12.234619+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,78 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-inside-the-massive-public-safety-operation-behind-the-2026-world-cup-police1-com",
+      "title": "2026 年世界杯背后的大规模公共安全行动 - Police1.com",
+      "summary": "2026 年世界杯背后大规模公共安全行动的内部警察1.com",
+      "originalTitle": "Inside the massive public safety operation behind the 2026 World Cup - police1.com",
+      "originalSummary": "Inside the massive public safety operation behind the 2026 World Cup  police1.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDc4bTNOdzJ6Wnk2VVAwYXloYU1tcjVSeHhIUF83T01xb0pqbzlpT2pRNmpscU55bHJLNlphYXh3OHpsOXRUSnhHYUNzNGVITTBJbVFkYmp6b2lraGlITk5XYWIzdVh2Ym9nVXAyeUtGdllhOUVEazM5OVpVeWQzTHhYWHR5ZVM2ckp0QU1wR0lzZ2JBQUl2eG9PeXVhSVN6c2NPb3o1Q0RfQQ?oc=5",
+      "publishedAt": "2026-09-24T19:55:11+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-exclusive-usmnt-s-alex-freeman-reveals-what-his-new-normal-is-like-after-breakout-world-cup-new-york-post",
+      "title": "独家|美国国家队的亚历克斯·弗里曼透露了世界杯爆发后他的新常态 - 纽约邮报",
+      "summary": "独家|美国国家队 (USMNT) 的亚历克斯·弗里曼 (Alex Freeman) 透露了世界杯爆发后他的新常态 《纽约邮报》",
+      "originalTitle": "Exclusive | USMNT's Alex Freeman reveals what his new normal is like after breakout World Cup - New York Post",
+      "originalSummary": "Exclusive | USMNT's Alex Freeman reveals what his new normal is like after breakout World Cup  New York Post",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPOEdVX1hXWnF6UEMwSFdEX2d5NFZyakctX1NaUVIzSHNEcGplclBleXpvWWV5Q0E4cmt4MFhzam1hRTNJblBrY2Q2RHBSak9ZbzlHY0J6UWFZcTU2aG8zWlFaNVlSRWRpeVRGZDlpU0pyX2RLbER6VjRhQ2s4OGF5ZG53a1lteVJ4OXQ1NG9fNmRMbTdYVHdpd2xLZ1B5OEdqbDR2RWswRDliRHBHemtPQy1sTk9xWHNfdkE?oc=5",
+      "publishedAt": "2026-09-24T19:04:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-england-vs-spain-tuchel-looks-to-banish-argentina-ghosts-against-world-champions-yahoo-sports",
+      "title": "英格兰对阵西班牙：图赫尔希望消除阿根廷对阵世界冠军的幽灵 - 雅虎体育",
+      "summary": "英格兰 vs 西班牙：图赫尔希望消除阿根廷对阵世界冠军的幽灵 雅虎体育",
+      "originalTitle": "England vs Spain: Tuchel looks to banish Argentina ghosts against World champions - Yahoo Sports",
+      "originalSummary": "England vs Spain: Tuchel looks to banish Argentina ghosts against World champions  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNM25DRWJwS1oxV3pRM0FsUkl5QWdyWXY1cVJwak9KMGZ4VXdCVERmN1R5cGd3RTNYR2Q3c0x1VUVEWVhoaDJxNHY4YWgwa1FSVjgwdnBoMmZVRUExazNyeUxYa3lzWlpDMU5kNnJ3eURKNGM2ZlR0UXJMcnB2Q0xlaWxQUXo?oc=5",
+      "publishedAt": "2026-09-24T18:35:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-infantino-looks-set-to-stay-but-fifa-faces-a-new-war-over-power-reuters",
+      "title": "因凡蒂诺看起来将留下来，但国际足联面临新的权力之战 - 路透中文网",
+      "summary": "因凡蒂诺看起来将留下来，但国际足联面临新的权力之战 - 路透中文网",
+      "originalTitle": "Infantino looks set to stay, but FIFA faces a new war over power - Reuters",
+      "originalSummary": "Infantino looks set to stay, but FIFA faces a new war over power  Reuters",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ004UTM5QzNmUXhUZGRRcTZpQVRPYzltSXJaRHFlYWpLb3AyUFd6OUdxREFjRW1UcXVuaHhkRjQxc2cxX05qTDBLWXRnY1hGbEU0TG9JelZyUEpPVFpWQk00RWdNX1hjX09EZkhWMUYwb25RTkNoVGkxNXV4MFpYRlNqY3BWUUItZk15WHJjUHY4ZDZmYktyMVNKR0ZvMC1oMUlJOHJJbw?oc=5",
+      "publishedAt": "2026-09-24T18:27:47+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-us-lawmakers-say-gianni-infantino-has-been-woefully-inadequate-in-fifa-trump-probe-fifa-responds-the-times-o",
+      "title": "国际足联回应称，美国议员称詹尼·因凡蒂诺在国际足联与特朗普之间的调查中表现“严重不足” - 印度时报",
+      "summary": "美国立法者称詹尼·因凡蒂诺在国际足联与特朗普的调查中“严重不足”，国际足联回应《印度时报》",
+      "originalTitle": "US lawmakers say Gianni Infantino has been 'woefully inadequate' in FIFA-Trump probe, FIFA responds - The Times of India",
+      "originalSummary": "US lawmakers say Gianni Infantino has been 'woefully inadequate' in FIFA-Trump probe, FIFA responds  The Times of India",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQNGNFYkh0SjItM24xUHRSZnJIUzZxU09feFV6aHhQS29hRHlrM0J5ODJFYVhzVk5Ka0dHRmJEVWdNSkdKOUlZZVZ5OWhzYmFGTXMxSGFNa3NPQU10NkpiQTJKSXVrQmc0d1lNQkpXUVloSGhQT18wWTFHdjZTNHJWVG5OcDlyelVFTzFKV3g2NHZWQ3c2NGdwT0RwUnl0VnhSd0x5Q3BJanlTOV9HaTNXVHhpdW1iM0NSWDZSdjB0R0s1b1Q2OS1WY2s4dWYxS2h2dzRsVmZUbk1oMldQWG9RMlBrM3BDQ3pKOGkwdW9NS3VPdzBxaU96UGRlWTNWT2RxQmtHNHRqc1VzbXFsVnlTRHMzQUF1Tm5J0gGeAkFVX3lxTE5xOGhSUDM4VHlnZ0gwbVpzU0VRam5YcVVuN25WY3ZsUFJuM2R5NlB0bTNWR3RwbGFsVFRrUmdPVTV1N00xOTAwV0Rqc21HYkVDYnlWNjY2WGpSVkltMzYtQk1nbVFGTW1UbTZTQzF2bUZ5QVZtOHNJZXVUTUxyNUpDQlFVS2pXNVF0cTA3MDQ1NEpvNENnenluY1ltM2cyS0Z0NE5zVk5WQnlwZlI3cGNXUDNpOHFBNi1EbG5pc0pSOUtZRERUTGdlN3ZON2RodW0wYkMtWVN1RXNrS3hZdkMyZTdmZE1vc0dfNGk1OFg1Z1ZHa0V2STl5TWtzUk01T0NpeVBrRURreXprNGpjVVhtU2xqZ2hPcUozS19ucXc?oc=5",
+      "publishedAt": "2026-09-24T18:04:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-09-24T16:27:25+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-the-dark-side-of-north-america-s-2026-world-cup-yellow-scene-magazine",
       "title": "2026 年北美世界杯的阴暗面 - Yellow Scene Magazine",
@@ -17,6 +89,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcGJPZVJfbUUwenlYcnFnOEZvcUZRT09QWWZ6NmlrWGtndFdtZ3U5T1R1NjFLU2VsUGtmOVFkQi1TYmZkRVd0akVGb2xtOERSckExVFJPUTYzVVBBdVB6SGRMMEl2eUdpMjVMZjNOVkNTLTR5RkFSWTFQRUxwWTVzSkFhdkJpWG1VY3c?oc=5",
       "publishedAt": "2026-09-24T16:14:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-india-begin-costly-fifa-friendly-window-vs-panama-ahead-of-brazil-uruguay-nationalheraldindia-com",
+      "title": "印度先于巴西和乌拉圭开始与巴拿马的国际足联友谊赛",
+      "summary": "印度先于巴西和乌拉圭开始了昂贵的国际足联友谊赛窗口，对阵巴拿马",
+      "originalTitle": "India begin costly FIFA friendly window vs Panama ahead of Brazil, Uruguay - nationalheraldindia.com",
+      "originalSummary": "India begin costly FIFA friendly window vs Panama ahead of Brazil, Uruguay  nationalheraldindia.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNaVRrUmVzaDNSQkdxTkhKV0xnNlFYbjhBd3ROWjZtRk93czF2T1NyYU8zdUZfeWZsd1FrajUxRDFXUTY3SUZzUjhSY0YwZnJTb0lMZ3FSa0pRbmVJd1NoekR4dEFfTlZ2WXRMMnNqSk4yd1BTZjl6YXZ3eEM1QlJpRUZ1NXA3cnlFMnJ5MEJBUUJiaWxYS0RfRkUzdHo0X1dVRjFuWlN4RWJ2N2JYWTBVRk9pU1czS3RsdHhZekxKSVFSbko30gHEAUFVX3lxTE1pVGtSZXNoM1JCR3FOSEpXTGc2UVhuOEF3dE5aNm1GT3dzMXZPU3JhTzN1Rl95Zmx3UWtqNTFEMVdRNjdJRnNSOFJjRjBmclNvSUxncVJrSlFuZUl3U2h6RHh0QV9OVnZZdEwyc2pKTjJ3UFNmOXphdnd4QzVCUmlFRnU1cDdyeUUycnkwQkFRQmJpbFhLRF9GRTN0ejRfV1VGMW5aU3hFYnY3YlhZMFVGT2lTVzNLdGx0eFl6TEpJUVJuSjc?oc=5",
+      "publishedAt": "2026-09-24T16:00:41+00:00",
       "heat": 52
     },
     {
@@ -32,6 +116,18 @@
       "heat": 52
     },
     {
+      "id": "google-新闻-中文-9-月-24-日晚上-9-点-2026-年亚运会奖牌榜最新更新-vietnam-vn",
+      "title": "9 月 24 日晚上 9 点：2026 年亚运会奖牌榜最新更新。 - Vietnam.vn",
+      "summary": "9 月 24 日晚上 9 点：2026 年亚运会奖牌榜最新更新。  Vietnam.vn",
+      "originalTitle": "9 月 24 日晚上 9 点：2026 年亚运会奖牌榜最新更新。 - Vietnam.vn",
+      "originalSummary": "9 月 24 日晚上 9 点：2026 年亚运会奖牌榜最新更新。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVTdEclBndFg1bFhjMU50MGo3TGdmUGI0WGllRlpfLVlzYU43Z05Yc3ZscFRINWI0WGxyN3l1dXZFWWpUOENubGU0NF9ybjRfWDQ4cEctSVRLMnkySUYtMTc3bk5SdVVUMGZQVmRsY085YVU3WDkyMGc5V1pxUDJTUWVaaWNic2NEcUROazhuYkhpNVp4ZVBEa3pkMHU?oc=5",
+      "publishedAt": "2026-09-24T15:36:34+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-jude-bellingham-leaves-fans-in-stitches-with-reaction-to-winning-2026-world-cup-award-didn-t-know-it-was-a-t",
       "title": "裘德·贝林厄姆 (Jude Bellingham) 赢得 2026 年世界杯奖项令球迷们心潮澎湃：“不知道这是一件事” - LiveScore",
       "summary": "裘德·贝林厄姆 (Jude Bellingham) 赢得 2026 年世界杯奖项令球迷们心潮澎湃：“不知道这是一件事”",
@@ -45,27 +141,15 @@
     },
     {
       "id": "google-news-u-s-u-17-wnt-head-coach-ciara-crinion-names-21-player-roster-for-2026-fifa-u-17-women-s-world-cup-in-morocco",
-      "title": "美国 U-17 WNT 主教练 Ciara Crinion 公布了 2026 年摩洛哥 FIFA U-17 女子世界杯 21 名球员名单 - 美国足球",
-      "summary": "美国 U-17 WNT 主教练 Ciara Crinion 公布了 2026 年摩洛哥 FIFA U-17 女子世界杯的 21 名球员名单 US Soccer",
-      "originalTitle": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco - US Soccer",
-      "originalSummary": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco  US Soccer",
+      "title": "美国 U-17 WNT 主教练 Ciara Crinion 公布了 2026 年摩洛哥 FIFA U-17 女子世界杯 21 名球员名单 - ussoccer.com",
+      "summary": "美国 U-17 WNT 主教练 Ciara Crinion 公布了 2026 年摩洛哥 FIFA U-17 女子世界杯的 21 名球员名单 ussoccer.com",
+      "originalTitle": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco - ussoccer.com",
+      "originalSummary": "U.S. U-17 WNT Head Coach Ciara Crinion Names 21-Player Roster for 2026 FIFA U-17 Women's World Cup in Morocco  ussoccer.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQZG9yTEZUMnRHeUNNTFktTGk2UTdhaFVJcWZrZ1ZYVzhKYWZuTUFKWFgyTExmRXd0NVZoQU82aDlYcHJXemxXbHhTX0xuWE5qc3NwOXhON052dzlPanYxeVVoNU9ZRE1GSU5MZmVWWEpiLWR0VmhlUlpnYmZiTnhIbXhRejJmTGRHV0ltTGhWNFBCVmRqd1FiTjhPY01lMnFqWnliZVcxV3E2ZlZER0JIUmRlZ2tjSmMzVW55SExR?oc=5",
       "publishedAt": "2026-09-24T15:04:40+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-ronaldo-reveals-why-he-continued-after-2026-world-cup-new-telegraph",
-      "title": "C罗透露为何他在 2026 年世界杯后继续执教 - 新电讯报",
-      "summary": "C 罗透露了他在 2026 年世界杯后继续执教的原因 - 新电讯报",
-      "originalTitle": "Ronaldo Reveals Why He Continued After 2026 World Cup - New Telegraph",
-      "originalSummary": "Ronaldo Reveals Why He Continued After 2026 World Cup  New Telegraph",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNX2dRcHo1SW9LVFM2ajJuMi1aakduRjF3RmxaRHZTblNrTEdtdXFPR29ZdTFpVHpIV2dEZ3hDYWduU3c1aXc4bXJCV3hfM0lBZEw4NVRiYzB6Q0E3RDREV3BYc1E0STlTdFZQR3BBbGdGNFY3Qzc5dFBoZzFWYUhydGJZRFlwSE5K?oc=5",
-      "publishedAt": "2026-09-24T15:00:31+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-cristiano-ronaldo-considered-international-retirement-after-portugal-s-fifa-world-cup-2026-loss-ndtv-profit",
@@ -80,6 +164,18 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-黄德在fifa东盟杯开赛前更新了他的伤情-vietnam-vn",
+      "title": "黄德在FIFA东盟杯开赛前更新了他的伤情。 - Vietnam.vn",
+      "summary": "黄德在FIFA东盟杯开赛前更新了他的伤情。  Vietnam.vn",
+      "originalTitle": "黄德在FIFA东盟杯开赛前更新了他的伤情。 - Vietnam.vn",
+      "originalSummary": "黄德在FIFA东盟杯开赛前更新了他的伤情。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUEhYREpyMGlwM1RQR3BJZld6MVM3SDlGejNEdHBxck9OSDZYYkR0S3l0VGlTcnZ1Y0RVdFdXN0NPMVhrMndvT1RCcEh4N08ydlY3X24tWjAwMTNOTm5ab2o5bmxTTWRPVEs3Xy1WcXdsVzZ6Y0I2S2NoMDkxRmVBUkR5Z08zcVdaNm9nbFN4NDduQQ?oc=5",
+      "publishedAt": "2026-09-24T14:48:44+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-cristiano-ronaldo-updates-his-portugal-future-amid-retirement-speculation-after-2026-world-cup-bleacher-repo",
       "title": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯后退役的猜测中更新了他在葡萄牙的未来 - Bleacher Report",
       "summary": "克里斯蒂亚诺·罗纳尔多 (Cristiano Ronaldo) 在 2026 年世界杯后退休猜测中更新了他在葡萄牙的未来",
@@ -90,42 +186,6 @@
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOSUNaYzhSU3RrRkRtSHFyQ0FVdWtVcjNwNDk2a25zbG43RlFqUVh5Vlp4UnhlbkJkQTJ4MGdhVkxKdWFCc0xCNkQtWWlGazF0dlNQNkxBNzNLTmk0QUdFVUptVmlSVGhxYWpUZnNhTURvNk1TRVBpNEdEN1hERExGOVdPWXBkbk1oWUJaV0hvM2doTFJ5YUFKVmZiX1NKX05OSVl3LVZXM0tGMEdwTXNvOWFSYVpncGJIRFZSZUx6OWl2WVIwd2tNZEdqTHQzN3ZNREtKMnB3?oc=5",
       "publishedAt": "2026-09-24T14:47:11+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-turkiye-vs-france-prediction-and-betting-tips-september-25th-2026-sportskeeda",
-      "title": "土耳其 vs 法国预测和投注技巧| 土耳其2026 年 9 月 25 日 - Sportskeeda",
-      "summary": "土耳其 vs 法国预测和投注技巧| 土耳其2026 年 9 月 25 日  Sportskeeda",
-      "originalTitle": "Turkiye vs France Prediction and Betting Tips | September 25th 2026 - Sportskeeda",
-      "originalSummary": "Turkiye vs France Prediction and Betting Tips | September 25th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQM3Q2aDBRYXFVblZiSHJPZUFKMklRVXQ5ZUhVRnVFeXlfU2dFdWpXWFphNi1nOHduMUZ2VmVENEplSFhVLVZkOXRNUkJGOGRHUUNSQzJHN0pkMjIzM2NjYkY2c01YcHZ5TEN1S3lWRXdiMUNOWjlyTTNkbEJpTGhhUWRfam50YzJjXzRscHgxQnc0VXJCNnNCWHVDTzhnbWc?oc=5",
-      "publishedAt": "2026-09-24T14:34:19+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-infantino-looks-set-to-stay-but-fifa-faces-a-new-war-over-power-reuters",
-      "title": "因凡蒂诺看起来将留下来，但国际足联面临新的权力之战 - 路透中文网",
-      "summary": "因凡蒂诺看起来将留下来，但国际足联面临新的权力之战 - 路透中文网",
-      "originalTitle": "Infantino looks set to stay, but FIFA faces a new war over power - Reuters",
-      "originalSummary": "Infantino looks set to stay, but FIFA faces a new war over power  Reuters",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZ004UTM5QzNmUXhUZGRRcTZpQVRPYzltSXJaRHFlYWpLb3AyUFd6OUdxREFjRW1UcXVuaHhkRjQxc2cxX05qTDBLWXRnY1hGbEU0TG9JelZyUEpPVFpWQk00RWdNX1hjX09EZkhWMUYwb25RTkNoVGkxNXV4MFpYRlNqY3BWUUItZk15WHJjUHY4ZDZmYktyMVNKR0ZvMC1oMUlJOHJJbw?oc=5",
-      "publishedAt": "2026-09-24T14:27:39+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-serbia-vs-greece-prediction-and-betting-tips-september-24th-2026-sportskeeda",
-      "title": "塞尔维亚 vs 希腊预测和投注技巧| 塞尔维亚 vs 希腊2026 年 9 月 24 日 - Sportskeeda",
-      "summary": "塞尔维亚 vs 希腊预测和投注技巧| 塞尔维亚 vs 希腊2026 年 9 月 24 日  Sportskeeda",
-      "originalTitle": "Serbia vs Greece Prediction and Betting Tips | September 24th 2026 - Sportskeeda",
-      "originalSummary": "Serbia vs Greece Prediction and Betting Tips | September 24th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYXItME9ydmFWOUZqQlZldHpYUlg1ZWxuVWtkaFpQeXNhbnhmYmhxOXRMS3k3UlN4LUJwX0NqS1kwLS03R1FVTE1oU2VxaTY1Y01GQUh5ZC1fSHdwajJnenROcVFhOC0yTkxwd1kwbmtkQXRkaGNic3FXYnlXS3dySkhTZE92ZWxqOXVnN1BGbnVPNUVGTGQ4WEVROUgzZw?oc=5",
-      "publishedAt": "2026-09-24T14:18:18+00:00",
-      "heat": 44
     },
     {
       "id": "google-news-south-korea-vs-ecuador-prediction-and-betting-tips-september-24th-2026-sportskeeda",
@@ -152,76 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-asean-cup-features-same-left-sleeve-badge-as-the-2026-fifa-world-cup-final-footy-headlines",
-      "title": "FIFA 东盟杯采用与 2026 年 FIFA 世界杯决赛相同的左袖徽章 - Footy Headlines",
-      "summary": "FIFA 东盟杯采用与 2026 年 FIFA 世界杯决赛相同的左袖徽章",
-      "originalTitle": "FIFA ASEAN Cup Features Same Left-Sleeve Badge as the 2026 FIFA World Cup Final - Footy Headlines",
-      "originalSummary": "FIFA ASEAN Cup Features Same Left-Sleeve Badge as the 2026 FIFA World Cup Final  Footy Headlines",
+      "id": "google-news-fifa-asean-cup-features-same-left-sleeve-kit-badge-as-in-2026-fifa-world-cup-final-footy-headlines",
+      "title": "FIFA 东盟杯采用与 2026 年 FIFA 世界杯决赛相同的左袖球衣徽章 - Footy Headlines",
+      "summary": "FIFA 东盟杯采用与 2026 年 FIFA 世界杯决赛相同的左袖球衣徽章",
+      "originalTitle": "FIFA ASEAN Cup Features Same Left-Sleeve Kit Badge as in 2026 FIFA World Cup Final - Footy Headlines",
+      "originalSummary": "FIFA ASEAN Cup Features Same Left-Sleeve Kit Badge as in 2026 FIFA World Cup Final  Footy Headlines",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSGdibHNYWl85MEc5d3FFUGt6dXE0czY5dVpUVzBFWEtVOU1rd3QtOUQ2MDZWaWNLZGFfZldDMnczeUJaOXVxb3dyemRSbVRHejZkMWJRR2lQWnIzTjRXZllrTDNRb1JMSGZTb1RvSVFuOUJKaHNEN2FwaE81eG5WaWZmYkZQdXlrUjNyR3V1bW9yczhiZllCSWV6Mi1IN0gtNDM4VnBNZm9rRXc2TVEzTkRzYjc3MnpKMktRdnpBdjRySG1T?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYjRxZXpQWGNNa1FLRWpfV2ZtRVJkM2cxZEpyNjk0UnNQWmVwc2U1TTdyRG1oc182Sk1Rd3p1OHRPQ0daYzBXNHhyQ0NmcVRlN2YwV093bkhQc1hvS21MUUZCVEJ1dFIxc0R2NXJzN1FNaC16dnR0VDg2elRtTnRJTVppWVdrc0JaRDJCWVE2cFVWWW1tWGlFRl9VcTRYSmZvb2VudG5wc2tIS1BVQmc2elZ1Q0phbXVFRVhUVFQ1NUVwZ2JhM3RidQ?oc=5",
       "publishedAt": "2026-09-24T14:02:00+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-iconic-beverly-hills-hotel-sues-over-600k-booking-ghosting-that-left-dozens-of-rooms-empty-during-world-cup-",
-      "title": "比佛利山庄标志性酒店起诉世界杯期间导致数十间客房空置的“重影”预订，价值超过 60 万美元 - 《纽约邮报》",
-      "summary": "标志性的比佛利山庄酒店起诉价值超过 60 万美元的“重影”预订，导致世界杯期间数十间客房空置 《纽约邮报》",
-      "originalTitle": "Iconic Beverly Hills hotel sues over $600K booking ‘ghosting’ that left dozens of rooms empty during World Cup - New York Post",
-      "originalSummary": "Iconic Beverly Hills hotel sues over $600K booking ‘ghosting’ that left dozens of rooms empty during World Cup  New York Post",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPSS1uYXhkdk54cXZtVGFkSndZb3BDdmk3b0VPOHlfZkJZNm5iZldkNmowcm1LZUVoSndlYVkyeHMwdlJUTHdlX1o1Tm9wal84aE41QTZ1UEhaRVptb1BpMHoyeUZ0YlBqQkJBVWdXdG9IcXctS19Oc2VGUkttWHBrSG52bDMtakFHU1VPR3Z0SFlrcnJwMEdVUGhCcm05bms?oc=5",
-      "publishedAt": "2026-09-24T14:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-india-begin-world-cup-opposition-run-with-panama-test-telangana-today",
-      "title": "印度从巴拿马测试开始世界杯反对派 - 今日泰兰加纳",
-      "summary": "印度从巴拿马测试开始世界杯反对派今天特兰加纳",
-      "originalTitle": "India begin World Cup opposition run with Panama test - Telangana Today",
-      "originalSummary": "India begin World Cup opposition run with Panama test  Telangana Today",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQklyc0c2Y21vb0xLRHFfcTlDSnVqQjBNV0hET0kxb3FucjZZUmRIaWxFbkJLTjFqU29HODNnSjZ5TWFPa1VyazZqNGFCMDQ5dGdzNV9vbmwwcFZBY2FPR3U4VkFuZnJ3cEtvSDJndVVsd0RNcGZhOFpMVWk0RGtYb2Q0TXBUR2s?oc=5",
-      "publishedAt": "2026-09-24T13:58:07+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-see-photos-of-wadsworth-native-and-fifa-world-cup-referee-tori-penso-akron-beacon-journal",
-      "title": "查看沃兹沃斯当地人、国际足联世界杯裁判托里·彭索 (Tori Penso) 的照片 - Akron Beacon Journal",
-      "summary": "查看沃兹沃斯本地人和 FIFA 世界杯裁判托里·彭索 (Tori Penso) 的照片 Akron Beacon Journal",
-      "originalTitle": "See photos of Wadsworth native and FIFA World Cup referee Tori Penso - Akron Beacon Journal",
-      "originalSummary": "See photos of Wadsworth native and FIFA World Cup referee Tori Penso  Akron Beacon Journal",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNOXJvWXJjYXlfVU56MlB2NGlhb2MtR1Vyblh3SFpCYmwzUzJVNEpZTzRESG9LYzV2NXZCaWJxYmxjeVBTQVNPUnRJV25rM2dtVHV2UTJHSU1oLXBjUDFJME82LTI5VkVjQjhPeUhhRVBwNThobmx5LUpkMmI0T01leDhqMmF1NFQzUlgxT09CTjR6OWpCQUdDMzZWSHMxRFZsUEJWUzdfa0x3R1lRbGhLNkozS2JXUTZQSWlPZGhGWUIzLTdabko5cU1FbHA?oc=5",
-      "publishedAt": "2026-09-24T13:55:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-rwanda-vs-liberia-prediction-and-betting-tips-september-25th-2026-sportskeeda",
-      "title": "卢旺达 vs 利比里亚 预测和投注技巧| 卢旺达 vs 利比里亚 预测和投注技巧| 卢旺达 vs 利比里亚 预测和投注技巧2026 年 9 月 25 日 - Sportskeeda",
-      "summary": "卢旺达 vs 利比里亚 预测和投注技巧| 卢旺达 vs 利比里亚 预测和投注技巧| 卢旺达 vs 利比里亚 预测和投注技巧2026 年 9 月 25 日  Sportskeeda",
-      "originalTitle": "Rwanda vs Liberia Prediction and Betting Tips | September 25th 2026 - Sportskeeda",
-      "originalSummary": "Rwanda vs Liberia Prediction and Betting Tips | September 25th 2026  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSENJeGtJSkM3SFowZlktTGhZWGpDNXNkOGxPeEpUYzRRUGpJQVZpdGp2RjQwWlJGVy16blo2bDNFVTdvOW9pTG1TS2o0TkhhcFBvbnhER2xWNVNTQURJZmVrdUpQRGY0Y2IwdHRMUy1jSllXcjZSQUJqeTdRb1RuN0VIOFlqLTh1MXE5TFNEcnVuQmY4ZE12LXJVeUdRUGs?oc=5",
-      "publishedAt": "2026-09-24T13:49:56+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-you-ll-never-be-the-same-person-gordon-reflects-on-world-cup-exit-tnt-sports",
-      "title": "“你永远不会是同一个人”——戈登谈世界杯出局 - TNT Sports",
-      "summary": "“你永远不会是同一个人”——戈登谈世界杯出局 TNT Sports",
-      "originalTitle": "'You'll never be the same person' - Gordon reflects on World Cup exit - TNT Sports",
-      "originalSummary": "'You'll never be the same person' - Gordon reflects on World Cup exit  TNT Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM2xNNWlxUDEzZFl3WS1sd1hldUVmMl8tcVE0ZWk0TEw1YmIyOHhMalVoZERMOHF4aDBNRGRUUUdXbmtmLVNqc0VLQU5vLUF0cEt3Yk9sdGV3NUl3a084bWlWZHZSLXlMNkdTVWJTT3RwZEhacTlWTEdqeWRQZElMQ2ZucXZDbTlzVm5nR2xOdmFFRktHclNBRUFTZmpGaEVEVktoR3pzd0s0clJLTk9jUHZTa0pvZVFoOVFsN09DWHNBdw?oc=5",
-      "publishedAt": "2026-09-24T13:47:07+00:00",
-      "heat": 52
     }
   ]
 }
