@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-02T22:52:13.316206+00:00",
+  "updatedAt": "2026-10-03T01:49:04.402384+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,42 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-03T00:19:40+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-tyler-adams-named-usmnt-captain-with-new-world-cup-cycle-underway-yahoo",
+      "title": "泰勒·亚当斯任命美国国家队队长，新一轮世界杯即将开始 - 雅虎",
+      "summary": "泰勒·亚当斯 (Tyler Adams) 任命美国国家队 (USMNT) 队长，新一轮世界杯即将开始 雅虎",
+      "originalTitle": "Tyler Adams named USMNT captain with new World Cup cycle underway - Yahoo",
+      "originalSummary": "Tyler Adams named USMNT captain with new World Cup cycle underway  Yahoo",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNUV9PTlFzT3VSd0NmSzhUWGNJRTJHc19SNThEUkIxbC1RZG5lNUpEdkNwajN6dzBKUnhJRFh2V2J4SVdUSV9Za013U1QzYXM3cU5qTG1ndF8xRnpLZl85M0RnZkJQaWVSWmV1ZU9wMkJ4VjN6NHZkNmNsRnppdjB6M1p1WWJsZw?oc=5",
+      "publishedAt": "2026-10-02T22:57:56+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-usmnt-names-new-captain-with-2030-world-cup-cycle-underway-usa-today",
+      "title": "USMNT 任命新队长，迎接 2030 年世界杯周期 - 今日美国",
+      "summary": "USMNT 在 2030 年世界杯周期中任命新队长  今日美国",
+      "originalTitle": "USMNT names new captain with 2030 World Cup cycle underway - USA Today",
+      "originalSummary": "USMNT names new captain with 2030 World Cup cycle underway  USA Today",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTWZMYkRLc2FXOEVkTElLT3IzSWdXMmhxMnY1VkZBSGNFQ3Z4UzJtRzdTVmFFWTVwSXFlWGV4MjJ3M1pOQl9qQjA3MGQ2U05TNTE4ZlhUdHdidnlqMzhqX0Ezdmpnal93YXVyN1MzQVNza2ZBYjRWb2FPXzV0LVpHcXJwT2NYcWNOc0Z0cS11UlcyZUkwUUw3N3ZRWG9HVXBzaVpmMHZoMk9iLTM4X2FlcC1Na3lqcFQwZFAzeXgxQlJSWkstR25qc2pVRFd2N053UjRQVmptTktTUQ?oc=5",
+      "publishedAt": "2026-10-02T22:57:00+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-morocco-vs-ghana-preview-prediction-team-news-lineups-international-friendly-2026-khel-now",
       "title": "摩洛哥 vs 加纳前瞻 – 预测、球队新闻、阵容 | 2026 年国际友谊赛 - Khel Now",
@@ -80,11 +116,11 @@
       "heat": 60
     },
     {
-      "id": "google-news-france-edge-past-belgium-1-0-as-michael-olise-scores-late-winner-yahoo-sports",
-      "title": "迈克尔·奥利塞进球，法国1-0战胜比利时 - 雅虎体育",
-      "summary": "迈克尔·奥利斯 (Michael Olise) 进球，法国 1-0 战胜比利时 雅虎体育",
-      "originalTitle": "France Edge Past Belgium 1-0 as Michael Olise Scores Late Winner - Yahoo Sports",
-      "originalSummary": "France Edge Past Belgium 1-0 as Michael Olise Scores Late Winner  Yahoo Sports",
+      "id": "google-news-france-edge-past-belgium-1-0-as-michael-olise-scores-late-winner-sports-yahoo-com",
+      "title": "迈克尔·奥利斯 (Michael Olise) 进球，法国 1-0 战胜比利时 - sports.yahoo.com",
+      "summary": "迈克尔·奥利斯 (Michael Olise) 进球，法国 1-0 战胜比利时 sports.yahoo.com",
+      "originalTitle": "France Edge Past Belgium 1-0 as Michael Olise Scores Late Winner - sports.yahoo.com",
+      "originalSummary": "France Edge Past Belgium 1-0 as Michael Olise Scores Late Winner  sports.yahoo.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPdEx1UXdpVUlqWndqNFc4YVMxSllpU3czNDUwVnZqaGNMSnBzV0xOaWg5YUhMQVZ4Q0NSM0p0YWM4cnpFLTE0QnRpeHFUUmdGa2FkcmlmLXBHUGxsaEw2M3hSZHBYUEk2UVRmMmFjTTgwRFp0VWl4NVZzbjFhSmRkOQ?oc=5",
@@ -92,23 +128,23 @@
       "heat": 44
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-voachinese-com",
-      "title": "2026世界杯足球赛 - voachinese.com",
-      "summary": "2026世界杯足球赛  voachinese.com",
-      "originalTitle": "2026世界杯足球赛 - voachinese.com",
-      "originalSummary": "2026世界杯足球赛  voachinese.com",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-02T16:28:46+00:00",
+      "id": "google-news-ukraine-northern-ireland-nations-league-2026-live-broadcast-where-to-watch-sport-liga-net",
+      "title": "乌克兰-北爱尔兰。 2026 年国家联赛直播，在哪里观看 - sport-liga.net",
+      "summary": "乌克兰-北爱尔兰。 2026 年国家联赛直播，在哪里观看 sport-liga.net",
+      "originalTitle": "Ukraine – Northern Ireland. NATIONS League 2026 LIVE broadcast, where to watch - sport-liga.net",
+      "originalSummary": "Ukraine – Northern Ireland. NATIONS League 2026 LIVE broadcast, where to watch  sport-liga.net",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYVl6YnFHSl95Vm1hM08zU2twczFrRFVPYm5BQnZlbi1uUUYyOGFDb0dOdkx4TjFpVU9IU21sd2M2YjdBTmJ4S3dSa2J4d0thU0g0cDNneXgwbGIyeHVJYjAzelFqQWh2Rk5VeHBLbnhORVBnc2hVRjlTaWdESkQ4SkVoZjVCV2ppLWxBUWJZSXpsb1k0NnZLMVRraURyZW1Od053?oc=5",
+      "publishedAt": "2026-10-02T16:31:00+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-india-vs-brazil-football-2026-friendly-where-to-watch-live-venue-kick-off-time-squads-line-ups-all-the-times",
-      "title": "2026 年印度 vs 巴西足球友谊赛：在哪里观看直播；场地、开球时间、阵容、阵容；全部 - 印度时报",
-      "summary": "2026 年印度 vs 巴西足球友谊赛：在哪里观看直播；场地、开球时间、阵容、阵容；所有 印度时报",
-      "originalTitle": "India vs Brazil football 2026 friendly: Where to watch live; venue, kick-off time, squads, line-ups; all - The Times of India",
-      "originalSummary": "India vs Brazil football 2026 friendly: Where to watch live; venue, kick-off time, squads, line-ups; all  The Times of India",
+      "id": "google-news-india-vs-brazil-football-2026-friendly-where-to-watch-live-venue-kick-off-time-squads-line-ups-all-timesofin",
+      "title": "2026 年印度 vs 巴西足球友谊赛：在哪里观看直播；场地、开球时间、阵容、阵容；所有 - timesofindia.indiatimes.com",
+      "summary": "2026 年印度 vs 巴西足球友谊赛：在哪里观看直播；场地、开球时间、阵容、阵容；所有时间sofindia.indiatimes.com",
+      "originalTitle": "India vs Brazil football 2026 friendly: Where to watch live; venue, kick-off time, squads, line-ups; all - timesofindia.indiatimes.com",
+      "originalSummary": "India vs Brazil football 2026 friendly: Where to watch live; venue, kick-off time, squads, line-ups; all  timesofindia.indiatimes.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQZjdoUXRBYlJMTkVmb1F6QUJlLVN0QXktb0V5Tk5WWnJULTRrd2ZlNklJZ0U5LXYzRXoxcWRyOHlUMnNSUWVJbnRNNS1aekhUemV6ZXk3RVFTYk5UdGVzNHdBQzNidUlIRFdNb0gzS184ZmVFN2NCV2FLM2tXUGNRY0tmc1hlMEowTVJhNjBRVy1tMUxTeGluaUY1VGdCcUd3Tjh5N3drUkR3X2Jhc3dWZUFmMkk5bGg2NFh6UG9KeFBoODE1cFNDLVV6anp2T2hOS245c0ItQ2o5Z1RlT2dUY1RwbW9xVHZDcVVjUlFiOTJQaGNidGtCMFdkMU1yV29wNlN1a2JndGJQVFJvNzg0b1FhZ0hzYUhqR2t5c3A4MnI2REpPSWF3dVNISlhTd9IBswJBVV95cUxPc2k0NmxNeHJ5UGdmcHhOM3dCelVqNUtpNkdDWVhGZ2VaZnBlSFY1enUtbnY1bkNaZlFzQzVGM0xSRURWM1N6WXR3UC12V2h0Qk1uUUpLaTRvSFdyUUxOb1dMWUY5Qkxfa3dTRGU5MzdUak92WExvN2pIWXBMUUh5di1ua3ZBZVVZcmtJVG5DNWx2TDdMTm5tbzlnOUhCMDE3eURKMlBiWlBRVktDN2hvbDRCU2llMWVRaXM2Z0VCTldHTnZSTDlleTUzMnJWWk00Nk1FQmhiVEJuU01tZ1dZa1YtcHlqTTZieEZ4UFBXdkFCd3NKN0dTc1NoekJoUk5qNTlBWEtBTVItYzZBcEtlOE4yR0dZSFoxX3ZUNVhUdVlPSmRaTTVUSHJhYzFLSURLdFR3?oc=5",
@@ -164,11 +200,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
-      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja",
-      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy Six9ja",
-      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
-      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja-com",
+      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja.com",
+      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy  six9ja.com",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - six9ja.com",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  six9ja.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
@@ -176,52 +212,16 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-最新fifa东盟杯排名-越南排名第二-泰国遭遇爆冷失利-菲律宾继续保持榜首位置-vietnam-vn",
-      "title": "最新FIFA东盟杯排名：越南排名第二，泰国遭遇爆冷失利，菲律宾继续保持榜首位置。 - vietnam.vn",
-      "summary": "最新FIFA东盟杯排名：越南排名第二，泰国遭遇爆冷失利，菲律宾继续保持榜首位置。  vietnam.vn",
-      "originalTitle": "最新FIFA东盟杯排名：越南排名第二，泰国遭遇爆冷失利，菲律宾继续保持榜首位置。 - vietnam.vn",
-      "originalSummary": "最新FIFA东盟杯排名：越南排名第二，泰国遭遇爆冷失利，菲律宾继续保持榜首位置。  vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUXNPZ0kwVWl3b3R4Um1GUC1BQ0xscWNuTkJyTG41WGhhT2tqVVYteGJLYkxGMXYxT0lVZzhiN1lvV21jWUU5cjhTdkFVZ05rNnY1UmhDLVI2Vzd2LUc3aHJvS3F5bVBka2xqNE1kZ3VHeWxpSFFxY2JiNDNnZHctaU5YV3ZqWDh5SGp2SmNlMk13NGN1X3ZHNEROenVWaUdaclgtZjlTbnNsUmdLS1MtMDZCT0UxdjNtUDNJWDNoNVo?oc=5",
-      "publishedAt": "2026-10-02T14:43:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-us-defeats-australia-2-0-in-2nd-world-cup-win-securing-spot-in-knockout-round-abc-news-breaking-news-latest-",
-      "title": "美国队 2-0 击败澳大利亚队，第二次夺得世界杯冠军，锁定淘汰赛席位 - ABC News - 突发新闻、最新新闻和视频",
-      "summary": "美国队 2-0 击败澳大利亚队，第二次夺得世界杯冠军，锁定淘汰赛席位 ABC News - 突发新闻、最新新闻和视频",
-      "originalTitle": "US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round - ABC News - Breaking News, Latest News and Videos",
-      "originalSummary": "US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round  ABC News - Breaking News, Latest News and Videos",
+      "id": "google-news-a-possible-date-to-determine-the-final-of-the-fifa-world-cup-2030-organized-by-spain-portugal-and-morocco-be",
+      "title": "西班牙、葡萄牙和摩洛哥主办的 2030 年 FIFA 世界杯决赛可能确定日期 - beIN SPORTS",
+      "summary": "由西班牙、葡萄牙和摩洛哥主办的 2030 年 FIFA 世界杯决赛的可能日期 beIN SPORTS",
+      "originalTitle": "A Possible Date to Determine the Final of the FIFA World Cup 2030 Organized by Spain, Portugal, and Morocco - beIN SPORTS",
+      "originalSummary": "A Possible Date to Determine the Final of the FIFA World Cup 2030 Organized by Spain, Portugal, and Morocco  beIN SPORTS",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXBTR1FFbWpiY0NHdTVrbUJWMThud1VCeUdjdUxxMkNya3FSWFR3eVZ5VzhxQzh3dENoclVqRGZBRVgwU01OcS1CNEJPeF95cXhocWN4c25VX2Vya3RvemNxWUh3cE1Fay1tMDdJS3ZtYzhOa0Q2d202b1ZhaFZnOGJkdkUxWXFsM1FidnVVTHBMNzjSAZgBQVVfeXFMT3owMXU3ejVNb3AxWkItVllZMkZJNDZUdGhMT1YtcGt1WlVrcDJnQkZ0bzN1T3N5WkppLXdPVXpvazN1NUE1ZnoyenRka0lZT0szQ00za1FsZ1FJWDdZS1owU2JuVkR1SnRrWjFmNlV6SHJSeXFDcV9GcmMtUVlaLVlTdXU4NVotdThxNzd1UGV3bG4xYjBpYXk?oc=5",
-      "publishedAt": "2026-10-02T14:23:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNd0ZWWDVOc19ia3JCZnVxajFSTWhBZTZzLWpDWkliekpJdzJEZmw1OTFTNDNRaUNWTlpvV1pGZEVTRXFybTVTUHpuczRTc1hXMlFTQlpELW1rWUtQQXF0alV3cmVTTGdoZ1RDd1hGU3p2YXlWcG1mdFFxeGJrMmFCTGwxY0JhRTlIekpZSVNud0VWZEpGNWN3VjlBY1F6Q05pOE1mZzVJcGp1YWEzVTFPRzhjQkpaTC1GMi0wZTdTaWdKaDdrTE9UVE1CYWxLMzRzdmVvSDNEQWlLcGpoeGRfVTVXVFNzVjZ3LTBzUDFVZ3BLQmpNVmNqN240QnZLTTlEN1RjcnJ0c1NSMVl2TFk4YlVSNA?oc=5",
+      "publishedAt": "2026-10-02T14:58:46+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-fifa-highlights-rise-of-back-three-but-no-winning-formula-at-world-cup-free-malaysia-today",
-      "title": "国际足联强调三后卫的崛起，但世界杯上没有“获胜公式” - 今日自由马来西亚",
-      "summary": "国际足联强调三后卫的崛起，但世界杯上没有“获胜公式” – Free Malaysia Today",
-      "originalTitle": "Fifa highlights rise of back three, but no ‘winning formula’ at World Cup - Free Malaysia Today",
-      "originalSummary": "Fifa highlights rise of back three, but no ‘winning formula’ at World Cup  Free Malaysia Today",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQcy1idFpOeU8xOFd4ZHdtSG5JV1VjcEJPOHJnVE96cUtES1BaOFZfRmR1ZV8yWDdDSkNxRUk3c0JGcUFRcWk4QmFiRzFFanZxd0pjNlVyNHY5aGxwUDNWaE9hN0NqRkhSWmxVMTVYVGFhTHJFbFhvejgzNkFtYlpDRTZTN0pWaUVRUjdSRUEtUWhhaGFuTHpqYTdmYnBONE5iTTVZRGgwdEFaVzAwTzlyWUhwOEY0bmtzVnBNYjFrT1haeWNGTlBLTHEtSktXcFk?oc=5",
-      "publishedAt": "2026-10-02T13:53:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-india-vs-brazil-football-2026-know-where-to-watch-ind-vs-bra-friendly-match-live-streaming-and-telecast-olym",
-      "title": "印度 vs 巴西足球 2026：知道在哪里观看 IND vs BRA 友谊赛直播和电视转播 - olympics.com",
-      "summary": "2026 年印度 vs 巴西足球：知道在哪里观看 IND vs BRA 友谊赛直播和转播 olympics.com",
-      "originalTitle": "India vs Brazil football 2026: Know where to watch IND vs BRA friendly match live streaming and telecast - olympics.com",
-      "originalSummary": "India vs Brazil football 2026: Know where to watch IND vs BRA friendly match live streaming and telecast  olympics.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPWHVBdF84OHlkODNORG85NGJYRFF2emUydlZ4YjZ3Y0Vjd2lFaFBlN0pxam5nbXZ3azIzMTEyUUl1Smg1Ty1EWDRzREp2SGc5U25mMVJnYWJCSkVfUHNIQ0Z0VGsyOGREeHBOVVdRQmRrRlYtNlBoVVBWNG9YTnhmU0tWTzJyZHl6OUo5VS1NZXhVY2RSNlhiSmZxOGRLZWhxelBaT1l0RjkySEVjcXd3TXFn?oc=5",
-      "publishedAt": "2026-10-02T13:51:00+00:00",
-      "heat": 52
     }
   ]
 }
