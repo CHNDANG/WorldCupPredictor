@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-03T20:51:32.266134+00:00",
+  "updatedAt": "2026-10-03T23:39:26.164427+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-arsène-wenger-and-african-coaches-to-dissect-record-breaking-2026-world-cup-daily-times-nigeria",
+      "title": "温格和非洲教练剖析破纪录的 2026 年世界杯",
+      "summary": "阿尔塞纳·温格 (Arsène Wenger) 和非洲教练剖析破纪录的 2026 年世界杯",
+      "originalTitle": "Arsène Wenger and African Coaches to Dissect Record-Breaking 2026 World Cup - DAILY TIMES Nigeria",
+      "originalSummary": "Arsène Wenger and African Coaches to Dissect Record-Breaking 2026 World Cup  DAILY TIMES Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzN1cmtUNjgzLUxPeWJ3eGdidnEwNllZYl90eUd0ODBCMzNNYmY3djFWdXFKSWZ1U0RwbFlpYWVTQm43bGNZNUVmMi1GVXZRejVZUlZ4M2E2LUZpZHNjc3BEZU9tSWxmQ0xSaXp2SDg2ODVxNUhNeV95dllFWWx6Ujg2NHlMVE0zZFFlMVdfaDlHQ2N3a1NhRFBCWk1ZZ0lBcktR?oc=5",
+      "publishedAt": "2026-10-03T21:09:48+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-what-world-cup-s-main-characters-did-next-red-card-after-40-seconds-losing-peace-scoring-spree-the-new-york-",
+      "title": "世界杯主要人物接下来做了什么：40秒后红牌、“失去平静”、疯狂进球 - 《纽约时报》",
+      "summary": "世界杯主要人物接下来做了什么：40 秒后红牌、“失去平静”、疯狂得分 《纽约时报》",
+      "originalTitle": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree - The New York Times",
+      "originalSummary": "What World Cup’s main characters did next: Red card after 40 seconds, ‘losing peace’, scoring spree  The New York Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNSnMyMUFuX1hEUXpGQWZJYTZESERuR0xaSzgwMWtacHcwbWhVLVhMdnExaDhGaHljaE1MY29mSDB0Tmw2V25hLXNKcTJ5WGJmM2pZLVhxTklMS25oSkZiNUtsY0VTeURiUEgwN0lSY1c0NlJRSzV5S2RHWGdKeFVUSHAtQ0VIaEE?oc=5",
+      "publishedAt": "2026-10-03T20:45:22+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-morocco-2026-fifa-u-17-women-s-world-cup-set-for-october-17-kick-off-bsnsports-com-ng",
       "title": "2026 年摩洛哥：FIFA U-17 女子世界杯将于 10 月 17 日开赛 - bsnsports.com.ng",
@@ -20,6 +44,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-stubhub-launches-world-cup-cuts-barbershop-pop-up-campaign-ticketnews",
+      "title": "StubHub 推出“世界杯剪裁”理发店快闪活动 - TicketNews",
+      "summary": "StubHub 推出“世界杯剪裁”理发店快闪活动 TicketNews",
+      "originalTitle": "StubHub Launches ‘World Cup Cuts’ Barbershop Pop-Up Campaign - TicketNews",
+      "originalSummary": "StubHub Launches ‘World Cup Cuts’ Barbershop Pop-Up Campaign  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNa1dxMlZTcjEzeGprQnphaWIyd3RXVV9HTjY4a1dYYVFsbHViOFh0UkFRRUlPd2lRQmgtM0tzSnpVdElhVHNkZVlFUVI1YThzWEE5YXVzQlhqNjBTQklob0xvLTRwbG9FUVN4dHNCa0duWGhqcnZVT0ZQOFlMb29iemFGTWlRVDZvb2p3Nmsxcno?oc=5",
+      "publishedAt": "2026-10-03T18:19:15+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-france-vs-belgium-prediction-and-betting-tips-october-5th-2026-sportskeeda",
       "title": "法国 vs 比利时 预测和投注技巧| 法国 vs 比利时2026 年 10 月 5 日 - Sportskeeda",
       "summary": "法国 vs 比利时 预测和投注技巧| 法国 vs 比利时2026 年 10 月 5 日  Sportskeeda",
@@ -29,6 +65,30 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOVdaS0tuRUhvQzVDaUFRX1ZyUkRHSUpUZFJJdjlvQWhvVzdGV1BDYjJYZ0Rjc0o5T3d3a1VueVZaaTQ4cHc0RE82YVBaNnAxMVNNQmVNSjFtR3lnUE5ONXRnQ2VlLUM3NTRES1V6MHNRYWZ6enptLXY1U3k2Wl9uSmxMSEQ5eVl1M2NSTXlfeE5MNDZDeE80dWdHYw?oc=5",
       "publishedAt": "2026-10-03T17:53:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-all-concacaf-members-reject-fifa-s-infantino-us-20million-offer-trinidad-guardian",
+      "title": "所有中北美及加勒比地区足联成员国均拒绝国际足联向因凡蒂诺提出的2000万美元报价 - 特立尼达卫报",
+      "summary": "所有中北美及加勒比地区足联成员都拒绝国际足联向因凡蒂诺提出的 2000 万美元报价 Trinidad Guardian",
+      "originalTitle": "All Concacaf members reject FIFA’s Infantino US$20Million offer - Trinidad Guardian",
+      "originalSummary": "All Concacaf members reject FIFA’s Infantino US$20Million offer  Trinidad Guardian",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeGFaZUhPUGlNakMzY3FSWGdDMWhkTXZsSFhtdkhMMU0tQTgxMkZOV3c4YmV3dHVrNFhZTXBma2wxbF9pRUJvUzJsdXhETDJycF9oVXh4d1E5V1pXbWIycFdMSjZZX1ItSTNWdy1QMzR3ZUk5Y25nUkhOUnFQSXhSdVJLc3J2UzNsbWVzam9BMW5Rd3FySVRhak9YdzduM3RCaVNJWlFMSm9OdkpENDFwR3B2anlOUHJG?oc=5",
+      "publishedAt": "2026-10-03T17:50:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-tyla-game-time-ft-future-2026-music-mp3-download-voxtrendy-com",
+      "title": "泰拉 - 游戏时间英尺。未来 | 2026 音乐 | MP3 下载 - voxtrendy.com",
+      "summary": "泰拉 - 游戏时间英尺。未来 | 2026 音乐 | MP3 下载  voxtrendy.com",
+      "originalTitle": "Tyla - Game Time Ft. Future | 2026 Music | MP3 Download - voxtrendy.com",
+      "originalSummary": "Tyla - Game Time Ft. Future | 2026 Music | MP3 Download  voxtrendy.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0wVUVwc0YyZUxHcXVkOTVBQjdxOTRXNERMLXY3V2VHaTVsSDlyeEtmUnROX2Z3OHRxTmFkZnpDZWQ2alhaTm0wdWVERUl3N3ZBd002R3FxRlNpd1B1ZVdEQVlGMTRONzZzdzFnTk9iTWV6V00?oc=5",
+      "publishedAt": "2026-10-03T17:07:16+00:00",
       "heat": 44
     },
     {
@@ -44,15 +104,15 @@
       "heat": 52
     },
     {
-      "id": "google-news-arab-football-associations-renew-support-for-fifa-president-gianni-infantino-flashscore-co-za",
-      "title": "阿拉伯足协重申对国际足联主席詹尼·因凡蒂诺的支持 - Flashscore.co.za",
-      "summary": "阿拉伯足协重申对国际足联主席詹尼·因凡蒂诺的支持 Flashscore.co.za",
-      "originalTitle": "Arab football associations renew support for FIFA President Gianni Infantino - Flashscore.co.za",
-      "originalSummary": "Arab football associations renew support for FIFA President Gianni Infantino  Flashscore.co.za",
+      "id": "google-news-arab-football-associations-renew-support-for-fifa-president-gianni-infantino-flashscore-com",
+      "title": "阿拉伯足协重申对国际足联主席詹尼·因凡蒂诺的支持 - Flashscore.com",
+      "summary": "阿拉伯足协重申对国际足联主席詹尼·因凡蒂诺的支持 Flashscore.com",
+      "originalTitle": "Arab football associations renew support for FIFA President Gianni Infantino - Flashscore.com",
+      "originalSummary": "Arab football associations renew support for FIFA President Gianni Infantino  Flashscore.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLWdMVTFwYkx3UXVab0N0eDA0dk1aUERxaVF1MHFENGFrQ1g2eEk2MDVwZ3JIRmFMLUZadzRhZ0RPcVloMDZ1Y1lhMDRPbzB3SGNNcFhqNlRFdzloR1Y2N0JsMGx5dkpCQjZZVnRQdHc2eElnSzUxRUlma3E0VHR5TDJ6TzZQYzZaT3laV29FSHpNeEQtYnZWdzJ6Q1lVWkVTOUF5UkF3N2hTX3EybXJiT1doM3BYQUF5MVVDZQ?oc=5",
-      "publishedAt": "2026-10-03T16:37:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPb09fSU9jNGF3Tm5vY3JIa3pCRTZrbTU3dWo1aFBhZVd3dmxDM0hzd0c1QmJFbzQzdThXX252a3RqNTBieEJPUVItNXRxbGxyTVFaaHRUTzUtck16MGpMQ1gzeHQtUTlkRno5ZGsxTk1OM1l2Z0NVWF9OLVJsNHlMYmlLRDd0MXdtNHdIalg5WlNTcTBEZ3ZiWVo3UnpxbDN3LWQzS1E5cUhlaVI4QWwwU2hHdm1RbmNxMmc?oc=5",
+      "publishedAt": "2026-10-03T16:37:32+00:00",
       "heat": 52
     },
     {
@@ -104,18 +164,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-arsène-wenger-and-african-coaches-to-dissect-record-breaking-2026-world-cup-daily-times-nigeria",
-      "title": "温格和非洲教练剖析破纪录的 2026 年世界杯",
-      "summary": "阿尔塞纳·温格 (Arsène Wenger) 和非洲教练剖析破纪录的 2026 年世界杯",
-      "originalTitle": "Arsène Wenger and African Coaches to Dissect Record-Breaking 2026 World Cup - DAILY TIMES Nigeria",
-      "originalSummary": "Arsène Wenger and African Coaches to Dissect Record-Breaking 2026 World Cup  DAILY TIMES Nigeria",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTzN1cmtUNjgzLUxPeWJ3eGdidnEwNllZYl90eUd0ODBCMzNNYmY3djFWdXFKSWZ1U0RwbFlpYWVTQm43bGNZNUVmMi1GVXZRejVZUlZ4M2E2LUZpZHNjc3BEZU9tSWxmQ0xSaXp2SDg2ODVxNUhNeV95dllFWWx6Ujg2NHlMVE0zZFFlMVdfaDlHQ2N3a1NhRFBCWk1ZZ0lBcktR?oc=5",
-      "publishedAt": "2026-10-03T15:52:16+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-world-cup-fans-came-for-soccer-they-left-talking-about-an-america-they-never-expected-yahoo-creators",
       "title": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。 - 雅虎创作者",
       "summary": "世界杯球迷前来观看足球。他们离开时谈论的是一个他们从未想象过的美国。  雅虎创作者",
@@ -140,11 +188,11 @@
       "heat": 44
     },
     {
-      "id": "google-news-arsene-wenger-african-coaches-to-dissect-record-2026-world-cup-run-punch-newspapers",
-      "title": "温格与非洲教练剖析 2026 年世界杯纪录 - Punch Newspapers",
-      "summary": "温格和非洲教练剖析 2026 年世界杯创纪录的表现 Punch Newspapers",
-      "originalTitle": "Arsene Wenger, African coaches to dissect record 2026 World Cup run - Punch Newspapers",
-      "originalSummary": "Arsene Wenger, African coaches to dissect record 2026 World Cup run  Punch Newspapers",
+      "id": "google-news-arsene-wenger-african-coaches-to-dissect-record-2026-world-cup-run-punchng-com",
+      "title": "温格与非洲教练剖析 2026 年世界杯纪录",
+      "summary": "温格和非洲教练剖析 2026 年世界杯的纪录 Punchng.com",
+      "originalTitle": "Arsene Wenger, African coaches to dissect record 2026 World Cup run - punchng.com",
+      "originalSummary": "Arsene Wenger, African coaches to dissect record 2026 World Cup run  punchng.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVnRYUFVNaTl0Q0RlTTg1UlNqd0ZFVk02dzhiMnJ1eFdVOGJieHdvZHdyUUczajB6b0RSdWNIUHlOc0xjY3dubm1UXzlUOGFId1dTZVVuWFB2RWZna2V6S0Z6LVVHeXA2anNFVU9YdkhZblJLc3JHdEoxUEpLV2laX3RsVWxyNHQxZXZoV3lpTTh4UWowc0E?oc=5",
@@ -152,11 +200,11 @@
       "heat": 52
     },
     {
-      "id": "google-新闻-中文-越南逆转击败巴基斯坦-晋级2026年fifa东盟杯季军争夺战-vietnam-vnanet-vn",
-      "title": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战 - vietnam.vnanet.vn",
-      "summary": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战  vietnam.vnanet.vn",
-      "originalTitle": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战 - vietnam.vnanet.vn",
-      "originalSummary": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战  vietnam.vnanet.vn",
+      "id": "google-新闻-中文-越南逆转击败巴基斯坦-晋级2026年fifa东盟杯季军争夺战-thông-tấn-xã-việt-nam-ttxvn",
+      "title": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战 - Thông tấn xã Việt Nam (TTXVN)",
+      "summary": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战  Thông tấn xã Việt Nam (TTXVN)",
+      "originalTitle": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战 - Thông tấn xã Việt Nam (TTXVN)",
+      "originalSummary": "越南逆转击败巴基斯坦 晋级2026年FIFA东盟杯季军争夺战  Thông tấn xã Việt Nam (TTXVN)",
       "translation": "source",
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPaEFvVWd5NTVuWkdrdHEwRFkzcXRxaGMzZkI0U0I1NDhpeHJpbTdtUmFWbTd4aWZSUWIzUkEyQXUxT2xyakQwOTdCNEhGMDUxNDVMNF9nTV9ncG5SWjdyNGVlVXZubjVocHlJZzlub29KZ3VWLWwyT3ZjZHpzbklQZ2gwMll5MVNTQWo2SHNoMjNBdFpkeXg4c0wxVGlWRmpvUnN3MmVmanRxMmtZR1luakxabC1KY0p1SmVZWXNZMmh0OTRBbUpVMEJySmRSTG02T0lJQjJOZ2VKcXhKZXR3c3BEWXVrc1N1UGhmQUpzVjh2Nkd3VV9SOWpiR0RFTzQzYUVRMDY3N0JmNk9EREd3dHp6S1dzTU5IUkw4dFJ5ak8yN1Jwdzg5TzRaYXRhY0tZVGh2eU5XRl9lTGlyekw4aDFnOW1Ga0twdzhOWHJlOG1oY3hoSDhQY2MteHlybVdfMDhIRHNaSjdYUQ?oc=5",
@@ -174,54 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQcV94UHJpUlZxQW1fbS15ME5VT1hWS2NhS1RmY3lCaDFUY2tLSTVjb2Y5MEN0V3FhRUxlZXU4M2c1R2x3dUdWcFEzelY2OE1TYmpjMU5fTHhWYUYybXV4V1VMb3N1aElJdFVyVkktZ1ktaDZRVXJMQzZBQ3hwMVJVU05GdUE1dS15Q25oaUlyaVRfdHZpZXZ2U2phcFJlM1E3N202TlJJM2NLdEotRG42MVBjOW9jeTYzZW1lMS1WN184NFZiYUJBYXVveDBLUC14Z3VSalZON2NDbUM1ckU2WjhxRGg3U284UGg4azQ4ZXNuMnlLM0lMVXZDOGlxdHFLM0IzNHhEdzg3Ry12cUdkU2c0Rmd5M0UzV2FyMHMwemJXZEFTZjZCSnRzQkZCU0ZnNlotTklndEstbG90Mkxta3VCVmhGQjl5WmRINE1tem9uS2xEVGRMU0pQcmRPTUxSb20ycDZqX01lZDdZT0FxbVFweFloV1pjUXRtOHVkS3BVeGpMekl3WWg4dndZaGlFSjluZk1aOA?oc=5",
       "publishedAt": "2026-10-03T15:14:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-after-the-2026-world-cup-the-number-of-football-fans-in-the-usa-rose-to-46-tribuna-com",
-      "title": "2026 年世界杯结束后，美国球迷数量上升至 46% - Tribuna.com",
-      "summary": "2026 年世界杯结束后，美国球迷数量上升至 46% Tribuna.com",
-      "originalTitle": "After the 2026 World Cup, the number of football fans in the USA rose to 46% - Tribuna.com",
-      "originalSummary": "After the 2026 World Cup, the number of football fans in the USA rose to 46%  Tribuna.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQjVXQWFmY3k3eU1PYWh0LVNpaGNBZkNVOF9rczNrSzB4X2ViSWlCaDZNa01LWXZoT21Pc3dWa0Q3MFpoMzJrOThnTjVWdENDcUVJdnlFTkNoeDNGd2FOMWxsQzJyZjlVeGRDNS0tWXA5NW1HTkxyZGRXMEV1UUxTNV9td2ZNQWJUMmtLQnc0QnVfOUxoc0c1bjUyOEhXd09RWnpNRUstWEcxendiSExDRE94bEnSAboBQVVfeXFMTWt2ZVBPLXNaUHhRZklxQ0tPbm9JQTVkRHUtNllyNVBKdDVuX2x4SE5RRm4tQjMwZUhOeUJaMFl0ekpYVWxZRGs3anRzdFhUZHVCYnJzS3hlaGluQlRpbXI3ai1RTm9LODZkWHhDQ2V3b0JDZUdXV0k2QkRoYzB2WDQzVWQwbDFIcG9BRktMaWNoYndzZXgtNzgycEFKR2dvOUp0NXVyT0VuQkw3djFZX0txeDhiWlR5aGdn?oc=5",
-      "publishedAt": "2026-10-03T15:05:39+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-中国香港队夺首届fifa东盟挑战杯冠军-主教练称感觉-非常美妙-chinanews-com-cn",
-      "title": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙” - chinanews.com.cn",
-      "summary": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙”  chinanews.com.cn",
-      "originalTitle": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙” - chinanews.com.cn",
-      "originalSummary": "中国香港队夺首届FIFA东盟挑战杯冠军 主教练称感觉“非常美妙”  chinanews.com.cn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBOZDRaZkg2amh3YWtveGlYaFhzRU1xOUM2enJKSVNzd2dqbk9BZVdoYkNmS3QyaFY5bXF3MEJ1SUFsTDItYWhoZk1ZTFdCSk4wblZSeU9mLTdSNHVMdy1VUFp3Nkx4emVvOVliMVhFczg2dw?oc=5",
-      "publishedAt": "2026-10-03T14:07:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-香港队以-2-0-大胜柬埔寨队-赢得-2026-年-fifa-东盟杯冠军-获得-30-万美元奖金-vietnam-vn",
-      "title": "香港队以 2-0 大胜柬埔寨队，赢得 2026 年 FIFA 东盟杯冠军，获得 30 万美元奖金。 - Vietnam.vn",
-      "summary": "香港队以 2-0 大胜柬埔寨队，赢得 2026 年 FIFA 东盟杯冠军，获得 30 万美元奖金。  Vietnam.vn",
-      "originalTitle": "香港队以 2-0 大胜柬埔寨队，赢得 2026 年 FIFA 东盟杯冠军，获得 30 万美元奖金。 - Vietnam.vn",
-      "originalSummary": "香港队以 2-0 大胜柬埔寨队，赢得 2026 年 FIFA 东盟杯冠军，获得 30 万美元奖金。  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPbG9hOWxmVWozMDJfUHRzbDlQZzBMdEplS1hxV0k4YTJOUkEtczZqOHhmZllOZGlTYm05MXNheFo2SWppd1VMUVF2MEpLLUVhaVdLOG9KUkhCRmJSYXhOSWpabzQ3UkU0UXE4dE9vWU5Ma200VmM2YmpuWmhXZ2JlMjZueVRoR2U5end1R2NhSjl5cFNHWG5JVFUxR3Jpb3VpS1BlazdzdWJTV2NNSUJENVowM25hTHBNMkZORGVlYw?oc=5",
-      "publishedAt": "2026-10-03T13:32:02+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-asian-games-2026-republic-of-korea-beat-japan-to-claim-fourth-consecutive-men-s-football-gold-olympics-com",
-      "title": "2026 年亚运会：韩国击败日本连续第四次夺得男子足球金牌 - olympics.com",
-      "summary": "2026 年亚运会：韩国击败日本，连续第四次夺得男子足球金牌 olympics.com",
-      "originalTitle": "Asian Games 2026: Republic of Korea beat Japan to claim fourth consecutive men’s football gold - olympics.com",
-      "originalSummary": "Asian Games 2026: Republic of Korea beat Japan to claim fourth consecutive men’s football gold  olympics.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNX3M2aFFhR2IwanpaWEZTWExCNl9NbDhhSENmNWxPN0FjNThuLU9ud2FBWmMwYkhhREpHMVlPRkxvZTRueTFEdXhMRmU4ZlZJQWtUWVhLRVlVckt0SFRJRzhyM2lPMGZKV1o2RmppMWVXX3YzQ2xQczU2OVlDaDBNZW9LaUxJZlJuUGVrTC1YaU1Xczk1aklrYW1IQVpqOGpBQ3cyN1dCbldFU29NbUE?oc=5",
-      "publishedAt": "2026-10-03T13:18:00+00:00",
-      "heat": 44
     }
   ]
 }
