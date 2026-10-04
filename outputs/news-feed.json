@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-04T19:29:47.532936+00:00",
+  "updatedAt": "2026-10-04T22:29:47.428878+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-messi-plushies-see-roaring-trade-as-china-firms-get-world-cup-boost-buenos-aires-times",
+      "title": "随着中国企业获得世界杯的推动，梅西毛绒公仔的贸易量激增 - 布宜诺斯艾利斯时报",
+      "summary": "随着中国企业获得世界杯的推动，梅西毛绒公仔的贸易量激增 布宜诺斯艾利斯时报",
+      "originalTitle": "Messi plushies see roaring trade as China firms get World Cup boost - Buenos Aires Times",
+      "originalSummary": "Messi plushies see roaring trade as China firms get World Cup boost  Buenos Aires Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2ZLQkIxRDJxSVJOR0hmQjUyMU1sWDRGYlVVa0NqWXV3ZWRLYnFRZ1I3aGp5WGM2MkNzMHNxa2VCQUNBRnJ4SVF5VEY0dFJEdF9UamZzYkdVdjNYZnpha3lpTTExRnpuMjJDQjIySGJSRENVZ0kyRzUyZlVjelJWNUV1aDB5bHVicjVUeXJjSE9jb1hjTFhQWTRZOWdSS1VGZUI5ekVYWmJPYVBteFBsMWJQcVd2ZXF2WldrakJTTG3SAcYBQVVfeXFMUEJQZ29IQVI4aWM2Y0pUb21iRWhtd2E5RUJFcHJ3M3pvbXQtSzBFZ3VyQlBIWjB4bklNc2ZxdzFTeU5XbWFxVmZqRnJvUUQ0QXFRNnMwbnY0Z0ZlT0dKbUVzUjJSbWRSY3dwdU5hZTNQcm5PSGdFSFBvR2xiQVZyNER4U0J1dDhjbnNDbHRKUVdkYy0yczIwSk5IMXhUSjY4YUdCTE5XRTZCNjY0d2hDbW9uZDc3bHhfN1hHVE9jd19tQzgtYV93?oc=5",
+      "publishedAt": "2026-10-04T19:35:16+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-erling-haaland-sues-norwegian-air-over-world-cup-advertisement-indian-television-dot-com",
+      "title": "埃尔林·哈兰德就世界杯广告起诉挪威航空 - Indian Television Dot Com",
+      "summary": "埃尔林·哈兰德因世界杯广告起诉挪威航空 印度电视网络公司",
+      "originalTitle": "Erling Haaland sues Norwegian Air over World Cup advertisement - Indian Television Dot Com",
+      "originalSummary": "Erling Haaland sues Norwegian Air over World Cup advertisement  Indian Television Dot Com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTEtbVV0QmJQZ3RJR3ZtSGYtOWdoT3Y4M1F6RmNfNzMydUJHS3pRQTRrZDRWQjNqNm9vTUFkYXlhRG9aZUx2eHhtaXhNNkxrN09LX2l5OHU1dmFic1F6YXBWS2l6Uk1OLUR5WnZUNm1zTnhMM3NtSjM2QVktZl96VnVScGZNVnB2azhFZkRWb25zdk5JbEpCbE4xbEpFbjdhR3ZKS3lR?oc=5",
+      "publishedAt": "2026-10-04T19:19:51+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-from-f1-to-the-world-cup-how-anwar-is-using-sport-as-diplomacy-to-put-malaysia-on-the-world-stage-malay-mail",
+      "title": "从F1到世界杯：安华如何利用体育外交让马来西亚登上世界舞台 - 马来邮报",
+      "summary": "从F1到世界杯：安瓦尔如何利用体育作为外交手段，让马来西亚登上世界舞台 – 马来邮件",
+      "originalTitle": "From F1 to the World Cup: How Anwar is using sport as diplomacy to put Malaysia on the world stage - Malay Mail",
+      "originalSummary": "From F1 to the World Cup: How Anwar is using sport as diplomacy to put Malaysia on the world stage  Malay Mail",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOGwyM3lHXzQ4eS1oQ3ZZNVIybUJuT3ZKS2piWVZVeWtiUElJMjNOZzZBLU0zUVVkWjFTODNiNzc0MF9PU0FWZ19JQnd2RTl4TGRYQ2pfcHlaNDVoRHA5UExtQU1PdkdQZlNEYjJjWDBQSkJRRU11YXNvYnA0dzRuNjQySldSeDNtcDJnQ1RpTGwxS0NkNHNJaVJMaGN3NlJ5NXpOM2RRZlNMejNQZFVVWm02WVJXTmhrNXlFVmVIZXpGZHJoV0RrVmxUek90SGowcnJEY29QVjU3dmZwNGs1UTdWc3RrdEpHbXI00gHwAUFVX3lxTE1GMEJYQ1Q5M3Y4RG5WUHMzbzZ5dnJDd3M2TlB1dGUxTlBXQzBQYS1qRDZ2MTRPUnByU2J4d0d0RnFGc193VlFlemtvdkhNQ2VfM2pRcWNSdENwcEpma0ZBRVdVdFFQQmxMb09iNWRieDhDaWZGWjVpbXBrQl9ScXZabXphdVpPQWV2Y0lxY1U5aGxCXzJlc180NldPN2pFaDVzWUtOcnY4TzNETWVSNnExUnFPOTNyOTJFYWZub3k2YXIzQy1MX25vUDR5eWxsOXAxNWVoRHY0QjVkNDFZUVJKcFZnRzdnSlJVeFNIVVpzYw?oc=5",
+      "publishedAt": "2026-10-04T19:04:39+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-watch-sweden-live-tv-channels-online-soccer-streams-how-to-watch-fifa-world-cup-games-for-free-goal-com",
+      "title": "观看瑞典直播：电视频道、在线足球直播、如何免费观看 FIFA 世界杯比赛 - Goal.com",
+      "summary": "观看瑞典直播：电视频道、在线足球直播、如何免费观看 FIFA 世界杯比赛 Goal.com",
+      "originalTitle": "Watch Sweden live: TV channels, online soccer streams, how to watch FIFA World Cup games for free - Goal.com",
+      "originalSummary": "Watch Sweden live: TV channels, online soccer streams, how to watch FIFA World Cup games for free  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOb0NGSHdpQnpIbnRBRkZEMERINmVUNHRwSTdGYkpwa1EwOVpoejhJSjBaOEIzNi1tSUg1c1RTd3BiVlBZQU9tZUdzdUl1YlNaNEhpVlNiWnNOZVRGc19rSmFkSXYta19MQjR1YmhSQlVXbGxLRGpVendwaGM3RFJ4SWdXeWxldm0ydGVJ?oc=5",
+      "publishedAt": "2026-10-04T18:58:39+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-04T18:45:23+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-egypt-vs-south-africa-4-oct-2026-live-score-espn-in",
       "title": "埃及 vs. 南非 (2026 年 10 月 4 日) 实时比分 - espn.in",
@@ -20,23 +80,11 @@
       "heat": 52
     },
     {
-      "id": "google-news-erling-haaland-sues-norwegian-air-over-world-cup-advertisement-indian-television-dot-com",
-      "title": "埃尔林·哈兰德就世界杯广告起诉挪威航空 - Indian Television Dot Com",
-      "summary": "埃尔林·哈兰德因世界杯广告起诉挪威航空 印度电视网络公司",
-      "originalTitle": "Erling Haaland sues Norwegian Air over World Cup advertisement - Indian Television Dot Com",
-      "originalSummary": "Erling Haaland sues Norwegian Air over World Cup advertisement  Indian Television Dot Com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYTEtbVV0QmJQZ3RJR3ZtSGYtOWdoT3Y4M1F6RmNfNzMydUJHS3pRQTRrZDRWQjNqNm9vTUFkYXlhRG9aZUx2eHhtaXhNNkxrN09LX2l5OHU1dmFic1F6YXBWS2l6Uk1OLUR5WnZUNm1zTnhMM3NtSjM2QVktZl96VnVScGZNVnB2azhFZkRWb25zdk5JbEpCbE4xbEpFbjdhR3ZKS3lR?oc=5",
-      "publishedAt": "2026-10-04T17:23:27+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-viral-video-shows-indian-fans-picking-up-garbage-and-cleaning-stadium-after-ind-vs-pak-asian-games-2026-fina",
-      "title": "病毒视频显示印度球迷在 IND 与 PAK 2026 年亚运会决赛后捡起垃圾并清洁体育场 - freepressjournal.in",
-      "summary": "病毒视频显示印度球迷在 IND 与 PAK 2026 年亚运会决赛后捡起垃圾并清洁体育场 freepressjournal.in",
-      "originalTitle": "Viral Video Shows Indian Fans Picking Up Garbage And Cleaning Stadium After IND Vs PAK Asian Games 2026 Final - freepressjournal.in",
-      "originalSummary": "Viral Video Shows Indian Fans Picking Up Garbage And Cleaning Stadium After IND Vs PAK Asian Games 2026 Final  freepressjournal.in",
+      "title": "视频疯传，印度球迷在 2026 年 IND 与 PAK 亚运会决赛后捡起垃圾并清洁体育场 - 自由新闻杂志",
+      "summary": "病毒视频显示印度球迷在 IND 与 PAK 2026 年亚运会决赛后捡起垃圾并清洁体育场",
+      "originalTitle": "Viral Video Shows Indian Fans Picking Up Garbage And Cleaning Stadium After IND Vs PAK Asian Games 2026 Final - Free Press Journal",
+      "originalSummary": "Viral Video Shows Indian Fans Picking Up Garbage And Cleaning Stadium After IND Vs PAK Asian Games 2026 Final  Free Press Journal",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPdDZJeThQQWtxdF9jOVZYb0JGcGtic1djSEk3Y3REMk02aXR3SUxVWk5sazB4dVhldF9LaGNycmlDRVNJaXlYWk85N1FEb2VmMVVWVlRHNGVzU3B0aWtsOEZXazIxZl9PdVoyNWxVNTU3bXhlZlQzbEFvRDVfWGF2SUdHUWVsNzJUb09xWWR2RzVYQjdTdWx2R2ZmRjFQTk1nTGNhUUpjTEY4a05XMUxHQThkemJRNTVtdzYyLWZjTjBQOXVSd3VmbXlzT0VaQmtDNnA3aVU4OWJ4YlBkQktUWFBn0gHnAUFVX3lxTFBMMTBfVTJCdE1VcFdZSzZxaGduaV9PX0NLNURPTlFHMmlzRlo3RFlzdklRMUE1c2xEMWdIYW1mazlNT2tZTl9ubmsxaDF6WUZaSnBmYldFMmhmaUczTll6NDFpUHJDUDVMeVZuS2ZBZV9uX05sYWhKLWY4RmZnRGJ6R2h5eVNGT3J1OUx4YWg3NnRHY25XSngta1JCMGMyeVR1aW44TW4ya2dKSk5iVEYzdUY5VUFKMzh1T1NYRkNtbnRpOThVaWZ2T0RuU3NodzNLc3U1YkViTTRTWFcyTnZlcm9GZk1CRQ?oc=5",
@@ -44,27 +92,39 @@
       "heat": 44
     },
     {
-      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
-      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja",
-      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy Six9ja",
-      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
-      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "id": "google-news-pakistan-s-u-15-squad-announced-ahead-of-fifa-world-cup-2026-pakistan-connect",
+      "title": "巴基斯坦 U-15 阵容在 2026 年 FIFA 世界杯之前公布 - 巴基斯坦连线",
+      "summary": "巴基斯坦 U-15 阵容在 2026 年 FIFA 世界杯之前公布 Pakistan Connect",
+      "originalTitle": "Pakistan’s U-15 squad announced ahead of FIFA World Cup 2026 - Pakistan Connect",
+      "originalSummary": "Pakistan’s U-15 squad announced ahead of FIFA World Cup 2026  Pakistan Connect",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUQwcDJRS2JNNEN5Q1RRUFo0VzNUZFhNS0I4WkExWUIySlREMkY5MDhBcGloYVhCbUVlZlUtZWJMYUV3dXQ3VEpTLVBOQ0ZxRzNsaHJDUW0tdXNPSEtrQzV4ZmlHQ3ZMSHl6OC1WQkFNMWV2WjhUYzAxbFdsUWpuYlhmQ0lJek00UGUyZUVmWQ?oc=5",
+      "publishedAt": "2026-10-04T17:01:17+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-legends-pedro-berbatov-are-in-jakarta-together-with-five-asean-legends-they-joined-the-coaching-clinic-",
+      "title": "国际足联传奇人物佩德罗和贝尔巴托夫现身雅加达！ 🇮🇩他们与五位东盟传奇人物一起加入了教练诊所，与下一代分享他们的知识和热情。 ⚽️ 现在，他们在这里见证了锦标赛最重要的时刻 - Facebook",
+      "summary": "国际足联传奇人物佩德罗和贝尔巴托夫现身雅加达！ 🇮🇩他们与五位东盟传奇人物一起加入了教练诊所，与下一代分享他们的知识和热情。 ⚽️ 现在，他们来见证大事",
+      "originalTitle": "FIFA Legends Pedro & Berbatov are in Jakarta! 🇮🇩 Together with five ASEAN Legends, they joined the Coaching Clinic, sharing their knowledge and passion with the next generation. ⚽️ Now, they’re here to witness the biggest moment of the tournament, the - Facebook",
+      "originalSummary": "FIFA Legends Pedro & Berbatov are in Jakarta! 🇮🇩 Together with five ASEAN Legends, they joined the Coaching Clinic, sharing their knowledge and passion with the next generation. ⚽️ Now, they’re here to witness the bigges",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQQVk5STVBMlEwZlpCeTZpWFNZR0ZvSzdobDhQV1k5UlFQRjFqVnpNOWNXTXk1OXU4TzJIQUN3YkY4NXlXU1l0TFktemZ5V3l4UFhUUEdOSXN0bVZJXzBpdG5naFM3VFVENk13U19hb3pGLUppQ0VfSDYwRnM5RExXR19BUEF0a250QTBiQVN3UTZvcWdyQUU1Zy1VaXJpaktqaGd2TkhteDVzTEhwVGJ2Q0cxV3hpWXF5TWxlV3o5cGVQOEVUSkpJbXRGV0ZKcVE?oc=5",
+      "publishedAt": "2026-10-04T16:47:45+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja-com",
+      "title": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy - Six9ja.com",
+      "summary": "夏奇拉 – 2026 年世界杯圣歌 ft Dai Dai & Burna Boy  six9ja.com",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - six9ja.com",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  six9ja.com",
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
       "publishedAt": "2026-10-04T16:30:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-messi-plushies-see-roaring-trade-as-china-firms-get-world-cup-boost-buenos-aires-times",
-      "title": "随着中国企业获得世界杯的推动，梅西毛绒公仔的贸易量激增 - 布宜诺斯艾利斯时报",
-      "summary": "随着中国企业获得世界杯的推动，梅西毛绒公仔的贸易量激增 布宜诺斯艾利斯时报",
-      "originalTitle": "Messi plushies see roaring trade as China firms get World Cup boost - Buenos Aires Times",
-      "originalSummary": "Messi plushies see roaring trade as China firms get World Cup boost  Buenos Aires Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQR2ZLQkIxRDJxSVJOR0hmQjUyMU1sWDRGYlVVa0NqWXV3ZWRLYnFRZ1I3aGp5WGM2MkNzMHNxa2VCQUNBRnJ4SVF5VEY0dFJEdF9UamZzYkdVdjNYZnpha3lpTTExRnpuMjJDQjIySGJSRENVZ0kyRzUyZlVjelJWNUV1aDB5bHVicjVUeXJjSE9jb1hjTFhQWTRZOWdSS1VGZUI5ekVYWmJPYVBteFBsMWJQcVd2ZXF2WldrakJTTG3SAcYBQVVfeXFMUEJQZ29IQVI4aWM2Y0pUb21iRWhtd2E5RUJFcHJ3M3pvbXQtSzBFZ3VyQlBIWjB4bklNc2ZxdzFTeU5XbWFxVmZqRnJvUUQ0QXFRNnMwbnY0Z0ZlT0dKbUVzUjJSbWRSY3dwdU5hZTNQcm5PSGdFSFBvR2xiQVZyNER4U0J1dDhjbnNDbHRKUVdkYy0yczIwSk5IMXhUSjY4YUdCTE5XRTZCNjY0d2hDbW9uZDc3bHhfN1hHVE9jd19tQzgtYV93?oc=5",
-      "publishedAt": "2026-10-04T16:19:14+00:00",
       "heat": 52
     },
     {
@@ -92,33 +152,21 @@
       "heat": 52
     },
     {
-      "id": "google-news-from-f1-to-the-world-cup-how-anwar-is-using-sport-as-diplomacy-to-put-malaysia-on-the-world-stage-malaymail-",
-      "title": "从F1到世界杯：安华如何利用体育作为外交手段，让马来西亚登上世界舞台 - malaymail.com",
-      "summary": "从 F1 到世界杯：安瓦尔如何利用体育作为外交手段，让马来西亚登上世界舞台 malaymail.com",
-      "originalTitle": "From F1 to the World Cup: How Anwar is using sport as diplomacy to put Malaysia on the world stage - malaymail.com",
-      "originalSummary": "From F1 to the World Cup: How Anwar is using sport as diplomacy to put Malaysia on the world stage  malaymail.com",
+      "id": "google-news-haaland-files-lawsuit-over-world-cup-ad-tribalfootball",
+      "title": "哈兰德就世界杯广告提起诉讼 - TribalFootball",
+      "summary": "哈兰德就世界杯广告提起诉讼 TribalFootball",
+      "originalTitle": "Haaland files lawsuit over World Cup ad - TribalFootball",
+      "originalSummary": "Haaland files lawsuit over World Cup ad  TribalFootball",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNOGwyM3lHXzQ4eS1oQ3ZZNVIybUJuT3ZKS2piWVZVeWtiUElJMjNOZzZBLU0zUVVkWjFTODNiNzc0MF9PU0FWZ19JQnd2RTl4TGRYQ2pfcHlaNDVoRHA5UExtQU1PdkdQZlNEYjJjWDBQSkJRRU11YXNvYnA0dzRuNjQySldSeDNtcDJnQ1RpTGwxS0NkNHNJaVJMaGN3NlJ5NXpOM2RRZlNMejNQZFVVWm02WVJXTmhrNXlFVmVIZXpGZHJoV0RrVmxUek90SGowcnJEY29QVjU3dmZwNGs1UTdWc3RrdEpHbXI00gHwAUFVX3lxTE1GMEJYQ1Q5M3Y4RG5WUHMzbzZ5dnJDd3M2TlB1dGUxTlBXQzBQYS1qRDZ2MTRPUnByU2J4d0d0RnFGc193VlFlemtvdkhNQ2VfM2pRcWNSdENwcEpma0ZBRVdVdFFQQmxMb09iNWRieDhDaWZGWjVpbXBrQl9ScXZabXphdVpPQWV2Y0lxY1U5aGxCXzJlc180NldPN2pFaDVzWUtOcnY4TzNETWVSNnExUnFPOTNyOTJFYWZub3k2YXIzQy1MX25vUDR5eWxsOXAxNWVoRHY0QjVkNDFZUVJKcFZnRzdnSlJVeFNIVVpzYw?oc=5",
-      "publishedAt": "2026-10-04T15:05:58+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-20-year-old-who-could-dominate-world-cup-2026-jb-bickerstaff-verricbcwq-unisba-media",
-      "title": "能够主宰 2026 年世界杯的 20 岁球员 Jb Bickerstaff (verRIcBcwQ) - Unisba Media",
-      "summary": "能够主宰 2026 年世界杯的 20 岁球员 Jb Bickerstaff (verRIcBcwQ) Unisba Media",
-      "originalTitle": "The 20-Year-Old Who Could Dominate World Cup 2026 Jb Bickerstaff (verRIcBcwQ) - Unisba Media",
-      "originalSummary": "The 20-Year-Old Who Could Dominate World Cup 2026 Jb Bickerstaff (verRIcBcwQ)  Unisba Media",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1Vc1NjRGtFSTJlcWVQYUZTTUdSX0thZkRWcjlRYzl3UGtQNWpxUTRadVJ0UjNYeGJfNnY2bVBJSEdMakVaZE05TUNtRUtQT3M5MG9ONmNrRTJHTGgxOXpnaDVhc2F1UQ?oc=5",
-      "publishedAt": "2026-10-04T14:43:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQMUN2TkZCUHAwMTIyQUFyUE82R084ektkVFMyRTJRekw1Vk5qTzU0TGhzODdCc3VnRjlrTlpHNVREMDR2aTR6elFfMF9haUxyOVFxbm40U1lHZEJscEpjWTg5Sm11MlR3cFpweTVEaWtGU1RXN3ZiZmgtcmZUMHRPUkNiWjVUd1FOc1RkNTdFRVBCSHdQZFhqcVlMRVNUQjVUcENqUTdQWlJVWFhZeVFsQUJlY2x2QQ?oc=5",
+      "publishedAt": "2026-10-04T14:29:10+00:00",
       "heat": 52
     },
     {
       "id": "google-news-err-in-seattle-city-geared-up-for-fifa-world-cup-2026-bonanza-err",
-      "title": "西雅图 ERR：该市为 2026 年 FIFA 世界杯做好准备 - ERR",
-      "summary": "西雅图的 ERR：城市为 2026 年 FIFA 世界杯的财富做好准备 ERR",
+      "title": "西雅图 ERR：城市为 2026 年 FIFA 世界杯做好准备 - ERR",
+      "summary": "西雅图的 ERR：城市为 2026 年 FIFA 世界杯做好准备 ERR",
       "originalTitle": "ERR in Seattle: City geared up for FIFA World Cup 2026 bonanza - ERR",
       "originalSummary": "ERR in Seattle: City geared up for FIFA World Cup 2026 bonanza  ERR",
       "translation": "online",
@@ -173,54 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWjQ2WUdDMGdQNVlYYzJBVC1FVUp5TVdfVm10NlRNVE1JMDRxaWpiU3Q3Y3dGMTZ6X0ZGSk9pTmhEQV9kUjlPZ2psY2lteVZoSms1T0dacDFRbVd2eVdtdERtMC1ZNkZmeFBBSHI5SGxiTE5lRFRWemwxLUJuQlUxODFQTzl5VS1zekFlTUp0djNrdw?oc=5",
       "publishedAt": "2026-10-04T12:42:17+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-england-healing-pain-of-world-cup-heartache-says-tuchel-after-7-0-croatia-rout-daily-dispatch",
-      "title": "图赫尔在0-7惨败克罗地亚后表示英格兰正在治愈世界杯心痛 - 每日快讯",
-      "summary": "图赫尔在 7-0 击败克罗地亚后表示，英格兰正在治愈世界杯心痛",
-      "originalTitle": "England Healing Pain of World Cup Heartache, Says Tuchel After 7-0 Croatia Rout - Daily Dispatch",
-      "originalSummary": "England Healing Pain of World Cup Heartache, Says Tuchel After 7-0 Croatia Rout  Daily Dispatch",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNb0gzZzJrVVEyZEhtQzFGYXltWkhlR3h4OEg4ZXJqeHkyYUE0SXZxS3l0d1ZGLVhYdmpGZ3dKODNqYVN1MmRzMlNIWklFSmM3Uklpd2dhNFN4WEpIZkxmb1ZNWXJkRllRQWxiQUV0alVBdUo2RGNHVU5yeWhWNEROdGYwbkh4bzZobXFGSUhHV3B4QkhaeXAzaGFtN2FDTG1LX1NKZ2NhUzlPTWFq?oc=5",
-      "publishedAt": "2026-10-04T12:30:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-pakistan-s-u-15-squad-announced-ahead-of-fifa-world-cup-2026-pakistan-connect",
-      "title": "巴基斯坦 U-15 阵容在 2026 年 FIFA 世界杯之前公布 - 巴基斯坦连线",
-      "summary": "巴基斯坦 U-15 阵容在 2026 年 FIFA 世界杯之前公布 Pakistan Connect",
-      "originalTitle": "Pakistan’s U-15 squad announced ahead of FIFA World Cup 2026 - Pakistan Connect",
-      "originalSummary": "Pakistan’s U-15 squad announced ahead of FIFA World Cup 2026  Pakistan Connect",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPVUQwcDJRS2JNNEN5Q1RRUFo0VzNUZFhNS0I4WkExWUIySlREMkY5MDhBcGloYVhCbUVlZlUtZWJMYUV3dXQ3VEpTLVBOQ0ZxRzNsaHJDUW0tdXNPSEtrQzV4ZmlHQ3ZMSHl6OC1WQkFNMWV2WjhUYzAxbFdsUWpuYlhmQ0lJek00UGUyZUVmWQ?oc=5",
-      "publishedAt": "2026-10-04T12:20:32+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
-      "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
-      "summary": "观看 FIFA 2026 世界杯™ 直播和精彩片段 TOD",
-      "originalTitle": "Watch FIFA World Cup 2026™ Live Stream & Highlights - TOD",
-      "originalSummary": "Watch FIFA World Cup 2026™ Live Stream & Highlights  TOD",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
-      "publishedAt": "2026-10-04T11:47:12+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-shakira-and-burna-boy-team-up-for-official-fifa-world-cup-song-abc-news-breaking-news-latest-news-and-videos",
-      "title": "夏奇拉和伯纳男孩联手创作 FIFA 世界杯官方歌曲 - ABC 新闻 - 突发新闻、最新新闻和视频",
-      "summary": "夏奇拉和伯纳男孩联手创作 FIFA 世界杯官方歌曲 ABC News - 突发新闻、最新新闻和视频",
-      "originalTitle": "Shakira and Burna Boy team up for official FIFA World Cup song - ABC News - Breaking News, Latest News and Videos",
-      "originalSummary": "Shakira and Burna Boy team up for official FIFA World Cup song  ABC News - Breaking News, Latest News and Videos",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMFVRYzM4MmQ2Ym5xOHpzZE5aMjl1cndmZU9QTUFpMzFvREdFbWRoa0FKRXZxX1VjZDczYkhBelR0U1hpUHE0UjF2MFBuMWFNb3pPZDNUNEFwWmJWU29YSjNYUEFkNVAyVVVqMm5wclpsY1Fza3BHYUJfQTNVeUlpYkpmWWlnelB5dmNzNTRybGxlaTNHS0lTVjI4dEd6d9IBowFBVV95cUxQWkxuTUVDNjFFbVBZQ1FULUFmNHFhcjlpaVgwN2h5dlIwaHpKN3JSa09PbmtmOEpaWHQxYjBDcVJWWjZBaGFrQll6aHBQRmZzZWF4cEx3TThibU4xWmdUeGVlajNJSDY1VTVCYWlJbFY4cFA1bk5pdG5yczd4c0dHVncwbFJEdnh0U3oyWVM5X3hRWFRVeEJmTzNGS2RaUkY4OUZV?oc=5",
-      "publishedAt": "2026-10-04T10:47:05+00:00",
       "heat": 68
     }
   ]
