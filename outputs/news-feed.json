@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-07T20:44:42.380150+00:00",
+  "updatedAt": "2026-10-08T00:52:01.526604+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,6 +8,78 @@
   ],
   "articles": [
     {
+      "id": "google-news-2026-world-cup-hometown-heroes-ap-news",
+      "title": "2026年世界杯家乡英雄 - 美联社新闻",
+      "summary": "2026 年世界杯家乡英雄美联社新闻",
+      "originalTitle": "2026 World Cup hometown heroes - AP News",
+      "originalSummary": "2026 World Cup hometown heroes  AP News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBhLTJIeU5nN1ZQQkRaWE11VEdKQWFCbERRUExQT3pTVjZsWU9aODNvVHJTRU9hSlNOeXVzU2ZJTi1UZGVCVmF0Q1QxODJhc0cxbFI3c3prY2lpR0trbVBGeFFFYw?oc=5",
+      "publishedAt": "2026-10-07T23:29:39+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-schedules-fixtures-match-dates-firstpost",
+      "title": "FIFA 世界杯 2026：赛程表、赛程和比赛日期 - Firstpost",
+      "summary": "FIFA 世界杯 2026：赛程表、赛程和比赛日期 Firstpost",
+      "originalTitle": "FIFA World Cup 2026: Schedules, Fixtures & Match Dates - Firstpost",
+      "originalSummary": "FIFA World Cup 2026: Schedules, Fixtures & Match Dates  Firstpost",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wamdCbmluU1VVZmlsTlh4WFVCOTg4Z1lpTV9LSEZGbDRhaVVMN1RueUV0dkdRRGh3STFHX3VuMGZLOC1PWjhzaXhpeDhLQWYtTXpUaWVlM1pNOTd0RkVN?oc=5",
+      "publishedAt": "2026-10-07T23:20:25+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-hospitality-program-scores-record-breaking-demand-ticketnews",
+      "title": "2026 年 FIFA 世界杯接待计划需求量破纪录 - TicketNews",
+      "summary": "2026 年 FIFA 世界杯接待计划需求量破纪录 TicketNews",
+      "originalTitle": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand - TicketNews",
+      "originalSummary": "FIFA World Cup 2026 Hospitality Program Scores Record-Breaking Demand  TicketNews",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPMHdUZmo4WnFHbFVXV19fSy0yTWFuOTl2QUFvTmRJZERUV253LVBmZFp1RnZfUkZpSldETW5pNmxxQWhrNG5ZMGxzOXRzc1JFVlM1V3FFdGljazhpNExUdUNyenlNSG8zeUlPTFRORkRrZERJdTl6NjJ5QkRXZUh3ZUJVbmVSLXNrNkpRZkNZWkk3dw?oc=5",
+      "publishedAt": "2026-10-07T21:33:54+00:00",
+      "heat": 68
+    },
+    {
+      "id": "google-news-panorama-korean-show-offs-may-have-ended-athlete-military-exemptions-vonn-listed-on-u-s-ski-team-roster-new-",
+      "title": "全景：韩国的炫耀可能已经结束了运动员的军事豁免；沃恩列入美国滑雪队名单；国际足联新丑闻！ - 体育主考官",
+      "summary": "全景：韩国的炫耀可能已经结束了运动员的军事豁免；沃恩列入美国滑雪队名单；国际足联新丑闻！  体育主考官",
+      "originalTitle": "PANORAMA: Korean show-offs may have ended athlete military exemptions; Vonn listed on U.S. Ski Team roster; new FIFA scandal! - The Sports Examiner",
+      "originalSummary": "PANORAMA: Korean show-offs may have ended athlete military exemptions; Vonn listed on U.S. Ski Team roster; new FIFA scandal!  The Sports Examiner",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxONnN3Y3pyZUlNRmFydHdNbWtJM0JiaW1aWG1ldHBKQl9hTEF6SFZCbkhZTzVyb1V5aHhacjdlaVpoZWI4ZjIzRnFCQ3MxdHhyNU5XT2J4Y25iTEhsYjVBSWZtQjAxbzlmdVRfeVRDS3hXNFNHbFptdkM5dnRmTGoteVZ5NVZtcWNsVERUUzdwZlJOT1NENVNyM2dlRjlvQVhxQ2tMLVFKYnRYM0dwYzRwU0k5S3cya3RvZlV3RjRuNTBQbkhvUmtsR3NOZVAxbjJ4SFF6TlduUXdQWGxrRUhMcERNbTJMQXpqUFhn?oc=5",
+      "publishedAt": "2026-10-07T20:58:16+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-rwanda-climb-nine-places-in-latest-fifa-rankings-the-new-times-the-new-times",
+      "title": "卢旺达在最新国际足联排名中上升九位|新时代 - 新时代",
+      "summary": "卢旺达在最新国际足联排名中上升九位|新时代 新时代",
+      "originalTitle": "Rwanda climb nine places in latest FIFA rankings| The New Times - The New Times",
+      "originalSummary": "Rwanda climb nine places in latest FIFA rankings| The New Times  The New Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPNmNRWm10eElKVXp3bVZoYWJjbzd3MVl5bzhHd1R5dGVVbmlFZ2prZUJ6el9FaTd6blAyTWtIZGh2dUZEU08xY2lORURIb0pIZDI2TTZwemZuMFdiUHMtUnFtc2ZWVUlMNGpqQ0lHbU9PU0pvTEYwX0FmdjhFMHVhRUxOenVRQnNDakFJZlRxdFZleDcxdVZwMDVsTnBmWkdYVTZGSFVpNnh3aVhHNEHSAa4BQVVfeXFMTzZjUVptdHhJSlV6d21WaGFiY283dzFZeW84R3dUeXRlVW5pRWdqa2VCenpfRWk3em5QMk1rSGRodnVGRFNPMWNpTkVESG9KSGQyNk02cHpmbjBXYlBzLVJxbXNmVlVJTDRqakNJR21PT1NKb0xGMF9BZnY4RTB1YUVMTnp1UUJzQ2pBSWZUcXRWZXg3MXVWcDA1bE5wZlpHWFU2RkhVaTZ4d2lYRzRB?oc=5",
+      "publishedAt": "2026-10-07T20:55:25+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-black-maidens-lose-3-0-to-china-in-world-cup-warm-up-ghana-sports-online",
+      "title": "世界杯热身赛黑少女队0-3不敌中国队 - 加纳体育在线",
+      "summary": "黑少女队在世界杯热身赛中以 3-0 输给中国队 加纳体育在线",
+      "originalTitle": "Black Maidens lose 3-0 to China in World Cup warm-up - Ghana Sports Online",
+      "originalSummary": "Black Maidens lose 3-0 to China in World Cup warm-up  Ghana Sports Online",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPb1o3dG9QSjNHVjRfZGJ1SW5SVzRRS2premFuRlhhQndlbDZHd2lKREdpaDJpMXEyZV93RlcydkNsVGlRNDdIejhMSW16M0JwN21lamVXazZBU05NY2N5bmp4bk9qY1hiOVdKa21MQnNvdDhSdU5mbDhWX0w0UXZJZERSeGZvbUxUSkpncEdWYnhFTVnSAZMBQVVfeXFMT29aN3RvUEozR1Y0X2RidUluUlc0UUtqa3phbkZYYUJ3ZWw2R3dpSkRHaWgyaTFxMmVfd0ZXMnZDbFRpUTQ3SHo4TEltejNCcDdtZWplV2s2QVNOTWNjeW5qeG5PamNYYjlXSmttTEJzb3Q4UnVOZmw4Vl9MNFF2SWREUnhmb21MVEpKZ3BHVmJ4RU1Z?oc=5",
+      "publishedAt": "2026-10-07T20:50:42+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-2026-world-cup-minority-alleges-how-gta-charged-7-000-14-000-for-visa-processing-modern-ghana",
       "title": "2026 年世界杯：少数派指控 GTA 收取 7,000 至 14,000 美元的签证处理费 - 现代加纳",
       "summary": "2026 年世界杯：少数派指控 GTA 如何收取 7,000-14,000 美元的签证处理费 现代加纳",
@@ -15,8 +87,44 @@
       "originalSummary": "2026 World Cup: Minority alleges how GTA charged $7,000–$14,000 for visa processing  Modern Ghana",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPa09oX1RBLWROZXB3UHhaWGZ5WXVVdUlBUTh2QjQ2TWhUdkhhSlZ3NmxKeTR4bHBfVmliQXZzeTRnNVhqelpwcC1Mdk5QNFVlbjNwZVB0RExaZG5hVDZjaElLaHJUUDB2MkNNYmpwVmczbTJkUEIyUEtPbHBscTRXbVRyQTNUU0ZsMUtPTmUweDA2OTNJX2JQZNIBlwFBVV95cUxOOGZBcXdSWFVLNTdnYlI2Vzh5MGxWaWNGU3NZRU02aUtEc2dVZ0t3bW1uUFRTeVpNY2JfXzVXeTlVTGNxOUFrQVVwbVEweWJnV0RSZE5nU2NXUU5FTXU0NThXZlNPNE9lS0dIYkJaZVVBQ21Manh3emZpelhPd0hZNDYzVEJXdGRoOVo2ekZkOTNBUzBMbVpv?oc=5",
-      "publishedAt": "2026-10-07T20:29:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOOGZBcXdSWFVLNTdnYlI2Vzh5MGxWaWNGU3NZRU02aUtEc2dVZ0t3bW1uUFRTeVpNY2JfXzVXeTlVTGNxOUFrQVVwbVEweWJnV0RSZE5nU2NXUU5FTXU0NThXZlNPNE9lS0dIYkJaZVVBQ21Manh3emZpelhPd0hZNDYzVEJXdGRoOVo2ekZkOTNBUzBMbVpv0gGXAUFVX3lxTE44ZkFxd1JYVUs1N2diUjZXOHkwbFZpY0ZTc1lFTTZpS0RzZ1VnS3dtbW5QVFN5Wk1jYl9fNVd5OVVMY3E5QWtBVXBtUTB5YmdXRFJkTmdTY1dRTkVNdTQ1OFdmU080T2VLR0hiQlplVUFDbUxqeHd6Zml6WE93SFk0NjNUQld0ZGg5WjZ6RmQ5M0FTMExtWm8?oc=5",
+      "publishedAt": "2026-10-07T20:30:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-andrey-arshavin-explains-why-lionel-messi-deserves-to-win-2026-ballon-d-or-legit-news",
+      "title": "安德烈·阿尔沙文解释为什么莱昂内尔·梅西值得赢得 2026 年金球奖 - 合法新闻",
+      "summary": "安德烈·阿尔沙文解释为何莱昂内尔·梅西值得赢得 2026 年金球奖 合法新闻",
+      "originalTitle": "Andrey Arshavin Explains Why Lionel Messi Deserves to Win 2026 Ballon d’Or - Legit News",
+      "originalSummary": "Andrey Arshavin Explains Why Lionel Messi Deserves to Win 2026 Ballon d’Or  Legit News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcDgzWUo4UE9NV2tocW5JNHBkZU9jZHZBRjZaYW14MzJqbjJqdTJtY0wtSXNuYzdKUkZadVd3MnkweEFCTFd4RXBkX19OcjRZZEh4MEdhYmdWa3g1c2hOSTRrLWd1bUdUMTlpNl9ZVWxob3UtQWVITktzMHBfckh4cHFrYm9TcGg5OHBhYldwRlFEOHZlNzlNOXNMdE42YzJjWUFERWxPVC1JOGFOd2pJYmFR?oc=5",
+      "publishedAt": "2026-10-07T20:26:32+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-stay-out-of-world-cup-visa-probe-to-avoid-interfering-with-cid-investigations-ernest-norgbey-to-politicians-",
+      "title": "远离世界杯签证调查，以避免干扰刑事调查局的调查——欧内斯特·诺格贝对政客们 - MyJoyOnline",
+      "summary": "远离世界杯签证调查，以避免干扰 CID 调查——欧内斯特·诺格贝 (Ernest Norgbey) 对政客说 MyJoyOnline",
+      "originalTitle": "Stay out of World Cup visa probe to avoid interfering with CID investigations – Ernest Norgbey to politicians - MyJoyOnline",
+      "originalSummary": "Stay out of World Cup visa probe to avoid interfering with CID investigations – Ernest Norgbey to politicians  MyJoyOnline",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOTHVUQjdocEtYZTVyVEpUZERJOTNsUE9tb0NfQ0VVVGxWSkpXRlJSZV95U3FTd3hadE5FUTJjVExzMDJERG15RzJKZW43SUZoR1g5b296S3FaRE5KTmxKRDdKREdDR3JfVzNIem5WOHppWWNIWGRZMkdTVEVmOFN2TENBQkZ3WHd6SVRTemw2cjMxaHlqMGNRSG1hdUkwOElwTEMtX0FtWVNFZXFtNkRHR25XVFFWcENxbkwtcGt0TUtuaXhNRTJ0MWVqOFphWklrekE?oc=5",
+      "publishedAt": "2026-10-07T20:00:49+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-07T19:10:01+00:00",
       "heat": 52
     },
     {
@@ -44,15 +152,27 @@
       "heat": 52
     },
     {
-      "id": "google-news-portugal-jumps-into-top-5-of-fifa-world-rankings-reuters",
-      "title": "葡萄牙跻身国际足联世界排名前五 - 路透中文网",
-      "summary": "葡萄牙跻身国际足联世界排名前五位 路透",
-      "originalTitle": "Portugal jumps into top 5 of FIFA world rankings - Reuters",
-      "originalSummary": "Portugal jumps into top 5 of FIFA world rankings  Reuters",
+      "id": "google-news-2026-world-cup-minority-alleges-only-two-of-50-gta-submitted-media-names-were-verified-ghanasoccernet",
+      "title": "2026 年世界杯：少数派声称 GTA 提交的 50 家媒体名称中只有两家得到验证 - 加纳足球网",
+      "summary": "2026 年世界杯：少数派声称 GTA 提交的 50 家媒体名称中只有两家经过验证 GhanaSoccernet",
+      "originalTitle": "2026 World Cup: Minority alleges only two of 50 GTA-submitted media names were verified - GhanaSoccernet",
+      "originalSummary": "2026 World Cup: Minority alleges only two of 50 GTA-submitted media names were verified  GhanaSoccernet",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVC1LVkRJZGpTdXNRQkxMd0t0ZXBxVFdhRy1DdnJxaVpLZlQ5dktjSUFCdHg0ZmRqLXlkVHZoaFhoWXpIaTY5VmtBck9HbjB6a0JxQ3dETWxnYXJodWw3ODA4X1d5YW5UU19xWWRTamNnRWgybWJWbXpBT2libDdIQkhUd28wSHZqbHJWNG5xZDdiM0QxXzRFOGFfQjBnWm9ITUE?oc=5",
-      "publishedAt": "2026-10-07T17:43:43+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlN2eVEyZ1JCalVUaTJmY0ZHc1V5UkIxaHlkaFRTdkgwX0pveTJhYUFSZEYxYzJtcTlRNmNmSF85emZDSWQ3cTBKU1ZtQmlfd0JGeklidjFuUksxMFZQeEI4UElOZzJrWWN1VkJDekNxdTJsbzEwV0xNR3NJdTdBbDlPQlY0eFNUWEotdEFPVExCYXJnMGpkZEpER0JNWjRvcWpyakVRU2xRcFRMeU1QVkV0MA?oc=5",
+      "publishedAt": "2026-10-07T17:48:48+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-portugal-jumps-into-top-5-of-fifa-world-rankings-the-straits-times",
+      "title": "葡萄牙跃进国际足联世界排名前五 - 海峡时报",
+      "summary": "葡萄牙跃进 FIFA 世界排名前 5 名",
+      "originalTitle": "Portugal jumps into top 5 of FIFA world rankings - The Straits Times",
+      "originalSummary": "Portugal jumps into top 5 of FIFA world rankings  The Straits Times",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPa0hsV2VoZWlrb2NZcVNuUkZRdHlKNmJQV3FYb3NJdFR6dzBycTdqY1YtQXR0LTI2Y1ZpX0dFang2TXlBZ2dxN3pDaXkzRW03cXNMaGNMY1ozNDRzREZjYzZtZ1NZemxQYXdFSTQ3WEo0REQ4ZzRCRW5yaTF4N2p6LVhIN1ByZ2c1aWxJaks1bzNUeDdmcDgzZXJEM2Rxd2RPVm5yUnR3?oc=5",
+      "publishedAt": "2026-10-07T17:44:00+00:00",
       "heat": 52
     },
     {
@@ -92,18 +212,6 @@
       "heat": 60
     },
     {
-      "id": "google-news-fifa-world-cup-2026-schedules-fixtures-match-dates-firstpost",
-      "title": "FIFA 世界杯 2026：赛程表、赛程和比赛日期 - Firstpost",
-      "summary": "FIFA 世界杯 2026：赛程表、赛程和比赛日期 Firstpost",
-      "originalTitle": "FIFA World Cup 2026: Schedules, Fixtures & Match Dates - Firstpost",
-      "originalSummary": "FIFA World Cup 2026: Schedules, Fixtures & Match Dates  Firstpost",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE4wamdCbmluU1VVZmlsTlh4WFVCOTg4Z1lpTV9LSEZGbDRhaVVMN1RueUV0dkdRRGh3STFHX3VuMGZLOC1PWjhzaXhpeDhLQWYtTXpUaWVlM1pNOTd0RkVN?oc=5",
-      "publishedAt": "2026-10-07T17:27:24+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-fifa-ranking-super-eagles-nosedive-few-days-after-guinea-bissau-defeat-blueprint-newspapers",
       "title": "国际足联排名：超级老鹰队在几内亚比绍失利几天后急转直下 - Blueprint Newspapers",
       "summary": "国际足联排名：超级老鹰队在几内亚比绍击败蓝图报纸几天后急剧下降",
@@ -113,114 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNc25CNmpZaW90TFdEelNFTjNOUVlXaGVBb0V5bGc3M1VyQk9nM1hkVkFFM2JDSUx5WERzLWR1RmxmR0dlbE9xWU1tQm95V2RQd0I1V1d2dHVYVjBwX0EwaklLMjlOb2I1M2E5OU16WnMzMWlNMUdtb1U3WktIWGlGb2pkX0hISzF3eG1Fc0x0R2gwN1l1dUNJ?oc=5",
       "publishedAt": "2026-10-07T17:24:02+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-flamingos-arrive-morocco-ahead-of-fifa-u-17-women-s-world-cup-the-eagle-online",
-      "title": "火烈鸟在 FIFA U-17 女子世界杯之前抵达摩洛哥 | - 鹰在线",
-      "summary": "火烈鸟在 FIFA U-17 女子世界杯之前抵达摩洛哥 |  鹰在线",
-      "originalTitle": "Flamingos arrive Morocco ahead of FIFA U-17 Women’s World Cup | - The Eagle Online",
-      "originalSummary": "Flamingos arrive Morocco ahead of FIFA U-17 Women’s World Cup |  The Eagle Online",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOUjk1NTZLYm1YdVZ2MGhIY21hNnV1WEtWSTdGNzF2OUN1VHRSMGRjejlmdGlMdEZfcENEcnFSV3lUUVZuaHJaYmwzQi01MUQyeHJiWHFLSEM0REhYdTN6N1ZWdjlGeVdzbHc3TXlsU212T29EQU9Nb2xfRmR0bkU2T3RuRHk0RFJKT3ptWUt4ancwOTNxT3c?oc=5",
-      "publishedAt": "2026-10-07T17:13:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-world-cup-minority-alleges-only-two-of-50-gta-submitted-media-names-were-verified-ghanasoccernet",
-      "title": "2026 年世界杯：少数派声称 GTA 提交的 50 家媒体名称中只有两家得到验证 - 加纳足球网",
-      "summary": "2026 年世界杯：少数派声称 GTA 提交的 50 家媒体名称中只有两家经过验证 GhanaSoccernet",
-      "originalTitle": "2026 World Cup: Minority alleges only two of 50 GTA-submitted media names were verified - GhanaSoccernet",
-      "originalSummary": "2026 World Cup: Minority alleges only two of 50 GTA-submitted media names were verified  GhanaSoccernet",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNlN2eVEyZ1JCalVUaTJmY0ZHc1V5UkIxaHlkaFRTdkgwX0pveTJhYUFSZEYxYzJtcTlRNmNmSF85emZDSWQ3cTBKU1ZtQmlfd0JGeklidjFuUksxMFZQeEI4UElOZzJrWWN1VkJDekNxdTJsbzEwV0xNR3NJdTdBbDlPQlY0eFNUWEotdEFPVExCYXJnMGpkZEpER0JNWjRvcWpyakVRU2xRcFRMeU1QVkV0MA?oc=5",
-      "publishedAt": "2026-10-07T16:52:58+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-world-cup-minority-alleges-gta-demanded-7-000-14-000-for-visas-ghanaweb",
-      "title": "2026 年世界杯：少数群体声称 GTA 要求支付 7,000 至 14,000 美元的签证费用 - GhanaWeb",
-      "summary": "2026 年世界杯：少数派指控 GTA 要求支付 7,000 至 14,000 美元的签证费用 GhanaWeb",
-      "originalTitle": "2026 World Cup: Minority alleges GTA demanded $7,000-$14,000 for visas - GhanaWeb",
-      "originalSummary": "2026 World Cup: Minority alleges GTA demanded $7,000-$14,000 for visas  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVVKY0FCRjRQMFJCQkp5dkFxemVrODNDRm9ISDhvNThIdmpKcVJBTllRWEZvajVxU3N4NkY1NC1CVnZEWWo3cG1nSFp6ZG04eG9EbDVFWFV0RDdDVW5pcGJGV1ZydnVEU3FJX25RSlJGbXduRW1XYnBkaWt6MUJkUlJ5dlRZSWRCX3JGd3RvSnBVOXprdzByeDlkWllneHkwVGktT3NDZGh5dEswUThiT3c1a3ByOWI2OUJ4bDdIRTZHZGxQbnkw?oc=5",
-      "publishedAt": "2026-10-07T15:30:47+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-07T15:02:31+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-visa-scandal-minority-calls-for-kofi-adams-gta-ceo-to-be-fired-ghanaweb",
-      "title": "世界杯签证丑闻：少数人呼吁解雇 GTA 首席执行官 Kofi Adams - GhanaWeb",
-      "summary": "世界杯 Visa Scandal: Minority calls for Kofi Adams, GTA CEO to be fired  GhanaWeb",
-      "originalTitle": "World Cup Visa Scandal: Minority calls for Kofi Adams, GTA CEO to be fired - GhanaWeb",
-      "originalSummary": "World Cup Visa Scandal: Minority calls for Kofi Adams, GTA CEO to be fired  GhanaWeb",
-      "translation": "online/local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNMmdDYnNrR1dPdnNoc05Vd1ROTWFxOVRDZ3pCR1QxOWZQbGNNZXQ4cENYV2xKTjJiTmNzb1FxdG5RY3RBeXNwWFBKTWQ3eTNoUXU1RHh4WWkzTmdwU3c4U180bjFlLWdKRzIwR3ZuMGxkSDlnUVJSclQxMGFzbk1IcHAxa19RLUs2LVNuRktNVzZzNkx6NXhZcmpKaVdscThKb3M2Yk93eU1iZVh0alBOLXFXSGkzbC1nS0lKY1IyYy1obzlBaEpjem5wRDM4UQ?oc=5",
-      "publishedAt": "2026-10-07T14:18:53+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2030-world-cup-when-does-qualification-start-for-usmnt-world-how-many-teams-where-is-it-nbc-sports",
-      "title": "2030 年世界杯：USMNT 世界赛资格赛什么时候开始？有多少队？它在哪里？ - NBC 体育",
-      "summary": "2030 年世界杯：USMNT 世界赛资格赛什么时候开始？有多少队？它在哪里？  全国广播公司体育",
-      "originalTitle": "2030 World Cup: When does qualification start for USMNT, world? How many teams? Where is it? - NBC Sports",
-      "originalSummary": "2030 World Cup: When does qualification start for USMNT, world? How many teams? Where is it?  NBC Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdlV0Mmt4MXp2cWhSZmFIUldzQmt0MldZWklEemNObF90cVJSWjlLNm9BeW91c0FXZVV3YVNIX2VieWp5VTJQaDg2TFQ4UEFlcEVNZ1BqRDBjWXhnQy1PeGJlU0R0UEhEQm9Pb3NkeHNpVnRqR05ZSjNHd0FhMFlkWjBOSjFNelM3SEhBMnlPUlUyS2MxVk9pLXZZUDdpM1F6OUJKNjh5MVFDQnkzanhTN2ppeXlDLS05S3lqd2doRGI0Tm8?oc=5",
-      "publishedAt": "2026-10-07T14:03:20+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-dr-congo-fielded-an-ineligible-player-to-beat-nigeria-for-the-world-cup-ghanaweb",
-      "title": "刚果民主共和国如何派出一名不符合世界杯资格的球员击败尼日利亚参加世界杯 - GhanaWeb",
-      "summary": "刚果民主共和国如何派出一名不符合资格的球员击败尼日利亚参加世界杯 GhanaWeb",
-      "originalTitle": "How DR Congo fielded an ineligible player to beat Nigeria for the World Cup - GhanaWeb",
-      "originalSummary": "How DR Congo fielded an ineligible player to beat Nigeria for the World Cup  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVlAtSDNhWUpienYzZE5rc1loaVlfbzNDdjJqc0l2UE9lT2wtVVBQaHNlcFJyMjRnZXZqWFhBa09qaVV0ajdaUnVqTmQybEtPeFBwd24xLW9pZGREWi1LeFk1R1hPbHIxVm9Ud3ZzUExxQTIxVy1OWjk3emVYMEZLcWRnd2dVS1BmamlDcVBuNmQyb2lVQ0MtYzh2Um5sbGZheUJqNHhBMnh5S0JFUFZvTWRQbGxiZ2xtTGhBTUVkc2pVYkcwZGVJX1ZWSTg2ZUluVUE?oc=5",
-      "publishedAt": "2026-10-07T13:43:53+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026年10月7日有哪些重要新闻-vietnam-vn",
-      "title": "2026年10月7日有哪些重要新闻？ - Vietnam.vn",
-      "summary": "2026年10月7日有哪些重要新闻？  Vietnam.vn",
-      "originalTitle": "2026年10月7日有哪些重要新闻？ - Vietnam.vn",
-      "originalSummary": "2026年10月7日有哪些重要新闻？  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBXNHp1c3RVclVJVTB5TWo5MHlEM0dVeEhTdjlfTS1mNHc1YVROLUQzNWdoSG92aWs0N2UzUkpiMUptck9NemJmRVFaODh0cVJYeW02ZFNURTZRX1BpbkZuRjV1VGRRLVc4Zm5lYkJjdFEzYVE?oc=5",
-      "publishedAt": "2026-10-07T13:19:36+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-messi-shuts-down-world-cup-favouritism-talk-the-truth-is-soccer-laduma",
-      "title": "梅西结束世界杯偏袒言论？ “事实是……”——足球拉杜马",
-      "summary": "梅西结束世界杯偏袒言论？ “事实是......”足球拉杜马",
-      "originalTitle": "Messi Shuts Down World Cup Favouritism Talk? 'The Truth Is...' - Soccer Laduma",
-      "originalSummary": "Messi Shuts Down World Cup Favouritism Talk? 'The Truth Is...'  Soccer Laduma",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMlpJZWE5elY5MWpSRW9nTl80ZmwwMWZXVHVlN3Y3cDAxa09GaENUTWg5N00zVFZDMTFHb211ak9sMW5uUmRvZmNfcTZmVk1aSTlRdlJWTExYejZiNTRWZTYyY1FNZGVBTlRuUGZHX0ZseXM0VFp6SWl6cTdOUEN3UXVPLXliZGV2b05Id0lyNVhXRWV0OUVfWUdpaUZ6X1FIdThYRjJKcUxNd2FpYkZVLVJuVEZrVDhCSlA4UWw0WmNuYlkwckRuaQ?oc=5",
-      "publishedAt": "2026-10-07T13:05:00+00:00",
       "heat": 52
     }
   ]
