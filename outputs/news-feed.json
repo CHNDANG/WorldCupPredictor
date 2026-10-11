@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-11T18:21:44.601771+00:00",
+  "updatedAt": "2026-10-11T22:20:33.054221+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,63 @@
   ],
   "articles": [
     {
-      "id": "google-news-2026-college-football-playoff-projection-bracket-the-athletic-the-new-york-times",
-      "title": "2026 College Football Playoff projection bracket - The Athletic - The New York Times",
-      "summary": "2026 College Football Playoff projection bracket - The Athletic  The New York Times",
-      "originalTitle": "2026 College Football Playoff projection bracket - The Athletic - The New York Times",
-      "originalSummary": "2026 College Football Playoff projection bracket - The Athletic  The New York Times",
+      "id": "google-news-argentina-were-world-cup-s-most-targeted-team-online-says-fifa-report-the-daily-star",
+      "title": "Argentina were 世界杯’s most targeted team online, says 国际足联 report - The Daily Star",
+      "summary": "Argentina were 世界杯’s most targeted team online, says 国际足联 report  The Daily Star",
+      "originalTitle": "Argentina were World Cup’s most targeted team online, says FIFA report - The Daily Star",
+      "originalSummary": "Argentina were World Cup’s most targeted team online, says FIFA report  The Daily Star",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQUlDWlhtMEdZOW1QMUFPR01iTFphSUoyX0JKQ1hWS1lkOExyMU5EQVFaZW5CZ204NUZZX21WLWZZS0MySEdGdE1pcEJoUHM2UEZuVUNHNmFUQ2d1aGotaTFsRkpVSjdsX1UyNkRJYnRIZ2s3QzhuRmRxVGs4VGEyRVNQdXk5bWUwM1JneTMtODhmYlBTWUZtY3BR?oc=5",
-      "publishedAt": "2026-10-11T16:00:47+00:00",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeGdscGhfcm1QclprU2R3c25fWWh0RFkxWWY1eXZyRDNPY1B6REJuUjBMRGxjNVBsRW5UM081RkFpQmdhRFNpd1NOVXl1d2ZMLWRHa1lqQVlnck5fWUg2STdPcFBMOHdCazQ1OGw2SGZZZEgxb1ZWczVLb1JDdVFJN2ktOFJkMTV1VHd2SXlHZU1KWG5sMjVXZVljV2pOSEdWVlZJUndDd3d5enh2OWpmY3JBU1ZFMTNOamxSeHJYUzFWbUlE?oc=5",
+      "publishedAt": "2026-10-11T20:50:28+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-panorama-europe-says-no-russia-flag-anthem-at-youth-festival-fifa-says-1-4-of-world-cup-social-posts-abusive",
+      "title": "PANORAMA: Europe says no Russia flag, anthem at youth festival; 国际足联 says 1.4% of 世界杯 social posts abusive; two swim WRs at 世界杯 - The Sports Examiner",
+      "summary": "PANORAMA: Europe says no Russia flag, anthem at youth festival; 国际足联 says 1.4% of 世界杯 social posts abusive; two swim WRs at 世界杯  The Sports Examiner",
+      "originalTitle": "PANORAMA: Europe says no Russia flag, anthem at youth festival; FIFA says 1.4% of World Cup social posts abusive; two swim WRs at World Cup - The Sports Examiner",
+      "originalSummary": "PANORAMA: Europe says no Russia flag, anthem at youth festival; FIFA says 1.4% of World Cup social posts abusive; two swim WRs at World Cup  The Sports Examiner",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPbHBvVXF0OGQ1bVptbDZjbUV3OVVYZGFUUjFEVm40NVhTNXA0UjBURXQyeVVreU52cFZKdF9CYjMySTM4UUtwTGdrUS1WQ2ZaOU1OM3FJSDJSZGNXWDJPYk5BVkxUN29pYlp0bHBqMjQ1NG1YUnJ5TzVlUzlRRDJfWENvc1RKaXNGXzZlTjNBN2xfVzRwR2pqOHhYS3k2cm1LYmtjSW5YV0RONm1xZGM5WXdLUEpYWklZbHRiX3pOemJsMGQzSXhXOXZkaFBwc1A2UDRXQURJRVJnTWotYUg2TklQWVVJU3p3MEZWcHFJX0FsdEhMR2FJZGwtYi1rZw?oc=5",
+      "publishedAt": "2026-10-11T20:35:47+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-reveals-240-000-abusive-social-media-posts-during-2026-men-s-world-cup-friends-of-football",
+      "title": "国际足联 reveals 240,000 abusive social media posts during 2026 Men’s 世界杯 - Friends of Football",
+      "summary": "国际足联 reveals 240,000 abusive social media posts during 2026 Men’s 世界杯  Friends of Football",
+      "originalTitle": "FIFA reveals 240,000 abusive social media posts during 2026 Men’s World Cup - Friends of Football",
+      "originalSummary": "FIFA reveals 240,000 abusive social media posts during 2026 Men’s World Cup  Friends of Football",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMDI5bUFxU2pYU0hqN1ZuLUJqd1ZYVGhsSGlEWWhsSWd1U3dvaHptZWVyRDJZN2NnVVZLUjQ5b3pFMDI1aF83ZFVmS1BzTnBJbFlwU2d0MnZUdWlLcnpFVFpUSEUweTNsNS1RX3VKY25iNEtGUDVCV2s2UGxPdk1nX2JXS2xhREVwTXpQbFJSU3FodTJRSHVKQUkzV0VXLUpXcVA3WXVELW1XN1g4WERTcXhlaHpuTkc2eVl3RHJ3?oc=5",
+      "publishedAt": "2026-10-11T20:34:09+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-shakira-world-cup-2026-anthem-ft-dai-dai-burna-boy-six9ja",
+      "title": "Shakira – 世界杯 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
+      "summary": "Shakira – 世界杯 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "originalTitle": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy - Six9ja",
+      "originalSummary": "Shakira – World Cup 2026 Anthem ft Dai Dai & Burna Boy  Six9ja",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUzh5cXZNa1FWS3ZzNFFHb280TXphT09kSEJuajRoOVlpUmFVSV9DVkg5WjlBYjBXSVpOWTZOanVxSzRheTM5WTJ1RElEQlJRZUcyTXU1Nm40OXpZamM1TkRNT2ZIY0NQVTN3ZFhhWmRXckJRdHRRYjhOTjNrcjgwMTl5cmZ5cmc4?oc=5",
+      "publishedAt": "2026-10-11T17:00:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-越南常务副总理范家泽出席了表彰杰出越南企业家的仪式-2026年圣雄杯-vietnam-vn",
+      "title": "越南常务副总理范家泽出席了表彰杰出越南企业家的仪式——2026年圣雄杯。 - Vietnam.vn",
+      "summary": "越南常务副总理范家泽出席了表彰杰出越南企业家的仪式——2026年圣雄杯。  Vietnam.vn",
+      "originalTitle": "越南常务副总理范家泽出席了表彰杰出越南企业家的仪式——2026年圣雄杯。 - Vietnam.vn",
+      "originalSummary": "越南常务副总理范家泽出席了表彰杰出越南企业家的仪式——2026年圣雄杯。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOYmpPWVVyLU5NVkxfazhGcVUwcUtBaFBfMnJTVmtwX0RKblVjRkVOZl9yOWpsd2lZVnhrLXR1WTE0dHdzUnJQMWU0WkprcTlqLUtsbnhqNWFGcTZaeFJIVXhiZ3lQNkhfU1YwQlhIbkdVMERRMUZHOTFfQThTbENBaktIWWlQVE5WQ21sWGFLTUlNUFdvRW1HTjJWUUZrNHY4U3lHSS1QZG1OZWdPMkpIdGd2OVhMV21uYlMyLTBULWJhek1KN1h2ajBLMFRUQQ?oc=5",
+      "publishedAt": "2026-10-11T16:31:46+00:00",
       "heat": 44
     },
     {
@@ -32,6 +80,30 @@
       "heat": 52
     },
     {
+      "id": "google-新闻-中文-确定首批获得2026年雄王排球杯参赛资格的队伍-vietnam-vn",
+      "title": "确定首批获得2026年雄王排球杯参赛资格的队伍。 - Vietnam.vn",
+      "summary": "确定首批获得2026年雄王排球杯参赛资格的队伍。  Vietnam.vn",
+      "originalTitle": "确定首批获得2026年雄王排球杯参赛资格的队伍。 - Vietnam.vn",
+      "originalSummary": "确定首批获得2026年雄王排球杯参赛资格的队伍。  Vietnam.vn",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTDJ0eTRUWUg1a21tdUVxU2tmeGNGOHMwbXRCQkNFeURMZ0ZQQ0RpV2VsaEUzWTZZYS1EaFVwdnRMd2wwYld2dmRKbS1PbFI4akpudjkwUXdYTDItcEFnTjU5alVfai1ocGIyTGZHX25LQWlFbHlsWExldUNJVENzcVFiQ19Sel92RVFvMy1NMm93SjAyV2QxejJYQUhZdnJfcmdRV0ZJdWJHUUY0?oc=5",
+      "publishedAt": "2026-10-11T14:59:30+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-fifa-world-cup-2026-10-biggest-games-of-the-group-stage-bavarian-football-works",
+      "title": "国际足联 世界杯 2026: 10 biggest games of the group stage - Bavarian Football Works",
+      "summary": "国际足联 世界杯 2026: 10 biggest games of the group stage  Bavarian Football Works",
+      "originalTitle": "FIFA World Cup 2026: 10 biggest games of the group stage - Bavarian Football Works",
+      "originalSummary": "FIFA World Cup 2026: 10 biggest games of the group stage  Bavarian Football Works",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBLQnhfdFNpYVFJRExkN1pXVGE4R2pBcVFlTkljRkpaUmczNFpheURjZnhlTkhvcmdqaEJfS1NFeDFFWkVUOFAxTF9yalE2VDhycFNiLWhpcVZ2WmJRY1ZlSWNwRjhPbGhPTFdrWnlpRTc2WlNZdHdHTUg0WEZIMVJMdnNQbnFVTjRuQVlKS1dENXk3YnVqUmZEUW1hcVNhREhla213WHJrd2VIdFI2Y25pZl93WTA?oc=5",
+      "publishedAt": "2026-10-11T14:56:37+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-argentina-will-be-the-most-hated-team-in-the-2026-world-cup-tembah-football",
       "title": "Argentina will be the most hated team in the 2026 世界杯 - Tembah Football",
       "summary": "Argentina will be the most hated team in the 2026 世界杯  Tembah Football",
@@ -42,6 +114,18 @@
       "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5UZnpTX3NneVU3LTEtTUhVOFAwZTQwY2tOZzV6R3V5RzV0U0RQb01FbjN5SVNxYUI5NE5SU2FFc18ySjU0MV9Md3ZYVW8?oc=5",
       "publishedAt": "2026-10-11T14:04:14+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-college-football-playoff-bracket-2026-latest-predictions-with-ucla-in-lsu-out-in-top-12-shakeup-the-new-york",
+      "title": "College Football Playoff bracket 2026: Latest predictions with UCLA in, LSU out in 击败 12 shakeup - The New York Times",
+      "summary": "College Football Playoff bracket 2026: Latest predictions with UCLA in, LSU out in 击败 12 shakeup  The New York Times",
+      "originalTitle": "College Football Playoff bracket 2026: Latest predictions with UCLA in, LSU out in top 12 shakeup - The New York Times",
+      "originalSummary": "College Football Playoff bracket 2026: Latest predictions with UCLA in, LSU out in top 12 shakeup  The New York Times",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZVhVNGlka1VyWUhtNjJUU1hVQVMtZUctbFJBbl9aZFNxOUE4ZDI5VFVoX0dEQ3g5WE5DajQ2U21qZFVfY0lGUTdCX2VSYU03U2FCaWNmNVEwenBJcFN3czFTdjQ3M0h6V0prd19DZFBNZTlUcDBLYTZ3VWtyem9xcEU3a2FCMWVyblhLYWc0NDkta0czRmxmd0tEOGlrMTZ4LVh6Y3VaUEk0M2xu?oc=5",
+      "publishedAt": "2026-10-11T13:54:55+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-sports-ministry-denies-involvement-in-world-cup-visa-scandal-calls-for-probe-ghana-news-agency",
@@ -65,6 +149,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZ0VDcFpTQ2lOYl93RWZVRzhrTW5NZC1EMV9xV1JxaWtqQUFFTXMtUzZIdzkxUHgyVzgtcFdWMVRTZzV4bWxjbF9CY3NlcDc3TTZxcVQ5MmdOTFhwVTVfY0lXYnQxWmFiOVppV3o0bFllbTBMamRBTEpjQzVCTjM1ejZwOHh2bDBpYVNsRm5oRlNRcmYza3RJbUZ4SkkxSVF1b3c?oc=5",
       "publishedAt": "2026-10-11T12:23:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-the-2026-world-cup-was-supposed-to-supercharge-u-s-tourism-the-actual-numbers-tell-a-different-story-yahoo-f",
+      "title": "The 2026 世界杯 Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story - Yahoo Finance",
+      "summary": "The 2026 世界杯 Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story  Yahoo Finance",
+      "originalTitle": "The 2026 World Cup Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story - Yahoo Finance",
+      "originalSummary": "The 2026 World Cup Was Supposed To Supercharge U.S. Tourism. The Actual Numbers Tell A Different Story  Yahoo Finance",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPeW5aQ1lZMFJPQ2pSR3VGVVJXamVSUlpfRFhheUFSQ21qeW1CMV9HQUFOSkpabG1ZM0FwQ2dMTENLckQwWEhlM1lzRjRlZEl6TE9SLTFGcV93TU9LX3RQRy1BQ2ZPbDVpd2lHXzhhdXRIdWtGd2xHWnBfbWZMS1YxYVNRMEJNQVBtbk5DR0VzckFEb3NWWnFkdw?oc=5",
+      "publishedAt": "2026-10-11T12:00:04+00:00",
       "heat": 52
     },
     {
@@ -125,102 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYUltV2lFUUI1cWtWZEpXV215ZVZ6ckg4NnRxVVc2U2tueEN3OUs1U1M3M1hyRmdjTVdIWnp2VUIyYTFQN3NJR1RXcWwtSmNTekpHOHdnZVJ3WjJhNi1oX1FMa2h6bW1heXBQTm83VFJUZnNRVVFwM0xiR0x0QjRxazJCZ05xd3UtbzNsc1VPQlo1MGJ5Qzh4dUdKVk5FaFVDdzRKOGFuMEdidENaT1ZiQlVzcmdzTFhCTTJ1bVhRSGxndw?oc=5",
       "publishedAt": "2026-10-11T09:25:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-odds-usa-vs-bosnia-herzegovina-lines-spreads-betting-trends-vegasinsider",
-      "title": "世界杯 Odds: USA vs. Bosnia-Herzegovina Lines, Spreads, Betting Trends - VegasInsider",
-      "summary": "世界杯 Odds: USA vs. Bosnia-Herzegovina Lines, Spreads, Betting Trends  VegasInsider",
-      "originalTitle": "World Cup Odds: USA vs. Bosnia-Herzegovina Lines, Spreads, Betting Trends - VegasInsider",
-      "originalSummary": "World Cup Odds: USA vs. Bosnia-Herzegovina Lines, Spreads, Betting Trends  VegasInsider",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdF90STJZQXZCcE92eGsxMlMzWjJKeHBxRWF5dWxHcjJ5bmlydWVpc0JTbVRwQ0tXTkRJWnNHRnE5X3YwY3FtUTNUXzZKa0xrczg1X3FIeEg5X1U4dGRsS0F4MmZBaHRkYWFrMXB1M016VVl0bFRackk2ZF8zS1NCNHdUeURadw?oc=5",
-      "publishedAt": "2026-10-11T09:15:05+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-2026年vpbank莲花乐园音乐马拉松闭幕式-vietnam-vn",
-      "title": "2026年VPBank莲花乐园音乐马拉松闭幕式 - Vietnam.vn",
-      "summary": "2026年VPBank莲花乐园音乐马拉松闭幕式  Vietnam.vn",
-      "originalTitle": "2026年VPBank莲花乐园音乐马拉松闭幕式 - Vietnam.vn",
-      "originalSummary": "2026年VPBank莲花乐园音乐马拉松闭幕式  Vietnam.vn",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNT2tibUhsVGRYSkVDcGtPX19Rc3dLc2dlb3lGb09zNGNabkFiZ1QtWVhZRnhjeWxkNXlZU0RpQ183RzQweEFVSHhhXzZSMk5qZVFmWndoeldQX2t2X2s1UHFUdU9zZi1KQ3J3NC1FWkN3ajA3R0czWmdiUzE0cW1ReGtya2xlSWM?oc=5",
-      "publishedAt": "2026-10-11T08:49:55+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-11T08:43:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-world-cup-predictions-opta-analyst",
-      "title": "国际足联 世界杯 Predictions - Opta Analyst",
-      "summary": "国际足联 世界杯 Predictions  Opta Analyst",
-      "originalTitle": "FIFA World Cup Predictions - Opta Analyst",
-      "originalSummary": "FIFA World Cup Predictions  Opta Analyst",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ReWVzcS1tRXNVRlNCNmhJNEg3QXJhWEd3cmI2Wm9aVVBDazlxaUVaNXd2MHBSQU52Skt0QmFlakpqMjdkXzZGRE42Mlkta3ZfT0NncXJaak1oRzhONzNJYllDNTE5cG5kQ09UZXVn?oc=5",
-      "publishedAt": "2026-10-11T08:32:41+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-cagliari-vs-juventus-fc-where-to-watch-stream-info-tv-channel-and-live-updates-october-11-2026-fubo",
-      "title": "Cagliari vs Juventus FC - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "summary": "Cagliari vs Juventus FC - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "originalTitle": "Cagliari vs Juventus FC - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "originalSummary": "Cagliari vs Juventus FC - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOGcxVmtNckozcmZPOXRCLVRHUW81bjQ3S09TZDB5bFZEalpiZWFZa2c1RlM2Q3N1NkY4VGRLdXpvVnd4YThhLTdnQkY1cWh1Z2d3dlRrQTRraS1ncks5OTZxVFdPUGZhVEtLVUxXV3o4WWp0aDQ4bE5fcVZMYWlKWjZwSXJhbFZnMXJSazBRS3h6ei0weVVoOW90dnctdmNpWjZ5NHd6ek1YdVdlaEVoSWdPOFBpdmE0Z0MtdFVXOXVOZ0tqZ1E?oc=5",
-      "publishedAt": "2026-10-11T08:25:21+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-reportedly-allowed-ineligible-dr-congo-player-in-2026-world-cup-realnews-magazine",
-      "title": "国际足联 reportedly allowed ineligible DR Congo player in 2026 世界杯 - Realnews Magazine",
-      "summary": "国际足联 reportedly allowed ineligible DR Congo player in 2026 世界杯  Realnews Magazine",
-      "originalTitle": "FIFA reportedly allowed ineligible DR Congo player in 2026 World Cup - Realnews Magazine",
-      "originalSummary": "FIFA reportedly allowed ineligible DR Congo player in 2026 World Cup  Realnews Magazine",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPYjBMdUtLV2htRVBoVjRMS2w0cFFnaGwxOUNhbWJNQkRGQnRQOTVTckpSNGRjOFBXYWVpUlpuaVo1NHUzSU1NVkxhV3V2QWZMMW9jSjc3aHlvNWZ4UzNrV1BLLXlZZzlJMjhpTEhxaG13XzlPXzJtYm5ZUXNRUWQyVm50TkgtcUhBa2tJRlFvMFlMVHVxWF8yd1hqcUFtaEU?oc=5",
-      "publishedAt": "2026-10-11T08:12:36+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-estac-troyes-vs-olympique-de-marseille-where-to-watch-stream-info-tv-channel-and-live-updates-october-11-202",
-      "title": "ESTAC Troyes vs Olympique de Marseille - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "summary": "ESTAC Troyes vs Olympique de Marseille - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "originalTitle": "ESTAC Troyes vs Olympique de Marseille - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "originalSummary": "ESTAC Troyes vs Olympique de Marseille - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdy10YS1GQlBTSUpkaFZpdFVlXzB6blBLNllncldndmVVdjExSzMySjVZNi01ZkJMTHRVQ2tMSTVFVHJyUWRZZFBsclNSTFRuZF80TU9uZlBXS01MS1A0OHhFZTBvTWpFakZ0MEtTSlZvTkFHZGZQbkFYd3dDd0F3U1Q1ekZQd3Bodk82dEFBUzRROTdSem4xcTBrdGlWV2U1WDRmbm13TnZSN0lXZW1ZblJ4T1RzdEZiRHNrVFltTXBIcVVKSk9xSHg4bmdkRjhHd3Boc3NEeXRRQQ?oc=5",
-      "publishedAt": "2026-10-11T08:10:21+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-stade-rennais-vs-aj-auxerre-where-to-watch-stream-info-tv-channel-and-live-updates-october-11-2026-fubo",
-      "title": "Stade Rennais vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "summary": "Stade Rennais vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "originalTitle": "Stade Rennais vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026) - Fubo",
-      "originalSummary": "Stade Rennais vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 11, 2026)  Fubo",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVm4zREpBTE5CeW5rcVRGdjQyejV2UHB0MFVyMHNuV0RaWkRVTXRhbUZiNmx0ZW9PSnduOUp5NEZRQzdiblVILTh5UUtKQTFJejJQek1aSlZTTmMtbmlvX2YySEZyTmYzck5WT2VmdF82NWZ6eG1PcEFNaFNNcEswaU15R0ZHQ295VUJ4RUF2ZkFUMlFuY25hNjhTUDdSdzhJT3RmZVJQYU1PVzY4Z1dkdXRjX2dTRlpJX0tPV0RjRWl5dERLTTV6S3l1WQ?oc=5",
-      "publishedAt": "2026-10-11T08:10:21+00:00",
       "heat": 52
     }
   ]
