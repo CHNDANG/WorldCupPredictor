@@ -1,11 +1,11 @@
 {
   "database": "/home/runner/work/WorldCupPredictor/WorldCupPredictor/data/football_learning.sqlite3",
   "matches": 92,
-  "liveSnapshots": 2482,
-  "bookmakerOdds": 2506,
+  "liveSnapshots": 2483,
+  "bookmakerOdds": 2507,
   "predictions": 0,
-  "newsArticles": 9451,
-  "updatedAt": "2026-10-13T01:11:01.503031+00:00",
+  "newsArticles": 9458,
+  "updatedAt": "2026-10-13T08:17:25.007213+00:00",
   "storage": "D盘持久化数据库",
   "nextUse": [
     "用历史快照学习强队久攻不进时的总进球降温幅度",
