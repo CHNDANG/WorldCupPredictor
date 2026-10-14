@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T16:54:47.342102+00:00",
+  "updatedAt": "2026-10-14T20:32:12.614176+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,16 +8,112 @@
   ],
   "articles": [
     {
-      "id": "google-news-fifa-u-17-women-s-world-cup-schedule-teams-and-how-to-watch-live-on-dazn-dazn",
-      "title": "FIFA U-17 女子世界杯：赛程表、球队以及如何在 DAZN 上观看直播 - DAZN",
-      "summary": "FIFA U-17 女子世界杯：赛程表、球队以及如何在 DAZN 上观看直播 DAZN",
-      "originalTitle": "FIFA U-17 Women's World Cup: Schedule, teams and how to watch live on DAZN - DAZN",
-      "originalSummary": "FIFA U-17 Women's World Cup: Schedule, teams and how to watch live on DAZN  DAZN",
+      "id": "google-news-webinar-hazmat-operations-at-the-fifa-world-cup-lessons-from-host-city-and-partner-agencies-firerescue1",
+      "title": "网络研讨会：国际足联世界杯上的危险品操作：主办城市和合作机构的经验教训 - FireRescue1",
+      "summary": "网络研讨会：FIFA 世界杯上的危险品操作：主办城市和合作机构的经验教训 FireRescue1",
+      "originalTitle": "Webinar: Hazmat operations at the FIFA World Cup: Lessons from host city and partner agencies - FireRescue1",
+      "originalSummary": "Webinar: Hazmat operations at the FIFA World Cup: Lessons from host city and partner agencies  FireRescue1",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxON05Lb3ZPdEJvdURkbWpwTDBuZTRJa3dWM0hyMU03X096UG9OSllwZC1VUFR6YUNIMUxzYUtXWm4xNndrdlJYZm5EQ1JuR0FLZkFlVVgwWVdwTWhQVzF6VDdsMGR5d0FUV0VZRWFIYktKQTc0NExURmRGTnhVUDh6UDlYODk3RjJNd2NfRmZFbk4xdnNKbDZiM3lwQjVwWjdjb3pWRmNwbmI3YlgwZzZROGIwN0RtYTYxM2dyaE8yOXlKaFpPaDN6WkY0akdacDZE?oc=5",
-      "publishedAt": "2026-10-14T16:30:00+00:00",
-      "heat": 68
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPVUY3aUNTUFl6UGRkQ1ExMmhIVGp1djh5aHFpYUZFbnRkQUVia0ZTVERuYzQ5bVk0QWpTcHpUdmlHTHRzeDdwQnlObkktTTY1UkduUmxQU2l1MmxYVzl4aG1sUHFoTDZ6cXpyUC01S2ppeVc4N0VuZEFrQnJGX2t4a2FSOFhCOERBWDh6TWFsRkgwRm1PMW9rTHJjaFZSeU4yVWtaWHFpbE1JbVlPWFVEZ1BNVUgtUkdSSlFVZmlxUzdEOTUwZHl5YlNXSWlma2c?oc=5",
+      "publishedAt": "2026-10-14T20:29:42+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-kofi-adams-disagrees-that-black-stars-had-a-poor-2026-world-cup-modern-ghana",
+      "title": "科菲·亚当斯不同意黑人明星 2026 年世界杯表现不佳 - 现代加纳",
+      "summary": "科菲·亚当斯 (Kofi Adams) 不同意黑人明星 2026 年世界杯表现不佳的说法",
+      "originalTitle": "Kofi Adams Disagrees That Black Stars Had a Poor 2026 World Cup - Modern Ghana",
+      "originalSummary": "Kofi Adams Disagrees That Black Stars Had a Poor 2026 World Cup  Modern Ghana",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wcmpCeWZfVE0wVVF3OGwtVUIxaHZRY3BFY0RqWDVoWlVSVjR0a3RuZnFPbXNtYVJBdEZaUlBKU3BVRllFU2hsTElIQURZV0VaeUFLbXUwY1NFcTd0elVzbnNLSdIBXEFVX3lxTE1LOWFIUXlLUGpEQmtsMWF6QmF1clpSZnFhcllfcUZnekdzZmFpWkMzcGdKbXV5WlZKb0FOTHpQdTg3YjRTWjBWa3JnTGNwNU9YaldWZnhUUlB3bnI1?oc=5",
+      "publishedAt": "2026-10-14T19:32:55+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-nielsen-american-soccer-fandom-soars-after-2026-fifa-world-cup-mlssoccer-com",
+      "title": "尼尔森：2026 年 FIFA 世界杯后美国足球迷猛增 - MLSsoccer.com",
+      "summary": "尼尔森：2026 年 FIFA 世界杯后美国足球迷猛增 MLSsoccer.com",
+      "originalTitle": "Nielsen: American soccer fandom soars after 2026 FIFA World Cup - MLSsoccer.com",
+      "originalSummary": "Nielsen: American soccer fandom soars after 2026 FIFA World Cup  MLSsoccer.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOT3lZWFprUS1OZTkwYTl4QmdTS0FjZWhUQWNXbkNlTHZrOGpNV0toTGkzWGM0V3VacmRZRDN2VlJlQV9FalpmUmpucWNsaTZMNzZUaTdZZ0tPMGdKOFJMRTdTRnpzX2VlWFgxODNGR21abTZlMzM0cmlVTS1NbDE5QnpCT0VUMll3aGlGaG1reU1faXlDY2V0UA?oc=5",
+      "publishedAt": "2026-10-14T19:25:59+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-super-science-osu-developed-bermudagrass-takes-center-stage-at-fifa-world-cup-final-www-golfdom-com",
+      "title": "超级科学：俄勒冈州立大学开发的百慕大草成为 FIFA 世界杯决赛的焦点 - www.golfdom.com",
+      "summary": "超级科学：俄勒冈州立大学开发的百慕大草成为 FIFA 世界杯决赛的焦点 www.golfdom.com",
+      "originalTitle": "Super Science: OSU-developed bermudagrass takes center stage at FIFA World Cup Final - www.golfdom.com",
+      "originalSummary": "Super Science: OSU-developed bermudagrass takes center stage at FIFA World Cup Final  www.golfdom.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWJjQ2ZxMlluZng5bDJKM0FqWnNESHI3MnQwajR4V2MweUIyWngzaGdfRUh1aUdmTjhuUzA5ZE5JMllVZ1JGS1h1TFc3WmtHVzA3YkZWOWxpa21tbXFLVjAza2kxd0VlWXh1Y19OalRvMjJWMHYxMDYzaWNJMkt5Vmw5ZUpPREF5SjBMTmtSb0tyT3h6aFFYc2tzYXZZM0dTRWtmWlkzUk9nU0Ew?oc=5",
+      "publishedAt": "2026-10-14T19:00:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-rugby-league-world-cup-st-helens-r-f-c",
+      "title": "2026 年橄榄球联盟世界杯 - 圣海伦斯 R.F.C.",
+      "summary": "2026 年橄榄球联盟世界杯 圣海伦斯 R.F.C.",
+      "originalTitle": "2026 Rugby League World Cup - St.Helens R.F.C.",
+      "originalSummary": "2026 Rugby League World Cup  St.Helens R.F.C.",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBQMWtZRDRzWkFDWlVVRDlYdUwxdEs2V2tNTUF1YXpWRHBvdkpNeUtub1NWUm05akpjRkdld0RQbVJER1dmSmhlaTFFcDhZS1lIN1ptZEY2MEZDQzJON0c0dmk4TkxEM3lrbEtpaThNNXRlMUQ2?oc=5",
+      "publishedAt": "2026-10-14T18:26:22+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-argentina-to-face-spain-in-the-world-cup-final-what-to-know-abc7-bay-area",
+      "title": "阿根廷将在世界杯决赛中迎战西班牙：须知 - ABC7 Bay Area",
+      "summary": "阿根廷将在世界杯决赛中迎战西班牙：须知 ABC7 湾区",
+      "originalTitle": "Argentina to face Spain in the World Cup final: What to know - ABC7 Bay Area",
+      "originalSummary": "Argentina to face Spain in the World Cup final: What to know  ABC7 Bay Area",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizglBVV95cUxPaW9HcjZuUVh6aEhZMEdSTmhtUGxXZzJIX09zOWdDMlkwM2pOSG44eHJXR2tmbm9CVGZwMnRJZnlnUG9fZTZqVng3aUNvRmdoVE9XdUpHX2xzeXZwdTluVjdxc01PcmpIQ1ptVXF5UFU0T3RlUGxrdjl2ODk3MGN6UDdISENtdVh3S1RXMUcyOVpRU3YzRFozb0hET095X2pxbFFDazl3SVVvNmMzX0I1cUtVbnVDQjMtNGV2VWJfdW9DcGI0T04wdWVHaTk1OFRCd3k4aWt1VHVFOU1GRlVHUXFrcjJ2VS1fdTU2TnJ5NVg2cVNqcUFlQXpuS0ladFUwNE5lRXVrczNoYnFkeUdKQm5zZW8yZUYzV0RlZW8tY1lUbkRGUzRrR0tEODJZQWJRbjc1M1FFUVR3Z3pwYUNIejAxU1l1ZEZSU29FVmdXUU54V0hBbS10ckYxVUszTHdLRTBJX3VVWEJ1VGk0Z2hpSG5vdXgwcmpjNERpNjZXVjVUTzlEem1McjcwaXR3cmp1WFJERnhmUGJUZlMwSG9Ddm9KWEJHZkZfbWNDb29naE84Zl9tUG11Q2UtZ0NZbW1aQzZtam1RMzdRbGVEOVNRa3ozc1FweXFfRFpLcW1kRVJYNS1YQ2pFdzk1VXFzalF6LWYzakZiN2JkZXZrTUNxVmVFN0hBYXdYci1UTjB5dTFZWG8zRTg0QTcyckszQzVEZjFmdUhEeVVNZmdnUHl3cHRrNjg0S2xkVE9mZ0xmcDFneFBQNDJDR09LNzNZTjI0TVhVdFk1b0tuYUdzNzNmU2U1azh5Z3Q3MlA1TkpnZ1hTdGFMM3VXUlBxYU1OekRublFGNHlacWRyUnFxbjVCRm5sWUxaMnVja19WVW9pOEpjMWJaVG0xVTcxdW1iVXFuNE1ZenpFUFhNTWI3TkRFWmhWZHVFR0tmWk1La2VGMWZTdkl3WEJUMUVONnNWM1JRXzJ4a2k4d1JuODBoMUU0aHNybFpNcXktd3pubXhyNXEyWUs0X1VfMGVhaUtlekwzOW1BVENKMlRXa2MtOXpwSmR2WjJ4NnZIaXliRlFKS3c1dC1iV3VyOGhDT195aDR3ZDVfdUNrN1BzYzFXdDlMTXl0SHRFNVVoaUZOWndLcHBhWmdDMU1WOW9KMHlxSXo1YWJHcDA2ZVU0THVITi04aTVxaFdQcDJQeTMyVjZKa2RnZlBDTXdhNmJpYnltcU9ONXpFWUlKUzhJMUF2dFFLYkQtZUR4c2tFWFVoTDVmUWxURFl6dl92eGZRVDFxel9WMWxmVDF1TXhXZ1BLYy1MRVc3RnAtNTVjOHh6WGgyS2JQaVZlSzU4Q3BlQXRLOVFXTnZRcTBOQ1UwcjRtYmMxR0FZOEFERm5tMXlOZWtIeWFlaDU4VGtFWW1ETFhpdEFweURaQ0R1b1FTc2JFWXpvNmU5cEE1Ql8yNDVzbkk4NF9fRjkzVjcxQzBpODZwWlhHX2VpeXh2VnpfTjBkd1l3ck1TRmJ1RlE0VlZodVNiLWUwOUxDZFpsV1hlRk5uR1dScDdYV29wVGtQaFFRblR5Q093WmhLaHpaYUdpSHY1T3pJaWRocFg5aEFzMUtaVHc0UUVIRnVMTlN4blNiM3c?oc=5",
+      "publishedAt": "2026-10-14T18:07:46+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-seek-to-make-home-advantage-count-ahead-of-2026-fifa-u17-women-s-world-cup-kawowo-sports",
+      "title": "摩洛哥寻求在 2026 年 FIFA U17 女足世界杯之前发挥主场优势 - Kawowo Sports",
+      "summary": "摩洛哥寻求在 2026 年 FIFA U17 女足世界杯之前发挥主场优势 Kawowo Sports",
+      "originalTitle": "Morocco seek to make home advantage count ahead of 2026 FIFA U17 Women’s World Cup - Kawowo Sports",
+      "originalSummary": "Morocco seek to make home advantage count ahead of 2026 FIFA U17 Women’s World Cup  Kawowo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQUXdnUUdZZEIxbElOS2lIOUZucWk2QXZwYm9kby1jVEhYNl9fYWI4cmQ1ankyNVM0R3F4aE43dEF1NVA5YmtHNlNTMTBvaDEyVUdKazRyVlNqRnJ2RkNSMnhpY3dVdGdJWkcwbmdGSkctak5rX0JkTWF2SURURlJoSUFqNUhzYnpfYUJWMHRKMmVxU3JRNU5pMWExbjVGTkxvZGp2My1Xc2dpaFR6b25idmlB?oc=5",
+      "publishedAt": "2026-10-14T16:37:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-black-stars-world-cup-campaign-was-not-poor-sports-minister-kofi-adams-tells-critics-ghanasoccernet",
+      "title": "体育部长科菲·亚当斯告诉批评者，黑星队的世界杯表现并不差 - 加纳足球网",
+      "summary": "体育部长科菲·亚当斯告诉批评者，黑星队的世界杯表现并不差 加纳Soccernet",
+      "originalTitle": "Black Stars’ World Cup campaign was not poor, Sports Minister Kofi Adams tells critics - GhanaSoccernet",
+      "originalSummary": "Black Stars’ World Cup campaign was not poor, Sports Minister Kofi Adams tells critics  GhanaSoccernet",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON21BbmpWb3pnOWxuNHhMSW5YN2ctQTlncTZEdUNVSjV0VVkxbDEzUUhIWm1kbW0tMXQwSF9TQ3Nka0lHMlZScDJPNlRMNHFFX3BnZWlxUnFENnNWMXBsUi0ydmppXzNNUEkyT2I4aU9iZFNvdVVoUmZpU2ZaTTM4NEhBZ3BFeFdDRDJFN01Ganc4ckNiRHdsaG1qRQ?oc=5",
+      "publishedAt": "2026-10-14T16:00:18+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-will-argue-that-the-rules-in-the-balogun-case-were-not-clear-bein-sports",
+      "title": "国际足联将辩称巴洛贡案规则不明确 - beIN SPORTS",
+      "summary": "国际足联将辩称巴洛贡案中的规则不明确 beIN SPORTS",
+      "originalTitle": "FIFA Will Argue That the Rules in the Balogun Case Were Not Clear - beIN SPORTS",
+      "originalSummary": "FIFA Will Argue That the Rules in the Balogun Case Were Not Clear  beIN SPORTS",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZlRwWjh2by04WE5PRHJvNXpHUUFOUFFKVFRsM1UxNUxLSERKMFZIMmJJWHFOUXI3SF9MRnJxOERfU0hrTUNpVVpxQlhyUGRraDVwSjRfM2x4ajdHNVJzb20xOXNzWkJoSVRfMWJ4VkdkOGIxamh5VTRIU2FicFJUU0xmN0dHZW1RQUlhRkpXV1JqbjZfRnllVVpDQ09tYkM0Mjk2WHdEcFVuZ3B3cnE5blNqMy0zWXlqeFJ2b1VidG5oZWtVSzBVS2NKcHFNTEN0UGpFbVRiVGR6b00xZzFLOFFDbw?oc=5",
+      "publishedAt": "2026-10-14T15:57:22+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-ghana-s-2026-world-cup-performance-was-not-poor-kofi-adams-citi-sports-online",
@@ -40,7 +136,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHpTUjVsOUtTaFdyRTlxekxHQzdPU3FhdUxtQ09GaDQtM05lOThza1UyZ3NYd0l0ckxwXzBWeUxGNEtXMUdQSXhLbWp6a3hRUnpJeFMyUnRGTXRoN1FzaXQ3VWdIMGJTSC1rZnYtd3NXYXViS0JaNEJaZEZQUTFfSVFpenE1ZFhPenFHYnBYMGp5cW9CWDZsZDVxaklKdVUtVGdIUGJ6UFJZcDloTG1aRWZLeWdKdTlQZFpVakl0TjFKZWpzUHdVYnlsWQ?oc=5",
-      "publishedAt": "2026-10-14T15:22:30+00:00",
+      "publishedAt": "2026-10-14T15:28:31+00:00",
       "heat": 60
     },
     {
@@ -51,7 +147,7 @@
       "originalSummary": "How to watch Norway's FIFA U-17 Women's World Cup fixtures on DAZN  DAZN",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVkE3QmtLb1V3bjkzckY3aUhYUmJIcXEyT1ZzM2YzWFNLNWI5STExdlZNT3dKR1RkVWUxR09SY0F2YjlnSl9TbUtRREFlS1lvVlRaMXFkdnlmMWdTOVBXYnctZ0dqUlJZRTdqS3JrX2d1Q3pMZndmeGx0eW1DcEhfeTBVS0RldmdaamNUa1YxM0tSNVZ1dENfanVhcVFtRVNCbDdBbUhHa3FiTngyTWdkalF2Wkl1dkF4bFRqUmpaTQ?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWhPYVpYWllFVmwtak01T1g4dV9XYzZ3X1B2YWRFRk54TWVqQ2o5U3pRNFJzQTV6OEF0X0Q3MnlXSHpmcUcyOXhXSTVPOWdOUm9mV3pDT2dmcEJseWEzUC1LSXNyWnUzNXlXQVdZb19pLWQwMUw2ZW9JZWdtR0w3YjdfZ3NDZTFyNXBTd1hjU0ttNGRkT3JGT1FFd3pkcHk2WV9Dbjg1Z0stMHlkVEFUdG93RmpFX3ZmcXJFbmNacw?oc=5",
       "publishedAt": "2026-10-14T15:00:00+00:00",
       "heat": 60
     },
@@ -63,8 +159,20 @@
       "originalSummary": "Isaac Ofori questions sports minister’s role in 2026 world cup visa scandal  Ghana Sports Online",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZVBQZ1FLNWN3QVdZZW1LanFFeHdsTXI1SXU2YmxuV0tyaXVndV8yOFUwRjV2VXkwQTE2dTBmRjFoZG8xSkFpc2hIRy1aRE5tcE1PUFhHaERfUEtFYXBNVHBJaUhjcE1HWkt1OXpSZmVxRlVrM1hCMzFuaFJZd3BPZXRENUoxekliMUVxTlVBbWlBZlFHQlA0VkxGUENoajJQS0lhUnUzSDhwdHRqcm1od9IBsAFBVV95cUxPZVBQZ1FLNWN3QVdZZW1LanFFeHdsTXI1SXU2YmxuV0tyaXVndV8yOFUwRjV2VXkwQTE2dTBmRjFoZG8xSkFpc2hIRy1aRE5tcE1PUFhHaERfUEtFYXBNVHBJaUhjcE1HWkt1OXpSZmVxRlVrM1hCMzFuaFJZd3BPZXRENUoxekliMUVxTlVBbWlBZlFHQlA0VkxGUENoajJQS0lhUnUzSDhwdHRqcm1odw?oc=5",
-      "publishedAt": "2026-10-14T14:54:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVqWjlHbnRsX3l1Z2Y2SHU3MDZkYkJyTXVucENuMkpQWlVuQldUQTEzLUdkZXF5TGxFdU02MUROVE1QRWdLZ0xKSkZjV3JYTXQtZzB6VjBRenNVNGtXeGw0cGhxbFoxZVJpbVMyOTczR004aHV2c0Jya3dYekxOdmZvR0t3Z1kyNkxEek90d19xNjlTTl9oOTNuY1k2bUtrTzVHT0dBNmrSAbABQVVfeXFMT2VQUGdRSzVjd0FXWWVtS2pxRXh3bE1yNUl1NmJsbldLcml1Z3VfMjhVMEY1dlV5MEExNnUwZkYxaGRvMUpBaXNoSEctWkRObXBNT1BYR2hEX1BLRWFwTVRwSWlIY3BNR1pLdTl6UmZlcUZVazNYQjMxbmhSWXdwT2V0RDVKMXpJYjFFcU5VQW1pQWZRR0JQNFZMRlBDaGoyUEtJYVJ1M0g4cHR0anJtaHc?oc=5",
+      "publishedAt": "2026-10-14T14:53:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-visa-scandal-why-ex-nsa-coo-gyamfi-snitched-on-ampofo-tribe-fest-ceo-ghanaweb",
+      "title": "世界杯签证丑闻：为何前 NSA 首席运营官 Gyamfi 举报 Tribe Fest 首席执行官 Ampofo - GhanaWeb",
+      "summary": "世界杯签证丑闻：为什么前 NSA 首席运营官 Gyamfi 举报 Tribe Fest 首席执行官 Ampofo GhanaWeb",
+      "originalTitle": "World Cup Visa Scandal: Why ex-NSA COO Gyamfi snitched on Ampofo, Tribe Fest CEO - GhanaWeb",
+      "originalSummary": "World Cup Visa Scandal: Why ex-NSA COO Gyamfi snitched on Ampofo, Tribe Fest CEO  GhanaWeb",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakhsVmh0d0J0dEFtcGR5ai1qU0p5b21QUW1jMlV3a1NCcm5IY2xNMllweXhzOVFPeE9uVVVsNEUtc3RaSEptV2FuNUFuQ1VaNGdqSmNXWmtfbGJLVWNNd3JRM0h3U0l4UnA5cmJqWGxMVlZ3YkFCMlRPWUxoMk1EbVc4TmdtWkhWQlMxaWZ2RmNjYVZUUURrTmZMZ3F2SWNQYjlmenZ4YVhxQ0w5bVpIczI5RkRKRWppdGo1WklGODVXZGNsbkFydVBTQ181YWduNjFZ?oc=5",
+      "publishedAt": "2026-10-14T14:38:35+00:00",
       "heat": 52
     },
     {
@@ -114,114 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2gxQk9jc09ySFhZNGg0YXBja3NleE1lLXJmUDlGYUVVb0Uxd0VlOS1HSW1NdlJLczRtTkFoTnJDQ2k5ejFkSjZIcHkxVDlmQ01MRk1KdkMxaVhuMU5JNFYyY1gzWWIyWGFaUTVwVjZTOWF0T09OcnVLVDFvS3liZE9Fem1XbUJSUEhKbg?oc=5",
       "publishedAt": "2026-10-14T13:59:16+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-visa-scandal-why-ex-nsa-ceo-gyamfi-snitched-on-ampofo-tribe-fest-ceo-ghanaweb",
-      "title": "世界杯签证丑闻：为什么前 NSA 首席执行官 Gyamfi 告密 Tribe Fest 首席执行官 Ampofo - GhanaWeb",
-      "summary": "世界杯签证丑闻：为什么前 NSA 首席执行官 Gyamfi 举报 Tribe Fest 首席执行官 Ampofo GhanaWeb",
-      "originalTitle": "World Cup Visa Scandal: Why ex-NSA CEO Gyamfi snitched on Ampofo, Tribe Fest CEO - GhanaWeb",
-      "originalSummary": "World Cup Visa Scandal: Why ex-NSA CEO Gyamfi snitched on Ampofo, Tribe Fest CEO  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQOTJkOHlCallEMUlwazV6TEpIaHBPWmhER2Y1aE9BWUlhVUhScTBsRmNkaEpDaXZ5OFZnTkh2UXQ1YjB0SHVhMFRxZFdVLUkxblprVklJVXl4bl9BcDZJdXFSeTI2YWZoTFA0Q0xZSjZ1NEJIUXZsTDdhVTNLVHl2bEVUUVMyWUVrUHJvZkctcG84Y0ZyUWxfNXdESURkeGNxWjhEMEVMUlJiTldnam16TWhZTkNFbGVrR3FZRTMwaTRTYUF4RThQMmxSUDVPVTZ0cjJJ?oc=5",
-      "publishedAt": "2026-10-14T13:39:46+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-news-chicago-wins-world-cup-by-staying-on-the-sidelines-costar",
-      "title": "新闻 |芝加哥靠旁观赢得世界杯 - CoStar",
-      "summary": "新闻 |芝加哥靠旁观赢得世界杯 CoStar",
-      "originalTitle": "News | Chicago wins World Cup by staying on the sidelines - CoStar",
-      "originalSummary": "News | Chicago wins World Cup by staying on the sidelines  CoStar",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaGxQLWU4eHNDTTZHSjFVSDhvR2tXRk1BWXp5Q205Q0I1NXpDLXFUMjhiRk0wakxrb291cUM5dGYyajh3ZHJSeXl0N1JfaGhrT2tkN2lwQjNLTmxDRUJFTEdoRW9LSEVBZ1NScVpFc0FULXNJM2xPMTl4WE04bmU0WXMza2xpUVlHd2I0MXk2dDZYWlg0aU0w?oc=5",
-      "publishedAt": "2026-10-14T13:38:14+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-replica-world-cup-trophy-lifted-by-argentina-s-champions-goes-under-the-hammer-press-release-hub",
-      "title": "阿根廷冠军举起的世界杯奖杯复制品落锤 - 新闻发布中心",
-      "summary": "阿根廷冠军举起的世界杯奖杯复制品被落下新闻发布中心",
-      "originalTitle": "REPLICA WORLD CUP TROPHY LIFTED BY ARGENTINA'S CHAMPIONS GOES UNDER THE HAMMER - Press Release Hub",
-      "originalSummary": "REPLICA WORLD CUP TROPHY LIFTED BY ARGENTINA'S CHAMPIONS GOES UNDER THE HAMMER  Press Release Hub",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU3FURHl3bTFWclptX2ptY0lrOThMQ0JsdGtwQjhkZG13OV80UjllSk5wU1VNQlI0Z3ZFczRzNWl0YU0yeTJEUG9LWW80dGVPSHpkQVFMTEM1bThuV2s1eENfcE84S1ZuTzdSRHVRZW1tRFVSQlNLMmVaUnM5NFd6YnlVVEpBYW9YM1l2Um44YVFucS1IaVkyU3BxU2g5b2xyY01DTjhNSUlNeGsxLVVpODg2OExpdEZzVllUTVBNR1VTOThTbm1JVw?oc=5",
-      "publishedAt": "2026-10-14T13:37:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-infantino-under-fire-over-undisclosed-1-72m-world-cup-payment-daily-sabah",
-      "title": "因凡蒂诺因未公开的 172 万美元世界杯付款而受到批评 - Daily Sabah",
-      "summary": "因凡蒂诺因未公开的 172 万美元世界杯付款而受到批评 Daily Sabah",
-      "originalTitle": "Infantino under fire over undisclosed $1.72M World Cup payment - Daily Sabah",
-      "originalSummary": "Infantino under fire over undisclosed $1.72M World Cup payment  Daily Sabah",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOT2NmUDJBbFRWXzFmc2ZKQ3NSWVV1Ql9EbFRUWUJzeWFmbVU3Nng2MmpRZXhDTWh5RFNhcmFzYnhnT1lJZEItbjdPSVZDLWppVi1SU2tBbUdKbU1zVnpqOEUxOEtxT0phVjd4WFhxVXMzQnBfUWRrNHFBVGdLbU1uUW1ER3dmUjREeWIwSXBmMkwwWjFoQy1obGIzaDFSOXNnSUpKY2dubnZ0aVE?oc=5",
-      "publishedAt": "2026-10-14T12:48:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-football-forlan-buoyed-by-uruguay-restart-after-2026-world-cup-ians-live",
-      "title": "足球：弗兰因 2026 年世界杯后乌拉圭队重启而受到鼓舞 - IANS LIVE",
-      "summary": "足球：2026 年世界杯后乌拉圭队重启，弗兰受到鼓舞 IANS LIVE",
-      "originalTitle": "Football: Forlan buoyed by Uruguay restart after 2026 World Cup - IANS LIVE",
-      "originalSummary": "Football: Forlan buoyed by Uruguay restart after 2026 World Cup  IANS LIVE",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNS3VnZlR2SDFxaG1pV085NTJwVTVwdkZCM01aVGdsT2wzX3dkdGEwN0NMVmtzajJSR0hGaHNYaUNwMXByRWI4WXd4WXNUTDZSU3pRMlFkX3puZ2JuX3V1YmhLcUlMVmduVm5IeWU5a0J0RF9ldFlGWGhHM1VJYXZac3pNTFZuMHIwd3pGcktXanA0UzlXeThSeGQ3WWM5UEk?oc=5",
-      "publishedAt": "2026-10-14T12:35:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-eight-major-brands-renew-cazétv-sponsorships-for-fifa-women-s-world-cup-brazil-2027-following-record-2026-au",
-      "title": "继 2026 年观众人数创纪录之后，八个主要品牌续签了 CazéTV 对 2027 年巴西 FIFA 女足世界杯的赞助 - 马尼拉时报",
-      "summary": "继 2026 年观众人数创纪录之后，八个主要品牌续签了 CazéTV 对 2027 年巴西 FIFA 女足世界杯的赞助 马尼拉时报",
-      "originalTitle": "Eight major brands renew CazéTV sponsorships for FIFA Women's World Cup Brazil 2027 following record 2026 audiences - The Manila Times",
-      "originalSummary": "Eight major brands renew CazéTV sponsorships for FIFA Women's World Cup Brazil 2027 following record 2026 audiences  The Manila Times",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNVzZTZ0syZ1lIbkNaOXNJVW1YaVpOWjF3LU1pRm1DdEthZlJ6eWJGUXJUVDdKVTJnaWVuUEdUcmlwSzRLekhYVDA4RDlIdVhqSW5aRWt0Zk1fbVgtQkJjQ01XLXhjb0J0Q1hhb3JPeFJTVnk3NjExVlZrZ2t0REk3eHU0VWFNdmMxVF9hWF80S1dkc2NxXzJXNXN6RnBWR0hLQllIWk54ZVdEYkV5Q2FRRGw4aTZyMWJJeFFDLUwzRFhDQlVYNkpVdXJLMWNsUE01RnhVb3BCUnpUZUJjTzJLbUVVbWM0S1ZNeTQ0bk1ucUo4cDZDV01nakpYTkNkMkVSTlVUUEpiM0ZJSUdrNUZYTk85cXJ6ZVXSAZwCQVVfeXFMTUNzN0J3V1pKbHJkR3NPal9qVmZDS2VmakktaWJPZHo4MWwwMmhzRnVtQXJnWncwX1VPbnBzQkh5cklSOXJUdzFvYzR2c29zb3Z4MUdzZUg3OUtzZ1BSUGRsM3FucEJTVWFsZ3gtSl95V2RCeEJmS3JPVEZEdkNQdWhDN0NyVDFGTEtGU2hwbFROc0l2eV9yV1czMWQ5aktjTHVpV005VFNtaEJWbjNzeXIzdFFXUkZzUmJoOGtuT1NmN1R1d0pVU2gwUFpwT2xHREhUenkzbnBCdU5OZnZjUGZ2QV9xZVZsM1Z1cFFmNWpMbXJ1R2FuVFVERXdjM0o0Q01PMzVEdkw3WTEyZTFGYkxNemg2bEJJdFplLWU?oc=5",
-      "publishedAt": "2026-10-14T12:17:20+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-world-cup-visa-scandal-who-must-answer-youtube-howl-link",
-      "title": "2026 年 FIFA 世界杯签证丑闻：谁必须回答？ - YouTube - Howl.link",
-      "summary": "2026 年 FIFA 世界杯签证丑闻：谁必须回答？ - YouTube 嚎叫.link",
-      "originalTitle": "2026 FIFA World Cup Visa Scandal: Who Must Answer? - YouTube - Howl.link",
-      "originalSummary": "2026 FIFA World Cup Visa Scandal: Who Must Answer? - YouTube  Howl.link",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE55c1VyV2ZjYS0tcGJfZDgyUnZBbnFYTmE3SkxWMm5LbUtOODNYSWt6VFl5el9FR3FsQ0ww?oc=5",
-      "publishedAt": "2026-10-14T12:05:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-netflix-makes-big-football-move-lands-fifa-world-cup-2030-rights-in-spain-times-now",
-      "title": "Netflix 做出重大足球举措，获得 2030 年 FIFA 世界杯西班牙转播权 - Times Now",
-      "summary": "Netflix 在足球领域做出重大举措，获得 2030 年 FIFA 世界杯在西班牙的转播权",
-      "originalTitle": "Netflix Makes Big Football Move, Lands FIFA World Cup 2030 Rights In Spain - Times Now",
-      "originalSummary": "Netflix Makes Big Football Move, Lands FIFA World Cup 2030 Rights In Spain  Times Now",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOWEFoSzgwblZDZkJEUE14RUtwWjYzN0xpMHlKYURnNFBVVmpUd1dwYk96MW9BQVFaRmcwdm15V3o4M3JZOWlvTHFFblpGMTc4eTZySWp4Y3NwQ050SWw1cGk4QjlnTXdnU2E5Q29HMm9CZmpDV3d5UzQxSnNLVUFKd2Y5aER5ci0tQjhrR1lhMXQyUDN3T2prU05Wd0poMm9YYlcyMmJrNl9fV1lvN0pCenZTeFkzVzBuTnZFLUVFSTZNSGZuTE9uWWdGQ3o3SGMzMHfSAdcBQVVfeXFMUGZnV0hydnU1RFpHRzR3T0sxSWVhOV9HWEJUTG9yT3RyWHhGbXBTeHp6OTgzckZKelVCbkJmeEN0enduRE1kdGZoX0RKeGtaVXBMQmt0b3ViRjVMMWlJcGVoRjFkOXE5S1FfZjU0anRiVThud1plSU82X2xUUThKZGRKQzVPTGVVbWVjVEMyX2FlQ21zNlZFTC1PekRUZEdFTDJXOFVvanVrclpOcGtrUDhjSWFkanVkYkhIb3VwbGtaMWdhX05rS2NkNnltZ1pHbHhGdExvYmM?oc=5",
-      "publishedAt": "2026-10-14T11:46:05+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-president-faces-another-scandal-over-undisclosed-1-7m-world-cup-payment-all-you-need-to-know-sportstak",
-      "title": "国际足联主席因未公开的 170 万美元世界杯付款而面临另一起丑闻；你需要知道的一切 - SportsTak",
-      "summary": "国际足联主席因未公开的 170 万美元世界杯付款而面临另一起丑闻；您需要了解的所有信息",
-      "originalTitle": "FIFA president faces another scandal over undisclosed $1.7M World Cup payment; All you need to know - SportsTak",
-      "originalSummary": "FIFA president faces another scandal over undisclosed $1.7M World Cup payment; All you need to know  SportsTak",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNVjJxMGs1WlFvRmgyQlNkVjNXNXNxaWMteFJNeXRzWkpFSkxIQlFaWk51cGFIbGs1ZFpSSnRHZGhWejhTSmRDXzlaZmxSUFRNOWpNUjZiTkxST0VKUTFQZk9IVW14bldzMElwaDJaWUkzOXRoMC0yNmNVLWRxQTg3NFRGblVsTi1qWTJmNmpKc0JQMjFnVWxNamJRVFAwVVMzY09INl9DLVptd2szNUx5aDJ6MENBM2FfRGpyT1psT3F0Y2VRS3QzVWt4RXJ6eFVvWFRzM0FOeXJMMHJmUk9vRUVFQmllVklDZWIwZExJazbSAfABQVVfeXFMTVYycTBrNVpRb0ZoMkJTZFYzVzVzcWljLXhSTXl0c1pKRUpMSEJRWlpOdXBhSGxrNWRaUkp0R2RoVno4U0pkQ185WmZsUlBUTTlqTVI2Yk5MUk9FSlExUGZPSFVteG5XczBJcGgyWllJMzl0aDAtMjZjVS1kcUE4NzRURm5VbE4talkyZjZqSnNCUDIxZ1VsTWpiUVRQMFVTM2NPSDZfQy1abXdrMzVMeWgyejBDQTNhX0Rqck9abE9xdGNlUUt0M1VreEVyenhVb1hUczNBTnlyTDByZlJPb0VFRUJpZVZJQ2ViMGRMSWs2?oc=5",
-      "publishedAt": "2026-10-14T11:11:02+00:00",
-      "heat": 60
     }
   ]
 }
