@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-14T20:32:12.614176+00:00",
+  "updatedAt": "2026-10-14T23:48:05.043053+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,30 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-how-much-money-does-fifa-pay-to-member-associations-gianni-infantino-reportedly-has-plan-to-distribute-6-bil",
+      "title": "国际足联向会员协会支付了多少钱？据雅虎体育报道，詹尼·因凡蒂诺计划分配 60 亿美元",
+      "summary": "国际足联向会员协会支付了多少钱？据报道詹尼·因凡蒂诺计划分配 60 亿美元雅虎体育",
+      "originalTitle": "How much money does FIFA pay to member associations? Gianni Infantino reportedly has plan to distribute $6 billion - Yahoo Sports",
+      "originalSummary": "How much money does FIFA pay to member associations? Gianni Infantino reportedly has plan to distribute $6 billion  Yahoo Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9yZlhqcFU0TFhKNEhROWYwNWpIWDQxMEhsSWxUVFB5U2pLeXhWcnZlLVZKaUVhY19rc2hxQXAyZk1PaHFVUlpzcGREdWFFeDFQMDFxV1N5UUE5YzdMYzVQckNPVE56cVpRaGl5a3pGQWREcEtpbVBJVWYyYjFNdw?oc=5",
+      "publishedAt": "2026-10-14T23:07:43+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-to-offer-members-us-6-35bil-development-fund-windfall-free-malaysia-today",
+      "title": "国际足联向会员提供63.5亿美元发展基金意外之财 - 今日免费马来西亚",
+      "summary": "国际足联向会员提供 63.5 亿美元发展基金意外之财",
+      "originalTitle": "Fifa to offer members US$6.35bil development fund windfall - Free Malaysia Today",
+      "originalSummary": "Fifa to offer members US$6.35bil development fund windfall  Free Malaysia Today",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZGNRRkhUV2VIdjV2c3RRV19fMlkzQ3Z3cEswYkZ0XzFVY0NzSmtCRThHRjhjcjBFN0s2dHRCYVRweWFQdFA5NTR6b1hfY2pHVnFMbXZVVnY3RzhHYnNYRzlfSmh3QlJfS3BrcEVuS3JXekNSUFpvOXI3QmhZbHhGZTF4c0RveG01Vjhsc1lmQWpjTlhDY2V1aDhfS1FSUlRwb0owRjRsQlRiNGtUN3IyN1hUMGlXbFRUbHZN?oc=5",
+      "publishedAt": "2026-10-14T23:01:32+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-webinar-hazmat-operations-at-the-fifa-world-cup-lessons-from-host-city-and-partner-agencies-firerescue1",
       "title": "网络研讨会：国际足联世界杯上的危险品操作：主办城市和合作机构的经验教训 - FireRescue1",
@@ -20,6 +44,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica",
+      "title": "世界杯经济学|票价、收入、成本和社会影响 - 大英百科全书",
+      "summary": "世界杯经济学|票价、收入、成本和社会影响 大英百科全书",
+      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "publishedAt": "2026-10-14T20:06:51+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-kofi-adams-disagrees-that-black-stars-had-a-poor-2026-world-cup-modern-ghana",
       "title": "科菲·亚当斯不同意黑人明星 2026 年世界杯表现不佳 - 现代加纳",
       "summary": "科菲·亚当斯 (Kofi Adams) 不同意黑人明星 2026 年世界杯表现不佳的说法",
@@ -27,8 +63,8 @@
       "originalSummary": "Kofi Adams Disagrees That Black Stars Had a Poor 2026 World Cup  Modern Ghana",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wcmpCeWZfVE0wVVF3OGwtVUIxaHZRY3BFY0RqWDVoWlVSVjR0a3RuZnFPbXNtYVJBdEZaUlBKU3BVRllFU2hsTElIQURZV0VaeUFLbXUwY1NFcTd0elVzbnNLSdIBXEFVX3lxTE1LOWFIUXlLUGpEQmtsMWF6QmF1clpSZnFhcllfcUZnekdzZmFpWkMzcGdKbXV5WlZKb0FOTHpQdTg3YjRTWjBWa3JnTGNwNU9YaldWZnhUUlB3bnI1?oc=5",
-      "publishedAt": "2026-10-14T19:32:55+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1LOWFIUXlLUGpEQmtsMWF6QmF1clpSZnFhcllfcUZnekdzZmFpWkMzcGdKbXV5WlZKb0FOTHpQdTg3YjRTWjBWa3JnTGNwNU9YaldWZnhUUlB3bnI10gFcQVVfeXFMTUs5YUhReUtQakRCa2wxYXpCYXVyWlJmcWFyWV9xRmd6R3NmYWlaQzNwZ0ptdXlaVkpvQU5MelB1ODdiNFNaMFZrcmdMY3A1T1hqV1ZmeFRSUHducjU?oc=5",
+      "publishedAt": "2026-10-14T19:32:58+00:00",
       "heat": 52
     },
     {
@@ -44,6 +80,42 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-14T19:16:27+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-why-is-khvicha-kvaratskhelia-not-starting-today-oct-14-for-psg-vs-man-city-in-2026-champions-league-bolavip-",
+      "title": "为什么赫维查·克瓦拉茨赫利亚没有在今天（10 月 14 日）巴黎圣日耳曼对阵曼城的 2026 年欧洲冠军联赛中首发？ - 波拉维普美国",
+      "summary": "为什么赫维查·克瓦拉茨赫利亚没有在今天（10 月 14 日）巴黎圣日耳曼对阵曼城的 2026 年欧洲冠军联赛中首发？  波拉维普美国",
+      "originalTitle": "Why is Khvicha Kvaratskhelia not starting today, Oct. 14, for PSG vs Man.City in 2026 Champions League? - Bolavip US",
+      "originalSummary": "Why is Khvicha Kvaratskhelia not starting today, Oct. 14, for PSG vs Man.City in 2026 Champions League?  Bolavip US",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdFZkYUdqTDd3TUdnZGlTWjhfbmVWRmRYRVNFcjZmcklCQ1V1SXNrTTRieER3d1IwY2NKajdRZnhtQmEwdFJZWm5lSVZCaGJnSFQwYllDekpPbnZGN05QSnJlMlR0anZTSkJUWTNQSEdvMDNZWFRxN3E4ZnpHeWRKWXdQS1NTTm5BbXViNWNVRl84VUhzN1RPNHU3TjFCU09TaGdBRTVzcUNmZEdtdlUzMUNENHQ2NUF6V0o1d3ZGT3JYdnR6SDVlVGJ2UGhhZ9IBzgFBVV95cUxPdFZkYUdqTDd3TUdnZGlTWjhfbmVWRmRYRVNFcjZmcklCQ1V1SXNrTTRieER3d1IwY2NKajdRZnhtQmEwdFJZWm5lSVZCaGJnSFQwYllDekpPbnZGN05QSnJlMlR0anZTSkJUWTNQSEdvMDNZWFRxN3E4ZnpHeWRKWXdQS1NTTm5BbXViNWNVRl84VUhzN1RPNHU3TjFCU09TaGdBRTVzcUNmZEdtdlUzMUNENHQ2NUF6V0o1d3ZGT3JYdnR6SDVlVGJ2UGhhZw?oc=5",
+      "publishedAt": "2026-10-14T19:06:53+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-argentina-to-face-spain-in-the-world-cup-final-what-to-know-abc7-bay-area",
+      "title": "阿根廷将在世界杯决赛中迎战西班牙：须知 - ABC7 Bay Area",
+      "summary": "阿根廷将在世界杯决赛中迎战西班牙：须知 ABC7 湾区",
+      "originalTitle": "Argentina to face Spain in the World Cup final: What to know - ABC7 Bay Area",
+      "originalSummary": "Argentina to face Spain in the World Cup final: What to know  ABC7 Bay Area",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7glBVV95cUxQRDlOSlZ5RnA2bTBKN0dsaTZiSnJkVWJCVU5GMzJLUlZUckxCZUFjMnplUWxJSTN6NkNCOUYxSFhoRXUyTTk0YmZxdUg0NjNmRS1tczlxWFoyTGFFc1doYUtFS1dmU0dtNldJM3BONW0xWm5wT2wzUF95VExPQ3hrbjQ5UE1YTXVxRHZVeWxMS29feG9OZG1mTVVUNURaWnpRMkxnZUljU1p2Ml9FbWwyeFJZdnY0R1l6TGIzcDQ2Zml0SllEa3NINDExYmhUbE5EdWQ4dkY4ZnVIRVZPbzBNN2FyRjFWUmF3X1J6anRaQVBtb3djS0UzOTdQQXJpYnVUbUIwSHppdXNMTEpDckFoTU5weEJfeWpaUS1HTE90ZW9tbUEwN29WRzZlOHBGWk1RbktvbzQ0YkttM1g5VjBxS0xQTE5ZVFZpenhKd3FpdUw4MjJZTGJWMFRsN1lyRTJmWnlWZ1ZWZUpjckhhZ2dsaWF5eHhBWnhtMjlWUEdUc1VkZ21Zc0toVXlxV0VwTGducXdLY1kyX1JBTXg5T3NjbHEyR2pBVk8zZnp6bzMybnNCVGtoclJHUmpncVpjeWMzUnVVQjFyU3dpeUdLalltS0ZQVzFFdS1FZjRWdFRnQlVUX0tjZ2tUOWJ3Q1dxOWc5ZlRtM2ZqdmdkRWZJTlhDd0VXM0pHa3g2YWl2V1Nzdzcxc0J3OXpOdlJqdjhiZ3pQcml1eTQxU1duZy1KZ2hkSjJISXpfZ1o4NVNzN3BCWERrRFM0bWFXQVlDc0N2UWVmUGtPRUZuWTBnTzc2T3hDdm9HemYybTlxcmZBT0RrUGptRE5ySlpVVTVBdC00bUV6UTVTSFExZVdTU3dLLVNjUjFWSTZqcnVqc0hRLUtyYmtqaWo2V1FKRUpHYnZ6V0Z0NU1sTGFFRlYxNzNVYV9XaW9DeTdtN204MG9QeGZNLWNnMUxrdzdtUGRkZUpyVEhYUjIwa0hNUjdrX0xCVXB0SDJGamU2NUNxQnVWak5zaWppV1NkZ3VQOEF5T1RBc2llUXBtMlZTbXRjWkNjQ00ybmhqSGRIMFZINTFQSGdxZTB4S1o0Ylo3a18xSU42TFhQSEl2eldRVkpkV3E0cW9WNHRheDJYeFU4M0dwUkVjLUVZTUYtNjBGblh6TG9DZkRISk1SejRvQjNkaUdPV0tiaWh3RGxpa05oaUF4U3dvWVNpeXpnb09IRnBuSlJMM0FfU3VzMVRlWVdxRHZ5RGZ2T3RzSEZiSENMQmdKUk51X21VYUdhQlppZHQyNFFwMEVEZ05XZktvd0loUVlFQ3dvOTNrSS1DQ05RS2VQSFlhVllRNlFnUGJ5VWJuRkp0UGV1VkFKQzB3MV9LcTh0OGgtWF9Yamg5Z2NLN0hTNC1BZ012eHBGNXQ0S21CUU1fOXJwamY3VHNXeHF6VjdkTW9hazJ2YXBsSVJWUEJValZYSWt6SEVDYVRjQjRBWjhYcFJubU0wckF3cDBTSnhtWXNRRjMxSk9JWWp2UGE1amRHU1ZWaDhjcXZrblpEcENiNVRDdkJ2X2k4QmFnTUIxWHhMUS1XWERkWHpmX2Y0VHlkLThKMlJzNFFGTFVjejl4NmM5dmFWMURRYl94a29WckdtYkhMUnJEUTVrQWk4QldJcEo5Y283Q2xjOG1UbEFPUQ?oc=5",
+      "publishedAt": "2026-10-14T19:00:44+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-super-science-osu-developed-bermudagrass-takes-center-stage-at-fifa-world-cup-final-www-golfdom-com",
       "title": "超级科学：俄勒冈州立大学开发的百慕大草成为 FIFA 世界杯决赛的焦点 - www.golfdom.com",
       "summary": "超级科学：俄勒冈州立大学开发的百慕大草成为 FIFA 世界杯决赛的焦点 www.golfdom.com",
@@ -54,6 +126,18 @@
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRWJjQ2ZxMlluZng5bDJKM0FqWnNESHI3MnQwajR4V2MweUIyWngzaGdfRUh1aUdmTjhuUzA5ZE5JMllVZ1JGS1h1TFc3WmtHVzA3YkZWOWxpa21tbXFLVjAza2kxd0VlWXh1Y19OalRvMjJWMHYxMDYzaWNJMkt5Vmw5ZUpPREF5SjBMTmtSb0tyT3h6aFFYc2tzYXZZM0dTRWtmWlkzUk9nU0Ew?oc=5",
       "publishedAt": "2026-10-14T19:00:00+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-taylor-swift-did-more-for-la-hotels-than-the-world-cup-but-airbnb-may-be-the-big-winner-santa-monica-daily-p",
+      "title": "泰勒·斯威夫特 (Taylor Swift) 为洛杉矶酒店所做的贡献比世界杯还多，但爱彼迎 (AirBnB) 可能是大赢家 - Santa Monica Daily Press",
+      "summary": "泰勒·斯威夫特 (Taylor Swift) 为洛杉矶酒店所做的贡献比世界杯还多，但爱彼迎 (AirBnB) 可能是最大赢家 圣莫尼卡日报",
+      "originalTitle": "Taylor Swift did more for LA hotels than the world cup, but AirBnB may be the big winner - Santa Monica Daily Press",
+      "originalSummary": "Taylor Swift did more for LA hotels than the world cup, but AirBnB may be the big winner  Santa Monica Daily Press",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQbmtFazRvbjM2NkFqakV3VDl4WmJaejZ0cTNIYjdpd1prZnhqWXdqQURxdUxiZWl1aktpU3hJZ3RQSllGUUQ3d3pfdzRzbjdsdmxMdm5wbUZScFBqY0xYTjFBZ19qM3dvTUM3N05KZFp4TUplN0ZHMk5HOFhGdnE0blhaWmRVUFdkYms5TXZ3RlpCYUNwbC01Rk40c29weWFUWWxDT2dSMUluVlBQYXc?oc=5",
+      "publishedAt": "2026-10-14T18:32:53+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-2026-rugby-league-world-cup-st-helens-r-f-c",
@@ -68,15 +152,39 @@
       "heat": 52
     },
     {
-      "id": "google-news-argentina-to-face-spain-in-the-world-cup-final-what-to-know-abc7-bay-area",
-      "title": "阿根廷将在世界杯决赛中迎战西班牙：须知 - ABC7 Bay Area",
-      "summary": "阿根廷将在世界杯决赛中迎战西班牙：须知 ABC7 湾区",
-      "originalTitle": "Argentina to face Spain in the World Cup final: What to know - ABC7 Bay Area",
-      "originalSummary": "Argentina to face Spain in the World Cup final: What to know  ABC7 Bay Area",
+      "id": "google-news-lammens-makes-world-cup-debut-but-belgium-go-out-manchester-united",
+      "title": "拉门斯首次亮相世界杯但比利时出局 - 曼联",
+      "summary": "拉门斯首次亮相世界杯，但比利时队出局曼联",
+      "originalTitle": "Lammens makes World Cup debut but Belgium go out - Manchester United",
+      "originalSummary": "Lammens makes World Cup debut but Belgium go out  Manchester United",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizglBVV95cUxPaW9HcjZuUVh6aEhZMEdSTmhtUGxXZzJIX09zOWdDMlkwM2pOSG44eHJXR2tmbm9CVGZwMnRJZnlnUG9fZTZqVng3aUNvRmdoVE9XdUpHX2xzeXZwdTluVjdxc01PcmpIQ1ptVXF5UFU0T3RlUGxrdjl2ODk3MGN6UDdISENtdVh3S1RXMUcyOVpRU3YzRFozb0hET095X2pxbFFDazl3SVVvNmMzX0I1cUtVbnVDQjMtNGV2VWJfdW9DcGI0T04wdWVHaTk1OFRCd3k4aWt1VHVFOU1GRlVHUXFrcjJ2VS1fdTU2TnJ5NVg2cVNqcUFlQXpuS0ladFUwNE5lRXVrczNoYnFkeUdKQm5zZW8yZUYzV0RlZW8tY1lUbkRGUzRrR0tEODJZQWJRbjc1M1FFUVR3Z3pwYUNIejAxU1l1ZEZSU29FVmdXUU54V0hBbS10ckYxVUszTHdLRTBJX3VVWEJ1VGk0Z2hpSG5vdXgwcmpjNERpNjZXVjVUTzlEem1McjcwaXR3cmp1WFJERnhmUGJUZlMwSG9Ddm9KWEJHZkZfbWNDb29naE84Zl9tUG11Q2UtZ0NZbW1aQzZtam1RMzdRbGVEOVNRa3ozc1FweXFfRFpLcW1kRVJYNS1YQ2pFdzk1VXFzalF6LWYzakZiN2JkZXZrTUNxVmVFN0hBYXdYci1UTjB5dTFZWG8zRTg0QTcyckszQzVEZjFmdUhEeVVNZmdnUHl3cHRrNjg0S2xkVE9mZ0xmcDFneFBQNDJDR09LNzNZTjI0TVhVdFk1b0tuYUdzNzNmU2U1azh5Z3Q3MlA1TkpnZ1hTdGFMM3VXUlBxYU1OekRublFGNHlacWRyUnFxbjVCRm5sWUxaMnVja19WVW9pOEpjMWJaVG0xVTcxdW1iVXFuNE1ZenpFUFhNTWI3TkRFWmhWZHVFR0tmWk1La2VGMWZTdkl3WEJUMUVONnNWM1JRXzJ4a2k4d1JuODBoMUU0aHNybFpNcXktd3pubXhyNXEyWUs0X1VfMGVhaUtlekwzOW1BVENKMlRXa2MtOXpwSmR2WjJ4NnZIaXliRlFKS3c1dC1iV3VyOGhDT195aDR3ZDVfdUNrN1BzYzFXdDlMTXl0SHRFNVVoaUZOWndLcHBhWmdDMU1WOW9KMHlxSXo1YWJHcDA2ZVU0THVITi04aTVxaFdQcDJQeTMyVjZKa2RnZlBDTXdhNmJpYnltcU9ONXpFWUlKUzhJMUF2dFFLYkQtZUR4c2tFWFVoTDVmUWxURFl6dl92eGZRVDFxel9WMWxmVDF1TXhXZ1BLYy1MRVc3RnAtNTVjOHh6WGgyS2JQaVZlSzU4Q3BlQXRLOVFXTnZRcTBOQ1UwcjRtYmMxR0FZOEFERm5tMXlOZWtIeWFlaDU4VGtFWW1ETFhpdEFweURaQ0R1b1FTc2JFWXpvNmU5cEE1Ql8yNDVzbkk4NF9fRjkzVjcxQzBpODZwWlhHX2VpeXh2VnpfTjBkd1l3ck1TRmJ1RlE0VlZodVNiLWUwOUxDZFpsV1hlRk5uR1dScDdYV29wVGtQaFFRblR5Q093WmhLaHpaYUdpSHY1T3pJaWRocFg5aEFzMUtaVHc0UUVIRnVMTlN4blNiM3c?oc=5",
-      "publishedAt": "2026-10-14T18:07:46+00:00",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQRXh1TXBFVUtDam9LTWVJX0JRbzBCcVQ4NU5JS1Q0blBqTFlaRXZLYmRqYkZHdzUxM0ZBcUxKOGQxMW1uUklRRE5aYVhxeWtJVnBfMXI0UGNhM21Zc0xLSUZtWEJ0bVZUV1ZOYjQzM3VWOW5uaTBSVXJEbExoclJVcm50RHFVTTIyVER1UnRrQkFIQQ?oc=5",
+      "publishedAt": "2026-10-14T18:11:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-after-trump-s-intervention-fifa-justifies-the-balogun-controversy-saying-the-regulations-were-not-clear-goal",
+      "title": "特朗普介入后：国际足联为巴洛贡争议辩护，称规定不明确！ - 够球网",
+      "summary": "特朗普介入后：国际足联为巴洛贡争议辩护，称规定不明确！  够门网",
+      "originalTitle": "After Trump's intervention: FIFA justifies the Balogun controversy, saying the regulations were not clear! - Goal.com",
+      "originalSummary": "After Trump's intervention: FIFA justifies the Balogun controversy, saying the regulations were not clear!  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNSFo3MUlILXhlVFlGZm53OS15T2libU9JS1YwOXJQZGRuNjdZNzJFNEw5eWY1TXdNbklEMmhadGlrZ0EzV0VCUjZCdHJ2UlEzV2gxNFdNMUk1d0RMb1laNDZiXy1NQTFFUms4a3pvUmdJVjBXMFpEX1FHOVhLcHpWVnNMSkZTbVc1VzlDWlBEai1sMnhPT0lvNjEwNWk3d0ZsSXhweGJ4QUQxcXBHN0JKcThoRENCU2NQWjQ2WVRkMERaYjJoX3ljNm8xYVhvVFEtS2w5YUk3Z0Z5bUFTTTZCYUdacmdSczBnOHlJOW9R?oc=5",
+      "publishedAt": "2026-10-14T17:50:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ghana-s-2026-world-cup-performance-was-not-poor-kofi-adams-citi-sports-online",
+      "title": "“加纳2026年世界杯表现并不差”——科菲·亚当斯 - 花旗体育在线",
+      "summary": "“加纳 2026 年世界杯表现并不差”- 科菲·亚当斯 花旗体育在线",
+      "originalTitle": "\"Ghana’s 2026 World Cup performance was not poor\"- Kofi Adams - Citi Sports Online",
+      "originalSummary": "\"Ghana’s 2026 World Cup performance was not poor\"- Kofi Adams  Citi Sports Online",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRvYkZTdC1iRWQ3aWw2TGkzY3dXb1dra3A3M0cxaHgzRVhoMkVqWDUxV0VzMkw4YnNKYU1TMHdlazBUbVFJWm1pR29OLW92SE5hTjkzOV9HallhVDNnTWpMaXg3N25LMmtmMTZ0VmpEbVRRTkl0UTdCbmlpRW55V093eUI4cV9MRWxlZXFOTTY1NkFvdFNyUy1WMA?oc=5",
+      "publishedAt": "2026-10-14T17:14:38+00:00",
       "heat": 52
     },
     {
@@ -92,6 +200,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-u-17-women-s-world-cup-schedule-teams-and-how-to-watch-live-on-dazn-dazn",
+      "title": "FIFA U-17 女子世界杯：赛程表、球队以及如何在 DAZN 上观看直播 - DAZN",
+      "summary": "FIFA U-17 女子世界杯：赛程表、球队以及如何在 DAZN 上观看直播 DAZN",
+      "originalTitle": "FIFA U-17 Women's World Cup: Schedule, teams and how to watch live on DAZN - DAZN",
+      "originalSummary": "FIFA U-17 Women's World Cup: Schedule, teams and how to watch live on DAZN  DAZN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNa1BpXzBILWtfZ09yeG9EelptanA3U2FNVU5VeHJib2lPeTVkNTVBcU40MTRCd2hZMk9Scmk2cGIyVkxLYzRNR0JObG02a2VhUUhvcVlPbHIyWWlFajhHSVZndDRTX002VE14YndOOUZVNVdJMHhnclJ1X1ZFeTNiYzZlRTAyTTdHSnU4cklFN01IZThjR1JVYUl2ZmtJc0xVMFh1bmtIZUVyZGJwUkFJaUc1Z0s3WDJvRFA1Mk9KbGNqQWhLcVVaT29RU0VSSWF1WDc4?oc=5",
+      "publishedAt": "2026-10-14T16:30:00+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-black-stars-world-cup-campaign-was-not-poor-sports-minister-kofi-adams-tells-critics-ghanasoccernet",
       "title": "体育部长科菲·亚当斯告诉批评者，黑星队的世界杯表现并不差 - 加纳足球网",
       "summary": "体育部长科菲·亚当斯告诉批评者，黑星队的世界杯表现并不差 加纳Soccernet",
@@ -101,126 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxON21BbmpWb3pnOWxuNHhMSW5YN2ctQTlncTZEdUNVSjV0VVkxbDEzUUhIWm1kbW0tMXQwSF9TQ3Nka0lHMlZScDJPNlRMNHFFX3BnZWlxUnFENnNWMXBsUi0ydmppXzNNUEkyT2I4aU9iZFNvdVVoUmZpU2ZaTTM4NEhBZ3BFeFdDRDJFN01Ganc4ckNiRHdsaG1qRQ?oc=5",
       "publishedAt": "2026-10-14T16:00:18+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-will-argue-that-the-rules-in-the-balogun-case-were-not-clear-bein-sports",
-      "title": "国际足联将辩称巴洛贡案规则不明确 - beIN SPORTS",
-      "summary": "国际足联将辩称巴洛贡案中的规则不明确 beIN SPORTS",
-      "originalTitle": "FIFA Will Argue That the Rules in the Balogun Case Were Not Clear - beIN SPORTS",
-      "originalSummary": "FIFA Will Argue That the Rules in the Balogun Case Were Not Clear  beIN SPORTS",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQZlRwWjh2by04WE5PRHJvNXpHUUFOUFFKVFRsM1UxNUxLSERKMFZIMmJJWHFOUXI3SF9MRnJxOERfU0hrTUNpVVpxQlhyUGRraDVwSjRfM2x4ajdHNVJzb20xOXNzWkJoSVRfMWJ4VkdkOGIxamh5VTRIU2FicFJUU0xmN0dHZW1RQUlhRkpXV1JqbjZfRnllVVpDQ09tYkM0Mjk2WHdEcFVuZ3B3cnE5blNqMy0zWXlqeFJ2b1VidG5oZWtVSzBVS2NKcHFNTEN0UGpFbVRiVGR6b00xZzFLOFFDbw?oc=5",
-      "publishedAt": "2026-10-14T15:57:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ghana-s-2026-world-cup-performance-was-not-poor-kofi-adams-citi-sports-online",
-      "title": "“加纳2026年世界杯表现并不差”——科菲·亚当斯 - 花旗体育在线",
-      "summary": "“加纳 2026 年世界杯表现并不差”- 科菲·亚当斯 花旗体育在线",
-      "originalTitle": "\"Ghana’s 2026 World Cup performance was not poor\"- Kofi Adams - Citi Sports Online",
-      "originalSummary": "\"Ghana’s 2026 World Cup performance was not poor\"- Kofi Adams  Citi Sports Online",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPLTRvYkZTdC1iRWQ3aWw2TGkzY3dXb1dra3A3M0cxaHgzRVhoMkVqWDUxV0VzMkw4YnNKYU1TMHdlazBUbVFJWm1pR29OLW92SE5hTjkzOV9HallhVDNnTWpMaXg3N25LMmtmMTZ0VmpEbVRRTkl0UTdCbmlpRW55V093eUI4cV9MRWxlZXFOTTY1NkFvdFNyUy1WMA?oc=5",
-      "publishedAt": "2026-10-14T15:38:20+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-marvin-senaya-takes-major-step-towards-comeback-after-world-cup-injury-ghanaweb",
-      "title": "马文·塞纳亚 (Marvin Senaya) 在世界杯受伤后朝着复出迈出重要一步 - GhanaWeb",
-      "summary": "马文·塞纳亚 (Marvin Senaya) 在世界杯受伤后朝着复出迈出重要一步 GhanaWeb",
-      "originalTitle": "Marvin Senaya takes major step towards comeback after World Cup injury - GhanaWeb",
-      "originalSummary": "Marvin Senaya takes major step towards comeback after World Cup injury  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbHpTUjVsOUtTaFdyRTlxekxHQzdPU3FhdUxtQ09GaDQtM05lOThza1UyZ3NYd0l0ckxwXzBWeUxGNEtXMUdQSXhLbWp6a3hRUnpJeFMyUnRGTXRoN1FzaXQ3VWdIMGJTSC1rZnYtd3NXYXViS0JaNEJaZEZQUTFfSVFpenE1ZFhPenFHYnBYMGp5cW9CWDZsZDVxaklKdVUtVGdIUGJ6UFJZcDloTG1aRWZLeWdKdTlQZFpVakl0TjFKZWpzUHdVYnlsWQ?oc=5",
-      "publishedAt": "2026-10-14T15:28:31+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-to-watch-norway-s-fifa-u-17-women-s-world-cup-fixtures-on-dazn-dazn",
-      "title": "如何在 DAZN 上观看挪威 FIFA U-17 女子世界杯比赛 - DAZN",
-      "summary": "如何在 DAZN 上观看挪威 FIFA U-17 女子世界杯比赛 DAZN",
-      "originalTitle": "How to watch Norway's FIFA U-17 Women's World Cup fixtures on DAZN - DAZN",
-      "originalSummary": "How to watch Norway's FIFA U-17 Women's World Cup fixtures on DAZN  DAZN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOOWhPYVpYWllFVmwtak01T1g4dV9XYzZ3X1B2YWRFRk54TWVqQ2o5U3pRNFJzQTV6OEF0X0Q3MnlXSHpmcUcyOXhXSTVPOWdOUm9mV3pDT2dmcEJseWEzUC1LSXNyWnUzNXlXQVdZb19pLWQwMUw2ZW9JZWdtR0w3YjdfZ3NDZTFyNXBTd1hjU0ttNGRkT3JGT1FFd3pkcHk2WV9Dbjg1Z0stMHlkVEFUdG93RmpFX3ZmcXJFbmNacw?oc=5",
-      "publishedAt": "2026-10-14T15:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-isaac-ofori-questions-sports-minister-s-role-in-2026-world-cup-visa-scandal-ghana-sports-online",
-      "title": "艾萨克·奥福里质疑体育部长在 2026 年世界杯签证丑闻中的角色 - 加纳体育在线",
-      "summary": "艾萨克·奥福里 (Isaac Ofori) 质疑体育部长在 2026 年世界杯签证丑闻中的角色 加纳体育在线",
-      "originalTitle": "Isaac Ofori questions sports minister’s role in 2026 world cup visa scandal - Ghana Sports Online",
-      "originalSummary": "Isaac Ofori questions sports minister’s role in 2026 world cup visa scandal  Ghana Sports Online",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMXVqWjlHbnRsX3l1Z2Y2SHU3MDZkYkJyTXVucENuMkpQWlVuQldUQTEzLUdkZXF5TGxFdU02MUROVE1QRWdLZ0xKSkZjV3JYTXQtZzB6VjBRenNVNGtXeGw0cGhxbFoxZVJpbVMyOTczR004aHV2c0Jya3dYekxOdmZvR0t3Z1kyNkxEek90d19xNjlTTl9oOTNuY1k2bUtrTzVHT0dBNmrSAbABQVVfeXFMT2VQUGdRSzVjd0FXWWVtS2pxRXh3bE1yNUl1NmJsbldLcml1Z3VfMjhVMEY1dlV5MEExNnUwZkYxaGRvMUpBaXNoSEctWkRObXBNT1BYR2hEX1BLRWFwTVRwSWlIY3BNR1pLdTl6UmZlcUZVazNYQjMxbmhSWXdwT2V0RDVKMXpJYjFFcU5VQW1pQWZRR0JQNFZMRlBDaGoyUEtJYVJ1M0g4cHR0anJtaHc?oc=5",
-      "publishedAt": "2026-10-14T14:53:37+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-world-cup-visa-scandal-why-ex-nsa-coo-gyamfi-snitched-on-ampofo-tribe-fest-ceo-ghanaweb",
-      "title": "世界杯签证丑闻：为何前 NSA 首席运营官 Gyamfi 举报 Tribe Fest 首席执行官 Ampofo - GhanaWeb",
-      "summary": "世界杯签证丑闻：为什么前 NSA 首席运营官 Gyamfi 举报 Tribe Fest 首席执行官 Ampofo GhanaWeb",
-      "originalTitle": "World Cup Visa Scandal: Why ex-NSA COO Gyamfi snitched on Ampofo, Tribe Fest CEO - GhanaWeb",
-      "originalSummary": "World Cup Visa Scandal: Why ex-NSA COO Gyamfi snitched on Ampofo, Tribe Fest CEO  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNakhsVmh0d0J0dEFtcGR5ai1qU0p5b21QUW1jMlV3a1NCcm5IY2xNMllweXhzOVFPeE9uVVVsNEUtc3RaSEptV2FuNUFuQ1VaNGdqSmNXWmtfbGJLVWNNd3JRM0h3U0l4UnA5cmJqWGxMVlZ3YkFCMlRPWUxoMk1EbVc4TmdtWkhWQlMxaWZ2RmNjYVZUUURrTmZMZ3F2SWNQYjlmenZ4YVhxQ0w5bVpIczI5RkRKRWppdGo1WklGODVXZGNsbkFydVBTQ181YWduNjFZ?oc=5",
-      "publishedAt": "2026-10-14T14:38:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-14T14:15:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-world-cup-final-spain-vs-argentina-match-halftime-performers-includes-justin-bieber-madonna-shakira-and",
-      "title": "2026 年世界杯决赛：西班牙对阵阿根廷比赛，半场表演者包括贾斯汀·比伯、麦当娜、夏奇拉和 BTS - 6abc Philadelphia",
-      "summary": "2026 年世界杯决赛：西班牙对阵阿根廷比赛，半场表演者包括贾斯汀·比伯、麦当娜、夏奇拉和 BTS 6abc Philadelphia",
-      "originalTitle": "2026 World Cup final: Spain vs. Argentina match, halftime performers includes Justin Bieber, Madonna, Shakira and BTS - 6abc Philadelphia",
-      "originalSummary": "2026 World Cup final: Spain vs. Argentina match, halftime performers includes Justin Bieber, Madonna, Shakira and BTS  6abc Philadelphia",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi1gpBVV95cUxQQzZZY3lNeENVdjg3SUdRX3FPaXk0RHVJSGVmQ0cycWpWbmttejJ2VG14NUw2a1pCREs0VWZwTkdCcml4RDBPT0hlRGJjZXhIcV9jN0thMTg3ZTJGSG1LMjY5TEZVd0d2dmV3MnJNN2FfblpHYW9QTkp0RHJ2QWdQcmxFdk9RSGhYeU11X0E5cGhUanhDbklIWlJBLTVkWWpDcnF1TGNBQ25Ld2JzU2ZuOERrS2M4Umk2YW1WZ1loZjFIZGc5ZkV6NUgwN19yNXpfQ0RMV3E2LUNMT0dkVTdoSmVfcm1QNmtkQ1EzUGxPdUkxWUtCWEFsekpRSmtZOEh3ekwyZzNaeWcyNjlIRWFiX2NBUkRzcElsdWVhYkROX3ltUWFaUjY2TVcwOXU2TzQ3Y2lsRExZVHN4WDItd0NUNHJzLU50dEc5aWpuRnhJajUyWTYxQ3BzQ3QwYUZqVEd4NU01RnVJVmdIV3FDeTZHVHlRUW1TR1QxbHBOenlRWlZySFBLRi10dTZpNUc4ZXpnREFvUm1XTlNlM0N5cjFXV2lYSVFCT09MWmRBODVpQk5PRm5VcTVoeks2ZzN3TF9tWkFTLWVONjR2Tk1KVDhwSDRmaWhZdHVOSHZpTmhpWWRIYjVFcldJaGxrQjl3TXl5Rl90RWFYS0lJaHJrSE9xaGxFdXlXaDFPbEZ1Qmp6bVg5XzIxQzhmMzFoWVNmSlNOLVZmMkJCQXdROEpFd003MjYxV29xWE5pUE9xX0ZXVjMwTlBDZ3ZtYWg2YVZiRlNqTGpqaUNLSkswZ08zbDZQdXJ0VUFpeElnYjh6clhtMllNM3hMbnNCVFpqamh5N3dTdUZJWjZweXNJM2o0al9nWXgxQk5SSU94TnB5UUlSTy1VeGlhRV96aVZ6amlnTnh0bjNtZllSdW1QM1hMeENhOF9Xc2RBLVZNb3pnRWc3bi1xU2xQY1JEZ2dRNXk1bElTUVU4aTVna01hdTVoWTRTR0VGQW1VMnhDNFJPTnItaWRYUVNZT1Bxam5yLWhYRHFkUXMtNXFYT2FvQllTQ2tHeThncDlKYkVHV3NoRUwwaExXcU96bGNuR1E3QjhMQVNrSW0wd1NkUG9UUC1uVXR5RGFQdjc0UzhuLXZfYkJVa2I0RTJSWVd0bGZPX1pUMS1JdndJSmUyMGNmclJlNlF3NjktVWFobGR1bUJZYUlBb1V5eWpRelBkQTZIdzZXSGxBMGpGSDViMWhZVHB5LWRVOHpLNHk4dVNOS3o4U21WRXNaY1M4NEtRWFZqTjhfWUhHOHRfTGZJT1FiQ3U1UWVDclY2dW5DWGp6VEVJeFNzSlh2OHJUS1FPc201YkxvQjVITUxjWmVmekZmX2dlTGxzWTB0RVEzN2xyMnEyOElWUUFqdEtuSS12OXpYR2xmVE9GOEZzcXFEMzZwT2VsQTNHX0lIdmRaMWM0RXhsOUFaR0E5d29TWXM4azNPMU1BYW13ZnhrVi1oTFlwV3RPaXFOc3NSNVc1SHRkcDRKbm5GeFp0TWVwNmVYSk5JY2ZyekhUbVhsX1RzYmU5QzlGVlgyQzJ0TXI0S0piQl91TDM1c29xdzl4NzRMSkx0S3liNTVUNWYwc05RaWJLSXlzdnFMWUdsWk02Ylk5X1lZWDZSUzcwMElvRk8zX0NjVUlOZVNLdmNpaS1TVm9uM1JPTkg2MkVTRlBEaDFjQ2ZGYndlZUI1TXNDek1nT1V0OUVIOExCcXloZjc1bjZkeC1nWFVnU1ZjVXd1SE5NZ1ptNUZNNWF2VmN3ZldWTnpkcmdoMGhCSFZFRlBR0gHjAUFVX3lxTE12ZWtLY1FxQWhjeTluajhqMHVXWnBELTBQVC1FQzZycHJrV3lLUmNUUTJ2c3dMd1RHVzdwamhlRGRTUWw5aEx6bUdWNUhjRVBDYkJxU3Z2QkRJZ282bDh3a3RaU19NUlhIRDM0U2NpcXA2NktOU0NqUFAwdzNLYXRHSXBJOFRRRTE1aUdjVVNXT3cybXdWWmJCaktJYzFBMDZORW1CT08zeG11LUMxTS05YXdYS3hZTlQ3UjdoNGV2UDRraG1xcms5LTl6Q2pBYzdBamxpV0VKQ3pNQkI5YUdWM3A4?oc=5",
-      "publishedAt": "2026-10-14T14:06:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-how-to-watch-rugby-league-world-cup-2026-online-from-anywhere-free-live-streams-for-every-match-what-hi-fi",
-      "title": "如何从任何地方在线观看 2026 年橄榄球联盟世界杯：每场比赛的免费直播 - 什么 Hi-Fi？",
-      "summary": "如何从任何地方在线观看 2026 年橄榄球联盟世界杯：每场比赛的免费直播 什么 Hi-Fi？",
-      "originalTitle": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match - What Hi-Fi?",
-      "originalSummary": "How to watch Rugby League World Cup 2026 online from anywhere: free live streams for every match  What Hi-Fi?",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZWhrbDRUdnlBcHM1NFI3YXB5M1V4NlVoMG1OVF9neVRsSEh1aWgya3BHSFNCUFFEUk90Z19NbC13cHozZzhHdWFBbFl5Sm5Ib0Z1dFhwNGtrTXFBc0N4SlhocVprLVBuNm91WDZEdmJGZC01MzktX1lMV2Z5QkFtU3ZFeTlDbEcyTW82UE5FQXQ?oc=5",
-      "publishedAt": "2026-10-14T14:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-netflix-lands-world-cup-2030-rights-in-spain-and-andorra-therichest",
-      "title": "Netflix 获得 2030 年世界杯西班牙和安道尔转播权 - TheRichest",
-      "summary": "Netflix 获得 2030 年世界杯西班牙和安道尔转播权",
-      "originalTitle": "Netflix Lands World Cup 2030 Rights In Spain And Andorra - TheRichest",
-      "originalSummary": "Netflix Lands World Cup 2030 Rights In Spain And Andorra  TheRichest",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS2gxQk9jc09ySFhZNGg0YXBja3NleE1lLXJmUDlGYUVVb0Uxd0VlOS1HSW1NdlJLczRtTkFoTnJDQ2k5ejFkSjZIcHkxVDlmQ01MRk1KdkMxaVhuMU5JNFYyY1gzWWIyWGFaUTVwVjZTOWF0T09OcnVLVDFvS3liZE9Fem1XbUJSUEhKbg?oc=5",
-      "publishedAt": "2026-10-14T13:59:16+00:00",
       "heat": 52
     }
   ]
