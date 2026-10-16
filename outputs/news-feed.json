@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T15:29:48.699485+00:00",
+  "updatedAt": "2026-10-16T18:59:04.716530+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,8 +8,56 @@
   ],
   "articles": [
     {
+      "id": "google-news-sporting-kc-ii-midfielder-zamir-loyo-reynaga-called-up-to-mexico-s-u-15s-for-2026-fifa-u-15-world-cup-festiv",
+      "title": "KC II 竞技队中场球员扎米尔·洛约·雷纳加 (Zamir Loyo Reynaga) 征召墨西哥 U-15 队参加 2026 年 FIFA U-15 世界杯暨节日 - 堪萨斯城竞技队",
+      "summary": "KC II 竞技队中场球员扎米尔·洛约·雷纳加 (Zamir Loyo Reynaga) 征召墨西哥 U-15 队参加 2026 年 FIFA U-15 世界杯暨艺术节 堪萨斯城竞技队",
+      "originalTitle": "Sporting KC II midfielder Zamir Loyo Reynaga called up to Mexico's U-15s for 2026 FIFA U-15 World Cup & Festival - Sporting Kansas City",
+      "originalSummary": "Sporting KC II midfielder Zamir Loyo Reynaga called up to Mexico's U-15s for 2026 FIFA U-15 World Cup & Festival  Sporting Kansas City",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNZE9KbElGeWZ1NXplN1lIZ0VxQkYwMERNTEltWnpYVG1mbl85SGJaN0xhWG1XaUhkMnNXSGc2YnZSVWtYRWpPODV5UEd1czN4WDZwblpaaUFiV25kcW03dXhqaEV0WlNqNjA5MjVjZURMZEl2YVN0ZXl6RDZmNGJIQ25QN2dnSkRLSWNDWG0yQmt4QzBILTRYN296UmRHUUY0bGlXdnlkU3M4N094NEpwZ3pMM0ZSTHcwNmEwX0Vmc2tJZ1R0R3JnYUVneUE4T1lwNDNhX2ZjTUN1QQ?oc=5",
+      "publishedAt": "2026-10-16T18:31:16+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-fines-spain-20-000-over-islamophobic-chants-against-egypt-tvc-news",
+      "title": "西班牙因针对埃及的仇视伊斯兰教口号而被国际足联罚款 20,000 美元 - TVC 新闻",
+      "summary": "西班牙因反埃及反伊斯兰口号而被国际足联罚款 20,000 美元 TVC 新闻",
+      "originalTitle": "FIFA Fines Spain $20,000 Over Islamophobic Chants Against Egypt - TVC News",
+      "originalSummary": "FIFA Fines Spain $20,000 Over Islamophobic Chants Against Egypt  TVC News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQdFc2My1XaGFLSzF2c19kQmRkdXNoZjU5aWNuaUluWjBNVUp2SERhVHlOLXBBQjRqSWo5WDU2Q3JHSmx1RjRIQjFJNUJDRllvWmE3Y2tKUklaVnBzb2ZoUmZxajFpNzF1R01Bd25Ka2ZiSnJXNDJFU00zVXVMT293TVpvQkNaY0lYdF93Z0N3?oc=5",
+      "publishedAt": "2026-10-16T18:08:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-french-gambling-revenue-sees-only-modest-half-year-growth-despite-world-cup-betting-boost-focus-gaming-news",
+      "title": "尽管世界杯投注增加，法国博彩收入半年仅小幅增长 - 焦点博彩新闻",
+      "summary": "尽管世界杯投注增加，法国博彩收入半年仅小幅增长 Focus Gaming News",
+      "originalTitle": "French gambling revenue sees only modest half-year growth despite World Cup betting boost - Focus Gaming News",
+      "originalSummary": "French gambling revenue sees only modest half-year growth despite World Cup betting boost  Focus Gaming News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPXzdVYkNscS1IdE1VRVdTY25yaUNObWVsWmhqRWJWWVBUTEFRbHdJdkNWNnpKMnJoQllnSFdJUjRVeUt1eHF1VUNsQmJkdzFCZE5aejg3aXZ4bXdDSUo1aTk0SmRkVXpCTE9tdXpuQ255Z0N2MFExLWFiUmlBM3ZDdWo0alpDNmVhdmViRjBCelFmZFA4aXc4dG9Yb3BGZzN6M1d0WmJRYkdNaGlsM2c?oc=5",
+      "publishedAt": "2026-10-16T17:18:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-16T16:04:02+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-3-embarrassing-questions-fifa-amends-its-regulations-after-the-2026-world-cup-crisis-goal-com",
-      "title": "3个尴尬问题：2026年世界杯危机后国际足联修改规则 Goal.com",
+      "title": "3个尴尬问题：2026年世界杯危机后国际足联修改规定 - Goal.com",
       "summary": "3 个尴尬问题：2026 年世界杯危机后国际足联修改规定 Goal.com",
       "originalTitle": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis - Goal.com",
       "originalSummary": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis  Goal.com",
@@ -30,6 +78,18 @@
       "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQX0tCM01nbHNNYkFUaDBkTlJKYXAwbEdxc3dGVjJ3V0ZUZzN5WmRMS3I1NjF6aVU0RXBKeTdsQVZYU1hUc3hnYjNoanZzYkI5VmlNOFQ5WHJqMjlQSjQ4QzJHOEs3dDRFbEVCLV9KVllaaEFmdGpxNDVYZy10a2xSZldzRjhHbmNtWGplaURhQklXQ1lHcE5EclpISGMzeUk2bmNMTFJKTmRpZjlDWERmNmhmaWtDLXhsbDBXQ25iUnktc3F5N2VSNmFoeEt0dXg4VW9fdEg2TEd5NVBvclZRR3pqdVlsU3fSAewBQVVfeXFMTzAyMXpHaEl3QUdwOXZod2FNVG9acmh6MVNhVlJpVEtTYW1wQXlnbnVsQVN4VU9fZTF3YjdZOFdmaklkRXpFajZOWTBzY0sxVDFxbWRFaEpaSEFYaXprb0xuR3NaemxkTW5POUJHRmJ4dkQtVElLeDN1TllOMmNmMFdrMkFJSGFGRWZzMTIwcks1VjdZYl85MTBOdFBNZnVmbDNDMlV0X1k5WHo1LWlkMEk2NVFJYW9MOTVuVi1NSzc0SVZNSkR5Q1FlSzdiQl9oTlRtRlNxSVVRQWkwWTBjdzAtbVc4eEU1RElYbkg?oc=5",
       "publishedAt": "2026-10-16T15:10:24+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-fifa-to-review-its-rules-following-the-balogun-case-beninwebtv-com",
+      "title": "2026 年世界杯：国际足联将在巴洛贡案后审查其规则 - beninwebtv.com",
+      "summary": "2026 年世界杯：国际足联将在巴洛贡案后审查其规则 beninwebtv.com",
+      "originalTitle": "World Cup 2026: FIFA to Review Its Rules Following the Balogun Case - beninwebtv.com",
+      "originalSummary": "World Cup 2026: FIFA to Review Its Rules Following the Balogun Case  beninwebtv.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNSjU4cmt0XzVsQnhwVm84LXROenM3X181bFFjVmtvU1JOSC1xcnlZNHo1VUM3TGJyUUplWG1QVG9va1hOeGhYLXRaYXlrUkZ4dUN2eVhpejhab0lmU3Y0ZFUzc2ZCZUgtOW96N1pfLXBlMFY5THNzYmVQNVdIY1ZRanEwV1dlN1VkRFhZNVJlN0pEREVWUWtYUw?oc=5",
+      "publishedAt": "2026-10-16T14:59:36+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-al-dawsari-al-brikan-shortlisted-for-2026-afc-men-s-player-of-the-year-وكالة-الأنباء-السعودية",
@@ -53,6 +113,30 @@
       "source": "Google 新闻 中文",
       "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZFNfbzZOSlBUUU5VeDlfRUhIekwyMk1nalZtT1RLejVaRml2cmRKaEVtTHpTYWFTZ01Pc3hVWDlIQkVzeTk4dWl5b0lKQTRyQVdXUl9CdjNoaWY2NU5sWnh3TmhsSTc4WnhNaU9NYXVtWGtzVUlSNmZaNVA2TzJCTWFjQXpEc0hrdmhGN1lOSzVlS0xkbUc0ZlFyM3J5QW96RHQyeHFQZVBockk?oc=5",
       "publishedAt": "2026-10-16T14:36:59+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-u-17-women-s-world-cup-bonmati-bronze-and-the-biggest-stars-to-emerge-from-the-tournament-dazn",
+      "title": "FIFA U-17 女子世界杯：邦马蒂、铜牌和赛事中脱颖而出的巨星 - DAZN",
+      "summary": "FIFA U-17 女子世界杯：邦马蒂、铜牌和赛事中脱颖而出的巨星 DAZN",
+      "originalTitle": "FIFA U-17 Women's World Cup: Bonmati, Bronze and the biggest stars to emerge from the tournament - DAZN",
+      "originalSummary": "FIFA U-17 Women's World Cup: Bonmati, Bronze and the biggest stars to emerge from the tournament  DAZN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxObFh3VnZLRThvak5YSkdTeGtrbzFDRE01WDdUM2I0NnYwa3NXYkk1UjhfcVFyUmxJUFh0aUhEQlk1OFpfNVBFSTloR1lNaWxOY1RMMkpMRkx6MUpfblpXbzFZQlA3MG1fVzAxLUpmcUQ2RzNRdk5zNTNkRlpxeXotNUJGM21UUG9sVGZnd1F0MG5Yd04wTmZHLUVWa2pzZzJScE9iSUIzY1p1WXlSWmZ4R0MzS2Z6cUllbEN3WV9qZ1p3YmRZRTdtTno5dG1uZGttSjB1UDRQaFVqSkU?oc=5",
+      "publishedAt": "2026-10-16T14:30:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-plans-6-35b-investment-in-global-football-development-bol-news",
+      "title": "国际足联计划投资 6.35 亿美元用于全球足球发展 - Bol News",
+      "summary": "国际足联计划投资 6.35 亿美元用于全球足球发展 Bol News",
+      "originalTitle": "FIFA plans $6.35b investment in global football development - Bol News",
+      "originalSummary": "FIFA plans $6.35b investment in global football development  Bol News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSEpJdXhjdG9sTXFUa0ctWWRKUnBnWkVNOUFZRGNsNi1vRU84NFVHX3pjd1VILXFXb0w3bjY0MVlCS3otQ05DODRZdk0xV08zSHk4SWFpeW9sVmFXS0pONWpVNVZySEZUU1FrVnIyR3NwRUg4WDlvSjRlUEx2dWhVcGFKNndFTnVBa3U1NTB4STM2dGpr?oc=5",
+      "publishedAt": "2026-10-16T14:18:37+00:00",
       "heat": 52
     },
     {
@@ -104,40 +188,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-proposes-6-35bn-football-development-fund-for-2027-2030-3news",
-      "title": "国际足联提议为2027-2030年提供63.5亿美元的足球发展基金 - 3News",
-      "summary": "国际足联提议为 2027-2030 年提供 63.5 亿美元的足球发展基金 3News",
-      "originalTitle": "FIFA proposes $6.35bn football development fund for 2027-2030 - 3News",
-      "originalSummary": "FIFA proposes $6.35bn football development fund for 2027-2030  3News",
+      "id": "google-news-football-fixtures-every-game-in-every-competition-with-tv-details-and-kick-off-times-for-the-2026-27-calenda",
+      "title": "足球赛程：2026/27 日历中每场比赛的每场比赛，以及电视详细信息和开球时间 - FourFourTwo",
+      "summary": "足球赛程：2026/27 日历中每场比赛的每场比赛，以及电视详细信息和开球时间",
+      "originalTitle": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar - FourFourTwo",
+      "originalSummary": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar  FourFourTwo",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN252bHF2eUNvRnoydmpIMHB5R1ptd0o3eWdmcmtmWVRZT21JMS1UTFpPUXNnYzI3dmFhZmhJdWUwbXZyNGJ6cGg4ZkxhMHlMLWNvQjNCek9CWjdrSnU4OUhfWkQyN3NkWDN5N0NndXBhYXJtaHN3OExVNDZ3M09rakV4cXc1TmstaWZ4cTl3?oc=5",
-      "publishedAt": "2026-10-16T11:23:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-mp-petitions-chraj-to-investigate-alleged-irregularities-in-2026-world-cup-visa-arrangements-ghanaweb",
-      "title": "国会议员请CHRAJ调查2026年世界杯签证安排中涉嫌违规行为 - GhanaWeb",
-      "summary": "国会议员请求 CHRAJ 调查 2026 年世界杯签证安排中涉嫌违规行为 GhanaWeb",
-      "originalTitle": "MP petitions CHRAJ to investigate alleged irregularities in 2026 World Cup visa arrangements - GhanaWeb",
-      "originalSummary": "MP petitions CHRAJ to investigate alleged irregularities in 2026 World Cup visa arrangements  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQM19uay1HUGtqaDBUejdTLTNobWd0TlFSdHVLNUNJQkxDT1BqRlg5WGpROG5IWTF5WHJubUV0ZnBJZnozR1JYODdTNkNqMS05R3pJVnpSWEY5TGVoTlhqck1IMW9kQnE4cDRYZFNQcEk4NldvbmxRekNHOW5vUUllWS1Cd1Z0NXFzbTV2RGJLY05XdE9SWU1GVkxrZXBHdDlOajlSUnNQcDBieTg4Q3dWTmNSNEstczFSZkwwNDZNaFo1eVFiNFBCV3c2M2h4N1dNd0pZOEtzZnhFVTJVa1QzV2NKRUNZZ2R1?oc=5",
-      "publishedAt": "2026-10-16T11:14:09+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-poland-squad-for-2026-fifa-u-17-women-s-world-cup-all-the-players-selected-by-paulina-kawalec-for-the-tourna",
-      "title": "波兰参加 2026 年 FIFA U-17 女子世界杯的阵容：保琳娜·卡瓦莱克 (Paulina Kawalec) 挑选的所有参加比赛的球员 - DAZN",
-      "summary": "波兰参加 2026 年 FIFA U-17 女子世界杯的阵容：保琳娜·卡瓦莱克 (Paulina Kawalec) 挑选的参加比赛的所有球员 DAZN",
-      "originalTitle": "Poland squad for 2026 FIFA U-17 Women's World Cup: All the players selected by Paulina Kawalec for the tournament - DAZN",
-      "originalSummary": "Poland squad for 2026 FIFA U-17 Women's World Cup: All the players selected by Paulina Kawalec for the tournament  DAZN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOd01QYWpCS09HRG12V29KSXhsLTVJa1F1T3BGalhzM2hiLTUxQW52WFhhLUtDbWNEeG94eVJ2UHhkSm5VNndmTjlRMUl0MWpCMkJhTHRWZ3FIYUwza2VOLUtjTWVQSHJZc05nSjFMbGtTbXp1Nks5VmVNS19hUXpJSzFFdWw4ektlVmc1UjE3RjljMFNqNUY3b3pPSk1wNk5FbzdUYzFGZEktMVZJZmlDZHVn?oc=5",
-      "publishedAt": "2026-10-16T10:30:00+00:00",
-      "heat": 60
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNjJPYWhvYWdOQjFuYk9qWXA0VHM5bEt2YjJ6TTBfZHBKOWVIX0xrVzhBQ0RHaUVZR2h4MVpPQjZITTYtdEx5bG40Z05wVjhYekdxRy0wRnNDd3l2cnlkNGRwN3lrWmJTUkUtZS1jeHlaRHEtdGhVTURXRQ?oc=5",
+      "publishedAt": "2026-10-16T11:57:21+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-junior-starlets-ready-for-2026-u17-world-cup-as-coach-cheche-unveils-final-squad-tv47-digital",
@@ -148,79 +208,19 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPazVmLVp0cHQ1c1B2b2ZIbVZubWZjbk92cW1RZktxeU14NVRqWThnWF95ZDVvclBnYkxkSXZMOV9KOGpkX3FGTXA4SXppZHhxZWhDYzM0TUZuX0RNajlUTk5TYWEzdDQzVTFsMEdnQmhkS1ZWS0E5QmIyWmlfN1VZNzRmUlBVSWJiZmpHUkFLTFlMeVB6X3VTb1RodndWM3FQcFlLRFE3Zzh3Z3VGZHE2S3oydw?oc=5",
-      "publishedAt": "2026-10-16T10:27:07+00:00",
+      "publishedAt": "2026-10-16T11:47:09+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-infantino-apologizes-to-fifa-council-for-world-cup-sell-off-plan-politico-eu",
-      "title": "因凡蒂诺就世界杯抛售计划向国际足联理事会道歉 - POLITICO.eu",
-      "summary": "因凡蒂诺就世界杯抛售计划向国际足联理事会道歉 POLITICO.eu",
-      "originalTitle": "Infantino apologizes to FIFA Council for World Cup sell-off plan - POLITICO.eu",
-      "originalSummary": "Infantino apologizes to FIFA Council for World Cup sell-off plan  POLITICO.eu",
+      "id": "google-news-fifa-proposes-6-35bn-football-development-fund-for-2027-2030-3news",
+      "title": "国际足联提议为2027-2030年提供63.5亿美元的足球发展基金 - 3News",
+      "summary": "国际足联提议为 2027-2030 年提供 63.5 亿美元的足球发展基金 3News",
+      "originalTitle": "FIFA proposes $6.35bn football development fund for 2027-2030 - 3News",
+      "originalSummary": "FIFA proposes $6.35bn football development fund for 2027-2030  3News",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOTROQjhOeXA3dGxLNmI5UzNHemlEOElKeXdiUE56ZWt3UE5oTkdRVFBRUHFzN0ZDN1RLVENiVkcwSTBpN1VYQndNMjZtSjhyTXVrSUV1cE9CUlJNLVhkM2tGWFI4dUlZaVJUSmROYVNadHZjLWNEc3ozY2J6MkYyZjlFZGIybGU4V2ZiS1BHeTQ?oc=5",
-      "publishedAt": "2026-10-16T10:07:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-从凭票抢购到随手一倒-这杯奶我们喝得越来越随意-蒙牛-fifa-膳食宝塔_新浪新闻-手机新浪网",
-      "title": "从凭票抢购到随手一倒，这杯奶我们喝得越来越随意|蒙牛|FIFA|膳食宝塔_新浪新闻 - 手机新浪网",
-      "summary": "从凭票抢购到随手一倒，这杯奶我们喝得越来越随意|蒙牛|FIFA|膳食宝塔_新浪新闻  手机新浪网",
-      "originalTitle": "从凭票抢购到随手一倒，这杯奶我们喝得越来越随意|蒙牛|FIFA|膳食宝塔_新浪新闻 - 手机新浪网",
-      "originalSummary": "从凭票抢购到随手一倒，这杯奶我们喝得越来越随意|蒙牛|FIFA|膳食宝塔_新浪新闻  手机新浪网",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1SQW1tNm1oR2twSVZ0ejhRclZJQ0t0NXpJQXJuNTNoUFVMTVJDSUFwRzlza2ZNdlo4aG5nZjAtaTFSZ2piNjdDTTR1YXBMdUQwVVFlU0l5X3JSMDg2cDZYbk5hRQ?oc=5",
-      "publishedAt": "2026-10-16T09:54:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-president-gianni-infantino-apologizes-over-failed-world-cup-stake-sale-plan-but-dodges-key-questions-es",
-      "title": "国际足联主席詹尼·因凡蒂诺就失败的世界杯股份出售计划道歉，但回避了关键问题",
-      "summary": "国际足联主席詹尼·因凡蒂诺就失败的世界杯股份出售计划道歉，但回避了关键问题",
-      "originalTitle": "FIFA President Gianni Infantino Apologizes Over Failed World Cup Stake Sale Plan but Dodges Key Questions - EssentiallySports",
-      "originalSummary": "FIFA President Gianni Infantino Apologizes Over Failed World Cup Stake Sale Plan but Dodges Key Questions  EssentiallySports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPZHNGOGdQLXRpV052SF9OWTNPRGlhajhTTzBabktZMjh5WkhMdVd5cVg4OGNqVE13Z05Xd21aS2dLMmxJS3FjSTg3RWY4QmZ1NjczVTZFMmV0MlBUcS01VG1IQkdCSUJ3RkZkX1ZsMUxpM2l2YnNhUjFWT0cxc1p6NDlxVlBfMEJqbGU0ZU5Ha0xxRy1BR3NhZWZFQm4td2JYdExJT3BQdk1McFFpM1h4bXc0R21Kd2VxemVTR3p0aE15UDBZcnlZZlBmblRfeUlONlIxMWNlQl9MQlhSaE9DR2JWOTM2X3hIM2E1V0oyNFV3VGRG?oc=5",
-      "publishedAt": "2026-10-16T09:42:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-breakthrough-stars-get-the-nod-injury-setback-as-junior-starlets-coach-names-final-squad-for-u17-world-cup-p",
-      "title": "突破性明星获得认可，伤病困扰，青少年新星教练确定U17世界杯最终阵容 - 肯尼亚脉冲体育",
-      "summary": "突破性明星获得认可，但因伤受挫，小明星教练确定 U17 世界杯最终阵容 Pulse Sports Kenya",
-      "originalTitle": "Breakthrough Stars Get the Nod, Injury Setback as Junior Starlets Coach Names Final Squad for U17 World Cup - Pulse Sports Kenya",
-      "originalSummary": "Breakthrough Stars Get the Nod, Injury Setback as Junior Starlets Coach Names Final Squad for U17 World Cup  Pulse Sports Kenya",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQRDVBZ0RrZ3hDd0xxUUdCckdlbWF2MF94MEVGYnBNbnBpbE5MTXU1aXBpb05Ub21sRWhqWjRYQkhPQzNIZTBoLUI5aGlfTXpEZTNrT2FocmlmUUVwenNiQm5yOEhEQkNRcWROLTI5THF0MWJmblVvSUhMOXIwU2dvdzZCYVBMV1Z2Qm5DQWhGeVFXZVhnZlpUMlJKTndGeHJnc05NUnc5bkw3M1ludzRnMzlQT21kYVY2aWlvV0U0UTF6cTQycEFUMkN2blcwQWgtYW5NUE5sWUZZdmhuY1d2TUNQTTZMVGJHX0puenFsM2pmbVZV?oc=5",
-      "publishedAt": "2026-10-16T09:17:29+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-visa-scandal-npp-demands-answers-over-gta-s-50-name-list-to-us-embassy-ghanaweb",
-      "title": "世界杯签证丑闻：NPP 要求美国大使馆给出 GTA 50 人名单的答案 - GhanaWeb",
-      "summary": "世界杯签证丑闻：NPP 要求美国大使馆回答 GTA 的 50 名名单",
-      "originalTitle": "World Cup Visa Scandal: NPP demands answers over GTA’s 50-name list to US Embassy - GhanaWeb",
-      "originalSummary": "World Cup Visa Scandal: NPP demands answers over GTA’s 50-name list to US Embassy  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSDk4Nm1SOXFrM3ZhZ1hJY3RrSDRPVGIza2Nqam5OMUJ4NU45aGR5OFhHaWRlSElYdXBZRWd5RTZQR0IyZ1NDYlpNXy13SnM3U3BkZWFxRmROSFljd2VZSlFKSGNyYVhCZDVvQVNHWmNrYmxTSXB1a3hVWWhPYXpkeDkxX3NJd1U0aGdNNFFqZVVzbzhRTERIcFJRNktEazUyV0xfQVhXQ19KR3JlMklGZnZncjNvMkU3V3E5QV8yRUpDWWFFOXRPcXZBLUIwQlNOS3BLV0tZSGU?oc=5",
-      "publishedAt": "2026-10-16T09:14:09+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-capelli-sport-to-kit-cape-verde-for-world-cup-2026-nss-sports",
-      "title": "卡佩利体育将为佛得角准备2026年世界杯球衣 - nss sports",
-      "summary": "Capelli Sport 将为佛得角队提供 2026 年世界杯球衣 nss sports",
-      "originalTitle": "Capelli Sport to kit Cape Verde for World Cup 2026 - nss sports",
-      "originalSummary": "Capelli Sport to kit Cape Verde for World Cup 2026  nss sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNVRIM1BvMnU5ME01SGJ6NU5heFdCQ0tXRFA3aUhVOTV0NVBlUHREYXh6clRlNWVQZGYyMVRBY1pQMmM0aXl3cjVLdUF2d2c5dUV1Qy1mdk5lWk5rblFJU1ZNNjlISVExeW1oMHhrMUszSXg0ZHk5NHJSemFlTEpUejJOUWxKM0FnQkdZckh5VQ?oc=5",
-      "publishedAt": "2026-10-16T08:57:24+00:00",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQN252bHF2eUNvRnoydmpIMHB5R1ptd0o3eWdmcmtmWVRZT21JMS1UTFpPUXNnYzI3dmFhZmhJdWUwbXZyNGJ6cGg4ZkxhMHlMLWNvQjNCek9CWjdrSnU4OUhfWkQyN3NkWDN5N0NndXBhYXJtaHN3OExVNDZ3M09rakV4cXc1TmstaWZ4cTl3?oc=5",
+      "publishedAt": "2026-10-16T11:23:28+00:00",
       "heat": 52
     }
   ]
