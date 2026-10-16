@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-16T00:39:05.247156+00:00",
+  "updatedAt": "2026-10-16T05:40:07.007027+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,15 +8,99 @@
   ],
   "articles": [
     {
-      "id": "google-news-fifa-u17-women-s-world-cup-flamingos-target-three-points-against-poland-in-rabat-the-sun-nigeria",
-      "title": "国际足联 U17 Women’s 世界杯: Flamingos target three points against Poland in Rabat - The Sun Nigeria",
-      "summary": "国际足联 U17 Women’s 世界杯: Flamingos target three points against Poland in Rabat  The Sun Nigeria",
-      "originalTitle": "FIFA U17 Women’s World Cup: Flamingos target three points against Poland in Rabat - The Sun Nigeria",
-      "originalSummary": "FIFA U17 Women’s World Cup: Flamingos target three points against Poland in Rabat  The Sun Nigeria",
+      "id": "google-news-us-soccer-fandom-jumps-to-75-2-million-after-world-cup-2026-nielsen-report-business-standard",
+      "title": "US 足球 fandom jumps to 75.2 million after 世界杯 2026: Nielsen report - Business Standard",
+      "summary": "US 足球 fandom jumps to 75.2 million after 世界杯 2026: Nielsen report  Business Standard",
+      "originalTitle": "US soccer fandom jumps to 75.2 million after World Cup 2026: Nielsen report - Business Standard",
+      "originalSummary": "US soccer fandom jumps to 75.2 million after World Cup 2026: Nielsen report  Business Standard",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPTWk2dW1kNXhGcXJ3QjE1d2xOaloxdXl5LWk4RnFQX0tGd2VFZDJmc25lWm1iQXNzcWdNSlZXeVZ2Yk5xMWJ3NEtkbC1GdUhZNDFRdTZTUU92ZWJ6SzRTcmNzaUNjX3hJcGZrUmVBcGxleXZVQ1N0WkxKU3p5UVZoX2ZFNWF3MzljVTczLU9POVl2dzlyUDRaUlZRS01CaXc?oc=5",
-      "publishedAt": "2026-10-15T23:42:41+00:00",
+      "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPbktFSEZqQ0ZSbVNoWDhka2JxS2ljWVpwMVFZampEcnJCV3Roak1fRklpYU9rUUZLUUR4S1k3T1U5LWFLRDBsWjg4OHc5ZmhtVkhiVXZZZDJJWmN6UTVPeE44bmY5YUx5Tm9LQ1lTYmEyRU9RT2szU3FEMVV0Q1BLaHg3aXhqTFhJdEVZcUtDbHRfWkxHOXRyRE9IR1N5NGRvclBhekt3R2JCWnN6SnpFYXdMU1hFcXg2ZkUwc096aUt0RWZNcHk4T2l1ZVNsaW9seFlSTFpDNDU0bTFnT0dLZHBn0gHiAUFVX3lxTE9uS0VIRmpDRlJtU2hYOGRrYnFLaWNZWnAxUVlqakRyckJXdGhqTV9GSWlhT2tRRktRRHhLWTdPVTktYUtEMGxaODg4dzlmaG1WSGJVdllkMklaY3pRNU94TjhuZjlhTHlOb0tDWVNiYTJFT1FPazNTcUQxVXRDUEtoeDdpeGpMWEl0RVlxS0NsdF9aTEc5dHJET0hHU3k0ZG9yUGF6S3dHYkJac3pKekVhd0xTWEVxeDZmRTBzT3ppS3RFZk1weThPaXVlU2xpb2x4WVJMWkM0NTRtMWdPR0tkcGc?oc=5",
+      "publishedAt": "2026-10-16T05:10:51+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-coach-cheche-names-final-squad-for-fifa-u17-women-s-world-cup-football-kenya-federation",
+      "title": "Coach Cheche Names Final Squad for 国际足联 U17 Women’s 世界杯 - Football Kenya Federation",
+      "summary": "Coach Cheche Names Final Squad for 国际足联 U17 Women’s 世界杯  Football Kenya Federation",
+      "originalTitle": "Coach Cheche Names Final Squad for FIFA U17 Women’s World Cup - Football Kenya Federation",
+      "originalSummary": "Coach Cheche Names Final Squad for FIFA U17 Women’s World Cup  Football Kenya Federation",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObXdsak9ueTV4UFZ2MEVqLWlFTWFqZml1ekI5ZU85YURSUlhyMXp1UExJNzRHQTVwYWQ3WEMtS2V2eFJpc0R0dnFkVm9jSGpmeHZ5TlNReFpiTzBMS2h6TWZiV29qNzRjX2p2V1dNMDhZaXVwcFg2YTUzU1hpT3NYR2F1dmtXcm9JRFowNmF2WFlsR3Z6Mmc?oc=5",
+      "publishedAt": "2026-10-16T04:25:15+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-flamingos-must-beware-of-poland-s-search-for-redemption-at-fifa-u17-women-s-world-cup-sports247-nigeria",
+      "title": "Flamingos Must Beware Of Poland's Search For Redemption At 国际足联 U17 Women’s 世界杯 - Sports247 Nigeria",
+      "summary": "Flamingos Must Beware Of Poland's Search For Redemption At 国际足联 U17 Women’s 世界杯  Sports247 Nigeria",
+      "originalTitle": "Flamingos Must Beware Of Poland's Search For Redemption At FIFA U17 Women’s World Cup - Sports247 Nigeria",
+      "originalSummary": "Flamingos Must Beware Of Poland's Search For Redemption At FIFA U17 Women’s World Cup  Sports247 Nigeria",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSGZRMVM1T0gzdi1aWWc5MzAwU0czMFcyUklQcU8tSTA3YmlEQmE1YmZ4Z3YyUkdjTFdKMjZDNlE0Tlc2bjRlczBENDJfZTBsWWphS3ZDbmpUN0xRZDNoUG9IdzZhTnlyRGRqR2dkaVRQSFdOazdvMzUxVUhtUF8yVVpMMVlHQURCOGJtekp1WVJZaU45VVdXd3kzcVRmdnV0M2ZwQVZpcDV0MmM3VVE?oc=5",
+      "publishedAt": "2026-10-16T04:07:22+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-u17-women-s-world-cup-flamingos-target-three-points-against-poland-in-rabat-the-nation-newspaper",
+      "title": "国际足联 U17 Women’s 世界杯: Flamingos target three points against Poland in Rabat - The Nation Newspaper",
+      "summary": "国际足联 U17 Women’s 世界杯: Flamingos target three points against Poland in Rabat  The Nation Newspaper",
+      "originalTitle": "FIFA U17 Women’s World Cup: Flamingos target three points against Poland in Rabat - The Nation Newspaper",
+      "originalSummary": "FIFA U17 Women’s World Cup: Flamingos target three points against Poland in Rabat  The Nation Newspaper",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMm81RFdJMlVsTHk5QVZCckpoa1BzY0l2YV9RRC1ySUFINW1tQV9yMUR3Rlc1X2ltM200WXJkT3JPdDlNUE95T3ZvMGJTWTZwM25LX2xiMWNtVXR4NzRTNkFRNkZ3YWNZc0xER1Axblo5OHZYMDZlaERaME12Wk9oVUlmNnBIT1NXUW0xYjNfeFBzX2hCTEw0Nl9yX1Jzby00XzVlcHY4Vi1XTW1NRVlr0gG0AUFVX3lxTFByMjlfekFTUU55ZU9JQVdaRXpWWmpVck01SUhVT1JkUUJRV2UxYW1QNGh0ZkFTNjlNQy02QmZXay1hbU9MRlZLZXlLQ0tWSE5FeFVqUndZQXpVMnFTVUs1di1xY2ZKMHhhNjdObUJwblY0VmlxVFlpN09nY1EtWk5La05MQ0pGOG1QbThrNTdsdTJkN3ZVUjhTMTJhRTNZTVByUTdfTDZ5bzkyTEpxa2pCX2p0Tg?oc=5",
+      "publishedAt": "2026-10-16T03:11:03+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-post-world-cup-momentum-drives-premier-league-us-viewership-to-record-highs-ministry-of-sport",
+      "title": "Post-世界杯 Momentum Drives Premier League US Viewership to Record Highs - Ministry of Sport",
+      "summary": "Post-世界杯 Momentum Drives Premier League US Viewership to Record Highs  Ministry of Sport",
+      "originalTitle": "Post-World Cup Momentum Drives Premier League US Viewership to Record Highs - Ministry of Sport",
+      "originalSummary": "Post-World Cup Momentum Drives Premier League US Viewership to Record Highs  Ministry of Sport",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSS1KZnQteFVyMjR0eW13QkxEQ1ZRQTBOY3QtNzh4UVZHTGJ3Sk1sRlRhYk1YWnBjczk2MmhucE9lOFc0YjBOeGcwdzZBYnJ4aU5Sa0pOMWlRbXoxMVRIODNWX3h4bWRkekVrRFV3bS1xLS1ILXVsbmFSbjN1bHBTQUJQY0Z6aVZGM0ZLOEhaMDkwNGRSMkltdTZkc1BHTjM3VHlnVVM4WQ?oc=5",
+      "publishedAt": "2026-10-16T02:29:46+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-无缘16强的日本居然排第13-美媒发布2030世界杯实力榜-韩媒感到愕然-搜狐",
+      "title": "“无缘16强的日本居然排第13？”美媒发布2030世界杯实力榜，韩媒感到愕然 - 搜狐",
+      "summary": "“无缘16强的日本居然排第13？”美媒发布2030世界杯实力榜，韩媒感到愕然  搜狐",
+      "originalTitle": "“无缘16强的日本居然排第13？”美媒发布2030世界杯实力榜，韩媒感到愕然 - 搜狐",
+      "originalSummary": "“无缘16强的日本居然排第13？”美媒发布2030世界杯实力榜，韩媒感到愕然  搜狐",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNdkx1Z3FMV2hnT0N3dlFQZ0ZkdWNOT2p0Mzg3eXR0NXJfSk0wWjBpVXZCTVhzSzlQb1lmRVhFQzhBMVZyYWdTZ0U1SlJKaFdZdzlGNDFNSDZDVmFEMVFoTjBicGhqaEhKd0U5QW8xaEIzbEYwTjhyUmdqVW01LVllZHczSVdfSnQ2VEY2bg?oc=5",
+      "publishedAt": "2026-10-16T02:28:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-world-cup-theme-song-success-or-flop-nss-sports",
+      "title": "2026 世界杯 Theme Song: Success or Flop? - nss sports",
+      "summary": "2026 世界杯 Theme Song: Success or Flop?  nss sports",
+      "originalTitle": "2026 World Cup Theme Song: Success or Flop? - nss sports",
+      "originalSummary": "2026 World Cup Theme Song: Success or Flop?  nss sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbmFER0NfTFZzVU5yNnVBdTFmWjhfZ2g2XzMzT190SXVLSFRnRE1kT1NFOFhlZzNJSzVnSV80Q2FsMTBEOVAzYS1hZE5peTNuc0lkLUFfSzUtaGFZcllQZW9vZEg4OXduQTlhSXVlWUk2TWowbGg5RzhKWDE0N05VRi1ab2o?oc=5",
+      "publishedAt": "2026-10-16T01:41:09+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-u-17-women-s-world-cup-2026-tournament-preview-oceania-football-confederation",
+      "title": "国际足联 U-17 Women’s 世界杯 2026™ | Tournament Preview - Oceania Football Confederation",
+      "summary": "国际足联 U-17 Women’s 世界杯 2026™ | Tournament Preview  Oceania Football Confederation",
+      "originalTitle": "FIFA U-17 Women’s World Cup 2026™ | Tournament Preview - Oceania Football Confederation",
+      "originalSummary": "FIFA U-17 Women’s World Cup 2026™ | Tournament Preview  Oceania Football Confederation",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObl9sY2ZHMHFQaFota1VrTXFDU0puQ2Z1RVhfTlVzQUxkZGVWbVI1MFhudkZyUFZvYldFUzBGSDBnYnBTOHhSTXV4Z25ZUjI5aHRTelFYQUpEZWRHbWtBaFBKSnJQRjlMUFJ1SlNTenIxTWVxXzREZUJMZ1JRTEZpYnZjc1lpaUNJVXZZ?oc=5",
+      "publishedAt": "2026-10-16T01:09:36+00:00",
       "heat": 60
     },
     {
@@ -32,6 +116,18 @@
       "heat": 52
     },
     {
+      "id": "google-news-fifa-proposes-6-35bn-football-development-funding-boost-as-infantino-apologises-over-withdrawn-project-ghana",
+      "title": "国际足联 proposes $6.35bn 足球 development funding boost 作为 Infantino apologises over withdrawn project - GhanaSoccernet",
+      "summary": "国际足联 proposes $6.35bn 足球 development funding boost 作为 Infantino apologises over withdrawn project  GhanaSoccernet",
+      "originalTitle": "FIFA proposes $6.35bn football development funding boost as Infantino apologises over withdrawn project - GhanaSoccernet",
+      "originalSummary": "FIFA proposes $6.35bn football development funding boost as Infantino apologises over withdrawn project  GhanaSoccernet",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQS1BCOGtFY193T0NBTnpHR1prMUlIMUxfcVk1aG51UmhKbFl0YmFtSWxlZk42Nk1PRjNKMUVoVVNGTE56X3NqX0NFQy1TNDhGQVEweU84d3FNdHpEN3FjQnoydTZZSTJBTDhXanQ2OTA5QjlvSHVKajRVbklBUFRvck5LY1JZV2FsRlEzN3ZVYjdtblZEYndIR0dOY3NlenhuVUNfLS1KX2EzSXpMVWdGM2wxQ0E4X1Y3d0l2VVBBMnFGR3U1MENzRHl4Wi1UdXJZ?oc=5",
+      "publishedAt": "2026-10-15T23:30:14+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-the-best-pre-match-jerseys-of-the-2026-fifa-world-cup-nss-sports",
       "title": "The Best Pre Match Jerseys of the 2026 国际足联 世界杯 - nss sports",
       "summary": "The Best Pre Match Jerseys of the 2026 国际足联 世界杯  nss sports",
@@ -41,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQYWtLYUt3ZzMxQzR6dFdkUmIxQzAxYUJhMHUxVG1VSkdic3dCUHhqOHhXd3BENUdXekljMlFPbHJVZG1qVHowQ1dOSzdsUHdlSkF0T0hIek9tLV8zWTB6WjVZTXBFcUZ2YU1PQkx4TDhybTNBS3BONGhuS2NWamdjVmtaUFc?oc=5",
       "publishedAt": "2026-10-15T22:49:24+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-world-cup-2026-new-fifa-and-ifab-rules-explained-nss-sports",
+      "title": "世界杯 2026: New 国际足联 and IFAB Rules Explained - nss sports",
+      "summary": "世界杯 2026: New 国际足联 and IFAB Rules Explained  nss sports",
+      "originalTitle": "World Cup 2026: New FIFA and IFAB Rules Explained - nss sports",
+      "originalSummary": "World Cup 2026: New FIFA and IFAB Rules Explained  nss sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUHY3OEdsMk1zeUx1UDdrRWU4dy1fdzVDeUpwNERZblZqd3kwUmhLQnRXdUZPZWFqTWFhQkNxaXhmdm43em82dmx3RVk3ZU9mZnM1NXRoZWtzTkZySmZqZUxZUEh5TmNjRDc1a0hyY3BaM050c0xtc0ViemNXVHZCbnpQY2tSUmM?oc=5",
+      "publishedAt": "2026-10-15T22:40:32+00:00",
       "heat": 60
     },
     {
@@ -114,114 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQUGlZeWYxMnZ4Z0cyTGprSlJsWllILV90MEZ6TlNkbVlGQURKNzZKLW55ZUVsbDAwZkQ4NnpCaUQwSkdOaVZteWFjS2xJZ0tBalRYQWpoN0hBa3Q3Tk1QUEZYdmtuN1g1WGRyaXZweXB1UlhGWDJhdTVTRnNPdlc5TjEtTVBRZElGUnNHRkc1Q1NnX3hHaVd0Z2ZFN0owU0I0Y0N5eTlvdFhKaVpWLUJQclZ0TEtraEFCU2dMdU9TOFFUdVpwWUl2bzAzZUIwVF9l?oc=5",
       "publishedAt": "2026-10-15T20:19:03+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-summon-kofi-adams-gta-boss-over-2026-world-cup-visa-scandal-npp-tells-parliament-modern-ghana",
-      "title": "Summon Kofi Adams, GTA boss over 2026 世界杯 visa scandal — NPP tells Parliament - Modern Ghana",
-      "summary": "Summon Kofi Adams, GTA boss over 2026 世界杯 visa scandal — NPP tells Parliament  Modern Ghana",
-      "originalTitle": "Summon Kofi Adams, GTA boss over 2026 World Cup visa scandal — NPP tells Parliament - Modern Ghana",
-      "originalSummary": "Summon Kofi Adams, GTA boss over 2026 World Cup visa scandal — NPP tells Parliament  Modern Ghana",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOVXcyRjNZWmQ3TnlkUk1keTBMSTl4X1NURE9lLUFzQkVkMjVhcEFlR0hJU2libnFPRl93cmNlM1lPN3hpSFE0VWJWSE9aXzZ1TzdmYWxmVHlmQlg2Umc0SVZXRWZDRmRmdDYzdG1BOXowUlp4NHJSbFBELXlVUWhCTDhOTV9lSFl3V2w4TmJXUlZQM1ZnYmFj0gGWAUFVX3lxTE00RENrVV9Sc2xOb201T3NJdnRXV3lPcUpBSWs0dGtFV0pJNkhkelFuNnF2SVVIUmxNWHRqNTVMOWdWbEZsWlRNUVhiYnp4eF9Ta0ZvMmxDSFZSYldSY1BpMWxrUEtwcUpTbzhyNXZzbFlub21Bb1kxeHlXekpBZkl2YUxOZFJEbndUaEpfd3VkZ2lpdXlIdw?oc=5",
-      "publishedAt": "2026-10-15T20:08:25+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ekow-assafuah-petitions-osp-to-probe-alleged-world-cup-visa-facilitation-irregularities-modern-ghana",
-      "title": "Ekow Assafuah petitions OSP to probe alleged 世界杯 visa facilitation irregularities - Modern Ghana",
-      "summary": "Ekow Assafuah petitions OSP to probe alleged 世界杯 visa facilitation irregularities  Modern Ghana",
-      "originalTitle": "Ekow Assafuah petitions OSP to probe alleged World Cup visa facilitation irregularities - Modern Ghana",
-      "originalSummary": "Ekow Assafuah petitions OSP to probe alleged World Cup visa facilitation irregularities  Modern Ghana",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOYXppMTItaVVURmRfdUFjazl5ZXo5NloydDY1aXY5andOb0pyblh4VzUycW9ZWWJpTUo0TUpYT2lTOFBZUjRZajFfeXkxTVdRQXR6Y2xzbUFRV1BJSVpRYXZDV1ZReFNneWJQZnY2QmE2Q2JTWHp2NHhkRWdTX3NPQ2c5RzlzV0xxaFhIbzNzaGw2R0N6blhYeTQ1WUXSAZsBQVVfeXFMTXlFLUwtYmVxdnRMZ2Q4LWQ5eV80S1ljUi1Ia1pPemdrNWFqUzJpSWpLX3MycC1EWS1xZnRQRGRKMVEySER0X0QyMzIwZGtGWFA2ZFdEemdKNzhTMl9zdk1JajRfR0JXMGQyenlHRkN0VmFjM0psWTI4SHJaT3Z5V3dkQVBOZFRFNF9wOG5GQmxKTlE4ZE9MU2wwVjg?oc=5",
-      "publishedAt": "2026-10-15T20:07:06+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-the-best-world-cup-documentaries-to-watch-before-fifa-world-cup-2026-nss-sports",
-      "title": "The Best 世界杯 Documentaries to Watch Before 国际足联 世界杯 2026 - nss sports",
-      "summary": "The Best 世界杯 Documentaries to Watch Before 国际足联 世界杯 2026  nss sports",
-      "originalTitle": "The Best World Cup Documentaries to Watch Before FIFA World Cup 2026 - nss sports",
-      "originalSummary": "The Best World Cup Documentaries to Watch Before FIFA World Cup 2026  nss sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRGx1MFptcTVlMnNVTG8zMlI4Smd1bXg4ejd2ZGlfRDRLSkc3NjRvY283U3dDLVZBaGdvY2I4VEJQby1FOWR0N05VOGpDcUNleUZnWDZLWGJKZE1JU1EtWXlSY3pnUXpmZ3ZrTUZyR09lcTZGQkFOcjlYTGw1MXFLRi04VVN3YUtBODQtNTEtYXk1UHBYUnJBdjZ0OHB3VHpMbC1r?oc=5",
-      "publishedAt": "2026-10-15T20:01:16+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-the-fifa-world-cup-2026-dictionary-every-word-that-defined-the-tournament-nss-sports",
-      "title": "The 国际足联 世界杯 2026 Dictionary: Every Word That Defined the Tournament - nss sports",
-      "summary": "The 国际足联 世界杯 2026 Dictionary: Every Word That Defined the Tournament  nss sports",
-      "originalTitle": "The FIFA World Cup 2026 Dictionary: Every Word That Defined the Tournament - nss sports",
-      "originalSummary": "The FIFA World Cup 2026 Dictionary: Every Word That Defined the Tournament  nss sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XemVheG9zSGpyWVB5YzY2d1RvUVBpbkQ0TGk0YThnLXRHZWt1MFJSaGVBUHVRUWNmaXl0dlRYaldiM0k0Rk4wNzN1d0laTHlnaHZhbDFmOGtFRnZGY2lMaGlfNnFVOEdtN3ozRjdiR3l6U0ZjRW51WjJVWjNjQjA?oc=5",
-      "publishedAt": "2026-10-15T20:01:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-world-cup-final-tickets-prices-up-to-10-990-nss-sports",
-      "title": "2026 世界杯 Final Tickets: Prices Up to $10,990 - nss sports",
-      "summary": "2026 世界杯 Final Tickets: Prices Up to $10,990  nss sports",
-      "originalTitle": "2026 World Cup Final Tickets: Prices Up to $10,990 - nss sports",
-      "originalSummary": "2026 World Cup Final Tickets: Prices Up to $10,990  nss sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPaE9lcGl4bjJIdlB6UklJOGx2RkhmQ3RPQl84ei1VdExpaEIyejVSUldfaDFBbmVLOGRTcHFvNElzQzA2VTJHMW55VGdla2JUMVhTVEZZN1pwa0VFLWdtMUpja2VSM1FvSmRqZFk5cmktTEdlSHR4YU82MXNiT3h1X2FGb1Bvanc?oc=5",
-      "publishedAt": "2026-10-15T19:28:03+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews",
-      "title": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
-      "summary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
-      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
-      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQTltT2VWcWtZUkV3cHR3OXhJcklQLWFqZVJLUFNlRW5BU2pBQWVGX0NoZDY2QTRXeURkT3RZamNJQW9NWmhKM041dS1ocFJ6VQ?oc=5",
-      "publishedAt": "2026-10-15T19:27:51+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-15T19:15:01+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-live-world-cup-2026-livestreams-jablonec-vs-sc-freiburg-uefa-conference-league-𝐋𝐈𝐕𝐄-free-universidad-de-córd",
-      "title": "LiVe-WORLD-CUP-2026-LIVESTREAMS] Jablonec vs SC Freiburg UEFA Conference League 𝐋𝐈𝐕𝐄 fRee - Universidad de Córdoba (UCO)",
-      "summary": "LiVe-WORLD-CUP-2026-LIVESTREAMS] Jablonec vs SC Freiburg UEFA Conference League 𝐋𝐈𝐕𝐄 fRee  Universidad de Córdoba (UCO)",
-      "originalTitle": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Jablonec vs SC Freiburg UEFA Conference League 𝐋𝐈𝐕𝐄 fRee - Universidad de Córdoba (UCO)",
-      "originalSummary": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Jablonec vs SC Freiburg UEFA Conference League 𝐋𝐈𝐕𝐄 fRee  Universidad de Córdoba (UCO)",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQbmJILV9fS0hGZFBhOHl1YzZrQUhCc0RlOGNjbTZOUl9UWGxNV0tRWTc2TU9nQ2RPNzk2NGpOUVR1dFU2SkhJeW53YjVPcGFRMDVJX1Z2M08zYmQ3cjE2bmxZamRrRVRsZFhSZ0V4VVN2N2Rhd1QwQnZtR3hnNXl2OXptWjlhck1GdU1WdWpTV0dFRVBVbHBOSC1PQm1HZEhaUTdRdTd6WDhaTFQ4MDVKellKdEo0VHc2Q2pYMl9JcjJ3Tk83eWNCOGtoVU00S3VEN0Z2aHhJTDJBaTROT3pBZ09iMWVZa2NQQXJEQ1ZQWF92N1lraWRwRG5za1JVcV9CelhGVHNKLUxKZ2l6ZEw2R1NvQXJWbkpCUGREUnRJblhDbF9aMnNHU201a2l4WjQ2UHlsSUQwQW1lMmtLbnVuRFlSbzFWeEpvRnZwZVljRnNtSzZ0RU43ekdFU2xBY0ZVY1E4V3FVMy1pTTZ3OG11YmdGUkMwRkREZXFSdVZ5TQ?oc=5",
-      "publishedAt": "2026-10-15T19:12:22+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-changes-the-rules-after-the-folarin-balogun-scandal-at-the-2026-world-cup-bein-sports",
-      "title": "国际足联 Changes the Rules After the Folarin Balogun Scandal at the 2026 世界杯 - beIN SPORTS",
-      "summary": "国际足联 Changes the Rules After the Folarin Balogun Scandal at the 2026 世界杯  beIN SPORTS",
-      "originalTitle": "FIFA Changes the Rules After the Folarin Balogun Scandal at the 2026 World Cup - beIN SPORTS",
-      "originalSummary": "FIFA Changes the Rules After the Folarin Balogun Scandal at the 2026 World Cup  beIN SPORTS",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNWm80TjNDaGZVQ3JuTUFQTkM5UWxOdXZNdDZXZ0xMNm03WFVrYWpoWlhoTEZlSDdxRlBXNzFXbmM4UWFCV2xDV011YTZMamZkV250V1ptVkVucTM4d3Npdkd2dTVNTWltdFplUm1vZDdnd3hCZURSYlNrVFVOaWwxY0pELTZhRVJVWk1wbFlSbnB4YWJpazBROEE4Q1I0MXlCbVNBUE9OR1ZtZ1R2eTQ5TDFrYnh6N2VOUGdxWWxzS1V1TUpSX2UwZmx6VUxsV2tUdmc1b1BDUXY4RjRjb1V1MUliTmVuMmx3a2RxMDVtTQ?oc=5",
-      "publishedAt": "2026-10-15T19:00:11+00:00",
-      "heat": 60
     }
   ]
 }
