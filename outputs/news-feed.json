@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T21:38:50.025045+00:00",
+  "updatedAt": "2026-10-17T23:53:19.295430+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-world-cup-new-mexico-vs-hawaii-live-streams-on-tv-channel-18-october-universidad-de-córdoba-uco",
+      "title": "⚡️2026 年世界杯：新墨西哥 VS 夏威夷 10 月 18 日电视频道直播 - 科尔多瓦大学 (UCO)",
+      "summary": "⚡️2026 年世界杯：新墨西哥 VS 夏威夷 电视频道直播 10 月 18 日科尔多瓦大学 (UCO)",
+      "originalTitle": "⚡️2026 World Cup: New Mexico VS Hawaii LIVE STreams On TV Channel 18 October - Universidad de Córdoba (UCO)",
+      "originalSummary": "⚡️2026 World Cup: New Mexico VS Hawaii LIVE STreams On TV Channel 18 October  Universidad de Córdoba (UCO)",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPTmJkNEJUbTZ1QU9rUnFDZlFORE5iMEppcWkxbVVfTVhoeU9ueU1NLUpMU2JTemZmbVRfVjJtNWFxOUthU2x0dmtNek1qN3lpR0VMeldOOXFoWlQ5MUtXWEZOMkozeGFiNFpxelV4RHFBMmlsQnNYX3hrczlNZWFrMGN2bEdTX2diTkxkdk5DUFgzTWVHR1JaRVNpcjd3YnU1TWtnMGNuQjJybHZMQUxtSXZHZ1FQN0RTaW1OcVo2MlM2Ykd5TXhrSE1tVEhGMHNIV3BjMTRDZnc3alB4ZGZEU183dGZOZE1hbjFmMDR5blZrTVJJb3k3RkJKV0p5UGFkM1N2cEEzNm1SamhNak1JaVlTT1VHUXVsTE1FeXNDSEtEYWtFMTBoWW1iUG8?oc=5",
+      "publishedAt": "2026-10-17T22:14:40+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-canada-vs-brazil-live-score-october-18-2026-fox-sports",
+      "title": "加拿大 vs. 巴西 - 实时比分 - 2026 年 10 月 18 日 - 福克斯体育",
+      "summary": "加拿大 vs. 巴西 - 实时比分 - 2026 年 10 月 18 日 福克斯体育",
+      "originalTitle": "Canada vs. Brazil - Live Score - October 18, 2026 - FOX Sports",
+      "originalSummary": "Canada vs. Brazil - Live Score - October 18, 2026  FOX Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXppTG15M3RNUGdCajlJbzdCTVFEU2xIUldXQUJaT3BxYzdIN09NWDBvblBzNnNwSTlHRnV6Vkl0V09YUjl0a052cEFrU051cktBdzA4bDBGTnBNLVlaVlMtcUxZeVVZbTRILW82d2RxRHpSYW05MFFFaXViYld0Q3dxZkZEVk9rWEt1aV9IQnNlUzlfanFoWmxZbG5XYkJuMW1wenpUMzlfb0xG?oc=5",
+      "publishedAt": "2026-10-17T22:11:21+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-u17-women-s-world-cup-2026-nigeria-s-flamingos-lose-opening-match-vs-poland-blueprint-newspapers",
+      "title": "2026 年 FIFA U17 女足世界杯：尼日利亚火烈鸟队在揭幕战中输给波兰队 - Blueprint Newspapers",
+      "summary": "2026 年 FIFA U17 女足世界杯：尼日利亚火烈鸟队在揭幕战中输给波兰队 Blueprint Newspapers",
+      "originalTitle": "FIFA U17 Women’s World Cup 2026: Nigeria’s Flamingos lose opening match vs Poland - Blueprint Newspapers",
+      "originalSummary": "FIFA U17 Women’s World Cup 2026: Nigeria’s Flamingos lose opening match vs Poland  Blueprint Newspapers",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa3dSUGFLRkI5SVJESWNScnNvQUlBVm1rci1IRWF2NVUtOUJDUXMyWDFwVThwaXBwdk1KQ0lYZDVKWnBHYTltTWNXMFhHWGRQaFVGVjRva3NCS0VRSTlpdHZPRTdkQ0hGdnI1RVhfNTVsQ2l5NkVDMTJUeG1yYmlMdEkyNHhtWDk1NVhFWk04eHBHOWtycWdVTTZtWGRDdHhLSHc?oc=5",
+      "publishedAt": "2026-10-17T21:32:04+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-单场射正-uefa-nations-league-c2026-2027的albania数据-fotmob",
+      "title": "单场射正 — UEFA Nations League C2026/2027的Albania数据 - FotMob",
+      "summary": "单场射正 — UEFA Nations League C2026/2027的Albania数据  FotMob",
+      "originalTitle": "单场射正 — UEFA Nations League C2026/2027的Albania数据 - FotMob",
+      "originalSummary": "单场射正 — UEFA Nations League C2026/2027的Albania数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQazJIOFZCMHdvNkY0Y1RxMUpzMjRwUGN5Ymlhd1o2aWs0WnljYkVBeXAtbE5TN2psZjkyU01JdG9fdWctbllYdm5ENEN6NnBGSmFPMHg0bVZYNzFBTmozNlpPRVhmaFB2bkNCa3o1YWJZME84dmFlMXp2RzR3NVZyYjI4b2I5U3VfRjFHRzNFSXhwR1FURGstMkFyVUxJUGwyd0R1M3k1RENQeXBFNW1YNHNYZzRmeVZtWHk2NmFB?oc=5",
+      "publishedAt": "2026-10-17T21:19:26+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-gianni-infantino-under-fire-again-as-fifa-insiders-reveal-new-details-of-usmnt-s-folarin-balogun-red-card-s-",
       "title": "国际足联内部人士透露美国国家队福拉林·巴洛贡红牌事件的新细节，詹尼·因凡蒂诺再次受到批评 - 世界足球谈话",
@@ -17,6 +65,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSFlvbnBkLVhYaHRhWHplQWZ3ckdxWDhtb3pHWU9nNDdkcjVlb1FwcjJaLU5CTFZlWEpGbFRSVXZWdjk4OGNVOUdYVEQ5cm9JQWYzMXo2SXhuYXYySm1KYmNreUJWd2Fsc3B5LV9TOWV0dlRnVHhyNFkxYktlVjV2QUJudDEyQkktUThNcWh2RHRyTHZmaUxXelBacFdyUE1FUnRJVDZDUDZKSUNjb3l2LWl3bzRELWpjWVpYdlI3R1FHT1h0cERqV19tazNOU2FjclR1Z3M5UlhRMU1nTi1fcHkzdWhobzBzYVk2STEwU1A3ZUHSAfcBQVVfeXFMTzNVRDRiTl9PUGozYVMxWmwwcWN3aGlXWFR6UkNXQ3RCMzFqNHZOZ19teU5zUnF5LUZpNkFhSWF1WGZjMDFENHVMcnM5ci16YWNmLWNSNDQxMVlaTjFaQjVkWGZmMjlaTnNQekFFTVhOcF9mclFJdFNCQXpYdXBqd0xOX2FxR1M3MnZSZGJzdDJQSkRVcUJBSWxMdFp5WUtGREs1Y1J0b2FFWnk2M3MwN3JoZmVLTXdtX3J2Vl9qSDlabEhwcC1taThhN1ctS1RhWlN6RWlsMDFlREhocUx4Mi1lS3RXcE0tY1VvbnZzamlBejJlLUNXdw?oc=5",
       "publishedAt": "2026-10-17T21:07:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-17T21:06:02+00:00",
       "heat": 52
     },
     {
@@ -32,6 +92,18 @@
       "heat": 52
     },
     {
+      "id": "google-新闻-中文-场均犯规-saudi-pro-league2026-2027的al-hilal数据-fotmob",
+      "title": "场均犯规 — Saudi Pro League2026/2027的Al Hilal数据 - FotMob",
+      "summary": "场均犯规 — Saudi Pro League2026/2027的Al Hilal数据  FotMob",
+      "originalTitle": "场均犯规 — Saudi Pro League2026/2027的Al Hilal数据 - FotMob",
+      "originalSummary": "场均犯规 — Saudi Pro League2026/2027的Al Hilal数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPeVZiWDFDbXNCYmFmWW5Fb2FZRHp2MmQ5SzlyQ2dFNVFqQjZSRHJXYzg4aHpibUh5YlhkY2wxcjFhOGNLT1NFQjRTZk5ZeFpfeVRxRGcxclBWTlNEYV9LMzJfUWkxbDdmMkJuY3VFaTZlSkZIcGZtRFFLUm11M1NZakxsVU93am9xVG01eVhTUkFObjVtZDJobjQ4NVZNQXI4UVNwal9BU1paQndMMVhERnBaZUM3RnJfX1VCTUFPSmw2b3pOc2VhQw?oc=5",
+      "publishedAt": "2026-10-17T20:46:23+00:00",
+      "heat": 44
+    },
+    {
       "id": "google-news-fifa-report-reveals-scale-of-homophobia-at-2026-world-cup-your-ex",
       "title": "FIFA 报告揭示了 2026 年世界杯上恐同症的严重程度 - YOUR EX",
       "summary": "FIFA 报告揭示了 2026 年世界杯上恐同症的严重程度",
@@ -42,6 +114,18 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekN2bDVjdkU4alhIVXp5X3VBbVhPZzBzcVV2R0doQ2JwczVhdjFMY2dEOTJJR0p3Z1hmdzZEOXV5UzdkLUdpLUdZS2lUV0FrS3VPWUdtbnRoZTJLQ0NrbkszNXRERXpHdDdLVF9hX1RoM3lOVGR3UWJJZVAtWlhJQXRNS29hdUh6NHhhZ2dxLWQwV3BqLVE?oc=5",
       "publishedAt": "2026-10-17T20:15:46+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-poland-2-1-nigeria-umejiaku-on-target-as-flamingos-begin-world-cup-campaign-with-defeat-allnigeriasoccer",
+      "title": "波兰2-1尼日利亚：乌梅贾库射门，火烈鸟队以失利开启世界杯之旅",
+      "summary": "波兰 2-1 尼日利亚：乌梅贾库射门，火烈鸟队以失败告终世界杯征程",
+      "originalTitle": "Poland 2-1 Nigeria: Umejiaku on target as Flamingos begin World Cup campaign with defeat - AllNigeriaSoccer",
+      "originalSummary": "Poland 2-1 Nigeria: Umejiaku on target as Flamingos begin World Cup campaign with defeat  AllNigeriaSoccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbVVzU3ZBVWprSWMwcUNMd3VBbjMtdWtEQk5hdHk1NTdwNHFhTTIyQTYwNjZVREZILWU4OEVLRC1YUVdkTFNuOFB0V2Jid0lDY2w0bzN6TmhMaEZpUGtCNHFNYzlUZmhBNUk5UHU5d2hzOVVxZ3dZakFfR2ptMGdDeW81R1F1eDdmSXVBd0t5dlp0eUVXa2R0Q0pJSm1yWkJWbkdMVUotZ284ejRnOWREV0FwOE5XcE9CbFhtcQ?oc=5",
+      "publishedAt": "2026-10-17T20:12:28+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-top-10-ballon-d-or-2026-favorites-who-will-win-n-o5rqnpfahl-unisba-media",
@@ -56,18 +140,6 @@
       "heat": 44
     },
     {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-17T19:16:22+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-after-100-days-has-barcelona-absolved-the-world-cup-referee-of-the-injustice-against-egypt-in-the-match-with",
       "title": "100天后：巴萨在与阿根廷的比赛中赦免了世界杯裁判对埃及的不公吗？ - 够球网",
       "summary": "100天后：巴萨在与阿根廷的比赛中赦免了世界杯裁判对埃及的不公吗？  够门网",
@@ -80,16 +152,40 @@
       "heat": 52
     },
     {
-      "id": "google-news-morocco-u-15-team-to-compete-in-2026-world-cup-in-azerbaijan-morocco-world-news",
-      "title": "摩洛哥 U-15 队将参加 2026 年阿塞拜疆世界杯 - 摩洛哥世界新闻",
-      "summary": "摩洛哥 U-15 队将参加 2026 年阿塞拜疆世界杯 摩洛哥世界新闻",
-      "originalTitle": "Morocco U-15 Team to Compete in 2026 World Cup in Azerbaijan - Morocco World News",
-      "originalSummary": "Morocco U-15 Team to Compete in 2026 World Cup in Azerbaijan  Morocco World News",
+      "id": "google-新闻-中文-阻止进球-bundesliga2026-2027的salzburg数据-fotmob",
+      "title": "阻止进球 — Bundesliga2026/2027的Salzburg数据 - FotMob",
+      "summary": "阻止进球 — Bundesliga2026/2027的Salzburg数据  FotMob",
+      "originalTitle": "阻止进球 — Bundesliga2026/2027的Salzburg数据 - FotMob",
+      "originalSummary": "阻止进球 — Bundesliga2026/2027的Salzburg数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUVpsNjJqOEloRm8zZmFyZTZMbHQza2xLaVNCSjQzQUp5X194SGpCaHFEM1dLMXo4VkVhN0Q0YXNIcTNFRE5aUVNsMDdHSDN3eHJEUm9UN3NmNHlLWEdUcTVMVEZHMHBKekxlSmpRVEVzNVpEbWxMb1BWZk9aSGlzX0VhQnczOGJlR2ZKNGY1M2VfYVJwLXF4VlVFUGhoUnBib1lkdjF4MA?oc=5",
+      "publishedAt": "2026-10-17T18:11:56+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-the-top-goalscorers-for-club-country-in-2026-so-far-kane-yamal-mbappe-raphinha-planet-football",
+      "title": "2026 年迄今为止俱乐部和国家队的最佳射手：凯恩、亚马尔、姆巴佩、拉芬哈…… - 星球足球",
+      "summary": "2026 年迄今为止俱乐部和国家队的最佳射手：凯恩、亚马尔、姆巴佩、拉芬哈……《星球足球》",
+      "originalTitle": "The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha… - Planet Football",
+      "originalSummary": "The top goalscorers for club & country in 2026 so far: Kane, Yamal, Mbappe, Raphinha…  Planet Football",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUw5S01vUG5QaFZXa0RldzJaQXhxSnhkNGlJcENiN0JELUtrWkZSR2JzV3czcEt5S2ZuQXFPeXRCMGdCMm9hcTVmR3lObEtITnVnbWo4V1dlckRpeW9icFZkdkdhYjZHY0VlNW04NjJkWHpjWC1LVml5QkNsaWI4a0N6ZHhMQnhLNEJjaDRZOEpWbHFkRUUxaW1kYWc5NXpYS2pTOWtsZENOMlp6VEE?oc=5",
-      "publishedAt": "2026-10-17T17:44:06+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOU21tdGdlMDZRVjdPQUxBRDRTT21lNGRxUnk0eUFhc0I3M1RXQUdzSll6RUNJTzFXYkU1bnQ2dFhtdXFaeUdyMFJQbHZjRmZ6aHkzZDJ0ZVp4S0ZBYjU0LUdnUEg4S2xFenFKQTBVN29ZNHMzTGUySjk4MG9SejNiRmJ1aUN6YThpeHFxb3Bn?oc=5",
+      "publishedAt": "2026-10-17T18:06:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-us-defeats-australia-2-0-in-2nd-world-cup-win-securing-spot-in-knockout-round-abc-news-breaking-news-latest-",
+      "title": "美国队 2-0 击败澳大利亚队，第二次夺得世界杯冠军，锁定淘汰赛席位 - ABC News - 突发新闻、最新新闻和视频",
+      "summary": "美国队 2-0 击败澳大利亚队，第二次夺得世界杯冠军，锁定淘汰赛席位 ABC News - 突发新闻、最新新闻和视频",
+      "originalTitle": "US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round - ABC News - Breaking News, Latest News and Videos",
+      "originalSummary": "US defeats Australia 2-0 in 2nd World Cup win, securing spot in knockout round  ABC News - Breaking News, Latest News and Videos",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSXBTR1FFbWpiY0NHdTVrbUJWMThud1VCeUdjdUxxMkNya3FSWFR3eVZ5VzhxQzh3dENoclVqRGZBRVgwU01OcS1CNEJPeF95cXhocWN4c25VX2Vya3RvemNxWUh3cE1Fay1tMDdJS3ZtYzhOa0Q2d202b1ZhaFZnOGJkdkUxWXFsM1FidnVVTHBMNzjSAZgBQVVfeXFMT3owMXU3ejVNb3AxWkItVllZMkZJNDZUdGhMT1YtcGt1WlVrcDJnQkZ0bzN1T3N5WkppLXdPVXpvazN1NUE1ZnoyenRka0lZT0szQ00za1FsZ1FJWDdZS1owU2JuVkR1SnRrWjFmNlV6SHJSeXFDcV9GcmMtUVlaLVlTdXU4NVotdThxNzd1UGV3bG4xYjBpYXk?oc=5",
+      "publishedAt": "2026-10-17T18:02:53+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-poland-vs-nigeria-live-blogging-2026-fifa-u-17-women-s-world-cup-group-a-matchday-1-complete-sports",
@@ -126,102 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVpIejlxQmliMjFVSi1fbC1zWmpTTU1EUnE0WThyU2tNTHBEV0ExS1g4em14RExVNlo3Y05LcnpSdmFTOGNZU1hCUzMwVnNRdWR2MFVqS0s3b0tlWFgwQWljdHZRdjJob3R6QTl2ekZLakxDdkUyUnRnQjNibFl5WHJsWVM2R01XZHhzYVJXZVVHN1pVcktTQ0ZjVlllRF8yUURWLUFud1A?oc=5",
       "publishedAt": "2026-10-17T15:16:11+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-fifa-president-infantino-visits-morocco-for-u-17-women-s-world-cup-kickoff-hespress-english-morocco-news",
-      "title": "国际足联主席因凡蒂诺访问摩洛哥参加 U-17 女足世界杯开球 - HESPRESS 中文 - 摩洛哥新闻",
-      "summary": "国际足联主席因凡蒂诺访问摩洛哥参加 U-17 女子世界杯开球 HESPRESS 中文 - 摩洛哥新闻",
-      "originalTitle": "FIFA President Infantino visits Morocco for U-17 Women’s World Cup kickoff - HESPRESS English - Morocco News",
-      "originalSummary": "FIFA President Infantino visits Morocco for U-17 Women’s World Cup kickoff  HESPRESS English - Morocco News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXExZWRIeVc4T0o1RVZTMFpXRGJMdlczOGZhN1RvMDJiejROYmlwb1JUSGFUQ3FNbjQyVHRHaS1MZDdtbGo0WmR6Y2RSY1lNWUhrR0ZaMjZ6RFBiUnVzamx4RlNnXzhjdDV2djVnaDFnYVUzRkNPc3RxWGVUc3pmOFlibWRudGswMVRpT3d0REY0d2dOVVRYZ3lSWW5ZMWt1Uk5wQ2U0WG8yYjlwN0E?oc=5",
-      "publishedAt": "2026-10-17T15:10:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-3-embarrassing-questions-fifa-amends-its-regulations-after-the-2026-world-cup-crisis-goal-com",
-      "title": "3个尴尬问题：2026年世界杯危机后国际足联修改规则 Goal.com",
-      "summary": "3 个尴尬问题：2026 年世界杯危机后国际足联修改规定 Goal.com",
-      "originalTitle": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis - Goal.com",
-      "originalSummary": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9zVWY2VnczQ3JGZmo5ai1GOGRvNVpMbV9HWHVCc1hMVmZQRDRiMUZlbWZfZXNNMm9Oalh3VnhQQV9HRFhSQklPU00wN05na2NXVFI2bjZRei1QSEF1VHhnM2pwUFZ1Q3gxenhLSnpwRE5RS0lwNkN0VHA0dTVVNVlQbnFIUmNDRDRRMkp0OFYyeGlfMUlLM1NXWjNfdUJtWEx3T2pocW1BOGNuejBpUklNMzRZTmExcjRfUUpDM3NENDJtV2FJNl9kSGxuQQ?oc=5",
-      "publishedAt": "2026-10-17T14:51:38+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-fifa-u-17-women-s-world-cup-flamingos-begin-campaign-against-poland-today-the-guardian-nigeria-news",
-      "title": "2026 年 FIFA U-17 女子世界杯：火烈鸟今天开始对阵波兰 - 尼日利亚卫报新闻",
-      "summary": "2026 年 FIFA U-17 女子世界杯：火烈鸟今天开始对阵波兰 尼日利亚卫报新闻",
-      "originalTitle": "2026 FIFA U-17 Women’s World Cup: Flamingos begin campaign against Poland today - The Guardian Nigeria News",
-      "originalSummary": "2026 FIFA U-17 Women’s World Cup: Flamingos begin campaign against Poland today  The Guardian Nigeria News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQVYwZzh6ZENlNlpKZ3lmR3dyaElXc3ROUDFpTXdldUpRZm41MDNaamFlbkstbWV3LUFNNlJVS1NadU40ZzIxSWdVdmpITGhidE5FeEN0S2NRUVFvam43SUNUMVdCZFFjdEdMNGZkUkVBNmhSZV82THhyRGcwVndaU0NWaU5nUnNtcG5oeUxpWEZ2R0pLa2FPbld3Mm5waVdxQ3RzVXdzb0VlNUQteTdXR29qaw?oc=5",
-      "publishedAt": "2026-10-17T14:50:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-央视证实-伊朗尚未确定是否参加世界杯-fifa已准备让伊拉克递补-企鹅体育",
-      "title": "央视证实！伊朗尚未确定是否参加世界杯，FIFA已准备让伊拉克递补 - 企鹅体育",
-      "summary": "央视证实！伊朗尚未确定是否参加世界杯，FIFA已准备让伊拉克递补  企鹅体育",
-      "originalTitle": "央视证实！伊朗尚未确定是否参加世界杯，FIFA已准备让伊拉克递补 - 企鹅体育",
-      "originalSummary": "央视证实！伊朗尚未确定是否参加世界杯，FIFA已准备让伊拉克递补  企鹅体育",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9lZkR3MUtkSWNwTWVjM2ZHRlpnQy0wZEhWQzVYRmEzbFZDZlVUU055eXZBUnFXNlRueTd3ZU1mWXZsUEl4bFlnX1FwMTVmam1XZTJpcW5rTUpId1daWmdzcmNzZw?oc=5",
-      "publishedAt": "2026-10-17T14:40:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-watch-argentina-vs-egypt-tod",
-      "title": "观看阿根廷 vs 埃及 - TOD",
-      "summary": "观看阿根廷 vs 埃及 TOD",
-      "originalTitle": "Watch Argentina vs Egypt - TOD",
-      "originalSummary": "Watch Argentina vs Egypt  TOD",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnhiUkJZNnl2YWl6T2VkSy0wWVp3cHhfdVhuemF5RHBjbDZZdUhIem5RdklpMTJsaXdyUXRTVHQ3dm03WVVXLThnSDY4ZlF0NHBjemdKczVDMFRnR3lnWUZtb19ObDZkdFhVS3NuSlRVNDhJV3U1YVdkNkUyS3U1dDJNNTR4eWZ3VjJjS3AxWmRfdzRN?oc=5",
-      "publishedAt": "2026-10-17T14:33:15+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-we-campaigned-for-ndc-yet-you-denied-us-world-cup-visas-tv-presenter-to-kofi-adams-ghanaweb",
-      "title": "“我们为 NDC 竞选，但你们却拒绝了我们的世界杯签证”——电视节目主持人科菲·亚当斯 (Kofi Adams) - GhanaWeb",
-      "summary": "“我们为 NDC 竞选，但你们却拒绝了我们的世界杯签证”——电视节目主持人科菲·亚当斯 (Kofi Adams) GhanaWeb",
-      "originalTitle": "‘We campaigned for NDC, yet you denied us World Cup visas’ – TV presenter to Kofi Adams - GhanaWeb",
-      "originalSummary": "‘We campaigned for NDC, yet you denied us World Cup visas’ – TV presenter to Kofi Adams  GhanaWeb",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTBkaWY0cGgtRThuSHF2ajNLNjliU0YwNEVvZGpuZ2NoMVU2ejQzTEFmNWdlRTJPQURmQVNjVkpvb3dGSl9Qa0xZOTJJQ3RudjVSZ3cxVzNHSHZLVkxXbDV6TDRNQUNwSTUxZEF0TS12NWdoMGw4cDlzUGhrbFlsaV9CNTVYUjVxUkdjRzg3NHRuRS1ONkI3QmZfTjdkbE8yM3h0dHJjY29qenR1SHFhaE54VzVRQWw2OEozQ252Q1JGbWJ4T2hPanpEMGpzTjFRMEtPdmJiLUNVaFk?oc=5",
-      "publishedAt": "2026-10-17T13:54:35+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-infantino-morocco-s-u-17-women-s-world-cup-brings-the-world-together-morocco-world-news",
-      "title": "因凡蒂诺：摩洛哥U-17女足世界杯“让世界团结在一起” - 摩洛哥世界新闻",
-      "summary": "因凡蒂诺：摩洛哥 U-17 女子世界杯“让世界团结在一起” 摩洛哥世界新闻",
-      "originalTitle": "Infantino: Morocco’s U-17 Women’s World Cup ‘Brings the World Together’ - Morocco World News",
-      "originalSummary": "Infantino: Morocco’s U-17 Women’s World Cup ‘Brings the World Together’  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUDRLVFlsMDA4WUtlTVhpMnN0WWhDT0NQRjBCbXRFbmIxQTFCNmZzaFVpY1FaVEpTS0RKMFQxalBNaDZGbVhrRjhUYTFlNVpTQWd1YUR4Z3pYMzZZYkp2dFJGeXhHRU5ocmVWWVdoQWZ5cEszVkQ0VXFuanVsemFXbnpiaXJMWWVtQWpOclhkZktsSENoYnNHbHctWS05UHd2LVdSTUdyYmhzRVA3aExNcXVYcVpLZw?oc=5",
-      "publishedAt": "2026-10-17T13:22:01+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-college-football-week-7-announcer-schedule-pairings-for-2026-season-the-big-lead",
-      "title": "大学橄榄球第 7 周播音员时间表和 2026 赛季配对 - 大领先",
-      "summary": "大学橄榄球第 7 周播音员时间表和 2026 年赛季配对",
-      "originalTitle": "College football Week 7 announcer schedule & pairings for 2026 season - The Big Lead",
-      "originalSummary": "College football Week 7 announcer schedule & pairings for 2026 season  The Big Lead",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaUJzU25HNlFCck5YTjlVMUhyWS1zSDI3R0V2Vm5iQkpTYlFXbzdJYlVUVDJ6cHV6Y3MxVFgwMVo1UHdmdU91Rjl1RnlCaFZKaTdvdmdNbHo4alZqUkhOaWVKdW1TcC1BdURyc0l4ZUlqb1puSlQ2LWcwTC1IcUtTMDJqNGtKZWlGRWszUzlmTVNWUzc4UFE?oc=5",
-      "publishedAt": "2026-10-17T12:01:18+00:00",
-      "heat": 44
     }
   ]
 }
