@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-17T19:08:22.471413+00:00",
+  "updatedAt": "2026-10-17T21:38:50.025045+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,90 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-gianni-infantino-under-fire-again-as-fifa-insiders-reveal-new-details-of-usmnt-s-folarin-balogun-red-card-s-",
+      "title": "国际足联内部人士透露美国国家队福拉林·巴洛贡红牌事件的新细节，詹尼·因凡蒂诺再次受到批评 - 世界足球谈话",
+      "summary": "国际足联内部人士透露美国国家队福拉林·巴洛贡红牌的新细节，贾尼·因凡蒂诺再次受到批评……世界足球谈话",
+      "originalTitle": "Gianni Infantino under Fire again as FIFA insiders reveal new details of USMNT’s Folarin Balogun red card s... - World Soccer Talk",
+      "originalSummary": "Gianni Infantino under Fire again as FIFA insiders reveal new details of USMNT’s Folarin Balogun red card s...  World Soccer Talk",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNSFlvbnBkLVhYaHRhWHplQWZ3ckdxWDhtb3pHWU9nNDdkcjVlb1FwcjJaLU5CTFZlWEpGbFRSVXZWdjk4OGNVOUdYVEQ5cm9JQWYzMXo2SXhuYXYySm1KYmNreUJWd2Fsc3B5LV9TOWV0dlRnVHhyNFkxYktlVjV2QUJudDEyQkktUThNcWh2RHRyTHZmaUxXelBacFdyUE1FUnRJVDZDUDZKSUNjb3l2LWl3bzRELWpjWVpYdlI3R1FHT1h0cERqV19tazNOU2FjclR1Z3M5UlhRMU1nTi1fcHkzdWhobzBzYVk2STEwU1A3ZUHSAfcBQVVfeXFMTzNVRDRiTl9PUGozYVMxWmwwcWN3aGlXWFR6UkNXQ3RCMzFqNHZOZ19teU5zUnF5LUZpNkFhSWF1WGZjMDFENHVMcnM5ci16YWNmLWNSNDQxMVlaTjFaQjVkWGZmMjlaTnNQekFFTVhOcF9mclFJdFNCQXpYdXBqd0xOX2FxR1M3MnZSZGJzdDJQSkRVcUJBSWxMdFp5WUtGREs1Y1J0b2FFWnk2M3MwN3JoZmVLTXdtX3J2Vl9qSDlabEhwcC1taThhN1ctS1RhWlN6RWlsMDFlREhocUx4Mi1lS3RXcE0tY1VvbnZzamlBejJlLUNXdw?oc=5",
+      "publishedAt": "2026-10-17T21:07:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-epl-flamingos-stumble-against-poland-in-u-17-women-s-world-cup-opener-pm-news-nigeria",
+      "title": "英超：火烈鸟队在 U-17 女足世界杯揭幕战中惨遭波兰队 - 尼日利亚总理新闻",
+      "summary": "EPL：火烈鸟队在 U-17 女子世界杯揭幕战中惨败给波兰队 尼日利亚总理新闻",
+      "originalTitle": "EPL: Flamingos stumble against Poland in U-17 Women’s World Cup opener - PM News Nigeria",
+      "originalSummary": "EPL: Flamingos stumble against Poland in U-17 Women’s World Cup opener  PM News Nigeria",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVY1UFByVzQ1Qnd2NzkzQUJuQTRXaWNQTmR3UGlCTnV5T19BRkNTdC1SS3A3djRnUGM2MVZGajhfNXJDTmVVOFZQRFM4RF96MVV3UWVZYUMxV3U1RE1ib2xWdTNka2JhOUJUYXJ6VHlWZkFmOTRyb0lMcEhXR1l4OGtUeWd0eDRBYU5xXzVoTVhWVjlrZlVsSi1yYUwxM2I3c21DeE5XSHlWUQ?oc=5",
+      "publishedAt": "2026-10-17T20:49:40+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-report-reveals-scale-of-homophobia-at-2026-world-cup-your-ex",
+      "title": "FIFA 报告揭示了 2026 年世界杯上恐同症的严重程度 - YOUR EX",
+      "summary": "FIFA 报告揭示了 2026 年世界杯上恐同症的严重程度",
+      "originalTitle": "FIFA Report Reveals Scale Of Homophobia At 2026 World Cup - YOUR EX",
+      "originalSummary": "FIFA Report Reveals Scale Of Homophobia At 2026 World Cup  YOUR EX",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPekN2bDVjdkU4alhIVXp5X3VBbVhPZzBzcVV2R0doQ2JwczVhdjFMY2dEOTJJR0p3Z1hmdzZEOXV5UzdkLUdpLUdZS2lUV0FrS3VPWUdtbnRoZTJLQ0NrbkszNXRERXpHdDdLVF9hX1RoM3lOVGR3UWJJZVAtWlhJQXRNS29hdUh6NHhhZ2dxLWQwV3BqLVE?oc=5",
+      "publishedAt": "2026-10-17T20:15:46+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-top-10-ballon-d-or-2026-favorites-who-will-win-n-o5rqnpfahl-unisba-media",
+      "title": "🏆 2026 年金球奖前 10 名最爱 ⚽（谁会获胜？）N (o5rqNPFahL) - Unisba Media",
+      "summary": "🏆 2026 年金球奖前 10 名最爱 ⚽（谁会获胜？）N (o5rqNPFahL)  Unisba Media",
+      "originalTitle": "🏆 Top 10 Ballon D'Or 2026 Favorites ⚽ (Who Will Win?) N (o5rqNPFahL) - Unisba Media",
+      "originalSummary": "🏆 Top 10 Ballon D'Or 2026 Favorites ⚽ (Who Will Win?) N (o5rqNPFahL)  Unisba Media",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFB2YWFkWTUtQkNUMEtlVDRwN0ZVWk9zYkdyd1RpMkVCa0RWMGlWTV8zNHRHWEw0dkVOWXRSVWRYTUZrWnpjTl9HOFpMVU5ibVlpU0UybjduUmREZWh0WnVTQ3h2eDFNWVVDNHJr?oc=5",
+      "publishedAt": "2026-10-17T19:41:08+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-17T19:16:22+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-after-100-days-has-barcelona-absolved-the-world-cup-referee-of-the-injustice-against-egypt-in-the-match-with",
+      "title": "100天后：巴萨在与阿根廷的比赛中赦免了世界杯裁判对埃及的不公吗？ - 够球网",
+      "summary": "100天后：巴萨在与阿根廷的比赛中赦免了世界杯裁判对埃及的不公吗？  够门网",
+      "originalTitle": "After 100 days: has Barcelona absolved the World Cup referee of the injustice against Egypt in the match with Argentina? - Goal.com",
+      "originalSummary": "After 100 days: has Barcelona absolved the World Cup referee of the injustice against Egypt in the match with Argentina?  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNdzMycUR2bzBlS1JFR3JIWWRjV1J4QTAyUXh5alNqSHdwMjk4Y3FXS2VOaURuUlZCcURkWUkwMmVZRjU3Um9yREU1dXFHWUdXdnhxRTN3RHRvbHAyd3VHY2p0bUlMTjJJNlBRWnUyRU1fYm5rTGV4NUJwbVRvMTkwNHAtc29FOWtDYmxnS3pUQ2xtdnVHdmFUMVl3SnVSaHM0eThDaS1UR3lUaURmSW5YVlVsTkZrZ25GQkgwLU5ueDdmeDNXNm1SdW9xdDJRQmF5RVhoR3NXakRMNlBQSlJoZ2xMeFAzOEJweFBsclNKMnpFWjVNWlJTUEhVSjhRUFk?oc=5",
+      "publishedAt": "2026-10-17T18:18:47+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-u-15-team-to-compete-in-2026-world-cup-in-azerbaijan-morocco-world-news",
+      "title": "摩洛哥 U-15 队将参加 2026 年阿塞拜疆世界杯 - 摩洛哥世界新闻",
+      "summary": "摩洛哥 U-15 队将参加 2026 年阿塞拜疆世界杯 摩洛哥世界新闻",
+      "originalTitle": "Morocco U-15 Team to Compete in 2026 World Cup in Azerbaijan - Morocco World News",
+      "originalSummary": "Morocco U-15 Team to Compete in 2026 World Cup in Azerbaijan  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMUw5S01vUG5QaFZXa0RldzJaQXhxSnhkNGlJcENiN0JELUtrWkZSR2JzV3czcEt5S2ZuQXFPeXRCMGdCMm9hcTVmR3lObEtITnVnbWo4V1dlckRpeW9icFZkdkdhYjZHY0VlNW04NjJkWHpjWC1LVml5QkNsaWI4a0N6ZHhMQnhLNEJjaDRZOEpWbHFkRUUxaW1kYWc5NXpYS2pTOWtsZENOMlp6VEE?oc=5",
+      "publishedAt": "2026-10-17T17:44:06+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-poland-vs-nigeria-live-blogging-2026-fifa-u-17-women-s-world-cup-group-a-matchday-1-complete-sports",
       "title": "波兰对阵尼日利亚直播博客 – 2026 年 FIFA U-17 女子世界杯； A 组第 1 比赛日 - 完整体育赛事",
@@ -20,16 +104,16 @@
       "heat": 68
     },
     {
-      "id": "google-news-canada-vs-brazil-live-score-october-18-2026-fox-sports",
-      "title": "加拿大 vs. 巴西 - 实时比分 - 2026 年 10 月 18 日 - 福克斯体育",
-      "summary": "加拿大 vs. 巴西 - 实时比分 - 2026 年 10 月 18 日 福克斯体育",
-      "originalTitle": "Canada vs. Brazil - Live Score - October 18, 2026 - FOX Sports",
-      "originalSummary": "Canada vs. Brazil - Live Score - October 18, 2026  FOX Sports",
+      "id": "google-news-fifa-says-it-s-not-moving-forward-with-controversial-world-cup-sell-off-plan-abc-news-breaking-news-latest-n",
+      "title": "国际足联表示不会推进有争议的世界杯抛售计划 - ABC News - 突发新闻、最新新闻和视频",
+      "summary": "国际足联表示不会推进有争议的世界杯抛售计划 ABC News - 突发新闻、最新新闻和视频",
+      "originalTitle": "FIFA says it's not moving forward with controversial World Cup sell-off plan - ABC News - Breaking News, Latest News and Videos",
+      "originalSummary": "FIFA says it's not moving forward with controversial World Cup sell-off plan  ABC News - Breaking News, Latest News and Videos",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZXppTG15M3RNUGdCajlJbzdCTVFEU2xIUldXQUJaT3BxYzdIN09NWDBvblBzNnNwSTlHRnV6Vkl0V09YUjl0a052cEFrU051cktBdzA4bDBGTnBNLVlaVlMtcUxZeVVZbTRILW82d2RxRHpSYW05MFFFaXViYld0Q3dxZkZEVk9rWEt1aV9IQnNlUzlfanFoWmxZbG5XYkJuMW1wenpUMzlfb0xG?oc=5",
-      "publishedAt": "2026-10-17T16:11:21+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb000NHVpS0NxRkZ5LTVXWUFMQXZrY25rSVhiOXc5UGNialUxOWRUOENTLTdCQ1R4eldQN1JjajBwTy1ZOXJLWnVhaUNMajhpajVpNEhDTUlnRTBoc0VRVjhzSXl3VFUtM2IzX3RJamdCMG1VajZHaTZVai15c0J3VGZseHk3TkQycnppZzVTZlVhejBLUklrQU9FeGd5MlXSAaQBQVVfeXFMTU1aY1h6X25rcHhQdTE4cHRYRE9QWmlnb1k0QTJIZlctV3BJU3l6LWdFOTlyeDBXZmNDQ0ZQZGFWdmpfTVU4YjZhTnNHQ2JrZlFiVnpPWkhSMVpJR1IzNGRpV2hsaktIVkhDNWg4cmlzd05GMHFnTkdZQ2hpTF9hVlczbWFhU0hKZW9seXBGWGczMkFxVElXR29rbV8xZDRDdlAtUXY?oc=5",
+      "publishedAt": "2026-10-17T16:53:06+00:00",
+      "heat": 68
     },
     {
       "id": "google-news-no-evidence-links-kofi-adams-to-world-cup-visa-scandal-duncan-amoah-citinewsroom-com",
@@ -40,7 +124,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZVpIejlxQmliMjFVSi1fbC1zWmpTTU1EUnE0WThyU2tNTHBEV0ExS1g4em14RExVNlo3Y05LcnpSdmFTOGNZU1hCUzMwVnNRdWR2MFVqS0s3b0tlWFgwQWljdHZRdjJob3R6QTl2ekZLakxDdkUyUnRnQjNibFl5WHJsWVM2R01XZHhzYVJXZVVHN1pVcktTQ0ZjVlllRF8yUURWLUFud1A?oc=5",
-      "publishedAt": "2026-10-17T15:14:21+00:00",
+      "publishedAt": "2026-10-17T15:16:11+00:00",
       "heat": 52
     },
     {
@@ -53,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPeXExZWRIeVc4T0o1RVZTMFpXRGJMdlczOGZhN1RvMDJiejROYmlwb1JUSGFUQ3FNbjQyVHRHaS1MZDdtbGo0WmR6Y2RSY1lNWUhrR0ZaMjZ6RFBiUnVzamx4RlNnXzhjdDV2djVnaDFnYVUzRkNPc3RxWGVUc3pmOFlibWRudGswMVRpT3d0REY0d2dOVVRYZ3lSWW5ZMWt1Uk5wQ2U0WG8yYjlwN0E?oc=5",
       "publishedAt": "2026-10-17T15:10:15+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-3-embarrassing-questions-fifa-amends-its-regulations-after-the-2026-world-cup-crisis-goal-com",
+      "title": "3个尴尬问题：2026年世界杯危机后国际足联修改规则 Goal.com",
+      "summary": "3 个尴尬问题：2026 年世界杯危机后国际足联修改规定 Goal.com",
+      "originalTitle": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis - Goal.com",
+      "originalSummary": "3 embarrassing questions: FIFA amends its regulations after the 2026 World Cup crisis  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNTl9zVWY2VnczQ3JGZmo5ai1GOGRvNVpMbV9HWHVCc1hMVmZQRDRiMUZlbWZfZXNNMm9Oalh3VnhQQV9HRFhSQklPU00wN05na2NXVFI2bjZRei1QSEF1VHhnM2pwUFZ1Q3gxenhLSnpwRE5RS0lwNkN0VHA0dTVVNVlQbnFIUmNDRDRRMkp0OFYyeGlfMUlLM1NXWjNfdUJtWEx3T2pocW1BOGNuejBpUklNMzRZTmExcjRfUUpDM3NENDJtV2FJNl9kSGxuQQ?oc=5",
+      "publishedAt": "2026-10-17T14:51:38+00:00",
       "heat": 60
     },
     {
@@ -92,18 +188,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-fifa-punish-spain-fined-for-chants-against-african-nation-kickoff",
-      "title": "国际足联惩罚西班牙因唱反非洲国家口号而被罚款 - 开球",
-      "summary": "国际足联惩罚西班牙因在开球时高喊反对非洲国家的口号而被罚款",
-      "originalTitle": "FIFA punish Spain fined for chants against African nation - KickOff",
-      "originalSummary": "FIFA punish Spain fined for chants against African nation  KickOff",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQTlNpc0ZkZUtHM3RFdHoyWFZyMGFmdUY4aWxPMEhMN3c3OExmOUhMVWdfVXFiclYtNG80RHNVajgtd0o0S1FzUy1yVzNGYmdpV1B1MW14cldXNmdqX09wd2o3WWE2Rm83ZzlqdlJPV3JmdlpoSm9TYXhrZnFfd2NmalZaeWJZQlFNQWlCeHJCeWxvOG9vcThnWDFPUFQ?oc=5",
-      "publishedAt": "2026-10-17T14:17:46+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-we-campaigned-for-ndc-yet-you-denied-us-world-cup-visas-tv-presenter-to-kofi-adams-ghanaweb",
       "title": "“我们为 NDC 竞选，但你们却拒绝了我们的世界杯签证”——电视节目主持人科菲·亚当斯 (Kofi Adams) - GhanaWeb",
       "summary": "“我们为 NDC 竞选，但你们却拒绝了我们的世界杯签证”——电视节目主持人科菲·亚当斯 (Kofi Adams) GhanaWeb",
@@ -138,90 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPaUJzU25HNlFCck5YTjlVMUhyWS1zSDI3R0V2Vm5iQkpTYlFXbzdJYlVUVDJ6cHV6Y3MxVFgwMVo1UHdmdU91Rjl1RnlCaFZKaTdvdmdNbHo4alZqUkhOaWVKdW1TcC1BdURyc0l4ZUlqb1puSlQ2LWcwTC1IcUtTMDJqNGtKZWlGRWszUzlmTVNWUzc4UFE?oc=5",
       "publishedAt": "2026-10-17T12:01:18+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-chicago-makes-2031-world-cup-bid-after-refusing-fifa-demands-for-2026-tournament-www-footballtransfers-com",
-      "title": "芝加哥在拒绝国际足联要求举办 2026 年世界杯后申办 2031 年世界杯 - www.footballtransfers.com",
-      "summary": "芝加哥在拒绝 FIFA 举办 2026 年世界杯的要求后申办 2031 年世界杯 www.footballtransfers.com",
-      "originalTitle": "Chicago makes 2031 World Cup bid after refusing FIFA demands for 2026 tournament - www.footballtransfers.com",
-      "originalSummary": "Chicago makes 2031 World Cup bid after refusing FIFA demands for 2026 tournament  www.footballtransfers.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNQWM3Ri1wWm51dWJyUXpqMmg0R2FPb1o0cXBoWDRjeE1pRF9GNWtsR1BRQXdPZHdKR01nOVEzMXpPemNZMVoza3BQWm5sRzNTRnRlWVRwbkpxUmhNLUFUVVZRVjNuNU9kRVdNWGZLTjZ2emdON0F1a0xmSXNZRmVKS09ZOUxJS21kTlFPb1VScnVnYjBzZG9VWENmdU5LMUJhZUI4VnNnbzRORDNEMVNOTm5pT1o0elFZNDlqbGlGNlR3Qk5tVDhBZjVwMXRWdXFPNXFnTEtEY2hwTkM5aUlfTjdtamRYSl9MTmZSNTBxOFc4U1pfeDlfNQ?oc=5",
-      "publishedAt": "2026-10-17T12:01:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-says-it-s-not-moving-forward-with-controversial-world-cup-sell-off-plan-abc-news-breaking-news-latest-n",
-      "title": "国际足联表示不会推进有争议的世界杯抛售计划 - ABC News - 突发新闻、最新新闻和视频",
-      "summary": "国际足联表示不会推进有争议的世界杯抛售计划 ABC News - 突发新闻、最新新闻和视频",
-      "originalTitle": "FIFA says it's not moving forward with controversial World Cup sell-off plan - ABC News - Breaking News, Latest News and Videos",
-      "originalSummary": "FIFA says it's not moving forward with controversial World Cup sell-off plan  ABC News - Breaking News, Latest News and Videos",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb000NHVpS0NxRkZ5LTVXWUFMQXZrY25rSVhiOXc5UGNialUxOWRUOENTLTdCQ1R4eldQN1JjajBwTy1ZOXJLWnVhaUNMajhpajVpNEhDTUlnRTBoc0VRVjhzSXl3VFUtM2IzX3RJamdCMG1VajZHaTZVai15c0J3VGZseHk3TkQycnppZzVTZlVhejBLUklrQU9FeGd5MlXSAaQBQVVfeXFMTU1aY1h6X25rcHhQdTE4cHRYRE9QWmlnb1k0QTJIZlctV3BJU3l6LWdFOTlyeDBXZmNDQ0ZQZGFWdmpfTVU4YjZhTnNHQ2JrZlFiVnpPWkhSMVpJR1IzNGRpV2hsaktIVkhDNWg4cmlzd05GMHFnTkdZQ2hpTF9hVlczbWFhU0hKZW9seXBGWGczMkFxVElXR29rbV8xZDRDdlAtUXY?oc=5",
-      "publishedAt": "2026-10-17T11:46:43+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-news-fact-check-will-fifa-world-cup-2030-be-available-for-free-on-netflix-sportstar",
-      "title": "事实核查 — Netflix 会免费提供 2030 年 FIFA 世界杯吗？ - 体育明星",
-      "summary": "事实核查 — Netflix 会免费提供 2030 年 FIFA 世界杯吗？  体育明星",
-      "originalTitle": "FACT CHECK — Will FIFA World Cup 2030 be available for free on Netflix? - Sportstar",
-      "originalSummary": "FACT CHECK — Will FIFA World Cup 2030 be available for free on Netflix?  Sportstar",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQYWxkbHl1S01CS3N0S08wRWZDeDRGU2l2Ri1HNWRmQkR4cDRwMTFzVVFhZzNSbzJNeGZIdFMySlhxVjNGTVRlQzB1YjhTVGdQUTVGOEdOc0RYT2JMdGVNdzFoeXIyejBoU250Z3gwVFZrUlE5R0gyeHpkdjR1VUtqS3ctV2JHZXhZLUJLVTllOXRXQ25CczNJdS1fRzhsT29VUnczTEt2NFpsQXJhSWppU0xDOGMxN2pieVh5Nk5nTGJpTEN3ajBZb2FLVlJQT3U0NFFWaWlvS2R1VmtvR2Jtem5sejIyUTjSAe4BQVVfeXFMT2J5bVZ1X0JhckI4ajFZcmxGRHltSzhWTk5IQlQydnVLU3JrT1QtN2JKNGdTaHdCZzFwN09tREgxUlJjYk9GVFdCVkF3enVNemxsaUtNWmszM0VHaVltSndFX0I5NkdJUGZmM2tNdlM5LThraUNtWFZtMWlIVjlxRUQ4Q3JFblNJbDhFM005VDBzcnd1c09wZzg1Unk0d3JORTN5VXRpVHZOTm9aT0p6d1pQbS1sM3hWRHV1RVloWV9QSmViMVlXNE93R043VEpEUUdKbHB3MENDR3N3RWdWcGdLbk1VcTBHYmo4NmpzZw?oc=5",
-      "publishedAt": "2026-10-17T10:29:07+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-u-s-air-arrivals-fell-6-1-during-world-cup-quarter-ftn-news",
-      "title": "世界杯季度美国航空入境人数下降 6.1% - FTN 新闻",
-      "summary": "世界杯季度美国航空入境人数下降 6.1% FTN 新闻",
-      "originalTitle": "U.S. Air Arrivals Fell 6.1% During World Cup Quarter - FTN news",
-      "originalSummary": "U.S. Air Arrivals Fell 6.1% During World Cup Quarter  FTN news",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE52T21MemdETmQ0VlRfRDVkN0lKU0tWRzM3QkNDeUhVVWo1UXJrbVdlYnZ4Y05QUXBEMTVIUDk1N0RKNkdrQ3ZlYWpham40THFERWtFSHpKSGZQLWFtMVVONTVNdVFlQ1Y2N0R4N3Jlam9mSHNNLU9semswUUk?oc=5",
-      "publishedAt": "2026-10-17T10:28:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-u-17-women-s-world-cup-morocco-2026-guide-pan-africa-football",
-      "title": "FIFA U-17 女子世界杯：2026 年摩洛哥指南 - 泛非足球",
-      "summary": "FIFA U-17 女子世界杯：2026 年摩洛哥指南 泛非足球",
-      "originalTitle": "FIFA U-17 Women’s World Cup: Morocco 2026 Guide - Pan Africa Football",
-      "originalSummary": "FIFA U-17 Women’s World Cup: Morocco 2026 Guide  Pan Africa Football",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE80cG1qMmk0Q0Z3dEo4Slc5MGZaMXNCNE9tM0xRLVFsdU5WWTItQ2NZck9MQWhyMXVYOEJRcFFTY1BlVmVvZEZ0WExITlhKRUF5RVBybDNEaTh4QjlKc2VRallPY0lpaDlUYi1DcUFtcUVsQW15VHlzZGUxaw?oc=5",
-      "publishedAt": "2026-10-17T09:58:08+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-india-s-saff-plans-in-doubt-as-new-zealand-tour-creates-scheduling-clash-india-today",
-      "title": "由于新西兰之旅造成日程安排冲突，印度SAFF计划受到质疑 - 今日印度",
-      "summary": "由于新西兰之旅造成日程安排冲突，印度 SAFF 计划受到质疑",
-      "originalTitle": "India's SAFF plans in doubt as New Zealand tour creates scheduling clash - India Today",
-      "originalSummary": "India's SAFF plans in doubt as New Zealand tour creates scheduling clash  India Today",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPTXM5NjNYeHQ0TkVvWTFFWVRia0xDOUZQTFBhR3VhbkIwcXBQa2xjM2RqTGVoTmhoY05oV1R4a0pvX3IxNGwtcEVReWtlOHRpQUpYYV9xZGg1ZE1BMjhqUDFfeVBtNHFCWDE3dXhiZy1QN25BMWhCT3FibXZJN29hMXVzOGViSEd5dmlJaVNTSlVmR1dXZEswSldIeEsxQWt5aU1HVVk1enZhWFRZTy03TUpWa1FRUnZWTjFkZER2M2ZDQ0pCZUpqODRPd2lUelNzSmd0LWZyWUTSAdgBQVVfeXFMT01zOTYzWHh0NE5Fb1kxRVlUYmtMQzlGUExQYUd1YW5CMHFwUGtsYzNkakxlaE5oaGNOaFdUeGtKb19yMTRsLXBFUXlrZTh0aUFKWGFfcWRoNWRNQTI4alAxX3lQbTRxQlgxN3V4YmctUDduQTFoQk9xYm12STdvYTF1czhlYkhHeXZpSWlTU0pVZkdXV2RLMEpXSHhLMUFreWlNR1VZNXp2YVhUWU8tN01KVmtRUVJ2Vk4xZGREdjNmQ0NKQmVKajg0T3dpVHpTc0pndC1mcllE?oc=5",
-      "publishedAt": "2026-10-17T09:41:37+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-germany-vs-argentina-live-score-october-17-2026-fox-sports",
-      "title": "德国 vs 阿根廷 - 实时比分 - 2026 年 10 月 17 日 - 福克斯体育",
-      "summary": "德国 vs. 阿根廷 - 实时比分 - 2026 年 10 月 17 日 福克斯体育",
-      "originalTitle": "Germany vs. Argentina - Live Score - October 17, 2026 - FOX Sports",
-      "originalSummary": "Germany vs. Argentina - Live Score - October 17, 2026  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNamh1M1hRRkJ0TUdELXI4UXhMNk1MTlRad05uVlF5T1FOZ2R0U0RmMkdNSFhFWmpEN0pFbGFwWGludjl5QkhWVFAzdW9WUmdxUnktTzItSWtCU21HZW9EaE51Snp6WkF5UkRiZnRMV3kySVlDVFRrdWJjZ01IVTJ3QVdzSHVqRExBNjBFeWM4LWVIQ25UVGc1OUJNckV6UHNfZF91ZGRKSjVzWENxQ05nUGp3?oc=5",
-      "publishedAt": "2026-10-17T09:38:52+00:00",
-      "heat": 52
     }
   ]
 }
