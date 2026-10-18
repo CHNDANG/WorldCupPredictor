@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-18T19:20:30.905346+00:00",
+  "updatedAt": "2026-10-18T21:44:47.977107+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,57 @@
   ],
   "articles": [
     {
+      "id": "google-news-ready-for-kickoff-u-s-faces-samoa-in-its-u-17-women-s-world-cup-opener-on-monday-front-row-soccer",
+      "title": "开球准备就绪：美国 U-17 女子世界杯揭幕战将于周一迎战萨摩亚 - Front Row Soccer",
+      "summary": "开球准备就绪：周一 U-17 女子世界杯揭幕战美国队对阵萨摩亚队 Front Row Soccer",
+      "originalTitle": "READY FOR KICKOFF: U.S. faces Samoa in its U-17 Women's World Cup opener on Monday - Front Row Soccer",
+      "originalSummary": "READY FOR KICKOFF: U.S. faces Samoa in its U-17 Women's World Cup opener on Monday  Front Row Soccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQT1hMMzRndzdmNHFmZHFnMUF1MGJITlJNS2V1VEJrVGtLSjFEVGVocU9fUzh1UUNOQ0hOVjNGbTZUUG9fd0dWUGlOTkY2Q3N4eDRMRXowQTBYZE1zT1NWSkZCcHg2UndfRjZTbUJ4Qm51enI3eWNGckhkbmJobUZYM25qV1hIXzNEQlhhVEJWRmJIRnk4elAyS1ZGODM5ajZ5SkhHWHRhUTZOaVJ0NzBQbUYydlVmV2dwZkR6RWVsOA?oc=5",
+      "publishedAt": "2026-10-18T21:17:39+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-live-world-cup-2026-livestreams-las-vegas-raiders-vs-buffalo-bills-nfl-𝐋𝐈𝐕𝐄-ｓｔｒｅａｍｓ-universidad-de-córdoba-u",
+      "title": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] 拉斯维加斯突袭者队 vs 布法罗比尔队 NFL 𝐋𝐈𝐕𝐄 Streams - 科尔多瓦大学 (UCO)",
+      "summary": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] 拉斯维加斯突袭者队 vs 布法罗比尔队 NFL 𝐋𝐈𝐕𝐄 Streams  科尔多瓦大学 (UCO)",
+      "originalTitle": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Las Vegas Raiders vs Buffalo Bills NFL 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ - Universidad de Córdoba (UCO)",
+      "originalSummary": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Las Vegas Raiders vs Buffalo Bills NFL 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ  Universidad de Córdoba (UCO)",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwJBVV95cUxPdzV5c3Y5TmhDUTVsSXg0Y003anNzZUM1UjNqZXZ3TThQZm9BVTc4UTFjYjB1Q2g2Uk9Vai1MRXQ3TnhOVVBuUktYUk8wc0o4aGdLV2xrWG5vVFRjOFlPc3BWMXdjZGF4N3ZZakVnRGpZZTZJWEpsNlBBSTVLdTJrZlAwT210ZUxFMEdYWGxubEpGZUpJd2FnQlFEdjhEZ1lacVdzMWJfMlIybFF0T1VZV1U1Z3FxNTdITmpMSXFxdU9jVEd6NnV0VEN2LVVGNWFGaFNoRTNsTEN2Ul9rb2p6UzlmU19BLXVoOVlXWDRXYmdBRVBZcWQ4dm84c1JiZFdZSTN0eHZ1eHpGQWZlUUlnTXdCRTlrOE9sYmcybVQ4NkpsMm1HZEI4SXcyWW5XTk1WM2dnakpRNDFUN00?oc=5",
+      "publishedAt": "2026-10-18T20:54:23+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-black-maidens-suffer-3-0-defeat-to-norway-in-u-17-women-s-world-cup-opener-citi-sports-online",
+      "title": "黑少女队在 U-17 女足世界杯揭幕战中以 3-0 负于挪威 - 花旗体育在线",
+      "summary": "Black Maidens 在 U-17 女子世界杯揭幕战中以 3-0 负于挪威队 花旗体育在线",
+      "originalTitle": "Black Maidens suffer 3–0 defeat to Norway in U-17 Women’s World Cup opener - Citi Sports Online",
+      "originalSummary": "Black Maidens suffer 3–0 defeat to Norway in U-17 Women’s World Cup opener  Citi Sports Online",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUGpOc0czaGMxcEp6M2NFZ2xaU0RoNGk0WTN3XzRhX1NiZ2pvc04yWWZwOE1GM1h3NUxuWEJSM1pzM1dzYTJvUXlsbmROWEtTR0NmdUJhQ01DMjBiLWo0dWpzVVhLUzBlS21mYVRLRnkxZFh1RkRtVldmdS1IMlBMc0NKMkgxb0hlVmRWdlNZbDFKdFVaX3BRc1RYQmVWaU9oUVJDaDhTU0UxVnd2Njh5Tw?oc=5",
+      "publishedAt": "2026-10-18T20:13:40+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-canada-vs-brazil-tsn",
+      "title": "2026 年 FIFA U-17 女子世界杯：加拿大 vs 巴西 - TSN",
+      "summary": "2026 年 FIFA U-17 女子世界杯：加拿大 vs 巴西 TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: Canada vs. Brazil - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: Canada vs. Brazil  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaHA1VGFBVzRFUlpGZG9XT0NoNUZWRlRXZDlxUFZnT3pobDJiU2xEX3RoSG9NRnp5VjQtN0VsWXZmSDdVbW9BZnBtdnk5dWV0U195OVRyNjZVUTFTYmthTGVOYmZrQ3ZZOVA1eEhucUl6a0VkTUNRbkdvRTBYa3M3ajdTc2JLX0pTemRCREtjYzdvNDFfMVpn?oc=5",
+      "publishedAt": "2026-10-18T19:48:00+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-live-stream-real-madrid-sevilla-world-cup-2026-ｌｉｖｅ-ｆｒｅｅ-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-18-october-2026-universidad-de-córdob",
       "title": "(++LIVE>STREAM..!!) 皇家马德里 - 塞维利亚世界杯 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＥＬ 2026 年 10 月 18 日 - 科尔多瓦大学 (UCO)",
-      "summary": "(++LIVE>STREAM..!!) 皇家马德里 - 塞维利亚世界杯 2026 LIVIVE 弗雷埃 ON TV CHANNEEL 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
+      "summary": "(++LIVE>STREAM..!!) 皇家马德里 - 塞维利亚世界杯 2026 LIVIVE FIRES ON TV CHANNEEL 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
       "originalTitle": "(++LIVE>STREAM..!!) REAL MADRID - SEVILLA WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026 - Universidad de Córdoba (UCO)",
       "originalSummary": "(++LIVE>STREAM..!!) REAL MADRID - SEVILLA WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026  Universidad de Córdoba (UCO)",
       "translation": "online",
@@ -20,9 +68,21 @@
       "heat": 60
     },
     {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-18T19:14:47+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-live-juventus-lazio-world-cup-2026-ｌｉｖｅ-ｆｒｅｅ-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-18-october-2026-universidad-de-córdoba-uco",
       "title": "🔴⚽ 现场直播尤文图斯 - 拉齐奥世界杯 2026 LIVIVE FREE ON TV ＣＨＡＮＥＬ 2026 年 10 月 18 日 - 科尔多瓦大学 (UCO)",
-      "summary": "🔴⚽ 直播尤文图斯 - 拉齐奥世界杯 2026 LIIVEVE FREE ON TV ＣＨＡＮＥＬ 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
+      "summary": "🔴⚽ 尤文图斯 - 拉齐奥世界杯 2026 直播 LIVIVE FREE ON TV ＣＨＡＮＥＬ 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
       "originalTitle": "🔴⚽ LIVE JUVENTUS - LAZIO WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026 - Universidad de Córdoba (UCO)",
       "originalSummary": "🔴⚽ LIVE JUVENTUS - LAZIO WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026  Universidad de Córdoba (UCO)",
       "translation": "online",
@@ -30,18 +90,6 @@
       "url": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxPZDB2a1FTblhxU0h1ZlVqdEc1aEktQmcxZGZJN2ZXMjBIcGNQNEt0VVEteXFWLV8zSjUwN25zMUd4TjJjWVlDZFdEUnpSblcyclVwMkxwZThNWWpEYlhIOXE0MHhWVmt4Qk5PRFA4b3lyQmI4YjczX1VJbXZaeFAtcG1nTC1LVUtOaWNIUlFMQTJxUEJqYzZqZXJYSWk3M2JBdVktM2dxQy1KN3UtQlFxU0NLVnFrQmpCT1lkSTU0bEJaMkhNTXdoNUdFNWJJb2dLdVZpLW90eG9CaHdTM1RDWXRSOGJ6TG5ILUp1aHloTU1hS19VOGZETDdDZVF6ZEhpZmdvNmtEMWtBcEdqYU1PY01QNEJWY2o3LVV5UUVvMlZrQXhpTmF1TThGT2JfM2ZFSXhvODk4ZDJSU0MtMFpQRHM4NU8tZ2xMX0xpMGhILWY2MzZIMFZZSG50Sm4?oc=5",
       "publishedAt": "2026-10-18T19:04:14+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-watchlive-ｔｏｄａｙ-real-madrid-against-sevilla-live-free-tv-18-october-2026-universidad-de-córdoba-uco",
-      "title": "[WATCHLIVE]TODAＹ!] 皇马对阵塞维利亚免费电视直播！ 2026 年 10 月 18 日 - 科尔多瓦大学 (UCO)",
-      "summary": "[WATCHLIVE]TODAＹ!] 皇马对阵塞维利亚免费电视直播！ 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
-      "originalTitle": "[WATCHLIVE]ＴＯＤＡＹ!] Real Madrid against Sevilla Live free tv! 18 October 2026 - Universidad de Córdoba (UCO)",
-      "originalSummary": "[WATCHLIVE]ＴＯＤＡＹ!] Real Madrid against Sevilla Live free tv! 18 October 2026  Universidad de Córdoba (UCO)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxOUDJ4a1kzWGhGb2tGVWdQbzRDc0Uyc3JYZGd1NmE3LVVIbFJ1NGdwc3Jwbkx4LTYtOE9NaE1BaVNEbEtEV2F0QlM5cXF4bWNwSkRsVXhCZUtEbGxzanplSnRHN0pkbEZ2b2RLYnhxeHAtWUs0X3ZaZWVJSnRkdUF6TXV5UWFHclc2MVVBLUxyQlFpb1RDd3I4ODdaQnVJcVd5bE81MEwtUmgwOTE4Uk1IRldndmZXU0xvdm1HeFVGNkxuTVAzOWx1NXVpOXQtN282cG9DUnlsOU1pVWF6em9jeXR1SVoxeXdObWN5LVlJY09QWVBMQmJoYTBvbXd1Wmd4Z2l3Q0RxUUlfVTNNWFVHRDlpX0ZrXy1qdlBJN1hHQkZreV9JR2I5WHhad19kamdzOVZEMkczaGFSX2NwbFI1YlNDMmlJN3N4UXQzWjlsRnpCSG5ZMEhHVXh5LVdBTV9CUjZ5RVV1ZW4yUS0xbUx5WlBOOEZiUQ?oc=5",
-      "publishedAt": "2026-10-18T18:55:02+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-roja-live-lazio-soccer-vs-juventus-in-diretta-gratis-il-18-ottobre-2026-universidad-de-córdoba-uco",
@@ -68,18 +116,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-live-world-cup-2026-livestreams-carolina-panthers-vs-philadelphia-eagles-watch-live-stream-free-universidad-",
-      "title": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] 卡罗莱纳黑豹队 vs 费城老鹰队 免费观看直播 - 科尔多瓦大学 (UCO)",
-      "summary": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] 卡罗莱纳黑豹队 vs 费城老鹰队 免费观看直播 科尔多瓦大学 (UCO)",
-      "originalTitle": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Carolina Panthers vs Philadelphia Eagles watch Live Stream free - Universidad de Córdoba (UCO)",
-      "originalSummary": "!+[LiVe-WORLD-CUP-2026-LIVESTREAMS] Carolina Panthers vs Philadelphia Eagles watch Live Stream free  Universidad de Córdoba (UCO)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxNNUU5WUVqdV9vZXhyZmxFWmVOWmFONXBqWWc5U3BxNVVxU1BIdG5mUzhIRk43UDBhS0J3dHhDak9neHp3dzNJUzFWaFVrQkVpWlZLQkt5LWNtUk83V2RxNnRud3hMZnFkMlVRLU1ZVmhwTkgzLWF6dldRa08wWTRodUdIZzZGNXJkNk0ycm1KZmJtSWpyX3lwSm9mVTBaZDl1VndFTElhVWI3bW5NYWRzYW04ZGtaZnMwUk43U1oxeGlNaTBrX1lGWHNNdjVGX3JPeEx6T2lUbG1GUjNBX1pmLWQwQjkyMTFtN2lxRFNfdXVScktwWjE1VmpxeXRGelFpeUtsaVpzRVFoLUJwdGRVM3J1c3MyQzI2VmEzMzhvLWJCMzc0MWxYVFZRckM3eTNPQmpWd09EWGRrdExNR0U0OUFSWXljcVMzdG04a3JrME4?oc=5",
-      "publishedAt": "2026-10-18T18:28:23+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-tribe-culture-fest-denies-611-000-world-cup-visa-payment-allegations-citinewsroom-com",
       "title": "部落文化节否认支付 611,000 美元世界杯签证费用的指控 - CitiNewsroom.com",
       "summary": "部落文化节否认支付 611,000 美元世界杯签证费用的指控 CitiNewsroom.com",
@@ -88,12 +124,12 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbjRtbkdvNzJmZWVzbUE2bXYyVXVjMnM2eHJHaXdJSTNtdHI0UWZDMy04ckowMzVlRzN2UllGU1VsY3REaXpwb1pPZ3YyeW1JSFBmWTluUXhIX1o5OURRdGNQeVIwcFNGV2JXOWZnNTVhZkFaeHFGUktIVUZ3dXRFVkw3cUlqMFh3QV9PVk1rTzNmMDB5S2J6N1U1MHdWRzNWMXo4QktDNU0?oc=5",
-      "publishedAt": "2026-10-18T18:15:06+00:00",
+      "publishedAt": "2026-10-18T18:14:53+00:00",
       "heat": 52
     },
     {
       "id": "google-news-canada-makes-2026-u-17-women-s-world-cup-debut-concacaf-official-website",
-      "title": "加拿大队首次亮相 2026 年 U-17 女子世界杯 - 中北美及加勒比地区足联官方网站",
+      "title": "加拿大队首次亮相 2026 年 U-17 女子世界杯 - Concacaf |官方网站",
       "summary": "加拿大首次亮相 2026 年 U-17 女子世界杯官方网站",
       "originalTitle": "Canada makes 2026 U-17 Women’s World Cup debut - Concacaf | Official Website",
       "originalSummary": "Canada makes 2026 U-17 Women’s World Cup debut  Concacaf | Official Website",
@@ -114,18 +150,6 @@
       "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZ241bDFaQnBVaDhxbUxvTWRlVXZURzk1N3hPajNNRF9jbUxkU29HUGFzalB1WkV5eVhkSkI1XzlmZkQxNGZvWUlMSDdJUDU3Q05pMmljUkNkRGRLTlB0MENDaHd5V1oydmdQUGRwS2ozMjgwYkUzZUxfOU9RUS04VVFIODJYbWVadjJvcVpsYzBTamUzZHExSE96UWJhRmZaYXJPQXluN1plRFdWSmc?oc=5",
       "publishedAt": "2026-10-18T17:23:39+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-livestream-tv-carolina-panthers-vs-philadelphia-eagles-nfl-𝐋𝐈𝐕𝐄-world-cup-2026-ｔｖ-ｃｈａｎｎｅｌ-18-october-26-univ",
-      "title": "[直播]TV!!] 卡罗莱纳黑豹队 vs 费城老鹰队 NFL 𝐋𝐈𝐕𝐄 2026 年世界杯 TV Chhannel 18 十月 26 日 - 科尔多瓦大学 (UCO)",
-      "summary": "[直播]TV!!] 卡罗莱纳黑豹队 vs 费城老鹰队 NFL 𝐋𝐈𝐕𝐄 2026 年世界杯 TV Chhannel 18 十月 26   科尔多瓦大学 (UCO)",
-      "originalTitle": "[LIVESTREAM]TV!!] Carolina Panthers vs Philadelphia Eagles NFL 𝐋𝐈𝐕𝐄 World Cup 2026 Ｔｖ Ｃｈａｎｎｅｌ 18 October 26 - Universidad de Córdoba (UCO)",
-      "originalSummary": "[LIVESTREAM]TV!!] Carolina Panthers vs Philadelphia Eagles NFL 𝐋𝐈𝐕𝐄 World Cup 2026 Ｔｖ Ｃｈａｎｎｅｌ 18 October 26  Universidad de Córdoba (UCO)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivANBVV95cUxOVzdsUWgwNUp6dnRKaGdSQU9GaG5WaEFDZ3hYa2hON1ZZeDhWejVXWFI5SU5pWXoyakVONGYxS2VpTXdRNHIxcHpzNmsydFpzaUx0R1Z0bWlmRTk2NGZFRXZ3blp4c3NHSFlaRWdBS3BPYkVTTnEtelV4VHNQWFcyUkR1c28wbDd6ZEY4Rmc1Mm11b3B6Z3ZDdjY3U0ZqZGFNMnQyQnkzV2hqYllPMmxJeTU1cWE0U3RfeE5aZExWSmFCY3dTXzF4Z1hoQldsN0RJd1Jxb3lsRkFXT0JQUFE3S3FwY3dtWHE3ZnByYWMxd2ZBLThocE9aRGUzRXBKV3BOQkQ0bHRJdl9US2RXN3BuQTJNVUdjVDlsU1JHSW1xMFV5QV9ZaE0yQnlzWm53a2hGREY5RVFvVEgtMGo1VzBNaEJmSG9wRVEzak54TklCUXpBc2pORVM3NGtBSlp1Q2ZNamJkWUJ4dVdKRHpJLVZ5bDF4NWRjbGt4VEM5WHNITk5kaER4bUF2eUFsNnFhTENGOVRadnNVOHItQ3FXYnhKNk1uZXNad3VzLXQtck9ocjdDYlNUY29IejQ1aTc?oc=5",
-      "publishedAt": "2026-10-18T16:32:47+00:00",
-      "heat": 60
     },
     {
       "id": "google-news-spain-vs-mexico-live-score-october-19-2026-fox-sports",
@@ -164,57 +188,33 @@
       "heat": 60
     },
     {
-      "id": "google-news-le-havre-ac-vs-aj-auxerre-where-to-watch-stream-info-tv-channel-and-live-updates-october-18-2026-fubo",
-      "title": "勒阿弗尔 AC 对阵 AJ 欧塞尔 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） - Fubo",
-      "summary": "勒阿弗尔 AC 对阵 AJ 欧塞尔 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） Fubo",
-      "originalTitle": "Le Havre AC vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026) - Fubo",
-      "originalSummary": "Le Havre AC vs AJ Auxerre - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026)  Fubo",
+      "id": "google-news-qatar-2026-world-cup-our-u17-grenadiers-continue-their-preparation-haitilibre-com",
+      "title": "卡塔尔 2026 年世界杯：我们的 U17 掷弹兵继续备战 - HaitiLibre.com",
+      "summary": "卡塔尔 2026 年世界杯：我们的 U17 掷弹兵继续备战 HaitiLibre.com",
+      "originalTitle": "Qatar 2026 World Cup : Our U17 Grenadiers continue their preparation - HaitiLibre.com",
+      "originalSummary": "Qatar 2026 World Cup : Our U17 Grenadiers continue their preparation  HaitiLibre.com",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQW1oOEhRdXNTWkZzSzUtVHAzaVQ0MmI2Z1N5akZ2OUhiY0xuajN0bEZoMFBJZFVQRnNneTN0YzJQZXlaaFV2aEJmMTZaSTE3M3dlczloeU5xbTBZUDdLNFBvRWdmOUZvdlQ0ZTNPQno1Zk5sOUlUbkFya29kNUlrdHcyZ3hBRG1vQ2dTZVJma29KZ25NZzZZN2JVLVJNMjUyVGY0S0tPeEV5QUNGdHgwQ1dCTk5jZ2w0cFdZVnFxb2FuV2VNMXEyTA?oc=5",
-      "publishedAt": "2026-10-18T13:49:04+00:00",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNV1lFeEFfMi1aSkYzSVFYc2ZsalJ5QkFTYlc5QkJvNWtnMEg5YmJmZnJYRHhyRVZCTHMteXJsUVU1WWVJQW5TeEtIb1Y5QzZGS3pndG5aM0ljTGVZODdpbEJGZFB0dDZQanJwQmJnd1ZEUnp2MTlCQktkZUdXY1FnM0pGUHFHQkN1MmtpZVdJc2RsRUIyZ25KRmYyb2xaNDBJSGZZcFVhZHpiamMyWUt2VGJ3?oc=5",
+      "publishedAt": "2026-10-18T13:50:08+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-málaga-cf-vs-real-sociedad-where-to-watch-stream-info-tv-channel-and-live-updates-october-18-2026-fubo",
-      "title": "马拉加 CF vs 皇家社会 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） - Fubo",
-      "summary": "马拉加 CF vs 皇家社会 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） Fubo",
-      "originalTitle": "Málaga CF vs Real Sociedad - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026) - Fubo",
-      "originalSummary": "Málaga CF vs Real Sociedad - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026)  Fubo",
+      "id": "google-news-live-now-nfl-football-2026-match-today-ｌｉｖｅ-ｓｔｒｅａｍｉｎｇ-universidad-de-córdoba-uco",
+      "title": "!$>[直播！#NOW]* NFL Football 2026 今天比赛 LIVE STREAMINNG - 科尔多瓦大学 (UCO)",
+      "summary": "!$>[直播！#NOW]* NFL Football 2026 今天比赛 LIVE STREAMINNG  科尔多瓦大学 (UCO)",
+      "originalTitle": "!$>[LIVE!#NOW]* NFL Football 2026 Match today ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ - Universidad de Córdoba (UCO)",
+      "originalSummary": "!$>[LIVE!#NOW]* NFL Football 2026 Match today ＬＩＶＥ Ｓｔｒｅａｍｉｎｇ  Universidad de Córdoba (UCO)",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPU0xHVU5GVVkwbEMwZTBVQldzMTYtbG1uU2ttcEppNXhwNWU5MGpDdUJUX3cxa0pRMWZ5V3ZoTC1vblQ0Ti04N25lemNqOERPb0ZWM0tMWFBCZGhJY2dkYlNSR3NKQ3Z4eTBzYld4SExmRW1zZnltOEEyeTRaX29lMHVjX0Vfdm1OSHc0c0t4b1JkT0ZhQ1JtSVFUWlJ3QkYtWU1EWlFMUkY5N2t6NFdfRFJTdjNYSl9WSndKN0xjZFk3cEFpZUFZSFR3?oc=5",
-      "publishedAt": "2026-10-18T13:31:23+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fiorentina-vs-como-where-to-watch-stream-info-tv-channel-and-live-updates-october-18-2026-fubo",
-      "title": "佛罗伦萨 vs 科莫 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） - Fubo",
-      "summary": "佛罗伦萨 vs 科莫 - 观看地点、流媒体信息、电视频道和实时更新（2026 年 10 月 18 日） Fubo",
-      "originalTitle": "Fiorentina vs Como - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026) - Fubo",
-      "originalSummary": "Fiorentina vs Como - Where to Watch, Stream Info, TV Channel, and Live Updates (October 18, 2026)  Fubo",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbTlaM1FvbGxqdThsTHBlZjdKWE5ud0QzOHNaMjhjNDVYUlhLWU1HdW52R01iZFBTUzF1dDc3VGFCRFBmSXhmRVp0SzUwOEZvNUcwQ0FsYzk5WnNWUW9lM0xMLWF3cWVWM01wcndHNHQ5LTJqTmpmUkEzTlpZTk9ySTM1elJGMHV3bUlJa3RRak5SZzJGeXlEZ1dETmlPbE9sdEkxSnJWWEotay1WWVU2TDV0cTV0eTRXTjBkNDRLUQ?oc=5",
-      "publishedAt": "2026-10-18T13:30:54+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-18T12:59:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNdVlCQjBYZW5vTFppZ1pnSGlYV040emRLZThlWUlIRVpEOF9rWnJ0VEh1Zkp0dXRUdVlzMjJ6X0dHLVJ6YnBiRWJ5cDNtUEFTQy14TExQN0pqZE9HcEExaGZGVFhuV3piTjRZQTE3XzhJVUVxQlppbUMxWDNmMmlIVUtoM2VHZ1NIRG9GWkxLUEhEZzFVbHVXT28xNGlGdWxnbkYwSE5PQm9aVEhBNUdHVjBoVW5MdVNSTklMdnF0SEYzSU1ldS10ZmJGTl8wamdfaDVHQmxKRzE5X2lkMGt2aXVUMGdndUttWGVmME9Idzg1RVpkY2pnTDZ0Z09WODJZVWZDTEwxU2Nuc2VaTDJIcEtRb3p4OXJpakdpRER4QjMzY2FmQnN0TWZCMHFzblNuZF9HU0RhakJ1Y1RBYzBrZHdFTU1Lcm5v?oc=5",
+      "publishedAt": "2026-10-18T13:05:28+00:00",
       "heat": 52
     },
     {
       "id": "google-news-live-streams-free-ajax-vs-groningen-world-cup-2026-ｌｉｖｅ-ｆｒｅｅ-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-18-october-2026-universidad-de-có",
       "title": "!+[直播@STREAMs]免费！] 阿贾克斯 VS 格罗宁根 2026 年世界杯 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＥＬ 2026 年 10 月 18 日 - 科尔多瓦大学 (UCO)",
-      "summary": "!+[直播@STREAMs]免费！] 阿贾克斯 VS 格罗宁根 2026 年世界杯 LIVIVE 弗雷埃 ON TV CHANNEEL 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
+      "summary": "!+[直播@STREAMs]免费！] 阿贾克斯 VS 格罗宁根 2026 年世界杯 LIVIVE FIRESE ON TV CHANNEEL 2026 年 10 月 18 日  科尔多瓦大学 (UCO)",
       "originalTitle": "!+[LIVE@STREAMs]FREE!] AJAX VS GRONINGEN WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026 - Universidad de Córdoba (UCO)",
       "originalSummary": "!+[LIVE@STREAMs]FREE!] AJAX VS GRONINGEN WORLD CUP 2026 ＬＩＶＥ ＦＲＥＥ ＯＮ ＴＶ ＣＨＡＮＮＥＬ 18 October 2026  Universidad de Córdoba (UCO)",
       "translation": "online",
