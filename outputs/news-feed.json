@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T16:49:46.828766+00:00",
+  "updatedAt": "2026-10-20T20:21:41.023841+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -8,9 +8,57 @@
   ],
   "articles": [
     {
+      "id": "google-news-fifa-plans-rule-change-following-controversial-balogun-world-cup-suspension-morocco-world-news",
+      "title": "备受争议的巴洛贡世界杯暂停后，国际足联计划改变规则 - 摩洛哥世界新闻",
+      "summary": "国际足联计划在备受争议的巴洛贡世界杯暂停后改变规则 摩洛哥世界新闻",
+      "originalTitle": "FIFA Plans Rule Change Following Controversial Balogun World Cup Suspension - Morocco World News",
+      "originalSummary": "FIFA Plans Rule Change Following Controversial Balogun World Cup Suspension  Morocco World News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNQUhwSi1Gc2Y3bWtpVE1hbFZSeF9IZTZ2Nk1sX2ZmTDlUeGl5V01NOG1rMDVIRENzZms3bzdmbkJMdGhaZXhBVGNWZjlSR0M0aWJVZVNlVklHWkZTRzRYdUxkamtoaTUtODFoUjR4WkpuOFRZNWg2bHdxSl9PWHZCN0txdTZUOGRCZ0o5TE9WZUg5bW90ZzZDOUthM2M0bmlHZ3BmcmUwMnktZVdTdjBnSG5hTXBUUS1FTWZ5NlM0QTRkQQ?oc=5",
+      "publishedAt": "2026-10-20T18:05:32+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-室内足球世界杯预选赛-哈萨克斯坦队取得-开门红-哈通社",
+      "title": "室内足球世界杯预选赛：哈萨克斯坦队取得“开门红” - 哈通社",
+      "summary": "室内足球世界杯预选赛：哈萨克斯坦队取得“开门红”  哈通社",
+      "originalTitle": "室内足球世界杯预选赛：哈萨克斯坦队取得“开门红” - 哈通社",
+      "originalSummary": "室内足球世界杯预选赛：哈萨克斯坦队取得“开门红”  哈通社",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9XYTZXbldtQkJDVENSRmdrTkpqbXpjY3hqZktOV2FYendIcllhU3R5Q3VxNlIzMVl6NEpfLTAwXzh5akRaWUd0N0VhYlMzS2czYlNR0gFSQVVfeXFMTmxXejY4TGxuOTl3cV9zYk5ILUkzZHdJWkhIVHVsdXI2YmNaVlczNWNWRmFlMlZwMi01dDNQREFMZ3lYNzUtaF9WS0Q2RkNtNzE4dw?oc=5",
+      "publishedAt": "2026-10-20T17:44:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
+      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
+      "summary": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
+      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
+      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGlJSlFHUkJpTTI1N2xsME9ObHhSeDQyYW9GbHJIQ08tWC1PajNxaW9CYW1OdEFYUVc0ZThra2dYWUhOWTZac3lwcDIxaDg1TmJ1dHpodFU5N3RCNkRMWTNPZFlDdU93MDk2R3JsTzdUZW1uSDhnX1Q2dUlIUmxVTkxKUUswZ3lyZGQ2RURMekhxTGp6?oc=5",
+      "publishedAt": "2026-10-20T17:36:37+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-nigeria-vs-puerto-rico-live-blogging-2026-fifa-u-17-women-s-world-cup-group-a-matchday-2-complete-sports",
+      "title": "尼日利亚对阵波多黎各直播博客 – 2026 年 FIFA U-17 女子世界杯； A 组第 2 比赛日 - 完整体育赛事",
+      "summary": "尼日利亚对阵波多黎各直播博客 – 2026 年 FIFA U-17 女子世界杯； A 组第 2 比赛日完整体育赛事",
+      "originalTitle": "Nigeria Vs Puerto Rico Live Blogging – 2026 FIFA U-17 Women's World Cup; Group A Matchday 2 - Complete Sports",
+      "originalSummary": "Nigeria Vs Puerto Rico Live Blogging – 2026 FIFA U-17 Women's World Cup; Group A Matchday 2  Complete Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPdUwxblZ6VjJhd0xyRWZKT1hJZnhVQXVadUtRajAwaDJyM3JVZjhLOGdIN3VZckhNT0xvSnNaMUFfN04tNklYc0FTcXh2dnM3cGpWZWZnSm5MVDkwSjhSZEFMdkNSZC15REJFT3BOR1pUdjFtaU5DTy1lZ1VqZ1BvQklxT0xrZ2FaOTB2UGpTbzZVUHY3blFJNXlaWmtTcGdlVW11XzE0TUhFTlB0MGJ1QUR0dXhaVlc3YWxZ?oc=5",
+      "publishedAt": "2026-10-20T17:00:42+00:00",
+      "heat": 68
+    },
+    {
       "id": "google-news-fall-slate-of-mnt-and-wnt-matches-draw-record-crowds-and-viewership-in-first-matches-post-2026-fifa-world-cu",
       "title": "MNT 和 WNT 秋季比赛在 2026 年 FIFA 世界杯后的首场比赛中吸引了创纪录的观众和收视率 - 美国足球",
-      "summary": "MNT 和 WNT 秋季比赛在 2026 年 FIFA 世界杯后的首场比赛中吸引了创纪录的观众和收视率",
+      "summary": "秋季 MNT 和 WNT 比赛在 2026 年 FIFA 世界杯后的首场比赛中吸引了创纪录的观众和收视率",
       "originalTitle": "Fall Slate of MNT and WNT Matches Draw Record Crowds and Viewership in First Matches Post 2026 FIFA World Cup - US Soccer",
       "originalSummary": "Fall Slate of MNT and WNT Matches Draw Record Crowds and Viewership in First Matches Post 2026 FIFA World Cup  US Soccer",
       "translation": "online",
@@ -56,6 +104,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-world-cup-2026-fifa-hits-egypt-with-heavy-sanctions-africa-top-sports",
+      "title": "2026 年世界杯：国际足联严厉制裁埃及 - Africa Top Sports",
+      "summary": "2026 年世界杯：国际足联对埃及实施严厉制裁 Africa Top Sports",
+      "originalTitle": "World Cup 2026 : FIFA hits Egypt with heavy sanctions - Africa Top Sports",
+      "originalSummary": "World Cup 2026 : FIFA hits Egypt with heavy sanctions  Africa Top Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW91Z2ZyMDVzLThFUUVxcm05aC0wUi1JRGZhSUJCc08tYnBvbElMOFVpenB0STBidlZsdzFFLWwwZ19BY2Y0cUkzRExRVjZfeFJzdFljTXNWMTdJREZ4S2RFemk2YTFmb09paHc5TG96RlM2ZUlHVUpJYTNBSXV0LVlKZFREZTktdWNr?oc=5",
+      "publishedAt": "2026-10-20T14:00:34+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-news-fifa-suspension-is-an-honour-egypt-coach-hossam-hassan-citi-sports-online",
       "title": "“国际足联禁赛是一种荣誉”——埃及教练霍萨姆·哈桑 - 花旗体育在线",
       "summary": "“国际足联禁赛是一种荣誉”——埃及教练霍萨姆·哈桑 花旗体育在线",
@@ -77,18 +137,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORXhnQW5IbmNVXzB1T2t1Mmw5eTVlYmhDY3lacGZmalEyRHBYb3JxWnl4N1dIQ0QxanlGRFZKVGlBN0swdTNwRXd5ZmRFejQyb0dGd2hjRzBYd04xdXI4azgtUTdOcWZiQ0JJaFZ1b0ZNVzRqUWJ1eHRwT1VkLUNMdlFHZE9XX0wyY3ZlWWM3WXlFZw?oc=5",
       "publishedAt": "2026-10-20T13:35:44+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-2026-fifa-hits-egypt-with-heavy-sanctions-africa-top-sports",
-      "title": "2026 年世界杯：国际足联严厉制裁埃及 - Africa Top Sports",
-      "summary": "2026 年世界杯：国际足联对埃及实施严厉制裁 Africa Top Sports",
-      "originalTitle": "World Cup 2026 : FIFA hits Egypt with heavy sanctions - Africa Top Sports",
-      "originalSummary": "World Cup 2026 : FIFA hits Egypt with heavy sanctions  Africa Top Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNMW91Z2ZyMDVzLThFUUVxcm05aC0wUi1JRGZhSUJCc08tYnBvbElMOFVpenB0STBidlZsdzFFLWwwZ19BY2Y0cUkzRExRVjZfeFJzdFljTXNWMTdJREZ4S2RFemk2YTFmb09paHc5TG96RlM2ZUlHVUpJYTNBSXV0LVlKZFREZTktdWNr?oc=5",
-      "publishedAt": "2026-10-20T13:35:43+00:00",
       "heat": 60
     },
     {
@@ -114,6 +162,30 @@
       "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
       "publishedAt": "2026-10-20T13:07:15+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-hossam-hassan-responds-with-a-striking-remark-to-the-suspension-penalty-from-fifa-goal-com",
+      "title": "霍萨姆·哈桑对国际足联禁赛处罚发表惊人言论 - Goal.com",
+      "summary": "霍萨姆·哈桑对国际足联的禁赛处罚发表了引人注目的言论 Goal.com",
+      "originalTitle": "Hossam Hassan responds with a striking remark to the suspension penalty from FIFA - Goal.com",
+      "originalSummary": "Hossam Hassan responds with a striking remark to the suspension penalty from FIFA  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFgtVFF5Z2hhSUJkYlE2UTd4Y1BXc2RxU1hUSVZlbVZFeWhtcUh1Yld4VFlWWUdZRGUwYlA0WW9XSTU2M3haRTU3Zlg5N2pjcGFCdlZVbVlPcDNJcmVGTGozcS1vOElfMFd1aklTaGo3UmJoc1UxX184X1NQNnVPZnRCMjh6UllRUnRUTmNBeW1rV1BMa3hGUzV0WnN4QUh3TnBYeFpOakNTX1RwOFNJSDRhME5yZ21PLXE0dDgtMmZNVDVxV2xDWGJ4amRkQQ?oc=5",
+      "publishedAt": "2026-10-20T12:43:13+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-场均射门-premier-league2026-2027的chelsea数据-fotmob",
+      "title": "场均射门 — Premier League2026/2027的Chelsea数据 - FotMob",
+      "summary": "场均射门 — Premier League2026/2027的Chelsea数据  FotMob",
+      "originalTitle": "场均射门 — Premier League2026/2027的Chelsea数据 - FotMob",
+      "originalSummary": "场均射门 — Premier League2026/2027的Chelsea数据  FotMob",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdzktSlZTOVVNRmtFSFlUMzNRVEF6V0VlbzZCOWRYeHNkY3Bhc2pHZHVWbHQxNHh2VEdNTnIybkJqNVdEM3J5TzR4anhtSlJ4RHZQcXV0cUFLNFdhQk5IT0JmTmxHU3BXT1dUSFRLSld4V1hZTU5qTEtoTVBBa19EXzhpODQ5RnBpQzNtR3JmYUZFbzYtNG94bC1LQ29yd1hUVlVDTmMxM0lWMS1veDlhTTdR?oc=5",
+      "publishedAt": "2026-10-20T12:00:55+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-valvoline-global-operations-joins-fifa-women-s-world-cup-brazil-2027-as-official-supporter-yahoo-finance",
@@ -150,78 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZUdpTF9rTG95UTNsV3RNZ3ZYUDBvZmhvWXZnUmU4QXZwOExmT2V5eFFwVHlzeTVrN2RFU29ibmQ1SDVuS2NyWTQwQU1hNkhXNEJUbGFBMmlVcTVNUEwtLXhyOVZ5Q08xbnNQcDIyZG55OE5YMWNGYmV5cDhnaklLbFdwbFhRaHJJaGw5U2htSTlUVzA5ZXV2RXc2S3ktbWtnMVRhYlhwcHJWUy1sWk5GOHZ3?oc=5",
       "publishedAt": "2026-10-20T11:31:24+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-singapore-u15-boys-gear-up-for-international-challenge-at-fifa-u15-world-cup-and-festival-2026-football-asso",
-      "title": "新加坡 U15 男孩队为 2026 年 FIFA U15 世界杯和节日的国际挑战做好准备 - 新加坡足球协会 (FAS)",
-      "summary": "新加坡 U15 男孩队准备迎接 FIFA U15 世界杯和 2026 年节日的国际挑战 新加坡足球协会 (FAS)",
-      "originalTitle": "Singapore U15 Boys gear up for international challenge at FIFA U15 World Cup and Festival 2026 - Football Association of Singapore (FAS)",
-      "originalSummary": "Singapore U15 Boys gear up for international challenge at FIFA U15 World Cup and Festival 2026  Football Association of Singapore (FAS)",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPZ0lUX20tWHRMRk5iMzItSFN5YzlaX05QbEh3R1gtZkZsMjJWb3NmdTVDeDVBNzBqVjc4eHVEWHhMTDdWVHI5eDlVS1p0QVJHYUpwZEhhRm9SVGZkZUk4TVZfOFBMUzd3R3ZUMmYtN0hUSlNSdDRyQWw0OUhpc0RIemZ2bDBXUWRVYm9DMmxBdTQ0a2xKUTAxUFhIYkdWM0lKMXBtTllreGt3RDlEcE1rQmJHbS0?oc=5",
-      "publishedAt": "2026-10-20T10:52:22+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-watch-usa-put-17-past-samoa-in-record-fifa-u-17-women-s-world-cup-win-dazn",
-      "title": "观看：美国队以 17 分击败萨摩亚队，取得 FIFA U-17 女子世界杯创纪录的胜利 - DAZN",
-      "summary": "观看：美国队以 17 分击败萨摩亚队，取得 FIFA U-17 女子世界杯创纪录的胜利 DAZN",
-      "originalTitle": "Watch: USA put 17 past Samoa in record FIFA U-17 Women's World Cup win - DAZN",
-      "originalSummary": "Watch: USA put 17 past Samoa in record FIFA U-17 Women's World Cup win  DAZN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPY0wzemNXUE1Jcm94T3BGWFZTSXJIVzktLWptbHQwbTk2aDF6ZFRDdWNXOG9iaDhpZ0NsbXdoMGFpbUNqbm80R25EWUJuUmhSMHJYOVFDUmV0S1FyVEE2VGRCY1l5SzBjQmF2Q0p1RFlnZ2NsY21yUUphdV9aR2o0UHE3c0cwTGd2LVFidTdLMmdhYWdiN2o3YlVrQTl6NmItUTBTR3E0RXBFR1ZLLUh2bUQyV1BiUXc5QjQ2Y3ZpcE9fUQ?oc=5",
-      "publishedAt": "2026-10-20T10:45:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-bans-three-egyptians-over-world-cup-match-incidents-yahoo-sports",
-      "title": "国际足联因世界杯比赛事件对三名埃及人禁赛 - 雅虎体育",
-      "summary": "国际足联因世界杯比赛事件对三名埃及人禁赛 雅虎体育",
-      "originalTitle": "FIFA bans three Egyptians over World Cup match incidents - Yahoo Sports",
-      "originalSummary": "FIFA bans three Egyptians over World Cup match incidents  Yahoo Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQm4xMGNqWW42X3AwZ2NLQ0VLNGY4WFI5NmVXSklsSDZsZTB3eFIwaGRVNDNaYXliOXJPWlJlUE9LWFhoYjR2S1ZBcFY2QWkyd2hfNWh0WDVqNFNGWnJGQnQwSk9VdFNxTWk4dzJmYW4tYS12bzk0anBiTXBJRjZHRkphRXlIQQ?oc=5",
-      "publishedAt": "2026-10-20T10:18:35+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-kenya-make-false-start-in-fifa-u-17-women-s-world-cup-africa-top-sports",
-      "title": "肯尼亚在 FIFA U-17 女子世界杯中取得开门红 - Africa Top Sports",
-      "summary": "肯尼亚在 FIFA U-17 女子世界杯中取得开门红 非洲顶级体育",
-      "originalTitle": "Kenya make false start in FIFA U-17 Women’s World Cup - Africa Top Sports",
-      "originalSummary": "Kenya make false start in FIFA U-17 Women’s World Cup  Africa Top Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjdUbXloOEJpZXBfN29yS0lpazUteEF6ck9YU3RhdkZ6Yzd2VEFPOUZtSl9xZlZJTlRVYU9tVTd6R1YyWi1xcExobThwM1A1dlYyRVNPLXZCdnJJcHhEZnRTOEMxa3FYMDkteHpVaHo1OEE3dmpzblYxRFlQUFVBVFk4d2ZxdnZhVks2Vg?oc=5",
-      "publishedAt": "2026-10-20T10:15:33+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-how-to-get-fifa-under-17-world-cup-2026-tickets-dates-schedule-ticket-prices-qatar-venue-information-and-mor",
-      "title": "如何获取 2026 年 FIFA 17 岁以下世界杯门票：日期、赛程、票价、卡塔尔场馆信息等 - Goal.com",
-      "summary": "如何获取 2026 年 FIFA 17 岁以下世界杯门票：日期、赛程、票价、卡塔尔场馆信息等 Goal.com",
-      "originalTitle": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more - Goal.com",
-      "originalSummary": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTGdGdUtCOGRwSk9HNll0QXVocklEM05ENnNkUTZGbWw5YlZ2ODdkNUw0M0RrOEl3VUp6X1MxYlhPNTRJVkpYd3ZfeDN3Sl9LYlc4cm9jMUtEdVFlR3NMVEhnTzdjdmp4VDlGcFYzYzJMRWtwbWRLUlhtRTdiMXJhNEdHWDlMVGgxTkJrTXdYQ3N2cFFrT2Y5ZEZHdFdCYmZy?oc=5",
-      "publishedAt": "2026-10-20T09:55:39+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-2026-world-cup-egypt-hossam-hassan-sanctioned-by-fifa-foot-africa-com",
-      "title": "2026 年世界杯 – 埃及：霍萨姆·哈桑受到国际足联制裁 - Foot-Africa.com",
-      "summary": "2026 年世界杯 - 埃及：霍萨姆·哈桑受到国际足联制裁 Foot-Africa.com",
-      "originalTitle": "2026 World Cup – Egypt: Hossam Hassan sanctioned by FIFA - Foot-Africa.com",
-      "originalSummary": "2026 World Cup – Egypt: Hossam Hassan sanctioned by FIFA  Foot-Africa.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUTJxbndRUWN3YndNbEo0NlBRdlVNaHQ1V0pHUW1WSDBxTHdFSEplZmdZMXRiT1VOcXpWT0RXTlE1NVcweXN0NWRuWjFnWmg3dC1ZNUdSU2ZaX0hMVVVBMXhNVG8wUVpfX2lXT1oxUG9VTlpMTXQybndnTjBDazBOeEx5UnR3aXpsTHk3bGN5QmlyaXdra1hINEJn?oc=5",
-      "publishedAt": "2026-10-20T09:39:40+00:00",
-      "heat": 60
     }
   ]
 }
