@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-20T01:11:16.563116+00:00",
+  "updatedAt": "2026-10-20T06:26:21.150970+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,90 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-heavy-defeat-for-zambia-ghana-powerless-against-norway-cafonline-com",
+      "title": "2026年FIFA U-17女足世界杯：赞比亚惨败；加纳对挪威无能为力 - CAFOnline.com",
+      "summary": "2026年FIFA U-17女足世界杯：赞比亚惨败；加纳对挪威无能为力 CAFOnline.com",
+      "originalTitle": "2026 FIFA U-17 Women’s World Cup: Heavy defeat for Zambia; Ghana powerless against Norway - CAFOnline.com",
+      "originalSummary": "2026 FIFA U-17 Women’s World Cup: Heavy defeat for Zambia; Ghana powerless against Norway  CAFOnline.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNbFl2RkV0Y1hldlZOSDhhcmVUZGxJZUJCNkZNZEVHOVpNQzZ2X3ZxaFdKMzFEQUNDelUwdmVqcjY2cnBWb0cyd1d3YnB0V3EybEpRSUx5OEZxaVNLZFpyNlU4WGExMnJpNWpKc0Z0SHdZRy1VMWhNZ3VPZDliX1hHeGYwbS01NHRHLVZBVlY3SUx4UWJkZkR4REZwTWdVZEt6ODlZdjJRVkJ2Y3hlSnp2dk1lUVotY19WUDNmZkhJQlFNeGN0ODdBXzAxWFpsS3Qt?oc=5",
+      "publishedAt": "2026-10-20T05:53:34+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-kenya-make-false-start-in-fifa-u-17-women-s-world-cup-africa-top-sports",
+      "title": "肯尼亚在 FIFA U-17 女子世界杯中取得开门红 - Africa Top Sports",
+      "summary": "肯尼亚在 FIFA U-17 女子世界杯中取得开门红 非洲顶级体育",
+      "originalTitle": "Kenya make false start in FIFA U-17 Women’s World Cup - Africa Top Sports",
+      "originalSummary": "Kenya make false start in FIFA U-17 Women’s World Cup  Africa Top Sports",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOWjdUbXloOEJpZXBfN29yS0lpazUteEF6ck9YU3RhdkZ6Yzd2VEFPOUZtSl9xZlZJTlRVYU9tVTd6R1YyWi1xcExobThwM1A1dlYyRVNPLXZCdnJJcHhEZnRTOEMxa3FYMDkteHpVaHo1OEE3dmpzblYxRFlQUFVBVFk4d2ZxdnZhVks2Vg?oc=5",
+      "publishedAt": "2026-10-20T05:15:36+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-u17-women-s-world-cup-2026-china-vs-kenya-xinhua",
+      "title": "2026年国际足联U17女足世界杯：中国队对阵肯尼亚队 - 新华社",
+      "summary": "2026 年 FIFA U17 女足世界杯：中国 vs 肯尼亚 新华社",
+      "originalTitle": "FIFA U17 Women's World Cup 2026: China vs. Kenya - Xinhua",
+      "originalSummary": "FIFA U17 Women's World Cup 2026: China vs. Kenya  Xinhua",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9IYTZleVowRUxTUDlBQWhQSDhfeTFzVlBmc2U1TE9iM1RsTW9La3I2R3Z3SFRsaEZLWi1hYXFsbENMc1J2R1YwYnJ4bG45SVhkME1BX2FqcTZSeHJJS1NqZ3FLYm0xOXBZNHNxU1NYWnJDQnRObXhYelk0c0g?oc=5",
+      "publishedAt": "2026-10-20T03:19:26+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-20T03:14:31+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-bans-hassan-brothers-and-ziko-after-argentina-loss-karlobag-eu",
+      "title": "阿根廷队失利后国际足联禁止哈桑兄弟和齐科 - KarloBag.eu",
+      "summary": "阿根廷队失利后，国际足联禁止哈桑兄弟和齐科参赛 KarloBag.eu",
+      "originalTitle": "FIFA bans Hassan brothers and Ziko after Argentina loss - KarloBag.eu",
+      "originalSummary": "FIFA bans Hassan brothers and Ziko after Argentina loss  KarloBag.eu",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNbGdfcElEVzBodXZNMXRVb2tYREMwa2ltZU8tbW1WbThKdy1SQ3BEczNlS25aNHJKSGRCWFo4QXNOdjZlY3pKNHNoaUlYaWFkOTBWTU02YkRyMldhTmdUeUFzeEl2UktVTUxaaE13WG1sN0ZUaERpZFlWVmozcDZJV0xtOUpmRGh6bkk2eVNMTDRoZzRYbTZ1UE9xN1NfZXEyWDY3RVFYQjNhUVNsbGk2RHRBc3BRU3Fp?oc=5",
+      "publishedAt": "2026-10-20T02:51:30+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-the-recipe-behind-telemundo-s-2026-world-cup-success-protect-and-attract-soccer-america",
+      "title": "Telemundo 2026 年世界杯成功的秘诀：“保护和吸引” - Soccer America",
+      "summary": "Telemundo 2026 年世界杯成功的秘诀：“保护和吸引” Soccer America",
+      "originalTitle": "The recipe behind Telemundo’s 2026 World Cup success: ‘protect and attract’ - Soccer America",
+      "originalSummary": "The recipe behind Telemundo’s 2026 World Cup success: ‘protect and attract’  Soccer America",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRDQ0UDBId3Z2elFYOGZnXzFOVlZ6VFhESzVvYzctaEdNQWZhWk1jN1l2RlpET0tlZHhRZnVFMmExRXV6R2k5bTBGNmlUeldfSUowbWY1OUFtRVpvZjQ5azluNldmWFhwUzg1OWVBb09MNGNSdjdpbzVNMmx1OGxMZFRDUU5ER3VuU1k3MWZHUmlBc0Ric1lPdjRzcU05a0dhMTJJSg?oc=5",
+      "publishedAt": "2026-10-20T02:31:03+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-egypt-hit-with-fifa-sanctions-hossam-hassan-ibrahim-hassan-and-mostafa-zico-punished-after-argentina-world-c",
+      "title": "埃及遭遇国际足联制裁！霍萨姆·哈桑、易卜拉欣·哈桑和穆斯塔法·济科在阿根廷世界杯冲突后受到惩罚 Goal.com",
+      "summary": "埃及遭遇国际足联制裁！霍萨姆·哈桑、易卜拉欣·哈桑和穆斯塔法·济科在阿根廷世界杯冲突后受到处罚 Goal.com",
+      "originalTitle": "Egypt hit with FIFA sanctions! Hossam Hassan, Ibrahim Hassan and Mostafa Zico punished after Argentina World Cup clash - Goal.com",
+      "originalSummary": "Egypt hit with FIFA sanctions! Hossam Hassan, Ibrahim Hassan and Mostafa Zico punished after Argentina World Cup clash  Goal.com",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVFdwNUpoZlI2cDBlWjRlRkpwMlY2d1B3UWt0RE9Sc0s3SmhxejJoWXBzR3JjY19hWUdpLXNRMWRCZ0o2ZkFLbHRtVm1sZmNyUUNseHlDald4aGFzalMyNzViYng5NEFuWWRaTE5uRzN0Z0NHNkNVenNVcWdHR2plZjI2Snh6NVlnRjM2cFgwdm0tWWFJZk5JSXJ1eUY2dEU2eU9zZ3RjczdoRmN1NzllYzZ6QnZwU1Z0S2tBV2RQWDlTRnRJbGE3M3FKbmprLUxWOGhQaDk3MjgtSThEWGJFSHpwd2k?oc=5",
+      "publishedAt": "2026-10-20T01:03:54+00:00",
+      "heat": 60
+    },
     {
       "id": "google-news-watch-fifa-world-cup-2026-live-stream-highlights-tod",
       "title": "观看 FIFA 2026 世界杯直播和精彩集锦 - TOD",
@@ -18,6 +102,30 @@
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1QYllJclJhXzhXT1pSN0NLN3dzaVBlQjlyT04xNENQcTNWYmc4RGs4MFVRY2VPOG5KUFV5SlFtVTRoUXhTM0tjX1l0Y0RtanZIazBn?oc=5",
       "publishedAt": "2026-10-19T23:08:43+00:00",
       "heat": 68
+    },
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-usa-vs-samoa-tsn",
+      "title": "2026 年 FIFA U-17 女子世界杯：美国 vs 萨摩亚 - TSN",
+      "summary": "2026 年 FIFA U-17 女子世界杯：美国 vs 萨摩亚 TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: USA vs. Samoa - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: USA vs. Samoa  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSXBScHIxc3EtcjNFci0wUEhHZmRnQzZrcW8zNEVPeEt1YVVkNWVxUVdEc1RaYllwM3FzU0Z3Sjc3UUsyU3ItV1FCVHlVOUNncUpWLW1WZENKdUJtMFVpajBLeW1UVVdfOUNYY1BEOXBHWkxpRjhQTzluMXJHT0VSc1doVzJ4YVlJOEF0dWt6QVFtQQ?oc=5",
+      "publishedAt": "2026-10-19T22:48:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-australia-vs-chile-tsn",
+      "title": "2026 年 FIFA U-17 女子世界杯：澳大利亚 vs 智利 - TSN",
+      "summary": "2026 年 FIFA U-17 女子世界杯：澳大利亚 vs. 智利 TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: Australia vs. Chile - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: Australia vs. Chile  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNDI4YnRETGd1elRiRU9FUm1USXlSZUs3VFowQkVCeUlxUktOQW03OV9SVjhYOF9RM1ZzUGMxcm1XeHdqclpDN1hzQjlxcFo0LW5ZelZCSzJDNFJnSXZrWDAyMExXcTMxRWlXdC1IUE1rcE5MZ2l3ZnMwVnZ5ZGowams1Rkc2aWxmZEY4Y3VEQlp6ZURRSEVuNHJR?oc=5",
+      "publishedAt": "2026-10-19T22:48:00+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-record-breakers-u-s-routs-samoa-17-0-in-highest-scoring-match-in-any-women-s-world-cup-age-group-front-row-s",
@@ -44,18 +152,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-egypt-bosses-and-player-slapped-with-combined-11-match-ban-after-world-cup-chaos-against-argentina-the-sun",
-      "title": "世界杯混乱对阵阿根廷后，埃及老板和球员被联合禁赛11场 - 太阳报",
-      "summary": "世界杯混乱对阵阿根廷后，埃及老板和球员被联合禁赛 11 场",
-      "originalTitle": "Egypt bosses and player slapped with combined 11-MATCH ban after World Cup chaos against Argentina - The Sun",
-      "originalSummary": "Egypt bosses and player slapped with combined 11-MATCH ban after World Cup chaos against Argentina  The Sun",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5xWFJJUXFTaUdFa01JVzdiQUtTeEhLSkNjNkZaeUY0YWdOYmF4bnJ6TnhwOUFFWlRsUy1Kc0NRalhHREdJalBqYTBjMmlFY2xvREF5X0h5SjFGVVZoQlpqclhEdXpZcjZ4UDg0ZmtkR1lWSFM3QXNWWURR?oc=5",
-      "publishedAt": "2026-10-19T22:22:00+00:00",
-      "heat": 52
-    },
-    {
       "id": "google-news-u-s-u-17-women-s-national-team-rolls-past-samoa-17-0-to-open-2026-fifa-u-17-women-s-world-cup-as-maddie-dima",
       "title": "美国 U-17 女子国家队以 17-0 横扫萨摩亚，开启 2026 年 FIFA U-17 女子世界杯，麦迪·迪马里亚 (Maddie DiMaria) 打进六球创造四项纪录 - 美国足球",
       "summary": "美国 U-17 女子国家队以 17-0 横扫萨摩亚，开启 2026 年 FIFA U-17 女子世界杯，麦迪·迪马里亚 (Maddie DiMaria) 打入六粒进球，创造四项纪录",
@@ -66,6 +162,42 @@
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNS05OQWE2WG9WN210bm04a1pGSEFrMHFQSXBKektqUG9FM3JYTWhZc1dXOVVnbEgwQVJlLV9EcTRVY0ktNTE4R0hqWWVfcDFaV0RnRWw4RVRxOU9BLVJ0VnVPdEszVUZCVXpjOVBhVDFha0hQYnU3UnlTbXB1cHNWS1BvUkRNUE5rcllGbVYyR3RucDJSVTY3RWhtQkJzRHZ6cXVlSnVpdmlSSUFBZHpLNnRkWE50enQyQU5mX05Oam03R1FYZTcyaEFB?oc=5",
       "publishedAt": "2026-10-19T22:19:21+00:00",
       "heat": 60
+    },
+    {
+      "id": "google-news-junior-starlets-stumble-against-china-as-u-17-world-cup-campaign-begins-with-3-0-loss-uzalendo-news",
+      "title": "U-17世界杯以0-3负于中国队，少年明星们遭遇挫折 - Uzalendo News",
+      "summary": "U-17 世界杯以 3-0 输给中国队，少年明星们遭遇挫折 Uzalendo News",
+      "originalTitle": "Junior Starlets stumble against China as U-17 World Cup campaign begins with 3-0 loss - Uzalendo News",
+      "originalSummary": "Junior Starlets stumble against China as U-17 World Cup campaign begins with 3-0 loss  Uzalendo News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNenN5b181S3pkT3VBb2lleC1odzB1TTZiYklIQVBVQm04SzBWa3RDYmtaeUlIdUg5S0FzZ01VbjVOMVFrVlpWaDNyYmZyTHVudC04ZjVFVS1NQWRwYmxnb3ctR0FFdVVtQldPdG1YVU50M3lISjFzLXN6bTR0RTBlQ3J2Tl9zRUU5TjdtYlVLU0pTYlpuaExfNVBUOGpzUWthdTFGQUNTQ2JQb2xPNjZjcDN3?oc=5",
+      "publishedAt": "2026-10-19T22:16:27+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-world-cup-venue-map-ap-news",
+      "title": "2026 年世界杯场馆地图 - 美联社新闻",
+      "summary": "2026 年世界杯场馆地图 美联社新闻",
+      "originalTitle": "2026 World Cup venue map - AP News",
+      "originalSummary": "2026 World Cup venue map  AP News",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wc2dPYmtReWJXMFhJVDFxWVIycHNtTTEtRXo3ZmVtUjJEVnlKTjRsNjluOVFGcHVqSlVYRGI0OEpZZ3EzeHMxZFQ3di13MWtnMTVvMEwzN21rcFk?oc=5",
+      "publishedAt": "2026-10-19T22:08:06+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-global-new-report-exposes-human-rights-failures-at-2026-men-s-world-cup-amnesty-international",
+      "title": "全球：新报告揭露 2026 年男子世界杯的人权问题 - 国际特赦组织",
+      "summary": "全球：新报告揭露 2026 年男子世界杯的人权问题 国际特赦组织",
+      "originalTitle": "Global: New report exposes human rights failures at 2026 Men’s World Cup - Amnesty International",
+      "originalSummary": "Global: New report exposes human rights failures at 2026 Men’s World Cup  Amnesty International",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHhEUEp3cEVhbFV1cG5OSDh0dUx1MXF1WEtfY0RjdlNwZE41Y3lNa3plUVZTSXJfSjBxVDVXTXlIejREWk9VS3lZdjFnTGZtLWNFQlQ3dWtoQ3ZEa0owTHc1SEt3eGlKeXBpa1BBa3h3N0JzV2Q3UGJILWlMajhiYkhZV2d5MGs4QnlPd1drWm9sLXFtdTQ2MHhOM1RWR0xPdGw4?oc=5",
+      "publishedAt": "2026-10-19T22:01:07+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-how-to-get-fifa-under-17-world-cup-2026-tickets-dates-schedule-ticket-prices-qatar-venue-information-and-mor",
@@ -80,147 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-argentina-to-face-spain-in-the-world-cup-final-what-to-know-abc7-bay-area",
-      "title": "阿根廷将在世界杯决赛中迎战西班牙：须知 - ABC7 Bay Area",
-      "summary": "阿根廷将在世界杯决赛中迎战西班牙：须知 ABC7 湾区",
-      "originalTitle": "Argentina to face Spain in the World Cup final: What to know - ABC7 Bay Area",
-      "originalSummary": "Argentina to face Spain in the World Cup final: What to know  ABC7 Bay Area",
+      "id": "google-news-display-your-soccer-pride-with-lego-s-fifa-world-cup-trophy-down-at-a-new-160-amazon-low-40-off-9to5toys",
+      "title": "使用乐高 FIFA 世界杯奖杯展示您的足球自豪感，亚马逊低价 160 美元（立减 40 美元） - 9to5Toys",
+      "summary": "使用乐高 FIFA 世界杯奖杯展示您的足球自豪感，亚马逊低价 160 美元（立减 40 美元）9to5Toys",
+      "originalTitle": "Display your soccer pride with LEGO's FIFA World Cup trophy down at a new $160 Amazon low ($40 off) - 9to5Toys",
+      "originalSummary": "Display your soccer pride with LEGO's FIFA World Cup trophy down at a new $160 Amazon low ($40 off)  9to5Toys",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqwlBVV95cUxOYUl3bzhVTDdGUXN0Z0hiVTVMOVZ3TnhkMWNXTmVpU3drbXhFUVlrZjBEelpyYXRKRDgyWVg1Y196TmVaRFJTaDZLOXdtbVY0bFpHazRBZ1U4TDNTakpYWE9tSzlsTm1ibTFhMl9aWnkzdHA0NUs5S2FLMWI4Q3hPM1ZJODJZcUtRdGFYaDRXTjN5LVdxdE9wU3laNWtlbDhZYnNORUR6NzRWS0R0UzlERnNXcmFyVFkwWWtSZXlWaDZ3RUxvQUZxNk5fTXMwcTZPQ1E1UERWTnJvMmd1S3ZfUEhoWHhSaHdEeE02NnNrS2RSd1JfSWd0M0FGVFlKN3pkLVVya3RRUFB5d1VkRXdOTGRubWI3eWhKUEF2TDdIc3ZTTHdyV1BONGFUSmplaXBrcHNnOFpWeW85OEZTT1FfOUFxU1FjQmtEamg1X1E0QXpiQTNTejNaT096MUtDSGJ1RkdYdXlhWkNSV0VmcTZuRHBCaFV0VVBTTGc3VUxPYUVUN1lUV2tuMFgxRzZZTVVtWXVRcXpVYVg1bUhPajFGdERaSWtPNzNzZDhpM3VJQTFvbFdKTlgwc045WHpLMlZJdlZYT3Zldk9RTkxHRzN5WFo1d0Zjak1KLTNGQ3RQa0Y4YTRPZ0FsNk5UNWRDS2JRYlplTElJWXBTWm00Sm1xd1NGenVhQklSQVFLUXNGNWtGckRERHEtMUZENHhBTG1GT2xPbHZDWmVIcEpEbG96WEdGVWhwZHhoR0VnWV9hRHBnY0NWSGNpMmszdUN2dEdvWnFpdHFwOTZBaFpoMFNqNG1JTnhCX1lHQmlVOFdxamdEM0xmdG01b1U1ZVhNMjVWWXc1aWF2SFoxN3g3MWM5M00tNEI3ZlhaS01MTWdSbDgxbmtoVWpwcXA5dVB5QTZtOHJmSDFDSFZqeTRPcDZWQk8tS1dEYWw5SzJVcmFLU1JIVzVOSVlDVUFkTE5HdTRvYjA3NTZGRmZ0QUNRRkU2aFlNRDJIeDRsdnNFTnppa2E4dWdFbEE0NFdOZGVOeTRDVWV6c0RkRS13TjFtTy0zUDZPNDI2WVJTVUsxdmZ4RTExSURNeVMwZGJrTWJDcTlTTU5jZU8zSHYzMUdndDJVX21TM25pSGlXSmc3dEhlWVpabTd5TFpOanhZUnJRb0lrUFRNM3lNQzNaYWpsQUIxXzI3bFJ0ZGRYRHprdC1CanBORjYwODM5cEFIcDA3WUhvalZUSjJ5M0RPZWZCbGRaakFTUWxBNGNiU05MdW9vMVQ1ejFKVFI4cENVTEtCSVVtSzBtQ1hDbURHMFJKUmdISlZGYUZ2djNua2J1cW5ObHRwRXlraFpRUmhrdjdDbmw3N0Vmdi1BN054bnU4VkxlYjZzSFp6NUNjdjVsZnkyYzk1Qk5LWmF3cmVSc01sRllXaFp3elpOcDFLYTZ0c0prTDBZTWV1RTk5YklOUFFFb1FKXzRCenFTeXVKMFNaMXNsTU5Fb3ZBbUhKbUhUcm1VUFJrWFU3TFdXQ0VHSktOZGwxbzhraG1pbmVXR0N0bWR1U2xkd2FtbkJURU1yaDRPSkJLdjZWNzhjQTc0?oc=5",
-      "publishedAt": "2026-10-19T21:30:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-suspends-egypt-manager-hossam-hassan-for-3-matches-morocco-world-news",
-      "title": "国际足联暂停埃及主帅霍萨姆·哈桑三场比赛 - 摩洛哥世界新闻",
-      "summary": "国际足联暂停埃及主帅霍萨姆·哈桑 3 场比赛 摩洛哥世界新闻",
-      "originalTitle": "FIFA Suspends Egypt Manager Hossam Hassan for 3 Matches - Morocco World News",
-      "originalSummary": "FIFA Suspends Egypt Manager Hossam Hassan for 3 Matches  Morocco World News",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTmpvTWFvUGZOZTJzMUJQNUZPekNyZGM4d0JFRUJRR2ZxRVpoRlNnZmpWZlRYSVNBSklkUzlGdDYxajdRQ0p0MzlINUZzY1E2STFuY2pxVG1TUFF1MEg2enFyal9IVHozaHNXenFKVDVLbDNtQm9hWVZ2VUtrVzliWmpjc3dsSC1MRU9HSzMxOFRJdmhUc2xJRnJ5RXF5bzJOa2NxR00waw?oc=5",
-      "publishedAt": "2026-10-19T21:12:27+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-usynt-makes-history-in-u-17-women-s-world-cup-opener-concacaf-official-website",
-      "title": "USYNT 在 U-17 女子世界杯揭幕战中创造历史 - Concacaf |官方网站",
-      "summary": "USYNT 在 U-17 女子世界杯揭幕战中创造历史官方网站",
-      "originalTitle": "USYNT makes history in U-17 Women’s World Cup opener - Concacaf | Official Website",
-      "originalSummary": "USYNT makes history in U-17 Women’s World Cup opener  Concacaf | Official Website",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOTEhoWE90Wk9LWG9ZSFJYUDFxbmJqZXFGY0U5UzZlV3hTM3pGS0RNS3RReUlWdm1sM3NEREt4MzRKVXNrOEozV0pENVcxeXNHV0pXcHpxRE11a3FKRDYyeldhOFA4ckNqdmFGdmpQeXNkNFBvZ1dTSU10SzRfRVdRaGZ4ZGxoQnpPYkh3VFAxckNobUpzb2V2cXB4UnpxZHVOQTlXMUNDbnhMOG5ZbWJnWjVoM25FdHJuTFZyYjRJWQ?oc=5",
-      "publishedAt": "2026-10-19T20:54:04+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews",
-      "title": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 - TicketNews",
-      "summary": "BTS 在 ARIRANG 世界巡回演唱会中添加第三个墨尔本日期 TicketNews",
-      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
-      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQTltT2VWcWtZUkV3cHR3OXhJcklQLWFqZVJLUFNlRW5BU2pBQWVGX0NoZDY2QTRXeURkT3RZamNJQW9NWmhKM041dS1ocFJ6VQ?oc=5",
-      "publishedAt": "2026-10-19T20:50:33+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-morocco-vs-germany-live-score-october-20-2026-fox-sports",
-      "title": "摩洛哥 vs. 德国 - 实时比分 - 2026 年 10 月 20 日 - 福克斯体育",
-      "summary": "摩洛哥 vs. 德国 - 实时比分 - 2026 年 10 月 20 日福克斯体育",
-      "originalTitle": "Morocco vs. Germany - Live Score - October 20, 2026 - FOX Sports",
-      "originalSummary": "Morocco vs. Germany - Live Score - October 20, 2026  FOX Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0lSd2ZpTFNaRl9kSHIxV1htOVBqT0Z6ZTl3TVlBWmpldFRMd0Q4aExkWXQwUjBTeTZWa29LT2JCRTYzX3c3R2ZWZnQ4WmxQZXo0bzlVY0tRUWhhNGxaTHJ4a3ZqbUtLZW9RemFFb0dGS2tjSEZxMklrdmM1UThmUjgyVzNHempaZng5ekx4X3hiYklZRlZwV0ppOU80OFMzSkdoTVd3OF9sZnU2UmRZ?oc=5",
-      "publishedAt": "2026-10-19T20:40:48+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-lemon-hill-park-to-undergo-7m-transformation-after-fifa-fan-festival-metro-philadelphia",
-      "title": "FIFA球迷节结束后柠檬山公园将进行耗资700万美元的改造 - Metro Philadelphia",
-      "summary": "FIFA 球迷节结束后，柠檬山公园将进行耗资 700 万美元的改造",
-      "originalTitle": "Lemon Hill Park to undergo $7M transformation after FIFA Fan Festival - Metro Philadelphia",
-      "originalSummary": "Lemon Hill Park to undergo $7M transformation after FIFA Fan Festival  Metro Philadelphia",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQektmVEV2bWxRTmdqbDNqb1F2Q2pTS0lieUEwaFVrd1hVV0swSHRxMXE1RzI4Z0FtelpDeE5EMG5CNmtFUlJMTzlobThwRU5xalVTR1N6YkVkWEo0N3RwdnppTHVmTXVrY2RZaU1pam1hVkpYQXVvclc0UDVMMWR1am8zTGM2alV2Q0llVmd0b3ItVHpiZll0WmFNWUI?oc=5",
-      "publishedAt": "2026-10-19T20:09:01+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-2026-fifa-u-17-women-s-world-cup-spain-vs-mexico-tsn",
-      "title": "2026 年 FIFA U-17 女子世界杯：西班牙 vs 墨西哥 - TSN",
-      "summary": "2026 年 FIFA U-17 女子世界杯：西班牙 vs 墨西哥 TSN",
-      "originalTitle": "2026 FIFA U-17 Women's World Cup: Spain vs. Mexico - TSN",
-      "originalSummary": "2026 FIFA U-17 Women's World Cup: Spain vs. Mexico  TSN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNa0x0SllpaHNHS002YXFmMklDNDhRMFcxeVFSTFZXbWlHR1BKVFNPYWlhTUtfenpLSWZQMDZnd3Bhb3oxeW13d0doU1FFd0RrVVZ0a215UmRodnk2MDEzdTdjT1NiZ0VBQWcxelpIbm9GRmM1Y2VRTGZ5eDhES2MwWFZEdEZCQWFPLTJzdnFxazFEb0VLa1E?oc=5",
-      "publishedAt": "2026-10-19T19:48:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-egypt-hit-with-fifa-sanctions-hossam-hassan-ibrahim-hassan-and-mostafa-zico-punished-after-argentina-world-c",
-      "title": "埃及遭遇国际足联制裁！霍萨姆·哈桑、易卜拉欣·哈桑和穆斯塔法·济科在阿根廷世界杯冲突后受到惩罚 Goal.com",
-      "summary": "埃及遭遇国际足联制裁！霍萨姆·哈桑、易卜拉欣·哈桑和穆斯塔法·济科在阿根廷世界杯冲突后受到处罚 Goal.com",
-      "originalTitle": "Egypt hit with FIFA sanctions! Hossam Hassan, Ibrahim Hassan and Mostafa Zico punished after Argentina World Cup clash - Goal.com",
-      "originalSummary": "Egypt hit with FIFA sanctions! Hossam Hassan, Ibrahim Hassan and Mostafa Zico punished after Argentina World Cup clash  Goal.com",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTGZxQWVwUmVxYWdvUmJTUE5zaFF1RlMzUUU4elRGdHl6S0VrZXFhaFo4UHNVTWd3QVlONklMYU4yaW12YTlkb2RaUW4wM0xwX040bjB1TTBzSkN6eHB1LVhaLXRzemJ2dWIxeWZtZFpzaTNNbENOanVyWGZqTnRhT0ZqdlFKMzlkSjZfYUhHY1JUOHdBX2VMNnVpUEhGZTFEanEtNTJseG1XUnRydXBSdjZBMjlENXpvWVFfRWp5ejBJR3FCYkZwWmx1eFdrby1EQS1ZcmdRVlRaRE9IMVl4d0JLTC0?oc=5",
-      "publishedAt": "2026-10-19T19:30:14+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-france-destroys-belgium-4-1-olise-stays-hot-stadium-rant",
-      "title": "法国4-1击败比利时，奥利塞保持热度！ - 体育场咆哮",
-      "summary": "法国4-1击败比利时，奥利塞保持热度！  体育场咆哮",
-      "originalTitle": "France Destroys Belgium 4-1, Olise Stays Hot! - Stadium Rant",
-      "originalSummary": "France Destroys Belgium 4-1, Olise Stays Hot!  Stadium Rant",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE51TGJIdnJLYlNNMGU0aXo5Z2Z4UjV4dFN1UmNQa2tRX0VaSVVTZEhhcFJqekRmWTB2SHc1dlk3cUZWNXBDcU9hcFJhMzlaa0VSaUo4Q2h1S2RHMmROODR0X2dNZnJBUF9xVmFYazBiYmxpZTV3Z2xDTjdiNFo?oc=5",
-      "publishedAt": "2026-10-19T19:12:51+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
-      "title": "Shakira & Burna Boy – DAI DAI（FIFA 2026 世界杯官方歌曲） - Tooxclusive",
-      "summary": "夏奇拉和伯纳男孩 – DAI DAI（FIFA 2026 世界杯官方歌曲）Tooxclusive",
-      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
-      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGlJSlFHUkJpTTI1N2xsME9ObHhSeDQyYW9GbHJIQ08tWC1PajNxaW9CYW1OdEFYUVc0ZThra2dYWUhOWTZac3lwcDIxaDg1TmJ1dHpodFU5N3RCNkRMWTNPZFlDdU93MDk2R3JsTzdUZW1uSDhnX1Q2dUlIUmxVTkxKUUswZ3lyZGQ2RURMekhxTGp6?oc=5",
-      "publishedAt": "2026-10-19T19:12:34+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-junior-starlets-stumble-against-china-as-u-17-world-cup-campaign-begins-with-3-0-loss-the-eastleigh-voice",
-      "title": "U-17 世界杯以 3-0 输给中国队，少年明星们遭遇挫折 - The Eastleigh Voice",
-      "summary": "U-17 世界杯以 3-0 输给中国队，少年明星们遭遇挫折 The Eastleigh Voice",
-      "originalTitle": "Junior Starlets stumble against China as U-17 World Cup campaign begins with 3-0 loss - The Eastleigh Voice",
-      "originalSummary": "Junior Starlets stumble against China as U-17 World Cup campaign begins with 3-0 loss  The Eastleigh Voice",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQWkdxMVAtY3FjUFp2WS1jTUhBLWdmZk5LNDJfeUJQbGwzSzM5VEJyY1p1TzkyZlZuRDd3Zk5Ca3M3ZU5tMDl6cjM1SERvYmdWdzFPeDV1cDVVYnFXSUZOTVF0QjBDSm91NENVZ20tTXVTQ1NGd081RTE0eDRLU29GRk04SV9xTFdrQ203OUlUb21ZeFNqNExvdGdhQVN4Y0hTcE5mQUVjd0t4MF8tVDJBaDh2UVpvVEJpWFB6VzRUY3J6Unp2eUIySUNn?oc=5",
-      "publishedAt": "2026-10-19T19:07:33+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-manning-stanislaus-prepped-for-u-17-fifa-world-cup-university-of-north-carolina-athletics",
-      "title": "曼宁和斯坦尼斯劳斯为 U-17 FIFA 世界杯做准备 - 北卡罗来纳大学体育学院",
-      "summary": "曼宁和斯坦尼斯劳斯为 U-17 FIFA 世界杯做准备 北卡罗来纳大学体育学院",
-      "originalTitle": "Manning & Stanislaus Prepped For U-17 FIFA World Cup - University of North Carolina Athletics",
-      "originalSummary": "Manning & Stanislaus Prepped For U-17 FIFA World Cup  University of North Carolina Athletics",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNR3B2MHlGaWt1NzAyV3hUdUU2dVBBQ0ZpaFRwbUN0dUZvempURlVfRVhHc3hSU1ZpRkRzejJsdTBpUllpdHI1UzNHdkp4OFNxVS1leFE0NHNWVEc2ZVVKR3FCMWY5N2d3Y0Y0aTdtWFVzVTlzNFRMWVdEdW9rZE9pX2RZYW51VzRMb1BTSV9fQ1FSN3JXRjJhRUE2LWk5NDYtQVE?oc=5",
-      "publishedAt": "2026-10-19T17:56:12+00:00",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE95Uk1fVzIwNHEyM2Jfc1BONVF3WHliRS1uREdtUWpIbGZ5RDd0UGRXUGtLTnN3b0paQkpMaTNwd3VrQmZhZldyWEtiZ0UwemNMSXgtRlpTaXYtSnhIVnhvVUo1SGZ2M3FiRm9GdUFsWGtKV1NwZGRF?oc=5",
+      "publishedAt": "2026-10-19T21:34:00+00:00",
       "heat": 60
     }
   ]
