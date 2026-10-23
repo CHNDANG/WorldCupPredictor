@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-22T23:16:00.136427+00:00",
+  "updatedAt": "2026-10-23T01:48:56.673982+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-u-17-women-s-world-cup-match-china-vs-samoa-xinhua",
+      "title": "国际足联 U-17 Women's 世界杯 match: China vs. Samoa - Xinhua",
+      "summary": "国际足联 U-17 Women's 世界杯 match: China vs. Samoa  Xinhua",
+      "originalTitle": "FIFA U-17 Women's World Cup match: China vs. Samoa - Xinhua",
+      "originalSummary": "FIFA U-17 Women's World Cup match: China vs. Samoa  Xinhua",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9YaUNyV3g3MWY5WFA0blpSblN1SE1MSDRZakxNeXdwUUpuNFV1MFBHUVFCSW5FZEVnN3dVYVNwMHZhUzR0cVVWSi1pZHZNT3Z0aDd3bGFCaUctb3NMNEJUR1hOOU9XRjFJT0tlTlVmWm9zQ21uT0h4bmxTZHY?oc=5",
+      "publishedAt": "2026-10-23T01:42:18+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-sp-morocco-rabat-football-u17-women-s-world-cup-china-vs-samoa-big-news-network-com",
+      "title": "SP)MOROCCO-RABAT-FOOTBALL-U17 WOMEN'S WORLD CUP-CHINA VS SAMOA - Big News Network.com",
+      "summary": "SP)MOROCCO-RABAT-FOOTBALL-U17 WOMEN'S WORLD CUP-CHINA VS SAMOA  Big News Network.com",
+      "originalTitle": "(SP)MOROCCO-RABAT-FOOTBALL-U17 WOMEN'S WORLD CUP-CHINA VS SAMOA - Big News Network.com",
+      "originalSummary": "(SP)MOROCCO-RABAT-FOOTBALL-U17 WOMEN'S WORLD CUP-CHINA VS SAMOA  Big News Network.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUnpkMDdJb3lLMEFDZmYweE1jUk1vUmI4YVdMUkVLWXJrVEdOVjA5TTV1S25GZTdHWmVYdnlreW5nMDE5aEk5NXhsMUl1b1p6ZC0yTTdtTk1WNEhLT1ZRRXY5UjhudmlQOEszbUdjZ2JzME5yNmE4UklZTHMxOWpLNXJJRjVJU1E2VmxVVmt1bFBaUHRtWHM4bEdrakUwNExjX0d6dXBudVl2UQ?oc=5",
+      "publishedAt": "2026-10-23T01:23:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-spain-vs-australia-final-score-october-22-2026-fox-sports",
+      "title": "西班牙 vs. Australia - Final Score - October 22, 2026 - FOX Sports",
+      "summary": "西班牙 vs. Australia - Final Score - October 22, 2026  FOX Sports",
+      "originalTitle": "Spain vs. Australia - Final Score - October 22, 2026 - FOX Sports",
+      "originalSummary": "Spain vs. Australia - Final Score - October 22, 2026  FOX Sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZkNMV3hUODRiaVpESFFRWXE1b1NobGl6bHh0N0FISERjaldFMTN3YTEwaTVmZXpVbXdHNTBrSV9NTkdIUGp2ckRzWW9OdndaNVVOT2Vrb3NTeG80SlQwNE45aHFkR3R4RGxmQmhpT0N6bU5TOTh2YW1vbkwtekNXOVBJc053OHhmOFNHMTJNaXJPREZ5a1loTGpYbVluaU1rWmZDcGt4NlVLYW9jWEZ3?oc=5",
+      "publishedAt": "2026-10-22T23:39:26+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-fifa-takes-over-nff-administration-after-gusau-sanusi-others-resign-sahara-reporters",
+      "title": "国际足联 Takes Over NFF Administration After Gusau, Sanusi, Others Resign - Sahara Reporters",
+      "summary": "国际足联 Takes Over NFF Administration After Gusau, Sanusi, Others Resign  Sahara Reporters",
+      "originalTitle": "FIFA Takes Over NFF Administration After Gusau, Sanusi, Others Resign - Sahara Reporters",
+      "originalSummary": "FIFA Takes Over NFF Administration After Gusau, Sanusi, Others Resign  Sahara Reporters",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzhJamhNbGw0ckFwZzBRQkNZd2NBY2xzeWNtY25oRFZ5dEZCVGpWUVk2ZU5kTWVpblQwNFlwWWhmRGRJTnAwUmlkaGxwRlBVbXM1aGNHYUo2LWJfdEsyb19PdWEzbkxYejVlb0FYVFJhM3BmZXlnS0xPcXhpX2YwVFplV09lTjRiZVNYckRfTVFKeEZBU3ZwcHZqX20xclRraEhMQUhPckxUZw?oc=5",
+      "publishedAt": "2026-10-22T23:26:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-inside-new-morocco-s-mohammed-vi-football-complex-hosting-the-2026-u-17-women-s-world-cup-cafonline-com",
+      "title": "Inside new Morocco’s Mohammed VI Football Complex 举办ing the 2026 U-17 Women’s 世界杯 - CAFOnline.com",
+      "summary": "Inside new Morocco’s Mohammed VI Football Complex 举办ing the 2026 U-17 Women’s 世界杯  CAFOnline.com",
+      "originalTitle": "Inside new Morocco’s Mohammed VI Football Complex hosting the 2026 U-17 Women’s World Cup - CAFOnline.com",
+      "originalSummary": "Inside new Morocco’s Mohammed VI Football Complex hosting the 2026 U-17 Women’s World Cup  CAFOnline.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQd3F4TllGblFFTUhicDBTU0FQNkZ1ZEQtYW9NUU90NWhYNm5GSVlZUzA4RzJHT3dpczVVX2FjS2NjRVEzNk9iNVZlMm4wTkRNblZqaGJUenpOUzFyUjRZcHozVV9FLXZiYlp2Ti1KMjJGWDV4N1VLMDBaN3RzeGNMNDFDRnJiQ1RWZXMzR205YlJvbDFzNlhtVXZMYk5rWTMtM3ZfbEdkMnRvNk14Y2dWM3RiRDNwVG9DdlJ0S3hTTHViX0pCSF9KOXVsVjFVYnhtMExv?oc=5",
+      "publishedAt": "2026-10-22T23:23:41+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-abc-tv-nfl-football-2026-𝐋𝐈𝐕𝐄-world-cup-2526-ｔｖ-ｃｈａｎｎｅｌ-29-july-26-北陸地方整備局",
       "title": "+!(ABC-TV) NFL Football 2026 𝐋𝐈𝐕𝐄 World Cup 2526 Ｔｖ Ｃｈａｎｎｅｌ 29 July 26 - 北陸地方整備局",
@@ -18,6 +78,18 @@
       "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxNdThMalVRVDdOemtTR1p6b052b3MyUWFZMlpZZDFNbDM1eWVTVmdZcnYteXNuY2R5dUU3Y2oyTEN1UkxneC1QTEdmRWxySEdjd1c1OEhNTk8zWk1KZC0zbWhqZENVSy1tSS10Ylo2cWl4OHY4Wlo2TGl3R1B2N1VhUENja0Q4T2ZUVG42QndDM3J1VFZTWnQ1bDZCeHBQQmVTbUg3S2VPMGd6WGh0QTZzRmhvekJ6SGI5NjBBVkdLcXQwQ1NiMkctSlNaRVFYTnRFNkRSdW1Ic1lPTVVOd3pycktSaE9UM29iTDcwcC1QOVFTYmdkZjVoOGpQUzJGWkVJTXlrN1hCN05MSm0zVF9OQTZIbw?oc=5",
       "publishedAt": "2026-10-22T23:13:40+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-fifa-collect-uses-blockchain-to-curb-world-cup-ticket-scalping-crypto-briefing",
+      "title": "国际足联 Collect uses blockchain to curb 世界杯 ticket scalping - Crypto Briefing",
+      "summary": "国际足联 Collect uses blockchain to curb 世界杯 ticket scalping  Crypto Briefing",
+      "originalTitle": "FIFA Collect uses blockchain to curb World Cup ticket scalping - Crypto Briefing",
+      "originalSummary": "FIFA Collect uses blockchain to curb World Cup ticket scalping  Crypto Briefing",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB0V24taEd5b19rS2puX1ZWeTZLVXdwQkMtZHVacE44NmptZ19nSmlHd0lZa2VnV0hvWUxiWkMtc1VEVGR3bEFVZmt4Zmd1QS1yNmhoUHQ2dVA1Y3R0S2pJaGRFcjRhd0RuNjYybDdCTzdJR3c?oc=5",
+      "publishedAt": "2026-10-22T23:03:27+00:00",
+      "heat": 60
     },
     {
       "id": "google-news-they-re-moving-on-u-s-women-roll-qualify-for-u-17-world-cup-knockout-round-front-row-soccer",
@@ -51,8 +123,32 @@
       "originalSummary": "记者：FIFA确认首届女足世俱杯2028年1月在美国举办  直播吧",
       "translation": "source",
       "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14Q3FPRWcwRTJLSDdJTmdZSnNuY05iZzdySzV6dDYyRU9LeG1LS0UteW56TzJOSkJYNUpfdHdGMzVIUm5Cb2tHY210ejR4cFlaZkdNMWttQlNEYjdCdGN4MnFDMFY1ejhZME56WnZVY2VQZw?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rdzhYZTRPVjJDYk9hc3JRZG13T3loSHF4VkNFcVp0Y1BxNEVrcVd5d2RJd19fN1lRQk5GVW1FbDVCYWVVSExWMTZjcVktdHpYbG0tc29zTk9icHdQSTMtVW1uTms0WnhoNXFoX2tZZ1FwbmVKNHVrbg?oc=5",
       "publishedAt": "2026-10-22T22:01:03+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-fifa-opens-bidding-for-2030-and-2034-world-cup-media-rights-covering-us-and-puerto-rico-reuters",
+      "title": "国际足联 opens bidding for 2030 and 2034 世界杯 media rights covering US and Puerto Rico - Reuters",
+      "summary": "国际足联 opens bidding for 2030 and 2034 世界杯 media rights covering US and Puerto Rico  Reuters",
+      "originalTitle": "FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico - Reuters",
+      "originalSummary": "FIFA opens bidding for 2030 and 2034 World Cup media rights covering US and Puerto Rico  Reuters",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYXBOcHFMMDVhZTNkUTIyNlBVbk9pUUtvRW5fTjJ5cmJDUWhrdmVKb09jS1JwYnBZeGxCOE1PZndSVmJGV3VNbkJPOUwyV0hHeUtCZ0Z5YTMwcXRwS2w2Zi1WNC1nd0xiWGo3OTYwTU1felZGYkxyN1VWN2ZjelE0c1NvUlB4OGFzYXFRYTZTYmhRN19vUWlKZElqajVvUTlRSHRMcFE5QzRQUWMzVGRUX0ItX3h2ZWVaYUExNFJfOEh6R3Fhck93azVmajdIYkE?oc=5",
+      "publishedAt": "2026-10-22T21:33:48+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-appoints-normalisation-committee-to-manage-nigeria-s-football-naija-news",
+      "title": "国际足联 Appoints Normalisation Committee To Manage Nigeria’s Football - Naija News",
+      "summary": "国际足联 Appoints Normalisation Committee To Manage Nigeria’s Football  Naija News",
+      "originalTitle": "FIFA Appoints Normalisation Committee To Manage Nigeria’s Football - Naija News",
+      "originalSummary": "FIFA Appoints Normalisation Committee To Manage Nigeria’s Football  Naija News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdEFvRjBBN1hpcklPMmwxb3JJQ2tYSFQtUjNLTm4wTk9Dbm5zaTlfNUNsNWg0c0huWUJaYWEzYmJGbUNOeVFQYmVNbmJSaW1kdVpkOWp0ZkYxdF83VXBKRjc3aGo4ejIzM3ZUOHN5VGlCTUI3dnBuSy1sY3JZMWRpQTBjaXl3WUpvSFh3U201SzRnSjVzNElsN1RERENCdk1z?oc=5",
+      "publishedAt": "2026-10-22T21:15:44+00:00",
       "heat": 52
     },
     {
@@ -63,8 +159,8 @@
       "originalSummary": "Ballon d’Or 2026: Can Bayern’s Harry Kane end England’s 25 years of hurt?  Al Jazeera",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNQ0ZnWEhyamx3cGF3UVlyN3ZQazhLZWsyTERWWGpkdmRhODctUDFBVUc0V3lJYkpLMGFpM0Q4Yms5c0dIOFA0NFk1c21PWk9NaS0yZmYzU252R1ZqV3k0LVBRdGxCQ2ZDcnRvdThlOU56bkcyakNKdUEwQVNmak03VGlCQ1k2TEFvdUVzY0Y1aGF0bXhZaW1fNmlDbTNlMWpOYWZvQWdIMXg3ZFVRS2xZSHh30gG3AUFVX3lxTFA4QUFOLTJlX0V2bjVncDdrM1p2T2Z5YnBoVHpObUtKTHRsUngwRWtLRWVxWDBuclA1UE9zcmlZMTJSRXRZc3RQLVRDV0tnQmtzZmgtQkg5QjJWM1puUlA2ZVBRY2Rkc0xwbldRSFRMX1pwOFBUSzJRU0ZJUDNDRXpRVUItLUtzMU8xdVBLdnFCRldhNzVqSVh4VjJtcXZ5V3BfMnJGU0tyckdEaVdYY1FJQVNaYkNTaw?oc=5",
-      "publishedAt": "2026-10-22T21:08:28+00:00",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQOEFBTi0yZV9Fdm41Z3A3azNadk9meWJwaFR6Tm1LSkx0bFJ4MEVrS0VlcVgwbnJQNVBPc3JpWTEyUkV0WXN0UC1UQ1dLZ0Jrc2ZoLUJIOUIyVjNablJQNmVQUWNkZHNMcG5XUUhUTF9acDhQVEsyUVNGSVAzQ0V6UVVCLS1LczFPMXVQS3ZxQkZXYTc1aklYeFYybXF2eVdwXzJyRlNLcnJHRGlXWGNRSUFTWmJDU2vSAbcBQVVfeXFMUDhBQU4tMmVfRXZuNWdwN2szWnZPZnlicGhUek5tS0pMdGxSeDBFa0tFZXFYMG5yUDVQT3NyaVkxMlJFdFlzdFAtVENXS2dCa3NmaC1CSDlCMlYzWm5SUDZlUFFjZGRzTHBuV1FIVExfWnA4UFRLMlFTRklQM0NFelFVQi0tS3MxTzF1UEt2cUJGV2E3NWpJWHhWMm1xdnlXcF8yckZTS3JyR0RpV1hjUUlBU1piQ1Nr?oc=5",
+      "publishedAt": "2026-10-22T21:04:44+00:00",
       "heat": 44
     },
     {
@@ -80,6 +176,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-fifa-takes-over-nigeria-football-administration-politics-nigeria",
+      "title": "国际足联 Takes Over Nigeria Football Administration - Politics Nigeria",
+      "summary": "国际足联 Takes Over Nigeria Football Administration  Politics Nigeria",
+      "originalTitle": "FIFA Takes Over Nigeria Football Administration - Politics Nigeria",
+      "originalSummary": "FIFA Takes Over Nigeria Football Administration  Politics Nigeria",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNdjhaa3V6YnRPSXEwcmZzcjFYRWZNUE9yR0ZoTjJueVkzRGxGZy1qek9UZ184ci16aUNEbEZmZU1KMzV3dXdXUDh2NW1wSk1fR3ZuTnZmbWY0eDRhdFAxaEswcXZETUdNYkpvOWZYcmFWbHlQbzUybnhucDVlcm1odWNPM01nTHNINFpwUWpiVUU?oc=5",
+      "publishedAt": "2026-10-22T20:09:31+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-fifa-launches-bidding-war-for-2030-and-2034-world-cup-media-rights-in-the-united-states-goal-com",
       "title": "国际足联 launches bidding war for 2030 and 2034 世界杯 media rights in the United States - Goal.com",
       "summary": "国际足联 launches bidding war for 2030 and 2034 世界杯 media rights in the United States  Goal.com",
@@ -90,18 +198,6 @@
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTi1JVVVTVjZkaVF4ZUh6bTBXbWczLWtmUnhlNmdHZlFtUkpNN1VtQ3dTMXFiSFVDWm53Z25Zb3h2dFFBVTJTRktXVmVKTzRWWi1mbEFxOWZZeTBMV2M3V3pFRUtEb3NBZTdNa3NJNXZvUTJOdmxKQnI5LUZxSW1EWW53dVNZSWF4OGc1T05Rd0NqQzA4ek9pT2JDamdIRGxmQldUWg?oc=5",
       "publishedAt": "2026-10-22T20:07:22+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-fifa-takes-over-nff-administration-after-gusau-sanusi-others-resign-sahara-reporters",
-      "title": "国际足联 Takes Over NFF Administration After Gusau, Sanusi, Others Resign - Sahara Reporters",
-      "summary": "国际足联 Takes Over NFF Administration After Gusau, Sanusi, Others Resign  Sahara Reporters",
-      "originalTitle": "FIFA Takes Over NFF Administration After Gusau, Sanusi, Others Resign - Sahara Reporters",
-      "originalSummary": "FIFA Takes Over NFF Administration After Gusau, Sanusi, Others Resign  Sahara Reporters",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYzhJamhNbGw0ckFwZzBRQkNZd2NBY2xzeWNtY25oRFZ5dEZCVGpWUVk2ZU5kTWVpblQwNFlwWWhmRGRJTnAwUmlkaGxwRlBVbXM1aGNHYUo2LWJfdEsyb19PdWEzbkxYejVlb0FYVFJhM3BmZXlnS0xPcXhpX2YwVFplV09lTjRiZVNYckRfTVFKeEZBU3ZwcHZqX20xclRraEhMQUhPckxUZw?oc=5",
-      "publishedAt": "2026-10-22T19:52:30+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-fifa-increases-2027-women-s-world-cup-preparation-funding-to-2-5m-per-team-3news",
@@ -126,102 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcHZHTGhteW4xRG05V1BTb3VIeG1iWDlfZXhsZGl5NG1qM18zanlGUVg1M3RXaC1SMXEyVFNxbFJoZXJwZmdZTlJMZ3FRYmRtZG9FM0lFb3RzbV9ONV90TTdKOHVGNGtUa1NWN1BfYmNoUHJfQXVfMmpLMm1BNV9JME9LbVE1bDhj?oc=5",
       "publishedAt": "2026-10-22T19:37:29+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-22T19:15:29+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-ballon-d-or-2026-bayern-striker-harry-kane-leads-because-spain-won-the-world-cup-by-committee-martin-cid-mag",
-      "title": "Ballon d’Or 2026: Bayern striker Harry Kane leads because 西班牙 won the 世界杯 by committee - Martin Cid Magazine",
-      "summary": "Ballon d’Or 2026: Bayern striker Harry Kane leads because 西班牙 won the 世界杯 by committee  Martin Cid Magazine",
-      "originalTitle": "Ballon d’Or 2026: Bayern striker Harry Kane leads because Spain won the World Cup by committee - Martin Cid Magazine",
-      "originalSummary": "Ballon d’Or 2026: Bayern striker Harry Kane leads because Spain won the World Cup by committee  Martin Cid Magazine",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONG9BMUNBOTY2bWZkaDJCRlB4djl4V3pBOWV3WWFLUW5KNGc0SUh5bzZma0VIel9WeTJ5ZUpRclFNNldvZFV2SV9YLUoxRE9PV2pESVNqY0c2TGlKd184ME9NbWtLOHlUUXlVaFI0OTBBRndMRUdIbEJPaElWcGpHRHJTWDg?oc=5",
-      "publishedAt": "2026-10-22T19:00:00+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-fifa-approves-committee-to-run-nigeria-football-until-may-2027-punch-newspapers",
-      "title": "国际足联 approves committee to run Nigeria 足球 until May 2027 - Punch Newspapers",
-      "summary": "国际足联 approves committee to run Nigeria 足球 until May 2027  Punch Newspapers",
-      "originalTitle": "FIFA approves committee to run Nigeria football until May 2027 - Punch Newspapers",
-      "originalSummary": "FIFA approves committee to run Nigeria football until May 2027  Punch Newspapers",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNbkRVcjloRVNRZUFvMmpFRnhJbE00UDA2bDNOdS0xNWJXRWRmejA4WE9ISUl5NkFiSVlNb3NiREZ6eE5aWF9NaEVFa0NZMTRhd3BJVEpZcS1RV2o4dW9Cb29EM3l5Wi03STAteXZjTVp6SFNySC05UG93YWNrNUY4ZWJRaENkN29ldGxn?oc=5",
-      "publishedAt": "2026-10-22T18:45:49+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-chile-vs-mexico-22-oct-2026-live-score-espn",
-      "title": "Chile vs. Mexico (22 Oct, 2026) Live Score - ESPN",
-      "summary": "Chile vs. Mexico (22 Oct, 2026) Live Score  ESPN",
-      "originalTitle": "Chile vs. Mexico (22 Oct, 2026) Live Score - ESPN",
-      "originalSummary": "Chile vs. Mexico (22 Oct, 2026) Live Score  ESPN",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5SU0lmU2lTbGxWUURYLU9zVjNaeWNnYU54ZkNsR2JJUGJUeXFFcEd0U2xpelZlZkpxTWJFTVFQcm5MSHZRYmdhVDZiU3hFZnQ1aXRtOVZ2QWh1cEpqSFNwZlVSWkpTOFE?oc=5",
-      "publishedAt": "2026-10-22T18:43:40+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-united-states-vs-kenya-23-oct-2026-live-score-espn-singapore",
-      "title": "United States vs. Kenya (23 Oct, 2026) Live Score - ESPN Singapore",
-      "summary": "United States vs. Kenya (23 Oct, 2026) Live Score  ESPN Singapore",
-      "originalTitle": "United States vs. Kenya (23 Oct, 2026) Live Score - ESPN Singapore",
-      "originalSummary": "United States vs. Kenya (23 Oct, 2026) Live Score  ESPN Singapore",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5abWlfN3Utd1ZnZ1RoRWZsbTAwdGVsTHF2ZDZCWW5yTEhkdFY4UzJLRnRNbHJNVFdLVnRCSEpWVERJTGMyVFNTeFhLdkcwWXFjczI5cXBVbnZ4LTFLWl9qc2JYS2tLcmls?oc=5",
-      "publishedAt": "2026-10-22T18:31:28+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-usa-to-host-the-first-ever-fifa-women-s-club-world-cup-in-2028-soy-futbol",
-      "title": "USA to Host the First-Ever 国际足联 Women's Club 世界杯 in 2028! - Soy Futbol",
-      "summary": "USA to Host the First-Ever 国际足联 Women's Club 世界杯 in 2028!  Soy Futbol",
-      "originalTitle": "USA to Host the First-Ever FIFA Women's Club World Cup in 2028! - Soy Futbol",
-      "originalSummary": "USA to Host the First-Ever FIFA Women's Club World Cup in 2028!  Soy Futbol",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYjh0dmJpUFJKRy1tMy1XM0JBYkFFVTVuajkyeGhfM1lZZ1FqbmROZ0tzUkRjamM4WksxQUdqZTY1Q19kcngzbkx2Tk9zTmsxZ1RoOHQ4MnVsREs1ZTFvS0h1N2RCZ3pFZHpKcl8tZEdrRE8xTjJzRFZnU3dxckdCTjFjcWpRWFBnbmpJS0V1T1JYdmlqYUlScTdrVTZzY1hrRWNmWm1FNGE1aE1yV0VlREV5bHQ?oc=5",
-      "publishedAt": "2026-10-22T18:27:56+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-women-s-club-world-cup-comes-into-being-official-foot-africa-com",
-      "title": "国际足联: Women's Club 世界杯 comes into being (official) - Foot-Africa.com",
-      "summary": "国际足联: Women's Club 世界杯 comes into being (official)  Foot-Africa.com",
-      "originalTitle": "FIFA: Women's Club World Cup comes into being (official) - Foot-Africa.com",
-      "originalSummary": "FIFA: Women's Club World Cup comes into being (official)  Foot-Africa.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNzY2OWI2N2FWTXhmeTJyQXotUVFQbVY4WF9CYlNmX2RwVU44Z1R2UENvWkczbjBiQjdrQW9xd2lhOHV0WnBQNUxVVEdzMVN2RkUyMDB2UlZqNlAxcWsyRmltRHBfYzF0dWU4bHFxSkQ5ZzlXWjNYdEIyVUJCM3RDd3MzVEVYd0wyUW1MRXVxS0Z4aFEwNlo2ZA?oc=5",
-      "publishedAt": "2026-10-22T18:09:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-reveals-united-states-as-host-of-the-2028-women-s-club-world-cup-fox-sports",
-      "title": "国际足联 Reveals United States As Host Of The 2028 Women's Club 世界杯 - FOX Sports",
-      "summary": "国际足联 Reveals United States As Host Of The 2028 Women's Club 世界杯  FOX Sports",
-      "originalTitle": "FIFA Reveals United States As Host Of The 2028 Women's Club World Cup - FOX Sports",
-      "originalSummary": "FIFA Reveals United States As Host Of The 2028 Women's Club World Cup  FOX Sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQXgtOVFqaWVTYlQxVDdfWGZEMGtqQ3RRQVFFWXU1T0lySkpmS1FHYno4TmtZcWVzWS04N285V2s4azFXRG02UkF6TUpJVUVrQTNuM1FnY1FPNjcxZ3dpVzhJNldONlRiMENjQzgzZEZEd2lKN05SME1CeTRfMHYxaGpLTWFuQ1JrWW9F0gGLAUFVX3lxTE1qb2NVSE5sTjA0ZF9OUlNOa1dGVEhvYkJHME5pTjY4c0FYWGlHTG1nU3dJRFJPaW9UOTlkcFR2YWkxb2NIRjJDMWV5bUhIM00ycTRUbGtTYVAwN3ZPY3JoczBneEl5dUVoMlBNdUpLUVB3Ti1lNDgxSWZJczU1dXZRQjY0SllPa2lBdWc?oc=5",
-      "publishedAt": "2026-10-22T18:06:08+00:00",
-      "heat": 60
     }
   ]
 }
