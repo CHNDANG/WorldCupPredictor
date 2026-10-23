@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-23T21:14:12.911802+00:00",
+  "updatedAt": "2026-10-23T23:57:12.317520+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,90 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-massachusetts-says-world-cup-was-worth-it-but-final-cost-is-still-unknown-wcvb",
+      "title": "Massachusetts says 世界杯 was worth it, but final cost is still unknown - WCVB",
+      "summary": "Massachusetts says 世界杯 was worth it, but final cost is still unknown  WCVB",
+      "originalTitle": "Massachusetts says World Cup was worth it, but final cost is still unknown - WCVB",
+      "originalSummary": "Massachusetts says World Cup was worth it, but final cost is still unknown  WCVB",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPWjVzRDhQQy1RMmN4bTFsclE3N2dSN1JDZEQ3NmFMeWRZQjJBc0dFZmFXdDhaWVNHSkF4Z29MYkRfV2lSdE5aZkRyUElBNGlBNGYxR0ZpajVfcm0wY0FjaklCUHZ1ckxONjdpYnB1YWxlUDh5RV9lWFJtbGFXUGtkcTFfdTN3QlJMenlPdXNLNGQ?oc=5",
+      "publishedAt": "2026-10-23T23:30:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-new-zealand-vs-germany-tsn",
+      "title": "2026 国际足联 U-17 Women's 世界杯: New Zealand vs. 德国 - TSN",
+      "summary": "2026 国际足联 U-17 Women's 世界杯: New Zealand vs. 德国  TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: New Zealand vs. Germany - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: New Zealand vs. Germany  TSN",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOERiTGJsMGxvNWdtNW1Pc3lfS1FVemNuUTVWVkZYb2VELXg2RmU0MmxVWnVwQ3pwTldwcnNkTThBRjJDeERpVko4ZEg2d2I2d1d3VWFiNVNHdU1wbnVjT09pLXc4a2lhMFUzUGp3WnEtcTBPZUFmckV4ZHg5MkI4Tll0NV9YOF9NZ1lUd01ZclFuSDZINzg4aDZJRi1Mbm8?oc=5",
+      "publishedAt": "2026-10-23T22:48:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-flamingos-shock-four-time-world-champions-north-korea-3-1-storm-into-u-17-world-cup-round-of-16-newsmakers",
+      "title": "Flamingos Shock Four-Time World Champions North Korea 3-1, Storm Into U-17 世界杯 Round of 16 - Newsmakers",
+      "summary": "Flamingos Shock Four-Time World Champions North Korea 3-1, Storm Into U-17 世界杯 Round of 16  Newsmakers",
+      "originalTitle": "Flamingos Shock Four-Time World Champions North Korea 3-1, Storm Into U-17 World Cup Round of 16 - Newsmakers",
+      "originalSummary": "Flamingos Shock Four-Time World Champions North Korea 3-1, Storm Into U-17 World Cup Round of 16  Newsmakers",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPS00tNVdXaWx4UG01dTBOY3gyOVR4ZUQxb0E2c2VMbEwxVVB5YVZ4Wm4wenZYaTh6Wk9zRDZHUVFfaW1aMUtYMDhoclJmX0ZVWW1oUkJ2bHNzZ3BYYlZLODN0V2NCMVBiY3d3aTZGZFQ2SWJUbGFUVXliMmV5UW5oNlBDYS1TWWlzMVp1aUhDaFVjVDNmVXVob1BFbkI3M2RCaWpEZ3g5a051QVFhSTlaQ0xQTUJIOUdKVG5BdGxhckM?oc=5",
+      "publishedAt": "2026-10-23T21:46:57+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-flamingos-end-north-korea-unbeaten-record-book-u17-women-s-world-cup-2026-last-16-ticket-blueprint-newspaper",
+      "title": "Flamingos end North Korea unbeaten record, book U17 Women's 世界杯 2026 last 16 ticket - Blueprint Newspapers",
+      "summary": "Flamingos end North Korea unbeaten record, book U17 Women's 世界杯 2026 last 16 ticket  Blueprint Newspapers",
+      "originalTitle": "Flamingos end North Korea unbeaten record, book U17 Women's World Cup 2026 last 16 ticket - Blueprint Newspapers",
+      "originalSummary": "Flamingos end North Korea unbeaten record, book U17 Women's World Cup 2026 last 16 ticket  Blueprint Newspapers",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRjZ2d0VxZGJablpGc3VmSDQxdUJidjVLc2tNRHNYTkJMVXh1SmttYjV4UFNsZzZhWE5rTTc4T1I2Q0lvbXNTamV4NmJMSzRBWmR1dThiOHh6aTlsRXd3Q2E5emJlWGV2eXRfeHFzQ2ZLRWFGajQ3cmgySklMR2pFcnpuckxvblpKUmx0Y2s0T1lRVUtaRkQta3d3OGZ6S21kMUJLNk1Xc3hhYV9oMmc?oc=5",
+      "publishedAt": "2026-10-23T21:43:37+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ballon-d-or-2026-predicted-top-10-bavarian-football-works",
+      "title": "Ballon d’Or 2026: Predicted Top 10 - Bavarian Football Works",
+      "summary": "Ballon d’Or 2026: Predicted Top 10  Bavarian Football Works",
+      "originalTitle": "Ballon d’Or 2026: Predicted Top 10 - Bavarian Football Works",
+      "originalSummary": "Ballon d’Or 2026: Predicted Top 10  Bavarian Football Works",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOc3Fib25GRXA2ZFRCa2s3VFplUFoxZ0VVUU1SNXkyZE9uWDRTWnBrX19KWVVSQ3Q0N0wwUkdrUmVsd2xEeGlQclc0R0swZUlRbDNYeHY1OFJTeXhiQzhUYm44Ri1rMzhNTE54bElQcUN4cnJwbGhfa0I2YXRpazNVaDh3ZkxaQzF1enIxbVFrbmg4a01yT0R4QVltVkhnM3FabWlaMVlmQ29WRnhVWFEySTFYbnlzWXNFZzg3TWlUM2JIcDlGWkV1VkJNMTAtZkFGeTNBOUJuWUVNYUNTNGVvM0JvUWxUWm5VYzB5UEIwUWdrWW5xTzcxMVRTRUotLWhpNnZoZnFGREVOQ2tkeHdoNjVIVmxxSFhLLXhJbTJ4TQ?oc=5",
+      "publishedAt": "2026-10-23T21:30:00+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-embattled-fifa-president-gets-major-endorsement-in-re-election-bid-yahoo",
+      "title": "Embattled 国际足联 president gets major endorsement in re-election bid - Yahoo",
+      "summary": "Embattled 国际足联 president gets major endorsement in re-election bid  Yahoo",
+      "originalTitle": "Embattled FIFA president gets major endorsement in re-election bid - Yahoo",
+      "originalSummary": "Embattled FIFA president gets major endorsement in re-election bid  Yahoo",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPd1hDWlJtU3Mwc0piYzRacHY1UWpJYzBSLWlHMFR4R1pZeDkwSU9MT0RJdkc1SlBLbUVhSi1wbzhZSmp3elNYa2JUakVpOWhNdmJxWTVnbkNpaVg4LUd1WHRKX3FZYkJYWWVEY0ljTmZOdHJ1QnBYVEUyNk9hNlhfLWlIaTBvTTliV01z?oc=5",
+      "publishedAt": "2026-10-23T21:11:04+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-bts-add-third-melbourne-date-to-arirang-world-tour-ticketnews",
+      "title": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
+      "summary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
+      "originalTitle": "BTS Add Third Melbourne Date to ARIRANG World Tour - TicketNews",
+      "originalSummary": "BTS Add Third Melbourne Date to ARIRANG World Tour  TicketNews",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNDV6a2Q4Q29DSnQxRWJ3WHBFclVINnc5YngyMWVfMEJfQlY0VUZlVXZXR2c1S2ZiMWNDcThXNzZSUmV2Z1VhQTltT2VWcWtZUkV3cHR3OXhJcklQLWFqZVJLUFNlRW5BU2pBQWVGX0NoZDY2QTRXeURkT3RZamNJQW9NWmhKM041dS1ocFJ6VQ?oc=5",
+      "publishedAt": "2026-10-23T20:56:21+00:00",
+      "heat": 44
+    },
     {
       "id": "google-news-puerto-rico-ends-their-first-world-cup-participation-with-an-historic-mark-concacaf-official-website",
       "title": "Puerto Rico ends their first 世界杯 participation with an historic mark - Concacaf | Official Website",
@@ -20,16 +104,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-2026-fifa-u-17-women-s-world-cup-puerto-rico-vs-poland-tsn",
-      "title": "2026 国际足联 U-17 Women's 世界杯: Puerto Rico vs. Poland - TSN",
-      "summary": "2026 国际足联 U-17 Women's 世界杯: Puerto Rico vs. Poland  TSN",
-      "originalTitle": "2026 FIFA U-17 Women's World Cup: Puerto Rico vs. Poland - TSN",
-      "originalSummary": "2026 FIFA U-17 Women's World Cup: Puerto Rico vs. Poland  TSN",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNWko2eEE2SDhHRWhBNHpYYkpaVzZ2aXVOeVlfdGl3bU55RV9DMmFXQkJqeEpGUGh0eFhsWmhKRUI4RDlsSHJPZlhXNkdJUVBMUTBsMW1iRThONHQ5bUp5RWtHMHVjRjlVYy1kc2EtQmx6a3dFTHVaOWpvbV9VQ2I4U3g3eVFFLTBmaEFyM3E4bGtfV3RKem1pNFhZLTkwdw?oc=5",
-      "publishedAt": "2026-10-23T19:48:00+00:00",
-      "heat": 60
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-23T19:14:35+00:00",
+      "heat": 52
     },
     {
       "id": "google-news-flamingos-stun-champions-north-korea-3-1-to-reach-u-17-world-cup-last-16-businessday-ng",
@@ -44,18 +128,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-2026-u-17-wwc-flamingos-beat-north-korea-to-secure-round-of-16-spot-daily-post-nigeria",
-      "title": "2026 U-17 WWC: Flamingos beat North Korea to secure Round of 16 spot - Daily Post Nigeria",
-      "summary": "2026 U-17 WWC: Flamingos beat North Korea to secure Round of 16 spot  Daily Post Nigeria",
-      "originalTitle": "2026 U-17 WWC: Flamingos beat North Korea to secure Round of 16 spot - Daily Post Nigeria",
-      "originalSummary": "2026 U-17 WWC: Flamingos beat North Korea to secure Round of 16 spot  Daily Post Nigeria",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYnpNRkczSVVUSEQycGx5UDZHc0xoXzdzUlVFX2dycXJZRHcwWFFQZkJZN2J5eVpEZnFSNEdfRktNWENKR3psaGYzb0FVOGMzYU9UUU1ya0tGc0pzRHNzZzR5YWpVTjVXUHVpR3NuM0dmLTlLNGJhWWRpdWtSWEpDeGRnVmNuUUNjaTFhWkptbFhJSHJxSWVacDZoMTBSVjEtZXc?oc=5",
-      "publishedAt": "2026-10-23T19:00:00+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-flamingos-stun-defending-champions-dpr-korea-3-1-to-reach-u-17-world-cup-round-of-16-tvc-news",
       "title": "Flamingos Stun Defending Champions DPR Korea 3-1 To Reach U-17 世界杯 Round Of 16 - TVC News",
       "summary": "Flamingos Stun Defending Champions DPR Korea 3-1 To Reach U-17 世界杯 Round Of 16  TVC News",
@@ -65,6 +137,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZVpZd01uZnFPVHJfUzU1QmlhcTFETld2TzRQUHdWZ1RRdmp0YXA1ZmJJWFhzcEFMaFVFY2xyOF9kbWs4azhDQ3dURkhlRUhqUEFvX00tLWdtRDR6U2JfMHhOMnM2VUpkSFQxbFNFd2NkRXBuSWJCN2gtTzFrVkdrZHRpRk0wOXFVZm83Y2ZUTmFBSTNoRndLQ2pvNUNjRWxNS0dzektKUFc1Mmpk?oc=5",
       "publishedAt": "2026-10-23T18:55:00+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2028-women-s-club-world-cup-north-korea-s-naegohyang-participation-in-doubt-조선일보",
+      "title": "2028 Women’s Club 世界杯: North Korea’s Naegohyang Participation in Doubt - 조선일보",
+      "summary": "2028 Women’s Club 世界杯: North Korea’s Naegohyang Participation in Doubt  조선일보",
+      "originalTitle": "2028 Women’s Club World Cup: North Korea’s Naegohyang Participation in Doubt - 조선일보",
+      "originalSummary": "2028 Women’s Club World Cup: North Korea’s Naegohyang Participation in Doubt  조선일보",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOWS1mZ2VxcjM4cTRmU3RNY1dwZU5WNFdaSUhzbWc5THhpTENuOXdhVDRYTERpWVh6OTFpSURfMi1pdllSUVdzSE0zTWlKZFY0YXNZdW10YUNxWUpYLWdIbk56MjZTWEl1QnhpMHlkUHU2cTAwemVmRERwV1c2WDJSLWxKdGNJdw?oc=5",
+      "publishedAt": "2026-10-23T18:54:42+00:00",
       "heat": 52
     },
     {
@@ -104,18 +188,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-ballon-d-or-2026-predicted-top-10-bavarian-football-works",
-      "title": "Ballon d’Or 2026: Predicted Top 10 - Bavarian Football Works",
-      "summary": "Ballon d’Or 2026: Predicted Top 10  Bavarian Football Works",
-      "originalTitle": "Ballon d’Or 2026: Predicted Top 10 - Bavarian Football Works",
-      "originalSummary": "Ballon d’Or 2026: Predicted Top 10  Bavarian Football Works",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxOc3Fib25GRXA2ZFRCa2s3VFplUFoxZ0VVUU1SNXkyZE9uWDRTWnBrX19KWVVSQ3Q0N0wwUkdrUmVsd2xEeGlQclc0R0swZUlRbDNYeHY1OFJTeXhiQzhUYm44Ri1rMzhNTE54bElQcUN4cnJwbGhfa0I2YXRpazNVaDh3ZkxaQzF1enIxbVFrbmg4a01yT0R4QVltVkhnM3FabWlaMVlmQ29WRnhVWFEySTFYbnlzWXNFZzg3TWlUM2JIcDlGWkV1VkJNMTAtZkFGeTNBOUJuWUVNYUNTNGVvM0JvUWxUWm5VYzB5UEIwUWdrWW5xTzcxMVRTRUotLWhpNnZoZnFGREVOQ2tkeHdoNjVIVmxxSFhLLXhJbTJ4TQ?oc=5",
-      "publishedAt": "2026-10-23T16:45:00+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-fifa-names-mustapha-chairman-of-nff-normalisation-committee-western-post",
       "title": "国际足联 names Mustapha Chairman of NFF Normalisation Committee - Western Post",
       "summary": "国际足联 names Mustapha Chairman of NFF Normalisation Committee  Western Post",
@@ -140,87 +212,15 @@
       "heat": 60
     },
     {
-      "id": "google-news-two-big-fifa-announcements-regarding-women-s-club-world-cup-and-2027-world-cup-hooligan-soccer",
-      "title": "Two Big 国际足联 Announcements Regarding Women’s Club 世界杯 and 2027 世界杯 - Hooligan Soccer",
-      "summary": "Two Big 国际足联 Announcements Regarding Women’s Club 世界杯 and 2027 世界杯  Hooligan Soccer",
-      "originalTitle": "Two Big FIFA Announcements Regarding Women’s Club World Cup and 2027 World Cup - Hooligan Soccer",
-      "originalSummary": "Two Big FIFA Announcements Regarding Women’s Club World Cup and 2027 World Cup  Hooligan Soccer",
+      "id": "google-news-football-fixtures-every-game-in-every-competition-with-tv-details-and-kick-off-times-for-the-2026-27-calenda",
+      "title": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar - FourFourTwo",
+      "summary": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar  FourFourTwo",
+      "originalTitle": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar - FourFourTwo",
+      "originalSummary": "Football fixtures: Every game in every competition, with TV details and kick-off times, for the 2026/27 calendar  FourFourTwo",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5JZjlyd0RIUEFpWWFYM0Z0OXQ0cC1pOWhSWjluY1ljUUROTV9keER1c2hXTEVyVG5qX1RRd2lrUjlzTFZLZ1dFWkcxdUxZc2dGcGpyLW9NZlh5NUZoSzV5SVN5a2Zfa3puMU9yR3JRQlp0b3RYbzhXeg?oc=5",
-      "publishedAt": "2026-10-23T15:30:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-puerto-rico-vs-poland-23-oct-2026-live-score-espn-singapore",
-      "title": "Puerto Rico vs. Poland (23 Oct, 2026) Live Score - ESPN Singapore",
-      "summary": "Puerto Rico vs. Poland (23 Oct, 2026) Live Score  ESPN Singapore",
-      "originalTitle": "Puerto Rico vs. Poland (23 Oct, 2026) Live Score - ESPN Singapore",
-      "originalSummary": "Puerto Rico vs. Poland (23 Oct, 2026) Live Score  ESPN Singapore",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1sN2d1ejhubW9kWlVBRm1WenZSNEtlZnA0N3NHOEZSVFZhWklkbnpPWXVMS2ZSX2RSdzdOanFBMG4ybVZXVWExdFFnVS13S3FUZXJQeTZfdjR0Q2NQbHZXWGpJN18xQ3Fr?oc=5",
-      "publishedAt": "2026-10-23T15:11:32+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-nigeria-3-1-north-korea-23-oct-2026-final-score-espn-singapore",
-      "title": "Nigeria 3-1 North Korea (23 Oct, 2026) Final Score - ESPN Singapore",
-      "summary": "Nigeria 3-1 North Korea (23 Oct, 2026) Final Score  ESPN Singapore",
-      "originalTitle": "Nigeria 3-1 North Korea (23 Oct, 2026) Final Score - ESPN Singapore",
-      "originalSummary": "Nigeria 3-1 North Korea (23 Oct, 2026) Final Score  ESPN Singapore",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE51ZnhaaWVTRFBCLWRuZ21zTVNZdnlVTWRzNE5ELWh0QTV3dXIyaDlLMlU4OWFZWHFVYjNXbWFmMFU1Y2tSWmpxbjIyMEVrR0QxOTRPbGdhTGN1Y2c1SUtDR2dDOTFfQ0Mw?oc=5",
-      "publishedAt": "2026-10-23T15:11:32+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-nigeria-vs-north-korea-live-blogging-2026-fifa-u-17-women-s-world-cup-group-a-matchday-3-complete-sports",
-      "title": "Nigeria Vs North Korea Live Blogging – 2026 国际足联 U-17 Women's 世界杯; Group A Matchday 3 - Complete Sports",
-      "summary": "Nigeria Vs North Korea Live Blogging – 2026 国际足联 U-17 Women's 世界杯; Group A Matchday 3  Complete Sports",
-      "originalTitle": "Nigeria Vs North Korea Live Blogging – 2026 FIFA U-17 Women's World Cup; Group A Matchday 3 - Complete Sports",
-      "originalSummary": "Nigeria Vs North Korea Live Blogging – 2026 FIFA U-17 Women's World Cup; Group A Matchday 3  Complete Sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMUxuN1NpOUF3NzJMZzhIcHZoSGdrbUE4VnVvbG9Kd1VPS3ByVmJzd1BkSzE4OXpCYS1YWjlDU0d6azRSZUYzQUl1VHFsY05HcjBGa2RGYkl6SWdFdHVxS0V2dWVWTHMtbG9UblVxN3VHak1waTE3VlJTZV9YNlB6ejZWYng3Vi1zXzFTZVc5dUd6S1V0eTFaQmxIdzFzWXdxNFpKU1RncXlORnBBS0xodWxYSFNrM1VXaUNv?oc=5",
-      "publishedAt": "2026-10-23T14:00:49+00:00",
-      "heat": 68
-    },
-    {
-      "id": "google-新闻-中文-沙特-pif-成为-2026-世界杯区域赞助商-体育布局持续加速并为-2034-世界杯铺路-华人头条",
-      "title": "沙特 PIF 成为 2026 世界杯区域赞助商 体育布局持续加速并为 2034 世界杯铺路 - 华人头条",
-      "summary": "沙特 PIF 成为 2026 世界杯区域赞助商 体育布局持续加速并为 2034 世界杯铺路  华人头条",
-      "originalTitle": "沙特 PIF 成为 2026 世界杯区域赞助商 体育布局持续加速并为 2034 世界杯铺路 - 华人头条",
-      "originalSummary": "沙特 PIF 成为 2026 世界杯区域赞助商 体育布局持续加速并为 2034 世界杯铺路  华人头条",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNLW9CX2xySmFwOGc4eTVQeTU2bXVNa1JaRnRxWGp4WENoSldselFxdS1OSVBIdjhjdG8xUXJFSFk1bnFLV2M5MXhIck56NlVKV1FqamJQUlpGeEJwOE1aRkFfOVZDQWY0V0Z4OThHS3d1THQ0MXhBRU1SdUZ2bXdBVTVqY19xN3ZX?oc=5",
-      "publishedAt": "2026-10-23T13:48:30+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-10-23T13:14:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-助攻-uefa-nations-league-a2026-2027的england数据-fotmob",
-      "title": "助攻 — UEFA Nations League A2026/2027的England数据 - FotMob",
-      "summary": "助攻 — UEFA Nations League A2026/2027的England数据  FotMob",
-      "originalTitle": "助攻 — UEFA Nations League A2026/2027的England数据 - FotMob",
-      "originalSummary": "助攻 — UEFA Nations League A2026/2027的England数据  FotMob",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOeFNESjJjOHRFaFBvVHk4QWgxRXdrQ1d1a2FUZWM1RnpiS2czWlFKbFpSQ0ptUTczeXYyajhndHAxai05LWZJc0NtSU93NmNqQlZSTEpiRWRITUtvcmZjeU9HUE1ROFh1VlV4U1B2NHQxUnRia1dua3ZzVlUwazZBLW9TLUV2Ty0zV2hZYkFYOFNmWURQc3dMRHFjVEpvUk1rTEVXYnA5NUVIM0E?oc=5",
-      "publishedAt": "2026-10-23T13:12:05+00:00",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBJNjJPYWhvYWdOQjFuYk9qWXA0VHM5bEt2YjJ6TTBfZHBKOWVIX0xrVzhBQ0RHaUVZR2h4MVpPQjZITTYtdEx5bG40Z05wVjhYekdxRy0wRnNDd3l2cnlkNGRwN3lrWmJTUkUtZS1jeHlaRHEtdGhVTURXRQ?oc=5",
+      "publishedAt": "2026-10-23T15:49:17+00:00",
       "heat": 44
     }
   ]
