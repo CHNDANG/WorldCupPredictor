@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-28T00:22:04.922162+00:00",
+  "updatedAt": "2026-10-28T06:07:39.247149+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,66 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-no-player-better-than-messi-at-2026-world-cup-yamal-punch-newspapers",
+      "title": "No player better than Messi at 2026 世界杯 — Yamal - Punch Newspapers",
+      "summary": "No player better than Messi at 2026 世界杯 — Yamal  Punch Newspapers",
+      "originalTitle": "No player better than Messi at 2026 World Cup — Yamal - Punch Newspapers",
+      "originalSummary": "No player better than Messi at 2026 World Cup — Yamal  Punch Newspapers",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE91Ml9wWk9QQVVrWjhHZnBVZFJUZWVOaGlFTXpuanNjbnhQWFNmS3lISlhrbHJmanZ1TmZKUXotZE1tU2E2SU5kNGNPYWQyMXFWRHlONXVZaXl2eGlBRDUxWk13ZG1RQlRIYVJzcGJhcG9jUnJiN0J1OTVBdXk?oc=5",
+      "publishedAt": "2026-10-28T06:03:59+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-kenya-s-u15s-reach-world-cup-and-fifa-festival-tier-a-knockout-stage-cecafa",
+      "title": "Kenya’s U15s reach 世界杯 and 国际足联 Festival Tier A knockout stage - cecafa",
+      "summary": "Kenya’s U15s reach 世界杯 and 国际足联 Festival Tier A knockout stage  cecafa",
+      "originalTitle": "Kenya’s U15s reach World Cup and FIFA Festival Tier A knockout stage - cecafa",
+      "originalSummary": "Kenya’s U15s reach World Cup and FIFA Festival Tier A knockout stage  cecafa",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPM2c5YXRpekJWMGZoMHA0U2piTzR1MF9RNXVReVdUenNsNEVfeWpNVzM0MWlqUVRONE41cW93MXJuZ0J6RjVnNlFWbmlDMGxGcHpMY05RTWF6SC1kSmUyaElYdnYycV9CUnAtR1Y4NHNKcW1TOGk4QXhvdWJBMG1SV3pvR0E0UkpCYzRpdzEtSHBmUXhHNGdIbw?oc=5",
+      "publishedAt": "2026-10-28T04:40:46+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-u-17-women-s-world-cup-full-round-of-16-fixtures-dates-venues-and-kick-off-times-bsn-sports",
+      "title": "国际足联 U-17 Women's 世界杯: Full Round of 16 Fixtures, Dates, Venues and Kick-off Times - BSN Sports",
+      "summary": "国际足联 U-17 Women's 世界杯: Full Round of 16 Fixtures, Dates, Venues and Kick-off Times  BSN Sports",
+      "originalTitle": "FIFA U-17 Women's World Cup: Full Round of 16 Fixtures, Dates, Venues and Kick-off Times - BSN Sports",
+      "originalSummary": "FIFA U-17 Women's World Cup: Full Round of 16 Fixtures, Dates, Venues and Kick-off Times  BSN Sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNSDYyOF8xamFGek9LSkdkTHBNRFdBWmxBVl9DM1lYcE41akpZVjQxZXRWSWpaeHE4VzdaZUljLV93dTJ0WEVEOXVLYUlQcmJlRm1kU2JKbFdLUFZFbFZFVFkza2lBUndiNjdvTlIxc2hTZTBrNmVWM3JjYlZWXy1Bc25zY2hfYVh2Ql9DVzRkMUZ4SUZwcTB4UlBCeEk0bzdDY1R5UzdlTmQ1b1FXa01tMXVUcm1pMldPNmc?oc=5",
+      "publishedAt": "2026-10-28T02:20:30+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-28T02:09:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-world-cup-2026-irish-examiner",
+      "title": "世界杯 2026 - Irish Examiner",
+      "summary": "世界杯 2026  Irish Examiner",
+      "originalTitle": "World Cup 2026 - Irish Examiner",
+      "originalSummary": "World Cup 2026  Irish Examiner",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5hZ0draFc0b3Y3Z2RQbVcycHhUSG92V0JfOGZFWm9YY2FuUTU3bDhpazJ5Z0NwWGV0RWRkNWhpZ3JINF9YWklPREEyUVBKN2lSVW15eEJFcVVTMmxhdTBLUk5xN20tQQ?oc=5",
+      "publishedAt": "2026-10-28T00:44:12+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-eyeing-future-world-cup-success-u-s-soccer-uplifting-young-stars-for-la-olympics-fox-sports",
       "title": "Eyeing Future 世界杯 Success, U.S. Soccer Uplifting Young Stars For LA Olympics - FOX Sports",
@@ -20,16 +80,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-2026-world-cup-schedule-and-results-ap-news",
-      "title": "2026 世界杯 schedule and results - AP News",
-      "summary": "2026 世界杯 schedule and results  AP News",
-      "originalTitle": "2026 World Cup schedule and results - AP News",
-      "originalSummary": "2026 World Cup schedule and results  AP News",
+      "id": "google-news-fifa-world-cup-2026-10-biggest-games-of-the-group-stage-bavarian-football-works",
+      "title": "国际足联 世界杯 2026: 10 biggest games of the group stage - Bavarian Football Works",
+      "summary": "国际足联 世界杯 2026: 10 biggest games of the group stage  Bavarian Football Works",
+      "originalTitle": "FIFA World Cup 2026: 10 biggest games of the group stage - Bavarian Football Works",
+      "originalSummary": "FIFA World Cup 2026: 10 biggest games of the group stage  Bavarian Football Works",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hc09qa01yTFV1WkxHVWVNSVpCNTZkbkFOMkc5dTZSOE9vclo5YVpVZlgyR0lMeVpScWFXOWpPYkZjS0U2NVZkNXUzaURLQnpGRDNtZXY5WHZ4Zw?oc=5",
-      "publishedAt": "2026-10-27T21:24:50+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORzBLQnhfdFNpYVFJRExkN1pXVGE4R2pBcVFlTkljRkpaUmczNFpheURjZnhlTkhvcmdqaEJfS1NFeDFFWkVUOFAxTF9yalE2VDhycFNiLWhpcVZ2WmJRY1ZlSWNwRjhPbGhPTFdrWnlpRTc2WlNZdHdHTUg0WEZIMVJMdnNQbnFVTjRuQVlKS1dENXk3YnVqUmZEUW1hcVNhREhla213WHJrd2VIdFI2Y25pZl93WTA?oc=5",
+      "publishedAt": "2026-10-27T22:12:05+00:00",
+      "heat": 60
     },
     {
       "id": "google-新闻-中文-可口可乐-ko-2026年第三季度业绩电话会-销量增长5-及最新业绩指引-tradingkey",
@@ -56,18 +116,6 @@
       "heat": 44
     },
     {
-      "id": "google-news-shakira-burna-boy-dai-dai-official-fifa-2026-world-cup-song-tooxclusive",
-      "title": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song) - Tooxclusive",
-      "summary": "Shakira & Burna Boy – DAI DAI (Official 国际足联 2026 世界杯 Song)  Tooxclusive",
-      "originalTitle": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song) - Tooxclusive",
-      "originalSummary": "Shakira & Burna Boy – DAI DAI (Official FIFA 2026 World Cup Song)  Tooxclusive",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNUGlJSlFHUkJpTTI1N2xsME9ObHhSeDQyYW9GbHJIQ08tWC1PajNxaW9CYW1OdEFYUVc0ZThra2dYWUhOWTZac3lwcDIxaDg1TmJ1dHpodFU5N3RCNkRMWTNPZFlDdU93MDk2R3JsTzdUZW1uSDhnX1Q2dUlIUmxVTkxKUUswZ3lyZGQ2RURMekhxTGp6?oc=5",
-      "publishedAt": "2026-10-27T19:21:33+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-fifa-conducts-inspection-visits-in-morocco-portugal-and-spain-to-select-2030-world-cup-venues-the-peninsula-",
       "title": "国际足联 conducts inspection visits in Morocco, Portugal and 西班牙 to select 2030 世界杯 venues - The Peninsula Qatar",
       "summary": "国际足联 conducts inspection visits in Morocco, Portugal and 西班牙 to select 2030 世界杯 venues  The Peninsula Qatar",
@@ -76,20 +124,20 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOY0k3RlpMWUxQU3hJWUxVYWhHN3hFR1FwdlZyMl9VRG8ySWNwM1NTMUlTS19kVmpOOWFVNEhZUTFub3U4R0o5QkdjX05mVTdMa3BwT3c5R0JCVlUxelZTSkV4TzZxOWZaQzlUVmtxYUh2cWF3aWlCWmU0UmlZdFhkUW9fb0c3Y1JqcVkzMEtkRmdnaElmTTZWVG1aNUd4V2p6M2JyNzRIdXlIZ1Q2X0xxTncyRlRWWHpMZFdvSkdESXFyMEQtWlVkd1dNM2VuLTk2bm1BcUZiZU1qQQ?oc=5",
-      "publishedAt": "2026-10-27T18:55:05+00:00",
+      "publishedAt": "2026-10-27T18:53:37+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-2026-world-cup-venue-map-ap-news",
-      "title": "2026 世界杯 venue map - AP News",
-      "summary": "2026 世界杯 venue map  AP News",
-      "originalTitle": "2026 World Cup venue map - AP News",
-      "originalSummary": "2026 World Cup venue map  AP News",
+      "id": "google-news-lamine-yamal-s-brother-keyne-yamal-steals-the-spotlight-in-tuxedo-at-2026-ballon-d-or-ceremony-in-london-spo",
+      "title": "Lamine Yamal’s brother Keyne Yamal steals the spotlight in tuxedo at 2026 Ballon d’Or ceremony in London - Sports Tiger",
+      "summary": "Lamine Yamal’s brother Keyne Yamal steals the spotlight in tuxedo at 2026 Ballon d’Or ceremony in London  Sports Tiger",
+      "originalTitle": "Lamine Yamal’s brother Keyne Yamal steals the spotlight in tuxedo at 2026 Ballon d’Or ceremony in London - Sports Tiger",
+      "originalSummary": "Lamine Yamal’s brother Keyne Yamal steals the spotlight in tuxedo at 2026 Ballon d’Or ceremony in London  Sports Tiger",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wc2dPYmtReWJXMFhJVDFxWVIycHNtTTEtRXo3ZmVtUjJEVnlKTjRsNjluOVFGcHVqSlVYRGI0OEpZZ3EzeHMxZFQ3di13MWtnMTVvMEwzN21rcFk?oc=5",
-      "publishedAt": "2026-10-27T18:37:40+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOYmlWWmdaeE9rSW15dTg2Z1B4OVZlUmdBazY3YTlsU0dTR3ZTQnNrYU10M3M3YUVxcVRIaDFPYThvdkctWk9GMGZiZGdCZ1pDQmVqY19CTHNOMVV3UlBIUTZOS1BKTVI2TWRoZDdhMnNWdDlXYkdYRUhtal9mWGJSR3NmaXg2RmNpTEN5Uzk3OGd1VEwwWXAzM0RUVy00cWYwOTd3SzREVE5UcFVGM1pDNHdXNlVUbWxRY09vVTZ2bWcwWXowRlFwaWRRZDhGVmJDMU1IcXpSZw?oc=5",
+      "publishedAt": "2026-10-27T18:16:51+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-usmnt-wins-opening-world-cup-match-against-paraguay-4-1-abc-news-breaking-news-latest-news-and-videos",
@@ -102,30 +150,6 @@
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPcEFoRlRNSHZwMU11dDhhUnk3eHk0RmZ1emVOQWFFVFo0Q3lHNmwwMENVWEdscEQ4Qk5IQmdsUnZNNGYzT3FtUW1BbWc3XzNsVXJMR2EtZzZsTkk5TDR1dm8tOUlWMkxyWUtIQ1Bwc096QU9XT0tWd0huTUxFM1hZQmpaTFdwUHZD0gGOAUFVX3lxTE5jQUw2Z2xXWGFnRHpWckZ1dy1FRTQ2bzlDajhoVE1NdC1IWlRDdklOajZ0b2swOEppVk53d1VUQzlVXzNmOHliNS1MRHBaR0dIWF9vX1BZeVA4NHB1SHpTaWtWY2F4aHFpT0UxenRGeDRKalVSYjgwYTFoRHRlMU1JUUlVQ0hraV9vbmxHb0E?oc=5",
       "publishedAt": "2026-10-27T17:38:28+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-world-cup-referee-from-somalia-denied-entry-to-the-us-due-to-vetting-concerns-cbp-abc-news-breaking-news-lat",
-      "title": "世界杯 referee from Somalia denied entry to the US 'due to vetting concerns': CBP - ABC News - Breaking News, Latest News and Videos",
-      "summary": "世界杯 referee from Somalia denied entry to the US 'due to vetting concerns': CBP  ABC News - Breaking News, Latest News and Videos",
-      "originalTitle": "World Cup referee from Somalia denied entry to the US 'due to vetting concerns': CBP - ABC News - Breaking News, Latest News and Videos",
-      "originalSummary": "World Cup referee from Somalia denied entry to the US 'due to vetting concerns': CBP  ABC News - Breaking News, Latest News and Videos",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZGNLR0Fsa2tkekhTelRnSlFiVXNUa3FQR1ZxY1BsanVpRzRQRGV1X25YM0pteUFiRE9QTnRxckVoSlNvYXRLekNqeVlRQ2tsZGUtOGlBS0V3R2FTdW5VWnVCay1lLWZSZzBUY0UxWUNTM2Zva0FfVlJ3MmVFVkhCXzdhR2tyNlMtMm5RMGNOeGgyV0tIdGxLbFFpVGtjb3fSAaQBQVVfeXFMTVdpV0U0LXVIYUMwNkpYZkkwUmRHdzVuNjdWOE5lZWZUNDJBdDJwalRhSVhKYUpnLWFjS1lBZlJrem1vOHhZb3RrOHMwT2loOV9KSUZKdFBXTEJMZUs0MkUzYms5VWtTQXMxNHRJYkNweml2TUc2emNCbjE4MHltaURBSUduS2N5b0ZBdjVVLXZKbUxRS1g2TU42b20xUThYT09xLXM?oc=5",
-      "publishedAt": "2026-10-27T17:00:57+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-fifa-raises-football-development-funding-to-6-35bn-as-infantino-apologises-for-ffe-errors-leadership-newspap",
-      "title": "国际足联 Raises Football Development Funding To $6.35bn As Infantino Apologises For FFE Errors - LEADERSHIP Newspapers",
-      "summary": "国际足联 Raises Football Development Funding To $6.35bn As Infantino Apologises For FFE Errors  LEADERSHIP Newspapers",
-      "originalTitle": "FIFA Raises Football Development Funding To $6.35bn As Infantino Apologises For FFE Errors - LEADERSHIP Newspapers",
-      "originalSummary": "FIFA Raises Football Development Funding To $6.35bn As Infantino Apologises For FFE Errors  LEADERSHIP Newspapers",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNRnpydlF4VjYwNHNDNmRnT3BCYWhjOWt3RndFVXo5UDZPTnh2VVZ6RzlwSUR0NzAzY1JDNHFLb2R3djBBM2N6UVk5RUtSWXNQSXhCTENfT0RKTWVxelhyM0w4c2R0azlydUhoQXNWT2ZzUUZScTRieWE5Sy1zcVl5OW53a2twWEFwMDJxTk82M3ZUcTI1QjhCcDcteHl4NmgyeVFxZ3A1MTNvazdMdDZ5VmtB?oc=5",
-      "publishedAt": "2026-10-27T16:47:16+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-harry-kane-s-ballon-d-or-2026-win-did-goals-matter-more-than-glory-extratime-talk",
@@ -164,6 +188,18 @@
       "heat": 60
     },
     {
+      "id": "google-news-english-reds-into-world-cup-semis-manchester-united",
+      "title": "English Reds into 世界杯 semis - Manchester United",
+      "summary": "English Reds into 世界杯 semis  Manchester United",
+      "originalTitle": "English Reds into World Cup semis - Manchester United",
+      "originalSummary": "English Reds into World Cup semis  Manchester United",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXNaZG1udldPaGFrcEItZ3pqVVd6cjlNaDJSd3drTUFTSl9jd2hYMTZ6c1dwdFNaRlE5QlJhWWt4TEQ1X2Y5bGktZTNzV1NkY1F5MDBGanBnRFpQQmF1Y1VCU2hiM2J5dTVtV2RqWmRmMnkydDFzSDZodlRYT1M2YU05RlowSy1pS0w4ZGthQjZrRWZzdDJudFI0SQ?oc=5",
+      "publishedAt": "2026-10-27T15:04:43+00:00",
+      "heat": 52
+    },
+    {
       "id": "google-news-why-did-harry-kane-win-the-2026-ballon-d-or-over-yamal-and-mbappé-marca",
       "title": "Why did Harry Kane win the 2026 Ballon d'Or over Yamal and Mbappé? - MARCA",
       "summary": "Why did Harry Kane win the 2026 Ballon d'Or over Yamal and Mbappé?  MARCA",
@@ -171,32 +207,8 @@
       "originalSummary": "Why did Harry Kane win the 2026 Ballon d'Or over Yamal and Mbappé?  MARCA",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWnlUTmVSc1RGaC1FaWNzVTNXVW5nTkpPNmJRdktSODlRcGlSNkhqVWVKcEZHdE5ITEFOY2ZDdXJnQlhWTTh1UmxLVmE5cGNhbDREMk9zOFg2WmNyQ2lJdVcyT3JRMlROdEQySnVTaEFZRlBuZzFZX3IwRTZpbnk4WmhmZkNsYl9VQXVzQjhpY0pJMWYxbGtCeUVJRHVPWWZVanFHY0tpQmJrWXVuSTJIX3B5N215bzlNbTFveUk2UG83Mi0w0gHEAUFVX3lxTE1aeVROZVJzVEZoLUVpY3NVM1dVbmdOSk82YlF2S1I4OVFwaVI2SGpVZUpwRkd0TkhMQU5jZkN1cmdCWFZNOHVSbEtWYTlwY2FsNEQyT3M4WDZaY3JDaUl1VzJPclEyVE50RDJKdVNoQVlGUG5nMVlfcjBFNmlueThaaGZmQ2xiX1VBdXNCOGljSkkxZjFsa0J5RUlEdU9ZZlVqcUdjS2lCYmtZdW5JMkhfcHk3bXlvOU1tMW95STZQbzcyLTA?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQc1FOcGxwZ0ZYVkR4OHhmNG1Kd0NsYXlYbmxXaEg4dHhqV2hvYTNzU3YzUk9QTlNvaFZpSHFJUGxGODUtbW9lckhIcVA5T1E1RmNyaW1GTHlKYUk2Rjk0eVlrN0NHVmloUUdUWUk2ekxLMU5QN0FXZGJXUGE1SVZCNHpsZXhrRFYzS01OUTFpUlA3WnVvOW8xZktrNzNqeExXTjhKUWZRb1pENkpEYnRmNDNrdTlsSzJGRHI2YjVaUC1CdlIz0gHEAUFVX3lxTE1aeVROZVJzVEZoLUVpY3NVM1dVbmdOSk82YlF2S1I4OVFwaVI2SGpVZUpwRkd0TkhMQU5jZkN1cmdCWFZNOHVSbEtWYTlwY2FsNEQyT3M4WDZaY3JDaUl1VzJPclEyVE50RDJKdVNoQVlGUG5nMVlfcjBFNmlueThaaGZmQ2xiX1VBdXNCOGljSkkxZjFsa0J5RUlEdU9ZZlVqcUdjS2lCYmtZdW5JMkhfcHk3bXlvOU1tMW95STZQbzcyLTA?oc=5",
       "publishedAt": "2026-10-27T14:46:26+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-harry-kane-wins-2026-ballon-d-or-ends-england-s-25-year-wait-switsalone",
-      "title": "Harry Kane Wins 2026 Ballon d’Or, Ends England’s 25-Year Wait - SwitSalone",
-      "summary": "Harry Kane Wins 2026 Ballon d’Or, Ends England’s 25-Year Wait  SwitSalone",
-      "originalTitle": "Harry Kane Wins 2026 Ballon d’Or, Ends England’s 25-Year Wait - SwitSalone",
-      "originalSummary": "Harry Kane Wins 2026 Ballon d’Or, Ends England’s 25-Year Wait  SwitSalone",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSDZmVHZiMlZ1Ymcwa0xvUlhKb0FSazlWX2w2alVPbFIwdjRBZlp4SmctSUp3RFB2eU5YWWp0S3BxWFNRTTh3UFUxVXZ5VnlFYThuOEUwUXdsODRKVEc0MHdVbno5MEZKay1rYWhQMWVKVXFudERPcWFJQUIyaUxxRUxhZGJKMXZoWUtSYmZ4RQ?oc=5",
-      "publishedAt": "2026-10-27T14:45:36+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-jayden-adams-honoured-in-moving-tribute-at-2026-ballon-d-or-ceremony-soccer-laduma",
-      "title": "Jayden Adams Honoured In Moving Tribute At 2026 Ballon d'Or Ceremony - Soccer Laduma",
-      "summary": "Jayden Adams Honoured In Moving Tribute At 2026 Ballon d'Or Ceremony  Soccer Laduma",
-      "originalTitle": "Jayden Adams Honoured In Moving Tribute At 2026 Ballon d'Or Ceremony - Soccer Laduma",
-      "originalSummary": "Jayden Adams Honoured In Moving Tribute At 2026 Ballon d'Or Ceremony  Soccer Laduma",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNc0ZOLVY5T18tR0lZSVJxNVlURFNYT3Y5Zi1Rd3dQRF9rbTNORkY1aW54cUxQanhEbW53NFYwZGZ2MF9QR2RLYkJHXzg4OE9vTGVWcDBqdmpYWHZIZ0FPNnlnVGtucW9ySVU0Q3JhZnRERC13ejJ6Z2pKYlRPRURQODdR?oc=5",
-      "publishedAt": "2026-10-27T14:41:00+00:00",
       "heat": 44
     },
     {
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTXBiZ09nVTVBT2xiSEZYY2k3cEVUSU5IOVB5cHRQS2I0OURlTkx0WWZnbnA3UmdCQVUtRzhCcmNEZ3BESmVjVTJzNjZnUGhtNnA2ZmtXU0JLdU1mVXI0bHRJYUlKRzY5SVBjYWZKMlBfSmVPcVF1U2tRMUlNOXFsSG91UHJEOUN1amJDRWFubHJlcnNGRXh5M3NYbEIyLU5aVkE?oc=5",
       "publishedAt": "2026-10-27T14:22:10+00:00",
       "heat": 44
-    },
-    {
-      "id": "google-news-how-to-get-fifa-under-17-world-cup-2026-tickets-dates-schedule-ticket-prices-qatar-venue-information-and-mor",
-      "title": "How to get 国际足联 Under-17 世界杯 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more - Goal.com",
-      "summary": "How to get 国际足联 Under-17 世界杯 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more  Goal.com",
-      "originalTitle": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more - Goal.com",
-      "originalSummary": "How to get FIFA Under-17 World Cup 2026 tickets: Dates, schedule, ticket prices, Qatar venue information and more  Goal.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYzI0M0tpQXJDcFhmVlNwX3psWmZnbFJzd3ZNalZfcUs2ZkZUVS1mSk1GcldZR2xCNjgzdFlESXF5WTB4SGh4V0tVWm56alNhSTFFLUtKSEowQkxQdlRDUl9yaFpHS2ExcmZITllYYVRheFZ3OXZsV3hWeWNjaVBCSWJMMkU2d2h0cmZiX185Z3ZTd1ZRZUd2elJVRWZsWXNvQVp1ZA?oc=5",
-      "publishedAt": "2026-10-27T13:52:39+00:00",
-      "heat": 60
     }
   ]
 }
