@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T02:44:10.128748+00:00",
+  "updatedAt": "2026-10-29T09:41:23.026021+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,138 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-u17-women-s-world-cup-joe-nana-adarkwah-backs-black-maidens-to-overcome-quarter-final-opponent-asaase-radio",
+      "title": "U17 Women’s 世界杯: Joe Nana Adarkwah backs Black Maidens to overcome quarter-final opponent - Asaase Radio",
+      "summary": "U17 Women’s 世界杯: Joe Nana Adarkwah backs Black Maidens to overcome quarter-final opponent  Asaase Radio",
+      "originalTitle": "U17 Women’s World Cup: Joe Nana Adarkwah backs Black Maidens to overcome quarter-final opponent - Asaase Radio",
+      "originalSummary": "U17 Women’s World Cup: Joe Nana Adarkwah backs Black Maidens to overcome quarter-final opponent  Asaase Radio",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQR2pWTGZRR1AtQ0p3UG85SkFKTG9vSWFJSzRjX1ZBZi16eGctanJGQmRxSGhpSEh6Z1FuTU1nc1NDdVRPVW1NMnlmVnlHd09DLWZ5c0kzNDhfWG9uOVJ6ZVRQTzlkNVkyaHJmblRrd2FaMlhfZE9nVm4yeDI1X1E1eENBZkdnbmpmRG9LbEtHUXhOTUY0d2drVjVMV1BiUEYtdHJHTGw3ajN3UE9aRjZRRXlqcUU0ZWpvSFE?oc=5",
+      "publishedAt": "2026-10-29T08:23:34+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-flamingos-target-u-17-women-s-world-cup-quarter-final-in-knockout-clash-against-mexico-streamlinefeed-co-ke",
+      "title": "Flamingos Target U-17 Women's 世界杯 Quarter-Final in Knockout Clash Against Mexico - streamlinefeed.co.ke",
+      "summary": "Flamingos Target U-17 Women's 世界杯 Quarter-Final in Knockout Clash Against Mexico  streamlinefeed.co.ke",
+      "originalTitle": "Flamingos Target U-17 Women's World Cup Quarter-Final in Knockout Clash Against Mexico - streamlinefeed.co.ke",
+      "originalSummary": "Flamingos Target U-17 Women's World Cup Quarter-Final in Knockout Clash Against Mexico  streamlinefeed.co.ke",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPc0pOTEpPMDUxOTFnZ3pkZVJySDVHZ2dqUlFVUm9nUUdzcDNpYzhiREJNSGJGdzIzZnozOHZjY0RzVjI3TVhSQW5GRnhXSTFfSE14ZzhrTkdSZC1vODB3eUpxMlRuYkVWUmp1QmdiWGt1RTBCX1RueG9LSkIyUXVDN0t0SzJJOHFmVDNDNTBLeXRsdWFmUXY2V0JDcDJONEhBSXE4U2dfdFpoZzZaTDQ2aGlsZUpCUlQ4blU4?oc=5",
+      "publishedAt": "2026-10-29T07:54:24+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-no-one-performed-better-than-messi-during-2026-world-cup-yamal-the-sun-nigeria",
+      "title": "No one performed better than Messi during 2026 世界杯 – Yamal - The Sun Nigeria",
+      "summary": "No one performed better than Messi during 2026 世界杯 – Yamal  The Sun Nigeria",
+      "originalTitle": "No one performed better than Messi during 2026 World Cup – Yamal - The Sun Nigeria",
+      "originalSummary": "No one performed better than Messi during 2026 World Cup – Yamal  The Sun Nigeria",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbktadU14dEVWcDBRR0NoOHBHNG5kMkE0SzUyOUxiWVMwX0s5MW5JYzd4bUhjMG02S1k4dlpxYnhOLXBjMWFldWxNY3VsVGVDR0c5dnU4TWhUSFVXN1lESU91eGFoX3FBV1pyMG05V1JlU1liWWdlSnVmcUFwbEpnN24zanY4ZFlM?oc=5",
+      "publishedAt": "2026-10-29T07:25:08+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-ghana-s-black-maidens-beat-argentina-to-reach-fifa-u-17-women-s-world-cup-quarterfinals-ghana-business-news",
+      "title": "Ghana's Black Maidens beat Argentina to reach 国际足联 U-17 Women's 世界杯 quarterfinals - Ghana Business News",
+      "summary": "Ghana's Black Maidens beat Argentina to reach 国际足联 U-17 Women's 世界杯 quarterfinals  Ghana Business News",
+      "originalTitle": "Ghana's Black Maidens beat Argentina to reach FIFA U-17 Women's World Cup quarterfinals - Ghana Business News",
+      "originalSummary": "Ghana's Black Maidens beat Argentina to reach FIFA U-17 Women's World Cup quarterfinals  Ghana Business News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQWTZPN0hmUEFJVjk3NnN4UFhvaGU5MmlPUkpROU1SVG9JZE15MXpPYUViR2V2d2lLMDFqYXBlY1ZXX3k0NnRBeF94SS1RSTNpN09uMjU3RnF4NUFRdVJQdjVXNmZEQ1NGMTRBX3dsSVJpel9uVDAyNlhzemhUQ0RZXzNkNzBock1sUGRTSzkwSUdYVW1fd3hVQmt2VWRFd0pMQjY5Q2RBeHZtY0tZbXpjN2dxeUV6OVQ5SkE4d0x0a0xwUl9wc2VjNTZzUQ?oc=5",
+      "publishedAt": "2026-10-29T07:13:53+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-licha-named-in-fifa-dream-xi-manchester-united",
+      "title": "Licha named in 国际足联 Dream XI - Manchester United",
+      "summary": "Licha named in 国际足联 Dream XI  Manchester United",
+      "originalTitle": "Licha named in FIFA Dream XI - Manchester United",
+      "originalSummary": "Licha named in FIFA Dream XI  Manchester United",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOcWR3TE5KS21tYkFaWXE2WVNXb2xxM0N3Z0h0ckZYVG5qRHZZZzBPLWpUZTMxeXpQTmxuS2taaWxYVnB6cV82T2g5QlhGWnFRenE2T3BUNnlWYkZfN0lYZ0doMENxaEtqd3ZoU0lsSW9TTHV1V204bzFPV0xJRHJnTTZuREhTcVhQWmdOUVJ5Q3VCOXZv?oc=5",
+      "publishedAt": "2026-10-29T06:43:13+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-south-africa-u-15-go-down-to-portugal-in-fifa-world-cup-clash-face-uae-in-quarterfinals-africa-top-sports",
+      "title": "South Africa U-15 go down to Portugal in 国际足联 世界杯 clash, face UAE in quarterfinals - Africa Top Sports",
+      "summary": "South Africa U-15 go down to Portugal in 国际足联 世界杯 clash, face UAE in quarterfinals  Africa Top Sports",
+      "originalTitle": "South Africa U-15 go down to Portugal in FIFA World Cup clash, face UAE in quarterfinals - Africa Top Sports",
+      "originalSummary": "South Africa U-15 go down to Portugal in FIFA World Cup clash, face UAE in quarterfinals  Africa Top Sports",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT1ZMRS1nSE9QVVo5dDBPcFlGeHZiblNWSDMxb1dsQ2dlT1V0YnJ2TFlkUnY3bkgyVGlXbEtPb1JIb3VoY0xJTjRhTlZ0OWpoZzBxVE1rYk9RQkdoaktNbmtZVm16Ry1ST1FQbnFfZm90WTlnRFlGS25iODBUZGVyZURIRnNEX09KWHVkbzFIeExiODVia2tDa2F1SDkzTGsyNlMyakF5T3NYUHZ3NkREaEMzUWlkbjlRLUNB?oc=5",
+      "publishedAt": "2026-10-29T05:21:05+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica",
+      "title": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "summary": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
+      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
+      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
+      "publishedAt": "2026-10-29T04:29:53+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-morocco-2026-fifa-u-17-women-s-world-cup-nigeria-battles-mexico-for-quarterfinal-ticket-the-guardian-nigeria",
+      "title": "Morocco 2026 国际足联 U-17 Women’s 世界杯: Nigeria battles Mexico for quarterfinal ticket - The Guardian Nigeria News",
+      "summary": "Morocco 2026 国际足联 U-17 Women’s 世界杯: Nigeria battles Mexico for quarterfinal ticket  The Guardian Nigeria News",
+      "originalTitle": "Morocco 2026 FIFA U-17 Women’s World Cup: Nigeria battles Mexico for quarterfinal ticket - The Guardian Nigeria News",
+      "originalSummary": "Morocco 2026 FIFA U-17 Women’s World Cup: Nigeria battles Mexico for quarterfinal ticket  The Guardian Nigeria News",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTDF1QzVDSWxzbUZpUHpLWkUzNzBIa3pUNU1RU0hQanNwakJTM0NFczdxM0hpaG9Kd1hiNTRIU18ydmJEYjVCWFEyb3FOQUZ3TXA2SWFHNXMwbU9fWjdsM09OdnBEWEk3RHBTbTRQN0hfUEVyRmJfLTlPRDJoSE9sdnRaTDJDZkhqSkpSYmFtVFNuT2w3ZTNBTkhEMlJkaG1RbW5NeE93dXVQY2lEWkxha0diWQ?oc=5",
+      "publishedAt": "2026-10-29T04:00:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-nigeria-vs-mexico-29-oct-2026-live-score-espn",
+      "title": "Nigeria vs. Mexico (29 Oct, 2026) Live Score - ESPN",
+      "summary": "Nigeria vs. Mexico (29 Oct, 2026) Live Score  ESPN",
+      "originalTitle": "Nigeria vs. Mexico (29 Oct, 2026) Live Score - ESPN",
+      "originalSummary": "Nigeria vs. Mexico (29 Oct, 2026) Live Score  ESPN",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZEg1NHNtTklKWnkzV3BBU00wNkQ5TDRBbDRCTS1ZRGVoYUNSN2dfeHNscGFFTEthSmxuRm9tSVc4aDlMTjM2RGtpOTUxTkl3eHJrYzlGTjZsWUVwdldyRnNpY0kyQ0xydnA4NVk2dHZLanQ2MFpVREZfQ09wNGtlaWdjbGZVYzQ?oc=5",
+      "publishedAt": "2026-10-29T03:48:17+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-10-29T03:08:35+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-2026-fifa-u17-wwc-black-maidens-coach-hails-world-class-jessica-appiah-ghanasoccernet",
+      "title": "2026 国际足联 U17 WWC: Black Maidens 主帅 hails 'world-class' Jessica Appiah - GhanaSoccernet",
+      "summary": "2026 国际足联 U17 WWC: Black Maidens 主帅 hails 'world-class' Jessica Appiah  GhanaSoccernet",
+      "originalTitle": "2026 FIFA U17 WWC: Black Maidens coach hails 'world-class' Jessica Appiah - GhanaSoccernet",
+      "originalSummary": "2026 FIFA U17 WWC: Black Maidens coach hails 'world-class' Jessica Appiah  GhanaSoccernet",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1RnVnZBMlVqekhjZkpSSVhwSzVxLXJiOXRRME53X2FjdU5pUTYwMTdJcl9tenhOUXR3WXpnbEpUeDA3bFZUc2Q3MjY3M2FMb2J3YWFGcXRyWk40N3dFcHJJNUxFanBXTUVYcUNCdlVZZ0NZVHVaYUxIUVJRdEtrQkRtZmgxWVJWSm1RN3lfbVltSUJMZUw4bVV5NUJQUQ?oc=5",
+      "publishedAt": "2026-10-29T02:37:22+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-philadelphia-union-clinch-audi-2026-mls-cup-playoffs-spot-mlssoccer-com",
       "title": "Philadelphia Union clinch Audi 2026 MLS Cup Playoffs spot - MLS足球.com",
@@ -32,27 +164,27 @@
       "heat": 44
     },
     {
-      "id": "google-news-ghana-s-black-maidens-beat-argentina-to-reach-fifa-u-17-women-s-world-cup-quarterfinals-ghana-news-agency",
-      "title": "Ghana's Black Maidens beat Argentina to reach 国际足联 U-17 Women's 世界杯 quarterfinals - Ghana News Agency",
-      "summary": "Ghana's Black Maidens beat Argentina to reach 国际足联 U-17 Women's 世界杯 quarterfinals  Ghana News Agency",
-      "originalTitle": "Ghana's Black Maidens beat Argentina to reach FIFA U-17 Women's World Cup quarterfinals - Ghana News Agency",
-      "originalSummary": "Ghana's Black Maidens beat Argentina to reach FIFA U-17 Women's World Cup quarterfinals  Ghana News Agency",
+      "id": "google-news-fifa-took-5bn-in-world-cup-2026-ticket-sales-as-us-s-wealthy-event-goers-filled-stadia-inside-world-football",
+      "title": "国际足联 took $5bn in 世界杯 2026 ticket sales, 作为 US’s wealthy event goers filled stadia - Inside World Football",
+      "summary": "国际足联 took $5bn in 世界杯 2026 ticket sales, 作为 US’s wealthy event goers filled stadia  Inside World Football",
+      "originalTitle": "FIFA took $5bn in World Cup 2026 ticket sales, as US’s wealthy event goers filled stadia - Inside World Football",
+      "originalSummary": "FIFA took $5bn in World Cup 2026 ticket sales, as US’s wealthy event goers filled stadia  Inside World Football",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE90MXdBVUVVcGFxeGQ0eUt3bWV5QzNHUlk3c09DVlNVNjNmM2p5by1TczRVTWlfdXZOampNOG1xMU1pQ1FXRkVCWTdR?oc=5",
-      "publishedAt": "2026-10-29T00:21:35+00:00",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSFJ6QUtGZzVJaGZpcTlqWFMybks1SndHc3p2c2pqb3lSZ0Y1THpKMkJhVTJ5bXFWdXJpMEJmaFBhSGpKZ0E4Mm9IcmtDdE9kZENSbWdGUG9XUms2cUxmQnFPbTdwaTBUdjlrNnFYcE5qSVgtWUxBNnV6emJjRVNqVzYtdXFYZkZVdTBCNU1tU2VhMTdwb1dDSW9LNlI1QnRvT3NOTk5RU1hnd0tabjVkTGdabVFFRHMzR0RrQnVpVjBzeWNqa1hQM1BRQkRQUQ?oc=5",
+      "publishedAt": "2026-10-29T01:23:00+00:00",
       "heat": 60
     },
     {
-      "id": "google-news-flamingos-stun-champions-north-korea-3-1-to-reach-u-17-world-cup-last-16-businessday-ng",
-      "title": "Flamingos stun champions North Korea 3-1 to reach U-17 世界杯 last 16 - Businessday NG",
-      "summary": "Flamingos stun champions North Korea 3-1 to reach U-17 世界杯 last 16  Businessday NG",
-      "originalTitle": "Flamingos stun champions North Korea 3-1 to reach U-17 World Cup last 16 - Businessday NG",
-      "originalSummary": "Flamingos stun champions North Korea 3-1 to reach U-17 World Cup last 16  Businessday NG",
+      "id": "google-news-rajars-q3-2026-world-cup-helps-talksport-lead-growth-as-bbc-decline-continues-press-gazette",
+      "title": "RAJARs Q3 2026: 世界杯 helps Talksport lead growth 作为 BBC decline continues - Press Gazette",
+      "summary": "RAJARs Q3 2026: 世界杯 helps Talksport lead growth 作为 BBC decline continues  Press Gazette",
+      "originalTitle": "RAJARs Q3 2026: World Cup helps Talksport lead growth as BBC decline continues - Press Gazette",
+      "originalSummary": "RAJARs Q3 2026: World Cup helps Talksport lead growth as BBC decline continues  Press Gazette",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPUjRhay1PU2o0a2xjZlMtUVVyR3A3MEhyd0V3TkFlcVJNNXJxZ2xKQndmNmprYzVFQlRFc1RiT09EdGgxRG1IbFVzM0xrLWtEcFp1NmNqdkt4eXBGVlZRY0lEQlQ5R25wSjNsOU92UUdTb0NLNHJ2NkNuV1BSbFlNb1F3OGZoOUhWeXlScHpGZDBObTFGaGVEeVFsQkZYU1g3cEFYNEhrZ3J4aFFsVDF6UdIBtgFBVV95cUxNaGczcFN3aHZQdUVsdEpaQy13c292RjE0aWJfZE5sS0d3OGF5MkxyYXF2SHFpQ0JLU0tqekNlUlJHaUFjbHZTTWxiaWFGUEdSY3Bwdi1xanZGUFByWnZIWVJKdVJjODFHOFY4aEhtMDBOblZWMGFmVlFPSVZNeWVfdGc3akFFVVBGYWZmcU1pMlg0UnJDc0dTZjA5bndRVEJDQ0NQdFVtNV9ITFZ3djl3dG1lTjBxQQ?oc=5",
-      "publishedAt": "2026-10-28T23:49:53+00:00",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOb2tjaEZLbmVlblF3UlVoUUF3X3lqeEVOMHI2RGdVeG5JVGhXa2RBQlRPVXk4LUJXal80RWp6ZWtvVE50NjVTZVhSeV9fU2owRmd0enNpSWxfdVgtRUtqbHVTNF93dFh6aElVTlJqc2lXVEcwUV9oY2dlYmk0R3YyM1F2RkNaTXBPUTBLXzFmbVV3QTh3UmVtVlJwdzl4bHVQcGJFaDV2cU1EZkgxTFZsU0RIbE9nWEtSMk1IUUpRWElHT0ZiMC1rNm53?oc=5",
+      "publishedAt": "2026-10-29T00:04:42+00:00",
       "heat": 52
     },
     {
@@ -68,114 +200,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-may-have-received-5-billion-from-tickets-and-hospitality-packages-for-the-2026-world-cup-der-spiegel-ua",
-      "title": "国际足联 may have received $5 billion from tickets and hospitality packages for the 2026 世界杯 — Der Spiegel - UA.NEWS",
-      "summary": "国际足联 may have received $5 billion from tickets and hospitality packages for the 2026 世界杯 — Der Spiegel  UA.NEWS",
-      "originalTitle": "FIFA may have received $5 billion from tickets and hospitality packages for the 2026 World Cup — Der Spiegel - UA.NEWS",
-      "originalSummary": "FIFA may have received $5 billion from tickets and hospitality packages for the 2026 World Cup — Der Spiegel  UA.NEWS",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTFVKcWY5S0t3QU5SOFBXbW9RZU1jTlU2c081UTZqVjVGamtvcWdDR1d5YW14OVpqSTBBT3dkb3VwVWdyZGJsZzliZG1lMFhVOFoyTG11UTNJRm80UDNRRm4yV0lzUXVOWUxURm9LN09qMzZRUmdhSHlzRWdCYTUtRDNlci1fYUlsQmw5QV9KVnROQmtNNG5kVW1Td01zWXFnLWdRanNIQ1FpMlo1Y2c?oc=5",
-      "publishedAt": "2026-10-28T21:39:49+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-rema-lisa-anitta-goals-fifa-2026-world-cup-song-tooxclusive",
-      "title": "Rema, LISA & Anitta – Goals (国际足联 2026 世界杯 Song) - Tooxclusive",
-      "summary": "Rema, LISA & Anitta – Goals (国际足联 2026 世界杯 Song)  Tooxclusive",
-      "originalTitle": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song) - Tooxclusive",
-      "originalSummary": "Rema, LISA & Anitta – Goals (FIFA 2026 World Cup Song)  Tooxclusive",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQTloyWW1pRE54TTdJTmUtSXZYeTdQc1h2eXBLSVVtbGRkQUh4NERfM05HRGF6aU5MdzlybmNEOFZQZ3h5a0l1Wk90T0lLcWJSMndYV1RaSUhVTDBaYnJHdXlPNnV1cXZRbzJoZ0NBenh2RUhTV0dPcTlsZUlSQl9XT3lYVG4?oc=5",
-      "publishedAt": "2026-10-28T21:05:55+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-jump-debuts-as-coca-cola-s-official-anthem-for-fifa-world-cup-2026-ticketnews",
-      "title": "JUMP’ Debuts 作为 Coca-Cola’s Official Anthem for 国际足联 世界杯 2026 - TicketNews",
-      "summary": "JUMP’ Debuts 作为 Coca-Cola’s Official Anthem for 国际足联 世界杯 2026  TicketNews",
-      "originalTitle": "‘JUMP’ Debuts as Coca-Cola’s Official Anthem for FIFA World Cup 2026 - TicketNews",
-      "originalSummary": "‘JUMP’ Debuts as Coca-Cola’s Official Anthem for FIFA World Cup 2026  TicketNews",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUTI2cEd3dU1ncjFZSUhyWmtRRy1UaEdWaW1fZ0RjMzVuZHMxUWE3WnBtMkxuRlJkb05FWHkwcUZWTkJiZTY3NWZWSlB2MFVmZ0RmRkYwczdtXy1Ob3RRM0pxSnlPVGV0emFtbTM1S0pJRUlQbTJGOHRJd2cwOWp4bDJKWHlHTVdFYlc0Um81b2lJN2M?oc=5",
-      "publishedAt": "2026-10-28T21:03:21+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica",
-      "title": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "summary": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
-      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "publishedAt": "2026-10-28T20:32:16+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-u17-women-s-world-cup-2026-flamingos-must-be-clinical-against-mexico-busari-blueprint-newspapers",
-      "title": "U17 Women’s 世界杯 2026: Flamingos must be clinical against Mexico- Busari - Blueprint Newspapers",
-      "summary": "U17 Women’s 世界杯 2026: Flamingos must be clinical against Mexico- Busari  Blueprint Newspapers",
-      "originalTitle": "U17 Women’s World Cup 2026: Flamingos must be clinical against Mexico- Busari - Blueprint Newspapers",
-      "originalSummary": "U17 Women’s World Cup 2026: Flamingos must be clinical against Mexico- Busari  Blueprint Newspapers",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOOGdkRFVkUUNuVDVoSWRIWUJOdHA3eTZQd0I2NHE5U2ZEdEZHY3cyMXNPVU85YjlpOGE3N0tfMkZkY2d3UndBRzJXVjItWEhQM1RnSzBrbjdXbld0ZV9BcFlFdHUzbnA1dEk4YV9jcG01UHE5N091VUJLOW1iXzZxZG0xSXd6YzZvdkZ6UDJjTHdENHhCM3RpNHFkWTE?oc=5",
-      "publishedAt": "2026-10-28T20:31:49+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-report-fifa-made-5b-in-world-cup-ticket-sales-sports-business-journal",
-      "title": "Report: 国际足联 made $5B in 世界杯 ticket sales - Sports Business Journal",
-      "summary": "Report: 国际足联 made $5B in 世界杯 ticket sales  Sports Business Journal",
-      "originalTitle": "Report: FIFA made $5B in World Cup ticket sales - Sports Business Journal",
-      "originalSummary": "Report: FIFA made $5B in World Cup ticket sales  Sports Business Journal",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQYVppUVdoOFBSX28tTDl2c2NfMW1kdXJnalNWVFVNVTVOU21XSTQzQ1hwTEQzNVBoVk5CUkxmWTNIQVI0QmRrOWdlUm9Rb0pIcHIyZ0lCaXdUZVQ1bnpsTlRCZkFMblBkOUExeTYta3VaZTMzQXo5aUNBSGJ1VHAyWHZEakNxXzV6OWFBYXJrZWZJTmNrUDdEYkpUZWYxQ2ZyYndXZlUxYw?oc=5",
-      "publishedAt": "2026-10-28T20:22:40+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-watch-argentina-vs-egypt-tod",
-      "title": "Watch Argentina vs 埃及 - TOD",
-      "summary": "Watch Argentina vs 埃及  TOD",
-      "originalTitle": "Watch Argentina vs Egypt - TOD",
-      "originalSummary": "Watch Argentina vs Egypt  TOD",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnhiUkJZNnl2YWl6T2VkSy0wWVp3cHhfdVhuemF5RHBjbDZZdUhIem5RdklpMTJsaXdyUXRTVHQ3dm03WVVXLThnSDY4ZlF0NHBjemdKczVDMFRnR3lnWUZtb19ObDZkdFhVS3NuSlRVNDhJV3U1YVdkNkUyS3U1dDJNNTR4eWZ3VjJjS3AxWmRfdzRN?oc=5",
-      "publishedAt": "2026-10-28T20:20:02+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-what-to-watch-on-tv-today-21-oct-2026-the-daily-star",
-      "title": "What to watch on TV today (21 Oct, 2026) - The Daily Star",
-      "summary": "What to watch on TV today (21 Oct, 2026)  The Daily Star",
-      "originalTitle": "What to watch on TV today (21 Oct, 2026) - The Daily Star",
-      "originalSummary": "What to watch on TV today (21 Oct, 2026)  The Daily Star",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNT25MZUE4UVh2SW1VVDlHd3ZFbUVBbWdXUDgxQVFsbVFpX2kwWXIwSF9FckNud1FDOGRjVmNXeTdKN0xGVUtNc0pjVEUwdEp0RUJIT2lJVHdiQUhtMXhIa1NzbEIzQ1F0cElkYkVwczNlTmQwemRZTHFza2tMLUNvWnNpcExKb3FkNktneURwQkhsdGJLbWUyXzBn?oc=5",
-      "publishedAt": "2026-10-28T19:54:40+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-fifa-u17-women-s-world-cup-2026-nff-backs-flamingos-to-soar-over-mexico-blueprint-newspapers",
-      "title": "国际足联 U17 Women’s 世界杯 2026: NFF backs Flamingos to soar over Mexico - Blueprint Newspapers",
-      "summary": "国际足联 U17 Women’s 世界杯 2026: NFF backs Flamingos to soar over Mexico  Blueprint Newspapers",
-      "originalTitle": "FIFA U17 Women’s World Cup 2026: NFF backs Flamingos to soar over Mexico - Blueprint Newspapers",
-      "originalSummary": "FIFA U17 Women’s World Cup 2026: NFF backs Flamingos to soar over Mexico  Blueprint Newspapers",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQLWYzNFNFczNrTFczdUR3Q3dXd0NHbjh6bmp5dEFrN0pRV0hrMUFyZkt3dGlQMGRZU29yQnZuR2hjY1lURTJQeXVURmxGdGJKY3VfZEJ4NFhHU3Zza01OUG5tMkF2VHIwZjA2VFlkV3pkc0xZV29zamY3QTNYUHRfTkZmZFhPeVlRWkJCT3NmdGZabHBKbjJj?oc=5",
-      "publishedAt": "2026-10-28T19:06:46+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-cuti-romero-s-revelation-about-the-2026-world-cup-final-bein-sports",
       "title": "Cuti Romero's Revelation About the 2026 世界杯 Final - beIN SPORTS",
       "summary": "Cuti Romero's Revelation About the 2026 世界杯 Final  beIN SPORTS",
@@ -188,18 +212,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-the-human-cost-of-extravagance-qatar-s-fifa-world-cup-human-rights-violations-international-relations-review",
-      "title": "The Human Cost of Extravagance: Qatar’s 国际足联 世界杯 Human Rights Violations - International Relations Review",
-      "summary": "The Human Cost of Extravagance: Qatar’s 国际足联 世界杯 Human Rights Violations  International Relations Review",
-      "originalTitle": "The Human Cost of Extravagance: Qatar’s FIFA World Cup Human Rights Violations - International Relations Review",
-      "originalSummary": "The Human Cost of Extravagance: Qatar’s FIFA World Cup Human Rights Violations  International Relations Review",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZDFYZDgxQ1ktQjE3c2Uyc2RDT0lnN0hYVHZHZFhCLW1aUG9UYUFuZVpPdEZmMU9GR2NLbnJ3VVVtQzJSbUUyb1JqM1NnaWVTakIzR0gxeGY1Q1dyZU1Ra3U3UHNDcWpOVlYyczc5eXJDQ2VrRjVpa0NnUk1vT1BRcmZQcXVHN3F2SW9qVGk4eE9PblJ1eVBrQ3Z3czJxU2xudlpKYVlZQV9nOTJFalJsYld6U1gxbjhackpTblFn?oc=5",
-      "publishedAt": "2026-10-28T18:43:12+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-ghana-beat-argentina-on-penalties-to-reach-fifa-u17-women-s-world-cup-quarter-finals-ghanasoccernet",
       "title": "Ghana beat Argentina on penalties to reach 国际足联 U17 Women’s 世界杯 quarter-finals - GhanaSoccernet",
       "summary": "Ghana beat Argentina on penalties to reach 国际足联 U17 Women’s 世界杯 quarter-finals  GhanaSoccernet",
@@ -210,18 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYWU4RFloSVdhbW5iTzN3ekEzaGNNSGF2VVBvTGlTNzVPOXl6TWZLMXFXRGduelowVzk4Q0pMdzUtT19YRGpORll4dmJrLTJrcERuZ2tlMXdpXzVsSnl2R18wOFRBVDEzXzBUZk9yMURVMlpYc0Z5aUhyV1otZEUyZWtQRG1QeGlqalBRVWJTdHRIaG9uNzJsSHI5WEw3dUhvaFhNNnRubGVrNlh6cE44?oc=5",
       "publishedAt": "2026-10-28T18:39:06+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-brazil-vs-poland-28-oct-2026-live-score-espn",
-      "title": "Brazil vs. Poland (28 Oct, 2026) Live Score - ESPN",
-      "summary": "Brazil vs. Poland (28 Oct, 2026) Live Score  ESPN",
-      "originalTitle": "Brazil vs. Poland (28 Oct, 2026) Live Score - ESPN",
-      "originalSummary": "Brazil vs. Poland (28 Oct, 2026) Live Score  ESPN",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1hQ3Yxal92bTkwSV9wRkx6cXpYd3o1WGE4M1NueFVldktVNlNnSU5Edml5ajJHcDFwVG1wSE85NWtZcDJid1FDQ053MWNUVVNUNHNMVGZ5R1dIZ1RKdkk3TUlEVlk3em1S?oc=5",
-      "publishedAt": "2026-10-28T18:30:28+00:00",
-      "heat": 52
     }
   ]
 }
