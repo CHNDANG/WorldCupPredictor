@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-10-29T21:41:41.095096+00:00",
+  "updatedAt": "2026-10-30T01:46:51.429304+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,78 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-round-of-16-spain-vs-usa-tsn",
+      "title": "2026 年 FIFA U-17 女子世界杯：16 强 - 西班牙 vs. 美国 - TSN",
+      "summary": "2026 年 FIFA U-17 女子世界杯：16 强 - 西班牙 vs. 美国 TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: Round of 16 - Spain vs. USA - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: Round of 16 - Spain vs. USA  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzVzRVNJZ0NzS2hWVlIzQmhHYlBmclZoTnNjaUVGTnNTaUhkcjRfWlBkbGJDRkIxbkNsQzg1V0gtd3FiVXE5RXFWcDBiVExLUVRTblVOSlVyV0d6WmlYSzR3SHYwRUtoY2VNbTBYdEF4UEdtZ0ZLLTBZZnBobXdwVUZvUUFFa0NDV3RNSFJKRFowLVpQN1U4SXJaSWhnRUw4RWc?oc=5",
+      "publishedAt": "2026-10-30T01:05:36+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-2026-fifa-u-17-women-s-world-cup-round-of-16-japan-vs-kenya-tsn",
+      "title": "2026 年 FIFA U-17 女子世界杯：16 强 - 日本 vs 肯尼亚 - TSN",
+      "summary": "2026 年 FIFA U-17 女子世界杯：16 强 - 日本 vs 肯尼亚 TSN",
+      "originalTitle": "2026 FIFA U-17 Women's World Cup: Round of 16 - Japan vs. Kenya - TSN",
+      "originalSummary": "2026 FIFA U-17 Women's World Cup: Round of 16 - Japan vs. Kenya  TSN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPNVpUbnlkTG5XcGFHTW1rV1VjMTRCeENUTllIZmlrTUk2RGk0MVhNNUtyYVlwbElma2luN0FqZG5sZXF0dTV4cllJdEM0eGtsbmdOR3FxV2VWNnVwVEMtczFSYVhQN0YyVkNtNUtoVjlLckFRNGpmVDVVOVozT3haZXVrQ2Q3ZTgwSlhSNWFHNWdjMXMzVXpwQURpc3ZWTXZFR3Zkag?oc=5",
+      "publishedAt": "2026-10-30T00:45:04+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-fifa-reportedly-generates-5-billion-in-2026-world-cup-ticketing-revenue-amid-fan-backlash-and-governance-scr",
+      "title": "据报道，在球迷强烈反对和治理审查下，国际足联 2026 年世界杯门票收入达 50 亿美元 - Ministry of Sport",
+      "summary": "据报道，在球迷强烈反对和治理审查下，国际足联 2026 年世界杯门票收入达到 50 亿美元",
+      "originalTitle": "FIFA Reportedly Generates $5 Billion in 2026 World Cup Ticketing Revenue Amid Fan Backlash and Governance Scrutiny - Ministry of Sport",
+      "originalSummary": "FIFA Reportedly Generates $5 Billion in 2026 World Cup Ticketing Revenue Amid Fan Backlash and Governance Scrutiny  Ministry of Sport",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNTV9RSzdCQWs0YzZpN1NxRG5NUXI0UUlpNnR6SjRvejd5N21fWlNwUVZnUjRyMGpuV1pLRHZ4ajFXdldzdkZZc0hkX2laSVRkczVHeGZfUGdnM3FsOF82Q05XYTMwS2VsRjBUNXk4dnRKX3Q3cWVrS2hLeWJIRXlsdmNpZWtxOU9OcjlHbE9XMkJkNWlXRUJENnVoQTFOWmxsSnlaS09VMVhod3QwUnhCM3UwWG5mM0g4bmZ2ZTJYZk1vZERKMzZRUTBRUzFkcUhCTjhvSkNHdmhQQQ?oc=5",
+      "publishedAt": "2026-10-29T22:40:06+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-u-s-u-17-women-s-national-team-downs-spain-2-1-in-round-of-16-at-2026-fifa-u-17-women-s-world-cup-and-will-f",
+      "title": "美国 U-17 女子国家队在 2026 年 FIFA U-17 女子世界杯 16 强中以 2-1 击败西班牙，并将在四分之一决赛中迎战朝鲜民主主义人民共和国 - 美国足球",
+      "summary": "美国 U-17 女子国家队在 2026 年 FIFA U-17 女子世界杯 16 强中以 2-1 击败西班牙，并将在四分之一决赛中对阵朝鲜民主主义人民共和国",
+      "originalTitle": "U.S U-17 Women's National Team Downs Spain, 2-1, in Round of 16 at 2026 FIFA U-17 Women's World Cup and Will Face Korea DPR in Quarterfinals - US Soccer",
+      "originalSummary": "U.S U-17 Women's National Team Downs Spain, 2-1, in Round of 16 at 2026 FIFA U-17 Women's World Cup and Will Face Korea DPR in Quarterfinals  US Soccer",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOWi1zRUdfUGhxQTVkdjF1aUFvTUd5U3ZoUzNYY09MaHRMWXRRVGtCWWhXajgzOWR4dUhzMzZIMTVDVDcwcFRFV3hmZ2taYl9tV0Rhc3VVNjhwaUNhTUtWYXVGSHNUb1FMYUdrUHc1dnFLSDcyQ2lqLXdrWXR3TDBfdEJCeEV6WEYwNkdKY1NXWVpDdDhGQWxibGh5WnNsb3N5QUVnaDFKVlBVZTkxUGdMVzk2Zy1WUQ?oc=5",
+      "publishedAt": "2026-10-29T21:46:27+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-news-nigeria-2-1-mexico-oct-29-2026-final-score-espn",
+      "title": "尼日利亚 2-1 墨西哥（2026 年 10 月 29 日）最终比分 - ESPN",
+      "summary": "尼日利亚 2-1 墨西哥（2026 年 10 月 29 日）最终比分 ESPN",
+      "originalTitle": "Nigeria 2-1 Mexico (Oct 29, 2026) Final Score - ESPN",
+      "originalSummary": "Nigeria 2-1 Mexico (Oct 29, 2026) Final Score  ESPN",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVdLWUQwZ0Z4TFFiaFVxZXp0T28zVlNDcnpvdlB1ZHl5VkY4c1VNZDdVY3IyTE5DMk4wTU9DbjhUekIwcjRWNTNqY3BFdUVEQUlnY2JYeWYtWmdIMW95ZnI3NWE1MFRTdlNqSTFyVkIzQ3dlb09hVVNMajdvRU1TVA?oc=5",
+      "publishedAt": "2026-10-29T21:02:51+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-televisaunivision-quarterly-u-s-ad-revenue-falls-24-percent-but-world-cup-boosts-mexico-results-the-hollywoo",
+      "title": "TelevisaUnivision 美国季度广告收入下降 24%，但世界杯提升墨西哥业绩 - 好莱坞报道",
+      "summary": "TelevisaUnivision 美国季度广告收入下降 24%，但世界杯提升墨西哥业绩 - 好莱坞报道",
+      "originalTitle": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results - The Hollywood Reporter",
+      "originalSummary": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results  The Hollywood Reporter",
+      "translation": "online",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTdEMjlaUzd0LXBnUXBhSjM2VXozSHVvcmx0aHRlc1dHSnN5cGk3Ni1qVlpKWHRSZTBiZlFja0EtTlEwYkp2Vi1raDVfNGFINUJCT19iRmtPZ01kNm5zUlZNNTl1ZjlSa0phaGdTWUk3aVdiNFg4djloZldOTFZmU2lDeDRnUXl0b1EwTjcyOTNzV0YyLU9iWEtPaWNhNFNIWS1SZ1BUU2lsWWhVc1g0T0N1SFBzRUtYbkJta2NYbEgxeGRlb3c?oc=5",
+      "publishedAt": "2026-10-29T20:31:15+00:00",
+      "heat": 52
+    },
     {
       "id": "google-news-u-17-world-cup-flamingos-edge-mexico-2-1-to-reach-quarter-finals-businessday-ng",
       "title": "U-17 世界杯：火烈鸟队以 2-1 击败墨西哥队进入四分之一决赛 - Businessday NG",
@@ -56,40 +128,16 @@
       "heat": 52
     },
     {
-      "id": "google-news-2026-fifa-u-17-women-s-world-cup-round-of-16-china-pr-vs-france-tsn",
-      "title": "2026 年 FIFA U-17 女子世界杯：16 强 - 中国队 vs 法国队 - TSN",
-      "summary": "2026 年 FIFA U-17 女子世界杯：16 强 - 中国队 vs 法国队 TSN",
-      "originalTitle": "2026 FIFA U-17 Women's World Cup: Round of 16 - China PR vs. France - TSN",
-      "originalSummary": "2026 FIFA U-17 Women's World Cup: Round of 16 - China PR vs. France  TSN",
+      "id": "google-news-fifa-fever-aussie-searches-for-3-world-cup-host-cities-surged-before-socceroos-even-qualified-karryon",
+      "title": "FIFA 狂热：在澳大利亚队晋级之前，澳大利亚对 3 个世界杯主办城市的搜索量激增 - Karryon",
+      "summary": "FIFA 狂热：在澳大利亚队甚至没有晋级 Karryon 之前，澳大利亚对 3 个世界杯主办城市的搜索量激增",
+      "originalTitle": "FIFA fever: Aussie searches for 3 World Cup host cities surged before Socceroos even qualified - Karryon",
+      "originalSummary": "FIFA fever: Aussie searches for 3 World Cup host cities surged before Socceroos even qualified  Karryon",
       "translation": "online",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQV2hhbHlLNlZLQmF0MnFWcU82NXVWLUJRaWRqUkdCSElPZnZLQnVfeldBVlN4djVYb2ZJdnBENkhyck5mM2pSVFFHV3dyVmZDR2MzR19rRTBVSXF5dmpNWUVJSkFUSUFQOUN1Z1FERzFQR1h1bDNaM1FVM3BtbXowcGFxNGRlR0ZNYzI1OElvWklBY2xnYlQzZGRLRUlZRWFKbno4aVNqckY4Zw?oc=5",
-      "publishedAt": "2026-10-29T19:48:00+00:00",
+      "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1lUi05a19KcmZDel9JZEx5Z3BfdHBsRGNSczV3bm82QnNyS0YxYzBPZTh4UVFlX0I1MVRlM3FkSFVyeU5aSjU1ZHc0UGg2djhXYVJsSWRORHRMUnRFNXRQZHZsRUJQWjlOZ2VrdQ?oc=5",
+      "publishedAt": "2026-10-29T19:07:39+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-televisaunivision-quarterly-u-s-ad-revenue-falls-24-percent-but-world-cup-boosts-mexico-results-the-hollywoo",
-      "title": "TelevisaUnivision 美国季度广告收入下降 24%，但世界杯提升墨西哥业绩 - 好莱坞报道",
-      "summary": "TelevisaUnivision 美国季度广告收入下降 24%，但世界杯提升墨西哥业绩 - 好莱坞报道",
-      "originalTitle": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results - The Hollywood Reporter",
-      "originalSummary": "TelevisaUnivision Quarterly U.S. Ad Revenue Falls 24 Percent, But World Cup Boosts Mexico Results  The Hollywood Reporter",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPcTdEMjlaUzd0LXBnUXBhSjM2VXozSHVvcmx0aHRlc1dHSnN5cGk3Ni1qVlpKWHRSZTBiZlFja0EtTlEwYkp2Vi1raDVfNGFINUJCT19iRmtPZ01kNm5zUlZNNTl1ZjlSa0phaGdTWUk3aVdiNFg4djloZldOTFZmU2lDeDRnUXl0b1EwTjcyOTNzV0YyLU9iWEtPaWNhNFNIWS1SZ1BUU2lsWWhVc1g0T0N1SFBzRUtYbkJta2NYbEgxeGRlb3c?oc=5",
-      "publishedAt": "2026-10-29T19:31:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-nigeria-s-flamingos-advance-to-u-17-world-cup-quarter-finals-after-beating-mexico-2-1-head-topics",
-      "title": "尼日利亚火烈鸟队以 2-1 击败墨西哥队晋级 U-17 世界杯四分之一决赛 - Head Topics",
-      "summary": "尼日利亚火烈鸟队以 2-1 击败墨西哥队，晋级 U-17 世界杯四分之一决赛",
-      "originalTitle": "Nigeria's Flamingos Advance to U-17 World Cup Quarter-Finals After Beating Mexico 2-1 - Head Topics",
-      "originalSummary": "Nigeria's Flamingos Advance to U-17 World Cup Quarter-Finals After Beating Mexico 2-1  Head Topics",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2xROGxOUDRtY3o4Ry1lRlJ6eEVZbk85b2hxR0JQWXEtM3JTM1NjcXdFeXNaYVFIUEN1V3B1ZTFJcHk3N3FVakJlS3RGWkFFR2NLVVV1OUZnOEVkdU5nUlFKVXdoclNWRmhlWDFOR1FDMlRvZW9RamJLMHZFTmMyQ1JTcllycXQzZ3Fsanl3?oc=5",
-      "publishedAt": "2026-10-29T18:54:00+00:00",
-      "heat": 52
     },
     {
       "id": "google-news-what-to-watch-on-tv-today-21-oct-2026-the-daily-star",
@@ -106,7 +154,7 @@
     {
       "id": "google-news-fifa-u-17-women-s-world-cup-i-see-flamingos-in-the-final-abiola-backs-nigeria-against-venezuela-hails-ssa-ad",
       "title": "FIFA U-17 女子世界杯：“我在决赛中看到火烈鸟”——阿比奥拉支持尼日利亚对阵委内瑞拉，赞扬 SSA 阿德博耶的慈父支持 - Sports247尼日利亚",
-      "summary": "FIFA U-17 女子世界杯：“我在决赛中看到火烈鸟”——阿比奥拉支持尼日利亚对阵委内瑞拉，赞扬 SSA 阿德博耶的慈父支持 Sports247",
+      "summary": "FIFA U-17 女子世界杯：“我在决赛中看到火烈鸟”——阿比奥拉支持尼日利亚对阵委内瑞拉，赞扬 SSA 阿德博耶的慈父般的支持 Sports247 尼日利亚",
       "originalTitle": "FIFA U-17 Women’s World Cup: “I See Flamingos in the Final” – Abiola Backs Nigeria Against Venezuela, Hails SSA Adeboye’s Fatherly Support - Sports247 Nigeria",
       "originalSummary": "FIFA U-17 Women’s World Cup: “I See Flamingos in the Final” – Abiola Backs Nigeria Against Venezuela, Hails SSA Adeboye’s Fatherly Support  Sports247 Nigeria",
       "translation": "online",
@@ -148,7 +196,7 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQY0MweWxhSzhsdUF5NDc4V0I1Z3JfZGNCR2xiX3EyUTJjYzlPeGgwRWdYbUhmV0lldjZreDJXQUMwenVFaXF6Qll6RVpta1kxWFFoVDl2QTBXcUhtc1puY0FJc3F6OVNmYldCVWRCZk9uQmpLTUR5YkVKMS1ldUw3eWdXYW5DcVFoTHpDdmNvRjhBbXN5N1RyNENLYXhXbDlsSzV1RFFJMnRTRV9rZFhfTFp3aFo?oc=5",
-      "publishedAt": "2026-10-29T18:06:19+00:00",
+      "publishedAt": "2026-10-29T18:18:46+00:00",
       "heat": 60
     },
     {
@@ -164,42 +212,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-nigeria-2-1-mexico-oct-29-2026-final-score-espn",
-      "title": "尼日利亚 2-1 墨西哥（2026 年 10 月 29 日）最终比分 - ESPN",
-      "summary": "尼日利亚 2-1 墨西哥（2026 年 10 月 29 日）最终比分 ESPN",
-      "originalTitle": "Nigeria 2-1 Mexico (Oct 29, 2026) Final Score - ESPN",
-      "originalSummary": "Nigeria 2-1 Mexico (Oct 29, 2026) Final Score  ESPN",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORVdLWUQwZ0Z4TFFiaFVxZXp0T28zVlNDcnpvdlB1ZHl5VkY4c1VNZDdVY3IyTE5DMk4wTU9DbjhUekIwcjRWNTNqY3BFdUVEQUlnY2JYeWYtWmdIMW95ZnI3NWE1MFRTdlNqSTFyVkIzQ3dlb09hVVNMajdvRU1TVA?oc=5",
-      "publishedAt": "2026-10-29T18:00:11+00:00",
-      "heat": 44
-    },
-    {
-      "id": "google-news-if-we-had-reached-penalties-we-would-have-won-the-fifa-world-cup-argentina-star-makes-bold-claim-after-loss-",
-      "title": "“如果我们能打进点球，我们就能赢得世界杯”——阿根廷球星在决赛输给西班牙后大胆宣称 - Sportskeeda",
-      "summary": "“如果我们能打进点球，我们就会赢得 FIFA 世界杯”——阿根廷球星在决赛输给西班牙后大胆宣称",
-      "originalTitle": "“If we had reached penalties, we would have won the FIFA World Cup” - Argentina star makes bold claim after loss in final against Spain - Sportskeeda",
-      "originalSummary": "“If we had reached penalties, we would have won the FIFA World Cup” - Argentina star makes bold claim after loss in final against Spain  Sportskeeda",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNNHVKX1lhNU9hSmN3UXJMenpwYmJqRExPeVFucWcwdVZ2cjhiQm0tVF85aHdBd1dCYy1NVFhZcnJsQVhuSXFJekZHWjRSZ1M2eUhVMm5MZXl3SEFiNEhUcUxrcXBrLUM1cmRjRk5qWTNfNmt3cC1vTF9LbF8xUkx2RlQyU29uUmwwZHJ2WFVpSU1ER1REOVBkMW9IQlp5T0o1UWl4TkdmUnBOV1FDZTY1ZS1MMlpUOU43OURra3lRaHE4TzNIeHQ5MVZn?oc=5",
-      "publishedAt": "2026-10-29T18:00:00+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-cafwcl-2026-ampem-darkoa-beat-edo-queens-to-secure-final-tournament-ticket-africa-top-sports",
-      "title": "CAFWCL 2026：Ampem Darkoa 击败 Edo Queens 获得决赛门票 - Africa Top Sports",
-      "summary": "CAFWCL 2026：Ampem Darkoa 击败 Edo Queens 获得决赛门票 非洲顶级体育",
-      "originalTitle": "CAFWCL 2026: Ampem Darkoa Beat Edo Queens to Secure Final Tournament Ticket - Africa Top Sports",
-      "originalSummary": "CAFWCL 2026: Ampem Darkoa Beat Edo Queens to Secure Final Tournament Ticket  Africa Top Sports",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeHBfclhIODVUMlhMYXZhcTZkT1BtVV9EWGRlX1FiajJKelM2OUxkbE5NOGlhem1mOEtzRktyVHVtOEZsSE04V2w0c2pWcWJLNGx0WU1wX09NUktjZXdTT25lV3BYR003di1sblZReVE1YzY3Vk5GWk05VGlEMXQ2V2ZHbTVYMTZoc0JheTRJT25abEl2d0xZZGJ1M3o0TnA2V2tHUVB1SEZhUQ?oc=5",
-      "publishedAt": "2026-10-29T17:56:14+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-flamingos-beat-mexico-2-1-to-reach-2026-fifa-u-17-women-s-world-cup-quarter-finals-africa-top-sports",
       "title": "火烈鸟队2-1击败墨西哥队进入2026年国际足联U-17女足世界杯四分之一决赛 - 非洲顶级体育",
       "summary": "火烈鸟队 2-1 击败墨西哥队，进入 2026 年 FIFA U-17 女子世界杯四分之一决赛 非洲顶级体育",
@@ -208,20 +220,8 @@
       "translation": "online",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOamFSdG9LSGstY1hEXzlTczlNTjR5c0FHTU92LXNGRTRvSWRsX0dlYjlfQ3BXdWw0VGwta3ZsdUlpR2pweGpqTnVncHM1RVNBbzZzN2xnMG45dkoyVGFOazJfakpxZVhlTF9JRkxHeGFvclNsOGo5NF9CYmVBLTYycUd0enZoaTcyS25NMEFodlQxUUgxZVNXWm9KcklyMzB0WUxFQm5iYWZURWpCNnRsOEVYOA?oc=5",
-      "publishedAt": "2026-10-29T17:51:27+00:00",
+      "publishedAt": "2026-10-29T17:56:14+00:00",
       "heat": 60
-    },
-    {
-      "id": "google-news-flamingos-defeat-mexico-to-reach-world-cup-quarter-final-thecable",
-      "title": "火烈鸟队击败墨西哥队进入世界杯四分之一决赛 - TheCable",
-      "summary": "火烈鸟队击败墨西哥队进入世界杯四分之一决赛 TheCable",
-      "originalTitle": "Flamingos defeat Mexico to reach World Cup quarter-final - TheCable",
-      "originalSummary": "Flamingos defeat Mexico to reach World Cup quarter-final  TheCable",
-      "translation": "online",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZlVJQkd4a0FIRWttSFhBdjB6aURIYlVSenFibWltVDhLcXhZNG16U093b01FVzh2TGxUYWlmeVc0YTVhY1NCRGpmX3ROeTBXcHhMZ2FCeXAyQVpTS1p1cFNleFVSUnNMLTZTeE5IQmhOQ0xHelhKQ2tmSnViNmt5WGhOVWE4OTFE?oc=5",
-      "publishedAt": "2026-10-29T17:42:00+00:00",
-      "heat": 52
     }
   ]
 }
