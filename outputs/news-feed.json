@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T15:37:25.800972+00:00",
+  "updatedAt": "2026-11-13T21:51:22.051515+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "google-news-fifa-u-17-world-cup-qatar-2026-dazn",
+      "title": "国际足联 U-17 世界杯 Qatar 2026™ - DAZN",
+      "summary": "国际足联 U-17 世界杯 Qatar 2026™  DAZN",
+      "originalTitle": "FIFA U-17 World Cup Qatar 2026™ - DAZN",
+      "originalSummary": "FIFA U-17 World Cup Qatar 2026™  DAZN",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2hOZFVIamVQVTVmekoxRlk2Rm9QemhOdXEyV2g4b0NsVHpTU3VVdzNzNXJIVGVIdmNSZmxhNERYV2k1Tkh0dFp4YmRKWmJpMFo5ZUdJZDF2bDJJOWVHYjhWX3dPbjBWSlA0S3B0Q2Q4WGJWSHlPWnc0Vkc3eGJ6aW5xSWJWR2FiU3prZ2tQdw?oc=5",
+      "publishedAt": "2026-11-13T20:40:18+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-11-13T18:23:50+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-south-africa-2-2-kenya-13-nov-2026-team-stats-espn",
+      "title": "South Africa 2-2 Kenya (13 Nov, 2026) Team Stats - ESPN",
+      "summary": "South Africa 2-2 Kenya (13 Nov, 2026) Team Stats  ESPN",
+      "originalTitle": "South Africa 2-2 Kenya (13 Nov, 2026) Team Stats - ESPN",
+      "originalSummary": "South Africa 2-2 Kenya (13 Nov, 2026) Team Stats  ESPN",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNOXFXM005TTAyTlM5Z1NpZ3hWb05SSFlsU0ZKMkJfU2lnMW5lcmZzbkVNV0pVM0liRjZ4QXFhX2N6LUJKMU1NNFIzeE9ZMjF6aEwzdWJZNG5XSzMwNU1CeWJ3bzhua0xud3NsdVpGY1lUUHdYTVhGNmwzSDBmWUVKNERfaXR2c2Q3NWtkMGtB?oc=5",
+      "publishedAt": "2026-11-13T16:33:21+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-livestreams-south-africa-vs-kenya-world-cup-ｌｉｖｅ-ｓｔｒｅａｍ-ｆｒｅｅ-fifa-wc-2026-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-13-november-2026-日本取",
+      "title": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ",
+      "summary": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026  日本取引所グループ",
+      "originalTitle": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ",
+      "originalSummary": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026  日本取引所グループ",
+      "translation": "source",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOSGoxR0J5cWRSUzk2QktPWDllMm1ZMmNsaFRuOTdCSG5HM1VGQ0x0UFhRWEJueFBuRnFBSFFMSHJha0VxenM4V1RGYjVQclV1VURucVdGb2N6M2I2ZGFOSGRnMUVQNUcyT2FmWUZETi1sQnl3MEtaOGNtT0Rnel9nci1TdW1FYkVRdGVpS1ZOY1V5UGNHaXlSVVdhVWNyZDhRRjZYc01tbGpvMUs5OE9XU2Zob0Roc1k5UXl0bkFZa2o2Y1pDdXNOWjBKODk0YTNxZWtuTlRxQ29DdmUxNVZiT3dwalMxNDJsMjUwTDNjbkRackQ3Z3BuNEN2TGdyS2tqREJlVVA2RFhibk5ZVklUMGdXY01hdHZxbElwREh4VXU2R3MzTnBOMTZiOXg0SlNvU2Vxanh6QldHU3Nzb2k0RjZDenVFVlgtLXN1TUJ3?oc=5",
+      "publishedAt": "2026-11-13T15:37:14+00:00",
+      "heat": 68
+    },
     {
       "id": "google-news-dominican-republic-to-make-u-17-world-cup-debut-after-us-withdrawal-tempo-co-english",
       "title": "Dominican Republic to Make U-17 世界杯 Debut After US Withdrawal - Tempo.co English",
@@ -32,6 +80,30 @@
       "heat": 52
     },
     {
+      "id": "google-news-arda-güler-2026-27-hub-real-madrid-stats-new-2031-contract-josé-mourinho-role-türkiye-guide-turkish-football",
+      "title": "Arda Güler 2026/27 Hub: Real Madrid Stats, New 2031 Contract, José Mourinho Role & Türkiye Guide - turkish 足球",
+      "summary": "Arda Güler 2026/27 Hub: Real Madrid Stats, New 2031 Contract, José Mourinho Role & Türkiye Guide  turkish 足球",
+      "originalTitle": "Arda Güler 2026/27 Hub: Real Madrid Stats, New 2031 Contract, José Mourinho Role & Türkiye Guide - turkish football",
+      "originalSummary": "Arda Güler 2026/27 Hub: Real Madrid Stats, New 2031 Contract, José Mourinho Role & Türkiye Guide  turkish football",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOMGd1LUc2aFRqRGN5VmpBQWlnTk1ZSUE2c3M3T19lYVRzcXNXbEUxcmt6a3R1bEx6MWtnbHRocTVJRFZwcFlDYko3VlpPSjJoZVNia2taQ1hXbndRSTFhUDZGUEJldUFHaGZEd3A3cFgwLUtVU09lQnhuMHBablFzdjFtZE1wVDY1OTFxNUdZcXh2QQ?oc=5",
+      "publishedAt": "2026-11-13T14:23:55+00:00",
+      "heat": 44
+    },
+    {
+      "id": "google-news-lagos-state-university-student-assists-winning-goal-as-nigeria-wins-first-fifa-u-17-women-s-world-cup-head-t",
+      "title": "Lagos State University Student Assists Winning Goal 作为 Nigeria Wins First 国际足联 U-17 Women's 世界杯 - Head Topics",
+      "summary": "Lagos State University Student Assists Winning Goal 作为 Nigeria Wins First 国际足联 U-17 Women's 世界杯  Head Topics",
+      "originalTitle": "Lagos State University Student Assists Winning Goal as Nigeria Wins First FIFA U-17 Women's World Cup - Head Topics",
+      "originalSummary": "Lagos State University Student Assists Winning Goal as Nigeria Wins First FIFA U-17 Women's World Cup  Head Topics",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQmc3dnJzY3NFd09ya3kyOHEzd0phYlEyc01fMlk4WURXanlVdFJid3oxOHUzRGJ5cVZrTXdlM05Jd2JxTllJdFZkZVRHMHBFVWZYak1oOGs2bVhVdGN5ejlPcGJNa3cwVnE2UGdrZml6RVJkdUpSSmJjbTJybHhvNFNQWXdMMjFmck5KWmNGVFJTUGNMTGlMTzN3?oc=5",
+      "publishedAt": "2026-11-13T14:17:00+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-莱昂内尔-斯卡洛尼与阿根廷续约-目标是在2030年世界杯上创造历史性的里程碑-vietnam-vn",
       "title": "莱昂内尔·斯卡洛尼与阿根廷续约，目标是在2030年世界杯上创造历史性的里程碑。 - Vietnam.vn",
       "summary": "莱昂内尔·斯卡洛尼与阿根廷续约，目标是在2030年世界杯上创造历史性的里程碑。  Vietnam.vn",
@@ -42,6 +114,18 @@
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVVVTUh6OUdfcDB6Tk9JUl9Fa1hqZGZ3VGJ0bEhlQXFtdzNMN2x2UDY1V203aHhWeE5sRmZ2Qk1RVG4zSkJidkZSVG1KSXlqUVNmanN2YUQ4Mmo2TGFMeHZlb0V6Wk04TzNOTjNQUWdmS3h4bC1JLWhxOG81Rmx6WEpfOUtKS3JselFNb0J2WnE5eWlzbXNjQV9FYU5hMndQSDBTOEIyQ28xaDdiN2VF?oc=5",
       "publishedAt": "2026-11-13T13:29:01+00:00",
       "heat": 52
+    },
+    {
+      "id": "google-news-cape-verde-africa-s-democratic-oddity-is-set-to-choose-its-next-president-globalpost-com",
+      "title": "佛得角, Africa’s ‘Democratic Oddity,’ Is Set to Choose Its Next President - globalpost.com",
+      "summary": "佛得角, Africa’s ‘Democratic Oddity,’ Is Set to Choose Its Next President  globalpost.com",
+      "originalTitle": "Cape Verde, Africa’s ‘Democratic Oddity,’ Is Set to Choose Its Next President - globalpost.com",
+      "originalSummary": "Cape Verde, Africa’s ‘Democratic Oddity,’ Is Set to Choose Its Next President  globalpost.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNbGYwTkZ6M19Qdk5DWDJLV3dfNXEwa2hPWDVIVDc4d1pPcEQwRTk3bUtRamxEeTVIZDQxYS1JN3MzV3paTVp6R2gydlo5cWptc3FORUkwbmlMTWpsWHV0aTdOc2VjM2p0U1dBY1kxbklrQmxnVWdzdWNCQ01hVlEzM0lyc3BOU0QtODJxb1NkMl9aTXllSEdKdGczcWtuNkxoZHNnc1JOSQ?oc=5",
+      "publishedAt": "2026-11-13T12:50:06+00:00",
+      "heat": 44
     },
     {
       "id": "google-news-how-flamingos-ended-africa-s-long-wait-for-women-s-world-cup-glory-channels-television",
@@ -88,20 +172,32 @@
       "translation": "local",
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNeUZEd0M5UzFxNlVFZmpWTTVEdG0zSXZET00yQzZSVjJ5RXFyYnZfX1UxUElmaXdleEdlMzM5NjVVb0lJNERzdXU3bE9ZWW9uVVZPQ1NmQkVjR0dJekQtcUpEMWJfZDdVdVJ5bHRkRDkyNGI1c2dUT0U4UUp0S2t5dVFzMG1kYk8wTHE2Y3RXcmxkbnV3TzlmbXJsZmNiN2RROHU4anBtSVVpWjlpZGx1bFBIbGNmbi1YdW5KTkZMMHBOSXd4aGFF?oc=5",
-      "publishedAt": "2026-11-13T12:00:00+00:00",
+      "publishedAt": "2026-11-13T12:01:08+00:00",
       "heat": 52
     },
     {
-      "id": "google-news-benni-mccarthy-says-bafana-bafana-could-have-done-better-at-2026-world-cup-under-pitso-mosimane-iharare-news",
-      "title": "Benni McCarthy Says Bafana Bafana Could Have Done Better at 2026 世界杯 Under Pitso Mosimane - iHarare News",
-      "summary": "Benni McCarthy Says Bafana Bafana Could Have Done Better at 2026 世界杯 Under Pitso Mosimane  iHarare News",
-      "originalTitle": "Benni McCarthy Says Bafana Bafana Could Have Done Better at 2026 World Cup Under Pitso Mosimane - iHarare News",
-      "originalSummary": "Benni McCarthy Says Bafana Bafana Could Have Done Better at 2026 World Cup Under Pitso Mosimane  iHarare News",
+      "id": "google-news-5-southeast-asian-based-players-going-to-2026-fifa-world-cup-spotv-now",
+      "title": "5 Southeast Asian-based players going to 2026 国际足联 世界杯 - SPOTV NOW",
+      "summary": "5 Southeast Asian-based players going to 2026 国际足联 世界杯  SPOTV NOW",
+      "originalTitle": "5 Southeast Asian-based players going to 2026 FIFA World Cup - SPOTV NOW",
+      "originalSummary": "5 Southeast Asian-based players going to 2026 FIFA World Cup  SPOTV NOW",
       "translation": "local",
       "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPYy0tRkRya2JPQ0hYc2NJb3QtU1BTUGY0Y2g0NWFvQTZYek5DZGwyamRQbjhlaTJLd1lhUFpiMmhUUUVLb0J3eEVNQU5KcUh2bURHVVVYU2RUQ1ZqQjJVaVpRd3dkTmQxSGhCclRWcnBGNFVZdXFWdXBFUllzZXU0VS1fNWp1YUd6MEFtNGl3M1dUZ3dMM2gxSlZzd2h0eWJJb1B0Y29CaUlmUHNZbkxBWkNleXBYQUE?oc=5",
-      "publishedAt": "2026-11-13T10:17:02+00:00",
-      "heat": 52
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMjZkMk9HNHgwZDM2MjJwYVYxUWRYNE1wQW1VempEYkJhb0M5Slh5aW5VcFN5NGhKZmZsZmFEZnktWVNyM2V4RzZvM04xNFoyc1RZY1ppOHBlN0VneGtVTzNUQjRDZjN6eVI0V1gwSHNMbEpuazFvZ0Z0VWlwaWFtTDFpQmtPMlpvY21KRTlQOG9SOExOUWc?oc=5",
+      "publishedAt": "2026-11-13T11:22:57+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-首发阵容-united-states-paraguay-4-1-fifa-world-cup-2026-international-forza-football",
+      "title": "首发阵容 United States - Paraguay (4-1), FIFA World Cup 2026, International - Forza Football",
+      "summary": "首发阵容 United States - Paraguay (4-1), FIFA World Cup 2026, International  Forza Football",
+      "originalTitle": "首发阵容 United States - Paraguay (4-1), FIFA World Cup 2026, International - Forza Football",
+      "originalSummary": "首发阵容 United States - Paraguay (4-1), FIFA World Cup 2026, International  Forza Football",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPeFdOcExac1dFdXpFSmZDX0RBcFduT3BwdFRWZlFxeTh6NE9CaE9qV0hhbnh5dFRvdkFBUFEtandtN2lKMUgtcTRNUTJmU3NLeWV4N2pSWUlIVDNtcTdNaHFOVy1MQVVDY0Ria0k5M0JwNjNnUG9VTGJ1VU40OWhQT09FUU5HZGlH?oc=5",
+      "publishedAt": "2026-11-13T08:04:15+00:00",
+      "heat": 60
     },
     {
       "id": "google-新闻-中文-fifa官方-美国队确认退出u17世界杯-赛事安全评估不变-企鹅体育",
@@ -125,102 +221,6 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTk9OcEktZXpvMGRPWW8xclBKWTY3YklRSmU1d285X0Z0bnVsWmRyZVZ0OEIwT3VHOVdXQXlPanhLSkRSMXpwWGpCaEZibU9HVFhBay1GN2otbGFmMUF4TzNQcG1DeWY2dTRkZDgxUW5kUHVRWWZ3cHB2OGhIX2NfbTRualY3cXRnd19TNDVJNlp6YkdjZkxvN29fTjUtSXFNaE0zVEY4RGJ4cGxJWE9VaWJWU1BfckhBenc?oc=5",
       "publishedAt": "2026-11-13T07:42:44+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-西足协告知fifa-2030世界杯决赛必须留在西班牙-伯纳乌为首选-直播吧",
-      "title": "西足协告知FIFA：2030世界杯决赛必须留在西班牙，伯纳乌为首选 - 直播吧",
-      "summary": "西足协告知FIFA：2030世界杯决赛必须留在西班牙，伯纳乌为首选  直播吧",
-      "originalTitle": "西足协告知FIFA：2030世界杯决赛必须留在西班牙，伯纳乌为首选 - 直播吧",
-      "originalSummary": "西足协告知FIFA：2030世界杯决赛必须留在西班牙，伯纳乌为首选  直播吧",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE4wUVpteG9kZ3JILXJfbmxRNDVPR2dLWjZOUm5HWXhmXzhqWVNWR2h5YnAySTFZSkc0WG1OQ1M0cTRaLVZqRnZaZ1YxNnNYdEotcDMzSnNEUy1feTg5Q2duS3hJbWlwbHF5Szl5Y0RrbFBIUQ?oc=5",
-      "publishedAt": "2026-11-13T06:11:54+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-economics-of-the-world-cup-ticket-prices-revenue-costs-social-impact-britannica",
-      "title": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "summary": "Economics of the 世界杯 | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
-      "originalTitle": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact - Britannica",
-      "originalSummary": "Economics of the World Cup | Ticket Prices, Revenue, Costs, & Social Impact  Britannica",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9HNmJ3clJKQTExMFBrYTBIeWM5SkZFd1BiZlJicjhuOEZSa2wwMjlUbU0zX3RfT3hzSDl1QUJSUnBabGRaTHlVaFBBREZnWHkySDJNdVZaS1hRS20zcU9OdDVQVlA0c3A1c0ZNS2g0TkFqdw?oc=5",
-      "publishedAt": "2026-11-13T05:46:33+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-11-13T05:13:25+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-国安迎来转机-解除fifa禁令-冬窗续约引援全面启动-林良铭自由身危机倒计时-sohu",
-      "title": "国安迎来转机：解除FIFA禁令，冬窗续约引援全面启动！林良铭自由身危机倒计时 - Sohu",
-      "summary": "国安迎来转机：解除FIFA禁令，冬窗续约引援全面启动！林良铭自由身危机倒计时  Sohu",
-      "originalTitle": "国安迎来转机：解除FIFA禁令，冬窗续约引援全面启动！林良铭自由身危机倒计时 - Sohu",
-      "originalSummary": "国安迎来转机：解除FIFA禁令，冬窗续约引援全面启动！林良铭自由身危机倒计时  Sohu",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQNy1GUHJwVEMtVTNYemtyQlRxQmpoVUZyeF9qQ0tHcldVSDlyWXVzcTBOU193ZFZOUURNSGFDYVQ2eUVrRUhZYm9QWTVMcUxxWVo4N1NhSkhnOFVaM1g5aFZwSTU0aE5MTDhDTHdTaEVQVGdLRjVTT1E3U3hNd05JUDBfbW5fcW5CQ2JRbw?oc=5",
-      "publishedAt": "2026-11-13T03:59:13+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-dominican-republic-to-replace-u-s-at-fifa-u-17-world-cup-in-qatar-xinhua",
-      "title": "Dominican Republic to replace U.S. at 国际足联 U-17 世界杯 in Qatar - Xinhua",
-      "summary": "Dominican Republic to replace U.S. at 国际足联 U-17 世界杯 in Qatar  Xinhua",
-      "originalTitle": "Dominican Republic to replace U.S. at FIFA U-17 World Cup in Qatar - Xinhua",
-      "originalSummary": "Dominican Republic to replace U.S. at FIFA U-17 World Cup in Qatar  Xinhua",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5HbUtQeFNueXI3ZVplNWp6anZBTkxER19WalpQSEhQUXFOU0I3dGtSejdjLVV3SzlrUVQ2WUFQTlZkQnE2dlo3ZXpzXy1iYW1ZaVlpR2RqZmJMM3g3RTZYN0JYNS01YkJndklNMnM3eHVPSXFOTVhyWnlleTc?oc=5",
-      "publishedAt": "2026-11-13T03:48:15+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-real-madrid-liverpool-arsenal-and-bayern-munich-adidas-bets-on-clubs-to-expand-its-business-after-the-world-",
-      "title": "Real Madrid, Liverpool, Arsenal, and Bayern Munich: Adidas bets on clubs to expand its business after the 世界杯 - Revista Merca2.0",
-      "summary": "Real Madrid, Liverpool, Arsenal, and Bayern Munich: Adidas bets on clubs to expand its business after the 世界杯  Revista Merca2.0",
-      "originalTitle": "Real Madrid, Liverpool, Arsenal, and Bayern Munich: Adidas bets on clubs to expand its business after the World Cup - Revista Merca2.0",
-      "originalSummary": "Real Madrid, Liverpool, Arsenal, and Bayern Munich: Adidas bets on clubs to expand its business after the World Cup  Revista Merca2.0",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeXFORDhFY29RSER2RFI3QVBTUjBXYTdncDFBdkFqX3dzZ1JheTlnbU9tblR0UGdPOEplcXJzMkM3b0xJMkZSR0ZGa2NEU0lCNU0tRllCX2g1Z0NLZlJrUWpNMGQ5b29XSlUyT2dHSWdBRGkzU1ZlTElETWVqbG1vV1d2VlNhc0tmV2F1MjVIQ1lrVjFnWVB2THpFdUFmMWJfb2ttSEpzU2QwQUdIRjJ4dFVudHB3LU1hejMzdmV1b0FzaERVNjZyWWhKcm1oVVBHY0E?oc=5",
-      "publishedAt": "2026-11-12T22:58:35+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-news-boycotts-bans-and-no-shows-notable-world-cup-absentees-dw-com",
-      "title": "Boycotts, bans and no-shows: Notable 世界杯 absentees - DW.com",
-      "summary": "Boycotts, bans and no-shows: Notable 世界杯 absentees  DW.com",
-      "originalTitle": "Boycotts, bans and no-shows: Notable World Cup absentees - DW.com",
-      "originalSummary": "Boycotts, bans and no-shows: Notable World Cup absentees  DW.com",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejdQMXRMdElLYkVmNlZlX1J1dllHbTF5NUpiWmVPNUVSVmNSN1hJempSd3lsTE50UXU0NEVBYVVwanVoNjFDbGZ1WnhRVWQxa3FOR2U4b2Zmc245SGZTS1VLRVpKUDRDeEw2SFVhLXBjUWZBNldJVlkyUVVqV19UNzlMVVFYaTRGYTFmMFR0RE4?oc=5",
-      "publishedAt": "2026-11-12T22:20:15+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-argentina-extend-head-coach-lionel-scaloni-s-contract-through-2030-world-cup-fox-sports",
-      "title": "Argentina Extend Head Coach Lionel Scaloni’s Contract Through 2030 世界杯 - FOX Sports",
-      "summary": "Argentina Extend Head Coach Lionel Scaloni’s Contract Through 2030 世界杯  FOX Sports",
-      "originalTitle": "Argentina Extend Head Coach Lionel Scaloni’s Contract Through 2030 World Cup - FOX Sports",
-      "originalSummary": "Argentina Extend Head Coach Lionel Scaloni’s Contract Through 2030 World Cup  FOX Sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTWFCMWpBQkRYQ2xMcnowYjctYkxyVEpQc0ZxV2NXSGNpakI0QjhnUjVLSDB3ZlBMVGxTYnZscTY0azFrSDBhZGRyQTF6MUxFTmRBWVZzcWZFamlHaTMzeHBveU1vTlV1YTJONFVSMXRsZDBGLTRpbWgycDhtb3VuTFc3ZFU3T1Bpa3ZJYVhVcmVrQ1BTWm5abS1HME9uX2lyYzlHb0RKUUJGLWpEMHdJTGxIVXBxQ2YxVlFiM1NOSW9SbjJJ?oc=5",
-      "publishedAt": "2026-11-12T21:40:16+00:00",
       "heat": 52
     }
   ]
