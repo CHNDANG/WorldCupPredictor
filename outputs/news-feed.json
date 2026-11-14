@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T02:06:14.080080+00:00",
+  "updatedAt": "2026-11-14T09:17:11.800680+00:00",
   "provider": "Google News RSS + ESPN RSS",
   "sources": [
     "Google 新闻 中文",
@@ -7,6 +7,54 @@
     "ESPN 足球"
   ],
   "articles": [
+    {
+      "id": "espn-足球-scaloni-calls-for-rebuild-as-argentina-fall-in-first-game-without-messi",
+      "title": "Scaloni calls for 'rebuild' 作为 Argentina fall in first game without Messi",
+      "summary": "Argentina lost 2-1 to Uruguay in a friendly on Friday in its first game since Lionel Messi's international retirement.",
+      "originalTitle": "Scaloni calls for 'rebuild' as Argentina fall in first game without Messi",
+      "originalSummary": "Argentina lost 2-1 to Uruguay in a friendly on Friday in its first game since Lionel Messi's international retirement.",
+      "translation": "local",
+      "source": "ESPN 足球",
+      "url": "https://www.espn.com/soccer/story/_/id/50476278/scaloni-calls-rebuild-argentina-fall-first-messi",
+      "publishedAt": "2026-11-14T08:00:21+00:00",
+      "heat": 40
+    },
+    {
+      "id": "espn-足球-egyptian-king-salah-becomes-country-s-record-goalscorer-with-panenka-penalty",
+      "title": "埃及ian King: 萨拉赫 becomes country's record 进球scorer with Panenka penalty",
+      "summary": "Mohamed 萨拉赫 broke 埃及's all-time scoring record with two 进球s in a 5-0 Africa Cup of Nations qualifying win over Malawi.",
+      "originalTitle": "Egyptian King: Salah becomes country's record goalscorer with Panenka penalty",
+      "originalSummary": "Mohamed Salah broke Egypt's all-time scoring record with two goals in a 5-0 Africa Cup of Nations qualifying win over Malawi.",
+      "translation": "local",
+      "source": "ESPN 足球",
+      "url": "https://www.espn.com/soccer/story/_/id/50475034/mohamed-salah-egypt-record-goalscorer-malawi",
+      "publishedAt": "2026-11-14T08:00:21+00:00",
+      "heat": 40
+    },
+    {
+      "id": "google-news-vietnam-u17-make-world-cup-debut-as-fifa-president-predicts-surprises-báo-vietnamnet",
+      "title": "Vietnam U17 make 世界杯 首秀 作为 国际足联 president predicts surprises - Báo VietNamNet",
+      "summary": "Vietnam U17 make 世界杯 首秀 作为 国际足联 president predicts surprises  Báo VietNamNet",
+      "originalTitle": "Vietnam U17 make World Cup debut as FIFA president predicts surprises - Báo VietNamNet",
+      "originalSummary": "Vietnam U17 make World Cup debut as FIFA president predicts surprises  Báo VietNamNet",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxONGhzWkJYLWNZVVRlQWkxalV3TTdSNVZPT0JXNGR5YWpUSTM0UXI1a2ljZkwzb2Jxb3V4SW9BS2xlUmk4YnpJSmo0Mm9lQ3NjeXJfdW0wY0lFU21WaUpib0FWWGlDYzlDU2JDbXpIb2p3dVlSVTFEeTRvbFBScFBVODlWaGRNLTdjU3JfdVJtVjVZaWNqTlBrWWR5Nnd6OFJHc2pXclJ2a0pCdnc?oc=5",
+      "publishedAt": "2026-11-14T04:27:00+00:00",
+      "heat": 60
+    },
+    {
+      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
+      "title": "2026世界杯足球赛 - 美国之音",
+      "summary": "2026世界杯足球赛  美国之音",
+      "originalTitle": "2026世界杯足球赛 - 美国之音",
+      "originalSummary": "2026世界杯足球赛  美国之音",
+      "translation": "source",
+      "source": "Google 新闻 中文",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
+      "publishedAt": "2026-11-14T03:37:28+00:00",
+      "heat": 52
+    },
     {
       "id": "google-新闻-中文-不仅是印尼国家队-东盟五国也缺席了fifa比赛-arch-web-com-tw",
       "title": "不仅是印尼国家队，东盟五国也缺席了FIFA比赛 - arch-web.com.tw",
@@ -20,18 +68,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-argentina-beaten-by-uruguay-in-first-game-since-messi-retirement-yahoo-sports",
-      "title": "Argentina beaten by Uruguay in first game since Messi retirement - Yahoo Sports",
-      "summary": "Argentina beaten by Uruguay in first game since Messi retirement  Yahoo Sports",
-      "originalTitle": "Argentina beaten by Uruguay in first game since Messi retirement - Yahoo Sports",
-      "originalSummary": "Argentina beaten by Uruguay in first game since Messi retirement  Yahoo Sports",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT1pncDdaZTNJS21VR2xNSk5RSTVtYzNoeWpZTFItSXFxZl9XYmpHTjY2dkFLYTFGMFlZQ0Y2d2VsQ0lJcUs1V05KS3NMbkVodU9ndjVhYWlhdDNYOEFEcTUwLU0tQUMxMmxtZDAxWjhiU1JaYUROLVIzWThrOExYbnZ2cGpBQ2k4WHFaNA?oc=5",
-      "publishedAt": "2026-11-14T01:10:00+00:00",
-      "heat": 44
-    },
-    {
       "id": "google-news-ecuador-vs-costa-rica-14-nov-2026-live-score-espn-singapore",
       "title": "厄瓜多尔 vs. Costa Rica (14 Nov, 2026) Live Score - ESPN Singapore",
       "summary": "厄瓜多尔 vs. Costa Rica (14 Nov, 2026) Live Score  ESPN Singapore",
@@ -41,6 +77,18 @@
       "source": "Google News",
       "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE95Qko4dFhpQVJjOHQtT1B6Z0kyMWRCUGdodWxVMUFueElsWkpEa1JDNGp3S3JNdExZS2kyV21UZHk4bXJEUU52UEEwLXNDaVJ2aGhRTnowMGt6a0x1SDFibGh1S3NTQ2R2?oc=5",
       "publishedAt": "2026-11-14T00:53:52+00:00",
+      "heat": 52
+    },
+    {
+      "id": "google-news-boycotts-bans-and-no-shows-notable-world-cup-absentees-dw-com",
+      "title": "Boycotts, bans and no-shows: Notable 世界杯 absentees - DW.com",
+      "summary": "Boycotts, bans and no-shows: Notable 世界杯 absentees  DW.com",
+      "originalTitle": "Boycotts, bans and no-shows: Notable World Cup absentees - DW.com",
+      "originalSummary": "Boycotts, bans and no-shows: Notable World Cup absentees  DW.com",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPejdQMXRMdElLYkVmNlZlX1J1dllHbTF5NUpiWmVPNUVSVmNSN1hJempSd3lsTE50UXU0NEVBYVVwanVoNjFDbGZ1WnhRVWQxa3FOR2U4b2Zmc245SGZTS1VLRVpKUDRDeEw2SFVhLXBjUWZBNldJVlkyUVVqV19UNzlMVVFYaTRGYTFmMFR0RE4?oc=5",
+      "publishedAt": "2026-11-14T00:21:46+00:00",
       "heat": 52
     },
     {
@@ -92,18 +140,6 @@
       "heat": 52
     },
     {
-      "id": "google-news-fifa-u-17-world-cup-qatar-2026-dazn",
-      "title": "国际足联 U-17 世界杯 Qatar 2026™ - DAZN",
-      "summary": "国际足联 U-17 世界杯 Qatar 2026™  DAZN",
-      "originalTitle": "FIFA U-17 World Cup Qatar 2026™ - DAZN",
-      "originalSummary": "FIFA U-17 World Cup Qatar 2026™  DAZN",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQN2hOZFVIamVQVTVmekoxRlk2Rm9QemhOdXEyV2g4b0NsVHpTU3VVdzNzNXJIVGVIdmNSZmxhNERYV2k1Tkh0dFp4YmRKWmJpMFo5ZUdJZDF2bDJJOWVHYjhWX3dPbjBWSlA0S3B0Q2Q4WGJWSHlPWnc0Vkc3eGJ6aW5xSWJWR2FiU3prZ2tQdw?oc=5",
-      "publishedAt": "2026-11-13T20:40:18+00:00",
-      "heat": 60
-    },
-    {
       "id": "google-news-celebrating-nigeria-s-six-world-cup-winning-coaches-tribune-online",
       "title": "Celebrating Nigeria’s six 世界杯-winning 主帅es - Tribune Online",
       "summary": "Celebrating Nigeria’s six 世界杯-winning 主帅es  Tribune Online",
@@ -114,30 +150,6 @@
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOdDY2eXpNU0hFSnljc0tXbUdyaEVmX1NHNDlaS011M3NSeHpIOTRLMmJfR2dod3JoQjBfOEh1b3VmR2NhYndkRmRBWlpEd0FsUmVEd3NUb04zbl9vLTFSa3JuWkdKdGc2R2JTa1Q1NWNJSHU2aGNOcXlscVRlX1JGNDBZcmxkUQ?oc=5",
       "publishedAt": "2026-11-13T19:54:00+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-新闻-中文-2026世界杯足球赛-美国之音",
-      "title": "2026世界杯足球赛 - 美国之音",
-      "summary": "2026世界杯足球赛  美国之音",
-      "originalTitle": "2026世界杯足球赛 - 美国之音",
-      "originalSummary": "2026世界杯足球赛  美国之音",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE14SDJVQnBKUkEzbUhiNnZpZlI3SFlkS1NHcnZuUXJZZWRyNlZKOGg5X3VPU3JqRGRlTDYtV1FZSUdUTXdtVHd5akpnRkJDNFlJ?oc=5",
-      "publishedAt": "2026-11-13T18:23:50+00:00",
-      "heat": 52
-    },
-    {
-      "id": "google-news-livestreams-south-africa-vs-kenya-world-cup-ｌｉｖｅ-ｓｔｒｅａｍ-ｆｒｅｅ-fifa-wc-2026-ｏｎ-ｔｖ-ｃｈａｎｎｅｌ-13-november-2026-日本取",
-      "title": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ",
-      "summary": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026  日本取引所グループ",
-      "originalTitle": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026 - 日本取引所グループ",
-      "originalSummary": "+>[LIVESTREAms] South Africa vs Kenya World Cup ＬＩＶＥ Ｓｔｒｅａｍ Ｆｒｅｅ FIFA WC 2026 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 13 November 2026  日本取引所グループ",
-      "translation": "source",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMizgJBVV95cUxOSGoxR0J5cWRSUzk2QktPWDllMm1ZMmNsaFRuOTdCSG5HM1VGQ0x0UFhRWEJueFBuRnFBSFFMSHJha0VxenM4V1RGYjVQclV1VURucVdGb2N6M2I2ZGFOSGRnMUVQNUcyT2FmWUZETi1sQnl3MEtaOGNtT0Rnel9nci1TdW1FYkVRdGVpS1ZOY1V5UGNHaXlSVVdhVWNyZDhRRjZYc01tbGpvMUs5OE9XU2Zob0Roc1k5UXl0bkFZa2o2Y1pDdXNOWjBKODk0YTNxZWtuTlRxQ29DdmUxNVZiT3dwalMxNDJsMjUwTDNjbkRackQ3Z3BuNEN2TGdyS2tqREJlVVA2RFhibk5ZVklUMGdXY01hdHZxbElwREh4VXU2R3MzTnBOMTZiOXg0SlNvU2Vxanh6QldHU3Nzb2k0RjZDenVFVlgtLXN1TUJ3?oc=5",
-      "publishedAt": "2026-11-13T15:37:14+00:00",
-      "heat": 68
     },
     {
       "id": "google-news-dominican-republic-to-make-u-17-world-cup-debut-after-us-withdrawal-tempo-co-english",
@@ -176,6 +188,18 @@
       "heat": 44
     },
     {
+      "id": "google-news-sunderland-contingent-heading-to-fifa-world-cup-2026-sunderland-afc",
+      "title": "Sunderland contingent heading to 国际足联 世界杯 2026 - Sunderland AFC",
+      "summary": "Sunderland contingent heading to 国际足联 世界杯 2026  Sunderland AFC",
+      "originalTitle": "Sunderland contingent heading to FIFA World Cup 2026 - Sunderland AFC",
+      "originalSummary": "Sunderland contingent heading to FIFA World Cup 2026  Sunderland AFC",
+      "translation": "local",
+      "source": "Google News",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVjRvRlBPdDVsdmwyQnZPN2x4c3ZLUmx0NlpkaDlpWXpCR2l1SWNKQUswSEVWOHpzU3JRRm5qZkFnVDJqUk1MSm1oZlZDTW1XcDB2STFGRGZQVUYwWkhSTHYwcTRoSUZsLXBQakE1aHVOQUlacUZxN0oyMG1DRnJRNTE5dlU5Xzgwb3ZUOUxSZ29kZVlMTDZubjMyZG4?oc=5",
+      "publishedAt": "2026-11-13T14:04:51+00:00",
+      "heat": 60
+    },
+    {
       "id": "google-新闻-中文-莱昂内尔-斯卡洛尼与阿根廷续约-目标是在2030年世界杯上创造历史性的里程碑-vietnam-vn",
       "title": "莱昂内尔·斯卡洛尼与阿根廷续约，目标是在2030年世界杯上创造历史性的里程碑。 - Vietnam.vn",
       "summary": "莱昂内尔·斯卡洛尼与阿根廷续约，目标是在2030年世界杯上创造历史性的里程碑。  Vietnam.vn",
@@ -198,30 +222,6 @@
       "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPRWlqT1ZnNVJzTUJWQTU3czNXVUR5OVF1X3dPdWxGQURfUXNDZkh3cGhCQkVMcmEtM2t2RlZ1ZzdhX2VQUktPUHJ6d2d6SDhROXZYRFBwUk1NRnRNenhkcGJzTXZwNEdydWszRU1MbTRvTG1qTmFvbjZDSzdJRER3aXA1bHRKRTA3VG5hYlhNajJHdXl1d1JOVmZ4UU0wZ0FHVV9WYUVn?oc=5",
       "publishedAt": "2026-11-13T12:31:37+00:00",
       "heat": 52
-    },
-    {
-      "id": "google-news-golden-ball-is-my-first-award-in-life-flamingos-star-umejiaku-relives-world-cup-glory-channels-television",
-      "title": "Golden Ball Is My First Award in Life,’ Flamingos Star Umejiaku Re实时s 世界杯 Glory - Channels Television",
-      "summary": "Golden Ball Is My First Award in Life,’ Flamingos Star Umejiaku Re实时s 世界杯 Glory  Channels Television",
-      "originalTitle": "‘Golden Ball Is My First Award in Life,’ Flamingos Star Umejiaku Relives World Cup Glory - Channels Television",
-      "originalSummary": "‘Golden Ball Is My First Award in Life,’ Flamingos Star Umejiaku Relives World Cup Glory  Channels Television",
-      "translation": "local",
-      "source": "Google News",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQS0pBNWtjbEVHQ1JWcFZMajFZVHFJV296R3BRcFdhRDB4X2VCVkllaF9fcklxYUxQcWN1QXlTcG9EcEg1QTlQRUQxT19YMzVXbkpZV0VvSU1qWktTVHVUbERPQTNSWWtDSlZZbjlkNUpqWW9hT2JvY3FlWXRvODNQRzB4VmQ3cFNjTzBTaVlJT2N2VENzRUtKNG1SQlpqX3pkV1NzaEphOVlWanM4V1RTZ2RMWmdjTzY3dXZWdUVJSk5TM3hvdGdSZzNR?oc=5",
-      "publishedAt": "2026-11-13T12:29:42+00:00",
-      "heat": 60
-    },
-    {
-      "id": "google-新闻-中文-美国因安全原因退出-fifa-u-17-世界杯-uza-uz",
-      "title": "美国因安全原因退出“FIFA U-17”世界杯 - UZA.uz",
-      "summary": "美国因安全原因退出“FIFA U-17”世界杯  UZA.uz",
-      "originalTitle": "美国因安全原因退出“FIFA U-17”世界杯 - UZA.uz",
-      "originalSummary": "美国因安全原因退出“FIFA U-17”世界杯  UZA.uz",
-      "translation": "source",
-      "source": "Google 新闻 中文",
-      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5jeXVsMndsbTVkSlA0OUhqWGdBQnpGTFFTbWRFOFFjV2JtNUM1S3ZJXzBjMzhLUGgxdXFnYWx2d0VYM2pMZWd0a25tamg0OU4zMFE?oc=5",
-      "publishedAt": "2026-11-13T12:16:13+00:00",
-      "heat": 60
     }
   ]
 }
